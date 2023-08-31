@@ -29,6 +29,8 @@ const parseItem = (item) => {
     return {
         id: `patch-${item.object_id}`,
         name: `${$t("csgo_tool_patch")} | ${$t(item.item_name)}`,
+        name_original: item.name, // deprecated
+        code: item.name,
         description: getDescription(item),
         rarity: {
             id: `rarity_${item.item_rarity}`,
