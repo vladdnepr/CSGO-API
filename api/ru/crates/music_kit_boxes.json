@@ -1,0 +1,304 @@
+[
+    {
+        "id": "crate-4287",
+        "name": "Ящик «Радикалы — StatTrak™»",
+        "description": "Этот ящик содержит различные наборы музыки с технологией StatTrak™ от объединения «Радикалы».",
+        "type": "Music Kit Box",
+        "first_sale_date": "2016/08/16",
+        "contains": [
+            {
+                "id": "music_kit-32",
+                "name": "Набор музыки | Beartooth — Aggressive",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-33",
+                "name": "Набор музыки | Blitz Kids — The Good Youth",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-34",
+                "name": "Набор музыки | Hundredth — FREE",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-35",
+                "name": "Набор музыки | Neck Deep — Life's Not Out To Get You",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-36",
+                "name": "Набор музыки | Roam — Backbone",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-37",
+                "name": "Набор музыки | Twin Atlantic — GLA",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-38",
+                "name": "Набор музыки | Skog — III-Arena",
+                "rarity": "высшего класса"
+            }
+        ],
+        "contains_rare": [],
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_radicals_capsule.862fad702656aa677a0a02fc56b032f300fcd48a.png"
+    },
+    {
+        "id": "crate-4696",
+        "name": "Ящик с музыкой «Великие умы»",
+        "description": "Этот ящик содержит различные наборы музыки от разных композиторов.",
+        "type": "Music Kit Box",
+        "first_sale_date": "2020/04/22",
+        "contains": [
+            {
+                "id": "music_kit-43",
+                "name": "Набор музыки | Austin Wintory — Bachram",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-44",
+                "name": "Набор музыки | Dren — Gunman Taco Truck",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-45",
+                "name": "Набор музыки | Daniel Sadowski — Eye of the Dragon",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-46",
+                "name": "Набор музыки | Tree Adams and Ben Bromfield — M.U.D.D. FORCE",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-47",
+                "name": "Набор музыки | Tim Huling — Neo Noir",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-48",
+                "name": "Набор музыки | Sam Marshall — Bodacious",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-49",
+                "name": "Набор музыки | Matt Levine — Drifter",
+                "rarity": "высшего класса"
+            }
+        ],
+        "contains_rare": [],
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_masterminds_capsule.eab61e73ff3f910b040b5b5bd7feb8aaf8509063.png"
+    },
+    {
+        "id": "crate-4697",
+        "name": "Ящик с музыкой «Великие умы — StatTrak™»",
+        "description": "Этот ящик содержит различные наборы музыки с технологией StatTrak™ от разных композиторов.",
+        "type": "Music Kit Box",
+        "first_sale_date": "2020/04/22",
+        "contains": [
+            {
+                "id": "music_kit-43",
+                "name": "Набор музыки | Austin Wintory — Bachram",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-44",
+                "name": "Набор музыки | Dren — Gunman Taco Truck",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-45",
+                "name": "Набор музыки | Daniel Sadowski — Eye of the Dragon",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-46",
+                "name": "Набор музыки | Tree Adams and Ben Bromfield — M.U.D.D. FORCE",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-47",
+                "name": "Набор музыки | Tim Huling — Neo Noir",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-48",
+                "name": "Набор музыки | Sam Marshall — Bodacious",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-49",
+                "name": "Набор музыки | Matt Levine — Drifter",
+                "rarity": "высшего класса"
+            }
+        ],
+        "contains_rare": [],
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_masterminds_stattrak_capsule.ba6e38b7eda91b8fb661b32494f2113fe560e512.png"
+    },
+    {
+        "id": "crate-4754",
+        "name": "Ящик с музыкой «Тактики»",
+        "description": "Этот ящик содержит различные наборы музыки от объединения «Тактики».",
+        "type": "Music Kit Box",
+        "first_sale_date": "2021/07/20",
+        "contains": [
+            {
+                "id": "music_kit-54",
+                "name": "Набор музыки | Austin Wintory — Mocha Petal",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-55",
+                "name": "Набор музыки | Chipzel — ~Yellow Magic~",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-56",
+                "name": "Набор музыки | Freaky DNA — Vici",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-57",
+                "name": "Набор музыки | Jesse Harlin — Astro Bellum",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-58",
+                "name": "Набор музыки | Laura Shigihara — Work Hard, Play Hard",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-59",
+                "name": "Набор музыки | Sarah Schachner — KOLIBRI",
+                "rarity": "высшего класса"
+            }
+        ],
+        "contains_rare": [],
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_tacticians_capsule.7fac9d3dfefe0affbd4ba6f9db43daed02860990.png"
+    },
+    {
+        "id": "crate-4755",
+        "name": "Ящик с музыкой «Тактики — StatTrak™»",
+        "description": "Этот ящик содержит различные наборы музыки с технологией StatTrak™ от объединения «Тактики».",
+        "type": "Music Kit Box",
+        "first_sale_date": "2021/07/20",
+        "contains": [
+            {
+                "id": "music_kit-54",
+                "name": "Набор музыки | Austin Wintory — Mocha Petal",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-55",
+                "name": "Набор музыки | Chipzel — ~Yellow Magic~",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-56",
+                "name": "Набор музыки | Freaky DNA — Vici",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-57",
+                "name": "Набор музыки | Jesse Harlin — Astro Bellum",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-58",
+                "name": "Набор музыки | Laura Shigihara — Work Hard, Play Hard",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-59",
+                "name": "Набор музыки | Sarah Schachner — KOLIBRI",
+                "rarity": "высшего класса"
+            }
+        ],
+        "contains_rare": [],
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule.694310b1d018effc8bac1af684f8c63ec4993939.png"
+    },
+    {
+        "id": "crate-4848",
+        "name": "Ящик с музыкой «Инициаторы»",
+        "description": "Этот ящик содержит различные наборы музыки от объединения «Инициаторы».",
+        "type": "Music Kit Box",
+        "first_sale_date": "2022/08/15",
+        "contains": [
+            {
+                "id": "music_kit-62",
+                "name": "Набор музыки | 3kliksphilip — Heading for the Source",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-63",
+                "name": "Набор музыки | Humanity's Last Breath — Void",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-64",
+                "name": "Набор музыки | Juelz — Shooters",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-65",
+                "name": "Набор музыки | Knock2 — dashstar*",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-66",
+                "name": "Набор музыки | Meechy Darko — Gothic Luxury",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-67",
+                "name": "Набор музыки | Sullivan King — Lock Me Up",
+                "rarity": "высшего класса"
+            }
+        ],
+        "contains_rare": [],
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_capsule.ec8f699c27cca77b7c1caa837d05f8b4d52a3ef6.png"
+    },
+    {
+        "id": "crate-4849",
+        "name": "Ящик с музыкой «Инициаторы — StatTrak™»",
+        "description": "Этот ящик содержит различные наборы музыки с технологией StatTrak™ от объединения «Инициаторы».",
+        "type": "Music Kit Box",
+        "first_sale_date": "2022/08/15",
+        "contains": [
+            {
+                "id": "music_kit-62",
+                "name": "Набор музыки | 3kliksphilip — Heading for the Source",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-63",
+                "name": "Набор музыки | Humanity's Last Breath — Void",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-64",
+                "name": "Набор музыки | Juelz — Shooters",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-65",
+                "name": "Набор музыки | Knock2 — dashstar*",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-66",
+                "name": "Набор музыки | Meechy Darko — Gothic Luxury",
+                "rarity": "высшего класса"
+            },
+            {
+                "id": "music_kit-67",
+                "name": "Набор музыки | Sullivan King — Lock Me Up",
+                "rarity": "высшего класса"
+            }
+        ],
+        "contains_rare": [],
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.d20d2c4030e8c41199e11cec8617f70f1c6f36b0.png"
+    }
+]
