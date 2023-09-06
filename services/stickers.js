@@ -35,7 +35,7 @@ const getDescription = (item) => {
 };
 
 const parseItem = (item) => {
-    const { cratesBySkins } = state;
+    const { cratesBySkins, proTeams, proPlayers } = state;
 
     const image = getImageUrl(
         `econ/stickers/${item.sticker_material.toLowerCase()}`
@@ -46,9 +46,40 @@ const parseItem = (item) => {
         item.item_name = "#StickerKit_dhw2014_teamdignitas_gold";
     }
 
+    let tournament = null;
+    let team = null;
+    let player = null;
+
+    if (item.tournament_event_id) {
+        tournament = {
+            id: item.tournament_event_id,
+            name: $t(`CSGO_Tournament_Event_NameShort_${item.tournament_event_id}`)
+        };
+    }
+
+    if (item.tournament_team_id) {
+        team = {
+            id: item.tournament_team_id,
+            tag: proTeams[item.tournament_team_id].tag,
+            geo: proTeams[item.tournament_team_id].geo,
+            name: $t(`CSGO_TeamID_${item.tournament_team_id}`)
+        };
+    }
+
+    if (item.tournament_player_id) {
+        player = {
+            id: item.tournament_player_id,
+            code: proPlayers[item.tournament_player_id].code,
+            geo: proPlayers[item.tournament_player_id].geo,
+            dob: proPlayers[item.tournament_player_id].dob,
+            name: proPlayers[item.tournament_player_id].name,
+        };
+    }
+
     return {
         id: `sticker-${item.object_id}`,
         name: `${$t("csgo_tool_sticker")} | ${$t(item.item_name)}`,
+        name_original: item.name,
         description: getDescription(item),
         rarity: item.item_rarity
             ? {
@@ -67,6 +98,9 @@ const parseItem = (item) => {
                 ...i,
                 name: $t(i.name),
             })) ?? [],
+        tournament,
+        team,
+        player,
         image,
     };
 };

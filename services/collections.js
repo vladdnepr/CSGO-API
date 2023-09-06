@@ -52,6 +52,7 @@ const parseItem = (item) => {
             ...i,
             name: $t(i.name),
         })),
+        name_original: item.name.replace("#CSGO_", ""),
         contains: skinsByCollections?.[item.name.replace("#CSGO_", "")].map(
             (i) => ({
                 ...i,

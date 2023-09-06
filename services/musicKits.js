@@ -11,6 +11,7 @@ const parseItem = (item) => {
     const normalMusicKit = {
         id: `music_kit-${item.object_id}`,
         name: exclusive ? $t(item.loc_name) : $t(item.coupon_name),
+        name_original: item.name,
         description: $t(item.loc_description),
         rarity: {
             id: "rarity_rare",
@@ -25,6 +26,7 @@ const parseItem = (item) => {
         const stattrakMusicKit = {
             id: `music_kit-${item.object_id}_st`,
             name: $t(`${item.coupon_name}_stattrak`),
+            name_original: item.name,
             description: $t(item.loc_description),
             rarity: {
                 id: "rarity_rare",
