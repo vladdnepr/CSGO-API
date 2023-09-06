@@ -94,9 +94,9 @@ const parseItem = (item, items) => {
     const rarity = !isNotWeapon(weapon)
         ? `rarity_${rarities[`[${pattern}]${weapon}`].rarity}_weapon`
         : isKnife
-        ? // Knives are 'Covert'
+            ? // Knives are 'Covert'
           `rarity_ancient_weapon`
-        : // Gloves are 'Extraordinary'
+            : // Gloves are 'Extraordinary'
           `rarity_ancient`;
 
     // Some skins only exist as souvenir like "MP5-SD | Lab Rats"
@@ -147,6 +147,7 @@ const parseItem = (item, items) => {
                       pattern: $t(paintKits[pattern].description_tag),
                       wear: $t(wear),
                   }),
+            name_original: items[weapon].name,
             description: getDescription(
                 translatedDescription,
                 paintKits,
@@ -178,6 +179,7 @@ const parseItem = (item, items) => {
                 name: $t(rarity),
                 color: getRarityColor(rarity),
             },
+            paint_index: paintKits[pattern].paint_index,
             ...(dopplerPhase && { phase: dopplerPhase }),
             // Comment this because it makes JSON file too big.
             // collections:
@@ -237,6 +239,8 @@ export const getSkinsNotGrouped = () => {
                     name: $tc(type, {
                         item_name: $t(knife.item_name),
                     }),
+                    name_original: knife.name,
+                    description: $t(knife.item_description),
                     weapon: {
                         id: knife.item_name,
                         name: $t(knife.item_name),
@@ -251,6 +255,7 @@ export const getSkinsNotGrouped = () => {
                         color: getRarityColor(`rarity_ancient_weapon`),
                     },
                     stattrak: type === "rare_special_vanilla_stattrak",
+                    paint_index: null,
                     market_hash_name: skinMarketHashName({
                         itemName: $t(knife.item_name, true),
                         pattern: null,
