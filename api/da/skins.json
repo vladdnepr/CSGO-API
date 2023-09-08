@@ -72313,6 +72313,7 @@
     {
         "id": "skin-vanilla-weapon_bayonet",
         "name": "Bajonet (★)",
+        "name_original": "weapon_bayonet",
         "description": "Bajonetten, der er relativt uændret i sit design siden Anden Verdenskrig, har stadig sin plads i moderne militærstrategier. Bajonetangreb har fortsat været effektive så nyligt som i den anden Golfkrig og krigen i Afghanistan.",
         "weapon": null,
         "category": "Knive",
@@ -72320,6 +72321,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72384,6 +72386,7 @@
     {
         "id": "skin-vanilla-weapon_knife_css",
         "name": "Klassisk kniv (★)",
+        "name_original": "weapon_knife_css",
         "description": "A classic of the Counter-Strike series, the edge of this knife is press-fit Stellite perfectly held in place due to its precise fit with the titanium on the blade's cheek and spine. The handle is fossilized mastodon ivory held in a carbon fibre pocket.",
         "weapon": null,
         "category": "Knive",
@@ -72391,6 +72394,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72405,6 +72409,7 @@
     {
         "id": "skin-vanilla-weapon_knife_flip",
         "name": "Foldekniv (★)",
+        "name_original": "weapon_knife_flip",
         "description": "Foldeknive er prydet med en persiskstilet tilbagefejende klinge med en skarp spids. Mens spidsen i sig selv måske er skrøbeligt, er foldeknivens overordnede design overraskende holdbart.",
         "weapon": null,
         "category": "Knive",
@@ -72412,6 +72417,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72476,6 +72482,7 @@
     {
         "id": "skin-vanilla-weapon_knife_gut",
         "name": "Jagtkniv (★)",
+        "name_original": "weapon_knife_gut",
         "description": "Den mest fremtrædende af jagtknivens funktioner er tarmkrogen på klingens ryg. Selvom den originalt blev populariseret til at hjælpe med at fjerne dyreindvolde under jagt, er tarmkrogen også effektiv til at skære gennem fiberholdigt materiale som reb, stropper eller sikkerhedsbælter med lethed.",
         "weapon": null,
         "category": "Knive",
@@ -72483,6 +72490,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72547,6 +72555,7 @@
     {
         "id": "skin-vanilla-weapon_knife_karambit",
         "name": "Karambit (★)",
+        "name_original": "weapon_knife_karambit",
         "description": "Med dens kurvede klinge, der efterligner en tigers klo, blev karambitten udviklet som del af den sydøstasiatiske kampsport silat. Kniven bruges typisk med et omvendt greb med fingerringen på pegefingeren.",
         "weapon": null,
         "category": "Knive",
@@ -72554,6 +72563,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72618,6 +72628,7 @@
     {
         "id": "skin-vanilla-weapon_knife_m9_bayonet",
         "name": "M9-bajonet (★)",
+        "name_original": "weapon_knife_m9_bayonet",
         "description": "Dette er M9-bajonetten. Originalt beregnet til at montere på en riffel, men den er også velegnet til nærkamp.",
         "weapon": null,
         "category": "Knive",
@@ -72625,6 +72636,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72689,6 +72701,7 @@
     {
         "id": "skin-vanilla-weapon_knife_tactical",
         "name": "Huntsman-kniv (★)",
+        "name_original": "weapon_knife_tactical",
         "description": "En kniv designet til moderne taktisk brug, hvor klingen er velegnet til et sortiment af både kamp- og nyttebehov. Det unikke Tanto-punkt tillader maksimal penetration gennem selv de stærkeste overflader.",
         "weapon": null,
         "category": "Knive",
@@ -72696,6 +72709,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72710,6 +72724,7 @@
     {
         "id": "skin-vanilla-weapon_knife_falchion",
         "name": "Falchion-kniv (★)",
+        "name_original": "weapon_knife_falchion",
         "description": "Denne slagpunktsklinge, der er en moderne hyldest til et falchion-sværd, har en kurvet kant.",
         "weapon": null,
         "category": "Knive",
@@ -72717,6 +72732,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72731,6 +72747,7 @@
     {
         "id": "skin-vanilla-weapon_knife_survival_bowie",
         "name": "Bowie-kniv (★)",
+        "name_original": "weapon_knife_survival_bowie",
         "description": "Denne savtakkede, fuld-angel Bowie-kniv er designet til hård brug i brutale overlevelsessituationer.",
         "weapon": "Bowie-kniv",
         "category": "Knive",
@@ -72738,6 +72755,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72752,6 +72770,7 @@
     {
         "id": "skin-vanilla-weapon_knife_butterfly",
         "name": "Butterfly-kniv (★)",
+        "name_original": "weapon_knife_butterfly",
         "description": "Dette er en specialdesignet balisong, almindeligvis kendt som en butterfly-kniv. De definerende karakteristikker af dette våben er den blæser-lignende åbning af den fritdrejende klinge, hvilket tillader hurtig udfoldning eller skjulning. Som et resultat er butterfly-knive ulovlige i mange lande.",
         "weapon": "Butterfly-kniv",
         "category": "Knive",
@@ -72759,6 +72778,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72773,6 +72793,7 @@
     {
         "id": "skin-vanilla-weapon_knife_push",
         "name": "Shadow-daggerter (★)",
+        "name_original": "weapon_knife_push",
         "description": "Designet til effektiv brutalitet, at bruge en skubbedaggert er så simpelt som at slå en gang eller to.",
         "weapon": "Shadow-daggerter",
         "category": "Knive",
@@ -72780,6 +72801,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72794,6 +72816,7 @@
     {
         "id": "skin-vanilla-weapon_knife_cord",
         "name": "Paracordkniv (★)",
+        "name_original": "weapon_knife_cord",
         "description": "This fixed-blade survival knife is designed to withstand being used as both a weapon and a tool, such as for setting traps, hunting animals or cutting foliage. The handle is wrapped in a length of multi-purpose paracord.",
         "weapon": "Paracordkniv",
         "category": "Knive",
@@ -72801,6 +72824,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72820,6 +72844,7 @@
     {
         "id": "skin-vanilla-weapon_knife_canis",
         "name": "Overlevelseskniv (★)",
+        "name_original": "weapon_knife_canis",
         "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
         "weapon": "Overlevelseskniv",
         "category": "Knive",
@@ -72827,6 +72852,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72846,6 +72872,7 @@
     {
         "id": "skin-vanilla-weapon_knife_ursus",
         "name": "Ursus-kniv (★)",
+        "name_original": "weapon_knife_ursus",
         "description": "Denne overlevelseskniv i tanto-stil har en facetteret, fuldtangs knivklinge, fuldført med sværknop. Ingen problemer, ingen bevægelige dele – bare et pålideligt blad, der er klar til brug.",
         "weapon": "Ursus-kniv",
         "category": "Knive",
@@ -72853,6 +72880,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72872,6 +72900,7 @@
     {
         "id": "skin-vanilla-weapon_knife_gypsy_jackknife",
         "name": "Navaja-kniv (★)",
+        "name_original": "weapon_knife_gypsy_jackknife",
         "description": "Denne springkniv med et greb i marmoremalje skjuler en lille, men ondt tilspidset klinge.",
         "weapon": "Navaja-kniv",
         "category": "Knive",
@@ -72879,6 +72908,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72898,6 +72928,7 @@
     {
         "id": "skin-vanilla-weapon_knife_outdoor",
         "name": "Nomadekniv (★)",
+        "name_original": "weapon_knife_outdoor",
         "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material.",
         "weapon": "Nomadekniv",
         "category": "Knive",
@@ -72905,6 +72936,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72924,6 +72956,7 @@
     {
         "id": "skin-vanilla-weapon_knife_stiletto",
         "name": "Stiletto-kniv (★)",
+        "name_original": "weapon_knife_stiletto",
         "description": "Denne italienske stiletto-springkniv har historisk set været omdrejningspunkt for kontrovers og lovgivning. Den har en fjedermekanisme, der kan skubbe kniven ud på et øjeblik.",
         "weapon": "Stiletto-kniv",
         "category": "Knive",
@@ -72931,6 +72964,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72950,6 +72984,7 @@
     {
         "id": "skin-vanilla-weapon_knife_widowmaker",
         "name": "Talon-kniv (★)",
+        "name_original": "weapon_knife_widowmaker",
         "description": "Denne karambitformede kniv med elfenbensgreb har messingnitter og savkanter, så den skærer på vejen ind og river, når den trækkes ud.",
         "weapon": "Talon-kniv",
         "category": "Knive",
@@ -72957,6 +72992,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72976,6 +73012,7 @@
     {
         "id": "skin-vanilla-weapon_knife_skeleton",
         "name": "Skeletkniv (★)",
+        "name_original": "weapon_knife_skeleton",
         "description": "This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety.",
         "weapon": "Skeletkniv",
         "category": "Knive",
@@ -72983,6 +73020,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Tilsløret",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [

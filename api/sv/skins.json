@@ -72313,6 +72313,7 @@
     {
         "id": "skin-vanilla-weapon_bayonet",
         "name": "★ Bajonett",
+        "name_original": "weapon_bayonet",
         "description": "Bajonettens design har förändrats relativt lite sedan andra världskriget, och har fortfarande en plats i modern militärstrategi. Bajonettanfall har fortsatt varit effektiva så sent som i Kuwaitkriget och kriget i Afghanistan.",
         "weapon": null,
         "category": "Knivar",
@@ -72320,6 +72321,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72384,6 +72386,7 @@
     {
         "id": "skin-vanilla-weapon_knife_css",
         "name": "★ Klassisk kniv",
+        "name_original": "weapon_knife_css",
         "description": "En klassiker i Counter-Strike-serien. Eggen på denna kniv har friktionssvetsat Stellite som hålls på plats tack vare dess precisa passform med titanet på bladets rygg och sida. Handtaget är gjort av fossilerat mastodontelfenben som hålls i ett kolfiberhölje.",
         "weapon": null,
         "category": "Knivar",
@@ -72391,6 +72394,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72405,6 +72409,7 @@
     {
         "id": "skin-vanilla-weapon_knife_flip",
         "name": "★ Fällkniv",
+        "name_original": "weapon_knife_flip",
         "description": "Fällkniven ståtar med en bakåtsvept klinga i persisk stil med en spetsig udd. Medan udden i sig må vara ömtålig, är den allmänna utformningen av fällknivens design förvånansvärt hållbar.",
         "weapon": null,
         "category": "Knivar",
@@ -72412,6 +72417,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72476,6 +72482,7 @@
     {
         "id": "skin-vanilla-weapon_knife_gut",
         "name": "★ Buköppnare",
+        "name_original": "weapon_knife_gut",
         "description": "Det mest märkbara kännetecknet på en magkniv är magkroken på klingans rygg. Magkniven blev populär som ett hjälpmedel för att tömma villebråd, men är även effektiv på att enkelt skära igenom fibrigt material såsom rep, vävband eller säkerhetsbälten.",
         "weapon": null,
         "category": "Knivar",
@@ -72483,6 +72490,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72547,6 +72555,7 @@
     {
         "id": "skin-vanilla-weapon_knife_karambit",
         "name": "★ Karambit",
+        "name_original": "weapon_knife_karambit",
         "description": "Med sin böjda klinga som härmar en tigers klo, utvecklades karambiten som en del av den sydostasiatiska kampsportsdisciplinen silat. Kniven används oftast med ett omvänt grepp, med fingerringen på pekfingret.",
         "weapon": null,
         "category": "Knivar",
@@ -72554,6 +72563,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72618,6 +72628,7 @@
     {
         "id": "skin-vanilla-weapon_knife_m9_bayonet",
         "name": "★ M9-bajonett",
+        "name_original": "weapon_knife_m9_bayonet",
         "description": "Det här är M-9-bajonetten. Ursprungligen avsedd för att sättas fast på ett gevär, men är också väl anpassad för närstrid.",
         "weapon": null,
         "category": "Knivar",
@@ -72625,6 +72636,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72689,6 +72701,7 @@
     {
         "id": "skin-vanilla-weapon_knife_tactical",
         "name": "★ Huntsmankniv",
+        "name_original": "weapon_knife_tactical",
         "description": "En kniv designad för moderna taktiska syften vars blad är väl lämpat för ett urval av både stridsmässiga och praktiska behov. Den unika Tanto-spetsen tillåter maximal penetrering genom till och med den tuffaste av ytor.",
         "weapon": null,
         "category": "Knivar",
@@ -72696,6 +72709,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72710,6 +72724,7 @@
     {
         "id": "skin-vanilla-weapon_knife_falchion",
         "name": "★ Falchionkniv",
+        "name_original": "weapon_knife_falchion",
         "description": "Detta blad har en böjd kant, och är en modern hyllning till falchionsvärdet.",
         "weapon": null,
         "category": "Knivar",
@@ -72717,6 +72732,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72731,6 +72747,7 @@
     {
         "id": "skin-vanilla-weapon_knife_survival_bowie",
         "name": "★ Bowiekniv",
+        "name_original": "weapon_knife_survival_bowie",
         "description": "Denna Bowiekniv är utformad för hårt bruk i brutala överlevnadssituationer.",
         "weapon": "Bowiekniv",
         "category": "Knivar",
@@ -72738,6 +72755,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72752,6 +72770,7 @@
     {
         "id": "skin-vanilla-weapon_knife_butterfly",
         "name": "★ Butterflykniv",
+        "name_original": "weapon_knife_butterfly",
         "description": "Det är är en egendesignad balisong, vanligen benämnd butterflykniv. Detta vapens definierande karaktärsdrag är den solfjäderlika öpnningen av ett fritt roterande blad, som tillåter snabb användning eller döljande. Som resultat av detta är butterflyknivar olagliga i många länder.",
         "weapon": "Butterflykniv",
         "category": "Knivar",
@@ -72759,6 +72778,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72773,6 +72793,7 @@
     {
         "id": "skin-vanilla-weapon_knife_push",
         "name": "★ Skuggdolkar",
+        "name_original": "weapon_knife_push",
         "description": "En knogdolk som designats för effektiv brutalitet är lika lätt att använda som att slåss för hand.",
         "weapon": "Skuggdolkar",
         "category": "Knivar",
@@ -72780,6 +72801,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72794,6 +72816,7 @@
     {
         "id": "skin-vanilla-weapon_knife_cord",
         "name": "★ Paracordkniv",
+        "name_original": "weapon_knife_cord",
         "description": "Denna överlevnadskniv med ett fast blad är designad för att kunna användas som både ett vapen och ett verktyg, och kan användas till att göra fällor, jakt, eller att ta dig igenom snårig terräng. Skaftet är inlindat i en flerfunktionell paracord.",
         "weapon": "Paracordkniv",
         "category": "Knivar",
@@ -72801,6 +72824,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72820,6 +72844,7 @@
     {
         "id": "skin-vanilla-weapon_knife_canis",
         "name": "★ Överlevnadskniv",
+        "name_original": "weapon_knife_canis",
         "description": "Denna flerfunktionella taktiska kniv har en sågtandad egg för att såga igenom material som ben eller fiber, samt en buköppnare. Skaftet, som är gjort av ett kompositmaterial, har bultats fast med sexkantsmuttrar.",
         "weapon": "Överlevnadskniv",
         "category": "Knivar",
@@ -72827,6 +72852,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72846,6 +72872,7 @@
     {
         "id": "skin-vanilla-weapon_knife_ursus",
         "name": "★ Ursuskniv",
+        "name_original": "weapon_knife_ursus",
         "description": "Denna tanto-liknande överlevnadskniv har ett fasetterat blad och full tånge, samt en pommel. Inget krångel, inga rörliga delar - endast ett pålitligt blad som är redo att arbeta.",
         "weapon": "Ursuskniv",
         "category": "Knivar",
@@ -72853,6 +72880,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72872,6 +72900,7 @@
     {
         "id": "skin-vanilla-weapon_knife_gypsy_jackknife",
         "name": "★ Navajakniv",
+        "name_original": "weapon_knife_gypsy_jackknife",
         "description": "Denna fällkniv med ett emaljerat marmorhandtag döljer ett litet men illvilligt avsmalnande blad.",
         "weapon": "Navajakniv",
         "category": "Knivar",
@@ -72879,6 +72908,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72898,6 +72928,7 @@
     {
         "id": "skin-vanilla-weapon_knife_outdoor",
         "name": "★ Nomad-kniv",
+        "name_original": "weapon_knife_outdoor",
         "description": "Denna ergonomiska taktiska jaktkniv har ett brett och stadigt blad som kan låsas fast i dess kompositskaft, och är användbar till att skära och bryta isär material.",
         "weapon": "Nomad-kniv",
         "category": "Knivar",
@@ -72905,6 +72936,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72924,6 +72956,7 @@
     {
         "id": "skin-vanilla-weapon_knife_stiletto",
         "name": "★ Stilettkniv",
+        "name_original": "weapon_knife_stiletto",
         "description": "Historiskt har stiletten varit omtvistad och reglerad, denna italienska stilettkniv har ett fjäderladdat blad som kan tas fram nästan omedelbart genom ett tryck på en spärr.",
         "weapon": "Stilettkniv",
         "category": "Knivar",
@@ -72931,6 +72964,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72950,6 +72984,7 @@
     {
         "id": "skin-vanilla-weapon_knife_widowmaker",
         "name": "★ Talonkniv",
+        "name_original": "weapon_knife_widowmaker",
         "description": "Denna karambit med ett elfenbenshandtag har mässingnitar och en sågtandad rygg, så den skär på vägen in, och sliter på vägen ut.",
         "weapon": "Talonkniv",
         "category": "Knivar",
@@ -72957,6 +72992,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72976,6 +73012,7 @@
     {
         "id": "skin-vanilla-weapon_knife_skeleton",
         "name": "★ Skeleton-kniv",
+        "name_original": "weapon_knife_skeleton",
         "description": "Denna avskalade kniv med full tang har ett tejpinlindat skaft för att förbättra greppvänligheten. Ett finger kan träs igenom hålet för att göra kniven säkrare och stabilare.",
         "weapon": "Skeleton-kniv",
         "category": "Knivar",
@@ -72983,6 +73020,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Konfidentiell",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [

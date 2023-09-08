@@ -72313,6 +72313,7 @@
     {
         "id": "skin-vanilla-weapon_bayonet",
         "name": "Bayonet (★)",
+        "name_original": "weapon_bayonet",
         "description": "Tương đối nguyên vẹn về thiết kế kể từ Thế Chiến II, bayonet vẫn giữ cho mình vị trí trong chiến thuật quân đội hiện đại. Những phát đâm của Bayonet vẫn mang lại hiệu quả, gần đây nhất là ở chiến tranh vùng Vịnh lần hai và ở Afghanistan.",
         "weapon": null,
         "category": "Dao",
@@ -72320,6 +72321,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72384,6 +72386,7 @@
     {
         "id": "skin-vanilla-weapon_knife_css",
         "name": "Classic Knife (★)",
+        "name_original": "weapon_knife_css",
         "description": "Vũ khí cổ điển của loạt series Counter-Strike, lưỡi dao đã được ép phẳng với vật liệu Stellite, được giữ hoàn hảo tại chỗ thông qua khớp nhấn làm bằng Titan ở mặt lưỡi và mặt sau. Tay cầm làm bằng hóa thạch ngà voi răng mấu, và được phủ bao quanh bởi sợi carbon.",
         "weapon": null,
         "category": "Dao",
@@ -72391,6 +72394,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72405,6 +72409,7 @@
     {
         "id": "skin-vanilla-weapon_knife_flip",
         "name": "Dao bấm (★)",
+        "name_original": "weapon_knife_flip",
         "description": "Dòng dao bấm diện lưỡi dao nghiêng ra sau kiểu Ba Tư với mũi dao sắc bén. Dù bản thân phần mũi đó khá mỏng mảnh, toàn thể thiết kế của dao bấm lại bền đến đáng ngạc nhiên.",
         "weapon": null,
         "category": "Dao",
@@ -72412,6 +72417,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72476,6 +72482,7 @@
     {
         "id": "skin-vanilla-weapon_knife_gut",
         "name": "Dao móc (★)",
+        "name_original": "weapon_knife_gut",
         "description": "Đặc tính nổi trội nhất của dao móc là phần móc ở sống dao. Vốn được phổ biến để hỗ trợ cho việc lột da thú săn được, móc cũng cắt qua những vật liệu vải sợi như dây thừng, vải nỉ, hoặc dây an toàn một cách dễ dàng.",
         "weapon": null,
         "category": "Dao",
@@ -72483,6 +72490,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72547,6 +72555,7 @@
     {
         "id": "skin-vanilla-weapon_knife_karambit",
         "name": "Karambit (★)",
+        "name_original": "weapon_knife_karambit",
         "description": "Với lưỡi dao cong bắt chước vuốt hổ, karambit được tạo ra là một phần của môn võ thuật đông nam Á Silat. Con dao thường được cầm ngược lại, luồn ngón trỏ vào vòng ngón.",
         "weapon": null,
         "category": "Dao",
@@ -72554,6 +72563,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72618,6 +72628,7 @@
     {
         "id": "skin-vanilla-weapon_knife_m9_bayonet",
         "name": "M9 Bayonet (★)",
+        "name_original": "weapon_knife_m9_bayonet",
         "description": "Đây là M-9 bayonet. Vốn được dùng để gắn lên súng trường, nhưng cũng thích hợp cho giao chiến phạm vi gần.",
         "weapon": null,
         "category": "Dao",
@@ -72625,6 +72636,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72689,6 +72701,7 @@
     {
         "id": "skin-vanilla-weapon_knife_tactical",
         "name": "Dao Huntsman (★)",
+        "name_original": "weapon_knife_tactical",
         "description": "Một con dao được thiết kế với mục đích chiến thuật hiện đại, lưỡi dao thích hợp kể từ việc giao chiến cho tới nhu cần thực dụng. Mũi dao kiểu Tanto cho phép sức xuyên thủng tối đa qua cả những bề mặt chắc nhất.",
         "weapon": null,
         "category": "Dao",
@@ -72696,6 +72709,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72710,6 +72724,7 @@
     {
         "id": "skin-vanilla-weapon_knife_falchion",
         "name": "Dao Falchion (★)",
+        "name_original": "weapon_knife_falchion",
         "description": "Là lời tỏ lòng kính trọng thời hiện đại cho dòng kiếm falchion, chiếc dao \\\"đầu cụt\\\" này có lưỡi cong.",
         "weapon": null,
         "category": "Dao",
@@ -72717,6 +72732,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72731,6 +72747,7 @@
     {
         "id": "skin-vanilla-weapon_knife_survival_bowie",
         "name": "Dao Bowie (★)",
+        "name_original": "weapon_knife_survival_bowie",
         "description": "Con dao Bowie cán liền thân, lưỡi răng cưa này được thiết kế để chịu công việc nặng trong hoàn cảnh sinh tồn khắc nghiệt.",
         "weapon": "Dao Bowie",
         "category": "Dao",
@@ -72738,6 +72755,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72752,6 +72770,7 @@
     {
         "id": "skin-vanilla-weapon_knife_butterfly",
         "name": "Dao bướm (★)",
+        "name_original": "weapon_knife_butterfly",
         "description": "Đây là một cây balisong thiết kế tùy chỉnh, thường được biết với cái tên dao bướm. Tính chất đặc trưng của vũ khí này là cách mở giống chiếc quạt với lưỡi dao xoay tự do, cho phép lấy ra và giấu đi nhanh chóng. Và vì thế, dao bướm bị cấm tại nhiều nước.",
         "weapon": "Dao bướm",
         "category": "Dao",
@@ -72759,6 +72778,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72773,6 +72793,7 @@
     {
         "id": "skin-vanilla-weapon_knife_push",
         "name": "Dao găm chữ T (★)",
+        "name_original": "weapon_knife_push",
         "description": "Được thiết kế để sát hại nhanh gọn, sử dụng dao găm đẩy đơn giản như việc tung một hai cú đấm.",
         "weapon": "Dao găm chữ T",
         "category": "Dao",
@@ -72780,6 +72801,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72794,6 +72816,7 @@
     {
         "id": "skin-vanilla-weapon_knife_cord",
         "name": "Dao Paracord (★)",
+        "name_original": "weapon_knife_cord",
         "description": "Với thiết kế lưỡi cố định, dao sinh tồn được tạo nên để có thể chịu được tốt khi sử dụng làm vũ khí hay công cụ, như là đặt bẫy, săn thú hay cắt lá. Tay cầm của dao được bọc bằng một đoạn dây dù đa năng.",
         "weapon": "Dao Paracord",
         "category": "Dao",
@@ -72801,6 +72824,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72820,6 +72844,7 @@
     {
         "id": "skin-vanilla-weapon_knife_canis",
         "name": "Dao sinh tồn (★)",
+        "name_original": "weapon_knife_canis",
         "description": "Con dao chiến thuật đa năng này có cạnh răng cưa để cắt xuyên qua vật liệu thô như xương hay thớ gỗ, cùng với đó là một lưỡi móc sắc cạnh. Tay cầm bằng vật liệu tổng hợp được bắt vào lưỡi dao với ốc hình lục giác.",
         "weapon": "Dao sinh tồn",
         "category": "Dao",
@@ -72827,6 +72852,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72846,6 +72872,7 @@
     {
         "id": "skin-vanilla-weapon_knife_ursus",
         "name": "Dao Ursus (★)",
+        "name_original": "weapon_knife_ursus",
         "description": "Con dao dã chiến phong cách tanto này có lưỡi được mài với cán liền một khối với dao, kèm theo chuôi nhọn. Không ồn ào, không bộ phận rời - chỉ đơn giản là một lưỡi dao đáng tin cậy để hành sự.",
         "weapon": "Dao Ursus",
         "category": "Dao",
@@ -72853,6 +72880,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72872,6 +72900,7 @@
     {
         "id": "skin-vanilla-weapon_knife_gypsy_jackknife",
         "name": "Dao Navaja (★)",
+        "name_original": "weapon_knife_gypsy_jackknife",
         "description": "Con dao cán đá cẩm thạch tráng men này giấu một lưỡi dao hình nón nhỏ, nhưng hiểm.",
         "weapon": "Dao Navaja",
         "category": "Dao",
@@ -72879,6 +72908,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72898,6 +72928,7 @@
     {
         "id": "skin-vanilla-weapon_knife_outdoor",
         "name": "Dao Nomad (★)",
+        "name_original": "weapon_knife_outdoor",
         "description": "Con dao gập chiến thuật này có khóa lưỡi được thiết kế công thái học, với tay cầm bằng vật liệu tổng hợp cùng lưỡi dao to bản và chắc chắn. Cực kì hữu dụng khi cắt xẻ vật liệu.",
         "weapon": "Dao Nomad",
         "category": "Dao",
@@ -72905,6 +72936,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72924,6 +72956,7 @@
     {
         "id": "skin-vanilla-weapon_knife_stiletto",
         "name": "Dao Stiletto (★)",
+        "name_original": "weapon_knife_stiletto",
         "description": "Về mặt lịch sử, đây là thứ vũ khí nằm trên làn ranh của quy định và hạn chế, con dao bấm stiletto kiểu ý này có một lưỡi dao lò xo xuất kích tức thì ngay khi tháo chốt.",
         "weapon": "Dao Stiletto",
         "category": "Dao",
@@ -72931,6 +72964,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72950,6 +72984,7 @@
     {
         "id": "skin-vanilla-weapon_knife_widowmaker",
         "name": "Dao Talon (★)",
+        "name_original": "weapon_knife_widowmaker",
         "description": "Dao karambit này có cán ngà, đinh tán đồng thau và lằn răng lưỡi cưa, để khi chém thì đâm ngập cả lưỡi, khi rút thì xé toạc thịt da.",
         "weapon": "Dao Talon",
         "category": "Dao",
@@ -72957,6 +72992,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
@@ -72976,6 +73012,7 @@
     {
         "id": "skin-vanilla-weapon_knife_skeleton",
         "name": "Dao Skeleton (★)",
+        "name_original": "weapon_knife_skeleton",
         "description": "Chiếc dao được lột vỏ và bọc lại phần tay cầm để cải thiện độ bám. Lỗ trên dao cho phép ngón tay có thể xuyên qua để nâng cao khả năng an toàn và ổn định của dao.",
         "weapon": "Dao Skeleton",
         "category": "Dao",
@@ -72983,6 +73020,7 @@
         "min_float": null,
         "max_float": null,
         "rarity": "Mật vụ",
+        "rarity_original": "rarity_ancient_weapon",
         "stattrak": true,
         "paint_index": null,
         "crates": [
