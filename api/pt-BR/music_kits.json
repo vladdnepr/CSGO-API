@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "A trilha sonora oficial do Counter-Strike 2.",
+        "rarity": "Alta Qualidade",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Trilha Sonora | Daniel Sadowski, Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -138,7 +146,7 @@
         "id": "music_kit-18",
         "name": "Trilha Sonora | Proxy, Battlepack",
         "name_original": "proxy_01",
-        "description": "O artista russo de eletrônica pesada PROXY traz a sua própria artilharia pesada a Counter-Strike. Um armamento de áudio híbrido misturado com a melhor tecnologia de estúdio torna este pacote único.",
+        "description": "O artista russo de eletrônica pesada PROXY traz a sua própria artilharia pesada a CS:GO. Um armamento de áudio híbrido misturado com a melhor tecnologia de estúdio torna este pacote único.",
         "rarity": "Alta Qualidade",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/proxy_01.12796e09ff47c1dd25757cff0761bf7b880dfb3b.png"
@@ -336,7 +344,7 @@
         "id": "music_kit-40",
         "name": "Halo, The Master Chief Collection",
         "name_original": "halo_01",
-        "description": "Faça uma renovação lendária à sua experiência auditiva no Counter-Strike com a Trilha Sonora da Master Chief Collection, que contém momentos musicais icônicos do universo Halo. © 2019 343 Industries. Todos os direitos reservados. Usado com permissão da 343 Industries. Halo: The Master Chief Collection e o logo Halo são marcas do grupo de empresas da Microsoft.",
+        "description": "Faça uma renovação lendária à sua experiência auditiva no CS:GO com a Trilha Sonora da Master Chief Collection, que contém momentos musicais icônicos do universo Halo. © 2019 343 Industries. Todos os direitos reservados. Usado com permissão da 343 Industries. Halo: The Master Chief Collection e o logo Halo são marcas do grupo de empresas da Microsoft.",
         "rarity": "Alta Qualidade",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/halo_01.a49952f4e059871c05f6d829f6f29a1a2ccbddc2.png"

@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "The official music kit of Counter-Strike 2.",
+        "rarity": "de grado alto",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Kit de música | Daniel Sadowski, Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -138,7 +146,7 @@
         "id": "music_kit-18",
         "name": "Kit de música | Proxy, Battlepack",
         "name_original": "proxy_01",
-        "description": "PROXY, el artista ruso de música electrónica heavy, trae su propia y singular artillería musical a Counter-Strike. Audio híbrido fusionado con la mejor tecnología de estudio hacen este lote único.",
+        "description": "PROXY, el artista ruso de música electrónica heavy, trae su propia y singular artillería musical a CS:GO. Audio híbrido fusionado con la mejor tecnología de estudio hacen este lote único.",
         "rarity": "de grado alto",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/proxy_01.12796e09ff47c1dd25757cff0761bf7b880dfb3b.png"
@@ -336,7 +344,7 @@
         "id": "music_kit-40",
         "name": "Halo, The Master Chief Collection",
         "name_original": "halo_01",
-        "description": "Dale a tu experiencia auditiva de Counter-Strike un cambio de sonido legendario con el lote de música de The Master Chief Collection, que incluye momentos musicales emblemáticos del universo Halo. © 2019 343 Industries. Todos los derechos reservados. Usado con autorización de 343 Industries. Halo: The Master Chief Collection y el logotipo de Halo son marcas comerciales del grupo de empresas Microsoft.",
+        "description": "Dale a tu experiencia auditiva de CS:GO un cambio de sonido legendario con el lote de música de The Master Chief Collection, que incluye momentos musicales emblemáticos del universo Halo. © 2019 343 Industries. Todos los derechos reservados. Usado con autorización de 343 Industries. Halo: The Master Chief Collection y el logotipo de Halo son marcas comerciales del grupo de empresas Microsoft.",
         "rarity": "de grado alto",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/halo_01.a49952f4e059871c05f6d829f6f29a1a2ccbddc2.png"
@@ -525,7 +533,7 @@
         "id": "music_kit-61",
         "name": "Kit de música | The Verkkars y n0thing, Flashbang Dance",
         "name_original": "theverkkars_02",
-        "description": "De la soleada California a la gélida Laponia, la leyenda de Counter-Strike n0thing y The Verkkars combinan sus fuerzas para crear el éxito Flashbang Dance. 3, 2, 1, ¡estás ciego!",
+        "description": "Desde la soleada California a la gélida Laponia, la leyenda de Counter-Strike n0thing y The Verkkars combinan sus fuerzas para crear el éxito Flashbang Dance. 3, 2, 1, ¡estás ciego!",
         "rarity": "de grado alto",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png"
@@ -597,7 +605,7 @@
         "id": "music_kit-69",
         "name": "Kit de música | Denzel Curry, ULTIMATE",
         "name_original": "denzelcurry_01",
-        "description": "Denzel lleva su característico estilo a CS:GO con ritmos de trap, jazz y drum and bass. Este kit incluye los éxitos de Denzel \\\"Walkin\\\", \\\"ULTIMATE\\\" y muchos más, así que saca las Berettas cromadas bañadas en níquel y sube la intensidad con el kit de música ULTIMATE.",
+        "description": "Denzel lleva su característico estilo a Counter-Strike con ritmos de trap, jazz y drum and bass. Este kit incluye los éxitos de Denzel \\\"Walkin\\\", \\\"ULTIMATE\\\" y muchos más, así que saca las Berettas cromadas bañadas en níquel y sube la intensidad con el kit de música ULTIMATE.",
         "rarity": "de grado alto",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"

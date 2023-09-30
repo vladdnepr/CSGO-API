@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "Oficjalny zestaw utworów z Counter-Strike 2",
+        "rarity": "wysokiej jakości",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Zestaw utworów | Daniel Sadowski, Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -138,7 +146,7 @@
         "id": "music_kit-18",
         "name": "Zestaw utworów | Proxy, Battlepack",
         "name_original": "proxy_01",
-        "description": "Rosyjski artysta gatunku heavy electronica o imieniu PROXY wytacza swoją własną ciężką artylerię do Counter-Strike'a. Połączenie odgłosów broni wraz z najlepszą technologią studyjną czyni ten zestaw unikalnym.",
+        "description": "Rosyjski artysta gatunku heavy electronica o imieniu PROXY wytacza swoją własną ciężką artylerię do CS:GO'a. Połączenie odgłosów broni wraz z najlepszą technologią studyjną czyni ten zestaw unikalnym.",
         "rarity": "wysokiej jakości",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/proxy_01.12796e09ff47c1dd25757cff0761bf7b880dfb3b.png"
@@ -336,7 +344,7 @@
         "id": "music_kit-40",
         "name": "Halo, The Master Chief Collection",
         "name_original": "halo_01",
-        "description": "Całkowicie odmień swoje doświadczenia słuchowe z gry Counter-Strike dzięki pakietowi utworów The Master Chief Collection, który zawiera kultowe utwory z uniwersum Halo. © 2019 343 Industries. Wszelkie prawa zastrzeżone. Użyto za zgodą studia 343 Industries. Halo: The Master Chief Collection oraz logo Halo są znakami towarowymi grupy kapitałowej Microsoft.",
+        "description": "Całkowicie odmień swoje doświadczenia słuchowe z gry CS:GO dzięki pakietowi utworów The Master Chief Collection, który zawiera kultowe utwory z uniwersum Halo. © 2019 343 Industries. Wszelkie prawa zastrzeżone. Użyto za zgodą studia 343 Industries. Halo: The Master Chief Collection oraz logo Halo są znakami towarowymi grupy kapitałowej Microsoft.",
         "rarity": "wysokiej jakości",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/halo_01.a49952f4e059871c05f6d829f6f29a1a2ccbddc2.png"
@@ -597,7 +605,7 @@
         "id": "music_kit-69",
         "name": "Zestaw utworów | Denzel Curry, ULTIMATE",
         "name_original": "denzelcurry_01",
-        "description": "Denzel wkracza do CS:GO wraz z charakterystycznymi dla niego trapowymi, jazzowymi oraz drum n' bassowymi bitami. Ten zestaw zawiera hity Denzela takie jak „Walkin”, „ULTIMATE” i wiele więcej, a więc śmiało wyciągnij okute niklem chromowane Beretty i zwiększ intensywność rozgrywki wraz z zestawem utworów ULTIMATE.",
+        "description": "Denzel wkracza do Counter-Strike wraz z charakterystycznymi dla niego trapowymi, jazzowymi oraz drum n' bassowymi bitami. Ten zestaw zawiera hity Denzela takie jak „Walkin”, „ULTIMATE” i wiele więcej, a więc śmiało wyciągnij okute niklem chromowane Beretty i zwiększ intensywność rozgrywki wraz z zestawem utworów ULTIMATE.",
         "rarity": "wysokiej jakości",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"

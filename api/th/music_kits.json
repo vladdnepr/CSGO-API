@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "ชุดอุปกรณ์เพลงทางการของ Counter-Strike 2",
+        "rarity": "เกรดสูง",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "ชุดอุปกรณ์เพลง | Daniel Sadowski - Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -525,7 +533,7 @@
         "id": "music_kit-61",
         "name": "ชุดอุปกรณ์เพลง | The Verkkars & n0thing, Flashbang Dance",
         "name_original": "theverkkars_02",
-        "description": "จากแคลิฟอร์เนียที่มีแดดร้อนไปจนแลปแลนด์ที่หนาวเย็น ตำนาน Counter-Strike อย่าง n0thing และ The Verkkars ได้รวมพลังกันสร้างเพลงฮิต Flashbang Dance! 3, 2, 1 คุณตาพร่ามัวแน่!",
+        "description": "จากแคลิฟอร์เนียที่มีแดดร้อนไปจนแลปแลนด์ที่หนาวเย็น ตำนาน Counter-Strike อย่าง n0thing และ The Verkkars ได้รวมพลังกันสร้างเพลงฮิต Flashbang Dance! 3, 2, 1 คุณตาพร่าแน่ ๆ!",
         "rarity": "เกรดสูง",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png"
@@ -534,7 +542,7 @@
         "id": "music_kit-62",
         "name": "ชุดอุปกรณ์เพลง | 3kliksphilip, Heading for the Source",
         "name_original": "3kliksphilip_01",
-        "description": "On a quest to go pro, or unintentionally going low? Let this kit’s 80’s synths and dreamy melodies take you back. Back, back, back... to the good old days.",
+        "description": "ในภารกิจที่จะได้กลายเป็นหนึ่งในมือโปร หรือเผลอทำอันดับต่ำลงไปเรื่อย ๆ? ให้ซินธิไซเซอร์และทำนองชวนฝันยุค 80 ของชุดอุปกรณ์เพลงนี้พาคุณย้อน ย้อน ย้อน ย้อน...  กลับสู่วันเก่าที่สวยงาม",
         "rarity": "เกรดสูง",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/3kliksphilip_01.376011867dada400b17c357748d344c1491a2881.png"
@@ -543,7 +551,7 @@
         "id": "music_kit-63",
         "name": "ชุดอุปกรณ์เพลง | Humanity's Last Breath, Void",
         "name_original": "hlb_01",
-        "description": "Swedish Band Humanity's Last Breath drops in heavy with their Void Music Kit. Pounding drums, colossal riffs and an atmosphere to send shivers up your spine.",
+        "description": "วง Humanity's Last Breath จากสวีเดนนำเสนอชุดอุปกรณ์เพลง Void ที่หนักหน่วง ทั้งกลองที่หนักแน่น ริฟฟ์สุดอลังการ และบรรยากาศที่ชวนเสียวสันหลังวาบ",
         "rarity": "เกรดสูง",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hlb_01.0b08df9d78b230f26b9e7eb4f8dca11f298b30ef.png"
@@ -552,7 +560,7 @@
         "id": "music_kit-64",
         "name": "ชุดอุปกรณ์เพลง | Juelz, Shooters",
         "name_original": "juelz_01",
-        "description": "Neo trap synths, gritty 808s, an epic piano riff, and a plethora of gunfire sound effects. The OG trap anthem \\\"Shooters\\\" by Juelz makes for a truly elite Music Kit. Suitable for MVPs only.",
+        "description": "นีโอแทรปซินธิไซเซอร์ยุค 808 ที่โหดเหี้ยม ริฟฟ์เปียโนระดับมหากาพย์ และเอฟเฟกต์เสียงปืนมากมายอันล้นเหลือ ธีมเพลง \\\"Shooters\\\" ของ Trap OG โดย Juelz เป็นสิ่งจำเป็นสำหรับการสร้างชุดอึปกรณ์เพลงที่ยอดเยี่ยมอย่างแท้จริง ซึ่งเหมาะสำหรับ MVP เท่านั้น",
         "rarity": "เกรดสูง",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/juelz_01.0d590b3dd6c58dba054ee00f52a8165966beb310.png"
@@ -561,7 +569,7 @@
         "id": "music_kit-65",
         "name": "ชุดอุปกรณ์เพลง | Knock2, dashstar*",
         "name_original": "knock2_01",
-        "description": "dashstar*, the iconic bass house anthem from Knock2, provides non-stop energy that captures the young San Diego native’s mantra, \\\"no limit\\\".",
+        "description": "เพลง dashstar* เพลงเบสเฮาส์อันเป็นเอกลักษณ์จาก Knock2 มอบพลังที่ไม่มีใครหยุดยั้งได้ซึ่งจับต้องมนต์ของศิลปินหนุ่มชาวซานดิเอโกที่ว่า \\\"ไม่มีขีดจำกัด\\\"",
         "rarity": "เกรดสูง",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/knock2_01.b7cf197447a161b82c11c8e2d460d510ea58acb4.png"
@@ -570,7 +578,7 @@
         "id": "music_kit-66",
         "name": "ชุดอุปกรณ์เพลง | Meechy Darko, Gothic Luxury",
         "name_original": "meechydarko_01",
-        "description": "Grab a Glock and equip this music kit to be transported to the center of New York's underground hip-hop scene.",
+        "description": "คว้าปืน Glock สวมใส่ชุดอุปกรณ์เพลงนี้ แล้วเดินทางไปยังศูนย์กลางวงการฮิปฮอปใต้ดินของนิวยอร์ก",
         "rarity": "เกรดสูง",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/meechydarko_01.5dbe99ff8a2ef9922d84ac61beb9cd685746b886.png"
@@ -579,7 +587,7 @@
         "id": "music_kit-67",
         "name": "ชุดอุปกรณ์เพลง | Sullivan King, Lock Me Up",
         "name_original": "sullivanking_01",
-        "description": "Love the chase? Love the hunt? Hard rock, metal, and dubstep collide in Sullivan King's soundtrack for becoming unstoppable.",
+        "description": "ชอบการไล่ล่า? ชอบการตามล่า? ฮาร์ดร็อก เมทัล และดั๊บสเต็ปในซาวด์แทร็กนี้ของ Sullivan King นี้เหมาะสำหรับใครก็ตามที่ต้องการสัมผัสถึงการหยุดไม่อยู่",
         "rarity": "เกรดสูง",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/sullivanking_01.770772c90c1acf349d26cacbbad1a966a825243c.png"
@@ -588,7 +596,7 @@
         "id": "music_kit-68",
         "name": "ชุดอุปกรณ์เพลง | Perfect World, 花脸 Hua Lian (Painted Face)",
         "name_original": "perfectworld_01",
-        "description": "Celebrate the 5th anniversary of CS:GO's release in China with a one of a kind music kit, 花脸 Hua Lian (Painted Face). This kit combines folk Qinqiang opera (the earliest Chinese style Rock 'n' Roll) and modern Rock 'n' Roll. Whether you are engulfed in smoke or blinded by a flashbang, don't get lost!",
+        "description": "ฉลองครบรอบ 5 ปีของการเปิดตัว CS:GO ในประเทศจีนด้วยชุดอุปกรณ์เพลง 花脸 Hua Lian (Painted Face) ชุดอุปกรณ์เพลงนี้เป็นการผสมผสานระหว่างโอเปร่า Qinqiang พื้นบ้าน (ร็อกแอนด์โรลสไตล์จีนยุคแรกเริ่ม) และร็อกแอนด์โรลสมัยใหม่ ไม่ว่าคุณจะถูกควันไฟกลืนกินหรือถูกระเบิดแสงบังตา ขอจงอย่าหลงทาง!",
         "rarity": "เกรดสูง",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/perfectworld_01.4e4e580548f5d81f30640b2b4cdfa9ba8eec09e0.png"

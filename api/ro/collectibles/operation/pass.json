@@ -1,7 +1,7 @@
 [
     {
         "id": "collectible-1000",
-        "name": "Bilet pentru Operațiunea Payback",
+        "name": "Bilet pentru operațiunea Payback",
         "name_original": "Ticket_CommunitySeasonOneSpring2013",
         "description": "Operațiunea Payback s-a desfășurat în perioada 25 aprilie 2013 - 2 septembrie 2013 și a răsplătit creatorii de hărți comunitare cu peste 180.000 USD. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Payback.",
         "rarity": "Calitate de bază",
@@ -28,7 +28,7 @@
     },
     {
         "id": "collectible-1027",
-        "name": "Bilet cu acces complet pentru Operațiunea Breakout",
+        "name": "Bilet cu acces complet pentru operațiunea Breakout",
         "name_original": "Ticket_CommunitySeasonFourSummer2014",
         "description": "Operațiunea Breakout s-a desfășurat în perioada 2 iulie 2014 - 2 octombrie 2014. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Breakout.",
         "rarity": "Calitate de bază",
@@ -37,7 +37,7 @@
     },
     {
         "id": "collectible-1315",
-        "name": "Bilet cu acces complet pentru Operațiunea Vanguard",
+        "name": "Bilet de acces pentru operațiunea Vanguard",
         "name_original": "Ticket_CommunitySeasonFiveSummer2014",
         "description": "Operațiunea Vanguard s-a desfășurat în perioada 11 noiembrie 2014 - 31 martie 2015. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Vanguard.",
         "rarity": "Calitate de bază",
@@ -46,7 +46,7 @@
     },
     {
         "id": "collectible-1326",
-        "name": "Bilet de acces pentru Operațiunea Bloodhound",
+        "name": "Bilet de acces pentru operațiunea Bloodhound",
         "name_original": "Ticket_CommunitySeasonSix2015",
         "description": "Operațiunea Bloodhound s-a desfășurat în perioada 26 mai 2015 - 1 octombrie 2015. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Bloodhound.",
         "rarity": "Calitate de bază",
@@ -55,7 +55,7 @@
     },
     {
         "id": "collectible-1335",
-        "name": "Bilet de acces pentru Operațiunea Wildfire",
+        "name": "Bilet de acces pentru operațiunea Wildfire",
         "name_original": "Ticket_CommunitySeasonSeven2016",
         "description": "Operațiunea Wildfire s-a desfășurat în perioada 17 februarie 2016 - 13 iulie 2016. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Wildfire.",
         "rarity": "Calitate de bază",
@@ -64,7 +64,7 @@
     },
     {
         "id": "collectible-1352",
-        "name": "Bilet de acces pentru Operațiunea Hydra",
+        "name": "Bilet de acces pentru operațiunea Hydra",
         "name_original": "Ticket_CommunitySeasonEight2017",
         "description": "Operațiunea Hydra s-a desfășurat în perioada 23 mai 2017 - 14 noiembrie 2017. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Hydra.",
         "rarity": "Calitate de bază",
@@ -73,7 +73,7 @@
     },
     {
         "id": "collectible-4549",
-        "name": "Operațiunea Shattered Web – Bilet premium",
+        "name": "Bilet premium pentru operațiunea Shattered Web",
         "name_original": "Ticket_CommunitySeasonNine2019",
         "description": "Operațiunea Shattered Web s-a desfășurat în perioada 18 noiembrie 2019 - 31 martie 2020. Acest bilet nu mai oferă acces la o operațiunea, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Shattered Web.",
         "rarity": "Calitate de bază",
@@ -84,7 +84,7 @@
         "id": "collectible-4554",
         "name": "Katowice 2019 - Bilet de spectator",
         "name_original": "TournamentPass_katowice2019",
-        "description": "Acesta este un bilet de spectator sigilat pentru Campionatul Major de CS:GO IEM Katowice 2019. Odată desigilat, acesta îți va oferi moneda Katowice 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Acesta este un bilet de spectator sigilat pentru campionatul major de CS:GO IEM Katowice 2019. Odată desigilat, acesta îți va oferi moneda Katowice 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Calitate de bază",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/katowice_pickem_2019_pass_large.781a7032e3991b233a3c8312ed6addb63b1d0dca.png"
@@ -93,7 +93,7 @@
         "id": "collectible-4622",
         "name": "Berlin 2019 - Bilet de spectator",
         "name_original": "TournamentPass_berlin2019",
-        "description": "Acesta este un bilet de spectator sigilat pentru Campionatul Major de CS:GO StarLadder Berlin 2019. Odată desigilat, acesta îți va oferi moneda Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎmbunătățește-ți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Acesta este un bilet de spectator sigilat pentru campionatul major de CS:GO StarLadder Berlin 2019. Odată desigilat, acesta îți va oferi moneda Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎmbunătățește-ți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Calitate de bază",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/starladder_pickem_2019_pass_large.0fb237032a1b434d0c5aa0e6653948d187336568.png"
@@ -102,7 +102,7 @@
         "id": "collectible-4627",
         "name": "Berlin 2019 - Bilet de spectator + 3 jetoane de suvenir",
         "name_original": "TournamentPass_berlin2019_pack",
-        "description": "Acesta este un bilet de spectator sigilat pentru Campionatul Major de CS:GO StarLadder Berlin 2019. Odată desigilat, acesta îți va oferi moneda Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎmbunătățește-ți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.\\n\\nAcest bilet de spectator îți va preactiva moneda ta Berlin 2019 cu 3 jetoane de suvenir.",
+        "description": "Acesta este un bilet de spectator sigilat pentru campionatul major de CS:GO StarLadder Berlin 2019. Odată desigilat, acesta îți va oferi moneda Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎmbunătățește-ți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.\\n\\nAcest bilet de spectator îți va preactiva moneda ta Berlin 2019 cu 3 jetoane de suvenir.",
         "rarity": "Calitate de bază",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/starladder_pickem_2019_pass_pack_large.2d3fa17c8ce411f22ddfe18fd27afd18b8645a37.png"
@@ -118,7 +118,7 @@
     },
     {
         "id": "collectible-4699",
-        "name": "Operațiunea Broken Fang – Bilet premium",
+        "name": "Bilet premium pentru operațiunea Broken Fang",
         "name_original": "Ticket_CommunitySeasonTen2020",
         "description": "Operațiunea Broken Fang s-a desfășurat în perioada 3 decembrie 2020 - 30 aprilie 2021. Acest bilet nu mai oferă acces la o operațiunea, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Broken Fang.",
         "rarity": "Calitate de bază",
@@ -127,7 +127,7 @@
     },
     {
         "id": "collectible-4758",
-        "name": "Operațiunea Riptide – Bilet premium",
+        "name": "Bilet premium pentru operațiunea Riptide",
         "name_original": "Ticket_CommunitySeasonEleven2021",
         "description": "Biletul premium al operațiunii Riptide îți oferă o monedă comemorativă a operațiunii Riptide care poate fi îmbunătățită, misiuni săptămânale și acces la obiectele exclusive din magazinul operațiunii.",
         "rarity": "Calitate de bază",

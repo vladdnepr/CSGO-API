@@ -669,34 +669,34 @@
         "id": "collectible-948",
         "name": "Nhà vô địch PGL Krakow 2017",
         "name_original": "CollectibleCoin_Krakow2017_Champion",
-        "description": "Cúp giải đấu này được trao tặng nhà vô địch giải vô địch Major CS:GO PGL Krakow 2017.",
+        "description": "Cúp giải đấu này được trao tặng nhà vô địch giải PGL Krakow 2017.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_large.8a7e1053459660c0ba57dcc2dc95c02cbaf4125b.png"
     },
     {
         "id": "collectible-949",
-        "name": "Lọt vào chung kết tại giải vô địch Major CS:GO PGL Krakow 2017",
+        "name": "Lọt vào chung kết tại giải PGL Krakow 2017",
         "name_original": "CollectibleCoin_Krakow2017_Finalist",
-        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải Major CS:GO PGL Krakow 2017.",
+        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO PGL Krakow 2017.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
     },
     {
         "id": "collectible-950",
-        "name": "Lọt vào bán kết tại giải vô địch Major CS:GO PGL Krakow 2017",
+        "name": "Lọt vào bán kết tại giải PGL Krakow 2017",
         "name_original": "CollectibleCoin_Krakow2017_Semifinalist",
-        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải Major CS:GO PGL Krakow 2017.",
+        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO PGL Krakow 2017.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
     },
     {
         "id": "collectible-951",
-        "name": "Lọt vào tứ kết tại giải vô địch Major CS:GO PGL Krakow 2017",
+        "name": "Lọt vào tứ kết tại giải PGL Krakow 2017",
         "name_original": "CollectibleCoin_Krakow2017_Quarterfinalist",
-        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải Major CS:GO PGL Krakow 2017.",
+        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO PGL Krakow 2017.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
@@ -705,7 +705,7 @@
         "id": "collectible-952",
         "name": "Cúp đồng Pick'Em - Krakow 2017",
         "name_original": "CollectibleCoin_Krakow2017_PickEmBronze",
-        "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải vô địch Major CS:GO PGL Krakow 2017.",
+        "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải PGL Krakow 2017.",
         "rarity": "Phi thường",
         "type": "Old Pick'Em Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/krakow_pickem_2017_bronze_large.ac762a6769060b0f55d7f185bde38bff8c2794aa.png"
@@ -714,7 +714,7 @@
         "id": "collectible-953",
         "name": "Cúp bạc Pick'Em - Krakow 2017",
         "name_original": "CollectibleCoin_Krakow2017_PickEmSilver",
-        "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải vô địch Major CS:GO PGL Krakow 2017.",
+        "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải PGL Krakow 2017.",
         "rarity": "Phi thường",
         "type": "Old Pick'Em Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/krakow_pickem_2017_silver_large.ec84269be17ddeba801dfa664e4d9fa55176c74d.png"
@@ -723,7 +723,7 @@
         "id": "collectible-954",
         "name": "Cúp vàng Pick'Em - Krakow 2017",
         "name_original": "CollectibleCoin_Krakow2017_PickEmGold",
-        "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải vô địch Major CS:GO PGL Krakow 2017.",
+        "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải PGL Krakow 2017.",
         "rarity": "Phi thường",
         "type": "Old Pick'Em Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/krakow_pickem_2017_gold_large.a56437b73cb64b3bfc7cd25d9283181e85f4803c.png"
@@ -867,7 +867,7 @@
         "id": "collectible-970",
         "name": "Huy hiệu trung kiên",
         "name_original": "CollectibleCoin_FortiusQuoFidelius",
-        "description": "Huy hiệu này vinh danh sự trung thành tận tụy của cộng đồng Counter-Strike trước bản cập nhật Danger Zone. <i>Lấy trung thành làm sức mạnh.</i>",
+        "description": "This badge commemorates loyal membership in the Counter-Strike community prior to the Danger Zone update.\\n\\n<i>Strength through loyalty.</i>",
         "rarity": "Phi thường",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/prime_badge_large.f8144d0a79cf586c900a22f4c226410a0f307409.png"
@@ -984,7 +984,7 @@
         "id": "collectible-983",
         "name": "Nhà vô địch PGL Antwerp 2022",
         "name_original": "CollectibleCoin_Antwerp2022_Champion",
-        "description": "This championship trophy was awarded to the Champion at the PGL Antwerp 2022 CS:GO Major Championship.",
+        "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO Major PGL Antwerp 2022.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_large.8a7e1053459660c0ba57dcc2dc95c02cbaf4125b.png"
@@ -993,7 +993,7 @@
         "id": "collectible-984",
         "name": "Lọt vào chung kết tại giải PGL Antwerp 2022",
         "name_original": "CollectibleCoin_Antwerp2022_Finalist",
-        "description": "This championship trophy was awarded to the Finalist at the PGL Antwerp 2022 CS:GO Major Championship.",
+        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết kết giải CS:GO Major PGL Antwerp 2022.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
@@ -1002,7 +1002,7 @@
         "id": "collectible-985",
         "name": "Lọt vào bán kết tại giải PGL Antwerp 2022",
         "name_original": "CollectibleCoin_Antwerp2022_Semifinalist",
-        "description": "This championship trophy was awarded to the Semifinalist at the PGL Antwerp 2022 CS:GO Major Championship.",
+        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO Major PGL Antwerp 2022.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
@@ -1011,7 +1011,7 @@
         "id": "collectible-986",
         "name": "Lọt vào tứ kết tại giải PGL Antwerp 2022",
         "name_original": "CollectibleCoin_Antwerp2022_Quarterfinalist",
-        "description": "This championship trophy was awarded to the Quarterfinalist at the PGL Antwerp 2022 CS:GO Major Championship.",
+        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO Major PGL Antwerp 2022.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
@@ -1027,36 +1027,36 @@
     },
     {
         "id": "collectible-988",
-        "name": "Champion at IEM Rio 2022",
+        "name": "Nhà vô địch IEM Rio 2022",
         "name_original": "CollectibleCoin_Rio2022_Champion",
-        "description": "This championship trophy was awarded to the Champion at the IEM Rio 2022 CS:GO Major Championship.",
+        "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO Major IEM Rio 2022.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_large.8a7e1053459660c0ba57dcc2dc95c02cbaf4125b.png"
     },
     {
         "id": "collectible-989",
-        "name": "Finalist at IEM Rio 2022",
+        "name": "Lọt vào chung kết tại giải IEM Rio 2022",
         "name_original": "CollectibleCoin_Rio2022_Finalist",
-        "description": "This championship trophy was awarded to the Finalist at the IEM Rio 2022 CS:GO Major Championship.",
+        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO Major IEM Rio 2022.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
     },
     {
         "id": "collectible-990",
-        "name": "Semifinalist at IEM Rio 2022",
+        "name": "Lọt vào bán kết tại giải IEM Rio 2022",
         "name_original": "CollectibleCoin_Rio2022_Semifinalist",
-        "description": "This championship trophy was awarded to the Semifinalist at the IEM Rio 2022 CS:GO Major Championship.",
+        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO Major IEM Rio 2022.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
     },
     {
         "id": "collectible-991",
-        "name": "Quarterfinalist at IEM Rio 2022",
+        "name": "Lọt vào tứ kết tại giải IEM Rio 2022",
         "name_original": "CollectibleCoin_Rio2022_Quarterfinalist",
-        "description": "This championship trophy was awarded to the Quarterfinalist at the IEM Rio 2022 CS:GO Major Championship.",
+        "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO Major IEM Rio 2022.",
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
@@ -1096,6 +1096,14 @@
         "rarity": "Phi thường",
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
+    },
+    {
+        "id": "collectible-996",
+        "name": "Global Offensive Badge",
+        "name_original": "CollectibleCoin_CoinCsgo",
+        "description": "This badge commemorates loyal membership in the Counter-Strike: Global Offensive community prior to the release of Counter-Strike 2. \\n\\n<i>Legends never die.</i>",
+        "rarity": "Phi thường",
+        "type": null
     },
     {
         "id": "collectible-1000",
@@ -1801,7 +1809,7 @@
     },
     {
         "id": "collectible-1079",
-        "name": "Iris Map Coin",
+        "name": "Huy chương bản đồ - Iris",
         "name_original": "Collectible_MapTokenIris",
         "description": null,
         "rarity": "Phi thường",
@@ -1810,7 +1818,7 @@
     },
     {
         "id": "collectible-1080",
-        "name": "Climb Map Coin",
+        "name": "Huy chương bản đồ - Climb",
         "name_original": "Collectible_MapTokenClimb",
         "description": null,
         "rarity": "Phi thường",
@@ -2532,7 +2540,7 @@
         "id": "collectible-4682",
         "name": "Civil Protection Pin",
         "name_original": "Collectible_Pin_alyx_04",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_04_large.dbf162193bf566cf7bd58a8f2568032eee57e91f.png"
@@ -2541,7 +2549,7 @@
         "id": "collectible-4683",
         "name": "Huy hiệu Sustenance!",
         "name_original": "Collectible_Pin_alyx_07",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_07_large.4838e2700ecdcee50ed6fc63b4e256ca9dfea0c6.png"
@@ -2550,7 +2558,7 @@
         "id": "collectible-4684",
         "name": "Huy hiệu Vortigaunt",
         "name_original": "Collectible_Pin_alyx_09",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_09_large.388086a40d903be6a619537e590abe045e251f6b.png"
@@ -2559,7 +2567,7 @@
         "id": "collectible-4685",
         "name": "Huy hiệu Headcrab Glyph",
         "name_original": "Collectible_Pin_alyx_05",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_05_large.a6d1d7ea523251b325e9404a2abdab41daaf2e0a.png"
@@ -2568,7 +2576,7 @@
         "id": "collectible-4686",
         "name": "Huy hiệu sức khỏe",
         "name_original": "Collectible_Pin_alyx_12",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_12_large.0a6ec0c756a8f028330a62ff8e2896359086aaeb.png"
@@ -2577,7 +2585,7 @@
         "id": "collectible-4687",
         "name": "Huy hiệu Lambda",
         "name_original": "Collectible_Pin_alyx_01",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_01_large.acaf92f298ff89c8348e9ff8a9a0da0e79f1fc34.png"
@@ -2586,7 +2594,7 @@
         "id": "collectible-4688",
         "name": "Huy hiệu Lambda Đồng",
         "name_original": "Collectible_Pin_alyx_02",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_02_large.7fc961f70ed57d2e4ee9bb4f54191dcc6cb44b83.png"
@@ -2595,7 +2603,7 @@
         "id": "collectible-4689",
         "name": "Huy hiệu CMB",
         "name_original": "Collectible_Pin_alyx_03",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_03_large.4acbd16b76c36d815bfd00494b8e8659928705ae.png"
@@ -2604,7 +2612,7 @@
         "id": "collectible-4690",
         "name": "Huy hiệu Black Mesa",
         "name_original": "Collectible_Pin_alyx_06",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_06_large.42ec2b5ab516b19db2dd99877aa9f8ec34fb3df8.png"
@@ -2613,7 +2621,7 @@
         "id": "collectible-4691",
         "name": "Huy hiệu mũ Combine",
         "name_original": "Collectible_Pin_alyx_08",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_08_large.016473ad936d9a17607a22f1441c0ad073607c43.png"
@@ -2622,7 +2630,7 @@
         "id": "collectible-4692",
         "name": "Huy hiệu City 17",
         "name_original": "Collectible_Pin_alyx_11",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_11_large.9ef21098f19e55401066f8c2ece2c7279150274a.png"
@@ -2838,7 +2846,7 @@
         "id": "collectible-4797",
         "name": "Huy chương Stockholm 2021",
         "name_original": "TournamentJournal_stockh2021",
-        "description": "This is a commemorative PGL 2021 Stockholm CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Stockholm 2021 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major PGL Stockholm 2021, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào Thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Stockholm 2021 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_bronze_large.6fa94b8d0104298d1c78535e63d8a0a475221c4e.png"
@@ -2847,7 +2855,7 @@
         "id": "collectible-4798",
         "name": "Huy chương bạc Stockholm 2021",
         "name_original": "TournamentJournal_stockh2021_Silver",
-        "description": "This is a commemorative PGL 2021 Stockholm CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Stockholm 2021 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major PGL Stockholm 2021, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào Thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Stockholm 2021 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_silver_large.c5f4e2d28301eeecef652d415a38661eee755ef2.png"
@@ -2856,7 +2864,7 @@
         "id": "collectible-4799",
         "name": "Huy chương vàng Stockholm 2021",
         "name_original": "TournamentJournal_stockh2021_Gold",
-        "description": "This is a commemorative PGL 2021 Stockholm CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Stockholm 2021 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major PGL Stockholm 2021, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào Thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Stockholm 2021 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_gold_large.1cac9b6e7c7203ba5c1ec559983992b6762d350c.png"
@@ -2865,7 +2873,7 @@
         "id": "collectible-4800",
         "name": "Huy chương kim cương Stockholm 2021",
         "name_original": "TournamentJournal_stockh2021_Crystal",
-        "description": "This is a commemorative PGL 2021 Stockholm CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Stockholm 2021 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major PGL Stockholm 2021, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào Thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Stockholm 2021 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_crystal_large.3a262047483b99a2922537f57df161d14d6b6ef5.png"
@@ -2944,126 +2952,126 @@
     },
     {
         "id": "collectible-4825",
-        "name": "Antwerp 2022 Viewer Pass",
+        "name": "Vé xem giải Antwerp 2022",
         "name_original": "TournamentPass_antwerp2022",
-        "description": "This is a sealed PGL 2022 Antwerp CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Antwerp 2022 Coin tracking your progress throughout the event, full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
+        "description": "Đây là vé xem giải vô địch Major CS:GO PGL Antwerp 2022 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn huy chương Antwerp 2022 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Antwerp 2022, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Antwerp 2022 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
         "rarity": "Hạng cơ bản",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_large.1a83bb154dad72832132e99658db0e816cd09cdb.png"
     },
     {
         "id": "collectible-4826",
-        "name": "Antwerp 2022 Coin",
+        "name": "Huy chương Antwerp 2022",
         "name_original": "TournamentJournal_antwerp2022",
-        "description": "This is a commemorative PGL 2022 Antwerp CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major PGL 2022 Antwerp, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Antwerp 2022, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Antwerp 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp Huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_bronze_large.d6b0ef1ed0794418b1927604ba5b2e9596bc21ee.png"
     },
     {
         "id": "collectible-4827",
-        "name": "Antwerp 2022 Silver Coin",
+        "name": "Huy chương bạc Antwerp 2022",
         "name_original": "TournamentJournal_antwerp2022_Silver",
-        "description": "This is a commemorative PGL 2022 Antwerp CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major PGL 2022 Antwerp, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Antwerp 2022, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Antwerp 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp Huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_silver_large.fbc32111a4101f2c88d44df70bbd005c671fd010.png"
     },
     {
         "id": "collectible-4828",
-        "name": "Antwerp 2022 Gold Coin",
+        "name": "Huy chương vàng Antwerp 2022",
         "name_original": "TournamentJournal_antwerp2022_Gold",
-        "description": "This is a commemorative PGL 2022 Antwerp CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major PGL 2022 Antwerp, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Antwerp 2022, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Antwerp 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp Huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_gold_large.903526b76658c80bf954bee326a24999e5b3c057.png"
     },
     {
         "id": "collectible-4829",
-        "name": "Antwerp 2022 Diamond Coin",
+        "name": "Huy chương kim cương Antwerp 2022",
         "name_original": "TournamentJournal_antwerp2022_Crystal",
-        "description": "This is a commemorative PGL 2022 Antwerp CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major PGL 2022 Antwerp, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Antwerp 2022, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Antwerp 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp Huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_crystal_large.621b3bb82b76d1b61523b715222fd12ddcc68ccd.png"
     },
     {
         "id": "collectible-4830",
-        "name": "Antwerp 2022 Viewer Pass + 3 Souvenir Tokens",
+        "name": "Vé xem giải Antwerp 2022 + 3 Token lưu niệm",
         "name_original": "TournamentPass_antwerp2022_pack",
-        "description": "This is a sealed PGL 2022 Antwerp CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Antwerp 2022 Coin tracking your progress throughout the event, full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Antwerp 2022 Coin by completing the coin challenges. Earn a Souvenir Token every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Antwerp 2022 Coin with 3 Souvenir Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
+        "description": "Đây là một vé xem giải vô địch Major CS:GO PGL Antwerp 2022 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn một huy chương Antwerp 2022 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Antwerp 2022, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Antwerp 2022 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem giải này sẽ kèm theo cho bạn 3 token lưu niệm sau khi kích hoạt vé.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
         "rarity": "Hạng cơ bản",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_pack_large.cc1894fc1fafb6b159346764f92e5b6b0ff9e2c8.png"
     },
     {
         "id": "collectible-4831",
-        "name": "Antwerp 2022 Souvenir Token",
+        "name": "Token lưu niệm Antwerp 2022",
         "name_original": "TournamentPass_antwerp2022_charge",
-        "description": "This is a sealed PGL 2022 Antwerp CS:GO Major Championship Souvenir Token. Once this token is unsealed, it will add a token to your Antwerp 2022 Coin and allow you to claim a Souvenir Package.\\n\\nTokens can only be applied to your existing Antwerp 2022 Coin.",
+        "description": "Đây là một Token lưu niệm CS:GO Major PGL 2022 Antwerp chưa được mở. Khi mở token này, nó sẽ thêm một token vào Huy chương Antwerp 2022 của bạn và cho phép nhận gói quà lưu niệm.\\n\\nToken chỉ có thể áp dụng cho Huy chương Antwerp 2022 bạn hiện có.",
         "rarity": "Hạng cơ bản",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_charge_large.767dda9572f597e6ce4af1f73073e844eb6aae2b.png"
     },
     {
         "id": "collectible-4850",
-        "name": "Rio 2022 Viewer Pass",
+        "name": "Vé xem giải Rio 2022",
         "name_original": "TournamentPass_rio2022",
-        "description": "This is a sealed IEM Rio 2022 CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Rio 2022 Coin tracking your progress throughout the event, full access to the Rio 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Rio 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
+        "description": "Đây là vé xem giải vô địch Major CS:GO IEM Rio 2022 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn huy chương Rio 2022 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Rio 2022 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
         "rarity": "Hạng cơ bản",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_pass_large.05a9c387addff7eb89b2d1f6acfd22943fb3c4d4.png"
     },
     {
         "id": "collectible-4851",
-        "name": "Rio 2022 Coin",
+        "name": "Huy chương Rio 2022",
         "name_original": "TournamentJournal_rio2022",
-        "description": "This is a commemorative IEM Rio 2022 CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Rio 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Rio 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major IEM Rio 2022, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào Thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Rio 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_bronze_large.11a15e829b19306014e5c020aa5c0a41a1acb564.png"
     },
     {
         "id": "collectible-4852",
-        "name": "Rio 2022 Silver Coin",
+        "name": "Huy chương bạc Rio 2022",
         "name_original": "TournamentJournal_rio2022_Silver",
-        "description": "This is a commemorative IEM Rio 2022 CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Rio 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Rio 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major IEM Rio 2022, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào Thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Rio 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_silver_large.b0fcc69786742d2a4702229f63461d3a4f7a9264.png"
     },
     {
         "id": "collectible-4853",
-        "name": "Rio 2022 Gold Coin",
+        "name": "Huy chương vàng Rio 2022",
         "name_original": "TournamentJournal_rio2022_Gold",
-        "description": "This is a commemorative IEM Rio 2022 CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Rio 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Rio 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major IEM Rio 2022, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào Thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Rio 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_gold_large.78a52a96e06fc2cf5448dc5ebb31dd8e670037c7.png"
     },
     {
         "id": "collectible-4854",
-        "name": "Rio 2022 Diamond Coin",
+        "name": "Huy chương kim cương Rio 2022",
         "name_original": "TournamentJournal_rio2022_Crystal",
-        "description": "This is a commemorative IEM Rio 2022 CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Rio 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Rio 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Đây là Huy chương kỉ niệm giải CS:GO Major IEM Rio 2022, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào Thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp Huy chương Rio 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Token lưu niệm mỗi lần nâng cấp huy chương của mình.",
         "rarity": "Phi thường",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_crystal_large.d099d1f9271f0e8178222b8c41ae55bbc8290f5a.png"
     },
     {
         "id": "collectible-4855",
-        "name": "Rio 2022 Viewer Pass + 3 Souvenir Tokens",
+        "name": "Vé xem Rio 2022 + 3 Token lưu niệm",
         "name_original": "TournamentPass_rio2022_pack",
-        "description": "This is a sealed IEM Rio 2022 CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Rio 2022 Coin tracking your progress throughout the event, full access to the Rio 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Rio 2022 Coin by completing the coin challenges. Earn a Souvenir Token every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Rio 2022 Coin with 3 Souvenir Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
+        "description": "Đây là một vé xem giải vô địch Major CS:GO IEM Rio 2022 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn một huy chương Rio 2022 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Rio 2022 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem giải này sẽ kèm theo cho bạn 3 token lưu niệm sau khi kích hoạt vé.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
         "rarity": "Hạng cơ bản",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_pass_pack_large.2a52ecc96936c635ae83da165a1c27e43e1ebf5f.png"
     },
     {
         "id": "collectible-4856",
-        "name": "Rio 2022 Souvenir Token",
+        "name": "Token lưu niệm Rio 2022",
         "name_original": "TournamentPass_rio2022_charge",
-        "description": "This is a sealed IEM Rio 2022 CS:GO Major Championship Souvenir Token. Once this token is unsealed, it will add a token to your Rio 2022 Coin and allow you to claim a Souvenir Package.\\n\\nTokens can only be applied to your existing Rio 2022 Coin.",
+        "description": "Đây là một Token lưu niệm giải vô địch Major CS:GO IEM Rio 2022 chưa được mở. Khi mở token này, nó sẽ thêm một token vào huy chương Rio 2022 của bạn và cho phép bạn nhận về một gói quà lưu niệm.\\n\\nToken chỉ có thể được áp dụng cho huy chương Rio 2022 bạn hiện có.",
         "rarity": "Hạng cơ bản",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_pass_charge_large.767dda9572f597e6ce4af1f73073e844eb6aae2b.png"
@@ -3189,7 +3197,7 @@
         "id": "collectible-6001",
         "name": "Huy hiệu Dust II (Chính hãng)",
         "name_original": "Collectible_Pin_DustII",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_dust2_large.619f7e63556591eda38a7982f63dcd686f746371.png"
@@ -3198,7 +3206,7 @@
         "id": "collectible-6002",
         "name": "Huy hiệu hộ vệ cao cấp (Chính hãng)",
         "name_original": "Collectible_Pin_GuardianElite",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardianelite_large.709bd555c8af75e87ee661aaacc5ea4f87ac8f36.png"
@@ -3207,7 +3215,7 @@
         "id": "collectible-6003",
         "name": "Huy hiệu Mirage (Chính hãng)",
         "name_original": "Collectible_Pin_Mirage",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_mirage_large.52d568542487696880ef395ef009853cdd88c2e8.png"
@@ -3216,7 +3224,7 @@
         "id": "collectible-6004",
         "name": "Huy hiệu Inferno (Chính hãng)",
         "name_original": "Collectible_Pin_Inferno",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_inferno_large.082a3bf33e7f6e812a47b11821f477e491f4ad2d.png"
@@ -3225,7 +3233,7 @@
         "id": "collectible-6005",
         "name": "Huy hiệu Italy (Chính hãng)",
         "name_original": "Collectible_Pin_Italy",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_italy_large.ebe62876c27f1bd012cb1c3b61b4b8e8ec2d6a9a.png"
@@ -3234,7 +3242,7 @@
         "id": "collectible-6006",
         "name": "Huy hiệu chiến thắng (Chính hãng)",
         "name_original": "Collectible_Pin_Victory",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_victory_large.64efa85ea1f1241610c21ca355ee60a24430c581.png"
@@ -3243,7 +3251,7 @@
         "id": "collectible-6007",
         "name": "Huy hiệu Militia (Chính hãng)",
         "name_original": "Collectible_Pin_Militia",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_militia_large.7c2d05990e80c386018596b4dc45982aa1bf8e4e.png"
@@ -3252,7 +3260,7 @@
         "id": "collectible-6008",
         "name": "Huy hiệu Nuke (Chính hãng)",
         "name_original": "Collectible_Pin_Nuke",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_nuke_large.a523a4fe17b12c42f7a99e12fc6db499ff97d5bb.png"
@@ -3261,7 +3269,7 @@
         "id": "collectible-6009",
         "name": "Huy hiệu Train (Chính hãng)",
         "name_original": "Collectible_Pin_Train",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_train_large.86f41b7a5eb7046a720fea36546d71b54ff30200.png"
@@ -3270,7 +3278,7 @@
         "id": "collectible-6010",
         "name": "Huy hiệu hộ vệ (Chính hãng)",
         "name_original": "Collectible_Pin_Guardian",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_large.0ec6a8661f634532fbf231a2838c1db57ab6537c.png"
@@ -3279,7 +3287,7 @@
         "id": "collectible-6011",
         "name": "Huy hiệu chiến thuật (Chính hãng)",
         "name_original": "Collectible_Pin_Tactics",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png"
@@ -3288,7 +3296,7 @@
         "id": "collectible-6012",
         "name": "Huy hiệu hộ vệ 2 (Chính hãng)",
         "name_original": "Collectible_Pin_guardian_2",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_2_large.975176792f130495cdcd7f43e01bc8b4a75c96b6.png"
@@ -3297,7 +3305,7 @@
         "id": "collectible-6013",
         "name": "Huy hiệu Bravo (Chính hãng)",
         "name_original": "Collectible_Pin_bravo",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_bravo_large.29a85b644318ff1f36f07159d8c933ac49bdbcdd.png"
@@ -3306,7 +3314,7 @@
         "id": "collectible-6014",
         "name": "Huy hiệu Baggage (Chính hãng)",
         "name_original": "Collectible_Pin_baggage",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_baggage_large.af148c0aa24af8722ff7bf87031ff7418541fd10.png"
@@ -3315,7 +3323,7 @@
         "id": "collectible-6015",
         "name": "Huy hiệu Phoenix (Chính hãng)",
         "name_original": "Collectible_Pin_phoenix",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_phoenix_large.7b2e845e2299be8d4287a4b0082b0b55d206e80f.png"
@@ -3324,7 +3332,7 @@
         "id": "collectible-6016",
         "name": "Huy hiệu Office (Chính hãng)",
         "name_original": "Collectible_Pin_office",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_office_large.9ab3200bac986bf5bcb548d428dc6f7768474ebd.png"
@@ -3333,7 +3341,7 @@
         "id": "collectible-6017",
         "name": "Huy hiệu Cobblestone (Chính hãng)",
         "name_original": "Collectible_Pin_cobblestone",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_cobblestone_large.2a8f37ee4d3000fe3646c27682ef55fa5e42efd1.png"
@@ -3342,7 +3350,7 @@
         "id": "collectible-6018",
         "name": "Huy hiệu Overpass (Chính hãng)",
         "name_original": "Collectible_Pin_overpass",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_overpass_large.495d2ffee9e506f9ad4d494de711dbd3971525ff.png"
@@ -3351,7 +3359,7 @@
         "id": "collectible-6019",
         "name": "Huy hiệu Bloodhound (Chính hãng)",
         "name_original": "Collectible_Pin_bloodhound",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_bloodhound_large.330aeb89c80b499fb85c09431935e50a42b9ed15.png"
@@ -3360,7 +3368,7 @@
         "id": "collectible-6020",
         "name": "Huy hiệu Cache (Chính hãng)",
         "name_original": "Collectible_Pin_cache",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_cache_large.d56aa816fea6822bdc63c4ea00f53a00939efa23.png"
@@ -3369,7 +3377,7 @@
         "id": "collectible-6021",
         "name": "Huy hiệu Valeria Phoenix (Chính hãng)",
         "name_original": "Collectible_Pin_valeria",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_valeria_large.4f554818949e92e874881d747b5732dda4b0c075.png"
@@ -3378,7 +3386,7 @@
         "id": "collectible-6022",
         "name": "Huy hiệu Chroma (Chính hãng)",
         "name_original": "Collectible_Pin_chroma",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_chroma_large.dc3201036a8d97e593612d3821f0ebaaff25c5b4.png"
@@ -3387,7 +3395,7 @@
         "id": "collectible-6023",
         "name": "Huy hiệu hộ vệ 3 (Chính hãng)",
         "name_original": "Collectible_Pin_guardian_3",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_3_large.d449ae6cc98e0c75f5f95e97b144e7d70111cded.png"
@@ -3396,7 +3404,7 @@
         "id": "collectible-6024",
         "name": "Huy hiệu Canals (Chính hãng)",
         "name_original": "Collectible_Pin_canals",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_canals_large.f9c191c770747c2c435f8526ba7aa5737524bafe.png"
@@ -3405,7 +3413,7 @@
         "id": "collectible-6025",
         "name": "Huy hiệu Welcome to the Clutch (Chính hãng)",
         "name_original": "Collectible_Pin_welcome_to_the_clutch",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_welcome_to_the_clutch_large.662a5bf5a15d477be33b643b88e0e1254b16101d.png"
@@ -3414,7 +3422,7 @@
         "id": "collectible-6026",
         "name": "Huy hiệu Án tử hình (Chính hãng)",
         "name_original": "Collectible_Pin_death_sentence",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_death_sentence_large.2d37ade206ca6afb2aaaf99ef607816b4a1a8fa2.png"
@@ -3423,7 +3431,7 @@
         "id": "collectible-6027",
         "name": "Huy hiệu Inferno 2 (Chính hãng)",
         "name_original": "Collectible_Pin_inferno_2",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_inferno_2_large.9d576c8c26538d5d2b10d5cebfeafb89b09f54cb.png"
@@ -3432,7 +3440,7 @@
         "id": "collectible-6028",
         "name": "Huy hiệu Wildfire (Chính hãng)",
         "name_original": "Collectible_Pin_wildfire",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_wildfire_large.b461dbbf67ab98a7c6e12f57223edd3c1892cc77.png"
@@ -3441,7 +3449,7 @@
         "id": "collectible-6029",
         "name": "Huy hiệu Easy Peasy (Chính hãng)",
         "name_original": "Collectible_Pin_easy_peasy",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_easy_peasy_large.6d3a26506958fe262928f3be5423d241dd78edab.png"
@@ -3450,7 +3458,7 @@
         "id": "collectible-6030",
         "name": "Huy hiệu Aces High (Chính hãng)",
         "name_original": "Collectible_Pin_aces_high",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_aces_high_large.5787bd8d31493f6d1abbfbf71b0368920261286e.png"
@@ -3459,7 +3467,7 @@
         "id": "collectible-6031",
         "name": "Huy hiệu Hydra (Chính hãng)",
         "name_original": "Collectible_Pin_hydra",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_hydra_large.3939e69d36c23599f2712e70db5bc0ab68e6c167.png"
@@ -3468,7 +3476,7 @@
         "id": "collectible-6032",
         "name": "Huy hiệu Howl (Chính hãng)",
         "name_original": "Collectible_Pin_howl",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_howl_large.3506b6beea04a5bca3e2d48d3f7091990f2c5240.png"
@@ -3477,7 +3485,7 @@
         "id": "collectible-6033",
         "name": "Huy hiệu Brigadier General (Chính hãng)",
         "name_original": "Collectible_Pin_brigadier_general",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_brigadier_general_large.ac36f4a0335246e25cbca477bf8e131bb2b6a771.png"
@@ -3486,7 +3494,7 @@
         "id": "collectible-6034",
         "name": "Huy hiệu Alyx (Chính hãng)",
         "name_original": "Collectible_Pin_alyx_10",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_10_large.47dff8e98927b45ef095ef27837a2ab0fb3ec52d.png"
@@ -3495,7 +3503,7 @@
         "id": "collectible-6101",
         "name": "Huy hiệu Dust II",
         "name_original": "Collectible_Pin_DustII",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_dust2_large.619f7e63556591eda38a7982f63dcd686f746371.png"
@@ -3504,7 +3512,7 @@
         "id": "collectible-6102",
         "name": "Huy hiệu hộ vệ cao cấp",
         "name_original": "Collectible_Pin_GuardianElite",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardianelite_large.709bd555c8af75e87ee661aaacc5ea4f87ac8f36.png"
@@ -3513,7 +3521,7 @@
         "id": "collectible-6103",
         "name": "Huy hiệu Mirage",
         "name_original": "Collectible_Pin_Mirage",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_mirage_large.52d568542487696880ef395ef009853cdd88c2e8.png"
@@ -3522,7 +3530,7 @@
         "id": "collectible-6104",
         "name": "Huy hiệu Inferno",
         "name_original": "Collectible_Pin_Inferno",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_inferno_large.082a3bf33e7f6e812a47b11821f477e491f4ad2d.png"
@@ -3531,7 +3539,7 @@
         "id": "collectible-6105",
         "name": "Huy hiệu Italy",
         "name_original": "Collectible_Pin_Italy",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_italy_large.ebe62876c27f1bd012cb1c3b61b4b8e8ec2d6a9a.png"
@@ -3540,7 +3548,7 @@
         "id": "collectible-6106",
         "name": "Huy hiệu chiến thắng",
         "name_original": "Collectible_Pin_Victory",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_victory_large.64efa85ea1f1241610c21ca355ee60a24430c581.png"
@@ -3549,7 +3557,7 @@
         "id": "collectible-6107",
         "name": "Huy hiệu Militia",
         "name_original": "Collectible_Pin_Militia",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_militia_large.7c2d05990e80c386018596b4dc45982aa1bf8e4e.png"
@@ -3558,7 +3566,7 @@
         "id": "collectible-6108",
         "name": "Huy hiệu Nuke",
         "name_original": "Collectible_Pin_Nuke",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_nuke_large.a523a4fe17b12c42f7a99e12fc6db499ff97d5bb.png"
@@ -3567,7 +3575,7 @@
         "id": "collectible-6109",
         "name": "Huy hiệu Train",
         "name_original": "Collectible_Pin_Train",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_train_large.86f41b7a5eb7046a720fea36546d71b54ff30200.png"
@@ -3576,7 +3584,7 @@
         "id": "collectible-6110",
         "name": "Huy hiệu hộ vệ",
         "name_original": "Collectible_Pin_Guardian",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_large.0ec6a8661f634532fbf231a2838c1db57ab6537c.png"
@@ -3585,7 +3593,7 @@
         "id": "collectible-6111",
         "name": "Huy hiệu chiến thuật",
         "name_original": "Collectible_Pin_Tactics",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png"
@@ -3594,7 +3602,7 @@
         "id": "collectible-6112",
         "name": "Huy hiệu hộ vệ 2",
         "name_original": "Collectible_Pin_guardian_2",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_2_large.975176792f130495cdcd7f43e01bc8b4a75c96b6.png"
@@ -3603,7 +3611,7 @@
         "id": "collectible-6113",
         "name": "Huy hiệu Bravo",
         "name_original": "Collectible_Pin_bravo",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_bravo_large.29a85b644318ff1f36f07159d8c933ac49bdbcdd.png"
@@ -3612,7 +3620,7 @@
         "id": "collectible-6114",
         "name": "Huy hiệu Baggage",
         "name_original": "Collectible_Pin_baggage",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_baggage_large.af148c0aa24af8722ff7bf87031ff7418541fd10.png"
@@ -3621,7 +3629,7 @@
         "id": "collectible-6115",
         "name": "Huy hiệu Phoenix",
         "name_original": "Collectible_Pin_phoenix",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_phoenix_large.7b2e845e2299be8d4287a4b0082b0b55d206e80f.png"
@@ -3630,7 +3638,7 @@
         "id": "collectible-6116",
         "name": "Huy hiệu Office",
         "name_original": "Collectible_Pin_office",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_office_large.9ab3200bac986bf5bcb548d428dc6f7768474ebd.png"
@@ -3639,7 +3647,7 @@
         "id": "collectible-6117",
         "name": "Huy hiệu Cobblestone",
         "name_original": "Collectible_Pin_cobblestone",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_cobblestone_large.2a8f37ee4d3000fe3646c27682ef55fa5e42efd1.png"
@@ -3648,7 +3656,7 @@
         "id": "collectible-6118",
         "name": "Huy hiệu Overpass",
         "name_original": "Collectible_Pin_overpass",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_overpass_large.495d2ffee9e506f9ad4d494de711dbd3971525ff.png"
@@ -3657,7 +3665,7 @@
         "id": "collectible-6119",
         "name": "Huy hiệu Bloodhound",
         "name_original": "Collectible_Pin_bloodhound",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_bloodhound_large.330aeb89c80b499fb85c09431935e50a42b9ed15.png"
@@ -3666,7 +3674,7 @@
         "id": "collectible-6120",
         "name": "Huy hiệu Cache",
         "name_original": "Collectible_Pin_cache",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_cache_large.d56aa816fea6822bdc63c4ea00f53a00939efa23.png"
@@ -3675,7 +3683,7 @@
         "id": "collectible-6121",
         "name": "Huy hiệu Valeria Phoenix",
         "name_original": "Collectible_Pin_valeria",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_valeria_large.4f554818949e92e874881d747b5732dda4b0c075.png"
@@ -3684,7 +3692,7 @@
         "id": "collectible-6122",
         "name": "Huy hiệu Chroma",
         "name_original": "Collectible_Pin_chroma",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_chroma_large.dc3201036a8d97e593612d3821f0ebaaff25c5b4.png"
@@ -3693,7 +3701,7 @@
         "id": "collectible-6123",
         "name": "Huy hiệu hộ vệ 3",
         "name_original": "Collectible_Pin_guardian_3",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_3_large.d449ae6cc98e0c75f5f95e97b144e7d70111cded.png"
@@ -3702,7 +3710,7 @@
         "id": "collectible-6124",
         "name": "Huy hiệu Canals",
         "name_original": "Collectible_Pin_canals",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_canals_large.f9c191c770747c2c435f8526ba7aa5737524bafe.png"
@@ -3711,7 +3719,7 @@
         "id": "collectible-6125",
         "name": "Huy hiệu Welcome to the Clutch",
         "name_original": "Collectible_Pin_welcome_to_the_clutch",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_welcome_to_the_clutch_large.662a5bf5a15d477be33b643b88e0e1254b16101d.png"
@@ -3720,7 +3728,7 @@
         "id": "collectible-6126",
         "name": "Huy hiệu Án tử hình",
         "name_original": "Collectible_Pin_death_sentence",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Hạng cao cấp",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_death_sentence_large.2d37ade206ca6afb2aaaf99ef607816b4a1a8fa2.png"
@@ -3729,7 +3737,7 @@
         "id": "collectible-6127",
         "name": "Huy hiệu Inferno 2",
         "name_original": "Collectible_Pin_inferno_2",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_inferno_2_large.9d576c8c26538d5d2b10d5cebfeafb89b09f54cb.png"
@@ -3738,7 +3746,7 @@
         "id": "collectible-6128",
         "name": "Huy hiệu Wildfire",
         "name_original": "Collectible_Pin_wildfire",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_wildfire_large.b461dbbf67ab98a7c6e12f57223edd3c1892cc77.png"
@@ -3747,7 +3755,7 @@
         "id": "collectible-6129",
         "name": "Huy hiệu Easy Peasy",
         "name_original": "Collectible_Pin_easy_peasy",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ấn tượng",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_easy_peasy_large.6d3a26506958fe262928f3be5423d241dd78edab.png"
@@ -3756,7 +3764,7 @@
         "id": "collectible-6130",
         "name": "Huy hiệu Aces High",
         "name_original": "Collectible_Pin_aces_high",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_aces_high_large.5787bd8d31493f6d1abbfbf71b0368920261286e.png"
@@ -3765,7 +3773,7 @@
         "id": "collectible-6131",
         "name": "Huy hiệu Hydra",
         "name_original": "Collectible_Pin_hydra",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Ngoại nhập",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_hydra_large.3939e69d36c23599f2712e70db5bc0ab68e6c167.png"
@@ -3774,7 +3782,7 @@
         "id": "collectible-6132",
         "name": "Huy hiệu Howl",
         "name_original": "Collectible_Pin_howl",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_howl_large.3506b6beea04a5bca3e2d48d3f7091990f2c5240.png"
@@ -3783,7 +3791,7 @@
         "id": "collectible-6133",
         "name": "Huy hiệu Brigadier General",
         "name_original": "Collectible_Pin_brigadier_general",
-        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_brigadier_general_large.ac36f4a0335246e25cbca477bf8e131bb2b6a771.png"
@@ -3792,7 +3800,7 @@
         "id": "collectible-6134",
         "name": "Huy hiệu Alyx",
         "name_original": "Collectible_Pin_alyx_10",
-        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, sự trở lại của Valve tới thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ CS:GO của mình.",
+        "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
         "rarity": "Phi thường",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_10_large.47dff8e98927b45ef095ef27837a2ab0fb3ec52d.png"

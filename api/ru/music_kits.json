@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "Официальный музыкальный набор Counter-Strike 2.",
+        "rarity": "высшего класса",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Набор музыки | Daniel Sadowski — Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -111,7 +119,7 @@
         "id": "music_kit-15",
         "name": "Набор музыки | Разные исполнители — Hotline Miami",
         "name_original": "hotlinemiami_01",
-        "description": "В этом потрясающем музыкальном наборе множество авторов электронной музыки предоставят вам зубодробительные мотивы из популярной игры «Hotline Miami».",
+        "description": "В этом потрясающем музыкальном наборе множество авторов электронной музыки предоставят вам зубодробительные мотивы из популярной игры Hotline Miami.",
         "rarity": "высшего класса",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hotlinemiami_01.df89086218adcaf00b86cffff78191f2f5bcb500.png"
@@ -129,7 +137,7 @@
         "id": "music_kit-17",
         "name": "Набор музыки | Damjan Mravunac — The Talos Principle",
         "name_original": "damjanmravunac_01",
-        "description": "В этом музыкальном наборе из великолепной «The Talos Principle», разработанной студией Croteam, композитор Дамьян Мравунац смешивает потрясающие энергетические мотивы с эпическим хором.",
+        "description": "В этом музыкальном наборе из великолепной The Talos Principle, разработанной студией Croteam, композитор Дамьян Мравунац смешивает потрясающие энергетические мотивы с эпическим хором.",
         "rarity": "высшего класса",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/damjanmravunac_01.538b68f26daddde3c83f6ae44de9947ab7e8c2d0.png"
@@ -138,7 +146,7 @@
         "id": "music_kit-18",
         "name": "Набор музыки | Proxy — Battlepack",
         "name_original": "proxy_01",
-        "description": "Русский композитор тяжелой электронной музыки PROXY вместе со своей уникальной тяжелой артиллерией теперь и в Counter-Strike. Гибридное аудиовооружение и лучшая студийная техника делают этот набор единственным в своем роде.",
+        "description": "Русский композитор тяжелой электронной музыки PROXY вместе со своей уникальной тяжелой артиллерией теперь и в CS:GO. Гибридное аудиовооружение и лучшая студийная техника делают этот набор единственным в своем роде.",
         "rarity": "высшего класса",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/proxy_01.12796e09ff47c1dd25757cff0761bf7b880dfb3b.png"
@@ -183,7 +191,7 @@
         "id": "music_kit-23",
         "name": "Набор музыки | Daniel Sadowski — The 8-Bit Kit",
         "name_original": "danielsadowski_03",
-        "description": "Дэниэл Садовски представляет первый восьмибитный набор музыки для Counter-Strike с правдоподобным звучанием.",
+        "description": "Дэниэл Садовски представляет первый восьмибитный набор музыки для Counter-Strike с аутентичным чиптюновым звучанием.",
         "rarity": "высшего класса",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_03.23f670f86d302907e1965780bf0fc145ab334235.png"
@@ -192,7 +200,7 @@
         "id": "music_kit-24",
         "name": "Набор музыки | AWOLNATION — I Am",
         "name_original": "awolnation_01",
-        "description": "AWOLNATION, исполнитель альтернативного рока, представляет набор музыки на века. Он под завязку набит разнообразными мелодиями, и в него входят фрагменты из сингла «I Am» и мультиплатинового хита «Sail».",
+        "description": "AWOLNATION, исполнитель альтернативного рока, представляет набор музыки на века. Он под завязку набит разнообразными мелодиями, и в него входят фрагменты из сингла I Am и мультиплатинового хита Sail.",
         "rarity": "высшего класса",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/awolnation_01.2ffc1650abdea909957237a616b8a85f8ca686e4.png"
@@ -336,7 +344,7 @@
         "id": "music_kit-40",
         "name": "Halo — The Master Chief Collection",
         "name_original": "halo_01",
-        "description": "Легендарно преобразите звуковые ощущения от Counter Strike с помощью этого набора музыки, включающего культовые музыкальные моменты из вселенной Halo. © 2019 343 Industries. Все права защищены. Используется с разрешения 343 Industries. Halo: The Master Chief Collection и логотип Halo являются товарными знаками группы компаний Microsoft.",
+        "description": "Легендарно преобразите звуковые ощущения от Counter Strike с помощью этого набора музыки, включающего культовые музыкальные моменты из вселенной Halo. © 2019 343 Industries. Все права сохранены. Используется с разрешения 343 Industries. Halo: The Master Chief Collection и логотип Halo являются товарными знаками группы компаний Microsoft.",
         "rarity": "высшего класса",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/halo_01.a49952f4e059871c05f6d829f6f29a1a2ccbddc2.png"
@@ -354,7 +362,7 @@
         "id": "music_kit-42",
         "name": "Half-Life: Alyx — Anti-Citizen",
         "name_original": "halflife_alyx_01",
-        "description": "Этот набор музыки выпущен в честь Half-Life: Alyx, возвращения Valve во вселенную Half-Life в виртуальной реальности. Вы — единственный шанс человечества на спасение, и ваше полноценное взаимодействие с окружающим миром продолжается в Counter-Strike: Global Offensive.",
+        "description": "Этот набор музыки выпущен в честь Half-Life: Alyx, возвращения Valve во вселенную Half-Life в виртуальной реальности. Вы — единственный шанс человечества на спасение, и ваше полноценное взаимодействие с окружающим миром продолжается в Counter-Strike.",
         "rarity": "высшего класса",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hlalyx_01.695e0b07f37980650d408fd3260737df825d1f91.png"
@@ -525,7 +533,7 @@
         "id": "music_kit-61",
         "name": "Набор музыки | The Verkkars & n0thing — Flashbang Dance",
         "name_original": "theverkkars_02",
-        "description": "nothing, легенда Counter-Strike из солнечной Калифорнии, и The Verkkars из морозной Лапландии объединяются в хитовой песне — Flashbang Dance! Три, два, раз — искры из глаз!",
+        "description": "n0thing, легенда Counter-Strike из солнечной Калифорнии, и The Verkkars из морозной Лапландии объединяются в хитовой песне — Flashbang Dance! Три, два, раз — искры из глаз!",
         "rarity": "высшего класса",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png"
@@ -552,7 +560,7 @@
         "id": "music_kit-64",
         "name": "Набор музыки | Juelz — Shooters",
         "name_original": "juelz_01",
-        "description": "Синтезаторы в стиле нео-трэп, грубые 808-е ударные, эпические риффы на пианино и целая гора звуков выстрелов. Трэп-гимн «Shooters» от Juelz — по-настоящему элитный набор музыки. Только для самых ценных игроков.",
+        "description": "Синтезаторы в стиле нео-трэп, грубые 808-е ударные, эпические риффы на пианино и целая гора звуков выстрелов. Трэп-гимн Shooters от Juelz — по-настоящему элитный набор музыки. Только для самых ценных игроков.",
         "rarity": "высшего класса",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/juelz_01.0d590b3dd6c58dba054ee00f52a8165966beb310.png"

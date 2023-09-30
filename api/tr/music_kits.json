@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "Counter-Strike 2'nin resmî müzik kiti.",
+        "rarity": "Yüksek Sınıf",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Müzik Kiti | Daniel Sadowski, Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -183,7 +191,7 @@
         "id": "music_kit-23",
         "name": "Müzik Kiti | Daniel Sadowski, The 8-Bit Kit",
         "name_original": "danielsadowski_03",
-        "description": "Daniel Sadowski Counter-Strike için ilk defa tamamı gerçek 8-bit seslerle dolu 8-bit Müzik Kitini yaratıyor.",
+        "description": "Daniel Sadowski Counter-Strike için ilk defa tamamı gerçek 8-bit seslerle dolu 8-bit müzik kitini yarattı.",
         "rarity": "Yüksek Sınıf",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_03.23f670f86d302907e1965780bf0fc145ab334235.png"
@@ -435,7 +443,7 @@
         "id": "music_kit-51",
         "name": "Darren Korb, Hades Müzik Kiti",
         "name_original": "hades_01",
-        "description": "Ara sıra atış kaçırdığın olmuştur fakat Supergiant Games'in rogue-like dungeon crawler oyunu olan Hades'in yer altından çıkma bu kan kaynatıcı müzik setiyle artık her atışın isabetli olacak.",
+        "description": "Ara sıra atış kaçırdığın olmuştur fakat Supergiant Games'in rogue-like dungeon crawler oyunu olan Hades'in yer altından çıkma bu kan kaynatıcı müzik setiyle artık her atışını isabetli olacak.",
         "rarity": "Yüksek Sınıf",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hades_01.41336135661d422039fe700e0bf4c8176886194e.png"
@@ -525,7 +533,7 @@
         "id": "music_kit-61",
         "name": "Müzik Kiti | The Verkkars ve n0thing, Flashbang Dance",
         "name_original": "theverkkars_02",
-        "description": "Güneşli Kaliforniya'dan dondurucu Lapland'a, Counter-Strike'ın efsane ismi n0thing ve The Verkkars güçlerini birleştirip hit şarkıları Flashbang Dance'ı yarattılar! 3, 2, 1 ve artık körsün!",
+        "description": "Güneşli Kaliforniya'dan dondurucu Lapland'a, Counter-Strike'ın efsane ismi n0thing ve The Verkkars güçlerini birleştirip hit şarkıları Flashbang Dance'ı yarattılar! 3, 2, 1 ve kör oldun!",
         "rarity": "Yüksek Sınıf",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png"

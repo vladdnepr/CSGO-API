@@ -3,7 +3,7 @@
         "id": "collectible-874",
         "name": "Monedă de veteran - 5 ani",
         "name_original": "CollectibleCoin_FiveYearService",
-        "description": "Este un membru al comunității de Counter-Strike de peste 5 ani.",
+        "description": "Membru al comunității Counter-Strike de mai bine de 5 ani.",
         "rarity": "Extraordinar(ă)",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/5yearcoin_large.8f83517dbda53fc10805f00bf0e3f59d30ee5033.png"
@@ -12,7 +12,7 @@
         "id": "collectible-969",
         "name": "Monedă de veteran - 10 ani",
         "name_original": "CollectibleCoin_TenYearService",
-        "description": "Este un membru al comunității de Counter-Strike de peste 10 ani.",
+        "description": "Membru al comunității Counter-Strike de mai bine de 10 ani.",
         "rarity": "Extraordinar(ă)",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/10yearcoin_large.260e9a5c3a985930c43617436651a6e946313ae2.png"
@@ -21,7 +21,7 @@
         "id": "collectible-970",
         "name": "Insignă de loialitate",
         "name_original": "CollectibleCoin_FortiusQuoFidelius",
-        "description": "This badge commemorates loyal membership in the Counter-Strike community prior to the Danger Zone update. <i>Strength through loyalty.</i>",
+        "description": "Această insignă comemorează apartenența loială la comunitatea Counter-Strike înainte de actualizarea Danger Zone.\\n\\n<i>Forță prin loialitate.</i>",
         "rarity": "Extraordinar(ă)",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/prime_badge_large.f8144d0a79cf586c900a22f4c226410a0f307409.png"
@@ -34,5 +34,13 @@
         "rarity": "Extraordinar(ă)",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/cupcake_10_year_large.6bf0b2033f0d0e50ded1c491bc1c6330ac5d63f7.png"
+    },
+    {
+        "id": "collectible-996",
+        "name": "Global Offensive - Insignă",
+        "name_original": "CollectibleCoin_CoinCsgo",
+        "description": "Această insignă comemorează apartenența loială la comunitatea Counter-Strike: Global Offensive înainte de lansarea jocului Counter-Strike 2.\\n\\n<i>Legendele nu mor niciodată.</i>",
+        "rarity": "Extraordinar(ă)",
+        "type": null
     }
 ]

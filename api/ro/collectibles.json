@@ -3,7 +3,7 @@
         "id": "collectible-874",
         "name": "Monedă de veteran - 5 ani",
         "name_original": "CollectibleCoin_FiveYearService",
-        "description": "Este un membru al comunității de Counter-Strike de peste 5 ani.",
+        "description": "Membru al comunității Counter-Strike de mai bine de 5 ani.",
         "rarity": "Extraordinar(ă)",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/5yearcoin_large.8f83517dbda53fc10805f00bf0e3f59d30ee5033.png"
@@ -858,7 +858,7 @@
         "id": "collectible-969",
         "name": "Monedă de veteran - 10 ani",
         "name_original": "CollectibleCoin_TenYearService",
-        "description": "Este un membru al comunității de Counter-Strike de peste 10 ani.",
+        "description": "Membru al comunității Counter-Strike de mai bine de 10 ani.",
         "rarity": "Extraordinar(ă)",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/10yearcoin_large.260e9a5c3a985930c43617436651a6e946313ae2.png"
@@ -867,7 +867,7 @@
         "id": "collectible-970",
         "name": "Insignă de loialitate",
         "name_original": "CollectibleCoin_FortiusQuoFidelius",
-        "description": "This badge commemorates loyal membership in the Counter-Strike community prior to the Danger Zone update. <i>Strength through loyalty.</i>",
+        "description": "Această insignă comemorează apartenența loială la comunitatea Counter-Strike înainte de actualizarea Danger Zone.\\n\\n<i>Forță prin loialitate.</i>",
         "rarity": "Extraordinar(ă)",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/prime_badge_large.f8144d0a79cf586c900a22f4c226410a0f307409.png"
@@ -1098,8 +1098,16 @@
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
     },
     {
+        "id": "collectible-996",
+        "name": "Global Offensive - Insignă",
+        "name_original": "CollectibleCoin_CoinCsgo",
+        "description": "Această insignă comemorează apartenența loială la comunitatea Counter-Strike: Global Offensive înainte de lansarea jocului Counter-Strike 2.\\n\\n<i>Legendele nu mor niciodată.</i>",
+        "rarity": "Extraordinar(ă)",
+        "type": null
+    },
+    {
         "id": "collectible-1000",
-        "name": "Bilet pentru Operațiunea Payback",
+        "name": "Bilet pentru operațiunea Payback",
         "name_original": "Ticket_CommunitySeasonOneSpring2013",
         "description": "Operațiunea Payback s-a desfășurat în perioada 25 aprilie 2013 - 2 septembrie 2013 și a răsplătit creatorii de hărți comunitare cu peste 180.000 USD. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Payback.",
         "rarity": "Calitate de bază",
@@ -1333,7 +1341,7 @@
     },
     {
         "id": "collectible-1027",
-        "name": "Bilet cu acces complet pentru Operațiunea Breakout",
+        "name": "Bilet cu acces complet pentru operațiunea Breakout",
         "name_original": "Ticket_CommunitySeasonFourSummer2014",
         "description": "Operațiunea Breakout s-a desfășurat în perioada 2 iulie 2014 - 2 octombrie 2014. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Breakout.",
         "rarity": "Calitate de bază",
@@ -1900,7 +1908,7 @@
     },
     {
         "id": "collectible-1315",
-        "name": "Bilet cu acces complet pentru Operațiunea Vanguard",
+        "name": "Bilet de acces pentru operațiunea Vanguard",
         "name_original": "Ticket_CommunitySeasonFiveSummer2014",
         "description": "Operațiunea Vanguard s-a desfășurat în perioada 11 noiembrie 2014 - 31 martie 2015. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Vanguard.",
         "rarity": "Calitate de bază",
@@ -1936,7 +1944,7 @@
     },
     {
         "id": "collectible-1326",
-        "name": "Bilet de acces pentru Operațiunea Bloodhound",
+        "name": "Bilet de acces pentru operațiunea Bloodhound",
         "name_original": "Ticket_CommunitySeasonSix2015",
         "description": "Operațiunea Bloodhound s-a desfășurat în perioada 26 mai 2015 - 1 octombrie 2015. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Bloodhound.",
         "rarity": "Calitate de bază",
@@ -1990,7 +1998,7 @@
     },
     {
         "id": "collectible-1335",
-        "name": "Bilet de acces pentru Operațiunea Wildfire",
+        "name": "Bilet de acces pentru operațiunea Wildfire",
         "name_original": "Ticket_CommunitySeasonSeven2016",
         "description": "Operațiunea Wildfire s-a desfășurat în perioada 17 februarie 2016 - 13 iulie 2016. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Wildfire.",
         "rarity": "Calitate de bază",
@@ -2080,7 +2088,7 @@
     },
     {
         "id": "collectible-1352",
-        "name": "Bilet de acces pentru Operațiunea Hydra",
+        "name": "Bilet de acces pentru operațiunea Hydra",
         "name_original": "Ticket_CommunitySeasonEight2017",
         "description": "Operațiunea Hydra s-a desfășurat în perioada 23 mai 2017 - 14 noiembrie 2017. Acest bilet nu mai oferă acces la o operațiune, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Hydra.",
         "rarity": "Calitate de bază",
@@ -2296,7 +2304,7 @@
     },
     {
         "id": "collectible-4549",
-        "name": "Operațiunea Shattered Web – Bilet premium",
+        "name": "Bilet premium pentru operațiunea Shattered Web",
         "name_original": "Ticket_CommunitySeasonNine2019",
         "description": "Operațiunea Shattered Web s-a desfășurat în perioada 18 noiembrie 2019 - 31 martie 2020. Acest bilet nu mai oferă acces la o operațiunea, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Shattered Web.",
         "rarity": "Calitate de bază",
@@ -2343,7 +2351,7 @@
         "id": "collectible-4554",
         "name": "Katowice 2019 - Bilet de spectator",
         "name_original": "TournamentPass_katowice2019",
-        "description": "Acesta este un bilet de spectator sigilat pentru Campionatul Major de CS:GO IEM Katowice 2019. Odată desigilat, acesta îți va oferi moneda Katowice 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Acesta este un bilet de spectator sigilat pentru campionatul major de CS:GO IEM Katowice 2019. Odată desigilat, acesta îți va oferi moneda Katowice 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Calitate de bază",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/katowice_pickem_2019_pass_large.781a7032e3991b233a3c8312ed6addb63b1d0dca.png"
@@ -2352,7 +2360,7 @@
         "id": "collectible-4555",
         "name": "Moneda Katowice 2019",
         "name_original": "TournamentJournal_katowice2019",
-        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO IEM Katowice 2019, care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO IEM Katowice 2019, care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/katowice_pickem_2019_bronze_large.c519d77e3a2a87efd9ba5e493d05ff9a376c3bd8.png"
@@ -2361,7 +2369,7 @@
         "id": "collectible-4556",
         "name": "Katowice 2019 - Monedă de argint",
         "name_original": "TournamentJournal_katowice2019_Silver",
-        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO IEM Katowice 2019, care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO IEM Katowice 2019, care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/katowice_pickem_2019_silver_large.606ecad86c1904214f963a559e884627183fcba2.png"
@@ -2370,7 +2378,7 @@
         "id": "collectible-4557",
         "name": "Katowice 2019 - Monedă de aur",
         "name_original": "TournamentJournal_katowice2019_Gold",
-        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO IEM Katowice 2019, care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO IEM Katowice 2019, care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/katowice_pickem_2019_gold_large.f67e0bf9aadcf912bd7533279629b8ec44ea58fd.png"
@@ -2379,7 +2387,7 @@
         "id": "collectible-4558",
         "name": "Katowice 2019 - Monedă de diamant",
         "name_original": "TournamentJournal_katowice2019_Crystal",
-        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO IEM Katowice 2019, care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO IEM Katowice 2019, care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Katowice 2019, acces exclusiv la pachetele cu suveniruri, emblemele echipelor pentru chatul Steam.tv și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Katowice 2019 finalizând provocări. Poți revendica un pachet cu suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/katowice_pickem_2019_crystal_large.a82047843de4473ce1792ffa0e7b98a6041aa773.png"
@@ -2388,7 +2396,7 @@
         "id": "collectible-4622",
         "name": "Berlin 2019 - Bilet de spectator",
         "name_original": "TournamentPass_berlin2019",
-        "description": "Acesta este un bilet de spectator sigilat pentru Campionatul Major de CS:GO StarLadder Berlin 2019. Odată desigilat, acesta îți va oferi moneda Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎmbunătățește-ți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Acesta este un bilet de spectator sigilat pentru campionatul major de CS:GO StarLadder Berlin 2019. Odată desigilat, acesta îți va oferi moneda Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎmbunătățește-ți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Calitate de bază",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/starladder_pickem_2019_pass_large.0fb237032a1b434d0c5aa0e6653948d187336568.png"
@@ -2397,7 +2405,7 @@
         "id": "collectible-4623",
         "name": "Moneda Berlin 2019",
         "name_original": "TournamentJournal_berlin2019",
-        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO StarLadder Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO StarLadder Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/starladder_pickem_2019_bronze_large.c080c73cfc9eaf9a22f532467d4a2aa7182dfbbb.png"
@@ -2406,7 +2414,7 @@
         "id": "collectible-4624",
         "name": "Berlin 2019 - Monedă de aur",
         "name_original": "TournamentJournal_berlin2019_Silver",
-        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO StarLadder Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO StarLadder Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/starladder_pickem_2019_silver_large.fca34e7e88189074e591aa3d5154fddbb5ae2e55.png"
@@ -2415,7 +2423,7 @@
         "id": "collectible-4625",
         "name": "Berlin 2019 - Monedă de aur",
         "name_original": "TournamentJournal_berlin2019_Gold",
-        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO StarLadder Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO StarLadder Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/starladder_pickem_2019_gold_large.e349a336b0ac17753dc76c39ae2d6a1401ce80d0.png"
@@ -2424,7 +2432,7 @@
         "id": "collectible-4626",
         "name": "Berlin 2019 - Monedă de diamant",
         "name_original": "TournamentJournal_berlin2019_Crystal",
-        "description": "Aceasta este o monedă comemorativă pentru Campionatul Major de CS:GO StarLadder Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO StarLadder Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/starladder_pickem_2019_crystal_large.2070516b17670f6b93a1a35fc7c4fcc393ab8fc8.png"
@@ -2433,7 +2441,7 @@
         "id": "collectible-4627",
         "name": "Berlin 2019 - Bilet de spectator + 3 jetoane de suvenir",
         "name_original": "TournamentPass_berlin2019_pack",
-        "description": "Acesta este un bilet de spectator sigilat pentru Campionatul Major de CS:GO StarLadder Berlin 2019. Odată desigilat, acesta îți va oferi moneda Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎmbunătățește-ți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.\\n\\nAcest bilet de spectator îți va preactiva moneda ta Berlin 2019 cu 3 jetoane de suvenir.",
+        "description": "Acesta este un bilet de spectator sigilat pentru campionatul major de CS:GO StarLadder Berlin 2019. Odată desigilat, acesta îți va oferi moneda Berlin 2019 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, acces complet la provocarea Pick'Em Berlin 2019, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎmbunătățește-ți moneda Berlin 2019 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.\\n\\nAcest bilet de spectator îți va preactiva moneda ta Berlin 2019 cu 3 jetoane de suvenir.",
         "rarity": "Calitate de bază",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/starladder_pickem_2019_pass_pack_large.2d3fa17c8ce411f22ddfe18fd27afd18b8645a37.png"
@@ -2530,9 +2538,9 @@
     },
     {
         "id": "collectible-4682",
-        "name": "Insignă Protection Pin",
+        "name": "Insignă Civil Protection",
         "name_original": "Collectible_Pin_alyx_04",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_04_large.dbf162193bf566cf7bd58a8f2568032eee57e91f.png"
@@ -2541,7 +2549,7 @@
         "id": "collectible-4683",
         "name": "Insignă Sustenance!",
         "name_original": "Collectible_Pin_alyx_07",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_07_large.4838e2700ecdcee50ed6fc63b4e256ca9dfea0c6.png"
@@ -2550,7 +2558,7 @@
         "id": "collectible-4684",
         "name": "Insignă Vortigaunt",
         "name_original": "Collectible_Pin_alyx_09",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_09_large.388086a40d903be6a619537e590abe045e251f6b.png"
@@ -2559,7 +2567,7 @@
         "id": "collectible-4685",
         "name": "Insignă Headcrab Glyph",
         "name_original": "Collectible_Pin_alyx_05",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_05_large.a6d1d7ea523251b325e9404a2abdab41daaf2e0a.png"
@@ -2568,7 +2576,7 @@
         "id": "collectible-4686",
         "name": "Insignă Health",
         "name_original": "Collectible_Pin_alyx_12",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_12_large.0a6ec0c756a8f028330a62ff8e2896359086aaeb.png"
@@ -2577,7 +2585,7 @@
         "id": "collectible-4687",
         "name": "Insignă Lambda",
         "name_original": "Collectible_Pin_alyx_01",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_01_large.acaf92f298ff89c8348e9ff8a9a0da0e79f1fc34.png"
@@ -2586,7 +2594,7 @@
         "id": "collectible-4688",
         "name": "Insignă Copper Lambda",
         "name_original": "Collectible_Pin_alyx_02",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_02_large.7fc961f70ed57d2e4ee9bb4f54191dcc6cb44b83.png"
@@ -2595,7 +2603,7 @@
         "id": "collectible-4689",
         "name": "Insignă CMB",
         "name_original": "Collectible_Pin_alyx_03",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_03_large.4acbd16b76c36d815bfd00494b8e8659928705ae.png"
@@ -2604,7 +2612,7 @@
         "id": "collectible-4690",
         "name": "Insignă Black Mesa",
         "name_original": "Collectible_Pin_alyx_06",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_06_large.42ec2b5ab516b19db2dd99877aa9f8ec34fb3df8.png"
@@ -2613,7 +2621,7 @@
         "id": "collectible-4691",
         "name": "Insignă Combine Helmet",
         "name_original": "Collectible_Pin_alyx_08",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_08_large.016473ad936d9a17607a22f1441c0ad073607c43.png"
@@ -2622,14 +2630,14 @@
         "id": "collectible-4692",
         "name": "Insignă City 17",
         "name_original": "Collectible_Pin_alyx_11",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_11_large.9ef21098f19e55401066f8c2ece2c7279150274a.png"
     },
     {
         "id": "collectible-4699",
-        "name": "Operațiunea Broken Fang – Bilet premium",
+        "name": "Bilet premium pentru operațiunea Broken Fang",
         "name_original": "Ticket_CommunitySeasonTen2020",
         "description": "Operațiunea Broken Fang s-a desfășurat în perioada 3 decembrie 2020 - 30 aprilie 2021. Acest bilet nu mai oferă acces la o operațiunea, dar poate fi activat pentru a obține o monedă comemorativă a operațiunii Broken Fang.",
         "rarity": "Calitate de bază",
@@ -2755,7 +2763,7 @@
     },
     {
         "id": "collectible-4758",
-        "name": "Operațiunea Riptide – Bilet premium",
+        "name": "Bilet premium pentru operațiunea Riptide",
         "name_original": "Ticket_CommunitySeasonEleven2021",
         "description": "Biletul premium al operațiunii Riptide îți oferă o monedă comemorativă a operațiunii Riptide care poate fi îmbunătățită, misiuni săptămânale și acces la obiectele exclusive din magazinul operațiunii.",
         "rarity": "Calitate de bază",
@@ -2838,7 +2846,7 @@
         "id": "collectible-4797",
         "name": "Moneda Stockholm 2021",
         "name_original": "TournamentJournal_stockh2021",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Stockholm 2021 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Stockholm 2021, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Stockholm 2021 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Stockholm 2021, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Stockholm 2021 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_bronze_large.6fa94b8d0104298d1c78535e63d8a0a475221c4e.png"
@@ -2847,7 +2855,7 @@
         "id": "collectible-4798",
         "name": "Stockholm 2021 - Monedă de argint",
         "name_original": "TournamentJournal_stockh2021_Silver",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Stockholm 2021 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Stockholm 2021, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Stockholm 2021 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Stockholm 2021, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Stockholm 2021 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_silver_large.c5f4e2d28301eeecef652d415a38661eee755ef2.png"
@@ -2856,7 +2864,7 @@
         "id": "collectible-4799",
         "name": "Stockholm 2021 - Monedă de aur",
         "name_original": "TournamentJournal_stockh2021_Gold",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Stockholm 2021 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Stockholm 2021, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Stockholm 2021 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Stockholm 2021, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Stockholm 2021 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_gold_large.1cac9b6e7c7203ba5c1ec559983992b6762d350c.png"
@@ -2865,7 +2873,7 @@
         "id": "collectible-4800",
         "name": "Stockholm 2021 - Monedă de diamant",
         "name_original": "TournamentJournal_stockh2021_Crystal",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Stockholm 2021 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Stockholm 2021, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Stockholm 2021 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Stockholm 2021, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Stockholm 2021 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_crystal_large.3a262047483b99a2922537f57df161d14d6b6ef5.png"
@@ -2955,7 +2963,7 @@
         "id": "collectible-4826",
         "name": "Moneda Antwerp 2022",
         "name_original": "TournamentJournal_antwerp2022",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Antwerp 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Antwerp 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Antwerp 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Antwerp 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Antwerp 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Antwerp 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_bronze_large.d6b0ef1ed0794418b1927604ba5b2e9596bc21ee.png"
@@ -2964,7 +2972,7 @@
         "id": "collectible-4827",
         "name": "Antwerp 2022 - Monedă de argint",
         "name_original": "TournamentJournal_antwerp2022_Silver",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Antwerp 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Antwerp 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Antwerp 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Antwerp 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Antwerp 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Antwerp 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_silver_large.fbc32111a4101f2c88d44df70bbd005c671fd010.png"
@@ -2973,7 +2981,7 @@
         "id": "collectible-4828",
         "name": "Antwerp 2022 - Monedă de aur",
         "name_original": "TournamentJournal_antwerp2022_Gold",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Antwerp 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Antwerp 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Antwerp 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Antwerp 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Antwerp 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Antwerp 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_gold_large.903526b76658c80bf954bee326a24999e5b3c057.png"
@@ -2982,7 +2990,7 @@
         "id": "collectible-4829",
         "name": "Antwerp 2022 - Monedă de diamant",
         "name_original": "TournamentJournal_antwerp2022_Crystal",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Antwerp 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Antwerp 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Antwerp 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO PGL Antwerp 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Antwerp 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Antwerp 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_crystal_large.621b3bb82b76d1b61523b715222fd12ddcc68ccd.png"
@@ -3018,7 +3026,7 @@
         "id": "collectible-4851",
         "name": "Moneda Rio 2022",
         "name_original": "TournamentJournal_rio2022",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO IEM Rio 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Rio 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Rio 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO IEM Rio 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Rio 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Rio 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_bronze_large.11a15e829b19306014e5c020aa5c0a41a1acb564.png"
@@ -3027,7 +3035,7 @@
         "id": "collectible-4852",
         "name": "Rio 2022 - Monedă de argint",
         "name_original": "TournamentJournal_rio2022_Silver",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO IEM Rio 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Rio 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Rio 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO IEM Rio 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Rio 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Rio 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_silver_large.b0fcc69786742d2a4702229f63461d3a4f7a9264.png"
@@ -3036,7 +3044,7 @@
         "id": "collectible-4853",
         "name": "Rio 2022 - Monedă de aur",
         "name_original": "TournamentJournal_rio2022_Gold",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO IEM Rio 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Rio 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Rio 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO IEM Rio 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Rio 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Rio 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_gold_large.78a52a96e06fc2cf5448dc5ebb31dd8e670037c7.png"
@@ -3045,7 +3053,7 @@
         "id": "collectible-4854",
         "name": "Rio 2022 - Monedă de diamant",
         "name_original": "TournamentJournal_rio2022_Crystal",
-        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO IEM Rio 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces la provocarea Pick'Em Rio 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Rio 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
+        "description": "Aceasta este o monedă comemorativă pentru campionatul major de CS:GO IEM Rio 2022 care înregistrează progresul tău de pe întreaga perioadă a evenimentului, îți oferă acces complet la provocarea Pick'Em Rio 2022, emblemele echipelor pentru chatul Steam.tv, provocări pentru monedă și utilizări nelimitate pentru orice graffiti al echipelor pentru întreaga perioadă a evenimentului.\\n\\nÎți poți îmbunătăți moneda Rio 2022 finalizând provocările monedei. Obține un jeton de suvenir de fiecare dată când îți îmbunătățești moneda.",
         "rarity": "Extraordinar(ă)",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_crystal_large.d099d1f9271f0e8178222b8c41ae55bbc8290f5a.png"
@@ -3189,7 +3197,7 @@
         "id": "collectible-6001",
         "name": "Insignă Dust II (Autentic)",
         "name_original": "Collectible_Pin_DustII",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_dust2_large.619f7e63556591eda38a7982f63dcd686f746371.png"
@@ -3198,7 +3206,7 @@
         "id": "collectible-6002",
         "name": "Insignă Guardian Elite (Autentic)",
         "name_original": "Collectible_Pin_GuardianElite",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardianelite_large.709bd555c8af75e87ee661aaacc5ea4f87ac8f36.png"
@@ -3207,7 +3215,7 @@
         "id": "collectible-6003",
         "name": "Insignă Mirage (Autentic)",
         "name_original": "Collectible_Pin_Mirage",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_mirage_large.52d568542487696880ef395ef009853cdd88c2e8.png"
@@ -3216,7 +3224,7 @@
         "id": "collectible-6004",
         "name": "Insignă Inferno (Autentic)",
         "name_original": "Collectible_Pin_Inferno",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_inferno_large.082a3bf33e7f6e812a47b11821f477e491f4ad2d.png"
@@ -3225,7 +3233,7 @@
         "id": "collectible-6005",
         "name": "Insignă Italy (Autentic)",
         "name_original": "Collectible_Pin_Italy",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_italy_large.ebe62876c27f1bd012cb1c3b61b4b8e8ec2d6a9a.png"
@@ -3234,7 +3242,7 @@
         "id": "collectible-6006",
         "name": "Insignă Victory (Autentic)",
         "name_original": "Collectible_Pin_Victory",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_victory_large.64efa85ea1f1241610c21ca355ee60a24430c581.png"
@@ -3243,7 +3251,7 @@
         "id": "collectible-6007",
         "name": "Insignă Militia (Autentic)",
         "name_original": "Collectible_Pin_Militia",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_militia_large.7c2d05990e80c386018596b4dc45982aa1bf8e4e.png"
@@ -3252,7 +3260,7 @@
         "id": "collectible-6008",
         "name": "Insignă Nuke (Autentic)",
         "name_original": "Collectible_Pin_Nuke",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_nuke_large.a523a4fe17b12c42f7a99e12fc6db499ff97d5bb.png"
@@ -3261,7 +3269,7 @@
         "id": "collectible-6009",
         "name": "Insignă Train (Autentic)",
         "name_original": "Collectible_Pin_Train",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_train_large.86f41b7a5eb7046a720fea36546d71b54ff30200.png"
@@ -3270,7 +3278,7 @@
         "id": "collectible-6010",
         "name": "Insignă Guardian (Autentic)",
         "name_original": "Collectible_Pin_Guardian",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_large.0ec6a8661f634532fbf231a2838c1db57ab6537c.png"
@@ -3279,7 +3287,7 @@
         "id": "collectible-6011",
         "name": "Insignă Tactics (Autentic)",
         "name_original": "Collectible_Pin_Tactics",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png"
@@ -3288,7 +3296,7 @@
         "id": "collectible-6012",
         "name": "Insignă Guardian 2 (Autentic)",
         "name_original": "Collectible_Pin_guardian_2",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_2_large.975176792f130495cdcd7f43e01bc8b4a75c96b6.png"
@@ -3297,7 +3305,7 @@
         "id": "collectible-6013",
         "name": "Insignă Bravo (Autentic)",
         "name_original": "Collectible_Pin_bravo",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_bravo_large.29a85b644318ff1f36f07159d8c933ac49bdbcdd.png"
@@ -3306,7 +3314,7 @@
         "id": "collectible-6014",
         "name": "Insignă Baggage (Autentic)",
         "name_original": "Collectible_Pin_baggage",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_baggage_large.af148c0aa24af8722ff7bf87031ff7418541fd10.png"
@@ -3315,7 +3323,7 @@
         "id": "collectible-6015",
         "name": "Insignă Phoenix (Autentic)",
         "name_original": "Collectible_Pin_phoenix",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_phoenix_large.7b2e845e2299be8d4287a4b0082b0b55d206e80f.png"
@@ -3324,7 +3332,7 @@
         "id": "collectible-6016",
         "name": "Insignă Office (Autentic)",
         "name_original": "Collectible_Pin_office",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_office_large.9ab3200bac986bf5bcb548d428dc6f7768474ebd.png"
@@ -3333,7 +3341,7 @@
         "id": "collectible-6017",
         "name": "Insignă Cobblestone (Autentic)",
         "name_original": "Collectible_Pin_cobblestone",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_cobblestone_large.2a8f37ee4d3000fe3646c27682ef55fa5e42efd1.png"
@@ -3342,7 +3350,7 @@
         "id": "collectible-6018",
         "name": "Insignă Overpass (Autentic)",
         "name_original": "Collectible_Pin_overpass",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_overpass_large.495d2ffee9e506f9ad4d494de711dbd3971525ff.png"
@@ -3351,7 +3359,7 @@
         "id": "collectible-6019",
         "name": "Insignă Bloodhound (Autentic)",
         "name_original": "Collectible_Pin_bloodhound",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_bloodhound_large.330aeb89c80b499fb85c09431935e50a42b9ed15.png"
@@ -3360,7 +3368,7 @@
         "id": "collectible-6020",
         "name": "Insignă Cache (Autentic)",
         "name_original": "Collectible_Pin_cache",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_cache_large.d56aa816fea6822bdc63c4ea00f53a00939efa23.png"
@@ -3369,7 +3377,7 @@
         "id": "collectible-6021",
         "name": "Insignă Valeria Phoenix (Autentic)",
         "name_original": "Collectible_Pin_valeria",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_valeria_large.4f554818949e92e874881d747b5732dda4b0c075.png"
@@ -3378,7 +3386,7 @@
         "id": "collectible-6022",
         "name": "Insignă Chroma (Autentic)",
         "name_original": "Collectible_Pin_chroma",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_chroma_large.dc3201036a8d97e593612d3821f0ebaaff25c5b4.png"
@@ -3387,7 +3395,7 @@
         "id": "collectible-6023",
         "name": "Insignă Guardian 3 (Autentic)",
         "name_original": "Collectible_Pin_guardian_3",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_3_large.d449ae6cc98e0c75f5f95e97b144e7d70111cded.png"
@@ -3396,7 +3404,7 @@
         "id": "collectible-6024",
         "name": "Insignă Canals (Autentic)",
         "name_original": "Collectible_Pin_canals",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_canals_large.f9c191c770747c2c435f8526ba7aa5737524bafe.png"
@@ -3405,7 +3413,7 @@
         "id": "collectible-6025",
         "name": "Insignă Welcome to the Clutch (Autentic)",
         "name_original": "Collectible_Pin_welcome_to_the_clutch",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_welcome_to_the_clutch_large.662a5bf5a15d477be33b643b88e0e1254b16101d.png"
@@ -3414,7 +3422,7 @@
         "id": "collectible-6026",
         "name": "Insignă Death Sentence (Autentic)",
         "name_original": "Collectible_Pin_death_sentence",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_death_sentence_large.2d37ade206ca6afb2aaaf99ef607816b4a1a8fa2.png"
@@ -3423,7 +3431,7 @@
         "id": "collectible-6027",
         "name": "Insignă Inferno 2 (Autentic)",
         "name_original": "Collectible_Pin_inferno_2",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_inferno_2_large.9d576c8c26538d5d2b10d5cebfeafb89b09f54cb.png"
@@ -3432,7 +3440,7 @@
         "id": "collectible-6028",
         "name": "Insignă Wildfire (Autentic)",
         "name_original": "Collectible_Pin_wildfire",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_wildfire_large.b461dbbf67ab98a7c6e12f57223edd3c1892cc77.png"
@@ -3441,7 +3449,7 @@
         "id": "collectible-6029",
         "name": "Insignă Easy Peasy (Autentic)",
         "name_original": "Collectible_Pin_easy_peasy",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_easy_peasy_large.6d3a26506958fe262928f3be5423d241dd78edab.png"
@@ -3450,7 +3458,7 @@
         "id": "collectible-6030",
         "name": "Insignă Aces High (Autentic)",
         "name_original": "Collectible_Pin_aces_high",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_aces_high_large.5787bd8d31493f6d1abbfbf71b0368920261286e.png"
@@ -3459,7 +3467,7 @@
         "id": "collectible-6031",
         "name": "Insignă Hydra (Autentic)",
         "name_original": "Collectible_Pin_hydra",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_hydra_large.3939e69d36c23599f2712e70db5bc0ab68e6c167.png"
@@ -3468,7 +3476,7 @@
         "id": "collectible-6032",
         "name": "Insignă Howl (Autentic)",
         "name_original": "Collectible_Pin_howl",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_howl_large.3506b6beea04a5bca3e2d48d3f7091990f2c5240.png"
@@ -3477,7 +3485,7 @@
         "id": "collectible-6033",
         "name": "Insignă Brigadier General (Autentic)",
         "name_original": "Collectible_Pin_brigadier_general",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_brigadier_general_large.ac36f4a0335246e25cbca477bf8e131bb2b6a771.png"
@@ -3486,7 +3494,7 @@
         "id": "collectible-6034",
         "name": "Insignă Alyx (Autentic)",
         "name_original": "Collectible_Pin_alyx_10",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_10_large.47dff8e98927b45ef095ef27837a2ab0fb3ec52d.png"
@@ -3495,7 +3503,7 @@
         "id": "collectible-6101",
         "name": "Insignă Dust II",
         "name_original": "Collectible_Pin_DustII",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_dust2_large.619f7e63556591eda38a7982f63dcd686f746371.png"
@@ -3504,7 +3512,7 @@
         "id": "collectible-6102",
         "name": "Insignă Guardian Elite",
         "name_original": "Collectible_Pin_GuardianElite",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardianelite_large.709bd555c8af75e87ee661aaacc5ea4f87ac8f36.png"
@@ -3513,7 +3521,7 @@
         "id": "collectible-6103",
         "name": "Insignă Mirage",
         "name_original": "Collectible_Pin_Mirage",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_mirage_large.52d568542487696880ef395ef009853cdd88c2e8.png"
@@ -3522,7 +3530,7 @@
         "id": "collectible-6104",
         "name": "Insignă Inferno",
         "name_original": "Collectible_Pin_Inferno",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_inferno_large.082a3bf33e7f6e812a47b11821f477e491f4ad2d.png"
@@ -3531,7 +3539,7 @@
         "id": "collectible-6105",
         "name": "Insignă Italy",
         "name_original": "Collectible_Pin_Italy",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_italy_large.ebe62876c27f1bd012cb1c3b61b4b8e8ec2d6a9a.png"
@@ -3540,7 +3548,7 @@
         "id": "collectible-6106",
         "name": "Insignă Victory",
         "name_original": "Collectible_Pin_Victory",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_victory_large.64efa85ea1f1241610c21ca355ee60a24430c581.png"
@@ -3549,7 +3557,7 @@
         "id": "collectible-6107",
         "name": "Insignă Militia",
         "name_original": "Collectible_Pin_Militia",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_militia_large.7c2d05990e80c386018596b4dc45982aa1bf8e4e.png"
@@ -3558,7 +3566,7 @@
         "id": "collectible-6108",
         "name": "Insignă Nuke",
         "name_original": "Collectible_Pin_Nuke",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_nuke_large.a523a4fe17b12c42f7a99e12fc6db499ff97d5bb.png"
@@ -3567,7 +3575,7 @@
         "id": "collectible-6109",
         "name": "Insignă Train",
         "name_original": "Collectible_Pin_Train",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_train_large.86f41b7a5eb7046a720fea36546d71b54ff30200.png"
@@ -3576,7 +3584,7 @@
         "id": "collectible-6110",
         "name": "Insignă Guardian",
         "name_original": "Collectible_Pin_Guardian",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_large.0ec6a8661f634532fbf231a2838c1db57ab6537c.png"
@@ -3585,7 +3593,7 @@
         "id": "collectible-6111",
         "name": "Insignă Tactics",
         "name_original": "Collectible_Pin_Tactics",
-        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 1. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png"
@@ -3594,7 +3602,7 @@
         "id": "collectible-6112",
         "name": "Insignă Guardian 2",
         "name_original": "Collectible_Pin_guardian_2",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_2_large.975176792f130495cdcd7f43e01bc8b4a75c96b6.png"
@@ -3603,7 +3611,7 @@
         "id": "collectible-6113",
         "name": "Insignă Bravo",
         "name_original": "Collectible_Pin_bravo",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_bravo_large.29a85b644318ff1f36f07159d8c933ac49bdbcdd.png"
@@ -3612,7 +3620,7 @@
         "id": "collectible-6114",
         "name": "Insignă Baggage",
         "name_original": "Collectible_Pin_baggage",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_baggage_large.af148c0aa24af8722ff7bf87031ff7418541fd10.png"
@@ -3621,7 +3629,7 @@
         "id": "collectible-6115",
         "name": "Insignă Phoenix",
         "name_original": "Collectible_Pin_phoenix",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_phoenix_large.7b2e845e2299be8d4287a4b0082b0b55d206e80f.png"
@@ -3630,7 +3638,7 @@
         "id": "collectible-6116",
         "name": "Insignă Office",
         "name_original": "Collectible_Pin_office",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_office_large.9ab3200bac986bf5bcb548d428dc6f7768474ebd.png"
@@ -3639,7 +3647,7 @@
         "id": "collectible-6117",
         "name": "Insignă Cobblestone",
         "name_original": "Collectible_Pin_cobblestone",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_cobblestone_large.2a8f37ee4d3000fe3646c27682ef55fa5e42efd1.png"
@@ -3648,7 +3656,7 @@
         "id": "collectible-6118",
         "name": "Insignă Overpass",
         "name_original": "Collectible_Pin_overpass",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_overpass_large.495d2ffee9e506f9ad4d494de711dbd3971525ff.png"
@@ -3657,7 +3665,7 @@
         "id": "collectible-6119",
         "name": "Insignă Bloodhound",
         "name_original": "Collectible_Pin_bloodhound",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_bloodhound_large.330aeb89c80b499fb85c09431935e50a42b9ed15.png"
@@ -3666,7 +3674,7 @@
         "id": "collectible-6120",
         "name": "Insignă Cache",
         "name_original": "Collectible_Pin_cache",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_cache_large.d56aa816fea6822bdc63c4ea00f53a00939efa23.png"
@@ -3675,7 +3683,7 @@
         "id": "collectible-6121",
         "name": "Insignă Valeria Phoenix",
         "name_original": "Collectible_Pin_valeria",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_valeria_large.4f554818949e92e874881d747b5732dda4b0c075.png"
@@ -3684,7 +3692,7 @@
         "id": "collectible-6122",
         "name": "Insignă Chroma",
         "name_original": "Collectible_Pin_chroma",
-        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 2. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_chroma_large.dc3201036a8d97e593612d3821f0ebaaff25c5b4.png"
@@ -3693,7 +3701,7 @@
         "id": "collectible-6123",
         "name": "Insignă Guardian 3",
         "name_original": "Collectible_Pin_guardian_3",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_guardian_3_large.d449ae6cc98e0c75f5f95e97b144e7d70111cded.png"
@@ -3702,7 +3710,7 @@
         "id": "collectible-6124",
         "name": "Insignă Canals",
         "name_original": "Collectible_Pin_canals",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_canals_large.f9c191c770747c2c435f8526ba7aa5737524bafe.png"
@@ -3711,7 +3719,7 @@
         "id": "collectible-6125",
         "name": "Insignă Welcome to the Clutch",
         "name_original": "Collectible_Pin_welcome_to_the_clutch",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_welcome_to_the_clutch_large.662a5bf5a15d477be33b643b88e0e1254b16101d.png"
@@ -3720,7 +3728,7 @@
         "id": "collectible-6126",
         "name": "Insignă Death Sentence",
         "name_original": "Collectible_Pin_death_sentence",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Calitate ridicată",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_death_sentence_large.2d37ade206ca6afb2aaaf99ef607816b4a1a8fa2.png"
@@ -3729,7 +3737,7 @@
         "id": "collectible-6127",
         "name": "Insignă Inferno 2",
         "name_original": "Collectible_Pin_inferno_2",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_inferno_2_large.9d576c8c26538d5d2b10d5cebfeafb89b09f54cb.png"
@@ -3738,7 +3746,7 @@
         "id": "collectible-6128",
         "name": "Insignă Wildfire",
         "name_original": "Collectible_Pin_wildfire",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_wildfire_large.b461dbbf67ab98a7c6e12f57223edd3c1892cc77.png"
@@ -3747,7 +3755,7 @@
         "id": "collectible-6129",
         "name": "Insignă Easy Peasy",
         "name_original": "Collectible_Pin_easy_peasy",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Remarcabil(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_easy_peasy_large.6d3a26506958fe262928f3be5423d241dd78edab.png"
@@ -3756,7 +3764,7 @@
         "id": "collectible-6130",
         "name": "Insignă Aces High",
         "name_original": "Collectible_Pin_aces_high",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_aces_high_large.5787bd8d31493f6d1abbfbf71b0368920261286e.png"
@@ -3765,7 +3773,7 @@
         "id": "collectible-6131",
         "name": "Insignă Hydra",
         "name_original": "Collectible_Pin_hydra",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Exotic(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_hydra_large.3939e69d36c23599f2712e70db5bc0ab68e6c167.png"
@@ -3774,7 +3782,7 @@
         "id": "collectible-6132",
         "name": "Insignă Howl",
         "name_original": "Collectible_Pin_howl",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_howl_large.3506b6beea04a5bca3e2d48d3f7091990f2c5240.png"
@@ -3783,7 +3791,7 @@
         "id": "collectible-6133",
         "name": "Insignă Brigadier General",
         "name_original": "Collectible_Pin_brigadier_general",
-        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Acesta este o insignă de colecție din seria 3. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_brigadier_general_large.ac36f4a0335246e25cbca477bf8e131bb2b6a771.png"
@@ -3792,7 +3800,7 @@
         "id": "collectible-6134",
         "name": "Insignă Alyx",
         "name_original": "Collectible_Pin_alyx_10",
-        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău CS:GO.",
+        "description": "Aceasta este o insignă de colecție care comemorează lansarea lui Half-Life: Alyx și revenirea lui Valve la seria Half-Life în RV. Poate fi afișată pe profilul tău.",
         "rarity": "Extraordinar(ă)",
         "type": "Pin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_alyx_10_large.47dff8e98927b45ef095ef27837a2ab0fb3ec52d.png"

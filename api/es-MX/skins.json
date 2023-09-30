@@ -3108,7 +3108,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -4108,7 +4108,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -6178,7 +6178,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -6216,14 +6216,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -6335,7 +6335,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -7543,7 +7543,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -7933,12 +7933,12 @@
     },
     {
         "id": "skin-463636",
-        "name": "AK-47 | Head Shot",
+        "name": "AK-47 | Disparo a la cabeza",
         "name_original": "weapon_ak47",
         "description": "Potente y confiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Puede resultar mortal a ráfagas cortas y controladas.",
         "weapon": "AK-47",
         "category": "Rifles",
-        "pattern": "Head Shot",
+        "pattern": "Disparo a la cabeza",
         "min_float": 0,
         "max_float": 1,
         "rarity": "de aspecto encubierto",
@@ -7956,7 +7956,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -7994,14 +7994,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -9320,7 +9320,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -9504,12 +9504,12 @@
     },
     {
         "id": "skin-529284",
-        "name": "AUG | Nido de serpientes",
+        "name": "AUG | Fosa de serpientes",
         "name_original": "weapon_aug",
         "description": "Poderoso y preciso, el rifle de asalto con mira telescópica AUG compensa sus largos tiempos de recarga con su baja dispersión y una alta cadencia de fuego.",
         "weapon": "AUG",
         "category": "Rifles",
-        "pattern": "Nido de serpientes",
+        "pattern": "Fosa de serpientes",
         "min_float": 0,
         "max_float": 0.55,
         "rarity": "de grado de consumidor",
@@ -9527,14 +9527,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -11062,7 +11062,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -11100,14 +11100,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -12394,14 +12394,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -12469,7 +12469,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -13410,7 +13410,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -13992,7 +13992,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -15668,7 +15668,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -15830,14 +15830,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -17099,7 +17099,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -17401,7 +17401,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -17439,14 +17439,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -17659,7 +17659,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -17777,7 +17777,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -19391,7 +19391,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -19429,14 +19429,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -19666,7 +19666,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -20891,7 +20891,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -21244,7 +21244,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -21259,12 +21259,12 @@
     },
     {
         "id": "skin-1250184",
-        "name": "P90 | Rusheo de escara(B)ajo",
+        "name": "P90 | Escarasalto a B",
         "name_original": "weapon_p90",
         "description": "Fácil de reconocer por su diseño bullpup único, el P90 es un arma ideal para disparar en movimiento debido a su cargador de gran capacidad y su bajo retroceso.",
         "weapon": "P90",
         "category": "Subfusiles",
-        "pattern": "Rusheo de escara(B)ajo",
+        "pattern": "Escarasalto a B",
         "min_float": 0,
         "max_float": 1,
         "rarity": "de tipo restringido",
@@ -21282,14 +21282,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -21944,7 +21944,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -23006,12 +23006,12 @@
     },
     {
         "id": "skin-1575616",
-        "name": "UMP-45 | Exposición",
+        "name": "UMP-45 | Expuesto",
         "name_original": "weapon_ump45",
         "description": "El hijo del medio que nadie comprende de la familia de los subfusiles. El reducido cargador del UMP45 es la única desventaja de esta versátil arma automática para espacios cerrados.",
         "weapon": "UMP-45",
         "category": "Subfusiles",
-        "pattern": "Exposición",
+        "pattern": "Expuesto",
         "min_float": 0,
         "max_float": 0.55,
         "rarity": "de tipo restringido",
@@ -23277,7 +23277,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -23594,7 +23594,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -25037,14 +25037,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -25366,7 +25366,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -28069,7 +28069,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -28107,14 +28107,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -29131,7 +29131,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -30322,7 +30322,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -30821,7 +30821,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -32064,7 +32064,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -32079,12 +32079,12 @@
     },
     {
         "id": "skin-1971088",
-        "name": "Tec-9 | Putrefacción de momia",
+        "name": "Tec-9 | Putrefacción momificada",
         "name_original": "weapon_tec9",
         "description": "Como pistola ideal para el terrorista que busca progresar, la Tec-9 es letal en espacios cerrados y cuenta con una generosa capacidad en el cargador.",
         "weapon": "Tec-9",
         "category": "Pistolas",
-        "pattern": "Putrefacción de momia",
+        "pattern": "Putrefacción momificada",
         "min_float": 0,
         "max_float": 1,
         "rarity": "de grado militar",
@@ -32102,14 +32102,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -32455,7 +32455,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -33371,7 +33371,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -34560,7 +34560,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -34769,14 +34769,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -35124,7 +35124,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -36149,7 +36149,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -36311,7 +36311,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -36701,7 +36701,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -37666,7 +37666,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -37843,14 +37843,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -38201,7 +38201,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -39643,7 +39643,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -39905,12 +39905,12 @@
     },
     {
         "id": "skin-2364216",
-        "name": "P250 | Re.Construida",
+        "name": "P250 | Re.construido",
         "name_original": "weapon_p250",
         "description": "La P250, una pistola con poco retroceso y una gran cadencia de disparo, es una opción relativamente económica contra enemigos que tengan protección.",
         "weapon": "P250",
         "category": "Pistolas",
-        "pattern": "Re.Construida",
+        "pattern": "Re.construido",
         "min_float": 0,
         "max_float": 0.9,
         "rarity": "de grado militar",
@@ -39928,7 +39928,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -39966,14 +39966,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -40204,7 +40204,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -41043,7 +41043,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -41409,7 +41409,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -42216,7 +42216,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -42522,7 +42522,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -43770,7 +43770,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -43888,14 +43888,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -44069,7 +44069,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -45297,12 +45297,12 @@
     },
     {
         "id": "skin-3937052",
-        "name": "M4A1-S | Emforosaurio-S",
+        "name": "M4A1-S | Emphorosaurio-S",
         "name_original": "weapon_m4a1_silencer",
         "description": "Con un cargador más pequeño que su ruidosa contraparte, la M4A1 con silenciador dispara con más precisión y tiene menos retroceso.",
         "weapon": "M4A1-S",
         "category": "Rifles",
-        "pattern": "Emforosaurio-S",
+        "pattern": "Emphorosaurio-S",
         "min_float": 0,
         "max_float": 0.8,
         "rarity": "de tipo restringido",
@@ -45320,7 +45320,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -45358,14 +45358,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -45380,7 +45380,7 @@
         "id": "skin-3997796",
         "name": "USP-S | Hojas del bosque",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Hojas del bosque",
@@ -45412,7 +45412,7 @@
         "id": "skin-3997936",
         "name": "USP-S | Aguas profundas",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Aguas profundas",
@@ -45447,7 +45447,7 @@
         "id": "skin-3998428",
         "name": "USP-S | Sobrecrecido",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Sobrecrecido",
@@ -45485,7 +45485,7 @@
         "id": "skin-3998564",
         "name": "USP-S | Sangre de tigre",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Sangre de tigre",
@@ -45521,7 +45521,7 @@
         "id": "skin-3998580",
         "name": "USP-S | Suero",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Suero",
@@ -45557,7 +45557,7 @@
         "id": "skin-3998640",
         "name": "USP-S | Operaciones nocturnas",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Operaciones nocturnas",
@@ -45589,7 +45589,7 @@
         "id": "skin-3998804",
         "name": "USP-S | Inoxidable",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Inoxidable",
@@ -45627,7 +45627,7 @@
         "id": "skin-3998856",
         "name": "USP-S | Guardián",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Guardián",
@@ -45664,7 +45664,7 @@
         "id": "skin-3998948",
         "name": "USP-S | Orión",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Orión",
@@ -45702,7 +45702,7 @@
         "id": "skin-3998968",
         "name": "USP-S | Roce de bala",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Roce de bala",
@@ -45820,7 +45820,7 @@
         "id": "skin-3999024",
         "name": "USP-S | Azul real",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Azul real",
@@ -45903,7 +45903,7 @@
         "id": "skin-3999052",
         "name": "USP-S | Caimán",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Caimán",
@@ -45940,7 +45940,7 @@
         "id": "skin-3999152",
         "name": "USP-S | Clase preferente",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Clase preferente",
@@ -45972,7 +45972,7 @@
         "id": "skin-3999468",
         "name": "USP-S | Explorador",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Explorador",
@@ -46002,7 +46002,7 @@
         "id": "skin-3999512",
         "name": "USP-S | Verde caqui",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Verde caqui",
@@ -46034,7 +46034,7 @@
         "id": "skin-3999652",
         "name": "USP-S | Torsión",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Torsión",
@@ -46072,7 +46072,7 @@
         "id": "skin-3999712",
         "name": "USP-S | Muerte confirmada",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Muerte confirmada",
@@ -46110,7 +46110,7 @@
         "id": "skin-3999856",
         "name": "USP-S | Conducto de plomo",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Conducto de plomo",
@@ -46148,7 +46148,7 @@
         "id": "skin-4000244",
         "name": "USP-S | Cyrex",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Cyrex",
@@ -46186,7 +46186,7 @@
         "id": "skin-4000308",
         "name": "USP-S | Neonoir",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Neonoir",
@@ -46224,7 +46224,7 @@
         "id": "skin-4000324",
         "name": "USP-S | Cianotipo",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Cianotipo",
@@ -46262,7 +46262,7 @@
         "id": "skin-4000516",
         "name": "USP-S | Córtex",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Córtex",
@@ -46300,7 +46300,7 @@
         "id": "skin-4000880",
         "name": "USP-S | Luz de servicio",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Luz de servicio",
@@ -46368,7 +46368,7 @@
         "id": "skin-4000964",
         "name": "USP-S | Memorias del pasado",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Memorias del pasado",
@@ -46406,7 +46406,7 @@
         "id": "skin-4000968",
         "name": "USP-S | DDPAT púrpura",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "DDPAT púrpura",
@@ -46459,7 +46459,7 @@
         "id": "skin-4001384",
         "name": "USP-S | Anolis naranja",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Anolis naranja",
@@ -46478,7 +46478,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -46505,7 +46505,7 @@
         "id": "skin-4001660",
         "name": "USP-S | Mezcla monstruosa",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Mezcla monstruosa",
@@ -46543,7 +46543,7 @@
         "id": "skin-4001804",
         "name": "USP-S | Objetivo localizado",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Objetivo localizado",
@@ -46575,7 +46575,7 @@
         "id": "skin-4001820",
         "name": "USP-S | Visiones ancestrales",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Visiones ancestrales",
@@ -46628,7 +46628,7 @@
         "id": "skin-4001856",
         "name": "USP-S | El Traidor",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "El Traidor",
@@ -46666,7 +46666,7 @@
         "id": "skin-4001956",
         "name": "USP-S | Níveo",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Níveo",
@@ -46698,7 +46698,7 @@
         "id": "skin-4002104",
         "name": "USP-S | Loto negro",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Loto negro",
@@ -46736,7 +46736,7 @@
         "id": "skin-4002240",
         "name": "USP-S | Boleto al infierno",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Boleto al infierno",
@@ -46774,7 +46774,7 @@
         "id": "skin-4002264",
         "name": "USP-S | Printstream",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Printstream",
@@ -46812,7 +46812,7 @@
         "id": "skin-4002708",
         "name": "USP-S | Tácticas del desierto",
         "name_original": "weapon_usp_silencer",
-        "description": "La pistola USP-S, una de las preferidas por los fans de Counter-Strike: Source, viene con un silenciador desacoplable que disminuye el retroceso del arma y le otorga sigilo para evitar llamar la atención.",
+        "description": "La favorita de los fans de Counter-Strike: Source, la pistola USP con silenciador desacoplable tiene menos retroceso y menos ruido para no llamar la atención.",
         "weapon": "USP-S",
         "category": "Pistolas",
         "pattern": "Tácticas del desierto",
@@ -46833,14 +46833,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -48387,7 +48387,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2",
-                "name": "Colección Dust 2",
+                "name": "Colección Dust II",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
             }
         ],
@@ -48801,7 +48801,7 @@
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
-                "name": "Colección Dust 2 2021",
+                "name": "Colección Dust II 2021",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
             }
         ],
@@ -48995,7 +48995,7 @@
         "collections": [
             {
                 "id": "collection-set-community-32",
-                "name": "La Colección Revolución",
+                "name": "Colección Revolución",
                 "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
             }
         ],
@@ -49033,14 +49033,14 @@
         "collections": [
             {
                 "id": "collection-set-anubis",
-                "name": "La Colección Anubis",
+                "name": "Colección Anubis",
                 "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
             }
         ],
         "crates": [
             {
                 "id": "crate-4882",
-                "name": "Paquete de la Colección Anubis",
+                "name": "Paquete de la colección Anubis",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
             },
             {
@@ -50875,7 +50875,7 @@
         "id": "skin-32964628",
         "name": "Cuchillo clásico ★ | DDPAT de bosque",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "DDPAT de bosque",
@@ -50907,7 +50907,7 @@
         "id": "skin-32964656",
         "name": "Cuchillo clásico ★ | Tela escarlata",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Tela escarlata",
@@ -50939,7 +50939,7 @@
         "id": "skin-32964760",
         "name": "Cuchillo clásico ★ | Desteñido",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Desteñido",
@@ -50968,7 +50968,7 @@
         "id": "skin-32964776",
         "name": "Cuchillo clásico ★ | Azul metalizado",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Azul metalizado",
@@ -51000,7 +51000,7 @@
         "id": "skin-32964780",
         "name": "Cuchillo clásico ★ | Manchado",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Manchado",
@@ -51032,7 +51032,7 @@
         "id": "skin-32964784",
         "name": "Cuchillo clásico ★ | Acero templado",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Acero templado",
@@ -51064,7 +51064,7 @@
         "id": "skin-32964844",
         "name": "Cuchillo clásico ★ | Masacre",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Masacre",
@@ -51094,7 +51094,7 @@
         "id": "skin-32964896",
         "name": "Cuchillo clásico ★ | Malla de safari",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Malla de safari",
@@ -51126,7 +51126,7 @@
         "id": "skin-32964916",
         "name": "Cuchillo clásico ★ | Bosque boreal",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Bosque boreal",
@@ -51158,7 +51158,7 @@
         "id": "skin-32965180",
         "name": "Cuchillo clásico ★ | Pátina urbana",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Pátina urbana",
@@ -51190,7 +51190,7 @@
         "id": "skin-32965308",
         "name": "Cuchillo clásico ★ | Chamuscado",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Chamuscado",
@@ -51222,7 +51222,7 @@
         "id": "skin-32967548",
         "name": "Cuchillo clásico ★ | Franja nocturna",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": "Cuchillo clásico",
         "category": "Cuchillos",
         "pattern": "Franja nocturna",
@@ -72387,7 +72387,7 @@
         "id": "skin-vanilla-weapon_knife_css",
         "name": "Cuchillo clásico ★",
         "name_original": "weapon_knife_css",
-        "description": "El filo de estelite de este clásico cuchillo de la saga de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del vaciado y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
+        "description": "El filo de estelite de este clásico cuchillo de la serie de Counter-Strike, gracias a su preciso calce a presión, queda unido a la perfección con el titanio del filo y del lomo en la hoja. El mango es de marfil de mastodonte fosilizado con un revestimiento de fibra de carbono.",
         "weapon": null,
         "category": "Cuchillos",
         "pattern": null,

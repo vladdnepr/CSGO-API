@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "Le kit de musiques officiel de Counter-Strike 2.",
+        "rarity": "Qualité supérieure",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Kit de musiques | Daniel Sadowski, Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -183,7 +191,7 @@
         "id": "music_kit-23",
         "name": "Kit de musiques | Daniel Sadowski, The 8-Bit Kit",
         "name_original": "danielsadowski_03",
-        "description": "Daniel Sadowski créé le premier kit de musiques 8-bit pour Counter-Strike, avec des sons 8-bit authentiques.",
+        "description": "Daniel Sadowski a créé le premier kit de musiques 8 bits pour Counter-Strike, avec des sons authentiques.",
         "rarity": "Qualité supérieure",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_03.23f670f86d302907e1965780bf0fc145ab334235.png"
@@ -354,7 +362,7 @@
         "id": "music_kit-42",
         "name": "Half-Life: Alyx, Anti-Citizen",
         "name_original": "halflife_alyx_01",
-        "description": "Ce kit de musiques célèbre la sortie de Half-Life: Alyx, le jeu qui signe le retour de Valve, en VR, dans l'univers de Half-Life. Vous êtes la dernière chance de survie de l'humanité, et votre expérience immersive se poursuit dans Counter-Strike: Global Offensive.",
+        "description": "Ce kit de musiques célèbre la sortie de Half-Life: Alyx, le jeu qui signe le retour de Valve, en VR, dans l'univers de Half-Life. Vous êtes la dernière chance de survie de l'humanité, et votre expérience immersive se poursuit dans Counter-Strike.",
         "rarity": "Qualité supérieure",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hlalyx_01.695e0b07f37980650d408fd3260737df825d1f91.png"

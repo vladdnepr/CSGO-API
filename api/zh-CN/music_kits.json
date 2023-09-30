@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "反恐精英 官方音乐盒。",
+        "rarity": "高级",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "音乐盒 | Daniel Sadowski - 深红突击",
         "name_original": "danielsadowski_01",
@@ -183,7 +191,7 @@
         "id": "music_kit-23",
         "name": "音乐盒 | Daniel Sadowski - 8 位音乐盒",
         "name_original": "danielsadowski_03",
-        "description": "Daniel Sadowski 首次用纯正的 8 位音效为《反恐精英》创作出了 8 位音乐盒。",
+        "description": "Daniel Sadowski 首次用纯正的 8 位音效为 反恐精英 创作出了 8 位音乐盒。",
         "rarity": "高级",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_03.23f670f86d302907e1965780bf0fc145ab334235.png"
@@ -525,7 +533,7 @@
         "id": "music_kit-61",
         "name": "音乐盒 | The Verkkars & n0thing - 闪光舞",
         "name_original": "theverkkars_02",
-        "description": "从阳光四射的加州到冰冷严寒的拉普兰，由CS传奇选手 n0thing 联合 The Verkkars 共同打造，带来的畅销单曲《闪光舞》！倒数321，亮瞎你的眼！",
+        "description": "从阳光四射的加州到冰冷严寒的拉普兰，由反恐精英传奇选手 n0thing 联合 The Verkkars 共同打造，带来的畅销单曲《闪光舞》！倒数321，亮瞎你的眼！",
         "rarity": "高级",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png"

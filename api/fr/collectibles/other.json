@@ -3,7 +3,7 @@
         "id": "collectible-874",
         "name": "Insigne des 5 années de service",
         "name_original": "CollectibleCoin_FiveYearService",
-        "description": "Est membre de la communauté de Counter-Strike depuis au moins 5 ans.",
+        "description": "Item décerné pour avoir été membre de la communauté de Counter-Strike depuis au moins 5 ans.",
         "rarity": "Extraordinaire",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/5yearcoin_large.8f83517dbda53fc10805f00bf0e3f59d30ee5033.png"
@@ -12,7 +12,7 @@
         "id": "collectible-969",
         "name": "Insigne des 10 années de service",
         "name_original": "CollectibleCoin_TenYearService",
-        "description": "Est membre de la communauté de Counter-Strike depuis au moins 10 ans.",
+        "description": "Item décerné pour avoir été membre de la communauté de Counter-Strike depuis au moins 10 ans.",
         "rarity": "Extraordinaire",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/10yearcoin_large.260e9a5c3a985930c43617436651a6e946313ae2.png"
@@ -21,7 +21,7 @@
         "id": "collectible-970",
         "name": "Badge de loyauté",
         "name_original": "CollectibleCoin_FortiusQuoFidelius",
-        "description": "Ce badge commémore l'appartenance loyale à la communauté de Counter-Strike avant la mise à jour Zone de danger. <i>Force et loyauté.</i>",
+        "description": "Ce badge commémore l'appartenance loyale à la communauté de Counter-Strike avant la mise à jour Zone de danger.\\n\\n<i>Force et loyauté.</i>",
         "rarity": "Extraordinaire",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/prime_badge_large.f8144d0a79cf586c900a22f4c226410a0f307409.png"
@@ -34,5 +34,13 @@
         "rarity": "Extraordinaire",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/cupcake_10_year_large.6bf0b2033f0d0e50ded1c491bc1c6330ac5d63f7.png"
+    },
+    {
+        "id": "collectible-996",
+        "name": "Badge Global Offensive",
+        "name_original": "CollectibleCoin_CoinCsgo",
+        "description": "Ce badge commémore l'appartenance loyale à la communauté de Counter-Strike: Global Offensive avant la sortie de Counter-Strike 2.\\n\\n<i>Les légendes ne meurent jamais.</i>",
+        "rarity": "Extraordinaire",
+        "type": null
     }
 ]

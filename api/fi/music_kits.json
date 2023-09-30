@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "The official music kit of Counter-Strike 2.",
+        "rarity": "Korkean tason",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Musiikkipakkaus | Daniel Sadowski, Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -336,7 +344,7 @@
         "id": "music_kit-40",
         "name": "Halo: The Master Chief Collection",
         "name_original": "halo_01",
-        "description": "Anna Counter-Strike-äänimaailman kokemuksellesi legendaarinen muodonmuutos The Master Chief Collection -musiikkipakkauksella, joka sisältää Halo-universumin ikonista musiikkia. © 2019 343 Industries. Kaikki oikeudet pidätetään. Käytetään 343 Industries -yrityksen luvalla. Halo: The Master Chief Collection ja Halo-logo ovat Microsoft-yritysryhmän tuotemerkkejä.",
+        "description": "Anna CS:GO-äänimaailman kokemuksellesi legendaarinen muodonmuutos The Master Chief Collection -musiikkipakkauksella, joka sisältää Halo-universumin ikonista musiikkia. © 2019 343 Industries. Kaikki oikeudet pidätetään. Käytetään 343 Industries -yrityksen luvalla. Halo: The Master Chief Collection ja Halo-logo ovat Microsoft-yritysryhmän tuotemerkkejä.",
         "rarity": "Korkean tason",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/halo_01.a49952f4e059871c05f6d829f6f29a1a2ccbddc2.png"
@@ -354,7 +362,7 @@
         "id": "music_kit-42",
         "name": "Half-Life: Alyx – Anti-Citizen",
         "name_original": "halflife_alyx_01",
-        "description": "Half-Life: Alyx -musiikkipakkaus juhlistaa Valven VR-peliä ja paluuta Half-Life -sarjaan. Olet ihmiskunnan viimeinen toivo, ja Alyxin immersiivisten ympäristöjen tunnelma jatkuu Counter-Strike: Global Offensive -pelissä.",
+        "description": "Half-Life: Alyx -musiikkipakkaus juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Olet ihmiskunnan viimeinen toivo, ja Alyxin immersiivisten ympäristöjen tunnelma jatkuu Counter-Strike: Global Offensive -pelissä.",
         "rarity": "Korkean tason",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hlalyx_01.695e0b07f37980650d408fd3260737df825d1f91.png"
@@ -597,7 +605,7 @@
         "id": "music_kit-69",
         "name": "Musiikkipakkaus | Denzel Curry, ULTIMATE",
         "name_original": "denzelcurry_01",
-        "description": "Denzel tuo peliin hänelle tyypillistä energiaa trap-, jazz- sekä rumpu ja basso -biiteillä. Pakkaus sisältää Denzelin hitit Walkin, ULTIMATE ja monia muita. Ota siis nikkelillä kromatut Berettat esiin ja lisää pelikentän intensiteettiä ULTIMATE-musiikkipakkauksella.",
+        "description": "Denzel tuo tavanomaisen energiansa CS:GO-peliin yhdistämällä trappia ja jatsia sekä rumpu- ja bassobiittiä. Pakkaus sisältää Denzelin hitit Walkin, Ultimate ja monta muuta. Ota nikkelöidyt kromi-Berettat esiin, käännä nupit kaakkoon ja anna Ultimate-musiikkipakkauksen soida.",
         "rarity": "Korkean tason",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"

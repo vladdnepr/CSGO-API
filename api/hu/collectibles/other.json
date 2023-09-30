@@ -21,7 +21,7 @@
         "id": "collectible-970",
         "name": "Hűség kitűző",
         "name_original": "CollectibleCoin_FortiusQuoFidelius",
-        "description": "Ez a kitűző a Counter-Strike közösség hű tagjainak állít emléket a Veszélyzóna frissítés előtti időkből. <i>Hűségben az erő.</i>",
+        "description": "Ez a kitűző a Counter-Strike közösség hű tagjainak állít emléket a Veszélyzóna frissítés előtti időkből.\\n\\n<i>Hűségben az erő.</i>",
         "rarity": "Rendkívüli",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/prime_badge_large.f8144d0a79cf586c900a22f4c226410a0f307409.png"
@@ -34,5 +34,13 @@
         "rarity": "Rendkívüli",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/cupcake_10_year_large.6bf0b2033f0d0e50ded1c491bc1c6330ac5d63f7.png"
+    },
+    {
+        "id": "collectible-996",
+        "name": "Global Offensive kitűző",
+        "name_original": "CollectibleCoin_CoinCsgo",
+        "description": "Ez a kitűző a Counter-Strike: Global Offensive közösség hű tagjainak állít emléket a Counter-Strike 2 megjelenése előtti időkből. <i>A legendák örökké élnek.</i>",
+        "rarity": "Rendkívüli",
+        "type": null
     }
 ]

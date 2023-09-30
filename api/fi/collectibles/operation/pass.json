@@ -165,14 +165,14 @@
         "id": "collectible-4825",
         "name": "Antwerpen 2022 -katsojapassi",
         "name_original": "TournamentPass_antwerp2022",
-        "description": "This is a sealed PGL 2022 Antwerp CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Antwerp 2022 Coin tracking your progress throughout the event, full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
+        "description": "Tämä on sinetöity PGL 2022 Antwerpenin CS:GO Major -turnauksen katsojapassi. Avaamalla passin saat Antwerpen 2022 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Antwerpen 2022 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\n50 % myyntituloista käytetään mukana olleiden järjestöjen tukemiseen.",
         "rarity": "Perustason",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_large.1a83bb154dad72832132e99658db0e816cd09cdb.png"
     },
     {
         "id": "collectible-4830",
-        "name": "Antwerp 2022 Viewer Pass + 3 Souvenir Tokens",
+        "name": "Antwerpen 2022 -katsojapassi + 3 tuliaispolettia",
         "name_original": "TournamentPass_antwerp2022_pack",
         "description": "Tämä on sinetöity PGL 2022 Antwerpenin CS:GO Major -turnauksen katsojapassi. Avaamalla passin saat Antwerpen 2022 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Antwerpen 2022 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit nostaa Antwerpen 2022 -kolikkosi tasoa suorittamalla tehtäviä. Jokaisesta kolikon tason korotuksesta ansaitset tuliaispoletin.\\n\\nKatsojapassi aktivoi Antwerpen 2022 -kolikkosi ja saat samalla kolme tuliaispolettia.\\n\\n50 % myyntituotosta käytetään tapahtumaan osallistuvien järjestöjen tukemiseen.",
         "rarity": "Perustason",
@@ -183,7 +183,7 @@
         "id": "collectible-4831",
         "name": "Antwerpen 2022 -tuliaispoletti",
         "name_original": "TournamentPass_antwerp2022_charge",
-        "description": "This is a sealed PGL 2022 Antwerp CS:GO Major Championship Souvenir Token. Once this token is unsealed, it will add a token to your Antwerp 2022 Coin and allow you to claim a Souvenir Package.\\n\\nTokens can only be applied to your existing Antwerp 2022 Coin.",
+        "description": "Tämä on sinetöity PGL Antwerpen 2022 CS:GO Major -turnauksen tuliaispoletti. Avaamalla poletin se lisätään Antwerpen 2022 -kolikkoosi ja saat mahdollisuuden lunastaa tuliaispaketin.\\n\\nPoletteja voi lisätä ainoastaan olemassaolevaan Antwerpen 2022 -kolikkoon.",
         "rarity": "Perustason",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_charge_large.767dda9572f597e6ce4af1f73073e844eb6aae2b.png"
@@ -219,7 +219,7 @@
         "id": "collectible-4883",
         "name": "Paris 2023 -katsojapassi",
         "name_original": "TournamentPass_paris2023",
-        "description": "Tämä on sinetöity BLAST.tv Paris 2023 CS:GO -majorin katsojapassi. Passin avaamalla saat Paris 2023 -kolikon, jolla voit seurata edistymistäsi tapahtuman ajan, täyden pääsyn Paris 2023 Pick'Em -haasteeseen, Steam.tv-kannustuslogoihin, kolikkohaasteisiin ja rajattomasti graffitimahdollisuuksia pelissä tapahtuman ajan.\\n\\nPäivitä Paris 2023 -kolikkosi suorittamalla kolikkohaasteet. Jokaisesta päivityksestä saa tuliaispoletin.\\n\\n\\n50 % passin myyntituloista menee tapahtumaan osallistujille.",
+        "description": "Tämä on sinetöity BLAST.tv Paris 2023 CS:GO Major -turnauksen katsojapassi. Avaamalla passin saat Paris 2023 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Paris 2023 Pick'Em-haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää  Paris 2023 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\nPuolet myyntituloista käytetään mukana olevien järjestöjen tukemiseen.",
         "rarity": "Perustason",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/blast_pickem_2023_pass_large.a21a17e60f07716f77232a477881d2542b367620.png"
@@ -228,7 +228,7 @@
         "id": "collectible-4888",
         "name": "Paris 2023 -katsojapassi + 3 tuliaispolettia",
         "name_original": "TournamentPass_paris2023_pack",
-        "description": "Tämä on sinetöity BLAST.tv Paris 2023 CS:GO -majorin katsojapassi. Passin avaamalla saat Paris 2023 -kolikon, jolla voit seurata edistymistäsi tapahtuman ajan, täyden pääsyn Paris 2023 Pick'Em -haasteeseen, Steam.tv-kannustuslogoihin, kolikkohaasteisiin ja rajattomasti graffitimahdollisuuksia pelissä tapahtuman ajan.\\n\\nPäivitä Paris 2023 -kolikkosi suorittamalla kolikkohaasteet. Jokaisesta päivityksestä saa tuliaispoletin.\\n\\nKatsojapassi aktivoi Paris 2023 -kolikon valmiiksi kolmella tuliaispoletilla.\\n\\n\\n50 % passin myyntituloista menee tapahtumaan osallistujille.",
+        "description": "This is a sealed BLAST.tv Paris 2023 CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Paris 2023 Coin tracking your progress throughout the event, full access to the Paris 2023 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Paris 2023 Coin by completing the coin challenges. Earn a Souvenir Token every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Paris 2023 Coin with 3 Souvenir Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
         "rarity": "Perustason",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/blast_pickem_2023_pass_pack_large.6c0da68571816c2403cb60f147187d97e44bf9af.png"
@@ -237,7 +237,7 @@
         "id": "collectible-4889",
         "name": "Paris 2023 -tuliaispoletti",
         "name_original": "TournamentPass_paris2023_charge",
-        "description": "Tämä on sinetöity BLAST.tv Paris 2023 CS:GO -majorin tuliaispoletti. Poletin avaaminen lisää sen Paris 2023 -kolikkoosi ja voit lunastaa tuliaispaketin.\\n\\nPoletteja voi lisätä vain olemassa olevaan Paris 2023 -kolikkoon.",
+        "description": "This is a sealed BLAST.tv Paris 2023 CS:GO Major Championship Souvenir Token. Once this token is unsealed, it will add a token to your Paris 2023 Coin and allow you to claim a Souvenir Package.\\n\\nTokens can only be applied to your existing Paris 2023 Coin.",
         "rarity": "Perustason",
         "type": "Pass",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/blast_pickem_2023_pass_charge_large.767dda9572f597e6ce4af1f73073e844eb6aae2b.png"

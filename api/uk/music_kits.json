@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "Офіційний музичний альбом Counter-Strike 2.",
+        "rarity": "дуже рідкісний предмет",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Музичний альбом | Daniel Sadowski — Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -354,7 +362,7 @@
         "id": "music_kit-42",
         "name": "Half-Life: Alyx — Anti-Citizen",
         "name_original": "halflife_alyx_01",
-        "description": "Цей музичний альбом на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Ви — єдиний шанс людства на виживання і ваші захопливі взаємодії з оточенням продовжаться в Counter-Strike: Global Offensive.",
+        "description": "Цей музичний альбом на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Ви — єдиний шанс людства на виживання, і ваші захопливі взаємодії з оточенням продовжаться в Counter-Strike.",
         "rarity": "дуже рідкісний предмет",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hlalyx_01.695e0b07f37980650d408fd3260737df825d1f91.png"
@@ -525,7 +533,7 @@
         "id": "music_kit-61",
         "name": "Музичний альбом | The Verkkars & n0thing — Flashbang Dance",
         "name_original": "theverkkars_02",
-        "description": "Від сонячної Каліфорнії до холодної Лапландії: легенди Counter-Strike, n0thing і The Verkkars, об’єднують свої сили, щоби створити розривний хіт «Flashbang Dance»! 3, 2, 1 і ти не бачиш!",
+        "description": "Від сонячної Каліфорнії до холодної Лапландії: легенди Counter-Strike, n0thing і The Verkkars, об’єдналися, щоби створити розривний хіт «Flashbang Dance»! 3, 2, 1 — і ви осліплені!",
         "rarity": "дуже рідкісний предмет",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png"
@@ -570,7 +578,7 @@
         "id": "music_kit-66",
         "name": "Музичний альбом | Meechy Darko — Gothic Luxury",
         "name_original": "meechydarko_01",
-        "description": "Хапайте Glock і спорядіть цей музичний альбом, щоби перенестися в центр андеграундної хіп-хоп сцени Нью-Йорка.",
+        "description": "Хапайте «Ґлок» і спорядіть цей музичний альбом, щоби перенестися в центр андеграундної хіп-хоп сцени Нью-Йорка.",
         "rarity": "дуже рідкісний предмет",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/meechydarko_01.5dbe99ff8a2ef9922d84ac61beb9cd685746b886.png"
@@ -597,7 +605,7 @@
         "id": "music_kit-69",
         "name": "Музичний альбом | Denzel Curry — ULTIMATE",
         "name_original": "denzelcurry_01",
-        "description": "Дензел привносить свою фірмову енергію в CS:GO, поєднуючи треп, джаз і драм-енд-бейс. У цьому наборі є такі хіти Дензела як «Walkin», «ULTIMATE» та багато інших, тож вибирайте нікельовані хромовані Beretta й додавайте інтенсивності з музичним альбомом ULTIMATE.",
+        "description": "Дензел привносить свою фірмову енергію в Counter-Strike, поєднуючи треп, джаз і драм-енд-бейс. У цьому альбомі є такі хіти Дензела як «Walkin», «ULTIMATE» та багато інших, тож вибирайте нікельовані хромовані Beretta й піддавайте жару з музичним альбомом «ULTIMATE».",
         "rarity": "дуже рідкісний предмет",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"

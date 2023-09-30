@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "Výchozí hudba hry Counter-Strike 2.",
+        "rarity": "Vyšší třída",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Hudební balíček | Daniel Sadowski – Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -138,7 +146,7 @@
         "id": "music_kit-18",
         "name": "Hudební balíček | Proxy – Battlepack",
         "name_original": "proxy_01",
-        "description": "Ruský umělec s přezdívkou PROXY se rozhodl se svojí výzbrojí zavítat i do CS:GO, a dopřát nám tak jedinečnou šanci poslechnout si mix temných tónů a zvuků, který definuje žánr heavy electronica.",
+        "description": "Ruský umělec s přezdívkou PROXY se rozhodl se svojí výzbrojí zavítat i do hry Counter-Strike, a dopřát nám tak jedinečnou šanci poslechnout si mix temných tónů a zvuků, který definuje žánr heavy electronica.",
         "rarity": "Vyšší třída",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/proxy_01.12796e09ff47c1dd25757cff0761bf7b880dfb3b.png"
@@ -165,7 +173,7 @@
         "id": "music_kit-21",
         "name": "Hudební balíček | Kelly Bailey – Hazardous Environments",
         "name_original": "kellybailey_01",
-        "description": "Kelly Bailey, dvorní skladatel pro sérii Half-Life, přináší do CS:GO apokalypticky znějící hudbu inspirovanou temnou stranou univerza Half-Life.",
+        "description": "Kelly Bailey, dvorní skladatel pro sérii Half-Life, přináší do hry Counter-Strike apokalypticky znějící hudbu inspirovanou temnou stranou univerza Half-Life.",
         "rarity": "Vyšší třída",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/kellybailey_01.5f62031bbb9d6859db2f1f8a575a6dcd1079c928.png"
@@ -174,7 +182,7 @@
         "id": "music_kit-22",
         "name": "Hudební balíček | Skog – II-Headshot",
         "name_original": "skog_02",
-        "description": "Metalový skladatel a producent Jocke Skog se vrací se zbrusu novým, nářezovým balíčkem, vedle kterého všechna ostatní hudba z CS:GO vypadá jako Šmoulí diskotéka. Pokud tě nenapumpuje tohle, tak už nic!",
+        "description": "Metalový skladatel a producent Jocke Skog se vrací se zbrusu novým, nářezovým balíčkem, vedle kterého všechna ostatní hudba ze hry Counter-Strike vypadá jako Šmoulí diskotéka. Pokud tě nenapumpuje tohle, tak už nic!",
         "rarity": "Vyšší třída",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/skog_02.eeb9ddb340f8a0b530b097f6a7f37cd922334f53.png"
@@ -192,7 +200,7 @@
         "id": "music_kit-24",
         "name": "Hudební balíček | AWOLNATION – I Am",
         "name_original": "awolnation_01",
-        "description": "Alternativní rocker s přezdívkou AWOLNATION vytvořil speciálně pro CS:GO balíček různorodých melodií, jež obsahují i části ze singlu „I Am“ a několikrát platinového hitu „Sail“.",
+        "description": "Alternativní rocker s přezdívkou AWOLNATION vytvořil speciálně pro hru Counter-Strike balíček různorodých melodií, jež obsahují i části ze singlu „I Am“ a několikrát platinového hitu „Sail“.",
         "rarity": "Vyšší třída",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/awolnation_01.2ffc1650abdea909957237a616b8a85f8ca686e4.png"
@@ -273,7 +281,7 @@
         "id": "music_kit-33",
         "name": "Hudební balíček | Blitz Kids – The Good Youth",
         "name_original": "blitzkids_01",
-        "description": "Britská pop punková skupina Blitz Kids se s tím nepáře a do CS:GO se přiřítila s hudebním balíčkem, díky němuž ti při útoku na B hlavu zaplaví nejen kouř dýmovnic ale i vzpomínky na mládí.",
+        "description": "Britská pop punková skupina Blitz Kids se s tím nepáře a do hry Counter-Strike se přiřítila s hudebním balíčkem, díky němuž ti při útoku na B hlavu zaplaví nejen kouř dýmovnic ale i vzpomínky na mládí.",
         "rarity": "Vyšší třída",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/blitzkids_01.5f0480468f7b46a838bb761dfdfa0788469e3e17.png"
@@ -291,7 +299,7 @@
         "id": "music_kit-35",
         "name": "Hudební balíček | Neck Deep – Life's Not Out To Get You",
         "name_original": "neckdeep_01",
-        "description": "Některé dny si vyloženě říkají o zdravou nálož pop punku a s trochou Neck Deep nikdy nesáhnete vedle. Pozor, předávkování však může vést k závislosti a podupávání.",
+        "description": "Některé dny si vyloženě říkají o zdravou nálož pop punku a s trochou Neck Deep nikdy nesáhneš vedle. Pozor, předávkování však může vést k závislosti a podupávání.",
         "rarity": "Vyšší třída",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/neckdeep_01.f2b26359736f263c519fb5bffbaf590c5cbdcd17.png"
@@ -372,7 +380,7 @@
         "id": "music_kit-44",
         "name": "Hudební balíček | Dren – Gunman Taco Truck",
         "name_original": "dren_02",
-        "description": "Kdo by to byl řekl, že apokalyptické mariachi z nezávislého hitu Gunman Taco Truck tak skvěle zapadne do CS:GO? My poté, co jsme si poslechli Mexikem nasáklé pecky jako Pollo Diablo a Persecución de Helltain! Nevěříš? Zkus sám!",
+        "description": "Kdo by to byl řekl, že apokalyptické mariachi z nezávislého hitu Gunman Taco Truck tak skvěle zapadne do hry Counter-Strike? My poté, co jsme si poslechli Mexikem nasáklé pecky jako Pollo Diablo a Persecución de Helltain! Nevěříš? Zkus sám!",
         "rarity": "Vyšší třída",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/dren_02.63647ccdee069255f19589d7ce2d5b7de591aa6b.png"
@@ -597,7 +605,7 @@
         "id": "music_kit-69",
         "name": "Hudební balíček | Denzel Curry – ULTIMATE",
         "name_original": "denzelcurry_01",
-        "description": "Denzel je pověstný pro svoji energii a unikátní styl míchající trap, jazz a drum’n’bass, a tak se není čemu divit, že právě s tímhle nabitým kombem vyrazil na turné i po mapách v CS:GO. V balíčku najdeš „Walkin“, „ULTIMATE“ a další hitovky, které tě přinutí pořádně vohulit volume!",
+        "description": "Denzel je pověstný pro svoji energii a unikátní styl míchající trap, jazz a drum’n’bass, a tak se není čemu divit, že právě s tímhle nabitým kombem vyrazil na turné i po mapách v Counter-Striku. V balíčku najdeš „Walkin“, „ULTIMATE“ a další hitovky, které tě přinutí pořádně vohulit volume!",
         "rarity": "Vyšší třída",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"

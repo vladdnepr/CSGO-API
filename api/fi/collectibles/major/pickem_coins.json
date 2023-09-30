@@ -111,7 +111,7 @@
         "id": "collectible-4826",
         "name": "Antwerpen 2022 -kolikko",
         "name_original": "TournamentJournal_antwerp2022",
-        "description": "This is a commemorative PGL 2022 Antwerp CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Tämä on PGL 2022 Antwerpenin CS:GO Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Antwerpen 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
         "rarity": "Merkillinen",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_bronze_large.d6b0ef1ed0794418b1927604ba5b2e9596bc21ee.png"
@@ -120,7 +120,7 @@
         "id": "collectible-4827",
         "name": "Antwerpen 2022 -hopeakolikko",
         "name_original": "TournamentJournal_antwerp2022_Silver",
-        "description": "This is a commemorative PGL 2022 Antwerp CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Tämä on PGL 2022 Antwerpenin CS:GO Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Antwerpen 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
         "rarity": "Merkillinen",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_silver_large.fbc32111a4101f2c88d44df70bbd005c671fd010.png"
@@ -129,7 +129,7 @@
         "id": "collectible-4828",
         "name": "Antwerpen 2022 -kultakolikko",
         "name_original": "TournamentJournal_antwerp2022_Gold",
-        "description": "This is a commemorative PGL 2022 Antwerp CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Tämä on PGL 2022 Antwerpenin CS:GO Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Antwerpen 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
         "rarity": "Merkillinen",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_gold_large.903526b76658c80bf954bee326a24999e5b3c057.png"
@@ -138,7 +138,7 @@
         "id": "collectible-4829",
         "name": "Antwerpen 2022 -timanttikolikko",
         "name_original": "TournamentJournal_antwerp2022_Crystal",
-        "description": "This is a commemorative PGL 2022 Antwerp CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Antwerp 2022 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Antwerp 2022 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+        "description": "Tämä on PGL 2022 Antwerpenin CS:GO Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Antwerpen 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
         "rarity": "Merkillinen",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_crystal_large.621b3bb82b76d1b61523b715222fd12ddcc68ccd.png"
@@ -181,36 +181,36 @@
     },
     {
         "id": "collectible-4884",
-        "name": "Paris 2023 -kolikko",
+        "name": "Paris 2023 Coin",
         "name_original": "TournamentJournal_paris2023",
-        "description": "Tämä on BLAST.tv Paris 2023 CS:GO -majorin muistokolikko, joka seuraa edistymistäsi tapahtuman ajan, tarjoaa täyden pääsyn Paris 2023 Pick'Em -haasteeseeen, Steam.tv-kannustuslogoihin, kolikkohaasteisiin ja rajattomasti graffitimahdollisuuksia pelissä tapahtuman ajan.\\n\\n\\nPäivitä Paris 2023 -kolikkoasi suorittamalla kolikkohaasteet. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+        "description": "This is a commemorative BLAST.tv Paris 2023 CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Paris 2023 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Paris 2023 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
         "rarity": "Merkillinen",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/blast_pickem_2023_bronze_large.3af871afc2c0177ddd9e9f30f67897adaec5b5b0.png"
     },
     {
         "id": "collectible-4885",
-        "name": "Paris 2023 -hopeakolikko",
+        "name": "Paris 2023 Silver Coin",
         "name_original": "TournamentJournal_paris2023_Silver",
-        "description": "Tämä on BLAST.tv Paris 2023 CS:GO -majorin muistokolikko, joka seuraa edistymistäsi tapahtuman ajan, tarjoaa täyden pääsyn Paris 2023 Pick'Em -haasteeseeen, Steam.tv-kannustuslogoihin, kolikkohaasteisiin ja rajattomasti graffitimahdollisuuksia pelissä tapahtuman ajan.\\n\\n\\nPäivitä Paris 2023 -kolikkoasi suorittamalla kolikkohaasteet. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+        "description": "This is a commemorative BLAST.tv Paris 2023 CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Paris 2023 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Paris 2023 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
         "rarity": "Merkillinen",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/blast_pickem_2023_silver_large.34db1f74b0e13f7112cc46b86f70368424a1ef7e.png"
     },
     {
         "id": "collectible-4886",
-        "name": "Paris 2023 -kultakolikko",
+        "name": "Paris 2023 Gold Coin",
         "name_original": "TournamentJournal_paris2023_Gold",
-        "description": "Tämä on BLAST.tv Paris 2023 CS:GO -majorin muistokolikko, joka seuraa edistymistäsi tapahtuman ajan, tarjoaa täyden pääsyn Paris 2023 Pick'Em -haasteeseeen, Steam.tv-kannustuslogoihin, kolikkohaasteisiin ja rajattomasti graffitimahdollisuuksia pelissä tapahtuman ajan.\\n\\n\\nPäivitä Paris 2023 -kolikkoasi suorittamalla kolikkohaasteet. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+        "description": "This is a commemorative BLAST.tv Paris 2023 CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Paris 2023 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Paris 2023 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
         "rarity": "Merkillinen",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/blast_pickem_2023_gold_large.ca68938d93ea0cbf626a662516bef398f8657703.png"
     },
     {
         "id": "collectible-4887",
-        "name": "Paris 2023 -timanttikolikko",
+        "name": "Paris 2023 Diamond Coin",
         "name_original": "TournamentJournal_paris2023_Crystal",
-        "description": "Tämä on BLAST.tv Paris 2023 CS:GO -majorin muistokolikko, joka seuraa edistymistäsi tapahtuman ajan, tarjoaa täyden pääsyn Paris 2023 Pick'Em -haasteeseeen, Steam.tv-kannustuslogoihin, kolikkohaasteisiin ja rajattomasti graffitimahdollisuuksia pelissä tapahtuman ajan.\\n\\n\\nPäivitä Paris 2023 -kolikkoasi suorittamalla kolikkohaasteet. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+        "description": "This is a commemorative BLAST.tv Paris 2023 CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Paris 2023 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Paris 2023 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
         "rarity": "Merkillinen",
         "type": "Pick'Em Coin",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/blast_pickem_2023_crystal_large.300c9b9f2850e84272a4af799e302c27cd545381.png"

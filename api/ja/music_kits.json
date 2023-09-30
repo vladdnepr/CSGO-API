@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "The official music kit of Counter-Strike 2.",
+        "rarity": "ハイグレード",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "ミュージックキット | Daniel Sadowski, Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -334,7 +342,7 @@
     },
     {
         "id": "music_kit-40",
-        "name": "Halo、The Master Chief Collection",
+        "name": "Halo, The Master Chief Collection",
         "name_original": "halo_01",
         "description": "Give your Counter Strike auditory experience a legendary makeover with the Master Chief Collection Music Pack, featuring iconic musical moments from the Halo universe. © 2019 343 Industries. All rights reserved. Used with permission from 343 Industries. Halo: The Master Chief Collection and the Halo logo are trademarks of the Microsoft group of companies.",
         "rarity": "ハイグレード",
@@ -354,14 +362,14 @@
         "id": "music_kit-42",
         "name": "Half-Life: Alyx, Anti-Citizen",
         "name_original": "halflife_alyx_01",
-        "description": "This music kit commemorates Half-Life: Alyx, Valve's VR return to the Half-Life series. You are humanity's only chance for survival, and your immersive environmental interactions continue in Counter-Strike: Global Offensive.",
+        "description": "これは、Valve の「Half-Life」シリーズに VR で帰ってきた『Half-Life: Alyx』を記念するミュージックキットです。あなたは人類が生き残るための唯一のチャンスであり、没入型環境下での相互作用は『Counter-Strike: Global Offensive』へと続きます。",
         "rarity": "ハイグレード",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hlalyx_01.695e0b07f37980650d408fd3260737df825d1f91.png"
     },
     {
         "id": "music_kit-43",
-        "name": "ミュージックキット | Austin Wintory、Bachram",
+        "name": "Music Kit | Austin Wintory, Bachram",
         "name_original": "austinwintory_02",
         "description": "Austin Wintory mixes Celtic fantasy with sizzling electronics and a generous helping of Peter Hollens' vocals in this genre-bending Music Kit.",
         "rarity": "ハイグレード",
@@ -370,7 +378,7 @@
     },
     {
         "id": "music_kit-44",
-        "name": "ミュージックキット | Dren、Gunman Taco Truck",
+        "name": "Music Kit | Dren, Gunman Taco Truck",
         "name_original": "dren_02",
         "description": "The apocalyptic mariachi soundtrack from the indie game hit, Gunman Taco Truck, comes to CS:GO with intense Mexican flavored tunes like Pollo Diablo and Persecución de Helltain!",
         "rarity": "ハイグレード",
@@ -379,9 +387,9 @@
     },
     {
         "id": "music_kit-45",
-        "name": "ミュージックキット | Daniel Sadowski、Eye of the Dragon",
+        "name": "Music Kit | Daniel Sadowski, Eye of the Dragon",
         "name_original": "danielsadowski_04",
-        "description": "「Total Domination」「The 8-Bit Kit」「Crimson Assault」を世に送り出した作曲家から「Eye Of The Dragon」が登場。 音楽作曲家 Daniel Sadowski は、Ninjas + Guns + Hip-Hop + Techno をミックスして、アクション満載の Music Kit を作成します。 <i>忍者は素早く正確な攻撃で知られていますが、敵から見えないこともあります。</i>",
+        "description": "From the composer who brought you \\\"Total Domination\\\", \\\"The 8-Bit Kit\\\" and \\\"Crimson Assault\\\", comes \\\"Eye Of The Dragon\\\". Music composer Daniel Sadowski mixes Ninjas + Guns + Hip-Hop + Techno to create an action-packed Music Kit. <i>Ninjas are known for their fast and precise attacks, yet they can be invisible to their enemy.</i>",
         "rarity": "ハイグレード",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_04.6be221622292eabfe4da40d166fa75a6d0dcec55.png"
@@ -397,7 +405,7 @@
     },
     {
         "id": "music_kit-47",
-        "name": "ミュージックキット | Tim Huling、Neo Noir",
+        "name": "Music Kit | Tim Huling, Neo Noir",
         "name_original": "timhuling_01",
         "description": "Composer Tim Huling delivers classic film-noir style tracks blended with contemporary grooves and beats.",
         "rarity": "ハイグレード",
@@ -406,7 +414,7 @@
     },
     {
         "id": "music_kit-48",
-        "name": "ミュージックキット | Sam Marshall、Bodacious",
+        "name": "Music Kit | Sam Marshall, Bodacious",
         "name_original": "sammarshall_01",
         "description": "Inspired by the funky video game music of the early 90s, composer Sam Marshall cooks up some classic game nostalgia with a spicy modern sauce.",
         "rarity": "ハイグレード",
@@ -525,14 +533,14 @@
         "id": "music_kit-61",
         "name": "Music Kit | The Verkkars & n0thing, Flashbang Dance",
         "name_original": "theverkkars_02",
-        "description": "From sunny California to frigid Lapland, Counter-Strike legend n0thing and The Verkkars combine powers to create the smash hit, Flashbang Dance! 3, 2, 1 you’re blind!",
+        "description": "晴天のカリフォルニアから極寒のラップランドまで、『Counter-Strike』のレジェンドである「n0thing」と「The Verkkars」が協力して生み出すスマッシュヒットが「Flashbang Dance」です。3、2、1… あ、目が見えない！",
         "rarity": "ハイグレード",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png"
     },
     {
         "id": "music_kit-62",
-        "name": "ミュージックキット | 3kliksphilip、Heading for the Source",
+        "name": "Music Kit | 3kliksphilip, Heading for the Source",
         "name_original": "3kliksphilip_01",
         "description": "On a quest to go pro, or unintentionally going low? Let this kit’s 80’s synths and dreamy melodies take you back. Back, back, back... to the good old days.",
         "rarity": "ハイグレード",
@@ -541,7 +549,7 @@
     },
     {
         "id": "music_kit-63",
-        "name": "ミュージックキット | Humanity's Last Breath、Void",
+        "name": "Music Kit | Humanity's Last Breath, Void",
         "name_original": "hlb_01",
         "description": "Swedish Band Humanity's Last Breath drops in heavy with their Void Music Kit. Pounding drums, colossal riffs and an atmosphere to send shivers up your spine.",
         "rarity": "ハイグレード",
@@ -550,7 +558,7 @@
     },
     {
         "id": "music_kit-64",
-        "name": "ミュージックキット | Juelz、Shooters",
+        "name": "Music Kit | Juelz, Shooters",
         "name_original": "juelz_01",
         "description": "Neo trap synths, gritty 808s, an epic piano riff, and a plethora of gunfire sound effects. The OG trap anthem \\\"Shooters\\\" by Juelz makes for a truly elite Music Kit. Suitable for MVPs only.",
         "rarity": "ハイグレード",
@@ -559,7 +567,7 @@
     },
     {
         "id": "music_kit-65",
-        "name": "ミュージックキット | Knock2、dashstar*",
+        "name": "Music Kit | Knock2, dashstar*",
         "name_original": "knock2_01",
         "description": "dashstar*, the iconic bass house anthem from Knock2, provides non-stop energy that captures the young San Diego native’s mantra, \\\"no limit\\\".",
         "rarity": "ハイグレード",
@@ -568,7 +576,7 @@
     },
     {
         "id": "music_kit-66",
-        "name": "ミュージックキット | Meechy Darko、Gothic Luxury",
+        "name": "Music Kit | Meechy Darko, Gothic Luxury",
         "name_original": "meechydarko_01",
         "description": "Grab a Glock and equip this music kit to be transported to the center of New York's underground hip-hop scene.",
         "rarity": "ハイグレード",
@@ -577,7 +585,7 @@
     },
     {
         "id": "music_kit-67",
-        "name": "ミュージックキット | Sullivan King、Lock Me Up",
+        "name": "Music Kit | Sullivan King, Lock Me Up",
         "name_original": "sullivanking_01",
         "description": "Love the chase? Love the hunt? Hard rock, metal, and dubstep collide in Sullivan King's soundtrack for becoming unstoppable.",
         "rarity": "ハイグレード",
@@ -595,7 +603,7 @@
     },
     {
         "id": "music_kit-69",
-        "name": "ミュージックキット | Denzel Curry、LTIMATE",
+        "name": "Music Kit | Denzel Curry, ULTIMATE",
         "name_original": "denzelcurry_01",
         "description": "Denzel brings his signature energy to CS:GO as he traverses trap, jazz, and drum and bass beats. This kit features Denzel's hits \\\"Walkin\\\", \\\"ULTIMATE\\\", and more, so break out the nickel-plated chrome Berettas and crank up the intensity with the ULTIMATE music kit.",
         "rarity": "ハイグレード",

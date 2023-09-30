@@ -1,5 +1,13 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "name_original": "valve_cs2_01",
+        "description": "Das offizielle Musikkit von Counter-Strike 2.",
+        "rarity": "Hohe Qualität",
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Musikkit | Daniel Sadowski, Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -138,7 +146,7 @@
         "id": "music_kit-18",
         "name": "Musikkit | Proxy, Battlepack",
         "name_original": "proxy_01",
-        "description": "Der russische „Heavy Electronica“-Künstler PROXY bringt seine eigene einzigartige schwere Artillerie nach Counter-Strike. Waffenklänge, gepaart mit der feinsten Studiotechnologie machen dieses Paket einzigartig.",
+        "description": "Der russische „Heavy Electronica“-Künstler PROXY bringt seine eigene einzigartige schwere Artillerie nach CS:GO. Waffenklänge, gepaart mit der feinsten Studiotechnologie machen dieses Paket einzigartig.",
         "rarity": "Hohe Qualität",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/proxy_01.12796e09ff47c1dd25757cff0761bf7b880dfb3b.png"
@@ -336,7 +344,7 @@
         "id": "music_kit-40",
         "name": "Halo: The Master Chief Collection",
         "name_original": "halo_01",
-        "description": "Mit dem Musikkit „Master Chief Collection“, das ikonische musikalische Momente aus dem Halo-Universum bietet, können Sie Ihrem Counter-Strike-Sound ein legendäres Makeover verleihen. © 2019 343 Industries. Alle Rechte vorbehalten. Mit Genehmigung von 343 Industries verwendet. Halo: The Master Chief Collection und das Halo-Logo sind Marken der Microsoft-Unternehmensgruppe.",
+        "description": "Mit dem Musikkit „Master Chief Collection“, das ikonische musikalische Momente aus dem Halo-Universum bietet, können Sie Ihrem CS:GO-Sound ein legendäres Makeover verleihen. © 2019 343 Industries. Alle Rechte vorbehalten. Mit Genehmigung von 343 Industries verwendet. Halo: The Master Chief Collection und das Halo-Logo sind Marken der Microsoft-Unternehmensgruppe.",
         "rarity": "Hohe Qualität",
         "exclusive": true,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/halo_01.a49952f4e059871c05f6d829f6f29a1a2ccbddc2.png"
@@ -597,7 +605,7 @@
         "id": "music_kit-69",
         "name": "Musikkit | Denzel Curry, ULTIMATE",
         "name_original": "denzelcurry_01",
-        "description": "Denzel drückt CS:GO mit seiner unverwechselbaren Energie und Trap-, Jazz- und Drum-'n'-Bass-Beats seinen eigenen Stempel auf. Dieses Kit enthält seine Hits „Walkin“, „ULTIMATE“ und noch weitere, also holen Sie die vernickelten und verchromten Berettas heraus und drehen Sie die Lautstärke mit diesem wahrlich ULTIMATIVEN Musikkit auf!",
+        "description": "Denzel drückt CS:GO mit seiner unverwechselbaren Energie und seinen Trap-, Jazz- und Drum-’n’-Bass-Beats seinen eigenen Stempel auf. Dieses Kit enthält unter anderem seine Hits „Walkin“ und „ULTIMATE“, also worauf warten Sie? Ziehen Sie Ihre vernickelten und verchromten Berettas und drehen Sie die Lautstärke auf für dieses wahrlich ULTIMATIVE Musikkit!",
         "rarity": "Hohe Qualität",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"
