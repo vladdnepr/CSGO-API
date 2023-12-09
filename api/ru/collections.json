@@ -3683,7 +3683,7 @@
             },
             {
                 "id": "skin-1050496",
-                "name": "M4A4 | Злобный дайме",
+                "name": "M4A4 | Злобный даймё",
                 "rarity": "Запрещённое",
                 "paint_index": "480",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_evil_daimyo_light_large.c208ba252c0d8902caa973a634cbfa945508a716.png"
@@ -5976,7 +5976,7 @@
             },
             {
                 "id": "agent-5504",
-                "name": "«Доктор» Романов | Кавалерия",
+                "name": "«Доктор» Романов | Сабля",
                 "rarity": "Мастерский",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_balkan_varianth.8d16a8253cb80f8ade812f5454a8991e5aab68c3.png"
             },
@@ -6000,13 +6000,13 @@
             },
             {
                 "id": "agent-5503",
-                "name": "Черноволк | Кавалерия",
+                "name": "Черноволк | Сабля",
                 "rarity": "Превосходный",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_balkan_variantj.fa3101370646fa9338f9a315939c76097eaa23a4.png"
             },
             {
                 "id": "agent-5502",
-                "name": "Резан Готовый | Кавалерия",
+                "name": "Резан Готовый | Сабля",
                 "rarity": "Превосходный",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_balkan_variantg.8f857edd878bf7e878b791994071ff31935d18d2.png"
             },
@@ -6030,7 +6030,7 @@
             },
             {
                 "id": "agent-5501",
-                "name": "Максимус | Кавалерия",
+                "name": "Максимус | Сабля",
                 "rarity": "Исключительный",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_balkan_varianti.60acc61789c103bd81eba50498da3c9804977618.png"
             },
@@ -6048,7 +6048,7 @@
             },
             {
                 "id": "agent-5500",
-                "name": "Драгомир | Кавалерия",
+                "name": "Драгомир | Сабля",
                 "rarity": "Исключительный",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_balkan_variantf.74c825883b21f913d71314d2dab7b1155853dd82.png"
             },
@@ -6152,7 +6152,7 @@
             },
             {
                 "id": "agent-4718",
-                "name": "Резан Красный | Кавалерия",
+                "name": "Резан Красный | Сабля",
                 "rarity": "Превосходный",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_balkan_variantk.257a1ba0142799887e287b90f12dbbffcac4878a.png"
             },
@@ -6212,7 +6212,7 @@
             },
             {
                 "id": "agent-5505",
-                "name": "Драгомир | Пехота Кавалерии",
+                "name": "Драгомир | Пехота «Сабли»",
                 "rarity": "Заслуженный",
                 "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_balkan_variantl.fd91648b6bda8bd1ffb2c1ba44e910cbeaf6e37e.png"
             },
@@ -8909,126 +8909,218 @@
         "name_original": "set_community_32",
         "contains": [
             {
-                "id": "skin-1774352",
+                "id": "skin-1774108",
                 "name": "MAG-7 | Бессонница",
                 "rarity": "Армейское качество",
-                "paint_index": "1220",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_insomnia_light_large.0d971fb17ca0bb1df7baed6a1caa902c56c1ea5b.png"
+                "paint_index": "1220"
             },
             {
-                "id": "skin-2233124",
+                "id": "skin-2232880",
                 "name": "MP9 | Пушинка",
                 "rarity": "Армейское качество",
-                "paint_index": "1225",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_superlight_light_large.81ad837f4c889f250fa03b227ef74555614de55d.png"
+                "paint_index": "1225"
             },
             {
-                "id": "skin-2495272",
+                "id": "skin-2495028",
                 "name": "SCAR-20 | Фрагменты",
                 "rarity": "Армейское качество",
-                "paint_index": "1226",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar_fragments_black_light_large.d6bde287b06ba2380ba07621a0b06c36b13c4025.png"
+                "paint_index": "1226"
             },
             {
-                "id": "skin-2364216",
+                "id": "skin-2363972",
                 "name": "P250 | Ре.конструкция",
                 "rarity": "Армейское качество",
-                "paint_index": "1230",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_rebuilt_light_large.69d4fcb9a8151d09818d1c26cf4c7b03d046b5a1.png"
+                "paint_index": "1230"
             },
             {
-                "id": "skin-1512252",
+                "id": "skin-1512008",
                 "name": "MP5-SD | Ликвидация",
                 "rarity": "Армейское качество",
-                "paint_index": "1231",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_cu_mp5sd_quick_liquidation_light_large.2b446c710928debe38469e33b3b9030bd218c0e3.png"
+                "paint_index": "1231"
             },
             {
-                "id": "skin-2560840",
+                "id": "skin-2560596",
                 "name": "SG 553 | Киберсила",
                 "rarity": "Армейское качество",
-                "paint_index": "1234",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyberforce_light_large.63aa4e611195d801eb706ac65d38df68f98e2b76.png"
+                "paint_index": "1234"
             },
             {
-                "id": "skin-1971020",
+                "id": "skin-1970776",
                 "name": "Tec-9 | Повстанец",
                 "rarity": "Армейское качество",
-                "paint_index": "1235",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_freedom_light_large.bb79585222a88d4dd3b154915c5527cac7e507d1.png"
+                "paint_index": "1235"
             },
             {
-                "id": "skin-3937052",
+                "id": "skin-3936808",
                 "name": "M4A1-S | Эмфорозавр-S",
                 "rarity": "Запрещённое",
-                "paint_index": "1223",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_feeding_frenzy_light_large.e1cb803e0e10ae4457e42d34ec8515b1500f4762.png"
+                "paint_index": "1223"
             },
             {
-                "id": "skin-267052",
+                "id": "skin-266808",
                 "name": "Glock-18 | Кролик в тени",
                 "rarity": "Запрещённое",
-                "paint_index": "1227",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_moon_rabbit_light_large.9063b9745250446c657632eb13a6325f51d101f2.png"
+                "paint_index": "1227"
             },
             {
-                "id": "skin-1119028",
+                "id": "skin-1118784",
                 "name": "MAC-10 | Саккаку",
                 "rarity": "Запрещённое",
-                "paint_index": "1229",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_sakkaku_light_large.b590689d0ca099e8a759dd0a86da0710a58bca42.png"
+                "paint_index": "1229"
             },
             {
-                "id": "skin-4199232",
+                "id": "skin-4198988",
                 "name": "Револьвер R8 | Банановая пушка",
                 "rarity": "Запрещённое",
-                "paint_index": "1232",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_r8_banana_light_large.50f0b729a36a405d48b41d58463234dbbd15b9cf.png"
+                "paint_index": "1232"
             },
             {
-                "id": "skin-1250116",
+                "id": "skin-1249872",
                 "name": "P90 | Неокоролева",
                 "rarity": "Запрещённое",
-                "paint_index": "1233",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_neoqueen_light_large.fa2a81f8c7906b2683b5eb4b562edd2529ad2cf0.png"
+                "paint_index": "1233"
             },
             {
-                "id": "skin-1577808",
+                "id": "skin-1577564",
                 "name": "UMP-45 | Дикое дитя",
                 "rarity": "Засекреченное",
-                "paint_index": "1236",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_clutch_kick_light_large.b57e43c07b433517b1c3bdaa1e52ce44878af481.png"
+                "paint_index": "1236"
             },
             {
-                "id": "skin-2102048",
+                "id": "skin-2101804",
                 "name": "P2000 | Сорвиголова",
                 "rarity": "Засекреченное",
-                "paint_index": "1224",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_decline_light_large.7f57145674a5e41b3b8e7fe70be4ffbb57ec6f84.png"
+                "paint_index": "1224"
             },
             {
-                "id": "skin-594712",
+                "id": "skin-594468",
                 "name": "AWP | Двойственность",
                 "rarity": "Засекреченное",
-                "paint_index": "1222",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_limbo_snake_light_large.60984ce1e5c1a4ac10e83444a9b7e7f78dd98b1e.png"
+                "paint_index": "1222"
             },
             {
-                "id": "skin-463636",
+                "id": "skin-463392",
                 "name": "AK-47 | Выстрел в голову",
                 "rarity": "Тайное",
-                "paint_index": "1221",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_head_shot_holo_light_large.85be84ba7c07917493b8e8a66c9d95c928ebe8b6.png"
+                "paint_index": "1221"
             },
             {
-                "id": "skin-1053488",
+                "id": "skin-1053244",
                 "name": "M4A4 | Темукау",
                 "rarity": "Тайное",
-                "paint_index": "1228",
-                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_temukau_light_large.a41eb80c70cbbee5d84e53b5cd1eaa10954c938d.png"
+                "paint_index": "1228"
             }
         ],
         "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
+    },
+    {
+        "id": "collection-set-community-33",
+        "name": null,
+        "name_original": "set_community_33",
+        "contains": [
+            {
+                "id": "skin-1774108",
+                "name": "MAG-7 | null",
+                "rarity": "Армейское качество",
+                "paint_index": "1159"
+            },
+            {
+                "id": "skin-2232880",
+                "name": "MP9 | null",
+                "rarity": "Армейское качество",
+                "paint_index": "1164"
+            },
+            {
+                "id": "skin-2495028",
+                "name": "SCAR-20 | null",
+                "rarity": "Армейское качество",
+                "paint_index": "1165"
+            },
+            {
+                "id": "skin-2363972",
+                "name": "P250 | null",
+                "rarity": "Армейское качество",
+                "paint_index": "1169"
+            },
+            {
+                "id": "skin-1512008",
+                "name": "MP5-SD | null",
+                "rarity": "Армейское качество",
+                "paint_index": "1170"
+            },
+            {
+                "id": "skin-2560596",
+                "name": "SG 553 | null",
+                "rarity": "Армейское качество",
+                "paint_index": "1173"
+            },
+            {
+                "id": "skin-1970776",
+                "name": "Tec-9 | null",
+                "rarity": "Армейское качество",
+                "paint_index": "1174"
+            },
+            {
+                "id": "skin-3936808",
+                "name": "M4A1-S | null",
+                "rarity": "Запрещённое",
+                "paint_index": "1162"
+            },
+            {
+                "id": "skin-266808",
+                "name": "Glock-18 | null",
+                "rarity": "Запрещённое",
+                "paint_index": "1166"
+            },
+            {
+                "id": "skin-1118784",
+                "name": "MAC-10 | null",
+                "rarity": "Запрещённое",
+                "paint_index": "1168"
+            },
+            {
+                "id": "skin-4198988",
+                "name": "Револьвер R8 | null",
+                "rarity": "Запрещённое",
+                "paint_index": "1171"
+            },
+            {
+                "id": "skin-1249872",
+                "name": "P90 | null",
+                "rarity": "Запрещённое",
+                "paint_index": "1172"
+            },
+            {
+                "id": "skin-1577564",
+                "name": "UMP-45 | null",
+                "rarity": "Засекреченное",
+                "paint_index": "1175"
+            },
+            {
+                "id": "skin-2101804",
+                "name": "P2000 | null",
+                "rarity": "Засекреченное",
+                "paint_index": "1163"
+            },
+            {
+                "id": "skin-594468",
+                "name": "AWP | null",
+                "rarity": "Засекреченное",
+                "paint_index": "1161"
+            },
+            {
+                "id": "skin-463392",
+                "name": "AK-47 | null",
+                "rarity": "Тайное",
+                "paint_index": "1160"
+            },
+            {
+                "id": "skin-1053244",
+                "name": "M4A4 | null",
+                "rarity": "Тайное",
+                "paint_index": "1167"
+            }
+        ]
     },
     {
         "id": "collection-4617",
