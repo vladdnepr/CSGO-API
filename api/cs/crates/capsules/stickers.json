@@ -10990,5 +10990,121 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_paris2023_contenders.f97f940b7aa86ead15cf5c8d39f81912c2a3d539.png"
+    },
+    {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "name_original": "crate_sticker_pack_community_2024_capsule",
+        "description": "Tato kapsle vydaná v únoru 2024 obsahuje samolepky z workshopu služby Steam.",
+        "type": "Sticker Capsule",
+        "first_sale_date": "2024/01/25",
+        "contains": [
+            {
+                "id": "sticker-7236",
+                "name": "This Is Fine (Chicken)",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "sticker-7235",
+                "name": "Retro Zeus",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "sticker-7237",
+                "name": "Please Return To",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "sticker-7238",
+                "name": "Peek-A-Boo",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "sticker-7239",
+                "name": "AKickflip-47",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "sticker-7240",
+                "name": "Easy For Ricksaw",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "sticker-7241",
+                "name": "Bum A Smoke",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "sticker-7242",
+                "name": "Angry T",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "sticker-7251",
+                "name": "Lotus (třpytivá)",
+                "rarity": "Významná"
+            },
+            {
+                "id": "sticker-7250",
+                "name": "Pushing Smokes (třpytivá)",
+                "rarity": "Významná"
+            },
+            {
+                "id": "sticker-7249",
+                "name": "Cedar Creek (holografická)",
+                "rarity": "Významná"
+            },
+            {
+                "id": "sticker-7248",
+                "name": "Lit (holografická)",
+                "rarity": "Významná"
+            },
+            {
+                "id": "sticker-7246",
+                "name": "Loving Eyes (holografická)",
+                "rarity": "Významná"
+            },
+            {
+                "id": "sticker-7247",
+                "name": "Try Hard (holografická)",
+                "rarity": "Významná"
+            },
+            {
+                "id": "sticker-7234",
+                "name": "Lost In Smoke (speciální)",
+                "rarity": "Exotická"
+            },
+            {
+                "id": "sticker-7253",
+                "name": "On An Eco (speciální)",
+                "rarity": "Exotická"
+            },
+            {
+                "id": "sticker-7233",
+                "name": "Ouchie (speciální)",
+                "rarity": "Exotická"
+            },
+            {
+                "id": "sticker-7252",
+                "name": "Factory Sealed (speciální)",
+                "rarity": "Exotická"
+            },
+            {
+                "id": "sticker-7245",
+                "name": "Dystopian Gaze (proměnlivá)",
+                "rarity": "Mimořádná"
+            },
+            {
+                "id": "sticker-7244",
+                "name": "Econometer (proměnlivá)",
+                "rarity": "Mimořádná"
+            },
+            {
+                "id": "sticker-7243",
+                "name": "Old School (proměnlivá)",
+                "rarity": "Mimořádná"
+            }
+        ],
+        "contains_rare": []
     }
 ]

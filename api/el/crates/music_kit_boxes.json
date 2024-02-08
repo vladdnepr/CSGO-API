@@ -307,5 +307,87 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.d20d2c4030e8c41199e11cec8617f70f1c6f36b0.png"
+    },
+    {
+        "id": "crate-4914",
+        "name": "Πακέτο μουσικών κουτιών NIGHTMODE",
+        "name_original": "crate_musickit_nightmode_capsule",
+        "description": "Περιέχει διάφορα μουσικά κουτιά από καλλιτέχνες NIGHTMODE.",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Μουσικό κουτί | DRYDEN, Feel The Power",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Μουσικό κουτί | ISOxo, inhuman",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Μουσικό κουτί | KILL SCRIPT, All Night",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Μουσικό κουτί | Knock2, Make U SWEAT!",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Μουσικό κουτί | Rad Cat, Reason",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Μουσικό κουτί | TWERL, Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "High Grade"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4915",
+        "name": "Πακέτο μουσικών κουτιών StatTrak™ NIGHTMODE",
+        "name_original": "crate_musickit_nightmode_stattrak_capsule",
+        "description": "Περιέχει διάφορα μουσικά κουτιά StatTrak™ από καλλιτέχνες NIGHTMODE.",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Μουσικό κουτί | DRYDEN, Feel The Power",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Μουσικό κουτί | ISOxo, inhuman",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Μουσικό κουτί | KILL SCRIPT, All Night",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Μουσικό κουτί | Knock2, Make U SWEAT!",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Μουσικό κουτί | Rad Cat, Reason",
+                "rarity": "High Grade"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Μουσικό κουτί | TWERL, Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "High Grade"
+            }
+        ],
+        "contains_rare": []
     }
 ]

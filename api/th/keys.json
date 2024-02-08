@@ -561,14 +561,14 @@
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_32.fa9b42c1eefd4304b2860014584fa42309675505.png"
     },
     {
-        "id": "key-4904",
-        "name": null,
+        "id": "key-1394",
+        "name": "กุญแจกล่อง Kilowatt",
         "name_original": "crate_key_community_33",
-        "description": "กุญแจนี้จะเปิดกล่องอาวุธชุด Valve ใดก็ได้ ส่วนกล่องที่ไม่ใช่ชุด Valve (เช่น กล่อง eSports) จำเป็นต้องใช้กุญแจของของกล่องนั้นเองในการเปิด",
+        "description": "กุญแจนี้ใช้เปิดกล่อง Kilowatt เท่านั้น",
         "crates": [
             {
-                "id": "crate-4905",
-                "name": null
+                "id": "crate-4904",
+                "name": "กล่อง Kilowatt"
             }
         ]
     },

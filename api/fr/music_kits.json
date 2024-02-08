@@ -609,5 +609,53 @@
         "rarity": "Qualité supérieure",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"
+    },
+    {
+        "id": "music_kit-71",
+        "name": "Kit de musiques | DRYDEN, Feel The Power",
+        "name_original": "dryden_01",
+        "description": "Sentez la puissance couler dans vos veines avec le kit de musiques électro explosive de DRYDEN.",
+        "rarity": "Qualité supérieure",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-72",
+        "name": "Kit de musiques | ISOxo, inhuman",
+        "name_original": "isoxo_01",
+        "description": "Conçu spécialement pour ces parties dans lesquelles vous ne vous sentez <i>pas comme les autres</i>. Devenez le pire cauchemar de vos adversaires avec le kit de musiques « inhuman », signé ISOxo.",
+        "rarity": "Qualité supérieure",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-73",
+        "name": "Kit de musiques | KILL SCRIPT, All Night",
+        "name_original": "killscript_01",
+        "description": "Plutôt peace, ou plutôt love ? Peut-être les deux à la fois ? Criez-le sur tous les toits du serveur avec le kit de musique « All Night », signé KILL SCRIPT.",
+        "rarity": "Qualité supérieure",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-74",
+        "name": "Kit de musiques | Knock2, Make U SWEAT!",
+        "name_original": "knock2_02",
+        "description": "Pour celles et ceux qui considèrent chaque match comme une finale de tournoi majeur, même s'il n'y a que quelques centaines de points en jeu. Faites le plein d'énergie et récoltez les victoires avec le deuxième kit de musiques de Knock2, « Make U SWEAT! ».",
+        "rarity": "Qualité supérieure",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-75",
+        "name": "Music Kit | Rad Cat, Reason",
+        "name_original": "radcat_01",
+        "description": "Parfois, il suffit de désamorcer la bombe pour être MJ de la manche. Avec le kit de musiques « Reason » de Rad Cat, célébrez chaque victoire, même les plus petites.",
+        "rarity": "Qualité supérieure",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-76",
+        "name": "Kit de musiques |TWERL, Ekko & Sidetrack, Under Bright Lights",
+        "name_original": "twerl_01",
+        "description": "Profitez d'un moment de gloire sous les projecteurs. Laissez-vous porter, vous et votre équipe, vers de nouveaux sommets grâce à cet air de drum and bass signé TWERL, Ekko & Sidetrack, « Under Bright Lights ».",
+        "rarity": "Qualité supérieure",
+        "exclusive": false
     }
 ]

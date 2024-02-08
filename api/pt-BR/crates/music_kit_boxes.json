@@ -307,5 +307,87 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.d20d2c4030e8c41199e11cec8617f70f1c6f36b0.png"
+    },
+    {
+        "id": "crate-4914",
+        "name": "Caixa de Trilhas Sonoras NIGHTMODE",
+        "name_original": "crate_musickit_nightmode_capsule",
+        "description": "Esta caixa contém uma variedade de trilhas sonoras de artistas da \\\"NIGHTMODE\\\".",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Trilha Sonora | DRYDEN, Feel The Power",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Trilha Sonora | ISOxo, inhuman",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Trilha Sonora | KILL SCRIPT, All Night",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Trilha Sonora | Knock2, Make U SWEAT!",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Trilha Sonora | Rad Cat, Reason",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Trilha Sonora | TWERL + Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "Alta Qualidade"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4915",
+        "name": "Caixa de Trilhas Sonoras StatTrak™ NIGHTMODE",
+        "name_original": "crate_musickit_nightmode_stattrak_capsule",
+        "description": "Esta caixa contém uma variedade de trilhas sonoras StatTrak™ de artistas da \\\"NIGHTMODE\\\".",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Trilha Sonora | DRYDEN, Feel The Power",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Trilha Sonora | ISOxo, inhuman",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Trilha Sonora | KILL SCRIPT, All Night",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Trilha Sonora | Knock2, Make U SWEAT!",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Trilha Sonora | Rad Cat, Reason",
+                "rarity": "Alta Qualidade"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Trilha Sonora | TWERL + Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "Alta Qualidade"
+            }
+        ],
+        "contains_rare": []
     }
 ]

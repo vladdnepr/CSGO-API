@@ -609,5 +609,53 @@
         "rarity": "wysokiej jakości",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"
+    },
+    {
+        "id": "music_kit-71",
+        "name": "Zestaw utworów | DRYDEN, Feel The Power",
+        "name_original": "dryden_01",
+        "description": "Cóż można jeszcze rzec? Poczuj moc. I skup się dzięki temu zestawowi utworów elektronicznych z mnóstwem energii od DRYDEN.",
+        "rarity": "wysokiej jakości",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-72",
+        "name": "Zestaw utworów | ISOxo, inhuman",
+        "name_original": "isoxo_01",
+        "description": "Stworzony specjalnie dla tych gier, gdy czujesz się... <i>inaczej</i>. Gnęb swoich przeciwników runda po rundzie wraz z zestawem utworów „inhuman” od ISOxo.",
+        "rarity": "wysokiej jakości",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-73",
+        "name": "Zestaw utworów | KILL SCRIPT, All Night",
+        "name_original": "killscript_01",
+        "description": "Jesteś kochankiem czy wojownikiem? A może i jednym i drugim? Daj o tym znać całej poczekalni dzięki zestawowi utworów „All Night” od KILL SCRIPT.",
+        "rarity": "wysokiej jakości",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-74",
+        "name": "Zestaw utworów | Knock2, Make U SWEAT!",
+        "name_original": "knock2_02",
+        "description": "Dla graczy, którzy każdą grę traktują jak finał Wielkich Mistrzostw, nawet jeśli stawką jest zaledwie kilkaset punktów klasyfikacji CS. Przyciągnij dobrą energię i wygrane dzięki „Make U SWEAT!” – drugiemu zestawowi utworów od Knock2.",
+        "rarity": "wysokiej jakości",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-75",
+        "name": "Zestaw utworów | Rad Cat, Reason",
+        "name_original": "radcat_01",
+        "description": "Czasami do zostania MVP wystarczy rozbrojenie bomby. Świętuj każdą chwilę (dużą czy małą) wraz z zestawem utworów „Reason” od Rad Cat.",
+        "rarity": "wysokiej jakości",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-76",
+        "name": "Zestaw utworów | TWERL, Ekko i Sidetrack, Under Bright Lights",
+        "name_original": "twerl_01",
+        "description": "Nie ma lepszego czasu na ożywienie się, niż będąc w świetle reflektorów. Niech drum’n’bassowy hit „Under Bright Lights” od TWERL, Ekko i Sidetrack wyniesie ciebie i twoją drużynę na nowe wyżyny.",
+        "rarity": "wysokiej jakości",
+        "exclusive": false
     }
 ]

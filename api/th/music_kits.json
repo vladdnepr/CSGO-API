@@ -609,5 +609,53 @@
         "rarity": "เกรดสูง",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"
+    },
+    {
+        "id": "music_kit-71",
+        "name": "ชุดอุปกรณ์เพลง | DRYDEN, Feel The Power",
+        "name_original": "dryden_01",
+        "description": "ต้องให้พูดอะไรอีก? จงรู้สึกถึงพลัง และเพลินไปกับชุดอุปกรณ์เพลงอิเล็กทรอนิกส์พลังแรงสูงจาก DRYDEN",
+        "rarity": "เกรดสูง",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-72",
+        "name": "ชุดอุปกรณ์เพลง | ISOxo, inhuman",
+        "name_original": "isoxo_01",
+        "description": "จัดทำขึ้นมาโดยเฉพาะให้สำหรับเหล่าเกมที่คุณรู้สึกว่า... <i>แตกต่าง</i> จงหลอกหลอนศัตรูของคุณรอบแล้ว รอบเล่าด้วยชุดอุปกรณ์เพลง \\\"inhuman\\\" จาก ISOxo",
+        "rarity": "เกรดสูง",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-73",
+        "name": "ชุดอุปกรณ์เพลง | KILL SCRIPT, All Night",
+        "name_original": "killscript_01",
+        "description": "คุณเป็นนักรักหรือนักสู้? หรือเป็นทั้งสองอย่าง? มาให้ทั้งล็อบบี้รับรู้ไปด้วยกันกับชุดอุปกรณ์เพลง \\\"All Night\\\" จาก KILL SCRIPT",
+        "rarity": "เกรดสูง",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-74",
+        "name": "ชุดอุปกรณ์เพลง | Knock2, Make U SWEAT!",
+        "name_original": "knock2_02",
+        "description": "สำหรับผู้เล่นที่เล่นทุกเกมเหมือนแข่งในงานเมเจอร์รอบชิงชนะเลิศ แม้ว่าจะมี CSR เพียงไม่กี่ร้อยในอันดับก็ตาม จงใช้พลังและนำชัยชนะมาให้ได้ด้วยชุดอุปกรณ์เพลงชุดที่สองของ Knock2 - \\\"Make U SWEAT!\\\"",
+        "rarity": "เกรดสูง",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-75",
+        "name": "ชุดอุปกรณ์เพลง | Rad Cat, Reason",
+        "name_original": "radcat_01",
+        "description": "บางครั้งการปลดชนวนระเบิดอาจไม่เพียงพอให้ได้เป็น MVP ของรอบนั้น ดังนั้นมาฉลองให้กับทุกช่วงเวลาไม่ว่าจะเล็กหรือใหญ่แค่ไหนก็ตาม ด้วยชุดอุปกรณ์เพลง \\\"Reason\\\" จาก Rad Cat",
+        "rarity": "เกรดสูง",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-76",
+        "name": "ชุดอุปกรณ์เพลง | TWERL, Ekko & Sidetrack, Under Bright Lights",
+        "name_original": "twerl_01",
+        "description": "ไม่มีช่วงเวลาไหนจะดีไปกว่าการได้มีชีวิตชีวาตอนเป็นดาวเด่น มาให้ทำนองเพลงกลองและเบส \\\"Under Bright Lights\\\" โดย TWERL และ Ekko & Sidetrack แบกคุณและทีมไปสู่จุดสูงสุดใหม่",
+        "rarity": "เกรดสูง",
+        "exclusive": false
     }
 ]

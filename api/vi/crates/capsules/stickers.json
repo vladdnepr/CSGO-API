@@ -10990,5 +10990,121 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_paris2023_contenders.f97f940b7aa86ead15cf5c8d39f81912c2a3d539.png"
+    },
+    {
+        "id": "crate-4905",
+        "name": "Gói hình dán Ambush",
+        "name_original": "crate_sticker_pack_community_2024_capsule",
+        "description": "Gói hình dán này chứa nhiều hình dán khác nhau đến từ các hoạ sĩ Steam Workshop và ra mắt vào tháng 2/2024.",
+        "type": "Sticker Capsule",
+        "first_sale_date": "2024/01/25",
+        "contains": [
+            {
+                "id": "sticker-7236",
+                "name": "This Is Fine (Chicken)",
+                "rarity": "Hạng cao cấp"
+            },
+            {
+                "id": "sticker-7235",
+                "name": "Retro Zeus",
+                "rarity": "Hạng cao cấp"
+            },
+            {
+                "id": "sticker-7237",
+                "name": "Please Return To",
+                "rarity": "Hạng cao cấp"
+            },
+            {
+                "id": "sticker-7238",
+                "name": "Peek-A-Boo",
+                "rarity": "Hạng cao cấp"
+            },
+            {
+                "id": "sticker-7239",
+                "name": "AKickflip-47",
+                "rarity": "Hạng cao cấp"
+            },
+            {
+                "id": "sticker-7240",
+                "name": "Easy For Ricksaw",
+                "rarity": "Hạng cao cấp"
+            },
+            {
+                "id": "sticker-7241",
+                "name": "Bum A Smoke",
+                "rarity": "Hạng cao cấp"
+            },
+            {
+                "id": "sticker-7242",
+                "name": "Angry T",
+                "rarity": "Hạng cao cấp"
+            },
+            {
+                "id": "sticker-7251",
+                "name": "Lotus (Kim tuyến)",
+                "rarity": "Ấn tượng"
+            },
+            {
+                "id": "sticker-7250",
+                "name": "Pushing Smokes (Kim tuyến)",
+                "rarity": "Ấn tượng"
+            },
+            {
+                "id": "sticker-7249",
+                "name": "Cedar Creek (Ảnh toàn ký)",
+                "rarity": "Ấn tượng"
+            },
+            {
+                "id": "sticker-7248",
+                "name": "Lit (Ảnh toàn ký)",
+                "rarity": "Ấn tượng"
+            },
+            {
+                "id": "sticker-7246",
+                "name": "Loving Eyes (Ảnh toàn ký)",
+                "rarity": "Ấn tượng"
+            },
+            {
+                "id": "sticker-7247",
+                "name": "Try Hard (Ảnh toàn ký)",
+                "rarity": "Ấn tượng"
+            },
+            {
+                "id": "sticker-7234",
+                "name": "Lost In Smoke (Cao cấp)",
+                "rarity": "Ngoại nhập"
+            },
+            {
+                "id": "sticker-7253",
+                "name": "On An Eco (Cao cấp)",
+                "rarity": "Ngoại nhập"
+            },
+            {
+                "id": "sticker-7233",
+                "name": "Ouchie (Cao cấp)",
+                "rarity": "Ngoại nhập"
+            },
+            {
+                "id": "sticker-7252",
+                "name": "Factory Sealed (Cao cấp)",
+                "rarity": "Ngoại nhập"
+            },
+            {
+                "id": "sticker-7245",
+                "name": "Dystopian Gaze (Ảnh nổi 3 chiều)",
+                "rarity": "Phi thường"
+            },
+            {
+                "id": "sticker-7244",
+                "name": "Econometer (Ảnh nổi 3 chiều)",
+                "rarity": "Phi thường"
+            },
+            {
+                "id": "sticker-7243",
+                "name": "Old School (Ảnh nổi 3 chiều)",
+                "rarity": "Phi thường"
+            }
+        ],
+        "contains_rare": []
     }
 ]

@@ -307,5 +307,87 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.d20d2c4030e8c41199e11cec8617f70f1c6f36b0.png"
+    },
+    {
+        "id": "crate-4914",
+        "name": "Caja de kits de música NIGHTMODE",
+        "name_original": "crate_musickit_nightmode_capsule",
+        "description": "Esta caja contiene una variedad de kits de música de artistas \\\"NIGHTMODE\\\".",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Kit de música | DRYDEN, Feel The Power",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Kit de música | ISOxo, inhuman",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Kit de música | KILL SCRIPT, All Night",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Kit de música | Knock2, Make U SWEAT!",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Kit de música | Rad Cat, Reason",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Kit de música | TWERL y Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "de grado alto"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4915",
+        "name": "Caja de kit de música NIGHTMODE de StatTrak™",
+        "name_original": "crate_musickit_nightmode_stattrak_capsule",
+        "description": "Esta caja contiene una variedad de kits de música de StatTrak™ de artistas \\\"NIGHTMODE\\\".",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Kit de música | DRYDEN, Feel The Power",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Kit de música | ISOxo, inhuman",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Kit de música | KILL SCRIPT, All Night",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Kit de música | Knock2, Make U SWEAT!",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Kit de música | Rad Cat, Reason",
+                "rarity": "de grado alto"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Kit de música | TWERL y Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "de grado alto"
+            }
+        ],
+        "contains_rare": []
     }
 ]

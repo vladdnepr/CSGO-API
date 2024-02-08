@@ -609,5 +609,53 @@
         "rarity": "High Grade",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"
+    },
+    {
+        "id": "music_kit-71",
+        "name": "Music Kit | DRYDEN, Feel The Power",
+        "name_original": "dryden_01",
+        "description": "What else needs to be said? Feel The Power. Lock in with this high-energy electro Music Kit from DRYDEN.",
+        "rarity": "High Grade",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-72",
+        "name": "Music Kit | ISOxo, inhuman",
+        "name_original": "isoxo_01",
+        "description": "Made especially for those games when you feel... <i>different</i>. Haunt your enemies round after round with the \\\"inhuman\\\" Music Kit from ISOxo.",
+        "rarity": "High Grade",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-73",
+        "name": "Music Kit | KILL SCRIPT, All Night",
+        "name_original": "killscript_01",
+        "description": "Are you a lover or a fighter? Perhaps both? Let the entire lobby know with the \\\"All Night\\\" Music Kit from KILL SCRIPT.",
+        "rarity": "High Grade",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-74",
+        "name": "Music Kit | Knock2, Make U SWEAT!",
+        "name_original": "knock2_02",
+        "description": "For players who treat every game like it's a Major Grand Final, even when there's only a few hundred CSR on the line. Bring the energy and the wins with Knock2's second Music Kit, \\\"Make U SWEAT!\\\".",
+        "rarity": "High Grade",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-75",
+        "name": "Music Kit | Rad Cat, Reason",
+        "name_original": "radcat_01",
+        "description": "Sometimes defusing the bomb is enough to be the round MVP. Celebrate every moment—big or small—with the \\\"Reason\\\" Music Kit from Rad Cat.",
+        "rarity": "High Grade",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-76",
+        "name": "Music Kit | TWERL, Ekko & Sidetrack, Under Bright Lights",
+        "name_original": "twerl_01",
+        "description": "There's no better time to come alive than when in the spotlight. Let the drum and bass anthem \\\"Under Bright Lights\\\" by TWERL and Ekko & Sidetrack carry you and your team to new heights.",
+        "rarity": "High Grade",
+        "exclusive": false
     }
 ]

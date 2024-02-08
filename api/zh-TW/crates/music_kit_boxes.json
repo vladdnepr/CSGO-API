@@ -307,5 +307,87 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.d20d2c4030e8c41199e11cec8617f70f1c6f36b0.png"
+    },
+    {
+        "id": "crate-4914",
+        "name": "NIGHTMODE 音樂箱",
+        "name_original": "crate_musickit_nightmode_capsule",
+        "description": "這個箱子內含多種出自於「NIGHTMODE」藝術家的音樂包。",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "音樂包 | DRYDEN - Feel The Power",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "音樂包 | ISOxo - inhuman",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "音樂包 | KILL SCRIPT - All Night",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "音樂包 | Knock2 - Make U SWEAT!",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "音樂包 | Rad Cat - Reason",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "音樂包 | TWERL、Ekko & Sidetrack - Under Bright Lights",
+                "rarity": "高級"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4915",
+        "name": "StatTrak™ NIGHTMODE 音樂箱",
+        "name_original": "crate_musickit_nightmode_stattrak_capsule",
+        "description": "這個箱子內含多種出自於「NIGHTMODE」藝術家的 StatTrak™ 音樂包。",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "音樂包 | DRYDEN - Feel The Power",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "音樂包 | ISOxo - inhuman",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "音樂包 | KILL SCRIPT - All Night",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "音樂包 | Knock2 - Make U SWEAT!",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "音樂包 | Rad Cat - Reason",
+                "rarity": "高級"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "音樂包 | TWERL、Ekko & Sidetrack - Under Bright Lights",
+                "rarity": "高級"
+            }
+        ],
+        "contains_rare": []
     }
 ]

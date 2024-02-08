@@ -609,5 +609,53 @@
         "rarity": "Højkvalitet",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"
+    },
+    {
+        "id": "music_kit-71",
+        "name": "Musiksæt | DRYDEN, Feel The Power",
+        "name_original": "dryden_01",
+        "description": "Behøver vi sige mere? Mærk kraften. Lad energien fra den elektroniske musik i dette sæt fylde dig.",
+        "rarity": "Højkvalitet",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-72",
+        "name": "Musiksæt | ISOxo, inhuman",
+        "name_original": "isoxo_01",
+        "description": "Lavet specielt til de kampe, hvor du føler dig... <i>anderledes</i>. Plag dine fjender runde efter runde med det umenneskelige musiksæt fra ISOxo.",
+        "rarity": "Højkvalitet",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-73",
+        "name": "Musiksæt | KILL SCRIPT, All Night",
+        "name_original": "killscript_01",
+        "description": "Er du en elsker eller en kriger? Måske begge dele? Fortæl det til hele lobbyen med musiksættet \\\"All Night\\\" fra KILL SCRIPT.",
+        "rarity": "Højkvalitet",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-74",
+        "name": "Musiksæt | Knock2, Make U SWEAT!",
+        "name_original": "knock2_02",
+        "description": "For spillere, som behandler hver kamp, som om det er en majorfinale, også når der kun er nogle få hundrede niveaupoint på spil. Bring energi og sejre med Knock2's andet musiksæt, \\\"Make U SWEAT!\\\".",
+        "rarity": "Højkvalitet",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-75",
+        "name": "Musiksæt | Rad Cat, Reason",
+        "name_original": "radcat_01",
+        "description": "Nogle gange er det nok at demontere bomben for at blive rundens MVP. Fejr hvert eneste øjeblik – stort eller lille – med musiksættet \\\"Reason\\\" fra Rad Cat.",
+        "rarity": "Højkvalitet",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-76",
+        "name": "Musiksæt | TWERL, Ekko & Sidetrack, Under Bright Lights",
+        "name_original": "twerl_01",
+        "description": "Den bedste tid at komme til live er i rampelyset. Lad tromme- og basrytmerne i \\\"Under Bright Lights\\\" af TWERL og Ekko & Sidetrack løfte dig og dit hold til nye højder.",
+        "rarity": "Højkvalitet",
+        "exclusive": false
     }
 ]

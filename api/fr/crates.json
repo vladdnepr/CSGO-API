@@ -68281,106 +68281,123 @@
         "first_sale_date": "2023-01-31",
         "contains": [
             {
-                "id": "skin-1774108",
+                "id": "skin-1774352",
                 "name": "MAG-7 | Insomnie",
                 "rarity": "Militaire",
-                "paint_index": "1220"
+                "paint_index": "1220",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_insomnia_light_large.0d971fb17ca0bb1df7baed6a1caa902c56c1ea5b.png"
             },
             {
-                "id": "skin-2232880",
+                "id": "skin-2233124",
                 "name": "MP9 | Poids plume",
                 "rarity": "Militaire",
-                "paint_index": "1225"
+                "paint_index": "1225",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_superlight_light_large.81ad837f4c889f250fa03b227ef74555614de55d.png"
             },
             {
-                "id": "skin-2495028",
+                "id": "skin-2495272",
                 "name": "SCAR-20 | Fragments",
                 "rarity": "Militaire",
-                "paint_index": "1226"
+                "paint_index": "1226",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar_fragments_black_light_large.d6bde287b06ba2380ba07621a0b06c36b13c4025.png"
             },
             {
-                "id": "skin-2363972",
+                "id": "skin-2364216",
                 "name": "P250 | Re.construction",
                 "rarity": "Militaire",
-                "paint_index": "1230"
+                "paint_index": "1230",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_rebuilt_light_large.69d4fcb9a8151d09818d1c26cf4c7b03d046b5a1.png"
             },
             {
-                "id": "skin-1512008",
+                "id": "skin-1512252",
                 "name": "MP5SD | Liquidation",
                 "rarity": "Militaire",
-                "paint_index": "1231"
+                "paint_index": "1231",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_cu_mp5sd_quick_liquidation_light_large.2b446c710928debe38469e33b3b9030bd218c0e3.png"
             },
             {
-                "id": "skin-2560596",
+                "id": "skin-2560840",
                 "name": "SG 553 | Cyberforce",
                 "rarity": "Militaire",
-                "paint_index": "1234"
+                "paint_index": "1234",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyberforce_light_large.63aa4e611195d801eb706ac65d38df68f98e2b76.png"
             },
             {
-                "id": "skin-1970776",
+                "id": "skin-1971020",
                 "name": "Tec-9 | Rebelle",
                 "rarity": "Militaire",
-                "paint_index": "1235"
+                "paint_index": "1235",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_freedom_light_large.bb79585222a88d4dd3b154915c5527cac7e507d1.png"
             },
             {
-                "id": "skin-3936808",
+                "id": "skin-3937052",
                 "name": "M4A1-S | Emphorosauru-S",
                 "rarity": "Limitée",
-                "paint_index": "1223"
+                "paint_index": "1223",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_feeding_frenzy_light_large.e1cb803e0e10ae4457e42d34ec8515b1500f4762.png"
             },
             {
-                "id": "skin-266808",
+                "id": "skin-267052",
                 "name": "Glock-18 | Lapin lunaire",
                 "rarity": "Limitée",
-                "paint_index": "1227"
+                "paint_index": "1227",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_moon_rabbit_light_large.9063b9745250446c657632eb13a6325f51d101f2.png"
             },
             {
-                "id": "skin-1118784",
+                "id": "skin-1119028",
                 "name": "MAC-10 | Sakkaku",
                 "rarity": "Limitée",
-                "paint_index": "1229"
+                "paint_index": "1229",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_sakkaku_light_large.b590689d0ca099e8a759dd0a86da0710a58bca42.png"
             },
             {
-                "id": "skin-4198988",
+                "id": "skin-4199232",
                 "name": "Révolver R8 | Calibre banane",
                 "rarity": "Limitée",
-                "paint_index": "1232"
+                "paint_index": "1232",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_r8_banana_light_large.50f0b729a36a405d48b41d58463234dbbd15b9cf.png"
             },
             {
-                "id": "skin-1249872",
+                "id": "skin-1250116",
                 "name": "P90 | Néoreine",
                 "rarity": "Limitée",
-                "paint_index": "1233"
+                "paint_index": "1233",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_neoqueen_light_large.fa2a81f8c7906b2683b5eb4b562edd2529ad2cf0.png"
             },
             {
-                "id": "skin-594468",
+                "id": "skin-594712",
                 "name": "AWP | Dualité",
                 "rarity": "Classifiée",
-                "paint_index": "1222"
+                "paint_index": "1222",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_limbo_snake_light_large.60984ce1e5c1a4ac10e83444a9b7e7f78dd98b1e.png"
             },
             {
-                "id": "skin-1577564",
+                "id": "skin-1577808",
                 "name": "UMP-45 | Sale gosse",
                 "rarity": "Classifiée",
-                "paint_index": "1236"
+                "paint_index": "1236",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_clutch_kick_light_large.b57e43c07b433517b1c3bdaa1e52ce44878af481.png"
             },
             {
-                "id": "skin-2101804",
+                "id": "skin-2102048",
                 "name": "P2000 | Look d'enfer",
                 "rarity": "Classifiée",
-                "paint_index": "1224"
+                "paint_index": "1224",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_decline_light_large.7f57145674a5e41b3b8e7fe70be4ffbb57ec6f84.png"
             },
             {
-                "id": "skin-1053244",
+                "id": "skin-1053488",
                 "name": "M4A4 | Temukau",
                 "rarity": "Secrète",
-                "paint_index": "1228"
+                "paint_index": "1228",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_temukau_light_large.a41eb80c70cbbee5d84e53b5cd1eaa10954c938d.png"
             },
             {
-                "id": "skin-463392",
+                "id": "skin-463636",
                 "name": "AK-47 | Head Shot",
                 "rarity": "Secrète",
-                "paint_index": "1221"
+                "paint_index": "1221",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_head_shot_holo_light_large.85be84ba7c07917493b8e8a66c9d95c928ebe8b6.png"
             }
         ],
         "contains_rare": [
@@ -73406,114 +73423,312 @@
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_paris2023_group_champions.02079080c3579239f152d25d7ad56139dcfbed3d.png"
     },
     {
-        "id": "crate-4905",
-        "name": null,
+        "id": "crate-4904",
+        "name": "Caisse Kilowatt",
         "name_original": "crate_community_33",
         "description": null,
         "type": "Case",
-        "first_sale_date": "2023-01-31",
+        "first_sale_date": "2024-01-31",
         "contains": [
             {
-                "id": "skin-1774108",
-                "name": "MAG-7 | null",
-                "rarity": "Militaire",
-                "paint_index": "1159"
-            },
-            {
-                "id": "skin-2232880",
-                "name": "MP9 | null",
-                "rarity": "Militaire",
-                "paint_index": "1164"
-            },
-            {
-                "id": "skin-2495028",
-                "name": "SCAR-20 | null",
-                "rarity": "Militaire",
-                "paint_index": "1165"
-            },
-            {
-                "id": "skin-2363972",
-                "name": "P250 | null",
+                "id": "skin-135748",
+                "name": "Dual Berettas | Planque",
                 "rarity": "Militaire",
                 "paint_index": "1169"
             },
             {
-                "id": "skin-1512008",
-                "name": "MP5SD | null",
+                "id": "skin-1118768",
+                "name": "MAC-10 | Cube lumineux",
                 "rarity": "Militaire",
-                "paint_index": "1170"
+                "paint_index": "1164"
             },
             {
-                "id": "skin-2560596",
-                "name": "SG 553 | null",
+                "id": "skin-2298408",
+                "name": "Nova | Drakkar noir",
                 "rarity": "Militaire",
-                "paint_index": "1173"
+                "paint_index": "1162"
             },
             {
-                "id": "skin-1970776",
-                "name": "Tec-9 | null",
+                "id": "skin-2626084",
+                "name": "SSG 08 | Dézastre",
+                "rarity": "Militaire",
+                "paint_index": "1161"
+            },
+            {
+                "id": "skin-1970716",
+                "name": "Tec-9 | Scories",
+                "rarity": "Militaire",
+                "paint_index": "1159"
+            },
+            {
+                "id": "skin-1577564",
+                "name": "UMP-45 | Sous le capot",
+                "rarity": "Militaire",
+                "paint_index": "1175"
+            },
+            {
+                "id": "skin-1643096",
+                "name": "XM1014 | Irezumi",
                 "rarity": "Militaire",
                 "paint_index": "1174"
             },
             {
-                "id": "skin-3936808",
-                "name": "M4A1-S | null",
+                "id": "skin-266812",
+                "name": "Glock-18 | Block-18",
                 "rarity": "Limitée",
-                "paint_index": "1162"
+                "paint_index": "1167"
             },
             {
-                "id": "skin-266808",
-                "name": "Glock-18 | null",
+                "id": "skin-1053236",
+                "name": "M4A4 | Morsure du serpent",
                 "rarity": "Limitée",
-                "paint_index": "1166"
+                "paint_index": "1165"
             },
             {
-                "id": "skin-1118784",
-                "name": "MAC-10 | null",
+                "id": "skin-201280",
+                "name": "Five-SeveN | Hybride",
                 "rarity": "Limitée",
                 "paint_index": "1168"
             },
             {
-                "id": "skin-4198988",
-                "name": "Révolver R8 | null",
+                "id": "skin-2167340",
+                "name": "MP7 | Un sourire",
                 "rarity": "Limitée",
-                "paint_index": "1171"
-            },
-            {
-                "id": "skin-1249872",
-                "name": "P90 | null",
-                "rarity": "Limitée",
-                "paint_index": "1172"
-            },
-            {
-                "id": "skin-594468",
-                "name": "AWP | null",
-                "rarity": "Classifiée",
-                "paint_index": "1161"
-            },
-            {
-                "id": "skin-1577564",
-                "name": "UMP-45 | null",
-                "rarity": "Classifiée",
-                "paint_index": "1175"
-            },
-            {
-                "id": "skin-2101804",
-                "name": "P2000 | null",
-                "rarity": "Classifiée",
                 "paint_index": "1163"
             },
             {
-                "id": "skin-1053244",
-                "name": "M4A4 | null",
-                "rarity": "Secrète",
-                "paint_index": "1167"
+                "id": "skin-1905184",
+                "name": "Sawed-Off | 6ᵉ génération",
+                "rarity": "Limitée",
+                "paint_index": "1160"
             },
             {
-                "id": "skin-463392",
-                "name": "AK-47 | null",
+                "id": "skin-3936824",
+                "name": "M4A1-S | Lotus noir",
+                "rarity": "Classifiée",
+                "paint_index": "1166"
+            },
+            {
+                "id": "skin-2036304",
+                "name": "Zeus x27 | Olympe",
+                "rarity": "Classifiée",
+                "paint_index": "1172"
+            },
+            {
+                "id": "skin-4002388",
+                "name": "USP-S | Brise-mâchoires",
+                "rarity": "Classifiée",
+                "paint_index": "1173"
+            },
+            {
+                "id": "skin-594504",
+                "name": "AWP | Canon chromé",
                 "rarity": "Secrète",
-                "paint_index": "1160"
+                "paint_index": "1170"
+            },
+            {
+                "id": "skin-463436",
+                "name": "AK-47 | Héritage",
+                "rarity": "Secrète",
+                "paint_index": "1171"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4905",
+        "name": "Capsule à stickers Ambush",
+        "name_original": "crate_sticker_pack_community_2024_capsule",
+        "description": "Cette capsule contient une série de stickers créés par plusieurs artistes du Workshop Steam. Elle est sortie en février 2024.",
+        "type": "Sticker Capsule",
+        "first_sale_date": "2024/01/25",
+        "contains": [
+            {
+                "id": "sticker-7236",
+                "name": "This Is Fine (poulet)",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "sticker-7235",
+                "name": "Rétro Zeus",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "sticker-7237",
+                "name": "Objet trouvé",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "sticker-7238",
+                "name": "Coucou !",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "sticker-7239",
+                "name": "AKickflip-47",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "sticker-7240",
+                "name": "Easy Peasy",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "sticker-7241",
+                "name": "Clope au bec",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "sticker-7242",
+                "name": "T maboul",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "sticker-7251",
+                "name": "Lotus (scintillant)",
+                "rarity": "Remarquable"
+            },
+            {
+                "id": "sticker-7250",
+                "name": "En plein fumi (scintillant)",
+                "rarity": "Remarquable"
+            },
+            {
+                "id": "sticker-7249",
+                "name": "Cedar Creek (holo)",
+                "rarity": "Remarquable"
+            },
+            {
+                "id": "sticker-7248",
+                "name": "Lit (holo)",
+                "rarity": "Remarquable"
+            },
+            {
+                "id": "sticker-7246",
+                "name": "Regard de braise (holo)",
+                "rarity": "Remarquable"
+            },
+            {
+                "id": "sticker-7247",
+                "name": "Try Hard (holographique)",
+                "rarity": "Remarquable"
+            },
+            {
+                "id": "sticker-7234",
+                "name": "Enfumé (premium)",
+                "rarity": "Exotique"
+            },
+            {
+                "id": "sticker-7253",
+                "name": "Recyclage (premium)",
+                "rarity": "Exotique"
+            },
+            {
+                "id": "sticker-7233",
+                "name": "Bobo (premium)",
+                "rarity": "Exotique"
+            },
+            {
+                "id": "sticker-7252",
+                "name": "Jamais déballé (premium)",
+                "rarity": "Exotique"
+            },
+            {
+                "id": "sticker-7245",
+                "name": "Regard dystopique (lenticulaire)",
+                "rarity": "Extraordinaire"
+            },
+            {
+                "id": "sticker-7244",
+                "name": "Économètre (lenticulaire)",
+                "rarity": "Extraordinaire"
+            },
+            {
+                "id": "sticker-7243",
+                "name": "À l'ancienne (lenticulaire)",
+                "rarity": "Extraordinaire"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4914",
+        "name": "Caisse de kits de musiques NIGTHMODE",
+        "name_original": "crate_musickit_nightmode_capsule",
+        "description": "Cette caisse contient de nombreux kits de musiques d'artistes du label « NIGTHMODE ».",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Kit de musiques | DRYDEN, Feel The Power",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Kit de musiques | ISOxo, inhuman",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Kit de musiques | KILL SCRIPT, All Night",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Kit de musiques | Knock2, Make U SWEAT!",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Music Kit | Rad Cat, Reason",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Kit de musiques |TWERL, Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "Qualité supérieure"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4915",
+        "name": "Caisse de kits de musiques StatTrak™ NIGHTMODE",
+        "name_original": "crate_musickit_nightmode_stattrak_capsule",
+        "description": "Cette caisse contient de nombreux kits de musiques StatTrak™ d'artistes du label « NIGHTMODE ».",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Kit de musiques | DRYDEN, Feel The Power",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Kit de musiques | ISOxo, inhuman",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Kit de musiques | KILL SCRIPT, All Night",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Kit de musiques | Knock2, Make U SWEAT!",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Music Kit | Rad Cat, Reason",
+                "rarity": "Qualité supérieure"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Kit de musiques |TWERL, Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "Qualité supérieure"
             }
         ],
         "contains_rare": []

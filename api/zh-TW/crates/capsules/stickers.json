@@ -10990,5 +10990,121 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_paris2023_contenders.f97f940b7aa86ead15cf5c8d39f81912c2a3d539.png"
+    },
+    {
+        "id": "crate-4905",
+        "name": "伏擊貼紙轉蛋",
+        "name_original": "crate_sticker_pack_community_2024_capsule",
+        "description": "這顆轉蛋包含了由 Steam 工作坊藝術家設計的各式貼紙其中之一，於 2024 年 2 月推出。",
+        "type": "Sticker Capsule",
+        "first_sale_date": "2024/01/25",
+        "contains": [
+            {
+                "id": "sticker-7236",
+                "name": "我很好我沒事（雞）",
+                "rarity": "高級"
+            },
+            {
+                "id": "sticker-7235",
+                "name": "懷舊 Zeus",
+                "rarity": "高級"
+            },
+            {
+                "id": "sticker-7237",
+                "name": "請歸還至",
+                "rarity": "高級"
+            },
+            {
+                "id": "sticker-7238",
+                "name": "捉迷藏",
+                "rarity": "高級"
+            },
+            {
+                "id": "sticker-7239",
+                "name": "跳踢轉槍 - AK47",
+                "rarity": "高級"
+            },
+            {
+                "id": "sticker-7240",
+                "name": "小事一樁",
+                "rarity": "高級"
+            },
+            {
+                "id": "sticker-7241",
+                "name": "賞根菸吧",
+                "rarity": "高級"
+            },
+            {
+                "id": "sticker-7242",
+                "name": "抓狂 T",
+                "rarity": "高級"
+            },
+            {
+                "id": "sticker-7251",
+                "name": "蓮花（炫光）",
+                "rarity": "神話"
+            },
+            {
+                "id": "sticker-7250",
+                "name": "煙霧中進擊（炫光）",
+                "rarity": "神話"
+            },
+            {
+                "id": "sticker-7249",
+                "name": "雪松溪（彩光）",
+                "rarity": "神話"
+            },
+            {
+                "id": "sticker-7248",
+                "name": "點火（彩光）",
+                "rarity": "神話"
+            },
+            {
+                "id": "sticker-7246",
+                "name": "摯愛之眼（彩光）",
+                "rarity": "神話"
+            },
+            {
+                "id": "sticker-7247",
+                "name": "終極幹員（彩光）",
+                "rarity": "神話"
+            },
+            {
+                "id": "sticker-7234",
+                "name": "迷失在煙霧中（閃亮）",
+                "rarity": "特製"
+            },
+            {
+                "id": "sticker-7253",
+                "name": "循環回收（閃亮）",
+                "rarity": "特製"
+            },
+            {
+                "id": "sticker-7233",
+                "name": "好痛（閃亮）",
+                "rarity": "特製"
+            },
+            {
+                "id": "sticker-7252",
+                "name": "原廠包裝（閃亮）",
+                "rarity": "特製"
+            },
+            {
+                "id": "sticker-7245",
+                "name": "反烏托邦之凝視（光柵）",
+                "rarity": "超絕"
+            },
+            {
+                "id": "sticker-7244",
+                "name": "經濟指標（光柵）",
+                "rarity": "超絕"
+            },
+            {
+                "id": "sticker-7243",
+                "name": "老派（光柵）",
+                "rarity": "超絕"
+            }
+        ],
+        "contains_rare": []
     }
 ]

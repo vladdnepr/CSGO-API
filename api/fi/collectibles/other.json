@@ -21,7 +21,7 @@
         "id": "collectible-970",
         "name": "Uskollisuusmerkki",
         "name_original": "CollectibleCoin_FortiusQuoFidelius",
-        "description": "This badge commemorates loyal membership in the Counter-Strike community prior to the Danger Zone update.\\n\\n<i>Strength through loyalty.</i>",
+        "description": "Merkki juhlistaa Counter-Strike-yhteisön uskollisia jäseniä, jotka olivat mukana jo ennen Vaaravyöhyke-päivitystä.\\n\\n <i>Vahvuus tulee uskollisuuden kautta.</i>",
         "rarity": "Merkillinen",
         "type": null,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/prime_badge_large.f8144d0a79cf586c900a22f4c226410a0f307409.png"
@@ -37,9 +37,9 @@
     },
     {
         "id": "collectible-996",
-        "name": "Global Offensive Badge",
+        "name": "Global Offensive -merkki",
         "name_original": "CollectibleCoin_CoinCsgo",
-        "description": "This badge commemorates loyal membership in the Counter-Strike: Global Offensive community prior to the release of Counter-Strike 2. \\n\\n<i>Legends never die.</i>",
+        "description": "Merkki on kunnianosoitus Counter-Strike: Global Offensive -yhteisön uskollisesta jäsenyydestä ennen Counter-Strike 2:n julkaisua. \\n\\n<i>Legendat eivät koskaan kuole</i>",
         "rarity": "Merkillinen",
         "type": null
     }

@@ -10990,5 +10990,121 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_paris2023_contenders.f97f940b7aa86ead15cf5c8d39f81912c2a3d539.png"
+    },
+    {
+        "id": "crate-4905",
+        "name": "Pusu Çıkartma Kapsülü",
+        "name_original": "crate_sticker_pack_community_2024_capsule",
+        "description": "Şubat 2024'te çıkan bu kapsülde, Steam Atölyesi'nden çeşitli sanatçılara ait birçok çıkartma vardır.",
+        "type": "Sticker Capsule",
+        "first_sale_date": "2024/01/25",
+        "contains": [
+            {
+                "id": "sticker-7236",
+                "name": "Her Şey Yolunda (Tavuk)",
+                "rarity": "Yüksek Sınıf"
+            },
+            {
+                "id": "sticker-7235",
+                "name": "Retro Zeus",
+                "rarity": "Yüksek Sınıf"
+            },
+            {
+                "id": "sticker-7237",
+                "name": "Lütfen Şuraya İade Edin",
+                "rarity": "Yüksek Sınıf"
+            },
+            {
+                "id": "sticker-7238",
+                "name": "Ce-ee",
+                "rarity": "Yüksek Sınıf"
+            },
+            {
+                "id": "sticker-7239",
+                "name": "AKickflip-47",
+                "rarity": "Yüksek Sınıf"
+            },
+            {
+                "id": "sticker-7240",
+                "name": "Ricksaw için Kolay",
+                "rarity": "Yüksek Sınıf"
+            },
+            {
+                "id": "sticker-7241",
+                "name": "Yak Bir Tane",
+                "rarity": "Yüksek Sınıf"
+            },
+            {
+                "id": "sticker-7242",
+                "name": "Öfkeli T",
+                "rarity": "Yüksek Sınıf"
+            },
+            {
+                "id": "sticker-7251",
+                "name": "Lotus (Parıltılı)",
+                "rarity": "Dikkat Çekici"
+            },
+            {
+                "id": "sticker-7250",
+                "name": "Pushing Smokes (Parıltılı)",
+                "rarity": "Dikkat Çekici"
+            },
+            {
+                "id": "sticker-7249",
+                "name": "Cedar Creek (Holo)",
+                "rarity": "Dikkat Çekici"
+            },
+            {
+                "id": "sticker-7248",
+                "name": "Alev (Holo)",
+                "rarity": "Dikkat Çekici"
+            },
+            {
+                "id": "sticker-7246",
+                "name": "Sevgi Dolu Gözler (Holo)",
+                "rarity": "Dikkat Çekici"
+            },
+            {
+                "id": "sticker-7247",
+                "name": "Çaba Göster (Holo)",
+                "rarity": "Dikkat Çekici"
+            },
+            {
+                "id": "sticker-7234",
+                "name": "Lost In Smoke (Parlak)",
+                "rarity": "Egzotik"
+            },
+            {
+                "id": "sticker-7253",
+                "name": "Çevre Dostu (Parlak)",
+                "rarity": "Egzotik"
+            },
+            {
+                "id": "sticker-7233",
+                "name": "Uf Oldu (Parlak)",
+                "rarity": "Egzotik"
+            },
+            {
+                "id": "sticker-7252",
+                "name": "Fabrika Mühürlü (Parlak)",
+                "rarity": "Egzotik"
+            },
+            {
+                "id": "sticker-7245",
+                "name": "Distopik Bakış (Merceksi)",
+                "rarity": "Olağandışı"
+            },
+            {
+                "id": "sticker-7244",
+                "name": "Ekonometre (Merceksi)",
+                "rarity": "Olağandışı"
+            },
+            {
+                "id": "sticker-7243",
+                "name": "Eski Moda (Merceksi)",
+                "rarity": "Olağandışı"
+            }
+        ],
+        "contains_rare": []
     }
 ]

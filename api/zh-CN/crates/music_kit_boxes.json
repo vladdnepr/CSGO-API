@@ -307,5 +307,87 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.d20d2c4030e8c41199e11cec8617f70f1c6f36b0.png"
+    },
+    {
+        "id": "crate-4914",
+        "name": "夜间模式音乐盒集",
+        "name_original": "crate_musickit_nightmode_capsule",
+        "description": "该集合包含来自艺术家“夜间模式”的各种音乐盒",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "音乐盒 | DRYDEN - 触摸能量",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "音乐盒 | ISOxo - 非人类",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "音乐盒 | KILL SCRIPT - 通宵达旦",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "音乐盒 | Knock2 - 燥起来！",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "音乐盒 | Rad Cat - 理由",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "音乐盒 | TWERL, Ekko & Sidetrack - 万众瞩目",
+                "rarity": "高级"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4915",
+        "name": "StatTrak™ 夜间模式音乐盒集",
+        "name_original": "crate_musickit_nightmode_stattrak_capsule",
+        "description": "该集合包含来自艺术家“夜间模式”的各种StatTrak™音乐盒",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "音乐盒 | DRYDEN - 触摸能量",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "音乐盒 | ISOxo - 非人类",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "音乐盒 | KILL SCRIPT - 通宵达旦",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "音乐盒 | Knock2 - 燥起来！",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "音乐盒 | Rad Cat - 理由",
+                "rarity": "高级"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "音乐盒 | TWERL, Ekko & Sidetrack - 万众瞩目",
+                "rarity": "高级"
+            }
+        ],
+        "contains_rare": []
     }
 ]

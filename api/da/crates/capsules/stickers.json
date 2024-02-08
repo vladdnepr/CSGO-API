@@ -10990,5 +10990,121 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_paris2023_contenders.f97f940b7aa86ead15cf5c8d39f81912c2a3d539.png"
+    },
+    {
+        "id": "crate-4905",
+        "name": "Ambush-klistermærkekapsel",
+        "name_original": "crate_sticker_pack_community_2024_capsule",
+        "description": "Denne kapsel indeholder en række forskellige klistermærker fra Steam-værkstedets kunstnere og blev udgivet i februar 2024.",
+        "type": "Sticker Capsule",
+        "first_sale_date": "2024/01/25",
+        "contains": [
+            {
+                "id": "sticker-7236",
+                "name": "This Is Fine (Kylling)",
+                "rarity": "Højkvalitet"
+            },
+            {
+                "id": "sticker-7235",
+                "name": "Retro Zeus",
+                "rarity": "Højkvalitet"
+            },
+            {
+                "id": "sticker-7237",
+                "name": "Please Return To",
+                "rarity": "Højkvalitet"
+            },
+            {
+                "id": "sticker-7238",
+                "name": "Peek-A-Boo",
+                "rarity": "Højkvalitet"
+            },
+            {
+                "id": "sticker-7239",
+                "name": "AKickflip-47",
+                "rarity": "Højkvalitet"
+            },
+            {
+                "id": "sticker-7240",
+                "name": "Easy For Ricksaw",
+                "rarity": "Højkvalitet"
+            },
+            {
+                "id": "sticker-7241",
+                "name": "Bum A Smoke",
+                "rarity": "Højkvalitet"
+            },
+            {
+                "id": "sticker-7242",
+                "name": "Angry T",
+                "rarity": "Højkvalitet"
+            },
+            {
+                "id": "sticker-7251",
+                "name": "Lotus (Glitter)",
+                "rarity": "Bemærkelsesværdig"
+            },
+            {
+                "id": "sticker-7250",
+                "name": "Pushing Smokes (Glitter)",
+                "rarity": "Bemærkelsesværdig"
+            },
+            {
+                "id": "sticker-7249",
+                "name": "Cedar Creek (Holo)",
+                "rarity": "Bemærkelsesværdig"
+            },
+            {
+                "id": "sticker-7248",
+                "name": "Lit (Holo)",
+                "rarity": "Bemærkelsesværdig"
+            },
+            {
+                "id": "sticker-7246",
+                "name": "Loving Eyes (Holo)",
+                "rarity": "Bemærkelsesværdig"
+            },
+            {
+                "id": "sticker-7247",
+                "name": "Try Hard (Holo)",
+                "rarity": "Bemærkelsesværdig"
+            },
+            {
+                "id": "sticker-7234",
+                "name": "Lost In Smoke (Folie)",
+                "rarity": "Eksotisk"
+            },
+            {
+                "id": "sticker-7253",
+                "name": "On An Eco (Folie)",
+                "rarity": "Eksotisk"
+            },
+            {
+                "id": "sticker-7233",
+                "name": "Ouchie (Folie)",
+                "rarity": "Eksotisk"
+            },
+            {
+                "id": "sticker-7252",
+                "name": "Factory Sealed (Folie)",
+                "rarity": "Eksotisk"
+            },
+            {
+                "id": "sticker-7245",
+                "name": "Dystopian Gaze (Linseformet)",
+                "rarity": "Ekstraordinær"
+            },
+            {
+                "id": "sticker-7244",
+                "name": "Econometer (Linseformet)",
+                "rarity": "Ekstraordinær"
+            },
+            {
+                "id": "sticker-7243",
+                "name": "Old School (Linseformet)",
+                "rarity": "Ekstraordinær"
+            }
+        ],
+        "contains_rare": []
     }
 ]

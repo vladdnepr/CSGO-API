@@ -609,5 +609,53 @@
         "rarity": "de grado alto",
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"
+    },
+    {
+        "id": "music_kit-71",
+        "name": "Kit de música | DRYDEN, Feel The Power",
+        "name_original": "dryden_01",
+        "description": "¿Qué más podemos decirte? Siente el poder. Llénate de energía con este kit de música electrónica de DRYDEN.",
+        "rarity": "de grado alto",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-72",
+        "name": "Kit de música | ISOxo, inhuman",
+        "name_original": "isoxo_01",
+        "description": "Ideal para esas partidas en las que te sientes... <i>diferente</i>. Caza a tus enemigos ronda tras ronda con el Kit de música \\\"inhuman\\\" de ISOxo.",
+        "rarity": "de grado alto",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-73",
+        "name": "Kit de música | KILL SCRIPT, All Night",
+        "name_original": "killscript_01",
+        "description": "¿Prefieres el amor o la violencia? ¿Tal vez ambas cosas? Informa a toda la sala con el kit de música \\\"All Night\\\" de KILL SCRIPT.",
+        "rarity": "de grado alto",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-74",
+        "name": "Kit de música | Knock2, Make U SWEAT!",
+        "name_original": "knock2_02",
+        "description": "Para los jugadores que viven cada partida como si fuera la gran final del Major, incluso con solo unos cientos de CSR en juego. ¡Llénate de energía y saborea la victoria con \\\"Make U SWEAT!\\\", el segundo kit de música de Knock2.",
+        "rarity": "de grado alto",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-75",
+        "name": "Kit de música | Rad Cat, Reason",
+        "name_original": "radcat_01",
+        "description": "A veces es suficiente con desactivar la bomba para ser el MJ de la ronda. Celebra cada momento, grande o pequeño, con el kit de música \\\"Reason\\\" de Rad Cat.",
+        "rarity": "de grado alto",
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-76",
+        "name": "Kit de música | TWERL y Ekko & Sidetrack, Under Bright Lights",
+        "name_original": "twerl_01",
+        "description": "No hay mejor momento para cobrar vida que cuando eres el centro de atención. Deja que el himno de batería y bajo, \\\"Under Bright Lights\\\" de TWERL y Ekko & Sidetrack, te lleve a ti y a tu equipo a lo más alto.",
+        "rarity": "de grado alto",
+        "exclusive": false
     }
 ]

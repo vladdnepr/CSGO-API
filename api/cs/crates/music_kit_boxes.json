@@ -307,5 +307,87 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.d20d2c4030e8c41199e11cec8617f70f1c6f36b0.png"
+    },
+    {
+        "id": "crate-4914",
+        "name": "NIGHTMODE Music Kit Box",
+        "name_original": "crate_musickit_nightmode_capsule",
+        "description": "Tato krabička obsahuje několik hudebních balíčků z kategorie „NIGHTMODE“.",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Hudební balíček | DRYDEN – Feel The Power",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Hudební balíček | ISOxo – inhuman",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Hudební balíček | KILL SCRIPT – All Night",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Hudební balíček | Knock2 – Make U SWEAT!",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Hudební balíček | Rad Cat – Reason",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Hudební balíček | TWERL a Ekko & Sidetrack – Under Bright Lights",
+                "rarity": "Vyšší třída"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4915",
+        "name": "StatTrak™ NIGHTMODE Music Kit Box",
+        "name_original": "crate_musickit_nightmode_stattrak_capsule",
+        "description": "Tato krabička obsahuje několik hudebních balíčků z kategorie „NIGHTMODE“ podporujících technologii StatTrak™.",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Hudební balíček | DRYDEN – Feel The Power",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Hudební balíček | ISOxo – inhuman",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Hudební balíček | KILL SCRIPT – All Night",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Hudební balíček | Knock2 – Make U SWEAT!",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Hudební balíček | Rad Cat – Reason",
+                "rarity": "Vyšší třída"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Hudební balíček | TWERL a Ekko & Sidetrack – Under Bright Lights",
+                "rarity": "Vyšší třída"
+            }
+        ],
+        "contains_rare": []
     }
 ]

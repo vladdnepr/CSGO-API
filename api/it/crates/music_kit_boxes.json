@@ -307,5 +307,87 @@
         ],
         "contains_rare": [],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.d20d2c4030e8c41199e11cec8617f70f1c6f36b0.png"
+    },
+    {
+        "id": "crate-4914",
+        "name": "Scatola di temi musicali NIGHTMODE",
+        "name_original": "crate_musickit_nightmode_capsule",
+        "description": "Questa scatola contiene una serie di temi musicali realizzati dagli artisti di \\\"NIGHTMODE\\\".",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Tema musicale | DRYDEN, Feel The Power",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Tema musicale | ISOxo, inhuman",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Tema musicale | KILL SCRIPT, All Night",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Tema musicale | Knock2, Make U SWEAT!",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Tema musicale | Rad Cat, Reason",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Tema musicale | TWERL, Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "Qualità elevata"
+            }
+        ],
+        "contains_rare": []
+    },
+    {
+        "id": "crate-4915",
+        "name": "Scatola di temi musicali StatTrak™ NIGHTMODE",
+        "name_original": "crate_musickit_nightmode_stattrak_capsule",
+        "description": "Questa scatola contiene una serie di temi musicali StatTrak™ realizzati dagli artisti di \\\"NIGHTMODE\\\".",
+        "type": "Music Kit Box",
+        "first_sale_date": "2024/01/24",
+        "contains": [
+            {
+                "id": "music_kit-71",
+                "name": "Tema musicale | DRYDEN, Feel The Power",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-72",
+                "name": "Tema musicale | ISOxo, inhuman",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-73",
+                "name": "Tema musicale | KILL SCRIPT, All Night",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-74",
+                "name": "Tema musicale | Knock2, Make U SWEAT!",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-75",
+                "name": "Tema musicale | Rad Cat, Reason",
+                "rarity": "Qualità elevata"
+            },
+            {
+                "id": "music_kit-76",
+                "name": "Tema musicale | TWERL, Ekko & Sidetrack, Under Bright Lights",
+                "rarity": "Qualità elevata"
+            }
+        ],
+        "contains_rare": []
     }
 ]

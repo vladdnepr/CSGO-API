@@ -561,14 +561,14 @@
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_32.fa9b42c1eefd4304b2860014584fa42309675505.png"
     },
     {
-        "id": "key-4904",
-        "name": null,
+        "id": "key-1394",
+        "name": "Kilowatt Ládakulcs",
         "name_original": "crate_key_community_33",
-        "description": "Ez a kulcs kinyit minden Valve sorozatú fegyverládát. A nem-Valve sorozatú ládák (pl. eSports ládák) kinyitásához saját külön kulcs kell.",
+        "description": "Ez a kulcs csak Kilowatt Ládákat nyit.",
         "crates": [
             {
-                "id": "crate-4905",
-                "name": null
+                "id": "crate-4904",
+                "name": "Kilowatt Láda"
             }
         ]
     },
