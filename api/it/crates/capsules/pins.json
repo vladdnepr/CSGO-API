@@ -8,59 +8,103 @@
         "first_sale_date": "2016/06/01",
         "contains": [
             {
-                "id": "collection-6110",
+                "id": "collectible-6110",
                 "name": "Spilla \\\"Guardiano\\\"",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6111",
+                "id": "collectible-6111",
                 "name": "Spilla \\\"Tattiche\\\"",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6108",
+                "id": "collectible-6108",
                 "name": "Spilla di Nuke",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6109",
+                "id": "collectible-6109",
                 "name": "Spilla di Train",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6106",
+                "id": "collectible-6106",
                 "name": "Spilla della vittoria",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6107",
+                "id": "collectible-6107",
                 "name": "Spilla di Militia",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6105",
+                "id": "collectible-6105",
                 "name": "Spilla di Italy",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6103",
+                "id": "collectible-6103",
                 "name": "Spilla di Mirage",
-                "rarity": "Esotico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Esotico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6104",
+                "id": "collectible-6104",
                 "name": "Spilla di Inferno",
-                "rarity": "Esotico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Esotico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6101",
+                "id": "collectible-6101",
                 "name": "Spilla di Dust II",
-                "rarity": "Straordinario"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Straordinario",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6102",
+                "id": "collectible-6102",
                 "name": "Spilla \\\"Guardiano supremo\\\"",
-                "rarity": "Straordinario"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Straordinario",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -75,59 +119,103 @@
         "first_sale_date": "2016/09/28",
         "contains": [
             {
-                "id": "collection-6112",
+                "id": "collectible-6112",
                 "name": "Spilla \\\"Guardiano 2\\\"",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6113",
+                "id": "collectible-6113",
                 "name": "Spilla di Bravo",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6114",
+                "id": "collectible-6114",
                 "name": "Spilla di Baggage",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6115",
+                "id": "collectible-6115",
                 "name": "Spilla \\\"Phoenix\\\"",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6116",
+                "id": "collectible-6116",
                 "name": "Spilla di Office",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6117",
+                "id": "collectible-6117",
                 "name": "Spilla di Cobblestone",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6118",
+                "id": "collectible-6118",
                 "name": "Spilla di Overpass",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6119",
+                "id": "collectible-6119",
                 "name": "Spilla di Bloodhound",
-                "rarity": "Esotico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Esotico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6120",
+                "id": "collectible-6120",
                 "name": "Spilla di Cache",
-                "rarity": "Esotico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Esotico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6122",
+                "id": "collectible-6122",
                 "name": "Spilla cromatica",
-                "rarity": "Straordinario"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Straordinario",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6121",
+                "id": "collectible-6121",
                 "name": "Spilla di Valeria (Phoenix)",
-                "rarity": "Straordinario"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Straordinario",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -142,59 +230,103 @@
         "first_sale_date": "2018/03/01",
         "contains": [
             {
-                "id": "collection-6123",
+                "id": "collectible-6123",
                 "name": "Spilla \\\"Guardiano 3\\\"",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6124",
+                "id": "collectible-6124",
                 "name": "Spilla di Canals",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6125",
+                "id": "collectible-6125",
                 "name": "Spilla \\\"Missione impossibile\\\"",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6126",
+                "id": "collectible-6126",
                 "name": "Spilla \\\"Sentenza di morte\\\"",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6127",
+                "id": "collectible-6127",
                 "name": "Spilla di Inferno 2",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6128",
+                "id": "collectible-6128",
                 "name": "Spilla di Wildfire",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6129",
+                "id": "collectible-6129",
                 "name": "Spilla \\\"Facile facile\\\"",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6130",
+                "id": "collectible-6130",
                 "name": "Spilla \\\"Assi volanti\\\"",
-                "rarity": "Esotico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Esotico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6131",
+                "id": "collectible-6131",
                 "name": "Spilla \\\"Hydra\\\"",
-                "rarity": "Esotico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Esotico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6132",
+                "id": "collectible-6132",
                 "name": "Spilla \\\"Ululato\\\"",
-                "rarity": "Straordinario"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Straordinario",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6133",
+                "id": "collectible-6133",
                 "name": "Spilla \\\"Generale di brigata\\\"",
-                "rarity": "Straordinario"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Straordinario",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -209,64 +341,112 @@
         "first_sale_date": "2020/03/23",
         "contains": [
             {
-                "id": "collection-4691",
+                "id": "collectible-4691",
                 "name": "Spilla elmetto Combine",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4690",
+                "id": "collectible-4690",
                 "name": "Spilla Black Mesa",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4689",
+                "id": "collectible-4689",
                 "name": "Spilla CMB",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4687",
+                "id": "collectible-4687",
                 "name": "Spilla Lambda",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4692",
+                "id": "collectible-4692",
                 "name": "Spilla di City 17",
-                "rarity": "Qualità elevata"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Qualità elevata",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4685",
+                "id": "collectible-4685",
                 "name": "Spilla glifo succhiatesta",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4688",
+                "id": "collectible-4688",
                 "name": "Spilla Lambda in rame",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4686",
+                "id": "collectible-4686",
                 "name": "Spilla salute",
-                "rarity": "Rimarchevole"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Rimarchevole",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4683",
+                "id": "collectible-4683",
                 "name": "Spilla \\\"Nutrimento!\\\"",
-                "rarity": "Esotico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Esotico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-4684",
+                "id": "collectible-4684",
                 "name": "Spilla vortigaunt",
-                "rarity": "Esotico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Esotico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6134",
+                "id": "collectible-6134",
                 "name": "Spilla Alyx",
-                "rarity": "Straordinario"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Straordinario",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-4682",
+                "id": "collectible-4682",
                 "name": "Spilla della Protezione civile",
-                "rarity": "Straordinario"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Straordinario",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],

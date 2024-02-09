@@ -8,59 +8,103 @@
         "first_sale_date": "2016/06/01",
         "contains": [
             {
-                "id": "collection-6110",
+                "id": "collectible-6110",
                 "name": "Odznak Guardian",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6111",
+                "id": "collectible-6111",
                 "name": "Odznak Tactics",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6108",
+                "id": "collectible-6108",
                 "name": "Odznak Nuke",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6109",
+                "id": "collectible-6109",
                 "name": "Odznak Train",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6106",
+                "id": "collectible-6106",
                 "name": "Odznak Victory",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6107",
+                "id": "collectible-6107",
                 "name": "Odznak Militia",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6105",
+                "id": "collectible-6105",
                 "name": "Odznak Italy",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6103",
+                "id": "collectible-6103",
                 "name": "Odznak Mirage",
-                "rarity": "Exotická"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotická",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6104",
+                "id": "collectible-6104",
                 "name": "Odznak Inferno",
-                "rarity": "Exotická"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotická",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6101",
+                "id": "collectible-6101",
                 "name": "Odznak Dust II",
-                "rarity": "Mimořádná"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Mimořádná",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6102",
+                "id": "collectible-6102",
                 "name": "Odznak Guardian Elite",
-                "rarity": "Mimořádná"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Mimořádná",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -75,59 +119,103 @@
         "first_sale_date": "2016/09/28",
         "contains": [
             {
-                "id": "collection-6112",
+                "id": "collectible-6112",
                 "name": "Odznak Guardian 2",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6113",
+                "id": "collectible-6113",
                 "name": "Odznak Bravo",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6114",
+                "id": "collectible-6114",
                 "name": "Odznak Baggage",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6115",
+                "id": "collectible-6115",
                 "name": "Odznak Phoenix",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6116",
+                "id": "collectible-6116",
                 "name": "Odznak Office",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6117",
+                "id": "collectible-6117",
                 "name": "Odznak Cobblestone",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6118",
+                "id": "collectible-6118",
                 "name": "Odznak Overpass",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6119",
+                "id": "collectible-6119",
                 "name": "Odznak Bloodhound",
-                "rarity": "Exotická"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotická",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6120",
+                "id": "collectible-6120",
                 "name": "Odznak Cache",
-                "rarity": "Exotická"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotická",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6122",
+                "id": "collectible-6122",
                 "name": "Odznak Chroma",
-                "rarity": "Mimořádná"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Mimořádná",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6121",
+                "id": "collectible-6121",
                 "name": "Odznak Valeria Phoenix",
-                "rarity": "Mimořádná"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Mimořádná",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -142,59 +230,103 @@
         "first_sale_date": "2018/03/01",
         "contains": [
             {
-                "id": "collection-6123",
+                "id": "collectible-6123",
                 "name": "Odznak Guardian 3",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6124",
+                "id": "collectible-6124",
                 "name": "Odznak Canals",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6125",
+                "id": "collectible-6125",
                 "name": "Odznak Welcome to the Clutch",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6126",
+                "id": "collectible-6126",
                 "name": "Odznak Death Sentence",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6127",
+                "id": "collectible-6127",
                 "name": "Odznak Inferno 2",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6128",
+                "id": "collectible-6128",
                 "name": "Odznak Wildfire",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6129",
+                "id": "collectible-6129",
                 "name": "Odznak Easy Peasy",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6130",
+                "id": "collectible-6130",
                 "name": "Odznak Aces High",
-                "rarity": "Exotická"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotická",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6131",
+                "id": "collectible-6131",
                 "name": "Odznak Hydra",
-                "rarity": "Exotická"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotická",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6132",
+                "id": "collectible-6132",
                 "name": "Odznak Howl",
-                "rarity": "Mimořádná"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Mimořádná",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6133",
+                "id": "collectible-6133",
                 "name": "Odznak Brigadier General",
-                "rarity": "Mimořádná"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Mimořádná",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -209,64 +341,112 @@
         "first_sale_date": "2020/03/23",
         "contains": [
             {
-                "id": "collection-4691",
+                "id": "collectible-4691",
                 "name": "Combine Helmet Pin",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4690",
+                "id": "collectible-4690",
                 "name": "Black Mesa Pin",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4689",
+                "id": "collectible-4689",
                 "name": "CMB Pin",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4687",
+                "id": "collectible-4687",
                 "name": "Lambda Pin",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4692",
+                "id": "collectible-4692",
                 "name": "City 17 Pin",
-                "rarity": "Vyšší třída"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Vyšší třída",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4685",
+                "id": "collectible-4685",
                 "name": "Headcrab Glyph Pin",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4688",
+                "id": "collectible-4688",
                 "name": "Copper Lambda Pin",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4686",
+                "id": "collectible-4686",
                 "name": "Health Pin",
-                "rarity": "Významná"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Významná",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4683",
+                "id": "collectible-4683",
                 "name": "Sustenance! Pin",
-                "rarity": "Exotická"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotická",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-4684",
+                "id": "collectible-4684",
                 "name": "Vortigaunt Pin",
-                "rarity": "Exotická"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotická",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6134",
+                "id": "collectible-6134",
                 "name": "Alyx Pin",
-                "rarity": "Mimořádná"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Mimořádná",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-4682",
+                "id": "collectible-4682",
                 "name": "Civil Protection Pin",
-                "rarity": "Mimořádná"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Mimořádná",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],

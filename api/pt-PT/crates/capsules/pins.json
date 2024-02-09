@@ -8,59 +8,103 @@
         "first_sale_date": "2016/06/01",
         "contains": [
             {
-                "id": "collection-6110",
+                "id": "collectible-6110",
                 "name": "Pin - Guardian",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6111",
+                "id": "collectible-6111",
                 "name": "Pin - Tactics",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6108",
+                "id": "collectible-6108",
                 "name": "Pin - Nuke",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6109",
+                "id": "collectible-6109",
                 "name": "Pin - Train",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6106",
+                "id": "collectible-6106",
                 "name": "Pin - Victory",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6107",
+                "id": "collectible-6107",
                 "name": "Pin - Militia",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6105",
+                "id": "collectible-6105",
                 "name": "Pin - Italy",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6103",
+                "id": "collectible-6103",
                 "name": "Pin - Mirage",
-                "rarity": "Exótico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exótico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6104",
+                "id": "collectible-6104",
                 "name": "Pin - Inferno",
-                "rarity": "Exótico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exótico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6101",
+                "id": "collectible-6101",
                 "name": "Pin - Dust II",
-                "rarity": "Extraordinário"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinário",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6102",
+                "id": "collectible-6102",
                 "name": "Pin - Guardian Elite",
-                "rarity": "Extraordinário"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinário",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -75,59 +119,103 @@
         "first_sale_date": "2016/09/28",
         "contains": [
             {
-                "id": "collection-6112",
+                "id": "collectible-6112",
                 "name": "Pin - Guardian 2",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6113",
+                "id": "collectible-6113",
                 "name": "Pin - Bravo",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6114",
+                "id": "collectible-6114",
                 "name": "Pin - Baggage",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6115",
+                "id": "collectible-6115",
                 "name": "Pin - Phoenix",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6116",
+                "id": "collectible-6116",
                 "name": "Pin - Office",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6117",
+                "id": "collectible-6117",
                 "name": "Pin - Cobblestone",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6118",
+                "id": "collectible-6118",
                 "name": "Pin - Overpass",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6119",
+                "id": "collectible-6119",
                 "name": "Pin - Bloodhound",
-                "rarity": "Exótico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exótico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6120",
+                "id": "collectible-6120",
                 "name": "Pin - Cache",
-                "rarity": "Exótico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exótico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6122",
+                "id": "collectible-6122",
                 "name": "Pin - Chroma",
-                "rarity": "Extraordinário"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinário",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6121",
+                "id": "collectible-6121",
                 "name": "Pin - Fénix da Valeria",
-                "rarity": "Extraordinário"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinário",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -142,59 +230,103 @@
         "first_sale_date": "2018/03/01",
         "contains": [
             {
-                "id": "collection-6123",
+                "id": "collectible-6123",
                 "name": "Pin - Guardian 3",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6124",
+                "id": "collectible-6124",
                 "name": "Pin - Canals",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6125",
+                "id": "collectible-6125",
                 "name": "Pin - Welcome to the Clutch",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6126",
+                "id": "collectible-6126",
                 "name": "Pin - Death Sentence",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6127",
+                "id": "collectible-6127",
                 "name": "Pin - Inferno 2",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6128",
+                "id": "collectible-6128",
                 "name": "Pin - Wildfire",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6129",
+                "id": "collectible-6129",
                 "name": "Pin - Easy Peasy",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6130",
+                "id": "collectible-6130",
                 "name": "Pin - Aces High",
-                "rarity": "Exótico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exótico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6131",
+                "id": "collectible-6131",
                 "name": "Pin - Hydra",
-                "rarity": "Exótico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exótico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6132",
+                "id": "collectible-6132",
                 "name": "Pin - Howl",
-                "rarity": "Extraordinário"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinário",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6133",
+                "id": "collectible-6133",
                 "name": "Pin - Brigadier General",
-                "rarity": "Extraordinário"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinário",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -209,64 +341,112 @@
         "first_sale_date": "2020/03/23",
         "contains": [
             {
-                "id": "collection-4691",
+                "id": "collectible-4691",
                 "name": "Pin - Combine Helmet",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4690",
+                "id": "collectible-4690",
                 "name": "Pin - Black Mesa",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4689",
+                "id": "collectible-4689",
                 "name": "Pin - CMB",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4687",
+                "id": "collectible-4687",
                 "name": "Pin - Lambda",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4692",
+                "id": "collectible-4692",
                 "name": "Pin - City 17",
-                "rarity": "Alta Qualidade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "Alta Qualidade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4685",
+                "id": "collectible-4685",
                 "name": "Pin - Headcrab Glyph",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4688",
+                "id": "collectible-4688",
                 "name": "Pin - Copper Lambda",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4686",
+                "id": "collectible-4686",
                 "name": "Pin - Health",
-                "rarity": "Notável"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Notável",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4683",
+                "id": "collectible-4683",
                 "name": "Pin - Sustenance!",
-                "rarity": "Exótico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exótico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-4684",
+                "id": "collectible-4684",
                 "name": "Pin - Vortigaunt",
-                "rarity": "Exótico"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exótico",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6134",
+                "id": "collectible-6134",
                 "name": "Pin - Alyx",
-                "rarity": "Extraordinário"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinário",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-4682",
+                "id": "collectible-4682",
                 "name": "Pin - Civil Protection",
-                "rarity": "Extraordinário"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinário",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],

@@ -8,59 +8,103 @@
         "first_sale_date": "2016/06/01",
         "contains": [
             {
-                "id": "collection-6110",
+                "id": "collectible-6110",
                 "name": "Καρφίτσα Guardian",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6111",
+                "id": "collectible-6111",
                 "name": "Καρφίτσα Tactics",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6108",
+                "id": "collectible-6108",
                 "name": "Καρφίτσα Nuke",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6109",
+                "id": "collectible-6109",
                 "name": "Καρφίτσα Train",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6106",
+                "id": "collectible-6106",
                 "name": "Καρφίτσα Victory",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6107",
+                "id": "collectible-6107",
                 "name": "Καρφίτσα Militia",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6105",
+                "id": "collectible-6105",
                 "name": "Καρφίτσα Italy",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6103",
+                "id": "collectible-6103",
                 "name": "Καρφίτσα Mirage",
-                "rarity": "Exotic"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotic",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6104",
+                "id": "collectible-6104",
                 "name": "Καρφίτσα Inferno",
-                "rarity": "Exotic"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotic",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6101",
+                "id": "collectible-6101",
                 "name": "Καρφίτσα Dust II",
-                "rarity": "Extraordinary"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinary",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6102",
+                "id": "collectible-6102",
                 "name": "Καρφίτσα Guardian Elite",
-                "rarity": "Extraordinary"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinary",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -75,59 +119,103 @@
         "first_sale_date": "2016/09/28",
         "contains": [
             {
-                "id": "collection-6112",
+                "id": "collectible-6112",
                 "name": "Καρφίτσα Guardian 2",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6113",
+                "id": "collectible-6113",
                 "name": "Καρφίτσα Bravo",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6114",
+                "id": "collectible-6114",
                 "name": "Καρφίτσα Baggage",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6115",
+                "id": "collectible-6115",
                 "name": "Καρφίτσα Phoenix",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6116",
+                "id": "collectible-6116",
                 "name": "Καρφίτσα Office",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6117",
+                "id": "collectible-6117",
                 "name": "Καρφίτσα Cobblestone",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6118",
+                "id": "collectible-6118",
                 "name": "Καρφίτσα Overpass",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6119",
+                "id": "collectible-6119",
                 "name": "Καρφίτσα Bloodhound",
-                "rarity": "Exotic"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotic",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6120",
+                "id": "collectible-6120",
                 "name": "Καρφίτσα Cache",
-                "rarity": "Exotic"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotic",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6122",
+                "id": "collectible-6122",
                 "name": "Καρφίτσα Chroma",
-                "rarity": "Extraordinary"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinary",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6121",
+                "id": "collectible-6121",
                 "name": "Καρφίτσα Valeria Phoenix",
-                "rarity": "Extraordinary"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinary",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -142,59 +230,103 @@
         "first_sale_date": "2018/03/01",
         "contains": [
             {
-                "id": "collection-6123",
+                "id": "collectible-6123",
                 "name": "Καρφίτσα Guardian 3",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6124",
+                "id": "collectible-6124",
                 "name": "Καρφίτσα Canals",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6125",
+                "id": "collectible-6125",
                 "name": "Καρφίτσα Welcome to the Clutch",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6126",
+                "id": "collectible-6126",
                 "name": "Καρφίτσα Death Sentence",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6127",
+                "id": "collectible-6127",
                 "name": "Καρφίτσα Inferno 2",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6128",
+                "id": "collectible-6128",
                 "name": "Καρφίτσα Wildfire",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6129",
+                "id": "collectible-6129",
                 "name": "Καρφίτσα Easy Peasy",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6130",
+                "id": "collectible-6130",
                 "name": "Καρφίτσα Aces High",
-                "rarity": "Exotic"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotic",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6131",
+                "id": "collectible-6131",
                 "name": "Καρφίτσα Hydra",
-                "rarity": "Exotic"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotic",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6132",
+                "id": "collectible-6132",
                 "name": "Καρφίτσα Howl",
-                "rarity": "Extraordinary"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinary",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6133",
+                "id": "collectible-6133",
                 "name": "Καρφίτσα Brigadier General",
-                "rarity": "Extraordinary"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinary",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -209,64 +341,112 @@
         "first_sale_date": "2020/03/23",
         "contains": [
             {
-                "id": "collection-4691",
+                "id": "collectible-4691",
                 "name": "Καρφίτσα κράνος Combine",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4690",
+                "id": "collectible-4690",
                 "name": "Καρφίτσα Black Mesa",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4689",
+                "id": "collectible-4689",
                 "name": "Καρφίτσα CMB",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4687",
+                "id": "collectible-4687",
                 "name": "Καρφίτσα Λάμδα",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4692",
+                "id": "collectible-4692",
                 "name": "Καρφίτσα Πόλης 17",
-                "rarity": "High Grade"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "High Grade",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4685",
+                "id": "collectible-4685",
                 "name": "Καρφίτσα γλυφής κεφαλοκάβουρα",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4688",
+                "id": "collectible-4688",
                 "name": "Χάλκινη καρφίτσα Λάμδα",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4686",
+                "id": "collectible-4686",
                 "name": "Καρφίτσα Υγείας",
-                "rarity": "Remarkable"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "Remarkable",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4683",
+                "id": "collectible-4683",
                 "name": "Καρφίτσα Συντήρηση!",
-                "rarity": "Exotic"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotic",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-4684",
+                "id": "collectible-4684",
                 "name": "Καρφίτσα Vortigaunt",
-                "rarity": "Exotic"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "Exotic",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6134",
+                "id": "collectible-6134",
                 "name": "Καρφίτσα Alyx",
-                "rarity": "Extraordinary"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinary",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-4682",
+                "id": "collectible-4682",
                 "name": "Καρφίτσα Πολιτικής Προστασίας",
-                "rarity": "Extraordinary"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "Extraordinary",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],

@@ -8,59 +8,103 @@
         "first_sale_date": "2016/06/01",
         "contains": [
             {
-                "id": "collection-6110",
+                "id": "collectible-6110",
                 "name": "Значок «Вартовий»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6111",
+                "id": "collectible-6111",
                 "name": "Значок «Тактика»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6108",
+                "id": "collectible-6108",
                 "name": "Значок «Nuke»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6109",
+                "id": "collectible-6109",
                 "name": "Значок «Train»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6106",
+                "id": "collectible-6106",
                 "name": "Значок «Перемога»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6107",
+                "id": "collectible-6107",
                 "name": "Значок «Militia»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6105",
+                "id": "collectible-6105",
                 "name": "Значок «Italy»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6103",
+                "id": "collectible-6103",
                 "name": "Значок «Mirage»",
-                "rarity": "екзотичний предмет"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "екзотичний предмет",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6104",
+                "id": "collectible-6104",
                 "name": "Значок «Inferno»",
-                "rarity": "екзотичний предмет"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "екзотичний предмет",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6101",
+                "id": "collectible-6101",
                 "name": "Значок «Dust II»",
-                "rarity": "надзвичайний предмет"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "надзвичайний предмет",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6102",
+                "id": "collectible-6102",
                 "name": "Значок елітного вартового",
-                "rarity": "надзвичайний предмет"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "надзвичайний предмет",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -75,59 +119,103 @@
         "first_sale_date": "2016/09/28",
         "contains": [
             {
-                "id": "collection-6112",
+                "id": "collectible-6112",
                 "name": "Значок «Вартовий 2»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6113",
+                "id": "collectible-6113",
                 "name": "Значок «Браво»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6114",
+                "id": "collectible-6114",
                 "name": "Значок «Baggage»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6115",
+                "id": "collectible-6115",
                 "name": "Значок «Фенікс»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6116",
+                "id": "collectible-6116",
                 "name": "Значок «Office»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6117",
+                "id": "collectible-6117",
                 "name": "Значок «Cobblestone»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6118",
+                "id": "collectible-6118",
                 "name": "Значок «Overpass»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6119",
+                "id": "collectible-6119",
                 "name": "Значок «Дойда»",
-                "rarity": "екзотичний предмет"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "екзотичний предмет",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6120",
+                "id": "collectible-6120",
                 "name": "Значок «Cache»",
-                "rarity": "екзотичний предмет"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "екзотичний предмет",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6122",
+                "id": "collectible-6122",
                 "name": "Значок «Хрома»",
-                "rarity": "надзвичайний предмет"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "надзвичайний предмет",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6121",
+                "id": "collectible-6121",
                 "name": "Значок «Валерія Фенікс»",
-                "rarity": "надзвичайний предмет"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "надзвичайний предмет",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -142,59 +230,103 @@
         "first_sale_date": "2018/03/01",
         "contains": [
             {
-                "id": "collection-6123",
+                "id": "collectible-6123",
                 "name": "Значок «Вартовий 3»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6124",
+                "id": "collectible-6124",
                 "name": "Значок «Canals»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6125",
+                "id": "collectible-6125",
                 "name": "Значок «Ласкаво просимо до клатчу»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6126",
+                "id": "collectible-6126",
                 "name": "Значок «Смертний вирок»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-6127",
+                "id": "collectible-6127",
                 "name": "Значок «Inferno 2»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6128",
+                "id": "collectible-6128",
                 "name": "Значок «Дике полум’я»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6129",
+                "id": "collectible-6129",
                 "name": "Значок «Простіше простого»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-6130",
+                "id": "collectible-6130",
                 "name": "Значок «Козирні тузи»",
-                "rarity": "екзотичний предмет"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "екзотичний предмет",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6131",
+                "id": "collectible-6131",
                 "name": "Значок «Гідра»",
-                "rarity": "екзотичний предмет"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "екзотичний предмет",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6132",
+                "id": "collectible-6132",
                 "name": "Значок «Виття»",
-                "rarity": "надзвичайний предмет"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "надзвичайний предмет",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-6133",
+                "id": "collectible-6133",
                 "name": "Значок «Бригадний генерал»",
-                "rarity": "надзвичайний предмет"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "надзвичайний предмет",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],
@@ -209,64 +341,112 @@
         "first_sale_date": "2020/03/23",
         "contains": [
             {
-                "id": "collection-4691",
+                "id": "collectible-4691",
                 "name": "Значок «Шолом комбінантів»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4690",
+                "id": "collectible-4690",
                 "name": "Значок «Блек-Меса»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4689",
+                "id": "collectible-4689",
                 "name": "Значок «CMB»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4687",
+                "id": "collectible-4687",
                 "name": "Значок «Лямбда»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4692",
+                "id": "collectible-4692",
                 "name": "Значок «Сіті-17»",
-                "rarity": "дуже рідкісний предмет"
+                "rarity": {
+                    "id": "rarity_rare",
+                    "name": "дуже рідкісний предмет",
+                    "color": "#4b69ff"
+                }
             },
             {
-                "id": "collection-4685",
+                "id": "collectible-4685",
                 "name": "Значок «Ієрогліф хедкраба»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4688",
+                "id": "collectible-4688",
                 "name": "Значок «Мідна лямбда»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4686",
+                "id": "collectible-4686",
                 "name": "Значок «Здоров’я»",
-                "rarity": "цікавий предмет"
+                "rarity": {
+                    "id": "rarity_mythical",
+                    "name": "цікавий предмет",
+                    "color": "#8847ff"
+                }
             },
             {
-                "id": "collection-4683",
+                "id": "collectible-4683",
                 "name": "Значок «Їжа!»",
-                "rarity": "екзотичний предмет"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "екзотичний предмет",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-4684",
+                "id": "collectible-4684",
                 "name": "Значок «Вортіґонт»",
-                "rarity": "екзотичний предмет"
+                "rarity": {
+                    "id": "rarity_legendary",
+                    "name": "екзотичний предмет",
+                    "color": "#d32ce6"
+                }
             },
             {
-                "id": "collection-6134",
+                "id": "collectible-6134",
                 "name": "Значок «Алікс»",
-                "rarity": "надзвичайний предмет"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "надзвичайний предмет",
+                    "color": "#eb4b4b"
+                }
             },
             {
-                "id": "collection-4682",
+                "id": "collectible-4682",
                 "name": "Значок «Цивільна оборона»",
-                "rarity": "надзвичайний предмет"
+                "rarity": {
+                    "id": "rarity_ancient",
+                    "name": "надзвичайний предмет",
+                    "color": "#eb4b4b"
+                }
             }
         ],
         "contains_rare": [],

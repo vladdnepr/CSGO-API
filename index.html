@@ -96,6 +96,43 @@
                 .language-code {
                     @apply bg-slate-800 text-slate-50 rounded-xl px-2 py-0.5 text-sm;
                 }
+
+                .section-heading {
+                    @apply text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4;
+                }
+
+                .request-info {
+                    @apply bg-slate-800 text-slate-50 rounded-xl text-base p-3 shadow-lg flex justify-between items-center;
+                }
+
+                .request-method {
+                    @apply text-pink-400;
+                }
+
+                .request-icon {
+                    @apply w-5 h-5 text-slate-400 hover:text-slate-300;
+                }
+
+                .details {
+                    @apply bg-slate-800 text-slate-50 rounded-xl text-base shadow-lg mt-2 overflow-hidden;
+                }
+
+                .schema-type {
+                    @apply schema py-1 px-2;
+                }
+
+                .schema-property:nth-child(odd) {
+                    @apply grid grid-cols-2 bg-slate-700 bg-opacity-30 px-8 py-1;
+                }
+
+                .schema-property:nth-child(even) {
+                    @apply grid grid-cols-2 px-8 py-1
+                }
+
+                .schema-value {
+                    @apply schema;
+                }
+
             }
         </style>
     </head>
@@ -119,6 +156,7 @@
                 </svg>
             </button>
         </div>
+
         <div class="px-2 mx-auto max-w-5xl sm:px-6 lg:px-8 mb-20 pt-12 lg:pt-0">
             <div
                 class="fixed z-50 inset-0 overflow-y-auto lg:hidden hidden"
@@ -351,13 +389,6 @@
                                     >List music kits</a
                                 >
                             </div>
-                            <div class="mb-1.5">
-                                <a
-                                    href="#api-rest"
-                                    class="text-blue-400 hover:underline"
-                                    >Experimental API REST</a
-                                >
-                            </div>
                         </div>
                     </nav>
                 </div>
@@ -570,23 +601,13 @@
                             >List music kits</a
                         >
                     </div>
-                    <div class="mb-1.5">
-                        <a
-                            href="#api-rest"
-                            class="text-blue-400 hover:underline"
-                            >Experimental API REST</a
-                        >
-                    </div>
                 </div>
             </div>
+
             <div class="lg:pl-[15rem] xl:pl-[7rem]">
                 <div class="pb-12 mt-4">
                     <div id="introduction">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            Introduction
-                        </h1>
+                        <h1 class="section-heading">Introduction</h1>
 
                         <p
                             class="mt-2 text-base md:text-lg text-slate-700 mb-4"
@@ -634,7 +655,7 @@
                         </p>
 
                         <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg"
+                            class="bg-slate-800 text-slate-50 rounded-xl text-base shadow-lg"
                         >
                             <div
                                 class="py-2.5 px-3 border-b border-slate-700 flex space-x-4 text-[#7dd3fc]"
@@ -649,8 +670,7 @@
                         <p
                             class="mt-4 text-base md:text-lg text-slate-700 mb-4"
                         >
-                            <span class="font-bold">language</span> can be one
-                            of the following:
+                            <span>{language}</span> can be one of the following:
                             <span class="language-code">bg</span>
                             <span class="language-code">cs</span>
                             <span class="language-code">da</span>
@@ -682,194 +702,108 @@
                         </p>
                     </div>
 
-                    <div
-                        class="rounded-xl bg-blue-400/20 text-blue-500 p-3 flex justify-between items-center"
-                    >
-                        <div class="flex items-center gap-2">
-                            <svg
-                                class="h-6 w-6"
-                                xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 20 20"
-                                fill="currentColor"
-                                aria-hidden="true"
-                                class="nu rw aww"
-                            >
-                                <path
-                                    fill-rule="evenodd"
-                                    d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a.75.75 0 000 1.5h.253a.25.25 0 01.244.304l-.459 2.066A1.75 1.75 0 0010.747 15H11a.75.75 0 000-1.5h-.253a.25.25 0 01-.244-.304l.459-2.066A1.75 1.75 0 009.253 9H9z"
-                                    clip-rule="evenodd"
-                                ></path>
-                            </svg>
-                            <p class="text-sm md:text-base">
-                                Try some experimental API REST endpoints
-                            </p>
-                        </div>
-                        <a href="#api-rest">
-                            <svg
-                                class="h-5 w-5"
-                                fill="none"
-                                stroke="currentColor"
-                                stroke-width="1.5"
-                                viewBox="0 0 24 24"
-                                xmlns="http://www.w3.org/2000/svg"
-                                aria-hidden="true"
-                            >
-                                <path
-                                    stroke-linecap="round"
-                                    stroke-linejoin="round"
-                                    d="M19.5 13.5L12 21m0 0l-7.5-7.5M12 21V3"
-                                ></path>
-                            </svg>
-                        </a>
-                    </div>
-
                     <hr />
 
-                    <div id="list-skins">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            List skins
-                        </h1>
+                    <div id="list-skins" class="mb-8">
+                        <h1 class="section-heading">List Skins</h1>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /skins.json
                             </div>
-                            <div>
-                                <a
-                                    href="https://bymykel.github.io/CSGO-API/api/en/skins.json"
-                                    target="_blank"
+                            <a
+                                href="https://bymykel.github.io/CSGO-API/api/en/skins.json"
+                                target="_blank"
+                            >
+                                <svg
+                                    class="request-icon"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    viewBox="0 0 24 24"
+                                    xmlns="http://www.w3.org/2000/svg"
                                 >
-                                    <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
-                                        fill="none"
-                                        stroke="currentColor"
-                                        viewBox="0 0 24 24"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                    >
-                                        <path
-                                            stroke-linecap="round"
-                                            stroke-linejoin="round"
-                                            stroke-width="2"
-                                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
-                                        ></path>
-                                    </svg>
-                                </a>
-                            </div>
+                                    <path
+                                        stroke-linecap="round"
+                                        stroke-linejoin="round"
+                                        stroke-width="2"
+                                        d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                                    ></path>
+                                </svg>
+                            </a>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
-                                <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-skins', 'schema')"
-                                >
-                                    Schema
-                                </div>
-                                <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-skins', 'example')"
-                                >
-                                    Example
-                                </div>
+                        <div class="details">
+                            <div class="schema-type array-object">
+                                array[object]
                             </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
-                                    array[object]
+                            <div>
+                                <div class="schema-property">
+                                    <div>id</div>
+                                    <div class="schema-value string">
+                                        string
+                                    </div>
                                 </div>
-                                <div>
-                                    <div
-                                        class="grid grid-cols-2 bg-slate-700 bg-opacity-30 px-8 py-1"
-                                    >
-                                        <div>id</div>
-                                        <div class="schema string">string</div>
+                                <div class="schema-property">
+                                    <div>name</div>
+                                    <div class="schema-value string">
+                                        string
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
-                                        <div>name</div>
-                                        <div class="schema string">string</div>
+                                </div>
+                                <div class="schema-property">
+                                    <div>description</div>
+                                    <div class="schema-value string">
+                                        string
                                     </div>
-                                    <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
-                                    >
-                                        <div>description</div>
-                                        <div class="schema string">string</div>
+                                </div>
+                                <div class="schema-property">
+                                    <div>weapon</div>
+                                    <div class="schema-value string">
+                                        string
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
-                                        <div>weapon</div>
-                                        <div class="schema string">string</div>
+                                </div>
+                                <div class="schema-property">
+                                    <div>pattern</div>
+                                    <div class="schema-value string">
+                                        string
                                     </div>
-                                    <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
-                                    >
-                                        <div>pattern</div>
-                                        <div class="schema string">string</div>
+                                </div>
+                                <div class="schema-property">
+                                    <div>min_float</div>
+                                    <div class="schema-value number">
+                                        number
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
-                                        <div>min_float</div>
-                                        <div class="schema number">number</div>
+                                </div>
+                                <div class="schema-property">
+                                    <div>max_float</div>
+                                    <div class="schema-value number">
+                                        number
                                     </div>
-                                    <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
-                                    >
-                                        <div>max_float</div>
-                                        <div class="schema number">number</div>
+                                </div>
+                                <div class="schema-property">
+                                    <div>rarity</div>
+                                    <div class="schema-value string">
+                                        string
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
-                                        <div>rarity</div>
-                                        <div class="schema string">string</div>
-                                    </div>
-                                    <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
-                                    >
-                                        <div>image</div>
-                                        <div class="schema string">string</div>
+                                </div>
+                                <div class="schema-property">
+                                    <div>image</div>
+                                    <div class="schema-value string">
+                                        string
                                     </div>
                                 </div>
                             </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "skin-1049812",
-        "name": "M4A4 | Howl",
-		"description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs.",
-        "weapon": "M4A4",
-        "pattern": "Howl",
-        "min_float": 0,
-        "max_float": 0.4,
-        "rarity": "Contraband",
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/default_generated/weapon_m4a1_cu_m4a1_howling_light_large.png"
-    },
-	// ...
-]</code></pre>
                         </div>
                     </div>
 
                     <hr />
 
-                    <div id="list-stickers">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            List stickers
-                        </h1>
+                    <div id="list-stickers" class="mb-8">
+                        <h1 class="section-heading">List stickers</h1>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /stickers.json
                             </div>
                             <div>
@@ -878,7 +812,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -895,106 +829,61 @@
                             </div>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
+                        <div class="details">
+                            <div class="schema-type array-object">
+                                array[object]
+                            </div>
+                            <div>
                                 <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-stickers', 'schema')"
+                                    class="schema-property"
                                 >
-                                    Schema
+                                    <div>id</div>
+                                    <div class="schema string">string</div>
+                                </div>
+                                <div class="schema-property">
+                                    <div>name</div>
+                                    <div class="schema string">string</div>
                                 </div>
                                 <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-stickers', 'example')"
+                                    class="schema-property"
                                 >
-                                    Example
+                                    <div>description</div>
+                                    <div class="text-slate-400">
+                                        <span class="schema string"
+                                            >string</span
+                                        >
+                                        or
+                                        <span class="schema null">null</span>
+                                    </div>
+                                </div>
+                                <div class="schema-property">
+                                    <div>rarity</div>
+                                    <div class="text-slate-400">
+                                        <span class="schema string"
+                                            >string</span
+                                        >
+                                        or
+                                        <span class="schema null">null</span>
+                                    </div>
+                                </div>
+                                <div
+                                    class="schema-property"
+                                >
+                                    <div>image</div>
+                                    <div class="schema string">string</div>
                                 </div>
                             </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
-                                    array[object]
-                                </div>
-                                <div>
-                                    <div
-                                        class="grid grid-cols-2 bg-slate-700 bg-opacity-30 px-8 py-1"
-                                    >
-                                        <div>id</div>
-                                        <div class="schema string">string</div>
-                                    </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
-                                        <div>name</div>
-                                        <div class="schema string">string</div>
-                                    </div>
-                                    <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
-                                    >
-                                        <div>description</div>
-                                        <div class="text-slate-400">
-                                            <span class="schema string"
-                                                >string</span
-                                            >
-                                            or
-                                            <span class="schema null"
-                                                >null</span
-                                            >
-                                        </div>
-                                    </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
-                                        <div>rarity</div>
-                                        <div class="text-slate-400">
-                                            <span class="schema string"
-                                                >string</span
-                                            >
-                                            or
-                                            <span class="schema null"
-                                                >null</span
-                                            >
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="grid grid-cols-2 bg-slate-700 bg-opacity-30 px-8 py-1"
-                                    >
-                                        <div>image</div>
-                                        <div class="schema string">string</div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "sticker-60",
-        "name": "Sticker | iBUYPOWER (Holo) | Katowice 2014",
-        "description": null,
-        "rarity": "Remarkable",
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/stickers/emskatowice2014/ibuypower_holo_large.png"
-    },
-	// ...
-]</code></pre>
                         </div>
                     </div>
 
                     <hr />
 
                     <div id="list-collections">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            List collections
-                        </h1>
+                        <h1 class="section-heading">List collections</h1>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collections.json
                             </div>
                             <div>
@@ -1003,7 +892,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1020,61 +909,30 @@
                             </div>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
-                                <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-collections', 'schema')"
-                                >
-                                    Schema
-                                </div>
-                                <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-collections', 'example')"
-                                >
-                                    Example
-                                </div>
-                            </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
+                        <div class="details">
+                            <div class="">
+                                <div class="schema-type array-object">
                                     array[object]
                                 </div>
                                 <div>
                                     <div
-                                        class="grid grid-cols-2 bg-slate-700 bg-opacity-30 px-8 py-1"
+                                        class="schema-property"
                                     >
                                         <div>id</div>
                                         <div class="schema string">string</div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>name</div>
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 bg-slate-700 bg-opacity-30 px-8 py-1"
+                                        class="schema-property"
                                     >
                                         <div>image</div>
                                         <div class="schema string">string</div>
                                     </div>
                                 </div>
                             </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "collection-set-community-23",
-        "name": "The Shattered Web Collection",
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_23.png"
-    },
-	// ...
-]</code></pre>
                         </div>
                     </div>
 
@@ -1094,11 +952,9 @@
                             music kit boxes and souvenir packages.
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /crates.json
                             </div>
                             <div>
@@ -1107,7 +963,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1124,32 +980,14 @@
                             </div>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
-                                <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-crates', 'schema')"
-                                >
-                                    Schema
-                                </div>
-                                <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-crates', 'example')"
-                                >
-                                    Example
-                                </div>
-                            </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
+                        <div class="details">
+                            <div class="">
+                                <div class="schema-type array-object">
                                     array[object]
                                 </div>
                                 <div>
                                     <div
-                                        class="grid grid-cols-2 bg-slate-700 bg-opacity-30 px-8 py-1"
+                                        class="schema-property"
                                     >
                                         <div>id</div>
                                         <div class="schema string">string</div>
@@ -1161,7 +999,7 @@
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>description</div>
                                         <div class="text-slate-400">
@@ -1174,7 +1012,7 @@
                                             >
                                         </div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>type</div>
                                         <div class="text-slate-400">
                                             <span class="schema string"
@@ -1187,7 +1025,7 @@
                                         </div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>first_sale_date</div>
                                         <div class="text-slate-400">
@@ -1201,36 +1039,20 @@
                                         </div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>image</div>
                                         <div class="schema string">string</div>
                                     </div>
                                 </div>
                             </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "crate-4014",
-        "name": "EMS Katowice 2014 Challengers",
-        "description": "This capsule contains a single EMS One Katowice 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
-        "type": "Sticker Capsule",
-        "first_sale_date": "2014/03/02",
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_kat2014_01.png"
-    },
-	// ...
-]</code></pre>
                         </div>
 
-                        <h1
+                        <h2
                             class="mt-8 inline-block text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight"
                         >
                             Filter by type
-                        </h1>
+                        </h2>
 
                         <p
                             id="list-crates-1"
@@ -1239,11 +1061,9 @@
                             Capsules with patches
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /crates/capsules/patches.json
                             </div>
                             <div>
@@ -1252,7 +1072,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1276,11 +1096,9 @@
                             Capsules with pins
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /crates/capsules/pins.json
                             </div>
                             <div>
@@ -1289,7 +1107,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1313,11 +1131,9 @@
                             Cases
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /crates/cases.json
                             </div>
                             <div>
@@ -1326,7 +1142,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1350,11 +1166,9 @@
                             Graffiti boxes
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /crates/graffiti.json
                             </div>
                             <div>
@@ -1363,7 +1177,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1387,11 +1201,9 @@
                             Music kit boxes
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /crates/music_kit_boxes.json
                             </div>
                             <div>
@@ -1400,7 +1212,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1424,11 +1236,9 @@
                             Souvenir packages
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /crates/souvenir.json
                             </div>
                             <div>
@@ -1437,7 +1247,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1461,11 +1271,9 @@
                             Rest of crates that don't fit in any type
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /crates/other.json
                             </div>
                             <div>
@@ -1474,7 +1282,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1495,17 +1303,11 @@
                     <hr />
 
                     <div id="list-keys">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            List keys
-                        </h1>
+                        <h1 class="section-heading">List keys</h1>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /keys.json
                             </div>
                             <div>
@@ -1514,7 +1316,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1531,42 +1333,24 @@
                             </div>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
-                                <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-keys', 'schema')"
-                                >
-                                    Schema
-                                </div>
-                                <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-keys', 'example')"
-                                >
-                                    Example
-                                </div>
-                            </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
+                        <div class="details">
+                            <div class="">
+                                <div class="schema-type array-object">
                                     array[object]
                                 </div>
                                 <div>
                                     <div
-                                        class="grid grid-cols-2 bg-slate-700 bg-opacity-30 px-8 py-1"
+                                        class="schema-property"
                                     >
                                         <div>id</div>
                                         <div class="schema string">string</div>
                                     </div>
-                                    <div class="grid grid-cols-2 py-1 px-8">
+                                    <div class="schema-property">
                                         <div>name</div>
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>description</div>
                                         <div class="text-slate-400">
@@ -1579,43 +1363,23 @@
                                             >
                                         </div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>image</div>
                                         <div class="schema string">string</div>
                                     </div>
                                 </div>
                             </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "key-1391",
-        "name": "Dreams & Nightmares Case Key",
-        "description": "This key only opens Dreams & Nightmares cases",
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/tools/crate_key_community_30.png"
-    },
-	// ...
-]</code></pre>
                         </div>
                     </div>
 
                     <hr />
 
                     <div id="list-collectibles">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            List collectibles
-                        </h1>
+                        <h1 class="section-heading">List collectibles</h1>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles.json
                             </div>
                             <div>
@@ -1624,7 +1388,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1641,42 +1405,24 @@
                             </div>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
-                                <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-collectibles', 'schema')"
-                                >
-                                    Schema
-                                </div>
-                                <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-collectibles', 'example')"
-                                >
-                                    Example
-                                </div>
-                            </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
+                        <div class="details">
+                            <div class="">
+                                <div class="schema-type array-object">
                                     array[object]
                                 </div>
                                 <div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>id</div>
                                         <div class="schema string">string</div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>name</div>
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>description</div>
                                         <div class="text-slate-400">
@@ -1689,7 +1435,7 @@
                                             >
                                         </div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>rarity</div>
                                         <div class="text-slate-400">
                                             <span class="schema string"
@@ -1702,7 +1448,7 @@
                                         </div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>type</div>
                                         <div class="text-slate-400">
@@ -1715,35 +1461,19 @@
                                             >
                                         </div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>image</div>
                                         <div class="schema string">string</div>
                                     </div>
                                 </div>
                             </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "collectible-905",
-        "name": "Champion at ESL One Cologne 2015",
-        "description": "This championship trophy was awarded to the Champion at The ESL One Cologne 2015 CS:GO Championship.",
-        "rarity": null,
-        "type": "Tournament Finalist Trophy",
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/col_2015_champion_large.png"
-    },
-	// ...
-]</code></pre>
                         </div>
 
-                        <h1
+                        <h2
                             class="mt-8 inline-block text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight"
                         >
                             Filter by type
-                        </h1>
+                        </h2>
 
                         <p
                             id="list-collectibles-1"
@@ -1752,11 +1482,9 @@
                             Major fantasy team trophies
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/major/fantasy_trophies.json
                             </div>
                             <div>
@@ -1765,7 +1493,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1789,11 +1517,9 @@
                             Major finalists trophies
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/major/finalists_trophies.json
                             </div>
                             <div>
@@ -1802,7 +1528,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1826,11 +1552,9 @@
                             Major pickem coins
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/major/pickem_coins.json
                             </div>
                             <div>
@@ -1839,7 +1563,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1863,11 +1587,9 @@
                             Major old pickem trophy
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/major/pickem_old.json
                             </div>
                             <div>
@@ -1876,7 +1598,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1900,11 +1622,9 @@
                             Operation coins
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/operation/coins.json
                             </div>
                             <div>
@@ -1913,7 +1633,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1937,11 +1657,9 @@
                             Operation stars
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/operation/stars.json
                             </div>
                             <div>
@@ -1950,7 +1668,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -1974,11 +1692,9 @@
                             Map Contributor Coins
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/map_coins.json
                             </div>
                             <div>
@@ -1987,7 +1703,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -2011,11 +1727,9 @@
                             Pins
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/pins.json
                             </div>
                             <div>
@@ -2024,7 +1738,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -2048,11 +1762,9 @@
                             Service medals
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/service_medals.json
                             </div>
                             <div>
@@ -2061,7 +1773,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -2084,11 +1796,9 @@
                             Rest of collectibles that don't fit in any type
                         </p>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /collectibles/other.json
                             </div>
                             <div>
@@ -2097,7 +1807,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -2118,17 +1828,11 @@
                     <hr />
 
                     <div id="list-agents">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            List agents
-                        </h1>
+                        <h1 class="section-heading">List agents</h1>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /agents.json
                             </div>
                             <div>
@@ -2137,7 +1841,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -2154,90 +1858,51 @@
                             </div>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
-                                <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-agents', 'schema')"
-                                >
-                                    Schema
-                                </div>
-                                <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-agents', 'example')"
-                                >
-                                    Example
-                                </div>
-                            </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
+                        <div class="details">
+                            <div class="">
+                                <div class="schema-type array-object">
                                     array[object]
                                 </div>
                                 <div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>id</div>
                                         <div class="schema string">string</div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>name</div>
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>description</div>
                                         <div class="schema string">string</div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>rarity</div>
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>image</div>
                                         <div class="schema string">string</div>
                                     </div>
                                 </div>
                             </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "agent-5308",
-        "name": "Special Agent Ava | FBI",
-        "description": "Initially underestimated, Special Agent Ava soon became her team's ultimate secret weapon. \\n\\nDespite receiving three out of five possible FBI Honorary Medals, Ava is surprisingly indifferent to her accomplishments. The way she sees it, it's nothing compared to growing up with four older brothers in urban New Jersey. \\n\\nSpecial Agent Ava takes pleasure from the simple things: clean wins, cold beer, and turning bad guys into thin crust pizza pie. \\n\\n<i>They see me. They're confused. And then they're dead.</i>",
-        "rarity": "Master",
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/characters/customplayer_ctm_fbi_variantb.png"
-    },
-	// ...
-]</code></pre>
                         </div>
                     </div>
 
                     <hr />
 
                     <div id="list-patches">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            List patches
-                        </h1>
+                        <h1 class="section-heading">List patches</h1>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /patches.json
                             </div>
                             <div>
@@ -2246,7 +1911,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -2263,42 +1928,24 @@
                             </div>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
-                                <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-patches', 'schema')"
-                                >
-                                    Schema
-                                </div>
-                                <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-patches', 'example')"
-                                >
-                                    Example
-                                </div>
-                            </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
+                        <div class="details">
+                            <div class="">
+                                <div class="schema-type array-object">
                                     array[object]
                                 </div>
                                 <div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>id</div>
                                         <div class="schema string">string</div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>name</div>
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>description</div>
                                         <div class="text-slate-400">
@@ -2311,50 +1958,29 @@
                                             >
                                         </div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>rarity</div>
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>image</div>
                                         <div class="schema string">string</div>
                                     </div>
                                 </div>
                             </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "patch-4946",
-        "name": "Patch | Sunset Wave",
-        "description": "<i>A new day on the ocean...</i>",
-        "rarity": "Remarkable",
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/patches/case_op11/patch_op11_sunset_wave_large.png"
-    },
-	// ...
-]</code></pre>
                         </div>
                     </div>
 
                     <hr />
 
                     <div id="list-graffiti">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            List graffiti
-                        </h1>
+                        <h1 class="section-heading">List graffiti</h1>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /graffiti.json
                             </div>
                             <div>
@@ -2363,7 +1989,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -2380,42 +2006,24 @@
                             </div>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
-                                <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-graffiti', 'schema')"
-                                >
-                                    Schema
-                                </div>
-                                <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-graffiti', 'example')"
-                                >
-                                    Example
-                                </div>
-                            </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
+                        <div class="details">
+                            <div class="">
+                                <div class="schema-type array-object">
                                     array[object]
                                 </div>
                                 <div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>id</div>
                                         <div class="schema string">string</div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>name</div>
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>description</div>
                                         <div class="text-slate-400">
@@ -2428,7 +2036,7 @@
                                             >
                                         </div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>rarity</div>
                                         <div class="text-slate-400">
                                             <span class="schema string"
@@ -2441,45 +2049,24 @@
                                         </div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>image</div>
                                         <div class="schema string">string</div>
                                     </div>
                                 </div>
                             </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "graffiti-4508",
-        "name": "Sealed Graffiti | Cloud9 | London 2018",
-        "description": "50% of the proceeds from the sale of this graffiti support the included players and organizations.",
-        "rarity": null,
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/stickers/london2018/c9_graffiti_large.png"
-    },
-	// ...
-]</code></pre>
                         </div>
                     </div>
 
                     <hr />
 
                     <div id="list-music-kits">
-                        <h1
-                            class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-4"
-                        >
-                            List music kits
-                        </h1>
+                        <h1 class="section-heading">List music kits</h1>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center"
-                        >
+                        <div class="request-info">
                             <div>
-                                <span class="text-pink-400">GET</span>
+                                <span class="request-method">GET</span>
                                 /music_kits.json
                             </div>
                             <div>
@@ -2488,7 +2075,7 @@
                                     target="_blank"
                                 >
                                     <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
+                                        class="request-icon"
                                         fill="none"
                                         stroke="currentColor"
                                         viewBox="0 0 24 24"
@@ -2505,42 +2092,24 @@
                             </div>
                         </div>
 
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mt-2 overflow-hidden"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4"
-                            >
-                                <div
-                                    class="schema-tab"
-                                    onclick="changeTab('list-music-kits', 'schema')"
-                                >
-                                    Schema
-                                </div>
-                                <div
-                                    class="example-tab not-active-tab"
-                                    onclick="changeTab('list-music-kits', 'example')"
-                                >
-                                    Example
-                                </div>
-                            </div>
-                            <div class="schema-data">
-                                <div class="px-3 py-1 schema array-object">
+                        <div class="details">
+                            <div class="">
+                                <div class="schema-type array-object">
                                     array[object]
                                 </div>
                                 <div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>id</div>
                                         <div class="schema string">string</div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>name</div>
                                         <div class="schema string">string</div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>description</div>
                                         <div class="text-slate-400">
@@ -2549,7 +2118,7 @@
                                             >
                                         </div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>rarity</div>
                                         <div class="text-slate-400">
                                             <span class="schema string"
@@ -2558,7 +2127,7 @@
                                         </div>
                                     </div>
                                     <div
-                                        class="grid grid-cols-2 px-8 py-1 bg-slate-700 bg-opacity-30"
+                                        class="schema-property"
                                     >
                                         <div>exclusive</div>
                                         <div class="text-slate-400">
@@ -2567,249 +2136,13 @@
                                             >
                                         </div>
                                     </div>
-                                    <div class="grid grid-cols-2 px-8 py-1">
+                                    <div class="schema-property">
                                         <div>image</div>
                                         <div class="schema string">string</div>
                                     </div>
                                 </div>
                             </div>
-
-                            <pre
-                                class="example-data rounded-xl h-68 shadow-lg hidden"
-                            >
-<code class="language-json">[
-	// ...
-	{
-        "id": "music-kit-39",
-        "name": "Music Kit | The Verkkars, EZ4ENCE",
-        "description": "The Verkkars rise through the Finnish charts with a heart-pounding tribute to ENCE. Can it really be so EZ?",
-        "rarity": "High Grade",
-        "exclusive": false,
-        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/music_kits/theverkkars_01.png"
-    },
-	// ...
-]</code></pre>
                         </div>
-                    </div>
-
-                    <hr />
-
-                    <div id="api-rest">
-                        <div
-                            class="rounded-xl bg-yellow-400/20 text-yellow-500 p-3 flex items-center gap-4 mb-4"
-                        >
-                            <svg
-                                class="h-6 w-6"
-                                xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 20 20"
-                                fill="currentColor"
-                                aria-hidden="true"
-                                class="nu rw aww"
-                            >
-                                <path
-                                    fill-rule="evenodd"
-                                    d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a.75.75 0 000 1.5h.253a.25.25 0 01.244.304l-.459 2.066A1.75 1.75 0 0010.747 15H11a.75.75 0 000-1.5h-.253a.25.25 0 01-.244-.304l.459-2.066A1.75 1.75 0 009.253 9H9z"
-                                    clip-rule="evenodd"
-                                ></path>
-                            </svg>
-                            <div class="text-sm md:text-base">
-                                <p>
-                                    I have created some API REST endpoints to
-                                    make it easier to retrieve the data.
-                                </p>
-                                <p>
-                                    I'm still working on it, so it may change in
-                                    the future.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base shadow-lg mb-6"
-                        >
-                            <div
-                                class="py-2.5 px-3 border-b border-slate-700 flex space-x-4 text-[#7dd3fc]"
-                            >
-                                BASE URL
-                            </div>
-                            <div class="py-2.5 px-3">
-                                https://cs2-api.vercel.app/api
-                            </div>
-                        </div>
-
-                        <p class="mb-2 text-base md:text-lg text-slate-700">
-                            Search by query
-                        </p>
-
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center mb-4"
-                        >
-                            <div>
-                                <span class="text-pink-400">GET</span>
-                                /search?page=6&q=paris
-                            </div>
-                            <div>
-                                <a
-                                    href="https://cs2-api.vercel.app/api/search?page=6&q=paris"
-                                    target="_blank"
-                                >
-                                    <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
-                                        fill="none"
-                                        stroke="currentColor"
-                                        viewBox="0 0 24 24"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                    >
-                                        <path
-                                            stroke-linecap="round"
-                                            stroke-linejoin="round"
-                                            stroke-width="2"
-                                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
-                                        ></path>
-                                    </svg>
-                                </a>
-                            </div>
-                        </div>
-
-                        <pre class="example-data rounded-xl h-68 shadow-lg">
-<code class="language-json">{
-    "data": [
-        {
-            "id": "sticker-6661",
-            "name": "Sticker | GamerLegion (Glitter) | Paris 2023",
-            "description": null,
-            "rarity": "Remarkable",
-            "image": "https://steamcdn-a.akamaihd.net/..."
-        },
-        {
-            "id": "sticker-6662",
-            "name": "Sticker | GamerLegion (Holo) | Paris 2023",
-            "description": null,
-            "rarity": "Exotic",
-            "image": "https://steamcdn-a.akamaihd.net/..."
-        },
-        {},
-        {}
-    ],
-    "total": 627,
-    "page": {
-        "prev": "https://cs2-api.vercel.app/api/search?page=5&q=paris",
-        "next": "https://cs2-api.vercel.app/api/search?page=7&q=paris"
-    }
-}</code></pre>
-
-                        <p
-                            class="mb-2 text-base md:text-lg text-slate-700 mt-6"
-                        >
-                            Get all items paginated
-                        </p>
-
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center mb-4"
-                        >
-                            <div>
-                                <span class="text-pink-400">GET</span>
-                                /items
-                            </div>
-                            <div>
-                                <a
-                                    href="https://cs2-api.vercel.app/api/items"
-                                    target="_blank"
-                                >
-                                    <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
-                                        fill="none"
-                                        stroke="currentColor"
-                                        viewBox="0 0 24 24"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                    >
-                                        <path
-                                            stroke-linecap="round"
-                                            stroke-linejoin="round"
-                                            stroke-width="2"
-                                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
-                                        ></path>
-                                    </svg>
-                                </a>
-                            </div>
-                        </div>
-
-                        <pre class="example-data rounded-xl h-68 shadow-lg">
-<code class="language-json">{
-    "data": [
-        {
-            "id": "agent-4613",
-            "name": "Bloody Darryl The Strapped | The Professionals",
-            "description": "Before he was leader of the heist gang 'The Pro....",
-            "rarity": "Superior",
-            "image": "https://steamcdn-a.akamaihd.net/..."
-        },
-        {
-            "id": "agent-4619",
-            "name": "'Blueberries' Buckshot | NSWC SEAL",
-            "description": "Known as SEAL Team's \\\"Weapon....",
-            "rarity": "Exceptional",
-            "image": "https://steamcdn-a.akamaihd.net/..."
-        },
-        {},
-        {}
-    ],
-    "total": 9938,
-    "page": {
-        "prev": null,
-        "next": "https://cs2-api.vercel.app/api/items?page=2"
-    }
-}</code></pre>
-
-                        <p
-                            class="mb-2 text-base md:text-lg text-slate-700 mt-6"
-                        >
-                            To get an item by id
-                        </p>
-
-                        <div
-                            class="bg-slate-800 text-slate-50 rounded-xl text-xs md:text-base p-3 shadow-lg flex justify-between items-center mb-4"
-                        >
-                            <div>
-                                <span class="text-pink-400">GET</span>
-                                /items?id=skin-1049812
-                            </div>
-                            <div>
-                                <a
-                                    href="https://cs2-api.vercel.app/api/items?id=skin-1049812"
-                                    target="_blank"
-                                >
-                                    <svg
-                                        class="w-5 h-5 text-slate-400 hover:text-slate-300"
-                                        fill="none"
-                                        stroke="currentColor"
-                                        viewBox="0 0 24 24"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                    >
-                                        <path
-                                            stroke-linecap="round"
-                                            stroke-linejoin="round"
-                                            stroke-width="2"
-                                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
-                                        ></path>
-                                    </svg>
-                                </a>
-                            </div>
-                        </div>
-
-                        <pre class="example-data rounded-xl h-68 shadow-lg">
-<code class="language-json">{
-    "id": "skin-1049812",
-    "name": "M4A4 | Howl",
-    "description": "More accurate but less damaging...",
-    "weapon": "M4A4",
-    "pattern": "Howl",
-    "min_float": 0,
-    "max_float": 0.4,
-    "rarity": "Contraband",
-    "stattrak": false,
-    "image": "https://steamcdn-a.akamaihd.net/..."
-}</code></pre>
                     </div>
                 </div>
             </div>
@@ -2818,24 +2151,6 @@
         <script src="prism/prism.js"></script>
 
         <script>
-            const changeTab = (sectionId, tab) => {
-                const otherTab = { example: "schema", schema: "example" }[tab];
-
-                document
-                    .querySelector(`#${sectionId} .${tab}-data`)
-                    .classList.remove("hidden");
-                document
-                    .querySelector(`#${sectionId} .${otherTab}-data`)
-                    .classList.add("hidden");
-
-                document
-                    .querySelector(`#${sectionId} .${tab}-tab`)
-                    .classList.remove("not-active-tab");
-                document
-                    .querySelector(`#${sectionId} .${otherTab}-tab`)
-                    .classList.add("not-active-tab");
-            };
-
             const openLateralNav = () => {
                 document.body.classList.add("overflow-hidden");
                 document.body.classList.add("lg:overflow-auto");
