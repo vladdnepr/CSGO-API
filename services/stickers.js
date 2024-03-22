@@ -57,7 +57,7 @@ const parseItem = (item) => {
         };
     }
 
-    if (item.tournament_team_id) {
+    if (item.tournament_team_id && proTeams[item.tournament_team_id]) {
         team = {
             id: item.tournament_team_id,
             tag: proTeams[item.tournament_team_id].tag,
@@ -66,7 +66,7 @@ const parseItem = (item) => {
         };
     }
 
-    if (item.tournament_player_id) {
+    if (item.tournament_player_id && proPlayers[item.tournament_player_id]) {
         player = {
             id: item.tournament_player_id,
             code: proPlayers[item.tournament_player_id].code,
