@@ -2,7 +2,6 @@
     {
         "id": "collectible-874",
         "name": "Żeton 5-letniego weterana",
-        "name_original": "CollectibleCoin_FiveYearService",
         "description": "Członek społeczności Counter-Strike od ponad 5 lat.",
         "rarity": {
             "id": "rarity_ancient",
@@ -10,12 +9,11 @@
             "color": "#eb4b4b"
         },
         "type": null,
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/5yearcoin_large.8f83517dbda53fc10805f00bf0e3f59d30ee5033.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/5yearcoin_png.png"
     },
     {
         "id": "collectible-969",
         "name": "Żeton 10-letniego weterana",
-        "name_original": "CollectibleCoin_TenYearService",
         "description": "Członek społeczności Counter-Strike od ponad 10 lat.",
         "rarity": {
             "id": "rarity_ancient",
@@ -23,12 +21,11 @@
             "color": "#eb4b4b"
         },
         "type": null,
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/10yearcoin_large.260e9a5c3a985930c43617436651a6e946313ae2.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/10yearcoin_png.png"
     },
     {
         "id": "collectible-970",
         "name": "Odznaka Lojalności",
-        "name_original": "CollectibleCoin_FortiusQuoFidelius",
         "description": "Ta odznaka upamiętnia lojalne członkostwo w społeczności Counter-Strike przed aktualizacją „Strefa zagrożenia”.\\n\\n<i>Siła poprzez lojalność.</i>",
         "rarity": {
             "id": "rarity_ancient",
@@ -36,12 +33,11 @@
             "color": "#eb4b4b"
         },
         "type": null,
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/prime_badge_large.f8144d0a79cf586c900a22f4c226410a0f307409.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/prime_badge_png.png"
     },
     {
         "id": "collectible-987",
         "name": "Żeton 10. urodzin",
-        "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
         "description": "Świętowano 10. urodziny CS:GO wraz ze społecznością gry.\\n\\n<i>Świętujemy 10 lat strzałów w głowę, clutchy i całej społeczności. Wszystkiego najlepszego z okazji 10. urodzin, CS:GO!</i>",
         "rarity": {
             "id": "rarity_ancient",
@@ -49,12 +45,11 @@
             "color": "#eb4b4b"
         },
         "type": null,
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/cupcake_10_year_large.6bf0b2033f0d0e50ded1c491bc1c6330ac5d63f7.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/cupcake_10_year_png.png"
     },
     {
         "id": "collectible-996",
         "name": "Odznaka Global Offensive",
-        "name_original": "CollectibleCoin_CoinCsgo",
         "description": "Ta odznaka upamiętnia lojalne członkostwo w społeczności Counter-Strike: Global Offensive przed premierą Counter-Strike 2.\\n\\n<i>Legendy nie umierają nigdy.</i>",
         "rarity": {
             "id": "rarity_ancient",
@@ -62,6 +57,6 @@
             "color": "#eb4b4b"
         },
         "type": null,
-        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuk2fDQQFp7GghWpL2gZV9khaCRJW1Eu9nkwNaJxKSlMO-Bz29Xv5x32uiU992sjgDkrkc_YG7tZNjC0wxc9ok"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/coin_csgo_png.png"
     }
 ]

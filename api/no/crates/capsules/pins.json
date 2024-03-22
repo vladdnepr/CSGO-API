@@ -2,7 +2,6 @@
     {
         "id": "crate-4235",
         "name": "Samlepinskapsel – Serie 1",
-        "name_original": "crate_pins_series_1",
         "description": "Denne kapselen inneholder én samlepins fra serie 1. Samlepins kan vises frem på profilen.",
         "type": "Pins",
         "first_sale_date": "2016/06/01",
@@ -108,12 +107,11 @@
             }
         ],
         "contains_rare": [],
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_pins_series_1.d43d773dc49e91152169d79cfca70a76a7ef7c06.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_1_png.png"
     },
     {
         "id": "crate-4284",
         "name": "Samlepinskapsel – Serie 2",
-        "name_original": "crate_pins_series_2",
         "description": "Denne kapselen inneholder én samlepins fra serie 2. Samlepins kan vises frem på profilen.",
         "type": "Pins",
         "first_sale_date": "2016/09/28",
@@ -219,12 +217,11 @@
             }
         ],
         "contains_rare": [],
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_pins_series_2.96ecd6ea95f24366ca9b41f185cd2bff3a00ab00.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_2_png.png"
     },
     {
         "id": "crate-4481",
         "name": "Samlepinskapsel – Serie 3",
-        "name_original": "crate_pins_series_3",
         "description": "Denne kapselen inneholder én samlepins fra serie 3. Samlepins kan vises frem på profilen.",
         "type": "Pins",
         "first_sale_date": "2018/03/01",
@@ -330,12 +327,11 @@
             }
         ],
         "contains_rare": [],
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_pins_series_3.2c42778f1c923b58c5c96012846fbeca39a29625.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_3_png.png"
     },
     {
         "id": "crate-4693",
         "name": "Samlepinskapsel – Half-Life: Alyx",
-        "name_original": "crate_pins_hlalyx",
         "description": "Denne kapselen inneholder én samlepins som feirer Half-Life: Alyx, Valves VR-tilbakekomst til Half-Life-serien. Samlepins kan vises frem på Counter-Strike-profilen.",
         "type": "Pins",
         "first_sale_date": "2020/03/23",
@@ -450,6 +446,6 @@
             }
         ],
         "contains_rare": [],
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_pins_hlalyx.eb16a18634b793404efe1002106906ac64e1c3f2.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_hlalyx_png.png"
     }
 ]
