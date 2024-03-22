@@ -2,6 +2,7 @@
     {
         "id": "collectible-874",
         "name": "Monedă de veteran - 5 ani",
+        "name_original": "CollectibleCoin_FiveYearService",
         "description": "Membru al comunității Counter-Strike de mai bine de 5 ani.",
         "rarity": {
             "id": "rarity_ancient",
@@ -14,6 +15,7 @@
     {
         "id": "collectible-969",
         "name": "Monedă de veteran - 10 ani",
+        "name_original": "CollectibleCoin_TenYearService",
         "description": "Membru al comunității Counter-Strike de mai bine de 10 ani.",
         "rarity": {
             "id": "rarity_ancient",
@@ -26,6 +28,7 @@
     {
         "id": "collectible-970",
         "name": "Insignă de loialitate",
+        "name_original": "CollectibleCoin_FortiusQuoFidelius",
         "description": "Această insignă comemorează apartenența loială la comunitatea Counter-Strike înainte de actualizarea Danger Zone.\\n\\n<i>Forță prin loialitate.</i>",
         "rarity": {
             "id": "rarity_ancient",
@@ -38,6 +41,7 @@
     {
         "id": "collectible-987",
         "name": "Monedă aniversară – 10 ani",
+        "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
         "description": "A sărbătorit alături de comunitatea CS:GO cea de-a 10 aniversare a jocului.\\n\\n<i>O sărbătorire a celor zece ani de la existența comunității care au fost plini de situații critice și focuri de armă asupra capetelor. La mulți ani, CS:GO!</i>",
         "rarity": {
             "id": "rarity_ancient",
@@ -50,6 +54,7 @@
     {
         "id": "collectible-996",
         "name": "Insignă Global Offensive",
+        "name_original": "CollectibleCoin_CoinCsgo",
         "description": "Această insignă comemorează apartenența loială la comunitatea Counter-Strike: Global Offensive înainte de lansarea jocului Counter-Strike 2.\\n\\n<i>Legendele nu mor niciodată.</i>",
         "rarity": {
             "id": "rarity_ancient",

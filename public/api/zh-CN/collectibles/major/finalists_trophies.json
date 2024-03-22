@@ -2,6 +2,7 @@
     {
         "id": "collectible-875",
         "name": "2013年 DreamHack 锦标赛冠军",
+        "name_original": "CollectibleCoin_DH2013_Champion",
         "description": "这块锦标赛奖牌授予 2013年 DreamHack 赛睿CS:GO锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -14,6 +15,7 @@
     {
         "id": "collectible-876",
         "name": "2013年 DreamHack 锦标赛决赛选手",
+        "name_original": "CollectibleCoin_DH2013_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2013年 DreamHack 赛睿CS:GO锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -26,6 +28,7 @@
     {
         "id": "collectible-877",
         "name": "2013年 DreamHack 锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_DH2013_SemiFinalist",
         "description": "这块锦标赛奖牌授予晋级到2013年 DreamHack 赛睿CS:GO锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -38,6 +41,7 @@
     {
         "id": "collectible-878",
         "name": "2013年 DreamHack 锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_DH2013_QuarterFinalist",
         "description": "这块锦标赛奖牌授予晋级到2013年 DreamHack 赛睿CS:GO锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -50,6 +54,7 @@
     {
         "id": "collectible-879",
         "name": "2014年 EMS One 卡托维兹锦标赛冠军",
+        "name_original": "CollectibleCoin_Kat2014_Champion",
         "description": "这块锦标赛奖牌授予 2014年 EMS One 卡托维兹CS:GO锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -62,6 +67,7 @@
     {
         "id": "collectible-880",
         "name": "2014年 EMS One 卡托维兹锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Kat2014_Finalist",
         "description": "这块锦标赛奖牌授予晋级到 2014年 EMS One 卡托维兹CS:GO锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -74,6 +80,7 @@
     {
         "id": "collectible-881",
         "name": "2014年 EMS One 卡托维兹锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Kat2014_SemiFinalist",
         "description": "这块锦标赛奖牌授予晋级到 2014年 EMS One 卡托维兹CS:GO锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -86,6 +93,7 @@
     {
         "id": "collectible-882",
         "name": "2014年 EMS One 卡托维兹锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Kat2014_QuarterFinalist",
         "description": "这块锦标赛奖牌授予晋级到 2014年 EMS One 卡托维兹CS:GO锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -98,6 +106,7 @@
     {
         "id": "collectible-883",
         "name": "2014年 ESL One 科隆锦标赛冠军",
+        "name_original": "CollectibleCoin_Cologne2014_Champion",
         "description": "这块锦标赛奖牌授予2014年 ESL One 科隆锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -110,6 +119,7 @@
     {
         "id": "collectible-884",
         "name": "2014年 ESL One 科隆锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Cologne2014_Finalist",
         "description": "这块锦标赛奖牌授予2014年 ESL One 科隆锦标赛决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -122,6 +132,7 @@
     {
         "id": "collectible-885",
         "name": "2014年 ESL One 科隆锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Cologne2014_SemiFinalist",
         "description": "这块锦标赛奖牌授予2014年 ESL One 科隆锦标赛半决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -134,6 +145,7 @@
     {
         "id": "collectible-886",
         "name": "2014年 ESL One 科隆锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Cologne2014_QuarterFinalist",
         "description": "这块锦标赛奖牌授予2014年 ESL One 科隆锦标赛四分之一决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -146,6 +158,7 @@
     {
         "id": "collectible-890",
         "name": "2014年 DreamHack 冬季锦标赛冠军",
+        "name_original": "CollectibleCoin_DHW2014_Champion",
         "description": "这块锦标赛奖牌授予2014年 DreamHack CS:GO 冬季锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -158,6 +171,7 @@
     {
         "id": "collectible-891",
         "name": "2014年 DreamHack 冬季锦标赛决赛选手",
+        "name_original": "CollectibleCoin_DHW2014_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2014年 DreamHack CS:GO 冬季锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -170,6 +184,7 @@
     {
         "id": "collectible-892",
         "name": "2014年 DreamHack 冬季锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_DHW2014_SemiFinalist",
         "description": "这块锦标赛奖牌授予晋级到2014年 DreamHack CS:GO 冬季锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -182,6 +197,7 @@
     {
         "id": "collectible-893",
         "name": "2014年 DreamHack 冬季锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_DHW2014_QuarterFinalist",
         "description": "这块锦标赛奖牌授予晋级到2014年 DreamHack CS:GO冬季锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -194,6 +210,7 @@
     {
         "id": "collectible-897",
         "name": "2015年 ESL One 卡托维兹锦标赛冠军",
+        "name_original": "CollectibleCoin_Kat2015_Champion",
         "description": "这块锦标赛奖牌授予2015年 ESL One 卡托维兹CS:GO锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -206,6 +223,7 @@
     {
         "id": "collectible-898",
         "name": "2015年 ESL One 卡托维兹锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Kat2015_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 卡托维兹CS:GO锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -218,6 +236,7 @@
     {
         "id": "collectible-899",
         "name": "2015年 ESL One 卡托维兹锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Kat2015_SemiFinalist",
         "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 卡托维兹CS:GO锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -230,6 +249,7 @@
     {
         "id": "collectible-900",
         "name": "2015年 ESL One 卡托维兹锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Kat2015_QuarterFinalist",
         "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 卡托维兹CS:GO锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -242,6 +262,7 @@
     {
         "id": "collectible-904",
         "name": "2015年 ESL One 科隆锦标赛冠军",
+        "name_original": "CollectibleCoin_Cologne2015_Champion",
         "description": "这块锦标赛奖牌授予2015年 ESL One 科隆CS:GO锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -254,6 +275,7 @@
     {
         "id": "collectible-905",
         "name": "2015年 ESL One 科隆锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Cologne2015_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 科隆CS:GO锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -266,6 +288,7 @@
     {
         "id": "collectible-906",
         "name": "2015年 ESL One 科隆锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Cologne2015_SemiFinalist",
         "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 科隆CS:GO锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -278,6 +301,7 @@
     {
         "id": "collectible-907",
         "name": "2015年 ESL One 科隆锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Cologne2015_QuarterFinalist",
         "description": "这块锦标赛奖牌授予晋级到2015年 ESL One 科隆CS:GO锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -290,6 +314,7 @@
     {
         "id": "collectible-917",
         "name": "2015年 DreamHack 克卢日-纳波卡锦标赛冠军",
+        "name_original": "CollectibleCoin_Cluj2015_Champion",
         "description": "这块锦标赛奖牌授予2015年 DreamHack 克卢日-纳波卡CS:GO锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -302,6 +327,7 @@
     {
         "id": "collectible-918",
         "name": "2015年 DreamHack 克卢日-纳波卡锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Cluj2015_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2015年 DreamHack 克卢日-纳波卡CS:GO锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -314,6 +340,7 @@
     {
         "id": "collectible-919",
         "name": "2015年 DreamHack 克卢日-纳波卡锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Cluj2015_Semifinalist",
         "description": "这块锦标赛奖牌授予晋级到2015年 DreamHack 克卢日-纳波卡CS:GO锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -326,6 +353,7 @@
     {
         "id": "collectible-920",
         "name": "2015年 DreamHack 克卢日-纳波卡锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Cluj2015_Quarterfinalist",
         "description": "这块锦标赛奖牌授予晋级到2015年 DreamHack 克卢日-纳波卡CS:GO锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -338,6 +366,7 @@
     {
         "id": "collectible-927",
         "name": "2016年 MLG 哥伦布锦标赛冠军",
+        "name_original": "CollectibleCoin_Columbus2016_Champion",
         "description": "这块锦标赛奖牌授予2016年 MLG 哥伦布CS:GO锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -350,6 +379,7 @@
     {
         "id": "collectible-928",
         "name": "2016年 MLG 哥伦布锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Columbus2016_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2016年 MLGCS:GO哥伦布锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -362,6 +392,7 @@
     {
         "id": "collectible-929",
         "name": "2016年 MLG 哥伦布锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Columbus2016_Semifinalist",
         "description": "这块锦标赛奖牌授予晋级到2016年 MLG 哥伦布CS:GO锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -374,6 +405,7 @@
     {
         "id": "collectible-930",
         "name": "2016年 MLG 哥伦布锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Columbus2016_Quarterfinalist",
         "description": "这块锦标赛奖牌授予晋级到2016年 MLG 哥伦布CS:GO锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -386,6 +418,7 @@
     {
         "id": "collectible-931",
         "name": "2016年 ESL One 科隆锦标赛冠军",
+        "name_original": "CollectibleCoin_Cologne2016_Champion",
         "description": "这块锦标赛奖牌授予2016年 ESL One 科隆锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -398,6 +431,7 @@
     {
         "id": "collectible-932",
         "name": "2016年 ESL One 科隆锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Cologne2016_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2016年 ESL One 科隆CS:GO锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -410,6 +444,7 @@
     {
         "id": "collectible-933",
         "name": "2016年 ESL One 科隆锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Cologne2016_Semifinalist",
         "description": "这块锦标赛奖牌授予晋级到2016年 ESL One 科隆CS:GO锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -422,6 +457,7 @@
     {
         "id": "collectible-934",
         "name": "2016年 ESL One 科隆锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Cologne2016_Quarterfinalist",
         "description": "这块锦标赛奖牌授予晋级到2016年 ESL One 科隆CS:GO锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -434,6 +470,7 @@
     {
         "id": "collectible-941",
         "name": "2017年 ELEAGUE 亚特兰大锦标赛冠军",
+        "name_original": "CollectibleCoin_Atlanta2017_Champion",
         "description": "这块锦标赛奖牌授予 2017年 ELEAGUE 亚特兰大CS:GO锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -446,6 +483,7 @@
     {
         "id": "collectible-942",
         "name": "2017年 ELEAGUE 亚特兰大锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Atlanta2017_Finalist",
         "description": "这块锦标赛奖牌授予2017年 ELEAGUE 亚特兰大CS:GO锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -458,6 +496,7 @@
     {
         "id": "collectible-943",
         "name": "2017年 ELEAGUE 亚特兰大锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Atlanta2017_Semifinalist",
         "description": "这块锦标赛奖牌授予晋级到2017年 ELEAGUE 亚特兰大CS:GO锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -470,6 +509,7 @@
     {
         "id": "collectible-944",
         "name": "2017年 ELEAGUE 亚特兰大锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Atlanta2017_Quarterfinalist",
         "description": "这块锦标赛奖牌授予晋级到2017年 ELEAGUE 亚特兰大CS:GO锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -482,6 +522,7 @@
     {
         "id": "collectible-948",
         "name": "2017年 PGL 克拉科夫锦标赛冠军",
+        "name_original": "CollectibleCoin_Krakow2017_Champion",
         "description": "这块锦标赛奖牌授予2017年 PGL 克拉科夫 CS:GO 锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -494,6 +535,7 @@
     {
         "id": "collectible-949",
         "name": "2017年 PGL 克拉科夫锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Krakow2017_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2017年 PGL 克拉科夫 CS:GO 锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -506,6 +548,7 @@
     {
         "id": "collectible-950",
         "name": "2017年 PGL 克拉科夫锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Krakow2017_Semifinalist",
         "description": "这块锦标赛奖牌授予晋级到2017年 PGL 克拉科夫 CS:GO 锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -518,6 +561,7 @@
     {
         "id": "collectible-951",
         "name": "2017年 PGL 克拉科夫锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Krakow2017_Quarterfinalist",
         "description": "这块锦标赛奖牌授予晋级到2017年 PGL 克拉科夫 CS:GO 锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -530,6 +574,7 @@
     {
         "id": "collectible-955",
         "name": "2018年 ELEAGUE 波士顿锦标赛冠军",
+        "name_original": "CollectibleCoin_Boston2018_Champion",
         "description": "这块锦标赛奖牌授予2018年 ELEAGUE 波士顿 CS:GO 锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -542,6 +587,7 @@
     {
         "id": "collectible-956",
         "name": "2018年 ELEAGUE 波士顿锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Boston2018_Finalist",
         "description": "这块锦标赛奖牌授予2018年 ELEAGUE 波士顿 CS:GO 锦标赛决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -554,6 +600,7 @@
     {
         "id": "collectible-957",
         "name": "2018年 ELEAGUE 波士顿锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Boston2018_Semifinalist",
         "description": "这块锦标赛奖牌授予2018年 ELEAGUE 波士顿 CS:GO 锦标赛半决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -566,6 +613,7 @@
     {
         "id": "collectible-958",
         "name": "2018年 ELEAGUE 波士顿锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Boston2018_Quarterfinalist",
         "description": "这块锦标赛奖牌授予2018年 ELEAGUE 波士顿 CS:GO 锦标赛四分之一决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -578,6 +626,7 @@
     {
         "id": "collectible-962",
         "name": "2018年 FACEIT 伦敦锦标赛冠军",
+        "name_original": "CollectibleCoin_London2018_Champion",
         "description": "这块锦标赛奖牌授予2018年 FACEIT 伦敦锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -590,6 +639,7 @@
     {
         "id": "collectible-963",
         "name": "2018年 FACEIT 伦敦锦标赛决赛选手",
+        "name_original": "CollectibleCoin_London2018_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2018年 FACEIT 伦敦锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -602,6 +652,7 @@
     {
         "id": "collectible-964",
         "name": "2018年 FACEIT 伦敦锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_London2018_Semifinalist",
         "description": "这块锦标赛奖牌授予晋级到2018年 FACEIT 伦敦锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -614,6 +665,7 @@
     {
         "id": "collectible-965",
         "name": "2018年 FACEIT 伦敦锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_London2018_Quarterfinalist",
         "description": "这块锦标赛奖牌授予晋级到2018年 FACEIT 伦敦锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -626,6 +678,7 @@
     {
         "id": "collectible-971",
         "name": "IEM 卡托维兹 2019 冠军",
+        "name_original": "CollectibleCoin_Katowice2019_Champion",
         "description": "这块锦标赛奖牌授予 2019 年 IEM 卡托维兹 CS:GO 锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -638,6 +691,7 @@
     {
         "id": "collectible-972",
         "name": "IEM 卡托维兹 2019 决赛选手",
+        "name_original": "CollectibleCoin_Katowice2019_Finalist",
         "description": "这块锦标赛奖牌授予 2019 年 IEM 卡托维兹 CS:GO 锦标赛决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -650,6 +704,7 @@
     {
         "id": "collectible-973",
         "name": "IEM 卡托维兹 2019 半决赛选手",
+        "name_original": "CollectibleCoin_Katowice2019_Semifinalist",
         "description": "这块锦标赛奖牌授予 2019 年 IEM 卡托维兹 CS:GO 锦标赛半决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -662,6 +717,7 @@
     {
         "id": "collectible-974",
         "name": "IEM 卡托维兹 2019 四分之一决赛选手",
+        "name_original": "CollectibleCoin_Katowice2019_Quarterfinalist",
         "description": "这块锦标赛奖牌授予 2019 年 IEM 卡托维兹 CS:GO 锦标赛四分之一决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -674,6 +730,7 @@
     {
         "id": "collectible-975",
         "name": "2019年 StarLadder 柏林锦标赛冠军",
+        "name_original": "CollectibleCoin_Berlin2019_Champion",
         "description": "这块锦标赛奖牌授予 2019 年 StarLadder 柏林 CS:GO 锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -686,6 +743,7 @@
     {
         "id": "collectible-976",
         "name": "2019年 StarLadder 柏林锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Berlin2019_Finalist",
         "description": "这块锦标赛奖牌授予晋级到 2019 年 StarLadder 柏林 CS:GO 锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -698,6 +756,7 @@
     {
         "id": "collectible-977",
         "name": "2019年 StarLadder 柏林锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Berlin2019_Semifinalist",
         "description": "这块锦标赛奖牌授予晋级到 2019 年 StarLadder 柏林 CS:GO 锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -710,6 +769,7 @@
     {
         "id": "collectible-978",
         "name": "2019年 StarLadder 柏林锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Berlin2019_Quarterfinalist",
         "description": "这块锦标赛奖牌授予晋级到 2019 年 StarLadder 柏林 CS:GO 锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -722,6 +782,7 @@
     {
         "id": "collectible-979",
         "name": "2021年 PGL 斯德哥尔摩锦标赛冠军",
+        "name_original": "CollectibleCoin_Stockh2021_Champion",
         "description": "这块锦标赛奖牌授予2021年 PGL 斯德哥尔摩 CS:GO 锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -734,6 +795,7 @@
     {
         "id": "collectible-980",
         "name": "2021年 PGL 斯德哥尔摩锦标赛冠军赛选手",
+        "name_original": "CollectibleCoin_Stockh2021_Finalist",
         "description": "这块锦标赛奖牌授予晋级2021年 PGL 斯德哥尔摩 CS:GO 锦标赛冠军赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -746,6 +808,7 @@
     {
         "id": "collectible-981",
         "name": "2021年 PGL 斯德哥尔摩锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Stockh2021_Semifinalist",
         "description": "这块锦标赛奖牌授予晋级2021年 PGL 斯德哥尔摩 CS:GO 锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -758,6 +821,7 @@
     {
         "id": "collectible-982",
         "name": "2021年 PGL 斯德哥尔摩锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Stockh2021_Quarterfinalist",
         "description": "这块锦标赛奖牌授予晋级2021年 PGL 斯德哥尔摩 CS:GO 锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -770,6 +834,7 @@
     {
         "id": "collectible-983",
         "name": "2022年 PGL 安特卫普锦标赛冠军",
+        "name_original": "CollectibleCoin_Antwerp2022_Champion",
         "description": "这块锦标赛奖牌授予2022年 PGL 安特卫普 CS:GO 锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -782,6 +847,7 @@
     {
         "id": "collectible-984",
         "name": "2022年 PGL 安特卫普锦标赛冠军赛选手",
+        "name_original": "CollectibleCoin_Antwerp2022_Finalist",
         "description": "这块锦标赛奖牌授予2022年 PGL 安特卫普 CS:GO 锦标赛冠军赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -794,6 +860,7 @@
     {
         "id": "collectible-985",
         "name": "2022年 PGL 安特卫普锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Antwerp2022_Semifinalist",
         "description": "这块锦标赛奖牌授予2022年 PGL 安特卫普 CS:GO 锦标赛半决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -806,6 +873,7 @@
     {
         "id": "collectible-986",
         "name": "2022年 PGL 安特卫普锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Antwerp2022_Quarterfinalist",
         "description": "这块锦标赛奖牌授予2022年 PGL 安特卫普 CS:GO 锦标赛四分之一决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -818,6 +886,7 @@
     {
         "id": "collectible-988",
         "name": "2022年 IEM 里约热内卢锦标赛冠军",
+        "name_original": "CollectibleCoin_Rio2022_Champion",
         "description": "这块锦标赛奖牌授予2022年 IEM 里约热内卢 CS:GO 锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -830,6 +899,7 @@
     {
         "id": "collectible-989",
         "name": "2022年 IEM 里约热内卢锦标赛决赛选手",
+        "name_original": "CollectibleCoin_Rio2022_Finalist",
         "description": "这块锦标赛奖牌授予2022年 IEM 里约热内卢 CS:GO 锦标赛冠军赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -842,6 +912,7 @@
     {
         "id": "collectible-990",
         "name": "2022年 IEM 里约热内卢锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Rio2022_Semifinalist",
         "description": "这块锦标赛奖牌授予2022年 IEM 里约热内卢 CS:GO 锦标赛半决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -854,6 +925,7 @@
     {
         "id": "collectible-991",
         "name": "2022年 IEM 里约热内卢锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Rio2022_Quarterfinalist",
         "description": "这块锦标赛奖牌授予2022年 IEM 里约热内卢 CS:GO 锦标赛四分之一决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -866,6 +938,7 @@
     {
         "id": "collectible-992",
         "name": "2023年 BLAST.tv 巴黎锦标赛冠军",
+        "name_original": "CollectibleCoin_Paris2023_Champion",
         "description": "这块锦标赛奖牌授予2023年 BLAST.tv 巴黎 CS:GO 锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -878,6 +951,7 @@
     {
         "id": "collectible-993",
         "name": "2023年 BLAST.tv 巴黎锦标赛冠军赛选手",
+        "name_original": "CollectibleCoin_Paris2023_Finalist",
         "description": "这块锦标赛奖牌授予2023年 BLAST.tv 巴黎 CS:GO 锦标赛冠军赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -890,6 +964,7 @@
     {
         "id": "collectible-994",
         "name": "2023年 BLAST.tv 巴黎锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_Paris2023_Semifinalist",
         "description": "这块锦标赛奖牌授予2023年 BLAST.tv 巴黎 CS:GO 锦标赛半决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -902,6 +977,7 @@
     {
         "id": "collectible-995",
         "name": "2023年 BLAST.tv 巴黎锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_Paris2023_Quarterfinalist",
         "description": "这块锦标赛奖牌授予2023年 BLAST.tv 巴黎 CS:GO 锦标赛四分之一决赛选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -914,6 +990,7 @@
     {
         "id": "collectible-4933",
         "name": "2024年 PGL 哥本哈根锦标赛冠军",
+        "name_original": "CollectibleCoin_cph2024_Champion",
         "description": "这块锦标赛奖牌授予2024年 PGL 哥本哈根 CS 锦标赛冠军。",
         "rarity": {
             "id": "rarity_ancient",
@@ -926,6 +1003,7 @@
     {
         "id": "collectible-4934",
         "name": "2024年 PGL 哥本哈根锦标赛决赛选手",
+        "name_original": "CollectibleCoin_cph2024_Finalist",
         "description": "这块锦标赛奖牌授予晋级到2024年 PGL 哥本哈根 CS 锦标赛决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -938,6 +1016,7 @@
     {
         "id": "collectible-4935",
         "name": "2024年 PGL 哥本哈根锦标赛半决赛选手",
+        "name_original": "CollectibleCoin_cph2024_Semifinalist",
         "description": "这块锦标赛奖牌授予晋级到2024年 PGL 哥本哈根 CS 锦标赛半决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",
@@ -950,6 +1029,7 @@
     {
         "id": "collectible-4936",
         "name": "2024年 PGL 哥本哈根锦标赛四分之一决赛选手",
+        "name_original": "CollectibleCoin_cph2024_Quarterfinalist",
         "description": "这块锦标赛奖牌授予晋级到2024年 PGL 哥本哈根 CS 锦标赛四分之一决赛的选手。",
         "rarity": {
             "id": "rarity_ancient",

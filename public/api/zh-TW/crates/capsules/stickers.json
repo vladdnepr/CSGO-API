@@ -2,6 +2,7 @@
     {
         "id": "crate-4007",
         "name": "貼紙轉蛋",
+        "name_original": "crate_sticker_pack01",
         "description": null,
         "type": "Sticker Capsule",
         "first_sale_date": "2014/01/29",
@@ -163,6 +164,7 @@
     {
         "id": "crate-4012",
         "name": "貼紙轉蛋 2",
+        "name_original": "crate_sticker_pack02",
         "description": null,
         "type": "Sticker Capsule",
         "first_sale_date": "2014/01/29",
@@ -334,6 +336,7 @@
     {
         "id": "crate-4014",
         "name": "EMS Katowice 2014 挑戰者",
+        "name_original": "crate_sticker_pack_kat2014_01",
         "description": "此轉蛋內含有一項 EMS One Katowice 2014 的參加者貼紙。收益的一部分將平均地分享給參予其中的各個機構或團體。",
         "type": "Sticker Capsule",
         "first_sale_date": "2014/03/02",
@@ -515,6 +518,7 @@
     {
         "id": "crate-4015",
         "name": "EMS Katowice 2014 傳奇",
+        "name_original": "crate_sticker_pack_kat2014_02",
         "description": "此轉蛋內含有一項 EMS One Katowice 2014 的參加者貼紙。收益的一部分將平均地分享給參予其中的各個機構或團體。",
         "type": "Sticker Capsule",
         "first_sale_date": "2014/03/02",
@@ -696,6 +700,7 @@
     {
         "id": "crate-4016",
         "name": "社群貼紙轉蛋 1",
+        "name_original": "crate_sticker_pack_community01",
         "description": "此轉蛋內含有一項由社群所設計出的貼紙。收益的一部分將分享給有參予製作的作者們。",
         "type": "Sticker Capsule",
         "first_sale_date": "2014/06/11",
@@ -877,6 +882,7 @@
     {
         "id": "crate-4020",
         "name": "ESL Cologne 2014 傳奇",
+        "name_original": "crate_sticker_pack_cologne2014_01",
         "description": "此轉蛋內含有一項 ESL One Cologne 2014 的參加者貼紙。收益的一部分將平均地分享給參予其中的各個機構或團體。",
         "type": "Sticker Capsule",
         "first_sale_date": "2014/08/01",
@@ -1038,6 +1044,7 @@
     {
         "id": "crate-4021",
         "name": "ESL One Cologne 2014 挑戰者",
+        "name_original": "crate_sticker_pack_cologne2014_02",
         "description": "此轉蛋內含有一項 ESL One Cologne 2014 的參加者貼紙。收益的一部分將平均地分享給參予其中的各個機構或團體。",
         "type": "Sticker Capsule",
         "first_sale_date": "2014/08/01",
@@ -1239,6 +1246,7 @@
     {
         "id": "crate-4030",
         "name": "DreamHack 2014 傳奇（彩光/閃亮）",
+        "name_original": "crate_sticker_pack_dhw2014_01",
         "description": "此轉蛋內含有一項 DreamHack 2014 的參加者閃亮或彩光貼紙。收益的一部分將平均地分享給參予其中的各個機構或團體。",
         "type": "Sticker Capsule",
         "first_sale_date": "2014/11/20",
@@ -1380,6 +1388,7 @@
     {
         "id": "crate-4086",
         "name": "ESL One Katowice 2015 傳奇（彩光/閃亮）",
+        "name_original": "crate_sticker_pack_eslkatowice2015_01",
         "description": "此轉蛋內含有一張 ESL One Katowice 2015 參賽隊伍的閃亮或彩光貼紙。收益的一部分將平均地分享給參予其中的各個機構或團體。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/02/26",
@@ -1561,6 +1570,7 @@
     {
         "id": "crate-4087",
         "name": "ESL One Katowice 2015 挑戰者（彩光/閃亮）",
+        "name_original": "crate_sticker_pack_eslkatowice2015_02",
         "description": "此轉蛋內含有一張 ESL One Katowice 2015 參賽者閃亮或彩光貼紙。收益的一部分將平均地分享給參予其中的各個機構或團體。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/02/26",
@@ -1742,6 +1752,7 @@
     {
         "id": "crate-4090",
         "name": "Enfu 貼紙膠囊",
+        "name_original": "crate_sticker_pack_enfu_capsule",
         "description": "這顆轉蛋包含了一張由社群藝術家 ENFU 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/04/22",
@@ -1903,6 +1914,7 @@
     {
         "id": "crate-4109",
         "name": "ESL One Cologne 2015 傳奇（閃亮）",
+        "name_original": "crate_sticker_pack_eslcologne2015_legends",
         "description": "這顆轉蛋包含了一張 ESL One Cologne 2015 參賽隊伍的閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/8/10",
@@ -2004,6 +2016,7 @@
     {
         "id": "crate-4110",
         "name": "ESL One Cologne 2015 挑戰者（閃亮）",
+        "name_original": "crate_sticker_pack_eslcologne2015_challengers",
         "description": "這顆轉蛋包含了一張 ESL One Cologne 2015 參賽隊伍的閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/8/10",
@@ -2105,6 +2118,7 @@
     {
         "id": "crate-4156",
         "name": "DreamHack Cluj-Napoca 2015 傳奇（閃亮）",
+        "name_original": "crate_sticker_pack_cluj2015_legends",
         "description": "這顆轉蛋包含了一張 DreamHack Cluj-Napoca 2015 參賽隊伍的閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/10/20",
@@ -2206,6 +2220,7 @@
     {
         "id": "crate-4157",
         "name": "DreamHack Cluj-Napoca 2015 挑戰者（閃亮）",
+        "name_original": "crate_sticker_pack_cluj2015_challengers",
         "description": "這顆轉蛋包含了一張 DreamHack Cluj-Napoca 2015 參賽隊伍的閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/10/20",
@@ -2307,6 +2322,7 @@
     {
         "id": "crate-4183",
         "name": "封面女郎轉蛋",
+        "name_original": "crate_sticker_pack_pinups_capsule",
         "description": "這顆轉蛋包含了一張由社群藝術家 ninjasia 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/12/01",
@@ -2438,6 +2454,7 @@
     {
         "id": "crate-4184",
         "name": "Slid3 轉蛋",
+        "name_original": "crate_sticker_pack_slid3_capsule",
         "description": "這顆轉蛋包含了一張由社群藝術家 Slid3 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/12/01",
@@ -2599,6 +2616,7 @@
     {
         "id": "crate-4185",
         "name": "團隊角色轉蛋",
+        "name_original": "crate_sticker_pack_team_roles_capsule",
         "description": "這顆轉蛋包含了一張由社群藝術家 ThePolymath 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2015/12/01",
@@ -2720,6 +2738,7 @@
     {
         "id": "crate-4205",
         "name": "MLG Columbus 2016 傳奇（彩光/閃亮）",
+        "name_original": "crate_sticker_pack_columbus2016_legends",
         "description": "這顆轉蛋包含了一張 MLG Columbus 2016 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2016-03-10",
@@ -2911,6 +2930,7 @@
     {
         "id": "crate-4206",
         "name": "MLG Columbus 2016 挑戰者（彩光/閃亮）",
+        "name_original": "crate_sticker_pack_columbus2016_challengers",
         "description": "這顆轉蛋包含了一張 MLG Columbus 2016 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2016-03-10",
@@ -3102,6 +3122,7 @@
     {
         "id": "crate-4254",
         "name": "Cologne 2016 傳奇（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_cologne2016_legends",
         "description": "這顆轉蛋包含了一張 Cologne 2016 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2016-06-24",
@@ -3293,6 +3314,7 @@
     {
         "id": "crate-4255",
         "name": "Cologne 2016 挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_cologne2016_challengers",
         "description": "這顆轉蛋包含了一張 Cologne 2016 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2016-06-24",
@@ -3484,6 +3506,7 @@
     {
         "id": "crate-4282",
         "name": "Sugarface 轉蛋",
+        "name_original": "crate_sticker_pack_sugarface_capsule",
         "description": "這顆轉蛋包含了一張由社群藝術家 Guardian Gear 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2016/08/16",
@@ -3635,6 +3658,7 @@
     {
         "id": "crate-4283",
         "name": "珍獸扭蛋",
+        "name_original": "crate_sticker_pack_bestiary_capsule",
         "description": "這顆轉蛋包含了一張由社群藝術家 apёl7 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2016/08/16",
@@ -3786,6 +3810,7 @@
     {
         "id": "crate-4323",
         "name": "Atlanta 2017 傳奇（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_atlanta2017_legends",
         "description": "這顆轉蛋包含了一張 Atlanta 2017 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017-01-10",
@@ -3977,6 +4002,7 @@
     {
         "id": "crate-4324",
         "name": "Atlanta 2017 挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_atlanta2017_challengers",
         "description": "這顆轉蛋包含了一張 Atlanta 2017 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017-01-10",
@@ -4168,6 +4194,7 @@
     {
         "id": "crate-4391",
         "name": "Krakow 2017 傳奇（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_krakow2017_legends",
         "description": "這顆轉蛋包含了一張 Krakow 2017 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017-07-05",
@@ -4359,6 +4386,7 @@
     {
         "id": "crate-4392",
         "name": "Krakow 2017 挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_krakow2017_challengers",
         "description": "這顆轉蛋包含了一張 Krakow 2017 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017-07-05",
@@ -4550,6 +4578,7 @@
     {
         "id": "crate-4404",
         "name": "完美世界貼紙轉蛋 1",
+        "name_original": "crate_sticker_pack_illuminate_capsule_01",
         "description": "這顆轉蛋內含一張完美世界製作的貼紙，以紀念《絕對武力：全球攻勢》在中國正式推出。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017/09/15",
@@ -4711,6 +4740,7 @@
     {
         "id": "crate-4405",
         "name": "完美世界貼紙轉蛋 2",
+        "name_original": "crate_sticker_pack_illuminate_capsule_02",
         "description": "這顆轉蛋內含一張完美世界製作的貼紙，以紀念《絕對武力：全球攻勢》在中國正式推出。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017/09/15",
@@ -4872,6 +4902,7 @@
     {
         "id": "crate-4456",
         "name": "Boston 2018 傳奇（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_boston2018_legends",
         "description": "這顆轉蛋包含了一張 Boston 2018 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017-12-18",
@@ -5063,6 +5094,7 @@
     {
         "id": "crate-4457",
         "name": "Boston 2018 回歸挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_boston2018_challengers",
         "description": "這顆轉蛋包含了一張 Boston 2018 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017-12-18",
@@ -5254,6 +5286,7 @@
     {
         "id": "crate-4458",
         "name": "Boston 2018 次級挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_boston2018_contenders",
         "description": "這顆轉蛋包含了一張 Boston 2018 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017-12-18",
@@ -5451,6 +5484,7 @@
     {
         "id": "crate-4470",
         "name": "社群轉蛋 2018",
+        "name_original": "crate_sticker_pack_comm2018_01_capsule",
         "description": "這顆轉蛋包含了一張由社群工作坊所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017/12/11",
@@ -5602,6 +5636,7 @@
     {
         "id": "crate-4474",
         "name": "Boston 2018 次級挑戰者（含 Flash Gaming）（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_boston2018_contenders_flg",
         "description": "這顆轉蛋包含了一張 Boston 2018 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017-12-18",
@@ -5793,6 +5828,7 @@
     {
         "id": "crate-4477",
         "name": "小雞轉蛋",
+        "name_original": "crate_sticker_pack_chicken_capsule",
         "description": "這顆轉蛋包含了一張由社群藝術家 Slid3 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019/06/10",
@@ -5974,6 +6010,7 @@
     {
         "id": "crate-4478",
         "name": "Boston 2018 參賽傳奇（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_boston2018_legends_ntv",
         "description": "這顆轉蛋包含了一張 Boston 2018 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2017-12-18",
@@ -6145,6 +6182,7 @@
     {
         "id": "crate-4533",
         "name": "London 2018 傳奇（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_london2018_legends",
         "description": "這顆轉蛋包含了一張 London 2018 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2018-09-04",
@@ -6336,6 +6374,7 @@
     {
         "id": "crate-4534",
         "name": "London 2018 回歸挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_london2018_challengers",
         "description": "這顆轉蛋包含了一張 London 2018 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2018-09-04",
@@ -6527,6 +6566,7 @@
     {
         "id": "crate-4535",
         "name": "London 2018 Minor 次級挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_london2018_contenders",
         "description": "這顆轉蛋包含了一張 London 2018 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2018-09-04",
@@ -6718,6 +6758,7 @@
     {
         "id": "crate-4547",
         "name": "技術組轉蛋",
+        "name_original": "crate_sticker_pack_skillgroup_capsule",
         "description": "這顆轉蛋包含了一張由社群藝術家 daniDem 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2018/11/15",
@@ -6909,6 +6950,7 @@
     {
         "id": "crate-4584",
         "name": "Katowice 2019 傳奇（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_katowice2019_legends",
         "description": "這顆轉蛋包含了一張 Katowice 2019 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019-02-04",
@@ -7100,6 +7142,7 @@
     {
         "id": "crate-4585",
         "name": "Katowice 2019 回歸挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_katowice2019_challengers",
         "description": "這顆轉蛋包含了一張 Katowice 2019 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019-02-04",
@@ -7251,6 +7294,7 @@
     {
         "id": "crate-4586",
         "name": "Katowice 2019 次級挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_katowice2019_contenders",
         "description": "這顆轉蛋包含了一張 Katowice 2019 參賽隊伍的彩光或閃亮貼紙。\\n\\n50% 的轉蛋收益將分給所支持的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019-02-04",
@@ -7482,6 +7526,7 @@
     {
         "id": "crate-4597",
         "name": "《最後一戰》轉蛋",
+        "name_original": "crate_sticker_pack_halo_capsule",
         "description": "這顆轉蛋包含了一張由 343 Industries  所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019/11/25",
@@ -7663,6 +7708,7 @@
     {
         "id": "crate-4599",
         "name": "野性獵獸轉蛋",
+        "name_original": "crate_sticker_pack_feral_predators_capsule",
         "description": "這顆轉蛋包含了一張由社群藝術家 2Minds，OniLolz，和 Zaphk 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019/04/15",
@@ -7854,6 +7900,7 @@
     {
         "id": "crate-4600",
         "name": "《裂網行動》貼紙收藏",
+        "name_original": "crate_sticker_pack_shattered_web",
         "description": "這顆轉蛋包含了一張《裂網行動》紀念貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019/10/1",
@@ -7955,6 +8002,7 @@
     {
         "id": "crate-4616",
         "name": "《戰鎚 40,000》貼紙轉蛋",
+        "name_original": "crate_sticker_pack_warhammer",
         "description": "這顆轉蛋包含了一張來自《戰鎚 40,000》系列的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2020/05/28",
@@ -8136,6 +8184,7 @@
     {
         "id": "crate-4654",
         "name": "Berlin 2019 傳奇（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_berlin2019_legends",
         "description": "這顆轉蛋包含了一張 Berlin 2019 參賽隊伍的彩光或閃亮貼紙。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019-08-08",
@@ -8327,6 +8376,7 @@
     {
         "id": "crate-4655",
         "name": "Berlin 2019 回歸挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_berlin2019_challengers",
         "description": "這顆轉蛋包含了一張 Berlin 2019 參賽隊伍的彩光或閃亮貼紙。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019-08-08",
@@ -8458,6 +8508,7 @@
     {
         "id": "crate-4656",
         "name": "Berlin 2019 次級挑戰者（彩光／閃亮）",
+        "name_original": "crate_sticker_pack_berlin2019_contenders",
         "description": "這顆轉蛋包含了一張 Berlin 2019 參賽隊伍的彩光或閃亮貼紙。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019-08-08",
@@ -8709,6 +8760,7 @@
     {
         "id": "crate-4670",
         "name": "CS20 貼紙轉蛋",
+        "name_original": "crate_sticker_pack_cs20_capsule",
         "description": "為歡慶《絕對武力》20 週年推出的這顆轉蛋內含來自 Steam 社群工作坊的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2019/10/16",
@@ -8920,6 +8972,7 @@
     {
         "id": "crate-4694",
         "name": "《戰慄時空：艾莉克絲》貼紙轉蛋",
+        "name_original": "crate_sticker_pack_hlalyx_capsule",
         "description": "這顆轉蛋包含了一張《戰慄時空：艾莉克絲》紀念貼紙。《戰慄時空：艾莉克絲》是 Valve 回歸《戰慄時空》系列的 VR 作品。",
         "type": "Sticker Capsule",
         "first_sale_date": "2020/03/23",
@@ -9061,6 +9114,7 @@
     {
         "id": "crate-4719",
         "name": "彈道軌跡貼紙收藏",
+        "name_original": "crate_sticker_pack_recoil",
         "description": null,
         "type": "Sticker Capsule",
         "first_sale_date": "2019/10/1",
@@ -9392,6 +9446,7 @@
     {
         "id": "crate-4729",
         "name": "「狂牙行動」貼紙收藏",
+        "name_original": "crate_sticker_pack_broken_fang",
         "description": "這組收藏包含了多種歡慶「狂牙行動」的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2020/11/9",
@@ -9563,6 +9618,7 @@
     {
         "id": "crate-4743",
         "name": "2020 RMR 傳奇",
+        "name_original": "crate_sticker_pack_rmr2020_legends",
         "description": "此轉蛋內含單個 2020 RMR 參賽選手的紙質、彩光、閃亮或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021-01-19",
@@ -9894,6 +9950,7 @@
     {
         "id": "crate-4744",
         "name": "2020 RMR 挑戰者",
+        "name_original": "crate_sticker_pack_rmr2020_challengers",
         "description": "此轉蛋內含單個 2020 RMR 參賽選手的紙質、彩光、閃亮或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021-01-19",
@@ -10225,6 +10282,7 @@
     {
         "id": "crate-4745",
         "name": "2020 RMR 競爭者",
+        "name_original": "crate_sticker_pack_rmr2020_contenders",
         "description": "此轉蛋內含單個 2020 RMR 參賽選手的紙質、彩光、閃亮或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021-01-19",
@@ -10556,6 +10614,7 @@
     {
         "id": "crate-4746",
         "name": "拙劣手繪轉蛋",
+        "name_original": "crate_sticker_pack_poorly_drawn_capsule",
         "description": "這顆轉蛋包含一張來自社群藝術家 HH110011HH 和 Hoxton 的拙劣手繪貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021/02/14",
@@ -10767,6 +10826,7 @@
     {
         "id": "crate-4779",
         "name": "猛潮衝浪店貼紙收藏",
+        "name_original": "crate_sticker_pack_riptide_surfshop",
         "description": null,
         "type": "Sticker Capsule",
         "first_sale_date": "2021/08/01",
@@ -11498,6 +11558,7 @@
     {
         "id": "crate-4782",
         "name": "2021 社群貼紙轉蛋",
+        "name_original": "crate_sticker_pack_community2021_capsule",
         "description": "此轉蛋內含 Steam 工作坊藝術家所創作的各式貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021/09/02",
@@ -11719,6 +11780,7 @@
     {
         "id": "crate-4783",
         "name": "《猛潮行動》貼紙收藏",
+        "name_original": "crate_sticker_pack_op_riptide_capsule",
         "description": "這組收藏包含了多種歡慶《猛潮行動》的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021/09/21",
@@ -11870,6 +11932,7 @@
     {
         "id": "crate-4784",
         "name": "戰情室貼紙轉蛋",
+        "name_original": "crate_sticker_pack_spring2022_capsule",
         "description": "這顆轉蛋包含了一張由 Steam 工作坊藝術家設計的貼紙，並於 2022 年 2 月推出。",
         "type": "Sticker Capsule",
         "first_sale_date": "2022/02/20",
@@ -12101,6 +12164,7 @@
     {
         "id": "crate-4789",
         "name": "《戰地風雲™ 2042》貼紙轉蛋",
+        "name_original": "crate_sticker_pack_bf2042_capsule",
         "description": "這顆轉蛋包含了一張由 Electronic Arts 所設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021/10/07",
@@ -12282,6 +12346,7 @@
     {
         "id": "crate-4803",
         "name": "Stockholm 2021 傳奇貼紙轉蛋",
+        "name_original": "crate_sticker_pack_stockh2021_legends",
         "description": "此轉蛋內含單個 Stockholm 2021 參賽選手的高級、彩光、閃亮或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021-10-10",
@@ -12653,6 +12718,7 @@
     {
         "id": "crate-4804",
         "name": "Stockholm 2021 挑戰者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_stockh2021_challengers",
         "description": "此轉蛋內含單個 Stockholm 2021 參賽選手的高級、彩光、閃亮或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021-10-10",
@@ -13024,6 +13090,7 @@
     {
         "id": "crate-4805",
         "name": "Stockholm 2021 競爭者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_stockh2021_contenders",
         "description": "此轉蛋內含單個 Stockholm 2021 參賽選手的高級、彩光、閃亮或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮除使貼紙看來更殘破一些。您可以刮除同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": "2021-10-10",
@@ -13395,6 +13462,7 @@
     {
         "id": "crate-4832",
         "name": "Antwerp 2022 傳奇貼紙轉蛋",
+        "name_original": "crate_sticker_pack_antwerp2022_legends",
         "description": "此轉蛋內含一枚 Antwerp 2022 傳奇選手的高級、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -13766,6 +13834,7 @@
     {
         "id": "crate-4833",
         "name": "Antwerp 2022 挑戰者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_antwerp2022_challengers",
         "description": "此轉蛋內含一枚 Antwerp 2022 挑戰者選手的高級、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -14137,6 +14206,7 @@
     {
         "id": "crate-4834",
         "name": "Antwerp 2022 競爭者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_antwerp2022_contenders",
         "description": "此轉蛋內含一枚 Antwerp 2022 競爭者選手的高級、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -14508,6 +14578,7 @@
     {
         "id": "crate-4847",
         "name": "10 歲生日貼紙轉蛋",
+        "name_original": "crate_sticker_pack_csgo10_capsule",
         "description": "這顆轉蛋包含了一張由 Steam 工作坊藝術家為慶祝 CS:GO 10 歲生日而設計的貼紙。",
         "type": "Sticker Capsule",
         "first_sale_date": "2022/06/15",
@@ -15169,6 +15240,7 @@
     {
         "id": "crate-4857",
         "name": "Rio 2022 傳奇貼紙轉蛋",
+        "name_original": "crate_sticker_pack_rio2022_legends",
         "description": "此轉蛋內含一枚 Rio 2022 傳奇選手的紙質、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -15540,6 +15612,7 @@
     {
         "id": "crate-4858",
         "name": "Rio 2022 挑戰者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_rio2022_challengers",
         "description": "此轉蛋內含一枚 Rio 2022 挑戰者選手的紙質、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -15911,6 +15984,7 @@
     {
         "id": "crate-4859",
         "name": "Rio 2022 競爭者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_rio2022_contenders",
         "description": "此轉蛋內含一枚 Rio 2022 競爭者選手的紙質、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -16282,6 +16356,7 @@
     {
         "id": "crate-4879",
         "name": "諜報貼紙轉蛋",
+        "name_original": "crate_sticker_pack_community2022_capsule",
         "description": "這顆轉蛋包含了一張由 Steam 工作坊藝術家設計的貼紙，並於 2023 年 2 月推出。",
         "type": "Sticker Capsule",
         "first_sale_date": "2023/01/05",
@@ -16503,6 +16578,7 @@
     {
         "id": "crate-4890",
         "name": "Paris 2023 傳奇貼紙轉蛋",
+        "name_original": "crate_sticker_pack_paris2023_legends",
         "description": "此轉蛋內含一枚 Paris 2023 傳奇選手的紙質、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -16874,6 +16950,7 @@
     {
         "id": "crate-4891",
         "name": "Paris 2023 挑戰者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_paris2023_challengers",
         "description": "此轉蛋內含一枚 Paris 2023 挑戰者選手的紙質、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -17245,6 +17322,7 @@
     {
         "id": "crate-4892",
         "name": "Paris 2023 競爭者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_paris2023_contenders",
         "description": "此轉蛋內含一枚 Paris 2023 競爭者選手的紙質、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -17616,6 +17694,7 @@
     {
         "id": "crate-4905",
         "name": "伏擊貼紙轉蛋",
+        "name_original": "crate_sticker_pack_community_2024_capsule",
         "description": "這顆轉蛋包含了由 Steam 工作坊藝術家設計的各式貼紙其中之一，於 2024 年 2 月推出。",
         "type": "Sticker Capsule",
         "first_sale_date": "2024-01-25",
@@ -17837,6 +17916,7 @@
     {
         "id": "crate-4923",
         "name": "Copenhagen 2024 傳奇貼紙轉蛋",
+        "name_original": "crate_sticker_pack_cph2024_legends",
         "description": "此轉蛋內含一枚 Copenhagen 2024 傳奇選手的紙質、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -18208,6 +18288,7 @@
     {
         "id": "crate-4924",
         "name": "Copenhagen 2024 挑戰者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_cph2024_challengers",
         "description": "此轉蛋內含一枚 Copenhagen 2024 挑戰者選手的紙質、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,
@@ -18579,6 +18660,7 @@
     {
         "id": "crate-4925",
         "name": "Copenhagen 2024 競爭者貼紙轉蛋",
+        "name_original": "crate_sticker_pack_cph2024_contenders",
         "description": "此轉蛋內含一枚 Copenhagen 2024 競爭者選手的紙質、炫光、彩光或黃金貼紙。\\n\\n50% 的轉蛋收益將用於支持其中的選手及組織團體。\\n\\n該貼紙可以貼在任何一把您擁有的武器上，同時也能經由刮磨使貼紙看來更殘破一些。您可以刮磨同張貼紙數次使之顯得更殘破，直到貼紙被完全刮除乾淨為止。",
         "type": "Sticker Capsule",
         "first_sale_date": null,

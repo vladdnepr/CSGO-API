@@ -2,6 +2,7 @@
     {
         "id": "key-generic_valve_key",
         "name": "Cheie pentru cutia CS:GO",
+        "name_original": "Tool_WeaponCase_Key",
         "description": "Această cheie va deschide orice cutie din seriile create de Valve. Cutiile din celelalte serii (de exemplu: cutia eSports) au nevoie de chei specifice.",
         "crates": [
             {
@@ -30,6 +31,7 @@
     {
         "id": "key-1204",
         "name": "Cheie eSports",
+        "name_original": "esports_crate_key_1",
         "description": "Această cheie deschide Cutia eSports.\\n\\nO parte din veniturile obținute din vânzări va fi oferită unuia dintre turneele importante din comunitatea de CS:GO. Mai multe informații vor fi dezvăluite în curând.",
         "crates": [
             {
@@ -53,6 +55,7 @@
     {
         "id": "key-1212",
         "name": "Cheie capsulă CS:GO",
+        "name_original": "sticker_crate_key_1",
         "description": "Această cheie va deschide orice capsulă din seriile Valve.",
         "crates": [
             {
@@ -71,6 +74,7 @@
     {
         "id": "key-1214",
         "name": "Cheie pentru cutia Winter Offensive",
+        "name_original": "community_crate_key_1",
         "description": "Această cheie deschide numai cutii Winter Offensive",
         "crates": [
             {
@@ -84,6 +88,7 @@
     {
         "id": "key-1303",
         "name": "Cheie pentru cutia operațiunii Phoenix",
+        "name_original": "community_crate_key_2",
         "description": "Această cheie deschide numai cutii ale operațiunii Phoenix",
         "crates": [
             {
@@ -97,6 +102,7 @@
     {
         "id": "key-1304",
         "name": "Cheie pentru capsula cu abțibild comunitar 1",
+        "name_original": "sticker_crate_key_community01",
         "description": "Această cheie deschide capsula cu abțibild comunitar 1.\\n\\nO parte din veniturile obținute din vânzarea acestei chei va merge la creatorii abțibildului.",
         "crates": [
             {
@@ -110,6 +116,7 @@
     {
         "id": "key-1305",
         "name": "Cheie pentru cutia Huntsman",
+        "name_original": "community_crate_key_3",
         "description": "Această cheie deschide numai cutii Huntsman",
         "crates": [
             {
@@ -123,6 +130,7 @@
     {
         "id": "key-1309",
         "name": "Cheie pentru cutia operațiunii Breakout",
+        "name_original": "community_crate_key_4",
         "description": "Această cheie deschide numai cutii ale operațiunii Breakout",
         "crates": [
             {
@@ -136,6 +144,7 @@
     {
         "id": "key-1322",
         "name": "Cheie pentru cutia operațiunii Vanguard",
+        "name_original": "community_crate_key_5",
         "description": "Această cheie deschide numai cutii ale operațiunii Vanguard",
         "crates": [
             {
@@ -149,6 +158,7 @@
     {
         "id": "key-1323",
         "name": "Cheie pentru cutia Chroma",
+        "name_original": "community_crate_key_6",
         "description": "Această cheie deschide numai cutii Chroma",
         "crates": [
             {
@@ -162,6 +172,7 @@
     {
         "id": "key-1325",
         "name": "Cheie pentru cutia Chroma 2",
+        "name_original": "community_crate_key_7",
         "description": "Această cheie deschide numai cutii Chroma 2",
         "crates": [
             {
@@ -175,6 +186,7 @@
     {
         "id": "key-1330",
         "name": "Cheie pentru cutia Falchion",
+        "name_original": "community_crate_key_8",
         "description": "Această cheie deschide numai cutii Falchion",
         "crates": [
             {
@@ -188,6 +200,7 @@
     {
         "id": "key-1333",
         "name": "Cheie pentru cutia Shadow",
+        "name_original": "community_crate_key_9",
         "description": "Această cheie deschide numai cutii Shadow",
         "crates": [
             {
@@ -201,6 +214,7 @@
     {
         "id": "key-1334",
         "name": "Cheie pentru cutia Revolver",
+        "name_original": "crate_community_10_key",
         "description": "Această cheie deschide numai cutii Revolver",
         "crates": [
             {
@@ -214,6 +228,7 @@
     {
         "id": "key-1347",
         "name": "Cheie pentru cutia Chroma 3",
+        "name_original": "crate_key_community_12",
         "description": "Această cheie deschide numai cutii Chroma 3.",
         "crates": [
             {
@@ -227,6 +242,7 @@
     {
         "id": "key-1350",
         "name": "Cheie pentru cutia Gamma",
+        "name_original": "crate_key_community_13",
         "description": "Această cheie deschide numai cutii Gamma.",
         "crates": [
             {
@@ -240,6 +256,7 @@
     {
         "id": "key-1351",
         "name": "Cheie pentru cutia Gamma 2",
+        "name_original": "crate_key_gamma_2",
         "description": "Această cheie deschide numai cutii Gamma 2.",
         "crates": [
             {
@@ -253,6 +270,7 @@
     {
         "id": "key-1356",
         "name": "Cheie pentru cutia Glove",
+        "name_original": "crate_key_community_15",
         "description": "Această cheie deschide numai cutii Glove.",
         "crates": [
             {
@@ -266,6 +284,7 @@
     {
         "id": "key-1364",
         "name": "Cheie pentru cutia Spectrum",
+        "name_original": "crate_key_community_16",
         "description": "Această cheie deschide numai cutii Spectrum.",
         "crates": [
             {
@@ -279,6 +298,7 @@
     {
         "id": "key-1365",
         "name": "Cheie pentru cutia operațiunii Hydra",
+        "name_original": "crate_key_community_17",
         "description": "Această cheie deschide numai cutii ale operațiunii Hydra.",
         "crates": [
             {
@@ -292,6 +312,7 @@
     {
         "id": "key-1366",
         "name": "Cheie pentru cutia Spectrum 2",
+        "name_original": "crate_key_community_18",
         "description": "Această cheie deschide numai cutii Spectrum 2.",
         "crates": [
             {
@@ -305,6 +326,7 @@
     {
         "id": "key-1373",
         "name": "Cheie pentru cutia Clutch",
+        "name_original": "crate_key_community_19",
         "description": "Această cheie deschide numai cutii Clutch.",
         "crates": [
             {
@@ -318,6 +340,7 @@
     {
         "id": "key-1374",
         "name": "Cheie pentru cutia Horizon",
+        "name_original": "crate_key_community_20",
         "description": "Această cheie deschide numai cutii Horizon.",
         "crates": [
             {
@@ -331,6 +354,7 @@
     {
         "id": "key-1375",
         "name": "Cheie pentru cutia Danger Zone",
+        "name_original": "crate_key_community_21",
         "description": "Această cheie deschide numai cutii Danger Zone.",
         "crates": [
             {
@@ -344,6 +368,7 @@
     {
         "id": "key-1383",
         "name": "Cheie pentru cutia Prisma",
+        "name_original": "crate_key_community_22",
         "description": "Această cheie deschide numai cutii Prisma.",
         "crates": [
             {
@@ -357,6 +382,7 @@
     {
         "id": "key-1384",
         "name": "Cheie pentru cutia Shattered Web",
+        "name_original": "crate_key_community_23",
         "description": "Această cheie deschide numai cutii Shattered Web.",
         "crates": [
             {
@@ -370,6 +396,7 @@
     {
         "id": "key-1385",
         "name": "Cheie pentru cutia CS20",
+        "name_original": "crate_key_community_24",
         "description": "Această cheie deschide numai cutii CS20.",
         "crates": [
             {
@@ -383,6 +410,7 @@
     {
         "id": "key-1386",
         "name": "Cheie pentru cutia Prisma 2",
+        "name_original": "crate_key_community_25",
         "description": "Această cheie deschide numai cutii Prisma 2.",
         "crates": [
             {
@@ -396,6 +424,7 @@
     {
         "id": "key-1387",
         "name": "Cheie pentru cutia Fracture",
+        "name_original": "crate_key_community_26",
         "description": "Această cheie deschide numai cutii Fracture.",
         "crates": [
             {
@@ -409,6 +438,7 @@
     {
         "id": "key-1388",
         "name": "Cheie pentru cutia operațiunii Broken Fang",
+        "name_original": "crate_key_community_27",
         "description": "Această cheie deschide numai cutii ale operațiunii Broken Fang.",
         "crates": [
             {
@@ -422,6 +452,7 @@
     {
         "id": "key-1389",
         "name": "Cheie pentru cutia Snakebite",
+        "name_original": "crate_key_community_28",
         "description": "Această cheie deschide numai cutii Snakebite.",
         "crates": [
             {
@@ -435,6 +466,7 @@
     {
         "id": "key-1390",
         "name": "Cheie pentru cutia operațiunii Riptide",
+        "name_original": "crate_key_community_29",
         "description": "Această cheie deschide numai cutii ale operațiunii Riptide.",
         "crates": [
             {
@@ -448,6 +480,7 @@
     {
         "id": "key-1391",
         "name": "Cheie pentru cutia Dreams & Nightmares",
+        "name_original": "crate_key_community_30",
         "description": "Această cheie deschide numai cutii Dreams & Nightmares.",
         "crates": [
             {
@@ -461,6 +494,7 @@
     {
         "id": "key-1392",
         "name": "Cheie pentru cutia Recoil",
+        "name_original": "crate_key_community_31",
         "description": "Această cheie deschide numai cutii Recoil.",
         "crates": [
             {
@@ -474,6 +508,7 @@
     {
         "id": "key-1393",
         "name": "Cheie pentru cutia Revolution",
+        "name_original": "crate_key_community_32",
         "description": "Această cheie deschide numai cutii Revolution.",
         "crates": [
             {
@@ -487,6 +522,7 @@
     {
         "id": "key-1394",
         "name": "Cheie pentru cutia Kilowatt",
+        "name_original": "crate_key_community_33",
         "description": "Această cheie deschide numai cutii Kilowatt.",
         "crates": [
             {
@@ -500,6 +536,7 @@
     {
         "id": "key-7000",
         "name": "Cheie pentru cutia operațiunii Wildfire",
+        "name_original": "crate_key_community_11",
         "description": "Această cheie deschide numai cutii ale operațiunii Wildfire.",
         "crates": [
             {

@@ -2,6 +2,7 @@
     {
         "id": "crate-4610",
         "name": "CS:GO パッチパック",
+        "name_original": "crate_patch_pack01",
         "description": "このパックには様々な刺繍パッチが入っています。パッチは所有しているどのエージェントにも適用できます。",
         "type": "Patch Capsule",
         "first_sale_date": "2020/02/24",
@@ -223,6 +224,7 @@
     {
         "id": "crate-4614",
         "name": "Metal Skill Group パッチコレクション",
+        "name_original": "crate_patch_pack02",
         "description": "このパッチコレクションには様々な刺繍パッチが入っています。パッチは所有しているどのエージェントにも適用できます。",
         "type": "Patch Capsule",
         "first_sale_date": "2020/02/24",
@@ -404,6 +406,7 @@
     {
         "id": "crate-4615",
         "name": "Half-Life: Alyx パッチパック",
+        "name_original": "crate_patch_pack_hlalyx",
         "description": "このパックには Valve の「Half-Life」シリーズに VR で帰ってきた『Half-Life: Alyx』を記念する様々な刺繍パッチが含まれています。パッチは所有しているどのエージェントにも適用できます。",
         "type": "Patch Capsule",
         "first_sale_date": "2020/03/23",
@@ -525,6 +528,7 @@
     {
         "id": "crate-4795",
         "name": "Operation Riptide パッチコレクション",
+        "name_original": "crate_patch_pack03",
         "description": "このパッチコレクションには Operation Riptide を記念した様々な刺繍パッチが入っています。パッチは所有しているどのエージェントにも適用できます。",
         "type": "Patch Capsule",
         "first_sale_date": "2021/09/01",
@@ -666,6 +670,7 @@
     {
         "id": "crate-4806",
         "name": "Stockholm 2021 Legends パッチパック",
+        "name_original": "crate_patch_pack_stockh2021_legends",
         "description": "このパックには Stockholm 2021 出場者パッチ (ハイグレードまたはゴールド刺繍) が1つ入っています。\\n\\nこのパックの販売による収入の半分は関連組織に分配されます。\\n\\nパッチは所有しているどのエージェントにも適用できます。",
         "type": "Patch Capsule",
         "first_sale_date": "2021-10-10",
@@ -857,6 +862,7 @@
     {
         "id": "crate-4807",
         "name": "Stockholm 2021 Challengers パッチパック",
+        "name_original": "crate_patch_pack_stockh2021_challengers",
         "description": "このパックには Stockholm 2021 出場者パッチ (ハイグレードまたはゴールド刺繍) が1つ入っています。\\n\\nこのパックの販売による収入の半分は関連組織に分配されます。\\n\\nパッチは所有しているどのエージェントにも適用できます。",
         "type": "Patch Capsule",
         "first_sale_date": "2021-10-10",
@@ -1048,6 +1054,7 @@
     {
         "id": "crate-4808",
         "name": "Stockholm 2021 Contenders パッチパック",
+        "name_original": "crate_patch_pack_stockh2021_contenders",
         "description": "このパックには Stockholm 2021 出場者パッチ (ハイグレードまたはゴールド刺繍) が1つ入っています。\\n\\nこのパックの販売による収入の半分は関連組織に分配されます。\\n\\nパッチは所有しているどのエージェントにも適用できます。",
         "type": "Patch Capsule",
         "first_sale_date": "2021-10-10",

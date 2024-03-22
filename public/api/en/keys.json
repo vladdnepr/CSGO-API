@@ -2,6 +2,7 @@
     {
         "id": "key-generic_valve_key",
         "name": "CS:GO Case Key",
+        "name_original": "Tool_WeaponCase_Key",
         "description": "This key will open any Valve Series Weapon Case. Non-Valve Series cases (e.g. eSports Case) require their own key to open.",
         "crates": [
             {
@@ -30,6 +31,7 @@
     {
         "id": "key-1204",
         "name": "eSports Key",
+        "name_original": "esports_crate_key_1",
         "description": "This key opens any eSports Case.\\n\\nA portion of the proceeds from the sale of this key will go towards one of the established community-run CS:GO tournaments. Stay tuned for further announcements.",
         "crates": [
             {
@@ -53,6 +55,7 @@
     {
         "id": "key-1212",
         "name": "CS:GO Capsule Key",
+        "name_original": "sticker_crate_key_1",
         "description": "This key will open any Valve Series Capsule.",
         "crates": [
             {
@@ -71,6 +74,7 @@
     {
         "id": "key-1214",
         "name": "Winter Offensive Case Key",
+        "name_original": "community_crate_key_1",
         "description": "This key only opens Winter Offensive Cases",
         "crates": [
             {
@@ -84,6 +88,7 @@
     {
         "id": "key-1303",
         "name": "Operation Phoenix Case Key",
+        "name_original": "community_crate_key_2",
         "description": "This key only opens Operation Phoenix Cases",
         "crates": [
             {
@@ -97,6 +102,7 @@
     {
         "id": "key-1304",
         "name": "Community Sticker Capsule 1 Key",
+        "name_original": "sticker_crate_key_community01",
         "description": "This key opens the Community Sticker Capsule 1.\\n\\nA portion of the proceeds from the sale of this key will go to the sticker creators.",
         "crates": [
             {
@@ -110,6 +116,7 @@
     {
         "id": "key-1305",
         "name": "Huntsman Case Key",
+        "name_original": "community_crate_key_3",
         "description": "This key only opens Huntsman Cases",
         "crates": [
             {
@@ -123,6 +130,7 @@
     {
         "id": "key-1309",
         "name": "Operation Breakout Case Key",
+        "name_original": "community_crate_key_4",
         "description": "This key only opens Operation Breakout Cases",
         "crates": [
             {
@@ -136,6 +144,7 @@
     {
         "id": "key-1322",
         "name": "Operation Vanguard Case Key",
+        "name_original": "community_crate_key_5",
         "description": "This key only opens Operation Vanguard Cases",
         "crates": [
             {
@@ -149,6 +158,7 @@
     {
         "id": "key-1323",
         "name": "Chroma Case Key",
+        "name_original": "community_crate_key_6",
         "description": "This key only opens Chroma Cases",
         "crates": [
             {
@@ -162,6 +172,7 @@
     {
         "id": "key-1325",
         "name": "Chroma 2 Case Key",
+        "name_original": "community_crate_key_7",
         "description": "This key only opens Chroma 2 Cases",
         "crates": [
             {
@@ -175,6 +186,7 @@
     {
         "id": "key-1330",
         "name": "Falchion Case Key",
+        "name_original": "community_crate_key_8",
         "description": "This key only opens Falchion Cases",
         "crates": [
             {
@@ -188,6 +200,7 @@
     {
         "id": "key-1333",
         "name": "Shadow Case Key",
+        "name_original": "community_crate_key_9",
         "description": "This key only opens Shadow Cases",
         "crates": [
             {
@@ -201,6 +214,7 @@
     {
         "id": "key-1334",
         "name": "Revolver Case Key",
+        "name_original": "crate_community_10_key",
         "description": "This key only opens Revolver Cases",
         "crates": [
             {
@@ -214,6 +228,7 @@
     {
         "id": "key-1347",
         "name": "Chroma 3 Case Key",
+        "name_original": "crate_key_community_12",
         "description": "This key only opens Chroma 3 cases",
         "crates": [
             {
@@ -227,6 +242,7 @@
     {
         "id": "key-1350",
         "name": "Gamma Case Key",
+        "name_original": "crate_key_community_13",
         "description": "This key only opens Gamma cases",
         "crates": [
             {
@@ -240,6 +256,7 @@
     {
         "id": "key-1351",
         "name": "Gamma 2 Case Key",
+        "name_original": "crate_key_gamma_2",
         "description": "This key only opens Gamma 2 cases",
         "crates": [
             {
@@ -253,6 +270,7 @@
     {
         "id": "key-1356",
         "name": "Glove Case Key",
+        "name_original": "crate_key_community_15",
         "description": "This key only opens Glove cases",
         "crates": [
             {
@@ -266,6 +284,7 @@
     {
         "id": "key-1364",
         "name": "Spectrum Case Key",
+        "name_original": "crate_key_community_16",
         "description": "This key only opens Spectrum cases",
         "crates": [
             {
@@ -279,6 +298,7 @@
     {
         "id": "key-1365",
         "name": "Operation Hydra Case Key",
+        "name_original": "crate_key_community_17",
         "description": "This key only opens Operation Hydra cases",
         "crates": [
             {
@@ -292,6 +312,7 @@
     {
         "id": "key-1366",
         "name": "Spectrum 2 Case Key",
+        "name_original": "crate_key_community_18",
         "description": "This key only opens Spectrum 2 cases",
         "crates": [
             {
@@ -305,6 +326,7 @@
     {
         "id": "key-1373",
         "name": "Clutch Case Key",
+        "name_original": "crate_key_community_19",
         "description": "This key only opens Clutch cases",
         "crates": [
             {
@@ -318,6 +340,7 @@
     {
         "id": "key-1374",
         "name": "Horizon Case Key",
+        "name_original": "crate_key_community_20",
         "description": "This key only opens Horizon cases",
         "crates": [
             {
@@ -331,6 +354,7 @@
     {
         "id": "key-1375",
         "name": "Danger Zone Case Key",
+        "name_original": "crate_key_community_21",
         "description": "This key only opens Danger Zone cases",
         "crates": [
             {
@@ -344,6 +368,7 @@
     {
         "id": "key-1383",
         "name": "Prisma Case Key",
+        "name_original": "crate_key_community_22",
         "description": "This key only opens Prisma cases",
         "crates": [
             {
@@ -357,6 +382,7 @@
     {
         "id": "key-1384",
         "name": "Shattered Web Case Key",
+        "name_original": "crate_key_community_23",
         "description": "This key only opens Shattered Web cases",
         "crates": [
             {
@@ -370,6 +396,7 @@
     {
         "id": "key-1385",
         "name": "CS20 Case Key",
+        "name_original": "crate_key_community_24",
         "description": "This key only opens CS20 cases",
         "crates": [
             {
@@ -383,6 +410,7 @@
     {
         "id": "key-1386",
         "name": "Prisma 2 Case Key",
+        "name_original": "crate_key_community_25",
         "description": "This key only opens Prisma 2 cases",
         "crates": [
             {
@@ -396,6 +424,7 @@
     {
         "id": "key-1387",
         "name": "Fracture Case Key",
+        "name_original": "crate_key_community_26",
         "description": "This key only opens Fracture cases",
         "crates": [
             {
@@ -409,6 +438,7 @@
     {
         "id": "key-1388",
         "name": "Operation Broken Fang Case Key",
+        "name_original": "crate_key_community_27",
         "description": "This key only opens Operation Broken Fang cases",
         "crates": [
             {
@@ -422,6 +452,7 @@
     {
         "id": "key-1389",
         "name": "Snakebite Case Key",
+        "name_original": "crate_key_community_28",
         "description": "This key only opens Snakebite cases",
         "crates": [
             {
@@ -435,6 +466,7 @@
     {
         "id": "key-1390",
         "name": "Operation Riptide Case Key",
+        "name_original": "crate_key_community_29",
         "description": "This key only opens Operation Riptide cases",
         "crates": [
             {
@@ -448,6 +480,7 @@
     {
         "id": "key-1391",
         "name": "Dreams & Nightmares Case Key",
+        "name_original": "crate_key_community_30",
         "description": "This key only opens Dreams & Nightmares cases",
         "crates": [
             {
@@ -461,6 +494,7 @@
     {
         "id": "key-1392",
         "name": "Recoil Case Key",
+        "name_original": "crate_key_community_31",
         "description": "This key only opens Recoil cases",
         "crates": [
             {
@@ -474,6 +508,7 @@
     {
         "id": "key-1393",
         "name": "Revolution Case Key",
+        "name_original": "crate_key_community_32",
         "description": "This key only opens Revolution cases",
         "crates": [
             {
@@ -487,6 +522,7 @@
     {
         "id": "key-1394",
         "name": "Kilowatt Case Key",
+        "name_original": "crate_key_community_33",
         "description": "This key only opens Kilowatt cases",
         "crates": [
             {
@@ -500,6 +536,7 @@
     {
         "id": "key-7000",
         "name": "Operation Wildfire Case Key",
+        "name_original": "crate_key_community_11",
         "description": "This key only opens Operation Wildfire Cases",
         "crates": [
             {
