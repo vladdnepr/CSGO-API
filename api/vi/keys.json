@@ -2,6 +2,7 @@
     {
         "id": "key-generic_valve_key",
         "name": "Chìa khóa hòm CS:GO",
+        "name_original": "Tool_WeaponCase_Key",
         "description": "Chìa khóa này mở bất cứ hòm vũ khí nào của Valve. Hòm không do Valve tạo (v.d. hòm vũ khí eSports) cần dùng chìa khóa riêng.",
         "crates": [
             {
@@ -30,6 +31,7 @@
     {
         "id": "key-1204",
         "name": "Chìa khóa eSports",
+        "name_original": "esports_crate_key_1",
         "description": "Chìa khóa này mở bất kì hòm eSports nào.\\n\\nMột phần doanh thu của chìa khóa này sẽ được tích vào một trong những giải đấu có uy tín của cộng đồng CS:GO. Hãy theo dõi những thông báo sau này.",
         "crates": [
             {
@@ -53,6 +55,7 @@
     {
         "id": "key-1212",
         "name": "CS:GO Capsule Key",
+        "name_original": "sticker_crate_key_1",
         "description": "This key will open any Valve Series Capsule.",
         "crates": [
             {
@@ -71,6 +74,7 @@
     {
         "id": "key-1214",
         "name": "Chìa khóa hòm Winter Offensive",
+        "name_original": "community_crate_key_1",
         "description": "Chìa khóa này chỉ mở hòm Winter Offensive",
         "crates": [
             {
@@ -84,6 +88,7 @@
     {
         "id": "key-1303",
         "name": "Chìa khóa hòm chiến dịch Phoenix",
+        "name_original": "community_crate_key_2",
         "description": "Chìa khóa này chỉ mở hòm chiến dịch Phoenix",
         "crates": [
             {
@@ -97,6 +102,7 @@
     {
         "id": "key-1304",
         "name": "Chìa khóa gói hình dán cộng đồng 1",
+        "name_original": "sticker_crate_key_community01",
         "description": "Chìa khóa này có thể mở gói hình dán cộng đồng 1.\\n\\nMột phần doanh thu từ chìa khóa này sẽ được gửi đến các tác giả của hình dán.",
         "crates": [
             {
@@ -110,6 +116,7 @@
     {
         "id": "key-1305",
         "name": "Chìa khóa hòm Huntsman",
+        "name_original": "community_crate_key_3",
         "description": "Chìa khóa này chỉ mở hòm Huntsman",
         "crates": [
             {
@@ -123,6 +130,7 @@
     {
         "id": "key-1309",
         "name": "Chìa khóa hòm chiến dịch Breakout",
+        "name_original": "community_crate_key_4",
         "description": "Chìa khóa này chỉ mở hòm chiến dịch Breakout",
         "crates": [
             {
@@ -136,6 +144,7 @@
     {
         "id": "key-1322",
         "name": "Chìa khóa chiến dịch Vanguard",
+        "name_original": "community_crate_key_5",
         "description": "Chìa khóa này chỉ mở hòm chiến dịch Vanguard",
         "crates": [
             {
@@ -149,6 +158,7 @@
     {
         "id": "key-1323",
         "name": "Chìa khóa hòm Chroma",
+        "name_original": "community_crate_key_6",
         "description": "Chìa khóa này chỉ mở hòm Chroma",
         "crates": [
             {
@@ -162,6 +172,7 @@
     {
         "id": "key-1325",
         "name": "Chìa khóa hòm Chroma 2",
+        "name_original": "community_crate_key_7",
         "description": "Chìa khóa này chỉ mở hòm Chroma 2",
         "crates": [
             {
@@ -175,6 +186,7 @@
     {
         "id": "key-1330",
         "name": "Chìa khóa hòm Falchion",
+        "name_original": "community_crate_key_8",
         "description": "Chìa khóa này chỉ mở hòm Falchion",
         "crates": [
             {
@@ -188,6 +200,7 @@
     {
         "id": "key-1333",
         "name": "Chìa khóa hòm Shadow",
+        "name_original": "community_crate_key_9",
         "description": "Chìa khóa này chỉ mở hòm Shadow",
         "crates": [
             {
@@ -201,6 +214,7 @@
     {
         "id": "key-1334",
         "name": "Chìa khóa hòm Revolver",
+        "name_original": "crate_community_10_key",
         "description": "Chìa khóa này chỉ mở hòm Revolver",
         "crates": [
             {
@@ -214,6 +228,7 @@
     {
         "id": "key-1347",
         "name": "Chìa khóa hòm Chroma 3",
+        "name_original": "crate_key_community_12",
         "description": "Chìa khóa này chỉ mở hòm Chroma 3",
         "crates": [
             {
@@ -227,6 +242,7 @@
     {
         "id": "key-1350",
         "name": "Chìa khóa hòm Gamma",
+        "name_original": "crate_key_community_13",
         "description": "Chìa khóa này chỉ mở hòm Gamma",
         "crates": [
             {
@@ -240,6 +256,7 @@
     {
         "id": "key-1351",
         "name": "Chìa khóa hòm Gamma 2",
+        "name_original": "crate_key_gamma_2",
         "description": "Chìa khóa này chỉ mở hòm Gamma 2",
         "crates": [
             {
@@ -253,6 +270,7 @@
     {
         "id": "key-1356",
         "name": "Chìa khóa hòm Glove",
+        "name_original": "crate_key_community_15",
         "description": "Chìa khóa này chỉ mở hòm Glove",
         "crates": [
             {
@@ -266,6 +284,7 @@
     {
         "id": "key-1364",
         "name": "Chìa khóa hòm Spectrum",
+        "name_original": "crate_key_community_16",
         "description": "Chìa khóa này chỉ mở hòm Spectrum",
         "crates": [
             {
@@ -279,6 +298,7 @@
     {
         "id": "key-1365",
         "name": "Chìa khóa hòm chiến dịch Hydra",
+        "name_original": "crate_key_community_17",
         "description": "Chìa khóa này chỉ mở hòm chiến dịch Hydra",
         "crates": [
             {
@@ -292,6 +312,7 @@
     {
         "id": "key-1366",
         "name": "Chìa khóa hòm Spectrum 2",
+        "name_original": "crate_key_community_18",
         "description": "Chìa khóa này chỉ mở hòm Spectrum 2",
         "crates": [
             {
@@ -305,6 +326,7 @@
     {
         "id": "key-1373",
         "name": "Chìa khóa hòm Clutch",
+        "name_original": "crate_key_community_19",
         "description": "Chìa khóa này chỉ mở hòm Clutch",
         "crates": [
             {
@@ -318,6 +340,7 @@
     {
         "id": "key-1374",
         "name": "Chìa khóa hòm Horizon",
+        "name_original": "crate_key_community_20",
         "description": "Chìa khóa này chỉ mở hòm Horizon",
         "crates": [
             {
@@ -331,6 +354,7 @@
     {
         "id": "key-1375",
         "name": "Chìa khóa hòm Danger Zone",
+        "name_original": "crate_key_community_21",
         "description": "Chìa khóa này chỉ mở hòm Danger Zone",
         "crates": [
             {
@@ -344,6 +368,7 @@
     {
         "id": "key-1383",
         "name": "Chìa khóa hòm Prisma",
+        "name_original": "crate_key_community_22",
         "description": "Chìa khóa này chỉ mở hòm Prisma",
         "crates": [
             {
@@ -357,6 +382,7 @@
     {
         "id": "key-1384",
         "name": "Chìa khóa hòm Shattered Web",
+        "name_original": "crate_key_community_23",
         "description": "Chìa khóa này chỉ mở hòm Shattered Web",
         "crates": [
             {
@@ -370,6 +396,7 @@
     {
         "id": "key-1385",
         "name": "Chìa khoá hòm CS20",
+        "name_original": "crate_key_community_24",
         "description": "Chìa khoá này chỉ mở hòm CS20",
         "crates": [
             {
@@ -383,6 +410,7 @@
     {
         "id": "key-1386",
         "name": "Chìa khóa hòm Prisma 2",
+        "name_original": "crate_key_community_25",
         "description": "Chìa khóa này chỉ mở hòm Prisma 2",
         "crates": [
             {
@@ -396,6 +424,7 @@
     {
         "id": "key-1387",
         "name": "Chìa khóa hòm Fracture",
+        "name_original": "crate_key_community_26",
         "description": "Chìa khóa này chỉ mở hòm Fracture",
         "crates": [
             {
@@ -409,6 +438,7 @@
     {
         "id": "key-1388",
         "name": "Chìa khóa hòm chiến dịch Broken Fang",
+        "name_original": "crate_key_community_27",
         "description": "Chìa khóa này chỉ mở chiến dịch Broken Fang",
         "crates": [
             {
@@ -422,6 +452,7 @@
     {
         "id": "key-1389",
         "name": "Chìa khóa hòm Snakebite",
+        "name_original": "crate_key_community_28",
         "description": "Chìa khóa này chỉ mở hòm Snakebite",
         "crates": [
             {
@@ -435,6 +466,7 @@
     {
         "id": "key-1390",
         "name": "Chìa khóa hòm chiến dịch Riptide",
+        "name_original": "crate_key_community_29",
         "description": "Chìa khóa này chỉ mở hòm chiến dịch Riptide",
         "crates": [
             {
@@ -448,6 +480,7 @@
     {
         "id": "key-1391",
         "name": "Chìa khóa hòm Dreams & Nightmares",
+        "name_original": "crate_key_community_30",
         "description": "Chìa khóa này chỉ mở hòm Dreams & Nightmares",
         "crates": [
             {
@@ -461,6 +494,7 @@
     {
         "id": "key-1392",
         "name": "Chìa khóa hòm Recoil",
+        "name_original": "crate_key_community_31",
         "description": "Chìa khóa này chỉ mở hòm Recoil",
         "crates": [
             {
@@ -474,6 +508,7 @@
     {
         "id": "key-1393",
         "name": "Chìa khóa hòm Revolution",
+        "name_original": "crate_key_community_32",
         "description": "Chìa khóa này chỉ mở hòm Revolution",
         "crates": [
             {
@@ -487,6 +522,7 @@
     {
         "id": "key-1394",
         "name": "Chìa khóa hòm Kilowatt",
+        "name_original": "crate_key_community_33",
         "description": "Chìa khóa này chỉ mở hòm Kilowatt",
         "crates": [
             {
@@ -500,6 +536,7 @@
     {
         "id": "key-7000",
         "name": "Chìa khóa hòm chiến dịch Wildfire",
+        "name_original": "crate_key_community_11",
         "description": "Chìa khóa này chỉ mở hòm chiến dịch Wildfire",
         "crates": [
             {

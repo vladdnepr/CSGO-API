@@ -2,6 +2,7 @@
     {
         "id": "collectible-1004",
         "name": "Museum Pályaérem",
+        "name_original": "Collectible_MapTokenMuseum",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -14,6 +15,7 @@
     {
         "id": "collectible-1005",
         "name": "Downtown Pályaérem",
+        "name_original": "Collectible_MapTokenDowntown",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -26,6 +28,7 @@
     {
         "id": "collectible-1006",
         "name": "Thunder Pályaérem",
+        "name_original": "Collectible_MapTokenThunder",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -38,6 +41,7 @@
     {
         "id": "collectible-1007",
         "name": "Favela Pályaérem",
+        "name_original": "Collectible_MapTokenFavela",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -50,6 +54,7 @@
     {
         "id": "collectible-1008",
         "name": "Motel Pályaérem",
+        "name_original": "Collectible_MapTokenMotel",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -62,6 +67,7 @@
     {
         "id": "collectible-1009",
         "name": "Seaside Pályaérem",
+        "name_original": "Collectible_MapTokenSeaside",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -74,6 +80,7 @@
     {
         "id": "collectible-1010",
         "name": "Library Pályaérem",
+        "name_original": "Collectible_MapTokenLibrary",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -86,6 +93,7 @@
     {
         "id": "collectible-1016",
         "name": "Agency Pályaérem",
+        "name_original": "Collectible_MapTokenAgency",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -98,6 +106,7 @@
     {
         "id": "collectible-1017",
         "name": "Ali Pályaérem",
+        "name_original": "Collectible_MapTokenAli",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -110,6 +119,7 @@
     {
         "id": "collectible-1018",
         "name": "Cache Pályaérem",
+        "name_original": "Collectible_MapTokenCache",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -122,6 +132,7 @@
     {
         "id": "collectible-1019",
         "name": "Chinatown Pályaérem",
+        "name_original": "Collectible_MapTokenChinatown",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -134,6 +145,7 @@
     {
         "id": "collectible-1020",
         "name": "Gwalior Pályaérem",
+        "name_original": "Collectible_MapTokenGwalior",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -146,6 +158,7 @@
     {
         "id": "collectible-1021",
         "name": "Ruins Pályaérem",
+        "name_original": "Collectible_MapTokenRuins",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -158,6 +171,7 @@
     {
         "id": "collectible-1022",
         "name": "Siege Pályaérem",
+        "name_original": "Collectible_MapTokenSiege",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -170,6 +184,7 @@
     {
         "id": "collectible-1031",
         "name": "Castle Pályaérem",
+        "name_original": "Collectible_MapTokenCastle",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -182,6 +197,7 @@
     {
         "id": "collectible-1032",
         "name": "Black Gold Pályaérem",
+        "name_original": "Collectible_MapTokenBlackGold",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -194,6 +210,7 @@
     {
         "id": "collectible-1033",
         "name": "Rush Pályaérem",
+        "name_original": "Collectible_MapTokenRush",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -206,6 +223,7 @@
     {
         "id": "collectible-1034",
         "name": "Mist Pályaérem",
+        "name_original": "Collectible_MapTokenMist",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -218,6 +236,7 @@
     {
         "id": "collectible-1035",
         "name": "Insertion Pályaérem",
+        "name_original": "Collectible_MapTokenInsertion",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -230,6 +249,7 @@
     {
         "id": "collectible-1036",
         "name": "Overgrown Pályaérem",
+        "name_original": "Collectible_MapTokenOvergrown",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -242,6 +262,7 @@
     {
         "id": "collectible-1037",
         "name": "Marquis Pályaérem",
+        "name_original": "Collectible_MapTokenMarquis",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -254,6 +275,7 @@
     {
         "id": "collectible-1038",
         "name": "Workout Pályaérem",
+        "name_original": "Collectible_MapTokenWorkout",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -266,6 +288,7 @@
     {
         "id": "collectible-1039",
         "name": "Backalley Pályaérem",
+        "name_original": "Collectible_MapTokenBackalley",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -278,6 +301,7 @@
     {
         "id": "collectible-1040",
         "name": "Season Pályaérem",
+        "name_original": "Collectible_MapTokenSeason",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -290,6 +314,7 @@
     {
         "id": "collectible-1041",
         "name": "Bazaar Pályaérem",
+        "name_original": "Collectible_MapTokenBazaar",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -302,6 +327,7 @@
     {
         "id": "collectible-1042",
         "name": "Facade Pályaérem",
+        "name_original": "Collectible_MapTokenFacade",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -314,6 +340,7 @@
     {
         "id": "collectible-1043",
         "name": "Log Pályaérem",
+        "name_original": "Collectible_MapTokenLog",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -326,6 +353,7 @@
     {
         "id": "collectible-1044",
         "name": "Rails Pályaérem",
+        "name_original": "Collectible_MapTokenRails",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -338,6 +366,7 @@
     {
         "id": "collectible-1045",
         "name": "Resort Pályaérem",
+        "name_original": "Collectible_MapTokenResort",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -350,6 +379,7 @@
     {
         "id": "collectible-1046",
         "name": "Zoo Pályaérem",
+        "name_original": "Collectible_MapTokenZoo",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -362,6 +392,7 @@
     {
         "id": "collectible-1047",
         "name": "Santorini Pályaérem",
+        "name_original": "Collectible_MapTokenSantorini",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -374,6 +405,7 @@
     {
         "id": "collectible-1048",
         "name": "Coast Pályaérem",
+        "name_original": "Collectible_MapTokenCoast",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -386,6 +418,7 @@
     {
         "id": "collectible-1049",
         "name": "Mikla Pályaérem",
+        "name_original": "Collectible_MapTokenMikla",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -398,6 +431,7 @@
     {
         "id": "collectible-1050",
         "name": "Royal Pályaérem",
+        "name_original": "Collectible_MapTokenRoyal",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -410,6 +444,7 @@
     {
         "id": "collectible-1051",
         "name": "Empire Pályaérem",
+        "name_original": "Collectible_MapTokenEmpire",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -422,6 +457,7 @@
     {
         "id": "collectible-1052",
         "name": "Tulip Pályaérem",
+        "name_original": "Collectible_MapTokenTulip",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -434,6 +470,7 @@
     {
         "id": "collectible-1053",
         "name": "Cruise Pályaérem",
+        "name_original": "Collectible_MapTokenCruise",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -446,6 +483,7 @@
     {
         "id": "collectible-1054",
         "name": "Subzero Pályaérem",
+        "name_original": "Collectible_MapTokenSubzero",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -458,6 +496,7 @@
     {
         "id": "collectible-1055",
         "name": "Biome Pályaérem",
+        "name_original": "Collectible_MapTokenBiome",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -470,6 +509,7 @@
     {
         "id": "collectible-1056",
         "name": "Abbey Pályaérem",
+        "name_original": "Collectible_MapTokenAbbey",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -482,6 +522,7 @@
     {
         "id": "collectible-1057",
         "name": "Ruby Pályaérem",
+        "name_original": "Collectible_MapTokenRuby",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -494,6 +535,7 @@
     {
         "id": "collectible-1058",
         "name": "Breach Pályaérem",
+        "name_original": "Collectible_MapTokenBreach",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -506,6 +548,7 @@
     {
         "id": "collectible-1059",
         "name": "Studio Pályaérem",
+        "name_original": "Collectible_MapTokenStudio",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -518,6 +561,7 @@
     {
         "id": "collectible-1060",
         "name": "Jungle Pályaérem",
+        "name_original": "Collectible_MapTokenJungle",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -530,6 +574,7 @@
     {
         "id": "collectible-1061",
         "name": "Anubis Pályaérem",
+        "name_original": "Collectible_MapTokenAnubis",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -542,6 +587,7 @@
     {
         "id": "collectible-1062",
         "name": "Chlorine Pályaérem",
+        "name_original": "Collectible_MapTokenChlorine",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -554,6 +600,7 @@
     {
         "id": "collectible-1063",
         "name": "Mutiny Pályaérem",
+        "name_original": "Collectible_MapTokenMutiny",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -566,6 +613,7 @@
     {
         "id": "collectible-1064",
         "name": "Swamp Pályaérem",
+        "name_original": "Collectible_MapTokenSwamp",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -578,6 +626,7 @@
     {
         "id": "collectible-1065",
         "name": "Frostbite Pályaérem",
+        "name_original": "Collectible_MapTokenFrostbite",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -590,6 +639,7 @@
     {
         "id": "collectible-1066",
         "name": "Engage Pályaérem",
+        "name_original": "Collectible_MapTokenEngage",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -602,6 +652,7 @@
     {
         "id": "collectible-1067",
         "name": "Apollo Pályaérem",
+        "name_original": "Collectible_MapTokenApollo",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -614,6 +665,7 @@
     {
         "id": "collectible-1068",
         "name": "Guard Pályaérem",
+        "name_original": "Collectible_MapTokenGuard",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -626,6 +678,7 @@
     {
         "id": "collectible-1069",
         "name": "Elysion Pályaérem",
+        "name_original": "Collectible_MapTokenElysion",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -638,6 +691,7 @@
     {
         "id": "collectible-1070",
         "name": "Grind Pályaérem",
+        "name_original": "Collectible_MapTokenGrind",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -650,6 +704,7 @@
     {
         "id": "collectible-1071",
         "name": "Mocha Pályaérem",
+        "name_original": "Collectible_MapTokenMocha",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -662,6 +717,7 @@
     {
         "id": "collectible-1072",
         "name": "Calavera Pályaérem",
+        "name_original": "Collectible_MapTokenCalavera",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -674,6 +730,7 @@
     {
         "id": "collectible-1073",
         "name": "Pitstop Pályaérem",
+        "name_original": "Collectible_MapTokenPitstop",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -686,6 +743,7 @@
     {
         "id": "collectible-1074",
         "name": "Basalt Pályaérem",
+        "name_original": "Collectible_MapTokenBasalt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -698,6 +756,7 @@
     {
         "id": "collectible-1075",
         "name": "Insertion II Pályaérem",
+        "name_original": "Collectible_MapTokenInsertion2",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -710,6 +769,7 @@
     {
         "id": "collectible-1076",
         "name": "Ravine Pályaérem",
+        "name_original": "Collectible_MapTokenRavine",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -722,6 +782,7 @@
     {
         "id": "collectible-1077",
         "name": "Extraction Pályaérem",
+        "name_original": "Collectible_MapTokenExtraction",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -734,6 +795,7 @@
     {
         "id": "collectible-1078",
         "name": "County Pályaérem",
+        "name_original": "Collectible_MapTokenCounty",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -746,6 +808,7 @@
     {
         "id": "collectible-1079",
         "name": "Iris Pályaérem",
+        "name_original": "Collectible_MapTokenIris",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -758,6 +821,7 @@
     {
         "id": "collectible-1080",
         "name": "Climb Pályaérem",
+        "name_original": "Collectible_MapTokenClimb",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -770,6 +834,7 @@
     {
         "id": "collectible-1081",
         "name": "Crete Pályaérem",
+        "name_original": "Collectible_MapTokenCrete",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -782,6 +847,7 @@
     {
         "id": "collectible-1082",
         "name": "Hive Pályaérem",
+        "name_original": "Collectible_MapTokenHive",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -794,6 +860,7 @@
     {
         "id": "collectible-1083",
         "name": "Vineyard Pályaérem",
+        "name_original": "Collectible_MapTokenVineyard",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -806,6 +873,7 @@
     {
         "id": "collectible-1084",
         "name": "Ember Pályaérem",
+        "name_original": "Collectible_MapTokenEmber",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -818,6 +886,7 @@
     {
         "id": "collectible-1085",
         "name": "Tuscan Pályaérem",
+        "name_original": "Collectible_MapTokenTuscan",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -830,6 +899,7 @@
     {
         "id": "collectible-1086",
         "name": "Cascade Pályaérem",
+        "name_original": "Collectible_MapTokenPrime",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -842,6 +912,7 @@
     {
         "id": "collectible-1087",
         "name": "Blagai Pályaérem",
+        "name_original": "Collectible_MapTokenBlagai",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -854,6 +925,7 @@
     {
         "id": "collectible-1088",
         "name": "Boyard Pályaérem",
+        "name_original": "Collectible_MapTokenBoyard",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -866,6 +938,7 @@
     {
         "id": "collectible-1089",
         "name": "Chalice Pályaérem",
+        "name_original": "Collectible_MapTokenChalice",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",

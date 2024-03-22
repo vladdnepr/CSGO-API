@@ -2,6 +2,7 @@
     {
         "id": "key-generic_valve_key",
         "name": "Chave da Caixa do CS:GO",
+        "name_original": "Tool_WeaponCase_Key",
         "description": "Esta chave só abrirá Caixas de Armas de séries da Valve. Caixas de outras séries (como Caixas de eSports) precisam de uma chave específica para serem abertas.",
         "crates": [
             {
@@ -30,6 +31,7 @@
     {
         "id": "key-1204",
         "name": "Chave da Caixa de eSports",
+        "name_original": "esports_crate_key_1",
         "description": "Esta chave abre qualquer Caixa de eSports.\\n\\nUma parcela da receita proveniente da venda desta chave será destinada a um dos torneios de CS:GO da comunidade com reputação. Fique ligado para anúncios futuros.",
         "crates": [
             {
@@ -53,6 +55,7 @@
     {
         "id": "key-1212",
         "name": "Chave da Cápsula de Adesivos",
+        "name_original": "sticker_crate_key_1",
         "description": "Esta chave só abrirá Cápsulas de séries da Valve.",
         "crates": [
             {
@@ -71,6 +74,7 @@
     {
         "id": "key-1214",
         "name": "Chave da Caixa da Ofensiva de Fim de Ano",
+        "name_original": "community_crate_key_1",
         "description": "Esta chave só abre a Caixa da Ofensiva de Fim de Ano",
         "crates": [
             {
@@ -84,6 +88,7 @@
     {
         "id": "key-1303",
         "name": "Chave da Caixa da Operação Fênix",
+        "name_original": "community_crate_key_2",
         "description": "Esta chave só abre a Caixa da Operação Fênix",
         "crates": [
             {
@@ -97,6 +102,7 @@
     {
         "id": "key-1304",
         "name": "Chave da Cápsula de Adesivos I da Comunidade",
+        "name_original": "sticker_crate_key_community01",
         "description": "Esta chave abre a Cápsula de Adesivos I da Comunidade.\\n\\nUma parte da receita obtida com a venda desta chave será destinada aos criadores dos adesivos.",
         "crates": [
             {
@@ -110,6 +116,7 @@
     {
         "id": "key-1305",
         "name": "Chave da Caixa do Caçador",
+        "name_original": "community_crate_key_3",
         "description": "Esta chave só abre a Caixa do Caçador",
         "crates": [
             {
@@ -123,6 +130,7 @@
     {
         "id": "key-1309",
         "name": "Chave da Caixa da Operação Libertação",
+        "name_original": "community_crate_key_4",
         "description": "Esta chave só abre a Caixa da Operação Libertação",
         "crates": [
             {
@@ -136,6 +144,7 @@
     {
         "id": "key-1322",
         "name": "Chave da Caixa da Operação Vanguarda",
+        "name_original": "community_crate_key_5",
         "description": "Esta chave só abre a Caixa da Operação Vanguarda",
         "crates": [
             {
@@ -149,6 +158,7 @@
     {
         "id": "key-1323",
         "name": "Chave da Caixa Cromática",
+        "name_original": "community_crate_key_6",
         "description": "Esta chave só abre a Caixa Cromática",
         "crates": [
             {
@@ -162,6 +172,7 @@
     {
         "id": "key-1325",
         "name": "Chave da 2ª Caixa Cromática",
+        "name_original": "community_crate_key_7",
         "description": "Esta chave só abre a 2ª Caixa Cromática",
         "crates": [
             {
@@ -175,6 +186,7 @@
     {
         "id": "key-1330",
         "name": "Chave da Caixa Falchion",
+        "name_original": "community_crate_key_8",
         "description": "Esta chave só abre a Caixa Falchion",
         "crates": [
             {
@@ -188,6 +200,7 @@
     {
         "id": "key-1333",
         "name": "Chave da Caixa Sombria",
+        "name_original": "community_crate_key_9",
         "description": "Esta chave só abre a Caixa Sombria",
         "crates": [
             {
@@ -201,6 +214,7 @@
     {
         "id": "key-1334",
         "name": "Chave da Caixa do Revólver",
+        "name_original": "crate_community_10_key",
         "description": "Esta chave só abre a Caixa do Revólver",
         "crates": [
             {
@@ -214,6 +228,7 @@
     {
         "id": "key-1347",
         "name": "Chave da 3ª Caixa Cromática",
+        "name_original": "crate_key_community_12",
         "description": "Esta chave só abre a 3ª Caixa Cromática",
         "crates": [
             {
@@ -227,6 +242,7 @@
     {
         "id": "key-1350",
         "name": "Chave da Caixa Gama",
+        "name_original": "crate_key_community_13",
         "description": "Esta chave só abre a Caixa Gama",
         "crates": [
             {
@@ -240,6 +256,7 @@
     {
         "id": "key-1351",
         "name": "Chave da 2ª Caixa Gama",
+        "name_original": "crate_key_gamma_2",
         "description": "Esta chave só abre a 2ª Caixa Gama",
         "crates": [
             {
@@ -253,6 +270,7 @@
     {
         "id": "key-1356",
         "name": "Chave da Caixa das Luvas",
+        "name_original": "crate_key_community_15",
         "description": "Esta chave só abre a Caixa das Luvas",
         "crates": [
             {
@@ -266,6 +284,7 @@
     {
         "id": "key-1364",
         "name": "Chave da Caixa Espectral",
+        "name_original": "crate_key_community_16",
         "description": "Esta chave só abre a Caixa Espectral",
         "crates": [
             {
@@ -279,6 +298,7 @@
     {
         "id": "key-1365",
         "name": "Chave da Caixa da Operação Hidra",
+        "name_original": "crate_key_community_17",
         "description": "Esta chave só abre a Caixa da Operação Hidra",
         "crates": [
             {
@@ -292,6 +312,7 @@
     {
         "id": "key-1366",
         "name": "Chave da 2ª Caixa Espectral",
+        "name_original": "crate_key_community_18",
         "description": "Esta chave só abre a 2ª Caixa Espectral",
         "crates": [
             {
@@ -305,6 +326,7 @@
     {
         "id": "key-1373",
         "name": "Chave da Caixa do Aperto",
+        "name_original": "crate_key_community_19",
         "description": "Esta chave só abre a Caixa do Aperto",
         "crates": [
             {
@@ -318,6 +340,7 @@
     {
         "id": "key-1374",
         "name": "Chave da Caixa do Horizonte",
+        "name_original": "crate_key_community_20",
         "description": "Esta chave só abre a Caixa do Horizonte",
         "crates": [
             {
@@ -331,6 +354,7 @@
     {
         "id": "key-1375",
         "name": "Chave da Caixa da Zona de Perigo",
+        "name_original": "crate_key_community_21",
         "description": "Esta chave só abre a Caixa da Zona de Perigo",
         "crates": [
             {
@@ -344,6 +368,7 @@
     {
         "id": "key-1383",
         "name": "Chave da Caixa Prismática",
+        "name_original": "crate_key_community_22",
         "description": "Esta chave só abre a Caixa Prismática",
         "crates": [
             {
@@ -357,6 +382,7 @@
     {
         "id": "key-1384",
         "name": "Chave da Caixa da Teia Fragmentada",
+        "name_original": "crate_key_community_23",
         "description": "Esta chave só abre a Caixa da Teia Fragmentada",
         "crates": [
             {
@@ -370,6 +396,7 @@
     {
         "id": "key-1385",
         "name": "Chave da Caixa CS20",
+        "name_original": "crate_key_community_24",
         "description": "Esta chave só abre a Caixa CS20",
         "crates": [
             {
@@ -383,6 +410,7 @@
     {
         "id": "key-1386",
         "name": "Chave da 2ª Caixa Prismática",
+        "name_original": "crate_key_community_25",
         "description": "Esta chave só abre a 2ª Caixa Prismática",
         "crates": [
             {
@@ -396,6 +424,7 @@
     {
         "id": "key-1387",
         "name": "Chave da Caixa Fraturada",
+        "name_original": "crate_key_community_26",
         "description": "Esta chave só abre a Caixa Fraturada",
         "crates": [
             {
@@ -409,6 +438,7 @@
     {
         "id": "key-1388",
         "name": "Chave da Operação Presa Quebrada",
+        "name_original": "crate_key_community_27",
         "description": "Esta chave só abre a Caixa da Operação Presa Quebrada",
         "crates": [
             {
@@ -422,6 +452,7 @@
     {
         "id": "key-1389",
         "name": "Chave da Caixa do Ataque Ofídico",
+        "name_original": "crate_key_community_28",
         "description": "Esta chave só abre a Caixa do Ataque Ofídico",
         "crates": [
             {
@@ -435,6 +466,7 @@
     {
         "id": "key-1390",
         "name": "Chave da Caixa da Operação Correnteza",
+        "name_original": "crate_key_community_29",
         "description": "Esta chave só abre Caixas da Operação Correnteza",
         "crates": [
             {
@@ -448,6 +480,7 @@
     {
         "id": "key-1391",
         "name": "Chave da Caixa dos Sonhos e Pesadelos",
+        "name_original": "crate_key_community_30",
         "description": "Esta chave só abre a Caixa dos Sonhos e Pesadelos",
         "crates": [
             {
@@ -461,6 +494,7 @@
     {
         "id": "key-1392",
         "name": "Chave da Caixa do Coice",
+        "name_original": "crate_key_community_31",
         "description": "Esta chave só abre a Caixa do Coice",
         "crates": [
             {
@@ -474,6 +508,7 @@
     {
         "id": "key-1393",
         "name": "Chave da Caixa da Revolução",
+        "name_original": "crate_key_community_32",
         "description": "Esta chave só abre a Caixa da Revolução",
         "crates": [
             {
@@ -487,6 +522,7 @@
     {
         "id": "key-1394",
         "name": "Chave da Caixa Quilowatt",
+        "name_original": "crate_key_community_33",
         "description": "Esta chave só abre a Caixa Quilowatt",
         "crates": [
             {
@@ -500,6 +536,7 @@
     {
         "id": "key-7000",
         "name": "Chave da Caixa da Operação Fogo Selvagem",
+        "name_original": "crate_key_community_11",
         "description": "Esta chave só abre a Caixa da Operação Fogo Selvagem",
         "crates": [
             {

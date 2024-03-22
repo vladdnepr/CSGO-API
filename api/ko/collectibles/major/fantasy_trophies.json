@@ -2,6 +2,7 @@
     {
         "id": "collectible-914",
         "name": "클루지나포카 2015 환상 대전 동 트로피",
+        "name_original": "CollectibleCoin_Cluj2015_FantasyBronze",
         "description": "DreamHack 클루지나포카 2015 환상 대전에서 수상한 동 트로피입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -14,6 +15,7 @@
     {
         "id": "collectible-915",
         "name": "클루지나포카 2015 환상 대전 은 트로피",
+        "name_original": "CollectibleCoin_Cluj2015_FantasySilver",
         "description": "DreamHack 클루지나포카 2015 환상 대전에서 수상한 은 트로피입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -26,6 +28,7 @@
     {
         "id": "collectible-916",
         "name": "클루지나포카 2015 환상 대전 금 트로피",
+        "name_original": "CollectibleCoin_Cluj2015_FantasyGold",
         "description": "DreamHack 클루지나포카 2015 환상 대전에서 수상한 금 트로피입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -38,6 +41,7 @@
     {
         "id": "collectible-924",
         "name": "콜럼버스 2016 환상 대전 동 트로피",
+        "name_original": "CollectibleCoin_Columbus2016_FantasyBronze",
         "description": "MLG 콜럼버스 2016 환상 대전에서 수상한 동 트로피입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -50,6 +54,7 @@
     {
         "id": "collectible-925",
         "name": "콜럼버스 2016 환상 대전 은 트로피",
+        "name_original": "CollectibleCoin_Columbus2016_FantasySilver",
         "description": "MLG 콜럼버스 2016 환상 대전에서 수상한 은 트로피입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -62,6 +67,7 @@
     {
         "id": "collectible-926",
         "name": "콜럼버스 2016 환상 대전 금 트로피",
+        "name_original": "CollectibleCoin_Columbus2016_FantasyGold",
         "description": "MLG 콜럼버스 2016 환상 대전에서 수상한 금 트로피입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -74,6 +80,7 @@
     {
         "id": "collectible-938",
         "name": "쾰른 2016 환상 대전 동 트로피",
+        "name_original": "CollectibleCoin_Cologne2016_FantasyBronze",
         "description": "ESL One 쾰른 2016 환상 대전에서 수상한 동 트로피입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -86,6 +93,7 @@
     {
         "id": "collectible-939",
         "name": "쾰른 2016 환상 대전 은 트로피",
+        "name_original": "CollectibleCoin_Cologne2016_FantasySilver",
         "description": "ESL One 쾰른 2016 환상 대전에서 수상한 은 트로피입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -98,6 +106,7 @@
     {
         "id": "collectible-940",
         "name": "쾰른 2016 환상 대전 금 트로피",
+        "name_original": "CollectibleCoin_Cologne2016_FantasyGold",
         "description": "ESL One 쾰른 2016 환상 대전에서 수상한 금 트로피입니다.",
         "rarity": {
             "id": "rarity_ancient",
