@@ -701,7 +701,7 @@
         "id": "crate-4016",
         "name": "Gói hình dán cộng đồng 1",
         "name_original": "crate_sticker_pack_community01",
-        "description": "This capsule contains a single community-designed sticker. A portion of the proceeds is shared equally among the included creators.",
+        "description": "Gói này chứa một hình dán được thiết kế bởi cộng đồng. Một phần doanh số sẽ được chia đều cho các tác giả tương ứng.",
         "type": "Sticker Capsule",
         "first_sale_date": "2014/06/11",
         "contains": [
@@ -5827,7 +5827,7 @@
     },
     {
         "id": "crate-4477",
-        "name": "Chicken Capsule",
+        "name": "Gói hình dán Chicken",
         "name_original": "crate_sticker_pack_chicken_capsule",
         "description": "Gói hình dán này chứa một loạt các hình dán từ họa sĩ cộng đồng Slid3.",
         "type": "Sticker Capsule",
@@ -6757,7 +6757,7 @@
     },
     {
         "id": "crate-4547",
-        "name": "Skill Groups Capsule",
+        "name": "Gói hình dán nhóm kỹ năng",
         "name_original": "crate_sticker_pack_skillgroup_capsule",
         "description": "Gói hình dán này chứa một loạt các hình dán từ họa sĩ cộng đồng daniDem.",
         "type": "Sticker Capsule",
@@ -7525,7 +7525,7 @@
     },
     {
         "id": "crate-4597",
-        "name": "Halo Capsule",
+        "name": "Gói hình dán Halo",
         "name_original": "crate_sticker_pack_halo_capsule",
         "description": "Gói hình dán này chứa nhiều hình dán từ 343 Industries.",
         "type": "Sticker Capsule",
@@ -7707,7 +7707,7 @@
     },
     {
         "id": "crate-4599",
-        "name": "Feral Predators Capsule",
+        "name": "Gói hình dán Feral Predators",
         "name_original": "crate_sticker_pack_feral_predators_capsule",
         "description": "Gói hình dán này chứa một loạt các hình dán từ họa sĩ cộng đồng 2Minds, OniLolz, và Zaphk.",
         "type": "Sticker Capsule",
@@ -17917,7 +17917,7 @@
         "id": "crate-4923",
         "name": "Gói hình dán huyền thoại | Copenhagen 2024",
         "name_original": "crate_sticker_pack_cph2024_legends",
-        "description": "This capsule contains a single Copenhagen 2024 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "description": "Gói hình dán này chứa một hình dán giấy, kim tuyến, ảnh toàn ký hoặc vàng của đội tham dự nhóm huyền thoại Copenhagen 2024.\\n\\n50% doanh số từ gói này sẽ được chia cho tổ chức tương ứng.\\n\\nHình dán đó có thể được dùng lên bất cứ vũ khí nào bạn sở hữu, và có thể cạo để trông mòn hơn. Bạn có thể cạo một hình dán nhiều lần, khiến nó càng mòn thêm, cho tới khi tróc khỏi vũ khí.",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "contains": [
@@ -18289,7 +18289,7 @@
         "id": "crate-4924",
         "name": "Gói hình dán thách đấu | Copenhagen 2024",
         "name_original": "crate_sticker_pack_cph2024_challengers",
-        "description": "This capsule contains a single Copenhagen 2024 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "description": "Gói hình dán này chứa một hình dán giấy, kim tuyến, ảnh toàn ký hoặc vàng của đội tham dự nhóm thách đấu Copenhagen 2024.\\n\\n50% doanh số từ gói này sẽ được chia cho tổ chức tương ứng.\\n\\nHình dán đó có thể được dùng lên bất cứ vũ khí nào bạn sở hữu, và có thể cạo để trông mòn hơn. Bạn có thể cạo một hình dán nhiều lần, khiến nó càng mòn thêm, cho tới khi tróc khỏi vũ khí.",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "contains": [
@@ -18445,7 +18445,7 @@
             },
             {
                 "id": "sticker-7311",
-                "name": "GamerLegion (Glitter) | Copenhagen 2024",
+                "name": "GamerLegion (Kim tuyến) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -18535,7 +18535,7 @@
             },
             {
                 "id": "sticker-7312",
-                "name": "GamerLegion (Holo) | Copenhagen 2024",
+                "name": "GamerLegion (Ảnh toàn ký) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -18625,7 +18625,7 @@
             },
             {
                 "id": "sticker-7313",
-                "name": "GamerLegion (Gold) | Copenhagen 2024",
+                "name": "GamerLegion (Vàng) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -18659,9 +18659,9 @@
     },
     {
         "id": "crate-4925",
-        "name": "Copenhagen 2024 Contenders Sticker Capsule",
+        "name": "Gói hình dán đương đầu | Copenhagen 2024",
         "name_original": "crate_sticker_pack_cph2024_contenders",
-        "description": "This capsule contains a single Copenhagen 2024 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "description": "Gói hình dán này chứa một hình dán giấy, kim tuyến, ảnh toàn ký hoặc vàng của đội tham dự nhóm đương đầu Copenhagen 2024.\\n\\n50% doanh số từ gói này sẽ được chia cho tổ chức tương ứng.\\n\\nHình dán đó có thể được dùng lên bất cứ vũ khí nào bạn sở hữu, và có thể cạo để trông mòn hơn. Bạn có thể cạo một hình dán nhiều lần, khiến nó càng mòn thêm, cho tới khi tróc khỏi vũ khí.",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "contains": [
