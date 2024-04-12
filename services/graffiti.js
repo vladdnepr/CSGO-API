@@ -45,6 +45,7 @@ const parseItemSealedGraffiti = (item) => {
                     name: `${$t("csgo_tool_spray")} | ${$t(
                         item.item_name
                     )} (${$t(colorKey)})`,
+                    name_original: item.item_name,
                     description: getDescription(item),
                     rarity: {
                         id: `rarity_${item.item_rarity}`,
