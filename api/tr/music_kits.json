@@ -1,5 +1,18 @@
 [
     {
+        "id": "music_kit-2",
+        "name": null,
+        "name_original": "valve_02",
+        "description": null,
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Yüksek Sınıf",
+            "color": "#4b69ff"
+        },
+        "exclusive": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/valve_02_png.png"
+    },
+    {
         "id": "music_kit-3",
         "name": "Müzik Kiti | Daniel Sadowski, Crimson Assault",
         "name_original": "danielsadowski_01",
@@ -1002,15 +1015,15 @@
     },
     {
         "id": "music_kit-42",
-        "name": "Half-Life: Alyx, Bölücü",
-        "name_original": "halflife_alyx_01",
+        "name": null,
+        "name_original": "hlalyx_01",
         "description": "Bu müzik kiti, Valve'ın Half-Life serisine VR ile döndüğü son oyunu olan Half-Life: Alyx'in anısınadır. İnsanlığın hayatta kalmak için son umudu sensin ve seni sürüklemeye devam eden maceraları Counter-Strike: Global Offensive'te de yaşamaya devam edebileceksin.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Yüksek Sınıf",
             "color": "#4b69ff"
         },
-        "exclusive": true,
+        "exclusive": false,
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/hlalyx_01_png.png"
     },
     {
@@ -1701,6 +1714,19 @@
         },
         "exclusive": false,
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/denzelcurry_01_png.png"
+    },
+    {
+        "id": "music_kit-70",
+        "name": null,
+        "name_original": "valve_01",
+        "description": "Varsayılan CS:GO müzik kiti, 2012 yılında CS:GO'yla birlikte çıktı.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Yüksek Sınıf",
+            "color": "#4b69ff"
+        },
+        "exclusive": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/valve_01_png.png"
     },
     {
         "id": "music_kit-71",
