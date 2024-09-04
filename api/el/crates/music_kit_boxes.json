@@ -83,9 +83,9 @@
     },
     {
         "id": "crate-4696",
-        "name": "Σύνολο μουσικών κουτιών Masterminds",
+        "name": "Πακέτο μουσικών κουτιών Masterminds",
         "name_original": "crate_musickit_masterminds_capsule",
-        "description": "Αυτό το σύνολο περιέχει μια ποικιλία μουσικών κουτιών από διάφορους συνθέτες.",
+        "description": "Αυτό το πακέτο περιέχει μια ποικιλία μουσικών κουτιών από διάφορους συνθέτες.",
         "type": "Music Kit Box",
         "first_sale_date": "2020/04/22",
         "contains": [
@@ -679,15 +679,15 @@
     },
     {
         "id": "crate-4946",
-        "name": "Masterminds 2 Music Kit Box",
+        "name": "Πακέτο μουσικών κουτιών Masterminds 2",
         "name_original": "crate_musickit_masterminds2_capsule",
-        "description": "This box contains a variety of music kits from various composers.",
+        "description": "Αυτό το πακέτο περιέχει μια ποικιλία μουσικών κουτιών από διάφορους συνθέτες.",
         "type": "Music Kit Box",
         "first_sale_date": "2024-08-15",
         "contains": [
             {
                 "id": "music_kit-82",
-                "name": "Music Kit | Matt Levine, Agency",
+                "name": "Μουσικό κουτί | Matt Levine, Agency",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -697,7 +697,7 @@
             },
             {
                 "id": "music_kit-85",
-                "name": "Music Kit | Tree Adams, Seventh Moon",
+                "name": "Μουσικό κουτί | Tree Adams, Seventh Moon",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -707,7 +707,7 @@
             },
             {
                 "id": "music_kit-79",
-                "name": "Music Kit | Ben Bromfield, Rabbit Hole",
+                "name": "Μουσικό κουτί | Ben Bromfield, Rabbit Hole",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -717,7 +717,7 @@
             },
             {
                 "id": "music_kit-84",
-                "name": "Music Kit | Tim Huling, Devil's Paintbrush",
+                "name": "Μουσικό κουτί | Tim Huling, Devil's Paintbrush",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -727,7 +727,7 @@
             },
             {
                 "id": "music_kit-81",
-                "name": "Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
+                "name": "Μουσικό κουτί | Dren McDonald, Coffee! Kofe! Kahveh!",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -737,7 +737,7 @@
             },
             {
                 "id": "music_kit-83",
-                "name": "Music Kit | Sam Marshall, Clutch",
+                "name": "Μουσικό κουτί | Sam Marshall, Clutch",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -747,7 +747,7 @@
             },
             {
                 "id": "music_kit-78",
-                "name": "Music Kit | Austin Wintory, The Devil Went Clubbing In Georgia",
+                "name": "Μουσικό κουτί | Austin Wintory, The Devil Went Clubbing In Georgia",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -757,7 +757,7 @@
             },
             {
                 "id": "music_kit-80",
-                "name": "Music Kit | Daniel Sadowski, Dead Shot",
+                "name": "Μουσικό κουτί | Daniel Sadowski, Dead Shot",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -771,15 +771,15 @@
     },
     {
         "id": "crate-4947",
-        "name": "StatTrak™ Masterminds 2 Music Kit Box",
+        "name": "Πακέτο μουσικών κουτιών StatTrak™ Masterminds 2",
         "name_original": "crate_musickit_masterminds2_stattrak_capsule",
-        "description": "This box contains a variety of StatTrak™ music kits from various composers.",
+        "description": "Αυτό το πακέτο περιέχει μια ποικιλία μουσικών κουτιών StatTrak™ από διάφορους συνθέτες.",
         "type": "Music Kit Box",
         "first_sale_date": "2024-08-15",
         "contains": [
             {
                 "id": "music_kit-82",
-                "name": "Music Kit | Matt Levine, Agency",
+                "name": "Μουσικό κουτί | Matt Levine, Agency",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -789,7 +789,7 @@
             },
             {
                 "id": "music_kit-85",
-                "name": "Music Kit | Tree Adams, Seventh Moon",
+                "name": "Μουσικό κουτί | Tree Adams, Seventh Moon",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -799,7 +799,7 @@
             },
             {
                 "id": "music_kit-79",
-                "name": "Music Kit | Ben Bromfield, Rabbit Hole",
+                "name": "Μουσικό κουτί | Ben Bromfield, Rabbit Hole",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -809,7 +809,7 @@
             },
             {
                 "id": "music_kit-84",
-                "name": "Music Kit | Tim Huling, Devil's Paintbrush",
+                "name": "Μουσικό κουτί | Tim Huling, Devil's Paintbrush",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -819,7 +819,7 @@
             },
             {
                 "id": "music_kit-81",
-                "name": "Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
+                "name": "Μουσικό κουτί | Dren McDonald, Coffee! Kofe! Kahveh!",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -829,7 +829,7 @@
             },
             {
                 "id": "music_kit-83",
-                "name": "Music Kit | Sam Marshall, Clutch",
+                "name": "Μουσικό κουτί | Sam Marshall, Clutch",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -839,7 +839,7 @@
             },
             {
                 "id": "music_kit-78",
-                "name": "Music Kit | Austin Wintory, The Devil Went Clubbing In Georgia",
+                "name": "Μουσικό κουτί | Austin Wintory, The Devil Went Clubbing In Georgia",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
@@ -849,7 +849,7 @@
             },
             {
                 "id": "music_kit-80",
-                "name": "Music Kit | Daniel Sadowski, Dead Shot",
+                "name": "Μουσικό κουτί | Daniel Sadowski, Dead Shot",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "High Grade",
