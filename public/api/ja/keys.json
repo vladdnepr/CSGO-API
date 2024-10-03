@@ -2,6 +2,7 @@
   {
     "id": "key-generic_valve_key",
     "name": "CS:GO ケースの鍵",
+    "name_original": "Tool_WeaponCase_Key",
     "description": "この鍵は あらゆる Valve シリーズの武器ケースを開きます。Valve シリーズ以外のケース (例:eSports Case) を開くには専用の鍵が必要です。",
     "market_hash_name": "CS:GO Case Key",
     "crates": [
@@ -31,6 +32,7 @@
   {
     "id": "key-1204",
     "name": "eSports 鍵",
+    "name_original": "esports_crate_key_1",
     "description": "この鍵はすべての eSports ケースを開きます。\\n\\nこの鍵の売上からの収益の一部は、認められたコミュニティが運営する CS:GO トーナメントの1つに回されます。さらなる発表を後日お伝えします。",
     "market_hash_name": "eSports Key",
     "crates": [
@@ -55,6 +57,7 @@
   {
     "id": "key-1212",
     "name": "CS:GO カプセルの鍵",
+    "name_original": "sticker_crate_key_1",
     "description": "この鍵は、あらゆる Valve シリーズのカプセルを開きます。",
     "market_hash_name": "CS:GO Capsule Key",
     "crates": [
@@ -74,6 +77,7 @@
   {
     "id": "key-1214",
     "name": "Winter Offensive ケースの鍵",
+    "name_original": "community_crate_key_1",
     "description": "この鍵は Winter Offensive ケースしか開けません",
     "market_hash_name": "Winter Offensive Case Key",
     "crates": [
@@ -88,6 +92,7 @@
   {
     "id": "key-1303",
     "name": "Operation Phoenix ケースの鍵",
+    "name_original": "community_crate_key_2",
     "description": "この鍵では Operation Phoenix ケースしか開けません",
     "market_hash_name": "Operation Phoenix Case Key",
     "crates": [
@@ -102,6 +107,7 @@
   {
     "id": "key-1304",
     "name": "コミュニティステッカーカプセル 1 の鍵",
+    "name_original": "sticker_crate_key_community01",
     "description": "この鍵はコミュニティステッカーカプセルを開きます。\\n\\nこの鍵の売上からの収益の一部はステッカーの製作者に回されます。",
     "market_hash_name": "Community Sticker Capsule 1 Key",
     "crates": [
@@ -116,6 +122,7 @@
   {
     "id": "key-1305",
     "name": "Huntsman ケースの鍵",
+    "name_original": "community_crate_key_3",
     "description": "この鍵では Huntsman ケースしか開けません",
     "market_hash_name": "Huntsman Case Key",
     "crates": [
@@ -130,6 +137,7 @@
   {
     "id": "key-1309",
     "name": "Operation Breakout ケースの鍵",
+    "name_original": "community_crate_key_4",
     "description": "この鍵は Operation Breakout のケースしか開けません。",
     "market_hash_name": "Operation Breakout Case Key",
     "crates": [
@@ -144,6 +152,7 @@
   {
     "id": "key-1322",
     "name": "Operation Vanguard ケースの鍵",
+    "name_original": "community_crate_key_5",
     "description": "この鍵は Operation Vanguard ケースしか開けることができません",
     "market_hash_name": "Operation Vanguard Case Key",
     "crates": [
@@ -158,6 +167,7 @@
   {
     "id": "key-1323",
     "name": "Chroma ケースの鍵",
+    "name_original": "community_crate_key_6",
     "description": "この鍵は Chroma ケースしか開けることができません",
     "market_hash_name": "Chroma Case Key",
     "crates": [
@@ -172,6 +182,7 @@
   {
     "id": "key-1325",
     "name": "Chroma 2 ケースの鍵",
+    "name_original": "community_crate_key_7",
     "description": "この鍵は Chroma 2 ケースしか開けることができません",
     "market_hash_name": "Chroma 2 Case Key",
     "crates": [
@@ -186,6 +197,7 @@
   {
     "id": "key-1330",
     "name": "Falchion ケースの鍵",
+    "name_original": "community_crate_key_8",
     "description": "この鍵は Falchion ケースしか開けることができません",
     "market_hash_name": "Falchion Case Key",
     "crates": [
@@ -200,6 +212,7 @@
   {
     "id": "key-1333",
     "name": "Shadow ケースの鍵",
+    "name_original": "community_crate_key_9",
     "description": "この鍵は Shadow ケースしか開けることができません",
     "market_hash_name": "Shadow Case Key",
     "crates": [
@@ -214,6 +227,7 @@
   {
     "id": "key-1334",
     "name": "Revolver ケースの鍵",
+    "name_original": "crate_community_10_key",
     "description": "この鍵は Revolver ケースしか開けることができません",
     "market_hash_name": "Revolver Case Key",
     "crates": [
@@ -228,6 +242,7 @@
   {
     "id": "key-1347",
     "name": "Chroma 3 ケースの鍵",
+    "name_original": "crate_key_community_12",
     "description": "この鍵は Chroma 3 ケースしか開けることができません",
     "market_hash_name": "Chroma 3 Case Key",
     "crates": [
@@ -242,6 +257,7 @@
   {
     "id": "key-1350",
     "name": "Gamma ケースの鍵",
+    "name_original": "crate_key_community_13",
     "description": "この鍵は Gamma ケースしか開けません。",
     "market_hash_name": "Gamma Case Key",
     "crates": [
@@ -256,6 +272,7 @@
   {
     "id": "key-1351",
     "name": "Gamma 2 ケースの鍵",
+    "name_original": "crate_key_gamma_2",
     "description": "この鍵は Gamma 2 ケースしか開けません。",
     "market_hash_name": "Gamma 2 Case Key",
     "crates": [
@@ -270,6 +287,7 @@
   {
     "id": "key-1356",
     "name": "グローブケースの鍵",
+    "name_original": "crate_key_community_15",
     "description": "この鍵は Glove ケースしか開けることができません",
     "market_hash_name": "Glove Case Key",
     "crates": [
@@ -284,6 +302,7 @@
   {
     "id": "key-1364",
     "name": "Spectrum ケースの鍵",
+    "name_original": "crate_key_community_16",
     "description": "この鍵は Spectrum ケースしか開けることができません",
     "market_hash_name": "Spectrum Case Key",
     "crates": [
@@ -298,6 +317,7 @@
   {
     "id": "key-1365",
     "name": "Operation Hydra ケースの鍵",
+    "name_original": "crate_key_community_17",
     "description": "この鍵は Operation Hydra ケースしか開けることができません",
     "market_hash_name": "Operation Hydra Case Key",
     "crates": [
@@ -312,6 +332,7 @@
   {
     "id": "key-1366",
     "name": "Spectrum 2 ケースの鍵",
+    "name_original": "crate_key_community_18",
     "description": "この鍵は Spectrum 2 ケースしか開けることができません",
     "market_hash_name": "Spectrum 2 Case Key",
     "crates": [
@@ -326,6 +347,7 @@
   {
     "id": "key-1373",
     "name": "Clutch ケースの鍵",
+    "name_original": "crate_key_community_19",
     "description": "この鍵は Clutch ケースしか開けることができません",
     "market_hash_name": "Clutch Case Key",
     "crates": [
@@ -340,6 +362,7 @@
   {
     "id": "key-1374",
     "name": "Horizon ケースキー",
+    "name_original": "crate_key_community_20",
     "description": "この鍵は Horizon ケースしか開けることができません",
     "market_hash_name": "Horizon Case Key",
     "crates": [
@@ -354,6 +377,7 @@
   {
     "id": "key-1375",
     "name": "Danger Zone ケースの鍵",
+    "name_original": "crate_key_community_21",
     "description": "この鍵は Danger Zone ケースしか開けることができません",
     "market_hash_name": "Danger Zone Case Key",
     "crates": [
@@ -368,6 +392,7 @@
   {
     "id": "key-1383",
     "name": "Prisma ケースの鍵",
+    "name_original": "crate_key_community_22",
     "description": "この鍵は Prisma ケースしか開けません。",
     "market_hash_name": "Prisma Case Key",
     "crates": [
@@ -382,6 +407,7 @@
   {
     "id": "key-1384",
     "name": "Shattered Web ケースの鍵",
+    "name_original": "crate_key_community_23",
     "description": "この鍵は Shattered Web ケースしか開けることができません",
     "market_hash_name": "Shattered Web Case Key",
     "crates": [
@@ -396,6 +422,7 @@
   {
     "id": "key-1385",
     "name": "CS20 ケースの鍵",
+    "name_original": "crate_key_community_24",
     "description": "この鍵は CS20 ケースしか開けることができません",
     "market_hash_name": "CS20 Case Key",
     "crates": [
@@ -410,6 +437,7 @@
   {
     "id": "key-1386",
     "name": "Prisma 2 ケースの鍵",
+    "name_original": "crate_key_community_25",
     "description": "この鍵は Prisma 2 ケースしか開けません。",
     "market_hash_name": "Prisma 2 Case Key",
     "crates": [
@@ -424,6 +452,7 @@
   {
     "id": "key-1387",
     "name": "Fracture ケースの鍵",
+    "name_original": "crate_key_community_26",
     "description": "この鍵は Fracture ケースしか開けることができません",
     "market_hash_name": "Fracture Case Key",
     "crates": [
@@ -438,6 +467,7 @@
   {
     "id": "key-1388",
     "name": "Operation Broken Fang ケースの鍵",
+    "name_original": "crate_key_community_27",
     "description": "この鍵は Operation Broken Fang のケースしか開けません。",
     "market_hash_name": "Operation Broken Fang Case Key",
     "crates": [
@@ -452,6 +482,7 @@
   {
     "id": "key-1389",
     "name": "Snakebite ケースの鍵",
+    "name_original": "crate_key_community_28",
     "description": "この鍵は Snakebite ケースしか開けることができません",
     "market_hash_name": "Snakebite Case Key",
     "crates": [
@@ -466,6 +497,7 @@
   {
     "id": "key-1390",
     "name": "Operation Riptide ケースの鍵",
+    "name_original": "crate_key_community_29",
     "description": "この鍵は Operation Riptide ケースしか開けることができません",
     "market_hash_name": "Operation Riptide Case Key",
     "crates": [
@@ -480,6 +512,7 @@
   {
     "id": "key-1391",
     "name": "Dreams & Nightmares ケースの鍵",
+    "name_original": "crate_key_community_30",
     "description": "この鍵は Dreams & Nightmares ケースしか開けることができません",
     "market_hash_name": "Dreams & Nightmares Case Key",
     "crates": [
@@ -494,6 +527,7 @@
   {
     "id": "key-1392",
     "name": "Recoil ケースの鍵",
+    "name_original": "crate_key_community_31",
     "description": "この鍵は Recoil ケースしか開けることができません",
     "market_hash_name": "Recoil Case Key",
     "crates": [
@@ -508,6 +542,7 @@
   {
     "id": "key-1393",
     "name": "Revolution ケースの鍵",
+    "name_original": "crate_key_community_32",
     "description": "この鍵は Revolution ケースしか開けることができません",
     "market_hash_name": "Revolution Case Key",
     "crates": [
@@ -522,6 +557,7 @@
   {
     "id": "key-1394",
     "name": "Kilowatt ケースの鍵",
+    "name_original": "crate_key_community_33",
     "description": "この鍵は Kilowatt ケースしか開けることができません",
     "market_hash_name": "Kilowatt Case Key",
     "crates": [
@@ -536,6 +572,7 @@
   {
     "id": "key-7000",
     "name": "Operation Wildfire ケースの鍵",
+    "name_original": "crate_key_community_11",
     "description": "この鍵は Operation Wildfire ケースしか開けることができません",
     "market_hash_name": "Operation Wildfire Case Key",
     "crates": [
@@ -550,6 +587,7 @@
   {
     "id": "key-7002",
     "name": "Gallery Case Key",
+    "name_original": "crate_key_community_34",
     "description": "This key only opens Gallery cases",
     "market_hash_name": "Gallery Case Key",
     "crates": [

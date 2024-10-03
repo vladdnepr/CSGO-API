@@ -2,6 +2,7 @@
   {
     "id": "key-generic_valve_key",
     "name": "CS:GO 상자 열쇠",
+    "name_original": "Tool_WeaponCase_Key",
     "description": "이 열쇠는 Valve 시리즈 무기 상자를 여는 데 사용됩니다. 그 이외의 상자들(예를 들어 eSports 상자)을 열기 위해서는 상자 시리즈에 맞는 열쇠가 필요합니다.",
     "market_hash_name": "CS:GO Case Key",
     "crates": [
@@ -31,6 +32,7 @@
   {
     "id": "key-1204",
     "name": "eSports 열쇠",
+    "name_original": "esports_crate_key_1",
     "description": "이 열쇠로 eSports 상자를 열어볼 수 있습니다.\\n\\n이 열쇠의 수익금 중 일부는 CS:GO 토너먼트를 개최하는 커뮤니티에 돌아갑니다. 추후에 공지될 소식을 놓치지 마세요.",
     "market_hash_name": "eSports Key",
     "crates": [
@@ -55,6 +57,7 @@
   {
     "id": "key-1212",
     "name": "스티커 캡슐 열쇠",
+    "name_original": "sticker_crate_key_1",
     "description": "이 열쇠는 Valve 시리즈 스티커 캡슐을 열 수 있습니다.",
     "market_hash_name": "CS:GO Capsule Key",
     "crates": [
@@ -74,6 +77,7 @@
   {
     "id": "key-1214",
     "name": "Winter Offensive 상자 열쇠",
+    "name_original": "community_crate_key_1",
     "description": "이 열쇠는 Winter Offensive 상자만 열 수 있습니다.",
     "market_hash_name": "Winter Offensive Case Key",
     "crates": [
@@ -88,6 +92,7 @@
   {
     "id": "key-1303",
     "name": "피닉스 작전 상자 열쇠",
+    "name_original": "community_crate_key_2",
     "description": "이 열쇠는 피닉스 작전 상자만 열 수 있습니다.",
     "market_hash_name": "Operation Phoenix Case Key",
     "crates": [
@@ -102,6 +107,7 @@
   {
     "id": "key-1304",
     "name": "커뮤니티 스티커 캡술 1 열쇠",
+    "name_original": "sticker_crate_key_community01",
     "description": "이 열쇠는 커뮤니티 스티커 캡슐 1을 열 수 있습니다.\\n\\n이 열쇠 판매 수익의 일부분은 스티커 제작자들에게 돌아갑니다.",
     "market_hash_name": "Community Sticker Capsule 1 Key",
     "crates": [
@@ -116,6 +122,7 @@
   {
     "id": "key-1305",
     "name": "헌츠맨 무기 상자 열쇠",
+    "name_original": "community_crate_key_3",
     "description": "이 열쇠는 헌츠맨 무기 상자만 열 수 있습니다.",
     "market_hash_name": "Huntsman Case Key",
     "crates": [
@@ -130,6 +137,7 @@
   {
     "id": "key-1309",
     "name": "돌파 작전 상자 열쇠",
+    "name_original": "community_crate_key_4",
     "description": "이 열쇠는 돌파 작전 상자만 열 수 있습니다.",
     "market_hash_name": "Operation Breakout Case Key",
     "crates": [
@@ -144,6 +152,7 @@
   {
     "id": "key-1322",
     "name": "선봉 작전 상자 열쇠",
+    "name_original": "community_crate_key_5",
     "description": "이 열쇠는 선봉 작전 상자만 열 수 있습니다.",
     "market_hash_name": "Operation Vanguard Case Key",
     "crates": [
@@ -158,6 +167,7 @@
   {
     "id": "key-1323",
     "name": "크로마 상자 열쇠",
+    "name_original": "community_crate_key_6",
     "description": "이 열쇠는 크로마 상자만 열 수 있습니다.",
     "market_hash_name": "Chroma Case Key",
     "crates": [
@@ -172,6 +182,7 @@
   {
     "id": "key-1325",
     "name": "크로마 2 상자 열쇠",
+    "name_original": "community_crate_key_7",
     "description": "이 열쇠는 크로마 2 상자만 열 수 있습니다.",
     "market_hash_name": "Chroma 2 Case Key",
     "crates": [
@@ -186,6 +197,7 @@
   {
     "id": "key-1330",
     "name": "파르치온 상자 열쇠",
+    "name_original": "community_crate_key_8",
     "description": "이 열쇠는 파르치온 상자만 열 수 있습니다.",
     "market_hash_name": "Falchion Case Key",
     "crates": [
@@ -200,6 +212,7 @@
   {
     "id": "key-1333",
     "name": "그림자 상자 열쇠",
+    "name_original": "community_crate_key_9",
     "description": "이 열쇠는 그림자 상자만 열 수 있습니다.",
     "market_hash_name": "Shadow Case Key",
     "crates": [
@@ -214,6 +227,7 @@
   {
     "id": "key-1334",
     "name": "리볼버 상자 열쇠",
+    "name_original": "crate_community_10_key",
     "description": "이 열쇠는 리볼버 상자만 열 수 있습니다.",
     "market_hash_name": "Revolver Case Key",
     "crates": [
@@ -228,6 +242,7 @@
   {
     "id": "key-1347",
     "name": "크로마 3 상자 열쇠",
+    "name_original": "crate_key_community_12",
     "description": "이 열쇠는 크로마 3 상자만 열 수 있습니다.",
     "market_hash_name": "Chroma 3 Case Key",
     "crates": [
@@ -242,6 +257,7 @@
   {
     "id": "key-1350",
     "name": "감마 상자 열쇠",
+    "name_original": "crate_key_community_13",
     "description": "이 열쇠는 감마 상자만 열 수 있습니다.",
     "market_hash_name": "Gamma Case Key",
     "crates": [
@@ -256,6 +272,7 @@
   {
     "id": "key-1351",
     "name": "감마 2 상자 열쇠",
+    "name_original": "crate_key_gamma_2",
     "description": "이 열쇠는 감마 2 상자만 열 수 있습니다.",
     "market_hash_name": "Gamma 2 Case Key",
     "crates": [
@@ -270,6 +287,7 @@
   {
     "id": "key-1356",
     "name": "장갑 상자 열쇠",
+    "name_original": "crate_key_community_15",
     "description": "이 열쇠는 장갑 상자만 열 수 있습니다.",
     "market_hash_name": "Glove Case Key",
     "crates": [
@@ -284,6 +302,7 @@
   {
     "id": "key-1364",
     "name": "스펙트럼 상자 열쇠",
+    "name_original": "crate_key_community_16",
     "description": "이 열쇠는 스펙트럼 상자만 열 수 있습니다.",
     "market_hash_name": "Spectrum Case Key",
     "crates": [
@@ -298,6 +317,7 @@
   {
     "id": "key-1365",
     "name": "히드라 작전 상자 열쇠",
+    "name_original": "crate_key_community_17",
     "description": "이 열쇠는 히드라 작전 상자만 열 수 있습니다.",
     "market_hash_name": "Operation Hydra Case Key",
     "crates": [
@@ -312,6 +332,7 @@
   {
     "id": "key-1366",
     "name": "스펙트럼 2 상자 열쇠",
+    "name_original": "crate_key_community_18",
     "description": "이 열쇠는 스펙트럼 2 상자만 열 수 있습니다.",
     "market_hash_name": "Spectrum 2 Case Key",
     "crates": [
@@ -326,6 +347,7 @@
   {
     "id": "key-1373",
     "name": "클러치 상자 열쇠",
+    "name_original": "crate_key_community_19",
     "description": "이 열쇠는 클러치 상자만 열 수 있습니다.",
     "market_hash_name": "Clutch Case Key",
     "crates": [
@@ -340,6 +362,7 @@
   {
     "id": "key-1374",
     "name": "호라이즌 상자 열쇠",
+    "name_original": "crate_key_community_20",
     "description": "이 열쇠는 호라이즌 상자만 열 수 있습니다.",
     "market_hash_name": "Horizon Case Key",
     "crates": [
@@ -354,6 +377,7 @@
   {
     "id": "key-1375",
     "name": "위험지대 상자 열쇠",
+    "name_original": "crate_key_community_21",
     "description": "이 열쇠는 위험지대 상자만 열 수 있습니다.",
     "market_hash_name": "Danger Zone Case Key",
     "crates": [
@@ -368,6 +392,7 @@
   {
     "id": "key-1383",
     "name": "프리즈마 상자 열쇠",
+    "name_original": "crate_key_community_22",
     "description": "이 열쇠는 프리즈마 상자만 열 수 있습니다.",
     "market_hash_name": "Prisma Case Key",
     "crates": [
@@ -382,6 +407,7 @@
   {
     "id": "key-1384",
     "name": "파괴 망 상자 열쇠",
+    "name_original": "crate_key_community_23",
     "description": "이 열쇠는 파괴 망 상자만 열 수 있습니다.",
     "market_hash_name": "Shattered Web Case Key",
     "crates": [
@@ -396,6 +422,7 @@
   {
     "id": "key-1385",
     "name": "CS20 상자 열쇠",
+    "name_original": "crate_key_community_24",
     "description": "이 열쇠는 CS20 상자만 열 수 있습니다.",
     "market_hash_name": "CS20 Case Key",
     "crates": [
@@ -410,6 +437,7 @@
   {
     "id": "key-1386",
     "name": "프리즈마 2 상자 열쇠",
+    "name_original": "crate_key_community_25",
     "description": "이 열쇠는 프리즈마 2 상자만 열 수 있습니다.",
     "market_hash_name": "Prisma 2 Case Key",
     "crates": [
@@ -424,6 +452,7 @@
   {
     "id": "key-1387",
     "name": "프랙처 상자 열쇠",
+    "name_original": "crate_key_community_26",
     "description": "이 열쇠는 프랙처 상자만 열 수 있습니다.",
     "market_hash_name": "Fracture Case Key",
     "crates": [
@@ -438,6 +467,7 @@
   {
     "id": "key-1388",
     "name": "브로큰 팽 작전 상자 열쇠",
+    "name_original": "crate_key_community_27",
     "description": "이 열쇠는 브로큰 팽 작전 상자만 열 수 있습니다.",
     "market_hash_name": "Operation Broken Fang Case Key",
     "crates": [
@@ -452,6 +482,7 @@
   {
     "id": "key-1389",
     "name": "스네이크바이트 상자 열쇠",
+    "name_original": "crate_key_community_28",
     "description": "이 열쇠는 스네이크바이트 상자만 열 수 있습니다.",
     "market_hash_name": "Snakebite Case Key",
     "crates": [
@@ -466,6 +497,7 @@
   {
     "id": "key-1390",
     "name": "립타이드 작전 상자 열쇠",
+    "name_original": "crate_key_community_29",
     "description": "이 열쇠는 립타이드 작전 상자만 열 수 있습니다.",
     "market_hash_name": "Operation Riptide Case Key",
     "crates": [
@@ -480,6 +512,7 @@
   {
     "id": "key-1391",
     "name": "Dreams & Nightmares 상자 열쇠",
+    "name_original": "crate_key_community_30",
     "description": "이 열쇠는 Dreams & Nightmares 상자만 열 수 있습니다.",
     "market_hash_name": "Dreams & Nightmares Case Key",
     "crates": [
@@ -494,6 +527,7 @@
   {
     "id": "key-1392",
     "name": "리코일 상자 열쇠",
+    "name_original": "crate_key_community_31",
     "description": "이 열쇠는 리코일 상자만 열 수 있습니다.",
     "market_hash_name": "Recoil Case Key",
     "crates": [
@@ -508,6 +542,7 @@
   {
     "id": "key-1393",
     "name": "레볼루션 상자 열쇠",
+    "name_original": "crate_key_community_32",
     "description": "이 열쇠는 레볼루션 상자만 열 수 있습니다.",
     "market_hash_name": "Revolution Case Key",
     "crates": [
@@ -522,6 +557,7 @@
   {
     "id": "key-1394",
     "name": "킬로와트 상자 열쇠",
+    "name_original": "crate_key_community_33",
     "description": "이 열쇠는 킬로와트 상자만 열 수 있습니다.",
     "market_hash_name": "Kilowatt Case Key",
     "crates": [
@@ -536,6 +572,7 @@
   {
     "id": "key-7000",
     "name": "들불 작전 상자 열쇠",
+    "name_original": "crate_key_community_11",
     "description": "이 열쇠는 들불 작전 상자만 열 수 있습니다.",
     "market_hash_name": "Operation Wildfire Case Key",
     "crates": [
@@ -550,6 +587,7 @@
   {
     "id": "key-7002",
     "name": "갤러리 상자 열쇠",
+    "name_original": "crate_key_community_34",
     "description": "이 열쇠는 갤러리 상자만 열 수 있습니다.",
     "market_hash_name": "Gallery Case Key",
     "crates": [

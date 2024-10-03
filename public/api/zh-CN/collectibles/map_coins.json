@@ -2,6 +2,7 @@
   {
     "id": "collectible-1004",
     "name": "突击博物馆地图币",
+    "name_original": "Collectible_MapTokenMuseum",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -16,6 +17,7 @@
   {
     "id": "collectible-1005",
     "name": "商业中心地图币",
+    "name_original": "Collectible_MapTokenDowntown",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -30,6 +32,7 @@
   {
     "id": "collectible-1006",
     "name": "霹雳行动地图币",
+    "name_original": "Collectible_MapTokenThunder",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -44,6 +47,7 @@
   {
     "id": "collectible-1007",
     "name": "决战贫民窟地图币",
+    "name_original": "Collectible_MapTokenFavela",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -58,6 +62,7 @@
   {
     "id": "collectible-1008",
     "name": "汽车旅馆地图币",
+    "name_original": "Collectible_MapTokenMotel",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -72,6 +77,7 @@
   {
     "id": "collectible-1009",
     "name": "海滨危机地图币",
+    "name_original": "Collectible_MapTokenSeaside",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -86,6 +92,7 @@
   {
     "id": "collectible-1010",
     "name": "火拼图书馆地图币",
+    "name_original": "Collectible_MapTokenLibrary",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -100,6 +107,7 @@
   {
     "id": "collectible-1016",
     "name": "办公大楼地图币",
+    "name_original": "Collectible_MapTokenAgency",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -114,6 +122,7 @@
   {
     "id": "collectible-1017",
     "name": "阿里镇地图币",
+    "name_original": "Collectible_MapTokenAli",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -128,6 +137,7 @@
   {
     "id": "collectible-1018",
     "name": "死城之谜地图币",
+    "name_original": "Collectible_MapTokenCache",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -142,6 +152,7 @@
   {
     "id": "collectible-1019",
     "name": "火拼华埠地图币",
+    "name_original": "Collectible_MapTokenChinatown",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -156,6 +167,7 @@
   {
     "id": "collectible-1020",
     "name": "瓜廖尔堡地图币",
+    "name_original": "Collectible_MapTokenGwalior",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -170,6 +182,7 @@
   {
     "id": "collectible-1021",
     "name": "玛雅遗址地图币",
+    "name_original": "Collectible_MapTokenRuins",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -184,6 +197,7 @@
   {
     "id": "collectible-1022",
     "name": "围攻之势地图币",
+    "name_original": "Collectible_MapTokenSiege",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -198,6 +212,7 @@
   {
     "id": "collectible-1031",
     "name": "绝壁城堡地图币",
+    "name_original": "Collectible_MapTokenCastle",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -212,6 +227,7 @@
   {
     "id": "collectible-1032",
     "name": "黑金钻井地图币",
+    "name_original": "Collectible_MapTokenBlackGold",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -226,6 +242,7 @@
   {
     "id": "collectible-1033",
     "name": "丛林突袭地图币",
+    "name_original": "Collectible_MapTokenRush",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -240,6 +257,7 @@
   {
     "id": "collectible-1034",
     "name": "雾隐雷达站地图币",
+    "name_original": "Collectible_MapTokenMist",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -254,6 +272,7 @@
   {
     "id": "collectible-1035",
     "name": "突入点地图币",
+    "name_original": "Collectible_MapTokenInsertion",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -268,6 +287,7 @@
   {
     "id": "collectible-1036",
     "name": "荒废船坞地图币",
+    "name_original": "Collectible_MapTokenOvergrown",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -282,6 +302,7 @@
   {
     "id": "collectible-1037",
     "name": "马奎斯城地图币",
+    "name_original": "Collectible_MapTokenMarquis",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -296,6 +317,7 @@
   {
     "id": "collectible-1038",
     "name": "健身中心地图币",
+    "name_original": "Collectible_MapTokenWorkout",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -310,6 +332,7 @@
   {
     "id": "collectible-1039",
     "name": "后巷地图币",
+    "name_original": "Collectible_MapTokenBackalley",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -324,6 +347,7 @@
   {
     "id": "collectible-1040",
     "name": "四季公司地图币",
+    "name_original": "Collectible_MapTokenSeason",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -338,6 +362,7 @@
   {
     "id": "collectible-1041",
     "name": "中东集市地图币",
+    "name_original": "Collectible_MapTokenBazaar",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -352,6 +377,7 @@
   {
     "id": "collectible-1042",
     "name": "正面突击地图币",
+    "name_original": "Collectible_MapTokenFacade",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -366,6 +392,7 @@
   {
     "id": "collectible-1043",
     "name": "伐木工厂地图币",
+    "name_original": "Collectible_MapTokenLog",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -380,6 +407,7 @@
   {
     "id": "collectible-1044",
     "name": "铁路站场地图币",
+    "name_original": "Collectible_MapTokenRails",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -394,6 +422,7 @@
   {
     "id": "collectible-1045",
     "name": "度假村地图币",
+    "name_original": "Collectible_MapTokenResort",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -408,6 +437,7 @@
   {
     "id": "collectible-1046",
     "name": "动物园地图币",
+    "name_original": "Collectible_MapTokenZoo",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -422,6 +452,7 @@
   {
     "id": "collectible-1047",
     "name": "圣托里尼地图币",
+    "name_original": "Collectible_MapTokenSantorini",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -436,6 +467,7 @@
   {
     "id": "collectible-1048",
     "name": "海滨古镇地图币",
+    "name_original": "Collectible_MapTokenCoast",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -450,6 +482,7 @@
   {
     "id": "collectible-1049",
     "name": "米卡拉巷地图币",
+    "name_original": "Collectible_MapTokenMikla",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -464,6 +497,7 @@
   {
     "id": "collectible-1050",
     "name": "皇家古堡地图币",
+    "name_original": "Collectible_MapTokenRoyal",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -478,6 +512,7 @@
   {
     "id": "collectible-1051",
     "name": "帝国州公司地图币",
+    "name_original": "Collectible_MapTokenEmpire",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -492,6 +527,7 @@
   {
     "id": "collectible-1052",
     "name": "郁金香城地图币",
+    "name_original": "Collectible_MapTokenTulip",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -506,6 +542,7 @@
   {
     "id": "collectible-1053",
     "name": "凶厄游轮地图币",
+    "name_original": "Collectible_MapTokenCruise",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -520,6 +557,7 @@
   {
     "id": "collectible-1054",
     "name": "极寒之境地图币",
+    "name_original": "Collectible_MapTokenSubzero",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -534,6 +572,7 @@
   {
     "id": "collectible-1055",
     "name": "热带村落地图币",
+    "name_original": "Collectible_MapTokenBiome",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -548,6 +587,7 @@
   {
     "id": "collectible-1056",
     "name": "修道院地图硬币",
+    "name_original": "Collectible_MapTokenAbbey",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -562,6 +602,7 @@
   {
     "id": "collectible-1057",
     "name": "红宝石酒镇地图硬币",
+    "name_original": "Collectible_MapTokenRuby",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -576,6 +617,7 @@
   {
     "id": "collectible-1058",
     "name": "坦根特公司地图币",
+    "name_original": "Collectible_MapTokenBreach",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -590,6 +632,7 @@
   {
     "id": "collectible-1059",
     "name": "工作室地图币",
+    "name_original": "Collectible_MapTokenStudio",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -604,6 +647,7 @@
   {
     "id": "collectible-1060",
     "name": "丛林地图币",
+    "name_original": "Collectible_MapTokenJungle",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -618,6 +662,7 @@
   {
     "id": "collectible-1061",
     "name": "阿努比斯地图币",
+    "name_original": "Collectible_MapTokenAnubis",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -632,6 +677,7 @@
   {
     "id": "collectible-1062",
     "name": "科洛林地图币",
+    "name_original": "Collectible_MapTokenChlorine",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -646,6 +692,7 @@
   {
     "id": "collectible-1063",
     "name": "红帆要塞地图币",
+    "name_original": "Collectible_MapTokenMutiny",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -660,6 +707,7 @@
   {
     "id": "collectible-1064",
     "name": "失落沼泽地图币",
+    "name_original": "Collectible_MapTokenSwamp",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -674,6 +722,7 @@
   {
     "id": "collectible-1065",
     "name": "寒伤之地地图币",
+    "name_original": "Collectible_MapTokenFrostbite",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -688,6 +737,7 @@
   {
     "id": "collectible-1066",
     "name": "车展大厅地图币",
+    "name_original": "Collectible_MapTokenEngage",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -702,6 +752,7 @@
   {
     "id": "collectible-1067",
     "name": "阿波罗地图币",
+    "name_original": "Collectible_MapTokenApollo",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -716,6 +767,7 @@
   {
     "id": "collectible-1068",
     "name": "守卫所地图币",
+    "name_original": "Collectible_MapTokenGuard",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -730,6 +782,7 @@
   {
     "id": "collectible-1069",
     "name": "极乐净土地图币",
+    "name_original": "Collectible_MapTokenElysion",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -744,6 +797,7 @@
   {
     "id": "collectible-1070",
     "name": "铀矿基地地图币",
+    "name_original": "Collectible_MapTokenGrind",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -758,6 +812,7 @@
   {
     "id": "collectible-1071",
     "name": "摩卡小镇地图币",
+    "name_original": "Collectible_MapTokenMocha",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -772,6 +827,7 @@
   {
     "id": "collectible-1072",
     "name": "亡灵乐土地图币",
+    "name_original": "Collectible_MapTokenCalavera",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -786,6 +842,7 @@
   {
     "id": "collectible-1073",
     "name": "赛车维修站地图币",
+    "name_original": "Collectible_MapTokenPitstop",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -800,6 +857,7 @@
   {
     "id": "collectible-1074",
     "name": "冰火岛地图币",
+    "name_original": "Collectible_MapTokenBasalt",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -814,6 +872,7 @@
   {
     "id": "collectible-1075",
     "name": "突入点 II 地图币",
+    "name_original": "Collectible_MapTokenInsertion2",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -828,6 +887,7 @@
   {
     "id": "collectible-1076",
     "name": "霜夜城堡地图币",
+    "name_original": "Collectible_MapTokenRavine",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -842,6 +902,7 @@
   {
     "id": "collectible-1077",
     "name": "湖心别墅地图币",
+    "name_original": "Collectible_MapTokenExtraction",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -856,6 +917,7 @@
   {
     "id": "collectible-1078",
     "name": "无人之郡地图币",
+    "name_original": "Collectible_MapTokenCounty",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -870,6 +932,7 @@
   {
     "id": "collectible-1079",
     "name": "鸢尾小镇地图币",
+    "name_original": "Collectible_MapTokenIris",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -884,6 +947,7 @@
   {
     "id": "collectible-1080",
     "name": "攀岩运动馆地图币",
+    "name_original": "Collectible_MapTokenClimb",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -898,6 +962,7 @@
   {
     "id": "collectible-1081",
     "name": "克里特岛地图币",
+    "name_original": "Collectible_MapTokenCrete",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -912,6 +977,7 @@
   {
     "id": "collectible-1082",
     "name": "蜂巢研究所地图币",
+    "name_original": "Collectible_MapTokenHive",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -926,6 +992,7 @@
   {
     "id": "collectible-1083",
     "name": "葡萄庄园地图币",
+    "name_original": "Collectible_MapTokenVineyard",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -940,6 +1007,7 @@
   {
     "id": "collectible-1084",
     "name": "余烬岛地图币",
+    "name_original": "Collectible_MapTokenEmber",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -954,6 +1022,7 @@
   {
     "id": "collectible-1085",
     "name": "托斯卡纳地图币",
+    "name_original": "Collectible_MapTokenTuscan",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -968,6 +1037,7 @@
   {
     "id": "collectible-1086",
     "name": "悬河钻场地图币",
+    "name_original": "Collectible_MapTokenPrime",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -982,6 +1052,7 @@
   {
     "id": "collectible-1087",
     "name": "布拉盖修道院地图币",
+    "name_original": "Collectible_MapTokenBlagai",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -996,6 +1067,7 @@
   {
     "id": "collectible-1088",
     "name": "博涯堡垒地图币",
+    "name_original": "Collectible_MapTokenBoyard",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1010,6 +1082,7 @@
   {
     "id": "collectible-1089",
     "name": "圣杯村庄地图币",
+    "name_original": "Collectible_MapTokenChalice",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1024,6 +1097,7 @@
   {
     "id": "collectible-4941",
     "name": "假日锡拉地图硬币",
+    "name_original": "Collectible_MapTokenThera",
     "description": "纪念CS地图“假日锡拉”的创作",
     "rarity": {
       "id": "rarity_ancient",
@@ -1038,6 +1112,7 @@
   {
     "id": "collectible-4942",
     "name": "风情磨坊地图硬币",
+    "name_original": "Collectible_MapTokenMills",
     "description": "纪念CS地图“风情磨坊”的创作",
     "rarity": {
       "id": "rarity_ancient",
@@ -1052,6 +1127,7 @@
   {
     "id": "collectible-4943",
     "name": "装配车间地图硬币",
+    "name_original": "Collectible_MapTokenAssembly",
     "description": "纪念CS地图“装配车间”的创作",
     "rarity": {
       "id": "rarity_ancient",
@@ -1066,6 +1142,7 @@
   {
     "id": "collectible-4944",
     "name": "婚礼会馆地图硬币",
+    "name_original": "Collectible_MapTokenMemento",
     "description": "纪念CS地图“婚礼会馆”的创作",
     "rarity": {
       "id": "rarity_ancient",
@@ -1080,6 +1157,7 @@
   {
     "id": "collectible-4945",
     "name": "泳池派对地图硬币",
+    "name_original": "Collectible_MapTokenPoolDay",
     "description": "纪念CS地图“泳池派对”的创作",
     "rarity": {
       "id": "rarity_ancient",

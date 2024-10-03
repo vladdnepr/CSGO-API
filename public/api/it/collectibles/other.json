@@ -2,6 +2,7 @@
   {
     "id": "collectible-874",
     "name": "Gettone da veterano quinquennale",
+    "name_original": "CollectibleCoin_FiveYearService",
     "description": "È membro della Comunità di Counter-Strike da oltre 5 anni.",
     "rarity": {
       "id": "rarity_ancient",
@@ -16,6 +17,7 @@
   {
     "id": "collectible-969",
     "name": "Gettone da veterano decennale",
+    "name_original": "CollectibleCoin_TenYearService",
     "description": "È membro della Comunità di Counter-Strike da oltre 10 anni.",
     "rarity": {
       "id": "rarity_ancient",
@@ -30,6 +32,7 @@
   {
     "id": "collectible-970",
     "name": "Medaglia di lealtà",
+    "name_original": "CollectibleCoin_FortiusQuoFidelius",
     "description": "Questa medaglia viene assegnata in commemorazione della fedele partecipazione alla Comunità di Counter-Strike prima dell'aggiornamento Zona di pericolo.\\n\\n<i>Forza tramite fedeltà.</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -44,6 +47,7 @@
   {
     "id": "collectible-987",
     "name": "Gettone per il decimo compleanno",
+    "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
     "description": "Per aver festeggiato il decimo compleanno di CS:GO con tutta la fantastica Comunità di CS:GO.\\n\\n<i>Per celebrare dieci anni di colpi alla testa, clutch e l'intera Comunità. Buon compleanno, CS:GO!</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -58,6 +62,7 @@
   {
     "id": "collectible-996",
     "name": "Medaglia Global Offensive",
+    "name_original": "CollectibleCoin_CoinCsgo",
     "description": "Questa medaglia viene assegnata in commemorazione della fedele partecipazione alla Comunità di Counter-Strike: Global Offensive prima del rilascio di Counter-Strike 2. \\n\\n<i>Le leggende non muoiono mai.</i>",
     "rarity": {
       "id": "rarity_ancient",
