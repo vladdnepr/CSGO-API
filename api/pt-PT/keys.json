@@ -546,5 +546,19 @@
             }
         ],
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_11_png.png"
+    },
+    {
+        "id": "key-7002",
+        "name": "Chave: Caixa Gallery",
+        "name_original": "crate_key_community_34",
+        "description": "Esta chave só abre Caixas Gallery",
+        "crates": [
+            {
+                "id": "crate-7003",
+                "name": "Caixa Gallery",
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_34_png.png"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_34_png.png"
     }
 ]
