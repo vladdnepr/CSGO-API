@@ -1,1016 +1,1172 @@
 [
-    {
-        "id": "collectible-1004",
-        "name": "Монета мапи Museum",
-        "name_original": "Collectible_MapTokenMuseum",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_museum_png.png"
-    },
-    {
-        "id": "collectible-1005",
-        "name": "Монета мапи Downtown",
-        "name_original": "Collectible_MapTokenDowntown",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_downtown_png.png"
-    },
-    {
-        "id": "collectible-1006",
-        "name": "Монета мапи Thunder",
-        "name_original": "Collectible_MapTokenThunder",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_thunder_png.png"
-    },
-    {
-        "id": "collectible-1007",
-        "name": "Монета мапи Favela",
-        "name_original": "Collectible_MapTokenFavela",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_favela_png.png"
-    },
-    {
-        "id": "collectible-1008",
-        "name": "Монета мапи Motel",
-        "name_original": "Collectible_MapTokenMotel",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_motel_png.png"
-    },
-    {
-        "id": "collectible-1009",
-        "name": "Монета мапи Seaside",
-        "name_original": "Collectible_MapTokenSeaside",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_seaside_png.png"
-    },
-    {
-        "id": "collectible-1010",
-        "name": "Монета мапи Library",
-        "name_original": "Collectible_MapTokenLibrary",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_library_png.png"
-    },
-    {
-        "id": "collectible-1016",
-        "name": "Монета мапи Agency",
-        "name_original": "Collectible_MapTokenAgency",
-        "description": "<b><font color='#F2A93E'>Agency Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_agency_png.png"
-    },
-    {
-        "id": "collectible-1017",
-        "name": "Монета мапи Ali",
-        "name_original": "Collectible_MapTokenAli",
-        "description": "<b><font color='#F2A93E'>Ali Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ali_png.png"
-    },
-    {
-        "id": "collectible-1018",
-        "name": "Монета мапи Cache",
-        "name_original": "Collectible_MapTokenCache",
-        "description": "<b><font color='#F2A93E'>Cache Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_cache_png.png"
-    },
-    {
-        "id": "collectible-1019",
-        "name": "Монета мапи Chinatown",
-        "name_original": "Collectible_MapTokenChinatown",
-        "description": "<b><font color='#F2A93E'>Chinatown Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_chinatown_png.png"
-    },
-    {
-        "id": "collectible-1020",
-        "name": "Монета мапи Gwalior",
-        "name_original": "Collectible_MapTokenGwalior",
-        "description": "<b><font color='#F2A93E'>Gwalior Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_gwalior_png.png"
-    },
-    {
-        "id": "collectible-1021",
-        "name": "Монета мапи Ruins",
-        "name_original": "Collectible_MapTokenRuins",
-        "description": "<b><font color='#F2A93E'>Ruins Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ruins_png.png"
-    },
-    {
-        "id": "collectible-1022",
-        "name": "Монета мапи Siege",
-        "name_original": "Collectible_MapTokenSiege",
-        "description": "<b><font color='#F2A93E'>Siege Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_siege_png.png"
-    },
-    {
-        "id": "collectible-1031",
-        "name": "Монета мапи Castle",
-        "name_original": "Collectible_MapTokenCastle",
-        "description": "<b><font color='#F2A93E'>Castle Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_castle_png.png"
-    },
-    {
-        "id": "collectible-1032",
-        "name": "Монета мапи Black Gold",
-        "name_original": "Collectible_MapTokenBlackGold",
-        "description": "<b><font color='#F2A93E'>Black Gold Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_blackgold_png.png"
-    },
-    {
-        "id": "collectible-1033",
-        "name": "Монета мапи Rush",
-        "name_original": "Collectible_MapTokenRush",
-        "description": "<b><font color='#F2A93E'>Rush Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_rush_png.png"
-    },
-    {
-        "id": "collectible-1034",
-        "name": "Монета мапи Mist",
-        "name_original": "Collectible_MapTokenMist",
-        "description": "<b><font color='#F2A93E'>Mist Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mist_png.png"
-    },
-    {
-        "id": "collectible-1035",
-        "name": "Монета мапи Insertion",
-        "name_original": "Collectible_MapTokenInsertion",
-        "description": "<b><font color='#F2A93E'>Insertion Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_insertion_png.png"
-    },
-    {
-        "id": "collectible-1036",
-        "name": "Монета мапи Overgrown",
-        "name_original": "Collectible_MapTokenOvergrown",
-        "description": "<b><font color='#F2A93E'>Overgrown Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_overgrown_png.png"
-    },
-    {
-        "id": "collectible-1037",
-        "name": "Монета мапи Marquis",
-        "name_original": "Collectible_MapTokenMarquis",
-        "description": "<b><font color='#F2A93E'>Marquis Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_marquis_png.png"
-    },
-    {
-        "id": "collectible-1038",
-        "name": "Монета мапи Workout",
-        "name_original": "Collectible_MapTokenWorkout",
-        "description": "<b><font color='#F2A93E'>Workout Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_workout_png.png"
-    },
-    {
-        "id": "collectible-1039",
-        "name": "Монета мапи Backalley",
-        "name_original": "Collectible_MapTokenBackalley",
-        "description": "<b><font color='#F2A93E'>Backalley Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_backalley_png.png"
-    },
-    {
-        "id": "collectible-1040",
-        "name": "Монета мапи Season",
-        "name_original": "Collectible_MapTokenSeason",
-        "description": "<b><font color='#F2A93E'>Season Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_season_png.png"
-    },
-    {
-        "id": "collectible-1041",
-        "name": "Монета мапи Bazaar",
-        "name_original": "Collectible_MapTokenBazaar",
-        "description": "<b><font color='#F2A93E'>Bazaar Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_bazaar_png.png"
-    },
-    {
-        "id": "collectible-1042",
-        "name": "Монета мапи Facade",
-        "name_original": "Collectible_MapTokenFacade",
-        "description": "<b><font color='#F2A93E'>Facade Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_facade_png.png"
-    },
-    {
-        "id": "collectible-1043",
-        "name": "Монета мапи Log",
-        "name_original": "Collectible_MapTokenLog",
-        "description": "<b><font color='#F2A93E'>Log Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_log_png.png"
-    },
-    {
-        "id": "collectible-1044",
-        "name": "Монета мапи Rails",
-        "name_original": "Collectible_MapTokenRails",
-        "description": "<b><font color='#F2A93E'>Rails Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_rails_png.png"
-    },
-    {
-        "id": "collectible-1045",
-        "name": "Монета мапи Resort",
-        "name_original": "Collectible_MapTokenResort",
-        "description": "<b><font color='#F2A93E'>Resort Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_resort_png.png"
-    },
-    {
-        "id": "collectible-1046",
-        "name": "Монета мапи Zoo",
-        "name_original": "Collectible_MapTokenZoo",
-        "description": "<b><font color='#F2A93E'>Zoo Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_zoo_png.png"
-    },
-    {
-        "id": "collectible-1047",
-        "name": "Монета мапи Santorini",
-        "name_original": "Collectible_MapTokenSantorini",
-        "description": "<b><font color='#F2A93E'>Santorini Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_santorini_png.png"
-    },
-    {
-        "id": "collectible-1048",
-        "name": "Монета мапи Coast",
-        "name_original": "Collectible_MapTokenCoast",
-        "description": "<b><font color='#F2A93E'>Coast Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_coast_png.png"
-    },
-    {
-        "id": "collectible-1049",
-        "name": "Монета мапи Mikla",
-        "name_original": "Collectible_MapTokenMikla",
-        "description": "<b><font color='#F2A93E'>Mikla Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mikla_png.png"
-    },
-    {
-        "id": "collectible-1050",
-        "name": "Монета мапи Royal",
-        "name_original": "Collectible_MapTokenRoyal",
-        "description": "<b><font color='#F2A93E'>Royal Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_royal_png.png"
-    },
-    {
-        "id": "collectible-1051",
-        "name": "Монета мапи Empire",
-        "name_original": "Collectible_MapTokenEmpire",
-        "description": "<b><font color='#F2A93E'>Empire Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_empire_png.png"
-    },
-    {
-        "id": "collectible-1052",
-        "name": "Монета мапи Tulip",
-        "name_original": "Collectible_MapTokenTulip",
-        "description": "<b><font color='#F2A93E'>Tulip Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_tulip_png.png"
-    },
-    {
-        "id": "collectible-1053",
-        "name": "Монета мапи Cruise",
-        "name_original": "Collectible_MapTokenCruise",
-        "description": "<b><font color='#F2A93E'>Cruise Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_cruise_png.png"
-    },
-    {
-        "id": "collectible-1054",
-        "name": "Монета мапи Subzero",
-        "name_original": "Collectible_MapTokenSubzero",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_subzero_png.png"
-    },
-    {
-        "id": "collectible-1055",
-        "name": "Монета мапи Biome",
-        "name_original": "Collectible_MapTokenBiome",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_biome_png.png"
-    },
-    {
-        "id": "collectible-1056",
-        "name": "Монета мапи Abbey",
-        "name_original": "Collectible_MapTokenAbbey",
-        "description": "<b><font color='#F2A93E'>Abbey Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_abbey_png.png"
-    },
-    {
-        "id": "collectible-1057",
-        "name": "Монета мапи Ruby",
-        "name_original": "Collectible_MapTokenRuby",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ruby_png.png"
-    },
-    {
-        "id": "collectible-1058",
-        "name": "Монета мапи Breach",
-        "name_original": "Collectible_MapTokenBreach",
-        "description": "<b><font color='#F2A93E'>Breach Map Coin</font></b>",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_breach_png.png"
-    },
-    {
-        "id": "collectible-1059",
-        "name": "Монета мапи Studio",
-        "name_original": "Collectible_MapTokenStudio",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_studio_png.png"
-    },
-    {
-        "id": "collectible-1060",
-        "name": "Монета мапи Jungle",
-        "name_original": "Collectible_MapTokenJungle",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_jungle_png.png"
-    },
-    {
-        "id": "collectible-1061",
-        "name": "Монета мапи Anubis",
-        "name_original": "Collectible_MapTokenAnubis",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_anubis_png.png"
-    },
-    {
-        "id": "collectible-1062",
-        "name": "Монета мапи Chlorine",
-        "name_original": "Collectible_MapTokenChlorine",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_chlorine_png.png"
-    },
-    {
-        "id": "collectible-1063",
-        "name": "Монета мапи Mutiny",
-        "name_original": "Collectible_MapTokenMutiny",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mutiny_png.png"
-    },
-    {
-        "id": "collectible-1064",
-        "name": "Монета мапи Swamp",
-        "name_original": "Collectible_MapTokenSwamp",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_swamp_png.png"
-    },
-    {
-        "id": "collectible-1065",
-        "name": "Монета мапи Frostbite",
-        "name_original": "Collectible_MapTokenFrostbite",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_frostbite_png.png"
-    },
-    {
-        "id": "collectible-1066",
-        "name": "Монета мапи Engage",
-        "name_original": "Collectible_MapTokenEngage",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_engage_png.png"
-    },
-    {
-        "id": "collectible-1067",
-        "name": "Монета мапи Apollo",
-        "name_original": "Collectible_MapTokenApollo",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_apollo_png.png"
-    },
-    {
-        "id": "collectible-1068",
-        "name": "Монета мапи Guard",
-        "name_original": "Collectible_MapTokenGuard",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_guard_png.png"
-    },
-    {
-        "id": "collectible-1069",
-        "name": "Монета мапи Elysion",
-        "name_original": "Collectible_MapTokenElysion",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_elysion_png.png"
-    },
-    {
-        "id": "collectible-1070",
-        "name": "Монета мапи Grind",
-        "name_original": "Collectible_MapTokenGrind",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_grind_png.png"
-    },
-    {
-        "id": "collectible-1071",
-        "name": "Монета мапи Mocha",
-        "name_original": "Collectible_MapTokenMocha",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mocha_png.png"
-    },
-    {
-        "id": "collectible-1072",
-        "name": "Монета мапи Calavera",
-        "name_original": "Collectible_MapTokenCalavera",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_calavera_png.png"
-    },
-    {
-        "id": "collectible-1073",
-        "name": "Монета мапи Pitstop",
-        "name_original": "Collectible_MapTokenPitstop",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_pitstop_png.png"
-    },
-    {
-        "id": "collectible-1074",
-        "name": "Монета мапи Basalt",
-        "name_original": "Collectible_MapTokenBasalt",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_basalt_png.png"
-    },
-    {
-        "id": "collectible-1075",
-        "name": "Монета мапи Insertion II",
-        "name_original": "Collectible_MapTokenInsertion2",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_insertion2_png.png"
-    },
-    {
-        "id": "collectible-1076",
-        "name": "Монета мапи Ravine",
-        "name_original": "Collectible_MapTokenRavine",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ravine_png.png"
-    },
-    {
-        "id": "collectible-1077",
-        "name": "Монета мапи Extraction",
-        "name_original": "Collectible_MapTokenExtraction",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_extraction_png.png"
-    },
-    {
-        "id": "collectible-1078",
-        "name": "Монета мапи County",
-        "name_original": "Collectible_MapTokenCounty",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_county_png.png"
-    },
-    {
-        "id": "collectible-1079",
-        "name": "Монета мапи Iris",
-        "name_original": "Collectible_MapTokenIris",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_iris_png.png"
-    },
-    {
-        "id": "collectible-1080",
-        "name": "Монета мапи Climb",
-        "name_original": "Collectible_MapTokenClimb",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_climb_png.png"
-    },
-    {
-        "id": "collectible-1081",
-        "name": "Монета мапи Crete",
-        "name_original": "Collectible_MapTokenCrete",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_crete_png.png"
-    },
-    {
-        "id": "collectible-1082",
-        "name": "Монета мапи Hive",
-        "name_original": "Collectible_MapTokenHive",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_hive_png.png"
-    },
-    {
-        "id": "collectible-1083",
-        "name": "Монета мапи Vineyard",
-        "name_original": "Collectible_MapTokenVineyard",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_vineyard_png.png"
-    },
-    {
-        "id": "collectible-1084",
-        "name": "Монета мапи Ember",
-        "name_original": "Collectible_MapTokenEmber",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ember_png.png"
-    },
-    {
-        "id": "collectible-1085",
-        "name": "Монета мапи Tuscan",
-        "name_original": "Collectible_MapTokenTuscan",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_tuscan_png.png"
-    },
-    {
-        "id": "collectible-1086",
-        "name": "Монета мапи Cascade",
-        "name_original": "Collectible_MapTokenPrime",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_prime_png.png"
-    },
-    {
-        "id": "collectible-1087",
-        "name": "Монета мапи Blagai",
-        "name_original": "Collectible_MapTokenBlagai",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_blagai_png.png"
-    },
-    {
-        "id": "collectible-1088",
-        "name": "Монета мапи Boyard",
-        "name_original": "Collectible_MapTokenBoyard",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_boyard_png.png"
-    },
-    {
-        "id": "collectible-1089",
-        "name": "Монета мапи Chalice",
-        "name_original": "Collectible_MapTokenChalice",
-        "description": null,
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_chalice_png.png"
-    },
-    {
-        "id": "collectible-4941",
-        "name": "Монета мапи Thera",
-        "name_original": "Collectible_MapTokenThera",
-        "description": "Вшановує авторів мапи Thera для CS2.",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_thera_png.png"
-    },
-    {
-        "id": "collectible-4942",
-        "name": "Монета мапи Mills",
-        "name_original": "Collectible_MapTokenMills",
-        "description": "Вшановує авторів мапи Mills для CS2.",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mills_png.png"
-    },
-    {
-        "id": "collectible-4943",
-        "name": "Монета мапи Assembly",
-        "name_original": "Collectible_MapTokenAssembly",
-        "description": "Вшановує авторів мапи Assembly для CS2.",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_assembly_png.png"
-    },
-    {
-        "id": "collectible-4944",
-        "name": "Монета мапи Memento",
-        "name_original": "Collectible_MapTokenMemento",
-        "description": "Вшановує авторів мапи Memento для CS2.",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_memento_png.png"
-    },
-    {
-        "id": "collectible-4945",
-        "name": "Монета мапи Pool Day",
-        "name_original": "Collectible_MapTokenPoolDay",
-        "description": "Вшановує авторів мапи Pool Day для CS2.",
-        "rarity": {
-            "id": "rarity_ancient",
-            "name": "надзвичайний предмет",
-            "color": "#eb4b4b"
-        },
-        "type": "Map Contributor Coin",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_poolday_png.png"
-    }
+  {
+    "id": "collectible-1004",
+    "name": "Монета мапи Museum",
+    "name_original": "Collectible_MapTokenMuseum",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_museum_png.png"
+  },
+  {
+    "id": "collectible-1005",
+    "name": "Монета мапи Downtown",
+    "name_original": "Collectible_MapTokenDowntown",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_downtown_png.png"
+  },
+  {
+    "id": "collectible-1006",
+    "name": "Монета мапи Thunder",
+    "name_original": "Collectible_MapTokenThunder",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_thunder_png.png"
+  },
+  {
+    "id": "collectible-1007",
+    "name": "Монета мапи Favela",
+    "name_original": "Collectible_MapTokenFavela",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_favela_png.png"
+  },
+  {
+    "id": "collectible-1008",
+    "name": "Монета мапи Motel",
+    "name_original": "Collectible_MapTokenMotel",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_motel_png.png"
+  },
+  {
+    "id": "collectible-1009",
+    "name": "Монета мапи Seaside",
+    "name_original": "Collectible_MapTokenSeaside",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_seaside_png.png"
+  },
+  {
+    "id": "collectible-1010",
+    "name": "Монета мапи Library",
+    "name_original": "Collectible_MapTokenLibrary",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_library_png.png"
+  },
+  {
+    "id": "collectible-1016",
+    "name": "Монета мапи Agency",
+    "name_original": "Collectible_MapTokenAgency",
+    "description": "<b><font color='#F2A93E'>Agency Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_agency_png.png"
+  },
+  {
+    "id": "collectible-1017",
+    "name": "Монета мапи Ali",
+    "name_original": "Collectible_MapTokenAli",
+    "description": "<b><font color='#F2A93E'>Ali Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ali_png.png"
+  },
+  {
+    "id": "collectible-1018",
+    "name": "Монета мапи Cache",
+    "name_original": "Collectible_MapTokenCache",
+    "description": "<b><font color='#F2A93E'>Cache Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_cache_png.png"
+  },
+  {
+    "id": "collectible-1019",
+    "name": "Монета мапи Chinatown",
+    "name_original": "Collectible_MapTokenChinatown",
+    "description": "<b><font color='#F2A93E'>Chinatown Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_chinatown_png.png"
+  },
+  {
+    "id": "collectible-1020",
+    "name": "Монета мапи Gwalior",
+    "name_original": "Collectible_MapTokenGwalior",
+    "description": "<b><font color='#F2A93E'>Gwalior Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_gwalior_png.png"
+  },
+  {
+    "id": "collectible-1021",
+    "name": "Монета мапи Ruins",
+    "name_original": "Collectible_MapTokenRuins",
+    "description": "<b><font color='#F2A93E'>Ruins Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ruins_png.png"
+  },
+  {
+    "id": "collectible-1022",
+    "name": "Монета мапи Siege",
+    "name_original": "Collectible_MapTokenSiege",
+    "description": "<b><font color='#F2A93E'>Siege Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_siege_png.png"
+  },
+  {
+    "id": "collectible-1031",
+    "name": "Монета мапи Castle",
+    "name_original": "Collectible_MapTokenCastle",
+    "description": "<b><font color='#F2A93E'>Castle Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_castle_png.png"
+  },
+  {
+    "id": "collectible-1032",
+    "name": "Монета мапи Black Gold",
+    "name_original": "Collectible_MapTokenBlackGold",
+    "description": "<b><font color='#F2A93E'>Black Gold Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_blackgold_png.png"
+  },
+  {
+    "id": "collectible-1033",
+    "name": "Монета мапи Rush",
+    "name_original": "Collectible_MapTokenRush",
+    "description": "<b><font color='#F2A93E'>Rush Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_rush_png.png"
+  },
+  {
+    "id": "collectible-1034",
+    "name": "Монета мапи Mist",
+    "name_original": "Collectible_MapTokenMist",
+    "description": "<b><font color='#F2A93E'>Mist Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mist_png.png"
+  },
+  {
+    "id": "collectible-1035",
+    "name": "Монета мапи Insertion",
+    "name_original": "Collectible_MapTokenInsertion",
+    "description": "<b><font color='#F2A93E'>Insertion Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_insertion_png.png"
+  },
+  {
+    "id": "collectible-1036",
+    "name": "Монета мапи Overgrown",
+    "name_original": "Collectible_MapTokenOvergrown",
+    "description": "<b><font color='#F2A93E'>Overgrown Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_overgrown_png.png"
+  },
+  {
+    "id": "collectible-1037",
+    "name": "Монета мапи Marquis",
+    "name_original": "Collectible_MapTokenMarquis",
+    "description": "<b><font color='#F2A93E'>Marquis Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_marquis_png.png"
+  },
+  {
+    "id": "collectible-1038",
+    "name": "Монета мапи Workout",
+    "name_original": "Collectible_MapTokenWorkout",
+    "description": "<b><font color='#F2A93E'>Workout Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_workout_png.png"
+  },
+  {
+    "id": "collectible-1039",
+    "name": "Монета мапи Backalley",
+    "name_original": "Collectible_MapTokenBackalley",
+    "description": "<b><font color='#F2A93E'>Backalley Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_backalley_png.png"
+  },
+  {
+    "id": "collectible-1040",
+    "name": "Монета мапи Season",
+    "name_original": "Collectible_MapTokenSeason",
+    "description": "<b><font color='#F2A93E'>Season Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_season_png.png"
+  },
+  {
+    "id": "collectible-1041",
+    "name": "Монета мапи Bazaar",
+    "name_original": "Collectible_MapTokenBazaar",
+    "description": "<b><font color='#F2A93E'>Bazaar Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_bazaar_png.png"
+  },
+  {
+    "id": "collectible-1042",
+    "name": "Монета мапи Facade",
+    "name_original": "Collectible_MapTokenFacade",
+    "description": "<b><font color='#F2A93E'>Facade Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_facade_png.png"
+  },
+  {
+    "id": "collectible-1043",
+    "name": "Монета мапи Log",
+    "name_original": "Collectible_MapTokenLog",
+    "description": "<b><font color='#F2A93E'>Log Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_log_png.png"
+  },
+  {
+    "id": "collectible-1044",
+    "name": "Монета мапи Rails",
+    "name_original": "Collectible_MapTokenRails",
+    "description": "<b><font color='#F2A93E'>Rails Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_rails_png.png"
+  },
+  {
+    "id": "collectible-1045",
+    "name": "Монета мапи Resort",
+    "name_original": "Collectible_MapTokenResort",
+    "description": "<b><font color='#F2A93E'>Resort Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_resort_png.png"
+  },
+  {
+    "id": "collectible-1046",
+    "name": "Монета мапи Zoo",
+    "name_original": "Collectible_MapTokenZoo",
+    "description": "<b><font color='#F2A93E'>Zoo Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_zoo_png.png"
+  },
+  {
+    "id": "collectible-1047",
+    "name": "Монета мапи Santorini",
+    "name_original": "Collectible_MapTokenSantorini",
+    "description": "<b><font color='#F2A93E'>Santorini Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_santorini_png.png"
+  },
+  {
+    "id": "collectible-1048",
+    "name": "Монета мапи Coast",
+    "name_original": "Collectible_MapTokenCoast",
+    "description": "<b><font color='#F2A93E'>Coast Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_coast_png.png"
+  },
+  {
+    "id": "collectible-1049",
+    "name": "Монета мапи Mikla",
+    "name_original": "Collectible_MapTokenMikla",
+    "description": "<b><font color='#F2A93E'>Mikla Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mikla_png.png"
+  },
+  {
+    "id": "collectible-1050",
+    "name": "Монета мапи Royal",
+    "name_original": "Collectible_MapTokenRoyal",
+    "description": "<b><font color='#F2A93E'>Royal Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_royal_png.png"
+  },
+  {
+    "id": "collectible-1051",
+    "name": "Монета мапи Empire",
+    "name_original": "Collectible_MapTokenEmpire",
+    "description": "<b><font color='#F2A93E'>Empire Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_empire_png.png"
+  },
+  {
+    "id": "collectible-1052",
+    "name": "Монета мапи Tulip",
+    "name_original": "Collectible_MapTokenTulip",
+    "description": "<b><font color='#F2A93E'>Tulip Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_tulip_png.png"
+  },
+  {
+    "id": "collectible-1053",
+    "name": "Монета мапи Cruise",
+    "name_original": "Collectible_MapTokenCruise",
+    "description": "<b><font color='#F2A93E'>Cruise Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_cruise_png.png"
+  },
+  {
+    "id": "collectible-1054",
+    "name": "Монета мапи Subzero",
+    "name_original": "Collectible_MapTokenSubzero",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_subzero_png.png"
+  },
+  {
+    "id": "collectible-1055",
+    "name": "Монета мапи Biome",
+    "name_original": "Collectible_MapTokenBiome",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_biome_png.png"
+  },
+  {
+    "id": "collectible-1056",
+    "name": "Монета мапи Abbey",
+    "name_original": "Collectible_MapTokenAbbey",
+    "description": "<b><font color='#F2A93E'>Abbey Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_abbey_png.png"
+  },
+  {
+    "id": "collectible-1057",
+    "name": "Монета мапи Ruby",
+    "name_original": "Collectible_MapTokenRuby",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ruby_png.png"
+  },
+  {
+    "id": "collectible-1058",
+    "name": "Монета мапи Breach",
+    "name_original": "Collectible_MapTokenBreach",
+    "description": "<b><font color='#F2A93E'>Breach Map Coin</font></b>",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_breach_png.png"
+  },
+  {
+    "id": "collectible-1059",
+    "name": "Монета мапи Studio",
+    "name_original": "Collectible_MapTokenStudio",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_studio_png.png"
+  },
+  {
+    "id": "collectible-1060",
+    "name": "Монета мапи Jungle",
+    "name_original": "Collectible_MapTokenJungle",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_jungle_png.png"
+  },
+  {
+    "id": "collectible-1061",
+    "name": "Монета мапи Anubis",
+    "name_original": "Collectible_MapTokenAnubis",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_anubis_png.png"
+  },
+  {
+    "id": "collectible-1062",
+    "name": "Монета мапи Chlorine",
+    "name_original": "Collectible_MapTokenChlorine",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_chlorine_png.png"
+  },
+  {
+    "id": "collectible-1063",
+    "name": "Монета мапи Mutiny",
+    "name_original": "Collectible_MapTokenMutiny",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mutiny_png.png"
+  },
+  {
+    "id": "collectible-1064",
+    "name": "Монета мапи Swamp",
+    "name_original": "Collectible_MapTokenSwamp",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_swamp_png.png"
+  },
+  {
+    "id": "collectible-1065",
+    "name": "Монета мапи Frostbite",
+    "name_original": "Collectible_MapTokenFrostbite",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_frostbite_png.png"
+  },
+  {
+    "id": "collectible-1066",
+    "name": "Монета мапи Engage",
+    "name_original": "Collectible_MapTokenEngage",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_engage_png.png"
+  },
+  {
+    "id": "collectible-1067",
+    "name": "Монета мапи Apollo",
+    "name_original": "Collectible_MapTokenApollo",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_apollo_png.png"
+  },
+  {
+    "id": "collectible-1068",
+    "name": "Монета мапи Guard",
+    "name_original": "Collectible_MapTokenGuard",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_guard_png.png"
+  },
+  {
+    "id": "collectible-1069",
+    "name": "Монета мапи Elysion",
+    "name_original": "Collectible_MapTokenElysion",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_elysion_png.png"
+  },
+  {
+    "id": "collectible-1070",
+    "name": "Монета мапи Grind",
+    "name_original": "Collectible_MapTokenGrind",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_grind_png.png"
+  },
+  {
+    "id": "collectible-1071",
+    "name": "Монета мапи Mocha",
+    "name_original": "Collectible_MapTokenMocha",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mocha_png.png"
+  },
+  {
+    "id": "collectible-1072",
+    "name": "Монета мапи Calavera",
+    "name_original": "Collectible_MapTokenCalavera",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_calavera_png.png"
+  },
+  {
+    "id": "collectible-1073",
+    "name": "Монета мапи Pitstop",
+    "name_original": "Collectible_MapTokenPitstop",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_pitstop_png.png"
+  },
+  {
+    "id": "collectible-1074",
+    "name": "Монета мапи Basalt",
+    "name_original": "Collectible_MapTokenBasalt",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_basalt_png.png"
+  },
+  {
+    "id": "collectible-1075",
+    "name": "Монета мапи Insertion II",
+    "name_original": "Collectible_MapTokenInsertion2",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_insertion2_png.png"
+  },
+  {
+    "id": "collectible-1076",
+    "name": "Монета мапи Ravine",
+    "name_original": "Collectible_MapTokenRavine",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ravine_png.png"
+  },
+  {
+    "id": "collectible-1077",
+    "name": "Монета мапи Extraction",
+    "name_original": "Collectible_MapTokenExtraction",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_extraction_png.png"
+  },
+  {
+    "id": "collectible-1078",
+    "name": "Монета мапи County",
+    "name_original": "Collectible_MapTokenCounty",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_county_png.png"
+  },
+  {
+    "id": "collectible-1079",
+    "name": "Монета мапи Iris",
+    "name_original": "Collectible_MapTokenIris",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_iris_png.png"
+  },
+  {
+    "id": "collectible-1080",
+    "name": "Монета мапи Climb",
+    "name_original": "Collectible_MapTokenClimb",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_climb_png.png"
+  },
+  {
+    "id": "collectible-1081",
+    "name": "Монета мапи Crete",
+    "name_original": "Collectible_MapTokenCrete",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_crete_png.png"
+  },
+  {
+    "id": "collectible-1082",
+    "name": "Монета мапи Hive",
+    "name_original": "Collectible_MapTokenHive",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_hive_png.png"
+  },
+  {
+    "id": "collectible-1083",
+    "name": "Монета мапи Vineyard",
+    "name_original": "Collectible_MapTokenVineyard",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_vineyard_png.png"
+  },
+  {
+    "id": "collectible-1084",
+    "name": "Монета мапи Ember",
+    "name_original": "Collectible_MapTokenEmber",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ember_png.png"
+  },
+  {
+    "id": "collectible-1085",
+    "name": "Монета мапи Tuscan",
+    "name_original": "Collectible_MapTokenTuscan",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_tuscan_png.png"
+  },
+  {
+    "id": "collectible-1086",
+    "name": "Монета мапи Cascade",
+    "name_original": "Collectible_MapTokenPrime",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_prime_png.png"
+  },
+  {
+    "id": "collectible-1087",
+    "name": "Монета мапи Blagai",
+    "name_original": "Collectible_MapTokenBlagai",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_blagai_png.png"
+  },
+  {
+    "id": "collectible-1088",
+    "name": "Монета мапи Boyard",
+    "name_original": "Collectible_MapTokenBoyard",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_boyard_png.png"
+  },
+  {
+    "id": "collectible-1089",
+    "name": "Монета мапи Chalice",
+    "name_original": "Collectible_MapTokenChalice",
+    "description": null,
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_chalice_png.png"
+  },
+  {
+    "id": "collectible-4941",
+    "name": "Монета мапи Thera",
+    "name_original": "Collectible_MapTokenThera",
+    "description": "Вшановує авторів мапи Thera для CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_thera_png.png"
+  },
+  {
+    "id": "collectible-4942",
+    "name": "Монета мапи Mills",
+    "name_original": "Collectible_MapTokenMills",
+    "description": "Вшановує авторів мапи Mills для CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mills_png.png"
+  },
+  {
+    "id": "collectible-4943",
+    "name": "Монета мапи Assembly",
+    "name_original": "Collectible_MapTokenAssembly",
+    "description": "Вшановує авторів мапи Assembly для CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_assembly_png.png"
+  },
+  {
+    "id": "collectible-4944",
+    "name": "Монета мапи Memento",
+    "name_original": "Collectible_MapTokenMemento",
+    "description": "Вшановує авторів мапи Memento для CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_memento_png.png"
+  },
+  {
+    "id": "collectible-4945",
+    "name": "Монета мапи Pool Day",
+    "name_original": "Collectible_MapTokenPoolDay",
+    "description": "Вшановує авторів мапи Pool Day для CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_poolday_png.png"
+  }
 ]
