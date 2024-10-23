@@ -106,7 +106,8 @@ const parseItem = (item) => {
                   item_name: $t(item.item_name),
               })
             : $t(item.item_name),
-        name_original: item.item_name.replace("#CSGO_", ""),
+        name_original: item.item_name.replace("#CSGO_", ""), // deprecated
+        code: item.item_name.replace("#CSGO_", ""),
         description: item.item_description
             ? $t(item.item_description)
             : item.item_description_prefab

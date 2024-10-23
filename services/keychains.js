@@ -33,6 +33,7 @@ const parseItem = (item) => {
     return {
         id: `keychain-${item.object_id}`,
         name: `${$t("CSGO_Tool_Keychain")} | ${$t(item.loc_name)}`,
+        code: item.loc_name.replace('#keychain_kc_missinglink_', ''),
         description: getDescription(item),
         rarity: item.item_rarity
         ? {

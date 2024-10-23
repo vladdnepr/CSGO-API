@@ -147,7 +147,8 @@ const parseItem = (item, items) => {
                       pattern: $t(paintKits[pattern].description_tag),
                       wear: $t(wear),
                   }),
-            name_original: items[weapon].name,
+            name_original: items[weapon].name, // deprecated
+            code: items[weapon].name,
             description: getDescription(
                 translatedDescription,
                 paintKits,
@@ -239,7 +240,8 @@ export const getSkinsNotGrouped = () => {
                     name: $tc(type, {
                         item_name: $t(knife.item_name),
                     }),
-                    name_original: knife.name,
+                    name_original: knife.name, // deprecated
+                    code: knife.name,
                     description: $t(knife.item_description),
                     weapon: {
                         id: knife.item_name,
