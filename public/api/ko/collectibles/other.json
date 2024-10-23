@@ -3,6 +3,7 @@
     "id": "collectible-874",
     "name": "5년 차 베테랑 주화",
     "name_original": "CollectibleCoin_FiveYearService",
+    "code": "CollectibleCoin_FiveYearService",
     "description": "Counter-Strike 커뮤니티 회원으로 5년 이상 활동했습니다.",
     "rarity": {
       "id": "rarity_ancient",
@@ -18,6 +19,7 @@
     "id": "collectible-969",
     "name": "10년 차 베테랑 주화",
     "name_original": "CollectibleCoin_TenYearService",
+    "code": "CollectibleCoin_TenYearService",
     "description": "Counter-Strike 커뮤니티 회원으로 10년 이상 활동했습니다.",
     "rarity": {
       "id": "rarity_ancient",
@@ -33,6 +35,7 @@
     "id": "collectible-970",
     "name": "로열티 배지",
     "name_original": "CollectibleCoin_FortiusQuoFidelius",
+    "code": "CollectibleCoin_FortiusQuoFidelius",
     "description": "위험지대 업데이트 이전에 Counter-Strike 커뮤니티에서 충실하게 활동한 플레이어에게 수여된 배지입니다.다.\\n\\n<i>충성이 힘을 만든다.</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -48,6 +51,7 @@
     "id": "collectible-987",
     "name": "10주년 주화",
     "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
+    "code": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
     "description": "CS:GO 커뮤니티와 함께 CS:GO의 10주년을 축하하기 위해 제작되었습니다.\\n\\n<i>10년 동안 이루어진 헤드샷, 클러치 및 커뮤니티를 기념하면서, 다시 한번 CS:GO의 10주년을 축하합니다!</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -63,6 +67,7 @@
     "id": "collectible-996",
     "name": "Global Offensive 배지",
     "name_original": "CollectibleCoin_CoinCsgo",
+    "code": "CollectibleCoin_CoinCsgo",
     "description": "Counter-Strike 2가 출시되기 전 Counter-Strike: Global Offensive 커뮤니티에서 충실하게 활동한 플레이어에게 수여된 배지입니다.\\n\\n<i>전설은 절대 죽지 않습니다.</i>",
     "rarity": {
       "id": "rarity_ancient",

@@ -3,6 +3,7 @@
     "id": "patch-4550",
     "name": "Lap | Crazy Banana",
     "name_original": "patch_banana",
+    "code": "patch_banana",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Agent som målestok</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -16,6 +17,7 @@
     "id": "patch-4551",
     "name": "Lap | The Boss",
     "name_original": "patch_boss",
+    "code": "patch_boss",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Kronen på agenten</i>",
     "rarity": {
       "id": "rarity_legendary",
@@ -29,6 +31,7 @@
     "id": "patch-4552",
     "name": "Lap | Chicken Lover",
     "name_original": "patch_chickenlover",
+    "code": "patch_chickenlover",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Tak for, at du skåner dem</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -42,6 +45,7 @@
     "id": "patch-4553",
     "name": "Lap | Welcome to the Clutch",
     "name_original": "patch_clutch",
+    "code": "patch_clutch",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>4K er normen for agenter, der bærer denne lap</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -55,6 +59,7 @@
     "id": "patch-4554",
     "name": "Lap | Dragon",
     "name_original": "patch_dragon",
+    "code": "patch_dragon",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har en drage med den ikoniske AK-47 på hver side</i>",
     "rarity": {
       "id": "rarity_legendary",
@@ -68,6 +73,7 @@
     "id": "patch-4555",
     "name": "Lap | Easy Peasy",
     "name_original": "patch_easypeasy",
+    "code": "patch_easypeasy",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap bestod på en eller anden måde kvalitetskontrollen, selvom \\\"SQEEZY\\\" er stavet forkert</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -81,6 +87,7 @@
     "id": "patch-4556",
     "name": "Lap | Rage",
     "name_original": "patch_fury",
+    "code": "patch_fury",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>En lap, som udtrykker raseri, vrede eller arrigskab</i>",
     "rarity": {
       "id": "rarity_legendary",
@@ -94,6 +101,7 @@
     "id": "patch-4557",
     "name": "Lap | Howl",
     "name_original": "patch_howl",
+    "code": "patch_howl",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap er sin vægt værd i rød, orange og guld</i>",
     "rarity": {
       "id": "rarity_legendary",
@@ -107,6 +115,7 @@
     "id": "patch-4558",
     "name": "Lap | Koi",
     "name_original": "patch_koi",
+    "code": "patch_koi",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har to koikarper ovenpå hvirvlende blåt vand</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -120,6 +129,7 @@
     "id": "patch-4559",
     "name": "Lap | Longevity",
     "name_original": "patch_longevity",
+    "code": "patch_longevity",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne røde og hvide lap har en kunstnerisk tolkning af CS:GO-logoet</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -133,6 +143,7 @@
     "id": "patch-4560",
     "name": "Lap | Wildfire",
     "name_original": "patch_wildfire",
+    "code": "patch_wildfire",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Operation Wildfire, som begyndte 17. februar 2016</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -146,6 +157,7 @@
     "id": "patch-4561",
     "name": "Lap | Vigilance",
     "name_original": "patch_vigilance",
+    "code": "patch_vigilance",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>En lap til den, som står på lur... en holdkammerat, som holder godt øje</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -159,6 +171,7 @@
     "id": "patch-4562",
     "name": "Lap | Bloodhound",
     "name_original": "patch_bloodhound",
+    "code": "patch_bloodhound",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Operation Bloodhound, som begyndte 26. maj 2015</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -172,6 +185,7 @@
     "id": "patch-4563",
     "name": "Lap | Bravo",
     "name_original": "patch_bravo",
+    "code": "patch_bravo",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Operation Bravo, som begyndte 19. september 2013</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -185,6 +199,7 @@
     "id": "patch-4564",
     "name": "Lap | Breakout",
     "name_original": "patch_breakout",
+    "code": "patch_breakout",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Operation Breakout, som begyndte 1. juli 2014</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -198,6 +213,7 @@
     "id": "patch-4565",
     "name": "Lap | Danger Zone",
     "name_original": "patch_dangerzone",
+    "code": "patch_dangerzone",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Danger Zone, som begyndte 6. december 2018</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -211,6 +227,7 @@
     "id": "patch-4566",
     "name": "Lap | Hydra",
     "name_original": "patch_hydra",
+    "code": "patch_hydra",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Operation Hydra, som begyndte 23. maj 2017</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -224,6 +241,7 @@
     "id": "patch-4567",
     "name": "Lap | Payback",
     "name_original": "patch_payback",
+    "code": "patch_payback",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Operation Payback, som begyndte 25. april 2013</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -237,6 +255,7 @@
     "id": "patch-4568",
     "name": "Lap | Phoenix",
     "name_original": "patch_phoenix",
+    "code": "patch_phoenix",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Operation Phoenix, som begyndte 20. februar 2014</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -250,6 +269,7 @@
     "id": "patch-4569",
     "name": "Lap | Shattered Web",
     "name_original": "patch_shatteredweb",
+    "code": "patch_shatteredweb",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Operation Shattered Web, som begyndte 18. november 2019</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -263,6 +283,7 @@
     "id": "patch-4570",
     "name": "Lap | Vanguard",
     "name_original": "patch_vanguard",
+    "code": "patch_vanguard",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne lap har ikonografi fra Operation Vanguard, som begyndte 11. november 2014</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -276,6 +297,7 @@
     "id": "patch-4571",
     "name": "Lap | Metal Silver",
     "name_original": "patch_silver",
+    "code": "patch_silver",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>En lap til dem, som tager deres første skridt på vejen mod Global.</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -289,6 +311,7 @@
     "id": "patch-4572",
     "name": "Lap | Metal Guld Nova I",
     "name_original": "patch_goldnova1",
+    "code": "patch_goldnova1",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Kom du forbi sølvet? Der er mere arbejde endnu.</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -302,6 +325,7 @@
     "id": "patch-4575",
     "name": "Lap | Metal Guld Nova Master",
     "name_original": "patch_goldnovamaster",
+    "code": "patch_goldnovamaster",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Og du troede, det var svært at komme forbi sølv...</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -315,6 +339,7 @@
     "id": "patch-4576",
     "name": "Lap | Metal Master Guardian I",
     "name_original": "patch_masterguardian1",
+    "code": "patch_masterguardian1",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Undslap du Gold Nova? Godt, du er ved at lære det.</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -328,6 +353,7 @@
     "id": "patch-4578",
     "name": "Lap | Metal Master Guardian Elite",
     "name_original": "patch_masterguardianelite",
+    "code": "patch_masterguardianelite",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Sølvtråden i denne mesterligt udførte MGE-lamp skiller sig ud på den marineblå baggrund.</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -341,6 +367,7 @@
     "id": "patch-4579",
     "name": "Lap | Metal Distinguished Master Guardian ★",
     "name_original": "patch_dmg",
+    "code": "patch_dmg",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Individer skal tilpasse sig og arbejde sammen for at opnå færdighedsgruppen DMG. Bliv ved med at klatre.</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -354,6 +381,7 @@
     "id": "patch-4581",
     "name": "Lap | Metal Legendary Eagle Master ★",
     "name_original": "patch_legendaryeaglemaster",
+    "code": "patch_legendaryeaglemaster",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Du nærmer dig toppen, men dem, som venter på din udfordring, vil ikke vise dig nogen nåde.</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -367,6 +395,7 @@
     "id": "patch-4582",
     "name": "Lap | Stormester – Første Klasse (Metal)",
     "name_original": "patch_supreme",
+    "code": "patch_supreme",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne Supreme-lap har en hjerteformet globus og røde og blå detaljer.</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -380,6 +409,7 @@
     "id": "patch-4583",
     "name": "Lap | Metal The Global Elite ★",
     "name_original": "patch_globalelite",
+    "code": "patch_globalelite",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Tillykke, udmærket arbejde. Nu begynder den rigtige udfordring.</i>",
     "rarity": {
       "id": "rarity_legendary",
@@ -393,6 +423,7 @@
     "id": "patch-4584",
     "name": "Lap | Metal Distinguished Master Guardian",
     "name_original": "patch_dmg2",
+    "code": "patch_dmg2",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Individer skal tilpasse sig og arbejde sammen for at opnå færdighedsgruppen DMG. Bliv ved med at klatre.</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -406,6 +437,7 @@
     "id": "patch-4585",
     "name": "Lap | Metal Legendary Eagle",
     "name_original": "patch_legendaryeagle2",
+    "code": "patch_legendaryeagle2",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Denne Legendary Eagle-lap har et par gyldne vinger.</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -419,6 +451,7 @@
     "id": "patch-4586",
     "name": "Lap | Metal Legendary Eagle Master",
     "name_original": "patch_legendaryeaglemaster2",
+    "code": "patch_legendaryeaglemaster2",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Du nærmer dig toppen, men dem, som venter på din udfordring, vil ikke vise dig nogen nåde.</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -432,6 +465,7 @@
     "id": "patch-4587",
     "name": "Lap | Metal Silver Demon",
     "name_original": "patch_silver_demon",
+    "code": "patch_silver_demon",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>\\\"Silver Hell\\\" er ikke et sted, men en sindstilstand. Og du kan forlade den når som helst.</i>",
     "rarity": {
       "id": "rarity_legendary",
@@ -445,6 +479,7 @@
     "id": "patch-4588",
     "name": "Lap | Stormester (Metal)",
     "name_original": "patch_suprememaster",
+    "code": "patch_suprememaster",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>En bevinget bomberydder med seks stjerner på hver side på denne SMFC-lap.</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -458,6 +493,7 @@
     "id": "patch-4589",
     "name": "Lap | Alyx",
     "name_original": "patch_hlalyx_alyx",
+    "code": "patch_hlalyx_alyx",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_legendary",
@@ -471,6 +507,7 @@
     "id": "patch-4591",
     "name": "Lap | Sustenance!",
     "name_original": "patch_hlalyx_headcrab_green",
+    "code": "patch_hlalyx_headcrab_green",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_mythical",
@@ -484,6 +521,7 @@
     "id": "patch-4592",
     "name": "Lap | Vortigaunt",
     "name_original": "patch_hlalyx_vort",
+    "code": "patch_hlalyx_vort",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_rare",
@@ -497,6 +535,7 @@
     "id": "patch-4593",
     "name": "Lap | Headcrab Glyph",
     "name_original": "patch_hlalyx_headcrab_teal",
+    "code": "patch_hlalyx_headcrab_teal",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_rare",
@@ -510,6 +549,7 @@
     "id": "patch-4594",
     "name": "Lap | Copper Lambda",
     "name_original": "patch_hlalyx_lambda_copper",
+    "code": "patch_hlalyx_lambda_copper",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_legendary",
@@ -523,6 +563,7 @@
     "id": "patch-4595",
     "name": "Lap | Health",
     "name_original": "patch_hlalyx_hearts",
+    "code": "patch_hlalyx_hearts",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_legendary",
@@ -536,6 +577,7 @@
     "id": "patch-4596",
     "name": "Lap | Combine Helmet",
     "name_original": "patch_hlalyx_combine_front",
+    "code": "patch_hlalyx_combine_front",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_rare",
@@ -549,6 +591,7 @@
     "id": "patch-4597",
     "name": "Lap | Black Mesa",
     "name_original": "patch_hlalyx_blackmesa",
+    "code": "patch_hlalyx_blackmesa",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_mythical",
@@ -562,6 +605,7 @@
     "id": "patch-4598",
     "name": "Lap | CMB",
     "name_original": "patch_hlalyx_cmb",
+    "code": "patch_hlalyx_cmb",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_rare",
@@ -575,6 +619,7 @@
     "id": "patch-4599",
     "name": "Lap | Lambda",
     "name_original": "patch_hlalyx_lambda_orange",
+    "code": "patch_hlalyx_lambda_orange",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_mythical",
@@ -588,6 +633,7 @@
     "id": "patch-4600",
     "name": "Lap | City 17",
     "name_original": "patch_hlalyx_c17",
+    "code": "patch_hlalyx_c17",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br>Mindelap for Half-Life: Alyx",
     "rarity": {
       "id": "rarity_rare",
@@ -601,6 +647,7 @@
     "id": "patch-4697",
     "name": "Lap | Metal The Global Elite",
     "name_original": "patch_globalelite2",
+    "code": "patch_globalelite2",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Tillykke, udmærket arbejde. Nu begynder den rigtige udfordring.</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -614,6 +661,7 @@
     "id": "patch-4699",
     "name": "Lap | Metal Master Guardian",
     "name_original": "patch_masterguardian3",
+    "code": "patch_masterguardian3",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Undslap du Gold Nova? Godt, du er ved at lære det.</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -627,6 +675,7 @@
     "id": "patch-4700",
     "name": "Lap | Metal Gold Nova",
     "name_original": "patch_goldnova4",
+    "code": "patch_goldnova4",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Kom du forbi sølvet? Der er mere arbejde endnu.</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -640,6 +689,7 @@
     "id": "patch-4937",
     "name": "Lap | Abandon Hope",
     "name_original": "patch_op11_abandon_hope",
+    "code": "patch_op11_abandon_hope",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Den, der træder ind...</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -653,6 +703,7 @@
     "id": "patch-4938",
     "name": "Lap | Anchors Aweigh",
     "name_original": "patch_op11_anchor",
+    "code": "patch_op11_anchor",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Stilstand i stormen...</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -666,6 +717,7 @@
     "id": "patch-4939",
     "name": "Lap | Cruising Ray",
     "name_original": "patch_op11_cruising",
+    "code": "patch_op11_cruising",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Danser under bølgerne...</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -679,6 +731,7 @@
     "id": "patch-4940",
     "name": "Lap | Bayonet Frog",
     "name_original": "patch_op11_frog_skeleton",
+    "code": "patch_op11_frog_skeleton",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Slid dig ikke i kvæk...</i>",
     "rarity": {
       "id": "rarity_legendary",
@@ -692,6 +745,7 @@
     "id": "patch-4941",
     "name": "Lap | Mad Sushi",
     "name_original": "patch_op11_mad_sushi",
+    "code": "patch_op11_mad_sushi",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Ris til egen ...!</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -705,6 +759,7 @@
     "id": "patch-4942",
     "name": "Lap | Giant Squid",
     "name_original": "patch_op11_pink_squid",
+    "code": "patch_op11_pink_squid",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Trækker byttet ned i dybet...</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -718,6 +773,7 @@
     "id": "patch-4943",
     "name": "Lap | El Pirata",
     "name_original": "patch_op11_piranha",
+    "code": "patch_op11_piranha",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Hvis vi alle tager en lille bid...</i>",
     "rarity": {
       "id": "rarity_rare",
@@ -731,6 +787,7 @@
     "id": "patch-4944",
     "name": "Lap | Death From Below",
     "name_original": "patch_op11_siren",
+    "code": "patch_op11_siren",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Overhængende fare...</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -744,6 +801,7 @@
     "id": "patch-4945",
     "name": "Lap | Dead Men",
     "name_original": "patch_op11_skull_crossswords",
+    "code": "patch_op11_skull_crossswords",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Universelt faresignal...</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -757,6 +815,7 @@
     "id": "patch-4946",
     "name": "Lap | Sunset Wave",
     "name_original": "patch_op11_sunset_wave",
+    "code": "patch_op11_sunset_wave",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>En ny dag til søs...</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -770,6 +829,7 @@
     "id": "patch-4947",
     "name": "Lap | Aquatic Offensive",
     "name_original": "patch_op11_fish_go",
+    "code": "patch_op11_fish_go",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Fisk på krogen</i>",
     "rarity": {
       "id": "rarity_legendary",
@@ -783,6 +843,7 @@
     "id": "patch-4948",
     "name": "Lap | Elder God",
     "name_original": "patch_op11_cthulhu",
+    "code": "patch_op11_cthulhu",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Cthulhu kan lide dem, der desarmerer bomben...</i>",
     "rarity": {
       "id": "rarity_legendary",
@@ -796,6 +857,7 @@
     "id": "patch-4949",
     "name": "Lap | Meal Time",
     "name_original": "patch_op11_meal_time",
+    "code": "patch_op11_meal_time",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.<br><br><i>Sejrssulten...</i>",
     "rarity": {
       "id": "rarity_mythical",
@@ -809,6 +871,7 @@
     "id": "patch-5079",
     "name": "Lap | Ninjas in Pyjamas | Stockholm 2021",
     "name_original": "stockh2021_teampatch_nip",
+    "code": "stockh2021_teampatch_nip",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -822,6 +885,7 @@
     "id": "patch-5080",
     "name": "Lap | Ninjas in Pyjamas (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_nip_gold",
+    "code": "stockh2021_teampatch_nip_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -835,6 +899,7 @@
     "id": "patch-5081",
     "name": "Lap | FURIA | Stockholm 2021",
     "name_original": "stockh2021_teampatch_furi",
+    "code": "stockh2021_teampatch_furi",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -848,6 +913,7 @@
     "id": "patch-5082",
     "name": "Lap | FURIA (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_furi_gold",
+    "code": "stockh2021_teampatch_furi_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -861,6 +927,7 @@
     "id": "patch-5083",
     "name": "Lap | Natus Vincere | Stockholm 2021",
     "name_original": "stockh2021_teampatch_navi",
+    "code": "stockh2021_teampatch_navi",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -874,6 +941,7 @@
     "id": "patch-5084",
     "name": "Lap | Natus Vincere (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_navi_gold",
+    "code": "stockh2021_teampatch_navi_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -887,6 +955,7 @@
     "id": "patch-5085",
     "name": "Lap | Vitality | Stockholm 2021",
     "name_original": "stockh2021_teampatch_vita",
+    "code": "stockh2021_teampatch_vita",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -900,6 +969,7 @@
     "id": "patch-5086",
     "name": "Lap | Vitality (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_vita_gold",
+    "code": "stockh2021_teampatch_vita_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -913,6 +983,7 @@
     "id": "patch-5087",
     "name": "Lap | Team Liquid | Stockholm 2021",
     "name_original": "stockh2021_teampatch_liq",
+    "code": "stockh2021_teampatch_liq",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -926,6 +997,7 @@
     "id": "patch-5088",
     "name": "Lap | Team Liquid (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_liq_gold",
+    "code": "stockh2021_teampatch_liq_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -939,6 +1011,7 @@
     "id": "patch-5089",
     "name": "Lap | Gambit Gaming | Stockholm 2021",
     "name_original": "stockh2021_teampatch_gamb",
+    "code": "stockh2021_teampatch_gamb",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -952,6 +1025,7 @@
     "id": "patch-5090",
     "name": "Lap | Gambit Gaming (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_gamb_gold",
+    "code": "stockh2021_teampatch_gamb_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -965,6 +1039,7 @@
     "id": "patch-5091",
     "name": "Lap | G2 Esports | Stockholm 2021",
     "name_original": "stockh2021_teampatch_g2",
+    "code": "stockh2021_teampatch_g2",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -978,6 +1053,7 @@
     "id": "patch-5092",
     "name": "Lap | G2 Esports (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_g2_gold",
+    "code": "stockh2021_teampatch_g2_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -991,6 +1067,7 @@
     "id": "patch-5093",
     "name": "Lap | Evil Geniuses | Stockholm 2021",
     "name_original": "stockh2021_teampatch_evl",
+    "code": "stockh2021_teampatch_evl",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1004,6 +1081,7 @@
     "id": "patch-5094",
     "name": "Lap | Evil Geniuses (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_evl_gold",
+    "code": "stockh2021_teampatch_evl_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1017,6 +1095,7 @@
     "id": "patch-5095",
     "name": "Lap | Team Spirit | Stockholm 2021",
     "name_original": "stockh2021_teampatch_spir",
+    "code": "stockh2021_teampatch_spir",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1030,6 +1109,7 @@
     "id": "patch-5096",
     "name": "Lap | Team Spirit (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_spir_gold",
+    "code": "stockh2021_teampatch_spir_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1043,6 +1123,7 @@
     "id": "patch-5097",
     "name": "Lap | Astralis | Stockholm 2021",
     "name_original": "stockh2021_teampatch_astr",
+    "code": "stockh2021_teampatch_astr",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1056,6 +1137,7 @@
     "id": "patch-5098",
     "name": "Lap | Astralis (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_astr_gold",
+    "code": "stockh2021_teampatch_astr_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1069,6 +1151,7 @@
     "id": "patch-5099",
     "name": "Lap | paiN Gaming | Stockholm 2021",
     "name_original": "stockh2021_teampatch_pain",
+    "code": "stockh2021_teampatch_pain",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1082,6 +1165,7 @@
     "id": "patch-5100",
     "name": "Lap | paiN Gaming (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_pain_gold",
+    "code": "stockh2021_teampatch_pain_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1095,6 +1179,7 @@
     "id": "patch-5101",
     "name": "Lap | ENCE | Stockholm 2021",
     "name_original": "stockh2021_teampatch_ence",
+    "code": "stockh2021_teampatch_ence",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1108,6 +1193,7 @@
     "id": "patch-5102",
     "name": "Lap | ENCE (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_ence_gold",
+    "code": "stockh2021_teampatch_ence_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1121,6 +1207,7 @@
     "id": "patch-5103",
     "name": "Lap | BIG | Stockholm 2021",
     "name_original": "stockh2021_teampatch_big",
+    "code": "stockh2021_teampatch_big",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1134,6 +1221,7 @@
     "id": "patch-5104",
     "name": "Lap | BIG (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_big_gold",
+    "code": "stockh2021_teampatch_big_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1147,6 +1235,7 @@
     "id": "patch-5105",
     "name": "Lap | Movistar Riders | Stockholm 2021",
     "name_original": "stockh2021_teampatch_ride",
+    "code": "stockh2021_teampatch_ride",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1160,6 +1249,7 @@
     "id": "patch-5106",
     "name": "Lap | Movistar Riders (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_ride_gold",
+    "code": "stockh2021_teampatch_ride_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1173,6 +1263,7 @@
     "id": "patch-5107",
     "name": "Lap | Heroic | Stockholm 2021",
     "name_original": "stockh2021_teampatch_hero",
+    "code": "stockh2021_teampatch_hero",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1186,6 +1277,7 @@
     "id": "patch-5108",
     "name": "Lap | Heroic (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_hero_gold",
+    "code": "stockh2021_teampatch_hero_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1199,6 +1291,7 @@
     "id": "patch-5109",
     "name": "Lap | MOUZ | Stockholm 2021",
     "name_original": "stockh2021_teampatch_mouz",
+    "code": "stockh2021_teampatch_mouz",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1212,6 +1305,7 @@
     "id": "patch-5110",
     "name": "Lap | MOUZ (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_mouz_gold",
+    "code": "stockh2021_teampatch_mouz_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1225,6 +1319,7 @@
     "id": "patch-5111",
     "name": "Lap | Sharks Esports | Stockholm 2021",
     "name_original": "stockh2021_teampatch_shrk",
+    "code": "stockh2021_teampatch_shrk",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1238,6 +1333,7 @@
     "id": "patch-5112",
     "name": "Lap | Sharks Esports (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_shrk_gold",
+    "code": "stockh2021_teampatch_shrk_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1251,6 +1347,7 @@
     "id": "patch-5113",
     "name": "Lap | Tyloo | Stockholm 2021",
     "name_original": "stockh2021_teampatch_tyl",
+    "code": "stockh2021_teampatch_tyl",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1264,6 +1361,7 @@
     "id": "patch-5114",
     "name": "Lap | Tyloo (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_tyl_gold",
+    "code": "stockh2021_teampatch_tyl_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1277,6 +1375,7 @@
     "id": "patch-5115",
     "name": "Lap | Renegades | Stockholm 2021",
     "name_original": "stockh2021_teampatch_ren",
+    "code": "stockh2021_teampatch_ren",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1290,6 +1389,7 @@
     "id": "patch-5116",
     "name": "Lap | Renegades (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_ren_gold",
+    "code": "stockh2021_teampatch_ren_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1303,6 +1403,7 @@
     "id": "patch-5117",
     "name": "Lap | Entropiq | Stockholm 2021",
     "name_original": "stockh2021_teampatch_ent",
+    "code": "stockh2021_teampatch_ent",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1316,6 +1417,7 @@
     "id": "patch-5118",
     "name": "Lap | Entropiq (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_ent_gold",
+    "code": "stockh2021_teampatch_ent_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1329,6 +1431,7 @@
     "id": "patch-5119",
     "name": "Lap | GODSENT | Stockholm 2021",
     "name_original": "stockh2021_teampatch_god",
+    "code": "stockh2021_teampatch_god",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1342,6 +1445,7 @@
     "id": "patch-5120",
     "name": "Lap | GODSENT (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_god_gold",
+    "code": "stockh2021_teampatch_god_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1355,6 +1459,7 @@
     "id": "patch-5121",
     "name": "Lap | Virtus.Pro | Stockholm 2021",
     "name_original": "stockh2021_teampatch_vp",
+    "code": "stockh2021_teampatch_vp",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1368,6 +1473,7 @@
     "id": "patch-5122",
     "name": "Lap | Virtus.Pro (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_vp_gold",
+    "code": "stockh2021_teampatch_vp_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1381,6 +1487,7 @@
     "id": "patch-5123",
     "name": "Lap | Copenhagen Flames | Stockholm 2021",
     "name_original": "stockh2021_teampatch_cope",
+    "code": "stockh2021_teampatch_cope",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1394,6 +1501,7 @@
     "id": "patch-5124",
     "name": "Lap | Copenhagen Flames (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_cope_gold",
+    "code": "stockh2021_teampatch_cope_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1407,6 +1515,7 @@
     "id": "patch-5125",
     "name": "Lap | FaZe Clan | Stockholm 2021",
     "name_original": "stockh2021_teampatch_faze",
+    "code": "stockh2021_teampatch_faze",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1420,6 +1529,7 @@
     "id": "patch-5126",
     "name": "Lap | FaZe Clan (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_faze_gold",
+    "code": "stockh2021_teampatch_faze_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",
@@ -1433,6 +1543,7 @@
     "id": "patch-5127",
     "name": "Lap | PGL | Stockholm 2021",
     "name_original": "stockh2021_teampatch_pgl",
+    "code": "stockh2021_teampatch_pgl",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_rare",
@@ -1446,6 +1557,7 @@
     "id": "patch-5128",
     "name": "Lap | PGL (Guld) | Stockholm 2021",
     "name_original": "stockh2021_teampatch_pgl_gold",
+    "code": "stockh2021_teampatch_pgl_gold",
     "description": "Denne lap kan påføres enhver agent, du ejer. Når den er påført, kan den fjernes, men ikke påføres igen.",
     "rarity": {
       "id": "rarity_mythical",

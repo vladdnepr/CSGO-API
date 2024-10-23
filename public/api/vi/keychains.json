@@ -2,6 +2,7 @@
   {
     "id": "keychain-1",
     "name": "Móc treo | Lil' Ava",
+    "code": "ava",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -14,6 +15,7 @@
   {
     "id": "keychain-2",
     "name": "Móc treo | That's Bananas",
+    "code": "banana",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -26,6 +28,7 @@
   {
     "id": "keychain-3",
     "name": "Móc treo | Lil' Whiskers",
+    "code": "cat",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -38,6 +41,7 @@
   {
     "id": "keychain-4",
     "name": "Móc treo | Lil' Sandy",
+    "code": "catbeach",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -50,6 +54,7 @@
   {
     "id": "keychain-5",
     "name": "Móc treo | Chicken Lil'",
+    "code": "chicken",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -62,6 +67,7 @@
   {
     "id": "keychain-6",
     "name": "Móc treo | Lil' Crass",
+    "code": "guerilla",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -74,6 +80,7 @@
   {
     "id": "keychain-7",
     "name": "Móc treo | Hot Howl",
+    "code": "howl",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_ancient",
@@ -86,6 +93,7 @@
   {
     "id": "keychain-8",
     "name": "Móc treo | Big Kev",
+    "code": "kev",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -98,6 +106,7 @@
   {
     "id": "keychain-9",
     "name": "Móc treo | Lil' Monster",
+    "code": "monster",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_legendary",
@@ -110,6 +119,7 @@
   {
     "id": "keychain-10",
     "name": "Móc treo | Hot Sauce",
+    "code": "sam_catchup",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -122,6 +132,7 @@
   {
     "id": "keychain-11",
     "name": "Móc treo | Diamond Dog",
+    "code": "sam_diamond",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_legendary",
@@ -134,6 +145,7 @@
   {
     "id": "keychain-12",
     "name": "Móc treo | Pinch O' Salt",
+    "code": "sam_salty",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -146,6 +158,7 @@
   {
     "id": "keychain-13",
     "name": "Móc treo | Diner Dog",
+    "code": "sam_shape",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_legendary",
@@ -158,6 +171,7 @@
   {
     "id": "keychain-14",
     "name": "Móc treo | Lil' Teacup",
+    "code": "sam_toile",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -170,6 +184,7 @@
   {
     "id": "keychain-15",
     "name": "Móc treo | Lil' SAS",
+    "code": "sas",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -182,6 +197,7 @@
   {
     "id": "keychain-16",
     "name": "Móc treo | Hot Wurst",
+    "code": "wurst",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_ancient",
@@ -194,6 +210,7 @@
   {
     "id": "keychain-17",
     "name": "Móc treo | Baby's AK",
+    "code": "#keychain_kc_wpn_ak_base",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -206,6 +223,7 @@
   {
     "id": "keychain-18",
     "name": "Móc treo | Die-cast AK",
+    "code": "#keychain_kc_wpn_ak_jelly",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -218,6 +236,7 @@
   {
     "id": "keychain-19",
     "name": "Móc treo | Pocket AWP",
+    "code": "#keychain_kc_wpn_awp_plastic",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -230,6 +249,7 @@
   {
     "id": "keychain-20",
     "name": "Móc treo | Titeenium AWP",
+    "code": "#keychain_kc_wpn_awp_spoon",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_legendary",
@@ -242,6 +262,7 @@
   {
     "id": "keychain-21",
     "name": "Móc treo | Baby Karat CT",
+    "code": "#keychain_kc_wpn_ctknife_gold",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_ancient",
@@ -254,6 +275,7 @@
   {
     "id": "keychain-22",
     "name": "Móc treo | Whittle Knife",
+    "code": "#keychain_kc_wpn_ctknife_wood",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -266,6 +288,7 @@
   {
     "id": "keychain-23",
     "name": "Móc treo | POP Art",
+    "code": "#keychain_kc_wpn_m4a1s_comic",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -278,6 +301,7 @@
   {
     "id": "keychain-24",
     "name": "Móc treo | Lil' Squirt",
+    "code": "#keychain_kc_wpn_m4a1s_ss",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_legendary",
@@ -290,6 +314,7 @@
   {
     "id": "keychain-25",
     "name": "Móc treo | Disco MAC",
+    "code": "#keychain_kc_wpn_mac10_glitter",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -302,6 +327,7 @@
   {
     "id": "keychain-26",
     "name": "Móc treo | Backsplash",
+    "code": "#keychain_kc_wpn_mac10_tile",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -314,6 +340,7 @@
   {
     "id": "keychain-27",
     "name": "Móc treo | Lil' Cap Gun",
+    "code": "#keychain_kc_wpn_tec9_cap",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -326,6 +353,7 @@
   {
     "id": "keychain-28",
     "name": "Móc treo | Hot Hands",
+    "code": "#keychain_kc_wpn_tec9_magma",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -338,6 +366,7 @@
   {
     "id": "keychain-29",
     "name": "Móc treo | Semi-Precious",
+    "code": "#keychain_kc_wpn_tknife_crystal",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_legendary",
@@ -350,6 +379,7 @@
   {
     "id": "keychain-30",
     "name": "Móc treo | Baby Karat T",
+    "code": "#keychain_kc_wpn_tknife_gold",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_ancient",
@@ -362,6 +392,7 @@
   {
     "id": "keychain-31",
     "name": "Móc treo | Glamour Shot",
+    "code": "#keychain_kc_wpn_usp_jewel",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",
@@ -374,6 +405,7 @@
   {
     "id": "keychain-32",
     "name": "Móc treo | Stitch-Loaded",
+    "code": "#keychain_kc_wpn_usp_yarn",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_rare",
@@ -386,6 +418,7 @@
   {
     "id": "keychain-33",
     "name": "Móc treo | Lil' Squatch",
+    "code": "bigfoot",
     "description": "Móc treo này có thể gắn vào bất kỳ vũ khí nào bạn sở hữu. Có thể tháo móc treo đã gắn bằng công cụ gỡ móc treo. Móc treo sẽ về lại kho đồ của bạn.",
     "rarity": {
       "id": "rarity_mythical",

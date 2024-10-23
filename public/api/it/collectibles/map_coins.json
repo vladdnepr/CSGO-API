@@ -3,6 +3,7 @@
     "id": "collectible-1004",
     "name": "Gettone della mappa Museum",
     "name_original": "Collectible_MapTokenMuseum",
+    "code": "Collectible_MapTokenMuseum",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -18,6 +19,7 @@
     "id": "collectible-1005",
     "name": "Gettone della mappa Downtown",
     "name_original": "Collectible_MapTokenDowntown",
+    "code": "Collectible_MapTokenDowntown",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -33,6 +35,7 @@
     "id": "collectible-1006",
     "name": "Gettone della mappa Thunder",
     "name_original": "Collectible_MapTokenThunder",
+    "code": "Collectible_MapTokenThunder",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -48,6 +51,7 @@
     "id": "collectible-1007",
     "name": "Gettone della mappa Favela",
     "name_original": "Collectible_MapTokenFavela",
+    "code": "Collectible_MapTokenFavela",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -63,6 +67,7 @@
     "id": "collectible-1008",
     "name": "Gettone della mappa Motel",
     "name_original": "Collectible_MapTokenMotel",
+    "code": "Collectible_MapTokenMotel",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -78,6 +83,7 @@
     "id": "collectible-1009",
     "name": "Gettone della mappa Seaside",
     "name_original": "Collectible_MapTokenSeaside",
+    "code": "Collectible_MapTokenSeaside",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -93,6 +99,7 @@
     "id": "collectible-1010",
     "name": "Gettone della mappa Library",
     "name_original": "Collectible_MapTokenLibrary",
+    "code": "Collectible_MapTokenLibrary",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -108,6 +115,7 @@
     "id": "collectible-1016",
     "name": "Gettone della mappa Agency",
     "name_original": "Collectible_MapTokenAgency",
+    "code": "Collectible_MapTokenAgency",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -123,6 +131,7 @@
     "id": "collectible-1017",
     "name": "Gettone della mappa Ali",
     "name_original": "Collectible_MapTokenAli",
+    "code": "Collectible_MapTokenAli",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -138,6 +147,7 @@
     "id": "collectible-1018",
     "name": "Gettone della mappa Cache",
     "name_original": "Collectible_MapTokenCache",
+    "code": "Collectible_MapTokenCache",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -153,6 +163,7 @@
     "id": "collectible-1019",
     "name": "Gettone della mappa Chinatown",
     "name_original": "Collectible_MapTokenChinatown",
+    "code": "Collectible_MapTokenChinatown",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -168,6 +179,7 @@
     "id": "collectible-1020",
     "name": "Gettone della mappa Gwailor",
     "name_original": "Collectible_MapTokenGwalior",
+    "code": "Collectible_MapTokenGwalior",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -183,6 +195,7 @@
     "id": "collectible-1021",
     "name": "Gettone della mappa Ruins",
     "name_original": "Collectible_MapTokenRuins",
+    "code": "Collectible_MapTokenRuins",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -198,6 +211,7 @@
     "id": "collectible-1022",
     "name": "Gettone della mappa Siege",
     "name_original": "Collectible_MapTokenSiege",
+    "code": "Collectible_MapTokenSiege",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -213,6 +227,7 @@
     "id": "collectible-1031",
     "name": "Gettone della mappa Castle",
     "name_original": "Collectible_MapTokenCastle",
+    "code": "Collectible_MapTokenCastle",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -228,6 +243,7 @@
     "id": "collectible-1032",
     "name": "Gettone della mappa Black Gold",
     "name_original": "Collectible_MapTokenBlackGold",
+    "code": "Collectible_MapTokenBlackGold",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -243,6 +259,7 @@
     "id": "collectible-1033",
     "name": "Gettone della mappa Rush",
     "name_original": "Collectible_MapTokenRush",
+    "code": "Collectible_MapTokenRush",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -258,6 +275,7 @@
     "id": "collectible-1034",
     "name": "Gettone della mappa Mist",
     "name_original": "Collectible_MapTokenMist",
+    "code": "Collectible_MapTokenMist",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -273,6 +291,7 @@
     "id": "collectible-1035",
     "name": "Gettone della mappa Insertion",
     "name_original": "Collectible_MapTokenInsertion",
+    "code": "Collectible_MapTokenInsertion",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -288,6 +307,7 @@
     "id": "collectible-1036",
     "name": "Gettone della mappa Overgrown",
     "name_original": "Collectible_MapTokenOvergrown",
+    "code": "Collectible_MapTokenOvergrown",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -303,6 +323,7 @@
     "id": "collectible-1037",
     "name": "Gettone della mappa Marquis",
     "name_original": "Collectible_MapTokenMarquis",
+    "code": "Collectible_MapTokenMarquis",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -318,6 +339,7 @@
     "id": "collectible-1038",
     "name": "Gettone della mappa Workout",
     "name_original": "Collectible_MapTokenWorkout",
+    "code": "Collectible_MapTokenWorkout",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -333,6 +355,7 @@
     "id": "collectible-1039",
     "name": "Gettone della mappa Backalley",
     "name_original": "Collectible_MapTokenBackalley",
+    "code": "Collectible_MapTokenBackalley",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -348,6 +371,7 @@
     "id": "collectible-1040",
     "name": "Gettone della mappa Season",
     "name_original": "Collectible_MapTokenSeason",
+    "code": "Collectible_MapTokenSeason",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -363,6 +387,7 @@
     "id": "collectible-1041",
     "name": "Gettone della mappa Bazaar",
     "name_original": "Collectible_MapTokenBazaar",
+    "code": "Collectible_MapTokenBazaar",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -378,6 +403,7 @@
     "id": "collectible-1042",
     "name": "Gettone della mappa Facade",
     "name_original": "Collectible_MapTokenFacade",
+    "code": "Collectible_MapTokenFacade",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -393,6 +419,7 @@
     "id": "collectible-1043",
     "name": "Gettone della mappa Log",
     "name_original": "Collectible_MapTokenLog",
+    "code": "Collectible_MapTokenLog",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -408,6 +435,7 @@
     "id": "collectible-1044",
     "name": "Gettone della mappa Rails",
     "name_original": "Collectible_MapTokenRails",
+    "code": "Collectible_MapTokenRails",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -423,6 +451,7 @@
     "id": "collectible-1045",
     "name": "Gettone della mappa Resort",
     "name_original": "Collectible_MapTokenResort",
+    "code": "Collectible_MapTokenResort",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -438,6 +467,7 @@
     "id": "collectible-1046",
     "name": "Gettone della mappa Zoo",
     "name_original": "Collectible_MapTokenZoo",
+    "code": "Collectible_MapTokenZoo",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -453,6 +483,7 @@
     "id": "collectible-1047",
     "name": "Moneta della mappa \\\"Santorini\\\"",
     "name_original": "Collectible_MapTokenSantorini",
+    "code": "Collectible_MapTokenSantorini",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -468,6 +499,7 @@
     "id": "collectible-1048",
     "name": "Moneta della mappa \\\"Coast\\\"",
     "name_original": "Collectible_MapTokenCoast",
+    "code": "Collectible_MapTokenCoast",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -483,6 +515,7 @@
     "id": "collectible-1049",
     "name": "Moneta della mappa \\\"Mikla\\\"",
     "name_original": "Collectible_MapTokenMikla",
+    "code": "Collectible_MapTokenMikla",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -498,6 +531,7 @@
     "id": "collectible-1050",
     "name": "Moneta della mappa \\\"Royal\\\"",
     "name_original": "Collectible_MapTokenRoyal",
+    "code": "Collectible_MapTokenRoyal",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -513,6 +547,7 @@
     "id": "collectible-1051",
     "name": "Moneta della mappa \\\"Empire\\\"",
     "name_original": "Collectible_MapTokenEmpire",
+    "code": "Collectible_MapTokenEmpire",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -528,6 +563,7 @@
     "id": "collectible-1052",
     "name": "Moneta della mappa \\\"Tulip\\\"",
     "name_original": "Collectible_MapTokenTulip",
+    "code": "Collectible_MapTokenTulip",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -543,6 +579,7 @@
     "id": "collectible-1053",
     "name": "Moneta della mappa \\\"Cruise\\\"",
     "name_original": "Collectible_MapTokenCruise",
+    "code": "Collectible_MapTokenCruise",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -558,6 +595,7 @@
     "id": "collectible-1054",
     "name": "Gettone della mappa Subzero",
     "name_original": "Collectible_MapTokenSubzero",
+    "code": "Collectible_MapTokenSubzero",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -573,6 +611,7 @@
     "id": "collectible-1055",
     "name": "Gettone della mappa Biome",
     "name_original": "Collectible_MapTokenBiome",
+    "code": "Collectible_MapTokenBiome",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -588,6 +627,7 @@
     "id": "collectible-1056",
     "name": "Gettone della mappa Abbey",
     "name_original": "Collectible_MapTokenAbbey",
+    "code": "Collectible_MapTokenAbbey",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -603,6 +643,7 @@
     "id": "collectible-1057",
     "name": "Gettone della mappa Ruby",
     "name_original": "Collectible_MapTokenRuby",
+    "code": "Collectible_MapTokenRuby",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -618,6 +659,7 @@
     "id": "collectible-1058",
     "name": "Gettone della mappa Breach",
     "name_original": "Collectible_MapTokenBreach",
+    "code": "Collectible_MapTokenBreach",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -633,6 +675,7 @@
     "id": "collectible-1059",
     "name": "Gettone della mappa Studio",
     "name_original": "Collectible_MapTokenStudio",
+    "code": "Collectible_MapTokenStudio",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -648,6 +691,7 @@
     "id": "collectible-1060",
     "name": "Gettone della mappa Jungle",
     "name_original": "Collectible_MapTokenJungle",
+    "code": "Collectible_MapTokenJungle",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -663,6 +707,7 @@
     "id": "collectible-1061",
     "name": "Gettone della mappa Anubis",
     "name_original": "Collectible_MapTokenAnubis",
+    "code": "Collectible_MapTokenAnubis",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -678,6 +723,7 @@
     "id": "collectible-1062",
     "name": "Gettone della mappa Chlorine",
     "name_original": "Collectible_MapTokenChlorine",
+    "code": "Collectible_MapTokenChlorine",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -693,6 +739,7 @@
     "id": "collectible-1063",
     "name": "Gettone della mappa Mutiny",
     "name_original": "Collectible_MapTokenMutiny",
+    "code": "Collectible_MapTokenMutiny",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -708,6 +755,7 @@
     "id": "collectible-1064",
     "name": "Gettone della mappa Swamp",
     "name_original": "Collectible_MapTokenSwamp",
+    "code": "Collectible_MapTokenSwamp",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -723,6 +771,7 @@
     "id": "collectible-1065",
     "name": "Gettone della mappa Frostbite",
     "name_original": "Collectible_MapTokenFrostbite",
+    "code": "Collectible_MapTokenFrostbite",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -738,6 +787,7 @@
     "id": "collectible-1066",
     "name": "Gettone della mappa Engage",
     "name_original": "Collectible_MapTokenEngage",
+    "code": "Collectible_MapTokenEngage",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -753,6 +803,7 @@
     "id": "collectible-1067",
     "name": "Gettone della mappa Apollo",
     "name_original": "Collectible_MapTokenApollo",
+    "code": "Collectible_MapTokenApollo",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -768,6 +819,7 @@
     "id": "collectible-1068",
     "name": "Gettone della mappa Guard",
     "name_original": "Collectible_MapTokenGuard",
+    "code": "Collectible_MapTokenGuard",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -783,6 +835,7 @@
     "id": "collectible-1069",
     "name": "Gettone della mappa Elysion",
     "name_original": "Collectible_MapTokenElysion",
+    "code": "Collectible_MapTokenElysion",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -798,6 +851,7 @@
     "id": "collectible-1070",
     "name": "Gettone della mappa Grind",
     "name_original": "Collectible_MapTokenGrind",
+    "code": "Collectible_MapTokenGrind",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -813,6 +867,7 @@
     "id": "collectible-1071",
     "name": "Gettone della mappa Mocha",
     "name_original": "Collectible_MapTokenMocha",
+    "code": "Collectible_MapTokenMocha",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -828,6 +883,7 @@
     "id": "collectible-1072",
     "name": "Gettone della mappa Calavera",
     "name_original": "Collectible_MapTokenCalavera",
+    "code": "Collectible_MapTokenCalavera",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -843,6 +899,7 @@
     "id": "collectible-1073",
     "name": "Gettone della mappa Pitstop",
     "name_original": "Collectible_MapTokenPitstop",
+    "code": "Collectible_MapTokenPitstop",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -858,6 +915,7 @@
     "id": "collectible-1074",
     "name": "Gettone della mappa Basalt",
     "name_original": "Collectible_MapTokenBasalt",
+    "code": "Collectible_MapTokenBasalt",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -873,6 +931,7 @@
     "id": "collectible-1075",
     "name": "Gettone della mappa Insertion II",
     "name_original": "Collectible_MapTokenInsertion2",
+    "code": "Collectible_MapTokenInsertion2",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -888,6 +947,7 @@
     "id": "collectible-1076",
     "name": "Gettone della mappa Ravine",
     "name_original": "Collectible_MapTokenRavine",
+    "code": "Collectible_MapTokenRavine",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -903,6 +963,7 @@
     "id": "collectible-1077",
     "name": "Gettone della mappa Extraction",
     "name_original": "Collectible_MapTokenExtraction",
+    "code": "Collectible_MapTokenExtraction",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -918,6 +979,7 @@
     "id": "collectible-1078",
     "name": "Gettone della mappa County",
     "name_original": "Collectible_MapTokenCounty",
+    "code": "Collectible_MapTokenCounty",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -933,6 +995,7 @@
     "id": "collectible-1079",
     "name": "Gettone della mappa Iris",
     "name_original": "Collectible_MapTokenIris",
+    "code": "Collectible_MapTokenIris",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -948,6 +1011,7 @@
     "id": "collectible-1080",
     "name": "Gettone della mappa Climb",
     "name_original": "Collectible_MapTokenClimb",
+    "code": "Collectible_MapTokenClimb",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -963,6 +1027,7 @@
     "id": "collectible-1081",
     "name": "Gettone della mappa Crete",
     "name_original": "Collectible_MapTokenCrete",
+    "code": "Collectible_MapTokenCrete",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -978,6 +1043,7 @@
     "id": "collectible-1082",
     "name": "Gettone della mappa Hive",
     "name_original": "Collectible_MapTokenHive",
+    "code": "Collectible_MapTokenHive",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -993,6 +1059,7 @@
     "id": "collectible-1083",
     "name": "Gettone della mappa Vineyard",
     "name_original": "Collectible_MapTokenVineyard",
+    "code": "Collectible_MapTokenVineyard",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1008,6 +1075,7 @@
     "id": "collectible-1084",
     "name": "Gettone della mappa Ember",
     "name_original": "Collectible_MapTokenEmber",
+    "code": "Collectible_MapTokenEmber",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1023,6 +1091,7 @@
     "id": "collectible-1085",
     "name": "Gettone della mappa Tuscan",
     "name_original": "Collectible_MapTokenTuscan",
+    "code": "Collectible_MapTokenTuscan",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1038,6 +1107,7 @@
     "id": "collectible-1086",
     "name": "Gettone della mappa Cascade",
     "name_original": "Collectible_MapTokenPrime",
+    "code": "Collectible_MapTokenPrime",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1053,6 +1123,7 @@
     "id": "collectible-1087",
     "name": "Gettone della mappa Blagai",
     "name_original": "Collectible_MapTokenBlagai",
+    "code": "Collectible_MapTokenBlagai",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1068,6 +1139,7 @@
     "id": "collectible-1088",
     "name": "Gettone della mappa Boyard",
     "name_original": "Collectible_MapTokenBoyard",
+    "code": "Collectible_MapTokenBoyard",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1083,6 +1155,7 @@
     "id": "collectible-1089",
     "name": "Gettone della mappa Chalice",
     "name_original": "Collectible_MapTokenChalice",
+    "code": "Collectible_MapTokenChalice",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1098,6 +1171,7 @@
     "id": "collectible-4941",
     "name": "Gettone della mappa Thera",
     "name_original": "Collectible_MapTokenThera",
+    "code": "Collectible_MapTokenThera",
     "description": "Commemora la paternità della mappa di CS2 \\\"Thera\\\".",
     "rarity": {
       "id": "rarity_ancient",
@@ -1113,6 +1187,7 @@
     "id": "collectible-4942",
     "name": "Moneta della mappa \\\"Mills\\\"",
     "name_original": "Collectible_MapTokenMills",
+    "code": "Collectible_MapTokenMills",
     "description": "Commemora la paternità della mappa di CS2 \\\"Mills\\\".",
     "rarity": {
       "id": "rarity_ancient",
@@ -1128,6 +1203,7 @@
     "id": "collectible-4943",
     "name": "Gettone della mappa Assembly",
     "name_original": "Collectible_MapTokenAssembly",
+    "code": "Collectible_MapTokenAssembly",
     "description": "Commemora la paternità della mappa di CS2 \\\"Assembly\\\".",
     "rarity": {
       "id": "rarity_ancient",
@@ -1143,6 +1219,7 @@
     "id": "collectible-4944",
     "name": "Gettone della mappa Memento",
     "name_original": "Collectible_MapTokenMemento",
+    "code": "Collectible_MapTokenMemento",
     "description": "Commemora la paternità della mappa di CS2 \\\"Memento\\\".",
     "rarity": {
       "id": "rarity_ancient",
@@ -1158,6 +1235,7 @@
     "id": "collectible-4945",
     "name": "Gettone della mappa Pool Day",
     "name_original": "Collectible_MapTokenPoolDay",
+    "code": "Collectible_MapTokenPoolDay",
     "description": "Commemora la paternità della mappa di CS2 \\\"Pool Day\\\".",
     "rarity": {
       "id": "rarity_ancient",

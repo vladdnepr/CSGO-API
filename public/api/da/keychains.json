@@ -2,6 +2,7 @@
   {
     "id": "keychain-1",
     "name": "Vedhæng | Lil' Ava",
+    "code": "ava",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -14,6 +15,7 @@
   {
     "id": "keychain-2",
     "name": "Vedhæng | That's Bananas",
+    "code": "banana",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -26,6 +28,7 @@
   {
     "id": "keychain-3",
     "name": "Vedhæng | Lil' Whiskers",
+    "code": "cat",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -38,6 +41,7 @@
   {
     "id": "keychain-4",
     "name": "Vedhæng | Lil' Sandy",
+    "code": "catbeach",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -50,6 +54,7 @@
   {
     "id": "keychain-5",
     "name": "Vedhæng | Chicken Lil'",
+    "code": "chicken",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -62,6 +67,7 @@
   {
     "id": "keychain-6",
     "name": "Vedhæng | Lil' Crass",
+    "code": "guerilla",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -74,6 +80,7 @@
   {
     "id": "keychain-7",
     "name": "Vedhæng | Hot Howl",
+    "code": "howl",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_ancient",
@@ -86,6 +93,7 @@
   {
     "id": "keychain-8",
     "name": "Vedhæng | Big Kev",
+    "code": "kev",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -98,6 +106,7 @@
   {
     "id": "keychain-9",
     "name": "Vedhæng | Lil' Monster",
+    "code": "monster",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_legendary",
@@ -110,6 +119,7 @@
   {
     "id": "keychain-10",
     "name": "Vedhæng | Hot Sauce",
+    "code": "sam_catchup",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -122,6 +132,7 @@
   {
     "id": "keychain-11",
     "name": "Vedhæng | Diamond Dog",
+    "code": "sam_diamond",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_legendary",
@@ -134,6 +145,7 @@
   {
     "id": "keychain-12",
     "name": "Vedhæng | Pinch O' Salt",
+    "code": "sam_salty",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -146,6 +158,7 @@
   {
     "id": "keychain-13",
     "name": "Vedhæng | Diner Dog",
+    "code": "sam_shape",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_legendary",
@@ -158,6 +171,7 @@
   {
     "id": "keychain-14",
     "name": "Vedhæng | Lil' Teacup",
+    "code": "sam_toile",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -170,6 +184,7 @@
   {
     "id": "keychain-15",
     "name": "Vedhæng | Lil' SAS",
+    "code": "sas",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -182,6 +197,7 @@
   {
     "id": "keychain-16",
     "name": "Vedhæng | Hot Wurst",
+    "code": "wurst",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_ancient",
@@ -194,6 +210,7 @@
   {
     "id": "keychain-17",
     "name": "Vedhæng | Baby's AK",
+    "code": "#keychain_kc_wpn_ak_base",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -206,6 +223,7 @@
   {
     "id": "keychain-18",
     "name": "Vedhæng | Die-cast AK",
+    "code": "#keychain_kc_wpn_ak_jelly",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -218,6 +236,7 @@
   {
     "id": "keychain-19",
     "name": "Vedhæng | Pocket AWP",
+    "code": "#keychain_kc_wpn_awp_plastic",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -230,6 +249,7 @@
   {
     "id": "keychain-20",
     "name": "Vedhæng | Titeenium AWP",
+    "code": "#keychain_kc_wpn_awp_spoon",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_legendary",
@@ -242,6 +262,7 @@
   {
     "id": "keychain-21",
     "name": "Vedhæng | Baby Karat CT",
+    "code": "#keychain_kc_wpn_ctknife_gold",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_ancient",
@@ -254,6 +275,7 @@
   {
     "id": "keychain-22",
     "name": "Vedhæng | Whittle Knife",
+    "code": "#keychain_kc_wpn_ctknife_wood",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -266,6 +288,7 @@
   {
     "id": "keychain-23",
     "name": "Vedhæng | POP Art",
+    "code": "#keychain_kc_wpn_m4a1s_comic",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -278,6 +301,7 @@
   {
     "id": "keychain-24",
     "name": "Vedhæng | Lil' Squirt",
+    "code": "#keychain_kc_wpn_m4a1s_ss",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_legendary",
@@ -290,6 +314,7 @@
   {
     "id": "keychain-25",
     "name": "Vedhæng | Disco MAC",
+    "code": "#keychain_kc_wpn_mac10_glitter",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -302,6 +327,7 @@
   {
     "id": "keychain-26",
     "name": "Vedhæng | Backsplash",
+    "code": "#keychain_kc_wpn_mac10_tile",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -314,6 +340,7 @@
   {
     "id": "keychain-27",
     "name": "Vedhæng | Lil' Cap Gun",
+    "code": "#keychain_kc_wpn_tec9_cap",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -326,6 +353,7 @@
   {
     "id": "keychain-28",
     "name": "Vedhæng | Hot Hands",
+    "code": "#keychain_kc_wpn_tec9_magma",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -338,6 +366,7 @@
   {
     "id": "keychain-29",
     "name": "Vedhæng | Semi-Precious",
+    "code": "#keychain_kc_wpn_tknife_crystal",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_legendary",
@@ -350,6 +379,7 @@
   {
     "id": "keychain-30",
     "name": "Vedhæng | Baby Karat T",
+    "code": "#keychain_kc_wpn_tknife_gold",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_ancient",
@@ -362,6 +392,7 @@
   {
     "id": "keychain-31",
     "name": "Vedhæng | Glamour Shot",
+    "code": "#keychain_kc_wpn_usp_jewel",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",
@@ -374,6 +405,7 @@
   {
     "id": "keychain-32",
     "name": "Vedhæng | Stitch-Loaded",
+    "code": "#keychain_kc_wpn_usp_yarn",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_rare",
@@ -386,6 +418,7 @@
   {
     "id": "keychain-33",
     "name": "Vedhæng | Lil' Squatch",
+    "code": "bigfoot",
     "description": "Dette vedhæng kan sættes fast på ethvert våben, du ejer. Et vedhæng kan fjernes ved at bruge en vedhængsfjerner og returneres derefter til dit inventar.",
     "rarity": {
       "id": "rarity_mythical",

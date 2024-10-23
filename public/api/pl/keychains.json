@@ -2,6 +2,7 @@
   {
     "id": "keychain-1",
     "name": "Przywieszka | Mała Ava",
+    "code": "ava",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -14,6 +15,7 @@
   {
     "id": "keychain-2",
     "name": "Przywieszka | Zwariowany banan",
+    "code": "banana",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -26,6 +28,7 @@
   {
     "id": "keychain-3",
     "name": "Przywieszka | Mały mruczek",
+    "code": "cat",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -38,6 +41,7 @@
   {
     "id": "keychain-4",
     "name": "Przywieszka | Plażowy kotek",
+    "code": "catbeach",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -50,6 +54,7 @@
   {
     "id": "keychain-5",
     "name": "Przywieszka | Kurczaczek",
+    "code": "chicken",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -62,6 +67,7 @@
   {
     "id": "keychain-6",
     "name": "Przywieszka | Mały Crass",
+    "code": "guerilla",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -74,6 +80,7 @@
   {
     "id": "keychain-7",
     "name": "Przywieszka | Psalceson pikantny",
+    "code": "howl",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_ancient",
@@ -86,6 +93,7 @@
   {
     "id": "keychain-8",
     "name": "Przywieszka | Duży Kev",
+    "code": "kev",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -98,6 +106,7 @@
   {
     "id": "keychain-9",
     "name": "Przywieszka | Potworek",
+    "code": "monster",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_legendary",
@@ -110,6 +119,7 @@
   {
     "id": "keychain-10",
     "name": "Przywieszka | Ostry sos",
+    "code": "sam_catchup",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -122,6 +132,7 @@
   {
     "id": "keychain-11",
     "name": "Przywieszka | Diamentowa parówa",
+    "code": "sam_diamond",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_legendary",
@@ -134,6 +145,7 @@
   {
     "id": "keychain-12",
     "name": "Przywieszka | Szczypta soli",
+    "code": "sam_salty",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -146,6 +158,7 @@
   {
     "id": "keychain-13",
     "name": "Przywieszka | Barowa parówa",
+    "code": "sam_shape",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_legendary",
@@ -158,6 +171,7 @@
   {
     "id": "keychain-14",
     "name": "Przywieszka | Filiżaneczka",
+    "code": "sam_toile",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -170,6 +184,7 @@
   {
     "id": "keychain-15",
     "name": "Przywieszka | Mały SAS",
+    "code": "sas",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -182,6 +197,7 @@
   {
     "id": "keychain-16",
     "name": "Przywieszka | Przegrzana kiełba",
+    "code": "wurst",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_ancient",
@@ -194,6 +210,7 @@
   {
     "id": "keychain-17",
     "name": "Przywieszka | Kałaszek",
+    "code": "#keychain_kc_wpn_ak_base",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -206,6 +223,7 @@
   {
     "id": "keychain-18",
     "name": "Przywieszka | Odlewane AK",
+    "code": "#keychain_kc_wpn_ak_jelly",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -218,6 +236,7 @@
   {
     "id": "keychain-19",
     "name": "Przywieszka | Kieszonkowe AWP",
+    "code": "#keychain_kc_wpn_awp_plastic",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -230,6 +249,7 @@
   {
     "id": "keychain-20",
     "name": "Przywieszka | Tycianowa AWP",
+    "code": "#keychain_kc_wpn_awp_spoon",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_legendary",
@@ -242,6 +262,7 @@
   {
     "id": "keychain-21",
     "name": "Przywieszka | Malusieńki karat antyterrorystów",
+    "code": "#keychain_kc_wpn_ctknife_gold",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_ancient",
@@ -254,6 +275,7 @@
   {
     "id": "keychain-22",
     "name": "Przywieszka | Strugany nóż",
+    "code": "#keychain_kc_wpn_ctknife_wood",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -266,6 +288,7 @@
   {
     "id": "keychain-23",
     "name": "Przywieszka | POP Art",
+    "code": "#keychain_kc_wpn_m4a1s_comic",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -278,6 +301,7 @@
   {
     "id": "keychain-24",
     "name": "Przywieszka | Psikawka",
+    "code": "#keychain_kc_wpn_m4a1s_ss",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_legendary",
@@ -290,6 +314,7 @@
   {
     "id": "keychain-25",
     "name": "Przywieszka | Dyskotekowy MAC",
+    "code": "#keychain_kc_wpn_mac10_glitter",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -302,6 +327,7 @@
   {
     "id": "keychain-26",
     "name": "Przywieszka | Glazura",
+    "code": "#keychain_kc_wpn_mac10_tile",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -314,6 +340,7 @@
   {
     "id": "keychain-27",
     "name": "Przywieszka | Kapiszonowiec",
+    "code": "#keychain_kc_wpn_tec9_cap",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -326,6 +353,7 @@
   {
     "id": "keychain-28",
     "name": "Przywieszka | Żaroręki",
+    "code": "#keychain_kc_wpn_tec9_magma",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -338,6 +366,7 @@
   {
     "id": "keychain-29",
     "name": "Przywieszka | Półszlachetny",
+    "code": "#keychain_kc_wpn_tknife_crystal",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_legendary",
@@ -350,6 +379,7 @@
   {
     "id": "keychain-30",
     "name": "Przywieszka | Malusieńki karat terrorystów",
+    "code": "#keychain_kc_wpn_tknife_gold",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_ancient",
@@ -362,6 +392,7 @@
   {
     "id": "keychain-31",
     "name": "Przywieszka | Cenny strzał",
+    "code": "#keychain_kc_wpn_usp_jewel",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",
@@ -374,6 +405,7 @@
   {
     "id": "keychain-32",
     "name": "Przywieszka | Broń dziergana",
+    "code": "#keychain_kc_wpn_usp_yarn",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_rare",
@@ -386,6 +418,7 @@
   {
     "id": "keychain-33",
     "name": "Przywieszka | Mały yeti",
+    "code": "bigfoot",
     "description": "Ta przywieszka może zostać dodana do dowolnej posiadanej przez ciebie broni. Każda dodana przywieszka może zostać zdjęta z użyciem odczepiacza. Odczepione przywieszki zostaną zwrócone do twojego ekwipunku.",
     "rarity": {
       "id": "rarity_mythical",

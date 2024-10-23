@@ -2,6 +2,7 @@
   {
     "id": "keychain-1",
     "name": "Colgante | Avita",
+    "code": "ava",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -14,6 +15,7 @@
   {
     "id": "keychain-2",
     "name": "Colgante | Bananito loco",
+    "code": "banana",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -26,6 +28,7 @@
   {
     "id": "keychain-3",
     "name": "Colgante | Bigoticos",
+    "code": "cat",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -38,6 +41,7 @@
   {
     "id": "keychain-4",
     "name": "Colgante | Mini Sandy",
+    "code": "catbeach",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -50,6 +54,7 @@
   {
     "id": "keychain-5",
     "name": "Colgante | Gallinita",
+    "code": "chicken",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -62,6 +67,7 @@
   {
     "id": "keychain-6",
     "name": "Colgante | Guerrillerito",
+    "code": "guerilla",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -74,6 +80,7 @@
   {
     "id": "keychain-7",
     "name": "Colgante | Perro caliente",
+    "code": "howl",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_ancient",
@@ -86,6 +93,7 @@
   {
     "id": "keychain-8",
     "name": "Colgante | Mini Kev",
+    "code": "kev",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -98,6 +106,7 @@
   {
     "id": "keychain-9",
     "name": "Colgante | Monstruito",
+    "code": "monster",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_legendary",
@@ -110,6 +119,7 @@
   {
     "id": "keychain-10",
     "name": "Colgante | El picoso",
+    "code": "sam_catchup",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -122,6 +132,7 @@
   {
     "id": "keychain-11",
     "name": "Colgante | Perro diamante",
+    "code": "sam_diamond",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_legendary",
@@ -134,6 +145,7 @@
   {
     "id": "keychain-12",
     "name": "Colgante | Pizca de sal",
+    "code": "sam_salty",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -146,6 +158,7 @@
   {
     "id": "keychain-13",
     "name": "Colgante | Perro de restaurante",
+    "code": "sam_shape",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_legendary",
@@ -158,6 +171,7 @@
   {
     "id": "keychain-14",
     "name": "Colgante | Tacita de té",
+    "code": "sam_toile",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -170,6 +184,7 @@
   {
     "id": "keychain-15",
     "name": "Colgante | SASito",
+    "code": "sas",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -182,6 +197,7 @@
   {
     "id": "keychain-16",
     "name": "Colgante | Salchicha picante",
+    "code": "wurst",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_ancient",
@@ -194,6 +210,7 @@
   {
     "id": "keychain-17",
     "name": "Colgante | MiniAK",
+    "code": "#keychain_kc_wpn_ak_base",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -206,6 +223,7 @@
   {
     "id": "keychain-18",
     "name": "Colgante | AK rosa",
+    "code": "#keychain_kc_wpn_ak_jelly",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -218,6 +236,7 @@
   {
     "id": "keychain-19",
     "name": "Colgante | AWP de bolsillo",
+    "code": "#keychain_kc_wpn_awp_plastic",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -230,6 +249,7 @@
   {
     "id": "keychain-20",
     "name": "Colgante | Mini AWP tornasol",
+    "code": "#keychain_kc_wpn_awp_spoon",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_legendary",
@@ -242,6 +262,7 @@
   {
     "id": "keychain-21",
     "name": "Colgante | Quilatito (AT)",
+    "code": "#keychain_kc_wpn_ctknife_gold",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_ancient",
@@ -254,6 +275,7 @@
   {
     "id": "keychain-22",
     "name": "Colgante | Cuchillo tallado",
+    "code": "#keychain_kc_wpn_ctknife_wood",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -266,6 +288,7 @@
   {
     "id": "keychain-23",
     "name": "Colgante | Arte POP",
+    "code": "#keychain_kc_wpn_m4a1s_comic",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -278,6 +301,7 @@
   {
     "id": "keychain-24",
     "name": "Colgante | Pistolita de agua",
+    "code": "#keychain_kc_wpn_m4a1s_ss",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_legendary",
@@ -290,6 +314,7 @@
   {
     "id": "keychain-25",
     "name": "Colgante | MAC de espejos",
+    "code": "#keychain_kc_wpn_mac10_glitter",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -302,6 +327,7 @@
   {
     "id": "keychain-26",
     "name": "Colgante | Azulejo",
+    "code": "#keychain_kc_wpn_mac10_tile",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -314,6 +340,7 @@
   {
     "id": "keychain-27",
     "name": "Colgante | Pistolita de juguete",
+    "code": "#keychain_kc_wpn_tec9_cap",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -326,6 +353,7 @@
   {
     "id": "keychain-28",
     "name": "Colgante | Manos calientes",
+    "code": "#keychain_kc_wpn_tec9_magma",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -338,6 +366,7 @@
   {
     "id": "keychain-29",
     "name": "Colgante | Semiprecioso",
+    "code": "#keychain_kc_wpn_tknife_crystal",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_legendary",
@@ -350,6 +379,7 @@
   {
     "id": "keychain-30",
     "name": "Colgante | Quilatito (T)",
+    "code": "#keychain_kc_wpn_tknife_gold",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_ancient",
@@ -362,6 +392,7 @@
   {
     "id": "keychain-31",
     "name": "Colgante | Tiro con estilo",
+    "code": "#keychain_kc_wpn_usp_jewel",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",
@@ -374,6 +405,7 @@
   {
     "id": "keychain-32",
     "name": "Colgante | Silenciadora a punto",
+    "code": "#keychain_kc_wpn_usp_yarn",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_rare",
@@ -386,6 +418,7 @@
   {
     "id": "keychain-33",
     "name": "Colgante | Miniyeti",
+    "code": "bigfoot",
     "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples vuelven a tu inventario.",
     "rarity": {
       "id": "rarity_mythical",

@@ -2,6 +2,7 @@
   {
     "id": "keychain-1",
     "name": "挂件 | 小爱娃",
+    "code": "ava",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -14,6 +15,7 @@
   {
     "id": "keychain-2",
     "name": "挂件 | 怪香蕉",
+    "code": "banana",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -26,6 +28,7 @@
   {
     "id": "keychain-3",
     "name": "挂件 | 小胡须",
+    "code": "cat",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -38,6 +41,7 @@
   {
     "id": "keychain-4",
     "name": "挂件 | 小沙蒂",
+    "code": "catbeach",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -50,6 +54,7 @@
   {
     "id": "keychain-5",
     "name": "挂件 | 鸡老幺",
+    "code": "chicken",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -62,6 +67,7 @@
   {
     "id": "keychain-6",
     "name": "挂件 | 小克拉斯",
+    "code": "guerilla",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -74,6 +80,7 @@
   {
     "id": "keychain-7",
     "name": "挂件 | 嚎哮酱",
+    "code": "howl",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_ancient",
@@ -86,6 +93,7 @@
   {
     "id": "keychain-8",
     "name": "挂件 | 大凯夫",
+    "code": "kev",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -98,6 +106,7 @@
   {
     "id": "keychain-9",
     "name": "挂件 | 小大嘴",
+    "code": "monster",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_legendary",
@@ -110,6 +119,7 @@
   {
     "id": "keychain-10",
     "name": "挂件 | 起原酱",
+    "code": "sam_catchup",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -122,6 +132,7 @@
   {
     "id": "keychain-11",
     "name": "挂件 | 金刚犬",
+    "code": "sam_diamond",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_legendary",
@@ -134,6 +145,7 @@
   {
     "id": "keychain-12",
     "name": "挂件 | 盐力哥",
+    "code": "sam_salty",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -146,6 +158,7 @@
   {
     "id": "keychain-13",
     "name": "挂件 | 美食犬",
+    "code": "sam_shape",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_legendary",
@@ -158,6 +171,7 @@
   {
     "id": "keychain-14",
     "name": "挂件 | 小杯子",
+    "code": "sam_toile",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -170,6 +184,7 @@
   {
     "id": "keychain-15",
     "name": "挂件 | 小SAS",
+    "code": "sas",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -182,6 +197,7 @@
   {
     "id": "keychain-16",
     "name": "挂件 | 烤肠酱",
+    "code": "wurst",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_ancient",
@@ -194,6 +210,7 @@
   {
     "id": "keychain-17",
     "name": "挂件 | 宝宝AK",
+    "code": "#keychain_kc_wpn_ak_base",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -206,6 +223,7 @@
   {
     "id": "keychain-18",
     "name": "挂件 | 压铸AK",
+    "code": "#keychain_kc_wpn_ak_jelly",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -218,6 +236,7 @@
   {
     "id": "keychain-19",
     "name": "挂件 | 袖珍AWP",
+    "code": "#keychain_kc_wpn_awp_plastic",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -230,6 +249,7 @@
   {
     "id": "keychain-20",
     "name": "挂件 | 钛金AWP",
+    "code": "#keychain_kc_wpn_awp_spoon",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_legendary",
@@ -242,6 +262,7 @@
   {
     "id": "keychain-21",
     "name": "挂件 | K金CT",
+    "code": "#keychain_kc_wpn_ctknife_gold",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_ancient",
@@ -254,6 +275,7 @@
   {
     "id": "keychain-22",
     "name": "挂件 | 木刻",
+    "code": "#keychain_kc_wpn_ctknife_wood",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -266,6 +288,7 @@
   {
     "id": "keychain-23",
     "name": "挂件 | 波普艺术",
+    "code": "#keychain_kc_wpn_m4a1s_comic",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -278,6 +301,7 @@
   {
     "id": "keychain-24",
     "name": "挂件 | 小水枪",
+    "code": "#keychain_kc_wpn_m4a1s_ss",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_legendary",
@@ -290,6 +314,7 @@
   {
     "id": "keychain-25",
     "name": "挂件 | 迪斯科MAC",
+    "code": "#keychain_kc_wpn_mac10_glitter",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -302,6 +327,7 @@
   {
     "id": "keychain-26",
     "name": "挂件 | 背板",
+    "code": "#keychain_kc_wpn_mac10_tile",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -314,6 +340,7 @@
   {
     "id": "keychain-27",
     "name": "挂件 | 袖珍玩具枪",
+    "code": "#keychain_kc_wpn_tec9_cap",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -326,6 +353,7 @@
   {
     "id": "keychain-28",
     "name": "挂件 | 手感火热",
+    "code": "#keychain_kc_wpn_tec9_magma",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -338,6 +366,7 @@
   {
     "id": "keychain-29",
     "name": "挂件 | 半宝石",
+    "code": "#keychain_kc_wpn_tknife_crystal",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_legendary",
@@ -350,6 +379,7 @@
   {
     "id": "keychain-30",
     "name": "挂件 | K金T",
+    "code": "#keychain_kc_wpn_tknife_gold",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_ancient",
@@ -362,6 +392,7 @@
   {
     "id": "keychain-31",
     "name": "挂件 | 魅力一击",
+    "code": "#keychain_kc_wpn_usp_jewel",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",
@@ -374,6 +405,7 @@
   {
     "id": "keychain-32",
     "name": "挂件 | 针织",
+    "code": "#keychain_kc_wpn_usp_yarn",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_rare",
@@ -386,6 +418,7 @@
   {
     "id": "keychain-33",
     "name": "挂件 | 小脚怪",
+    "code": "bigfoot",
     "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
     "rarity": {
       "id": "rarity_mythical",

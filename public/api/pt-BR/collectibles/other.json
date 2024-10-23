@@ -3,6 +3,7 @@
     "id": "collectible-874",
     "name": "Moeda dos 5 Anos de Serviço",
     "name_original": "CollectibleCoin_FiveYearService",
+    "code": "CollectibleCoin_FiveYearService",
     "description": "Membro da comunidade do Counter-Strike por mais de cinco anos.",
     "rarity": {
       "id": "rarity_ancient",
@@ -18,6 +19,7 @@
     "id": "collectible-969",
     "name": "Moeda dos 10 Anos de Serviço",
     "name_original": "CollectibleCoin_TenYearService",
+    "code": "CollectibleCoin_TenYearService",
     "description": "Membro da comunidade do Counter-Strike por mais de dez anos.",
     "rarity": {
       "id": "rarity_ancient",
@@ -33,6 +35,7 @@
     "id": "collectible-970",
     "name": "Insígnia de Lealdade",
     "name_original": "CollectibleCoin_FortiusQuoFidelius",
+    "code": "CollectibleCoin_FortiusQuoFidelius",
     "description": "Comemora a sua lealdade à comunidade do Counter-Strike antes do lançamento do modo de jogo Zona de Perigo.\\n\\n<i>Da lealdade vem a força.</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -48,6 +51,7 @@
     "id": "collectible-987",
     "name": "Moeda do Aniversário de 10 Anos",
     "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
+    "code": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
     "description": "Comemorou o décimo aniversário do CS:GO com a comunidade do jogo.\\n\\n<i>Em homenagem a dez anos de tiros na cabeça, viradas impossíveis e a comunidade. Feliz 10 anos, CS:GO!</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -63,6 +67,7 @@
     "id": "collectible-996",
     "name": "Insígnia da Ofensiva Global",
     "name_original": "CollectibleCoin_CoinCsgo",
+    "code": "CollectibleCoin_CoinCsgo",
     "description": "Comemora a sua lealdade à comunidade do Counter-Strike: Global Offensive antes do lançamento do Counter-Strike 2.\\n\\n<i>Lendas nunca morrem.</i>",
     "rarity": {
       "id": "rarity_ancient",

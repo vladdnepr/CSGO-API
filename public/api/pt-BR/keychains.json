@@ -2,6 +2,7 @@
   {
     "id": "keychain-1",
     "name": "Chaveiro | Pequena Ava",
+    "code": "ava",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -14,6 +15,7 @@
   {
     "id": "keychain-2",
     "name": "Chaveiro | Bananão",
+    "code": "banana",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -26,6 +28,7 @@
   {
     "id": "keychain-3",
     "name": "Chaveiro | Gatinho",
+    "code": "cat",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -38,6 +41,7 @@
   {
     "id": "keychain-4",
     "name": "Chaveiro | Gatinho Praieiro",
+    "code": "catbeach",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -50,6 +54,7 @@
   {
     "id": "keychain-5",
     "name": "Chaveiro | Galinho",
+    "code": "chicken",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -62,6 +67,7 @@
   {
     "id": "keychain-6",
     "name": "Chaveiro | Guerrilheirinho",
+    "code": "guerilla",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -74,6 +80,7 @@
   {
     "id": "keychain-7",
     "name": "Chaveiro | Uivo Ardente",
+    "code": "howl",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_ancient",
@@ -86,6 +93,7 @@
   {
     "id": "keychain-8",
     "name": "Chaveiro | Kevão",
+    "code": "kev",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -98,6 +106,7 @@
   {
     "id": "keychain-9",
     "name": "Chaveiro | Monstrinho",
+    "code": "monster",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_legendary",
@@ -110,6 +119,7 @@
   {
     "id": "keychain-10",
     "name": "Chaveiro | Molho Apimentado",
+    "code": "sam_catchup",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -122,6 +132,7 @@
   {
     "id": "keychain-11",
     "name": "Chaveiro | Dogão Diamantado",
+    "code": "sam_diamond",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_legendary",
@@ -134,6 +145,7 @@
   {
     "id": "keychain-12",
     "name": "Chaveiro | Pitada de Sal",
+    "code": "sam_salty",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -146,6 +158,7 @@
   {
     "id": "keychain-13",
     "name": "Chaveiro | Dogão da Lanchonete",
+    "code": "sam_shape",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_legendary",
@@ -158,6 +171,7 @@
   {
     "id": "keychain-14",
     "name": "Chaveiro | Xicarazinha de Chá",
+    "code": "sam_toile",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -170,6 +184,7 @@
   {
     "id": "keychain-15",
     "name": "Chaveiro | SASinho",
+    "code": "sas",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -182,6 +197,7 @@
   {
     "id": "keychain-16",
     "name": "Chaveiro | Salsichamuscado",
+    "code": "wurst",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_ancient",
@@ -194,6 +210,7 @@
   {
     "id": "keychain-17",
     "name": "Chaveiro | Gu-Gu AK",
+    "code": "#keychain_kc_wpn_ak_base",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -206,6 +223,7 @@
   {
     "id": "keychain-18",
     "name": "Chaveiro | AK Injetada",
+    "code": "#keychain_kc_wpn_ak_jelly",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -218,6 +236,7 @@
   {
     "id": "keychain-19",
     "name": "Chaveiro | AWP de Bolso",
+    "code": "#keychain_kc_wpn_awp_plastic",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -230,6 +249,7 @@
   {
     "id": "keychain-20",
     "name": "Chaveiro | AWPzinha de Titânio",
+    "code": "#keychain_kc_wpn_awp_spoon",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_legendary",
@@ -242,6 +262,7 @@
   {
     "id": "keychain-21",
     "name": "Chaveiro | Faquinha de Bebê (CT)",
+    "code": "#keychain_kc_wpn_ctknife_gold",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_ancient",
@@ -254,6 +275,7 @@
   {
     "id": "keychain-22",
     "name": "Chaveiro | Faca Talhada",
+    "code": "#keychain_kc_wpn_ctknife_wood",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -266,6 +288,7 @@
   {
     "id": "keychain-23",
     "name": "Chaveiro | Arte Pop",
+    "code": "#keychain_kc_wpn_m4a1s_comic",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -278,6 +301,7 @@
   {
     "id": "keychain-24",
     "name": "Chaveiro | Arma d'Água",
+    "code": "#keychain_kc_wpn_m4a1s_ss",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_legendary",
@@ -290,6 +314,7 @@
   {
     "id": "keychain-25",
     "name": "Chaveiro | MAC-10coteca",
+    "code": "#keychain_kc_wpn_mac10_glitter",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -302,6 +327,7 @@
   {
     "id": "keychain-26",
     "name": "Chaveiro | Azulejo",
+    "code": "#keychain_kc_wpn_mac10_tile",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -314,6 +340,7 @@
   {
     "id": "keychain-27",
     "name": "Chaveiro | Arminha Espoleta",
+    "code": "#keychain_kc_wpn_tec9_cap",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -326,6 +353,7 @@
   {
     "id": "keychain-28",
     "name": "Chaveiro | Mãos Quentes",
+    "code": "#keychain_kc_wpn_tec9_magma",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -338,6 +366,7 @@
   {
     "id": "keychain-29",
     "name": "Chaveiro | Semipreciosa",
+    "code": "#keychain_kc_wpn_tknife_crystal",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_legendary",
@@ -350,6 +379,7 @@
   {
     "id": "keychain-30",
     "name": "Chaveiro | Faquinha de Bebê (T)",
+    "code": "#keychain_kc_wpn_tknife_gold",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_ancient",
@@ -362,6 +392,7 @@
   {
     "id": "keychain-31",
     "name": "Chaveiro | Tiro de Elite",
+    "code": "#keychain_kc_wpn_usp_jewel",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",
@@ -374,6 +405,7 @@
   {
     "id": "keychain-32",
     "name": "Chaveiro | Tricô Silencioso",
+    "code": "#keychain_kc_wpn_usp_yarn",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_rare",
@@ -386,6 +418,7 @@
   {
     "id": "keychain-33",
     "name": "Chaveiro | Pezinho Grande",
+    "code": "bigfoot",
     "description": "Este chaveiro pode ser preso a qualquer uma de suas armas. É possível remover um chaveiro usando um Removedor de Chaveiro, devolvendo-o ao seu inventário.",
     "rarity": {
       "id": "rarity_mythical",

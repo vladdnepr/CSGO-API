@@ -3,6 +3,7 @@
     "id": "key-generic_valve_key",
     "name": "Kistenschlüssel „CS:GO“",
     "name_original": "Tool_WeaponCase_Key",
+    "code": "Tool_WeaponCase_Key",
     "description": "Dieser Schlüssel öffnet eine beliebige Waffenkiste aus der Valve-Reihe. Nicht der Valve-Reihe angehörende Waffenkisten (z. B. Waffenkisten der Serie E-Sport) benötigen ihren eigenen Schlüssel.",
     "market_hash_name": "CS:GO Case Key",
     "crates": [
@@ -33,6 +34,7 @@
     "id": "key-1204",
     "name": "Kistenschlüssel „E-Sport“",
     "name_original": "esports_crate_key_1",
+    "code": "esports_crate_key_1",
     "description": "Dieser Schlüssel öffnet eine beliebige Waffenkiste der Serie E-Sport.\\n\\nEin Teil der Einnahmen durch den Verkauf dieses Schlüssels geht an eines der etablierten, durch die Community veranstalteten CS:GO-Turniere. Seien Sie auf weitere Ankündigungen gespannt.",
     "market_hash_name": "eSports Key",
     "crates": [
@@ -58,6 +60,7 @@
     "id": "key-1212",
     "name": "CS:GO-Kapselschlüssel",
     "name_original": "sticker_crate_key_1",
+    "code": "sticker_crate_key_1",
     "description": "Dieser Schlüssel öffnet eine beliebige Aufkleberkapsel der Valve-Serie.",
     "market_hash_name": "CS:GO Capsule Key",
     "crates": [
@@ -78,6 +81,7 @@
     "id": "key-1214",
     "name": "Kistenschlüssel „Winteroffensive“",
     "name_original": "community_crate_key_1",
+    "code": "community_crate_key_1",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Winteroffensive“",
     "market_hash_name": "Winter Offensive Case Key",
     "crates": [
@@ -93,6 +97,7 @@
     "id": "key-1303",
     "name": "Kistenschlüssel „Operation Phoenix“",
     "name_original": "community_crate_key_2",
+    "code": "community_crate_key_2",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Operation Phoenix“",
     "market_hash_name": "Operation Phoenix Case Key",
     "crates": [
@@ -108,6 +113,7 @@
     "id": "key-1304",
     "name": "Schlüssel: Community-Aufkleberkapsel 1",
     "name_original": "sticker_crate_key_community01",
+    "code": "sticker_crate_key_community01",
     "description": "Dieser Schlüssel öffnet die Community-Aufkleberkapsel 1.\\n\\nEin Teil der Einnahmen durch den Verkauf dieses Schlüssels geht an die Ersteller der Aufkleber.",
     "market_hash_name": "Community Sticker Capsule 1 Key",
     "crates": [
@@ -123,6 +129,7 @@
     "id": "key-1305",
     "name": "Kistenschlüssel „Jagd“",
     "name_original": "community_crate_key_3",
+    "code": "community_crate_key_3",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Jagd“",
     "market_hash_name": "Huntsman Case Key",
     "crates": [
@@ -138,6 +145,7 @@
     "id": "key-1309",
     "name": "Kistenschlüssel „Operation Breakout“",
     "name_original": "community_crate_key_4",
+    "code": "community_crate_key_4",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Operation Breakout“",
     "market_hash_name": "Operation Breakout Case Key",
     "crates": [
@@ -153,6 +161,7 @@
     "id": "key-1322",
     "name": "Kistenschlüssel „Operation Vanguard“",
     "name_original": "community_crate_key_5",
+    "code": "community_crate_key_5",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Operation Vanguard“",
     "market_hash_name": "Operation Vanguard Case Key",
     "crates": [
@@ -168,6 +177,7 @@
     "id": "key-1323",
     "name": "Kistenschlüssel „Chroma“",
     "name_original": "community_crate_key_6",
+    "code": "community_crate_key_6",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Chroma“",
     "market_hash_name": "Chroma Case Key",
     "crates": [
@@ -183,6 +193,7 @@
     "id": "key-1325",
     "name": "Kistenschlüssel „Chroma 2“",
     "name_original": "community_crate_key_7",
+    "code": "community_crate_key_7",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Chroma 2“",
     "market_hash_name": "Chroma 2 Case Key",
     "crates": [
@@ -198,6 +209,7 @@
     "id": "key-1330",
     "name": "Kistenschlüssel „Falchion“",
     "name_original": "community_crate_key_8",
+    "code": "community_crate_key_8",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Falchion“",
     "market_hash_name": "Falchion Case Key",
     "crates": [
@@ -213,6 +225,7 @@
     "id": "key-1333",
     "name": "Kistenschlüssel „Schatten“",
     "name_original": "community_crate_key_9",
+    "code": "community_crate_key_9",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Schatten“",
     "market_hash_name": "Shadow Case Key",
     "crates": [
@@ -228,6 +241,7 @@
     "id": "key-1334",
     "name": "Kistenschlüssel „Revolver“",
     "name_original": "crate_community_10_key",
+    "code": "crate_community_10_key",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Revolver“",
     "market_hash_name": "Revolver Case Key",
     "crates": [
@@ -243,6 +257,7 @@
     "id": "key-1347",
     "name": "Kistenschlüssel „Chroma 3“",
     "name_original": "crate_key_community_12",
+    "code": "crate_key_community_12",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Chroma 3“",
     "market_hash_name": "Chroma 3 Case Key",
     "crates": [
@@ -258,6 +273,7 @@
     "id": "key-1350",
     "name": "Kistenschlüssel „Gamma“",
     "name_original": "crate_key_community_13",
+    "code": "crate_key_community_13",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Gamma“",
     "market_hash_name": "Gamma Case Key",
     "crates": [
@@ -273,6 +289,7 @@
     "id": "key-1351",
     "name": "Kistenschlüssel „Gamma 2“",
     "name_original": "crate_key_gamma_2",
+    "code": "crate_key_gamma_2",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Gamma 2“",
     "market_hash_name": "Gamma 2 Case Key",
     "crates": [
@@ -288,6 +305,7 @@
     "id": "key-1356",
     "name": "Kistenschlüssel „Handschuhe“",
     "name_original": "crate_key_community_15",
+    "code": "crate_key_community_15",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Handschuhe“",
     "market_hash_name": "Glove Case Key",
     "crates": [
@@ -303,6 +321,7 @@
     "id": "key-1364",
     "name": "Kistenschlüssel „Spektrum“",
     "name_original": "crate_key_community_16",
+    "code": "crate_key_community_16",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Spektrum“",
     "market_hash_name": "Spectrum Case Key",
     "crates": [
@@ -318,6 +337,7 @@
     "id": "key-1365",
     "name": "Kistenschlüssel „Operation Hydra“",
     "name_original": "crate_key_community_17",
+    "code": "crate_key_community_17",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Operation Hydra“",
     "market_hash_name": "Operation Hydra Case Key",
     "crates": [
@@ -333,6 +353,7 @@
     "id": "key-1366",
     "name": "Kistenschlüssel „Spektrum 2“",
     "name_original": "crate_key_community_18",
+    "code": "crate_key_community_18",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Spektrum 2“",
     "market_hash_name": "Spectrum 2 Case Key",
     "crates": [
@@ -348,6 +369,7 @@
     "id": "key-1373",
     "name": "Kistenschlüssel „Clutch“",
     "name_original": "crate_key_community_19",
+    "code": "crate_key_community_19",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Clutch“",
     "market_hash_name": "Clutch Case Key",
     "crates": [
@@ -363,6 +385,7 @@
     "id": "key-1374",
     "name": "Kistenschlüssel „Horizont“",
     "name_original": "crate_key_community_20",
+    "code": "crate_key_community_20",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Horizont“",
     "market_hash_name": "Horizon Case Key",
     "crates": [
@@ -378,6 +401,7 @@
     "id": "key-1375",
     "name": "Kistenschlüssel „Gefahrenzone“",
     "name_original": "crate_key_community_21",
+    "code": "crate_key_community_21",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Gefahrenzone“",
     "market_hash_name": "Danger Zone Case Key",
     "crates": [
@@ -393,6 +417,7 @@
     "id": "key-1383",
     "name": "Kistenschlüssel „Prisma“",
     "name_original": "crate_key_community_22",
+    "code": "crate_key_community_22",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Prisma“",
     "market_hash_name": "Prisma Case Key",
     "crates": [
@@ -408,6 +433,7 @@
     "id": "key-1384",
     "name": "Kistenschlüssel „Zerfetztes Netz“",
     "name_original": "crate_key_community_23",
+    "code": "crate_key_community_23",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Zerfetztes Netz“",
     "market_hash_name": "Shattered Web Case Key",
     "crates": [
@@ -423,6 +449,7 @@
     "id": "key-1385",
     "name": "Kistenschlüssel „CS20“",
     "name_original": "crate_key_community_24",
+    "code": "crate_key_community_24",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „CS20“",
     "market_hash_name": "CS20 Case Key",
     "crates": [
@@ -438,6 +465,7 @@
     "id": "key-1386",
     "name": "Kistenschlüssel „Prisma 2“",
     "name_original": "crate_key_community_25",
+    "code": "crate_key_community_25",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Prisma 2“",
     "market_hash_name": "Prisma 2 Case Key",
     "crates": [
@@ -453,6 +481,7 @@
     "id": "key-1387",
     "name": "Kistenschlüssel „Durchbruch“",
     "name_original": "crate_key_community_26",
+    "code": "crate_key_community_26",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Durchbruch“",
     "market_hash_name": "Fracture Case Key",
     "crates": [
@@ -468,6 +497,7 @@
     "id": "key-1388",
     "name": "Kistenschlüssel „Operation Zerbrochener Reißzahn“",
     "name_original": "crate_key_community_27",
+    "code": "crate_key_community_27",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Operation Zerbrochener Reißzahn“",
     "market_hash_name": "Operation Broken Fang Case Key",
     "crates": [
@@ -483,6 +513,7 @@
     "id": "key-1389",
     "name": "Kistenschlüssel „Schlangenbiss”",
     "name_original": "crate_key_community_28",
+    "code": "crate_key_community_28",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Schlangenbiss“",
     "market_hash_name": "Snakebite Case Key",
     "crates": [
@@ -498,6 +529,7 @@
     "id": "key-1390",
     "name": "Kistenschlüssel „Operation Springflut“",
     "name_original": "crate_key_community_29",
+    "code": "crate_key_community_29",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Operation Springflut“",
     "market_hash_name": "Operation Riptide Case Key",
     "crates": [
@@ -513,6 +545,7 @@
     "id": "key-1391",
     "name": "Kistenschlüssel „Träume & Alpträume“",
     "name_original": "crate_key_community_30",
+    "code": "crate_key_community_30",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Träume & Alpträume“",
     "market_hash_name": "Dreams & Nightmares Case Key",
     "crates": [
@@ -528,6 +561,7 @@
     "id": "key-1392",
     "name": "Kistenschlüssel „Rückstoß“",
     "name_original": "crate_key_community_31",
+    "code": "crate_key_community_31",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Rückstoß“",
     "market_hash_name": "Recoil Case Key",
     "crates": [
@@ -543,6 +577,7 @@
     "id": "key-1393",
     "name": "Kistenschlüssel „Revolution“",
     "name_original": "crate_key_community_32",
+    "code": "crate_key_community_32",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Revolution“",
     "market_hash_name": "Revolution Case Key",
     "crates": [
@@ -558,6 +593,7 @@
     "id": "key-1394",
     "name": "Kistenschlüssel „Kilowatt“",
     "name_original": "crate_key_community_33",
+    "code": "crate_key_community_33",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Kilowatt“",
     "market_hash_name": "Kilowatt Case Key",
     "crates": [
@@ -573,6 +609,7 @@
     "id": "key-7000",
     "name": "Kistenschlüssel „Operation Wildfire“",
     "name_original": "crate_key_community_11",
+    "code": "crate_key_community_11",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Operation Wildfire“",
     "market_hash_name": "Operation Wildfire Case Key",
     "crates": [
@@ -588,6 +625,7 @@
     "id": "key-7002",
     "name": "Kistenschlüssel „Galerie“",
     "name_original": "crate_key_community_34",
+    "code": "crate_key_community_34",
     "description": "Dieser Schlüssel öffnet ausschließlich Waffenkisten der Kollektion „Galerie“",
     "market_hash_name": "Gallery Case Key",
     "crates": [
