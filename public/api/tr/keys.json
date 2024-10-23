@@ -2,6 +2,7 @@
   {
     "id": "key-generic_valve_key",
     "name": "CS:GO Kasası Anahtarı",
+    "name_original": "Tool_WeaponCase_Key",
     "description": "Bu anahtar herhangi bir Valve Serisi Silah Kasasını açar. Valve Serisinden olmayan kasaları açmak için (örn. eSports Kasası) kasanın kendi anahtarı gereklidir.",
     "market_hash_name": "CS:GO Case Key",
     "crates": [
@@ -31,6 +32,7 @@
   {
     "id": "key-1204",
     "name": "eSports Anahtarı",
+    "name_original": "esports_crate_key_1",
     "description": "Bu anahtar herhangi bir eSports kasasını açar.\\n\\nBu anahtarların satışından alınan para, topluluk tarafından kurulan bir CS:GO turnuvasına gidecektir. Daha fazla bilgi için takipte kalın.",
     "market_hash_name": "eSports Key",
     "crates": [
@@ -55,6 +57,7 @@
   {
     "id": "key-1212",
     "name": "CS:GO Kapsülü Anahtarı",
+    "name_original": "sticker_crate_key_1",
     "description": "Bu anahtar herhangi bir Valve Serisi Kapsülü açar.",
     "market_hash_name": "CS:GO Capsule Key",
     "crates": [
@@ -74,6 +77,7 @@
   {
     "id": "key-1214",
     "name": "Kış Saldırısı Kasası Anahtarı",
+    "name_original": "community_crate_key_1",
     "description": "Bu anahtar sadece Kış Saldırısı Kasalarını açar",
     "market_hash_name": "Winter Offensive Case Key",
     "crates": [
@@ -88,6 +92,7 @@
   {
     "id": "key-1303",
     "name": "Anka Operasyonu Kasası Anahtarı",
+    "name_original": "community_crate_key_2",
     "description": "Bu anahtar sadece Anka Operasyonu Kasalarını açar",
     "market_hash_name": "Operation Phoenix Case Key",
     "crates": [
@@ -102,6 +107,7 @@
   {
     "id": "key-1304",
     "name": "Topluluk Çıkartma Kapsülü 1 Anahtarı",
+    "name_original": "sticker_crate_key_community01",
     "description": "Bu anahtar sadece Topluluk Çıkartma Kapsülü 1'i açar.\\n\\nBu anahtarın satışlarından elde edilen gelirin bir kısmı çıkartmaları yapan kişilere gidecektir.",
     "market_hash_name": "Community Sticker Capsule 1 Key",
     "crates": [
@@ -116,6 +122,7 @@
   {
     "id": "key-1305",
     "name": "Avcı Kasası Anahtarı",
+    "name_original": "community_crate_key_3",
     "description": "Bu anahtar sadece Avcı Kasalarını açar",
     "market_hash_name": "Huntsman Case Key",
     "crates": [
@@ -130,6 +137,7 @@
   {
     "id": "key-1309",
     "name": "Firar Operasyonu Kasası Anahtarı",
+    "name_original": "community_crate_key_4",
     "description": "Bu anahtar sadece Firar Operasyonu Kasalarını açar",
     "market_hash_name": "Operation Breakout Case Key",
     "crates": [
@@ -144,6 +152,7 @@
   {
     "id": "key-1322",
     "name": "Öncü Operasyonu Kasası Anahtarı",
+    "name_original": "community_crate_key_5",
     "description": "Bu anahtar sadece Öncü Operasyonu Kasalarını açar",
     "market_hash_name": "Operation Vanguard Case Key",
     "crates": [
@@ -158,6 +167,7 @@
   {
     "id": "key-1323",
     "name": "Kroma Kasası Anahtarı",
+    "name_original": "community_crate_key_6",
     "description": "Bu anahtar sadece Kroma Kasalarını açar",
     "market_hash_name": "Chroma Case Key",
     "crates": [
@@ -172,6 +182,7 @@
   {
     "id": "key-1325",
     "name": "Kroma 2 Kasası Anahtarı",
+    "name_original": "community_crate_key_7",
     "description": "Bu anahtar sadece Kroma 2 Kasalarını açar",
     "market_hash_name": "Chroma 2 Case Key",
     "crates": [
@@ -186,6 +197,7 @@
   {
     "id": "key-1330",
     "name": "Pala Kasası Anahtarı",
+    "name_original": "community_crate_key_8",
     "description": "Bu anahtar sadece Pala Kasalarını açar",
     "market_hash_name": "Falchion Case Key",
     "crates": [
@@ -200,6 +212,7 @@
   {
     "id": "key-1333",
     "name": "Gölge Kasası Anahtarı",
+    "name_original": "community_crate_key_9",
     "description": "Bu anahtar sadece Gölge Kasalarını açar",
     "market_hash_name": "Shadow Case Key",
     "crates": [
@@ -214,6 +227,7 @@
   {
     "id": "key-1334",
     "name": "Revolver Kasası Anahtarı",
+    "name_original": "crate_community_10_key",
     "description": "Bu anahtar sadece Revolver Kasalarını açar",
     "market_hash_name": "Revolver Case Key",
     "crates": [
@@ -228,6 +242,7 @@
   {
     "id": "key-1347",
     "name": "Kroma 3 Kasası Anahtarı",
+    "name_original": "crate_key_community_12",
     "description": "Bu anahtar sadece Kroma 3 kasalarını açar",
     "market_hash_name": "Chroma 3 Case Key",
     "crates": [
@@ -242,6 +257,7 @@
   {
     "id": "key-1350",
     "name": "Gamma Kasası Anahtarı",
+    "name_original": "crate_key_community_13",
     "description": "Bu anahtar sadece Gamma Kasalarını açar",
     "market_hash_name": "Gamma Case Key",
     "crates": [
@@ -256,6 +272,7 @@
   {
     "id": "key-1351",
     "name": "Gamma 2 Kasası Anahtarı",
+    "name_original": "crate_key_gamma_2",
     "description": "Bu anahtar sadece Gamma 2 kasalarını açar",
     "market_hash_name": "Gamma 2 Case Key",
     "crates": [
@@ -270,6 +287,7 @@
   {
     "id": "key-1356",
     "name": "Eldiven Kasası Anahtarı",
+    "name_original": "crate_key_community_15",
     "description": "Bu anahtar sadece Eldiven kasalarını açar",
     "market_hash_name": "Glove Case Key",
     "crates": [
@@ -284,6 +302,7 @@
   {
     "id": "key-1364",
     "name": "Spektrum Kasası Anahtarı",
+    "name_original": "crate_key_community_16",
     "description": "Bu anahtar sadece Spektrum kasalarını açar",
     "market_hash_name": "Spectrum Case Key",
     "crates": [
@@ -298,6 +317,7 @@
   {
     "id": "key-1365",
     "name": "Hydra Operasyonu Kasası Anahtarı",
+    "name_original": "crate_key_community_17",
     "description": "Bu anahtar sadece Hydra Operasyonu kasalarını açar",
     "market_hash_name": "Operation Hydra Case Key",
     "crates": [
@@ -312,6 +332,7 @@
   {
     "id": "key-1366",
     "name": "Spektrum 2 Kasası Anahtarı",
+    "name_original": "crate_key_community_18",
     "description": "Bu anahtar sadece Spektrum 2 kasalarını açar",
     "market_hash_name": "Spectrum 2 Case Key",
     "crates": [
@@ -326,6 +347,7 @@
   {
     "id": "key-1373",
     "name": "Clutch Kasa Anahtarı",
+    "name_original": "crate_key_community_19",
     "description": "Bu anahtar sadece Clutch kasalarını açar",
     "market_hash_name": "Clutch Case Key",
     "crates": [
@@ -340,6 +362,7 @@
   {
     "id": "key-1374",
     "name": "Ufuk Kasası Anahtarı",
+    "name_original": "crate_key_community_20",
     "description": "Bu anahtar sadece Ufuk kasalarını açar",
     "market_hash_name": "Horizon Case Key",
     "crates": [
@@ -354,6 +377,7 @@
   {
     "id": "key-1375",
     "name": "Tehlikeli Bölge Kasası Anahtarı",
+    "name_original": "crate_key_community_21",
     "description": "Bu anahtar sadece Tehlikeli Bölge kasalarını açar",
     "market_hash_name": "Danger Zone Case Key",
     "crates": [
@@ -368,6 +392,7 @@
   {
     "id": "key-1383",
     "name": "Prizma Kasası Anahtarı",
+    "name_original": "crate_key_community_22",
     "description": "Bu anahtar sadece Prizma Kasalarını açar.",
     "market_hash_name": "Prisma Case Key",
     "crates": [
@@ -382,6 +407,7 @@
   {
     "id": "key-1384",
     "name": "Parçalanmış Ağ Anahtarı",
+    "name_original": "crate_key_community_23",
     "description": "Bu anahtar sadece Parçalanmış Ağ kasalarını açar",
     "market_hash_name": "Shattered Web Case Key",
     "crates": [
@@ -396,6 +422,7 @@
   {
     "id": "key-1385",
     "name": "CS20 Kasa Anahtarı",
+    "name_original": "crate_key_community_24",
     "description": "Bu anahtar sadece CS20 Kasalarını açar",
     "market_hash_name": "CS20 Case Key",
     "crates": [
@@ -410,6 +437,7 @@
   {
     "id": "key-1386",
     "name": "Prizma 2 Kasası Anahtarı",
+    "name_original": "crate_key_community_25",
     "description": "Bu anahtar sadece Prizma 2 Kasalarını açar",
     "market_hash_name": "Prisma 2 Case Key",
     "crates": [
@@ -424,6 +452,7 @@
   {
     "id": "key-1387",
     "name": "Parçalanmış Kasası Anahtarı",
+    "name_original": "crate_key_community_26",
     "description": "Bu anahtar sadece Parçalanmış kasalarını açar",
     "market_hash_name": "Fracture Case Key",
     "crates": [
@@ -438,6 +467,7 @@
   {
     "id": "key-1388",
     "name": "Kırık Diş Operasyonu Kasası Anahtarı",
+    "name_original": "crate_key_community_27",
     "description": "Bu anahtar sadece Kırık Diş Operasyonu kasalarını açar",
     "market_hash_name": "Operation Broken Fang Case Key",
     "crates": [
@@ -452,6 +482,7 @@
   {
     "id": "key-1389",
     "name": "Yılan Isırığı Kasa Anahtarı",
+    "name_original": "crate_key_community_28",
     "description": "Bu anahtar yalnızca Yılan Isırığı kasalarını açar",
     "market_hash_name": "Snakebite Case Key",
     "crates": [
@@ -466,6 +497,7 @@
   {
     "id": "key-1390",
     "name": "Girdap Operasyonu Kasası Anahtarı",
+    "name_original": "crate_key_community_29",
     "description": "Bu anahtar sadece Girdap Operasyonu Kasalarını açar",
     "market_hash_name": "Operation Riptide Case Key",
     "crates": [
@@ -480,6 +512,7 @@
   {
     "id": "key-1391",
     "name": "Rüyalar ve Kâbuslar Kasası Anahtarı",
+    "name_original": "crate_key_community_30",
     "description": "Bu anahtar sadece Rüyalar ve Kâbuslar Kasalarını açar",
     "market_hash_name": "Dreams & Nightmares Case Key",
     "crates": [
@@ -494,6 +527,7 @@
   {
     "id": "key-1392",
     "name": "Yılan Kasası Anahtarı",
+    "name_original": "crate_key_community_31",
     "description": "Bu anahtar sadece Yılan Kasalarını açar",
     "market_hash_name": "Recoil Case Key",
     "crates": [
@@ -508,6 +542,7 @@
   {
     "id": "key-1393",
     "name": "Devrim Kasası Anahtarı",
+    "name_original": "crate_key_community_32",
     "description": "Bu anahtar sadece Devrim Kasalarını açar",
     "market_hash_name": "Revolution Case Key",
     "crates": [
@@ -522,6 +557,7 @@
   {
     "id": "key-1394",
     "name": "Kilovat Kasası Anahtarı",
+    "name_original": "crate_key_community_33",
     "description": "Bu anahtar sadece Kilovat kasalarını açar.",
     "market_hash_name": "Kilowatt Case Key",
     "crates": [
@@ -536,6 +572,7 @@
   {
     "id": "key-7000",
     "name": "Yaban Ateşi Operasyonu Kasası Anahtarı",
+    "name_original": "crate_key_community_11",
     "description": "Bu anahtar sadece Yaban Ateşi Operasyonu Kasalarını açar",
     "market_hash_name": "Operation Wildfire Case Key",
     "crates": [
@@ -550,6 +587,7 @@
   {
     "id": "key-7002",
     "name": "Galeri Kasası Anahtarı",
+    "name_original": "crate_key_community_34",
     "description": "Bu anahtar sadece Galeri kasalarını açar",
     "market_hash_name": "Gallery Case Key",
     "crates": [

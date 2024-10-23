@@ -2,6 +2,7 @@
   {
     "id": "collectible-1004",
     "name": "박물관 맵 주화",
+    "name_original": "Collectible_MapTokenMuseum",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -16,6 +17,7 @@
   {
     "id": "collectible-1005",
     "name": "도심 맵 주화",
+    "name_original": "Collectible_MapTokenDowntown",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -30,6 +32,7 @@
   {
     "id": "collectible-1006",
     "name": "썬더 맵 주화",
+    "name_original": "Collectible_MapTokenThunder",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -44,6 +47,7 @@
   {
     "id": "collectible-1007",
     "name": "빈민가 맵 주화",
+    "name_original": "Collectible_MapTokenFavela",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -58,6 +62,7 @@
   {
     "id": "collectible-1008",
     "name": "모텔 맵 주화",
+    "name_original": "Collectible_MapTokenMotel",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -72,6 +77,7 @@
   {
     "id": "collectible-1009",
     "name": "해변 맵 주화",
+    "name_original": "Collectible_MapTokenSeaside",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -86,6 +92,7 @@
   {
     "id": "collectible-1010",
     "name": "도서관 맵 주화",
+    "name_original": "Collectible_MapTokenLibrary",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -100,6 +107,7 @@
   {
     "id": "collectible-1016",
     "name": "에이전시 맵 주화",
+    "name_original": "Collectible_MapTokenAgency",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -114,6 +122,7 @@
   {
     "id": "collectible-1017",
     "name": "알리 맵 주화",
+    "name_original": "Collectible_MapTokenAli",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -128,6 +137,7 @@
   {
     "id": "collectible-1018",
     "name": "무기창고 맵 주화",
+    "name_original": "Collectible_MapTokenCache",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -142,6 +152,7 @@
   {
     "id": "collectible-1019",
     "name": "차이나타운 맵 주화",
+    "name_original": "Collectible_MapTokenChinatown",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -156,6 +167,7 @@
   {
     "id": "collectible-1020",
     "name": "괄리오르 맵 주화",
+    "name_original": "Collectible_MapTokenGwalior",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -170,6 +182,7 @@
   {
     "id": "collectible-1021",
     "name": "폐허 맵 주화",
+    "name_original": "Collectible_MapTokenRuins",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -184,6 +197,7 @@
   {
     "id": "collectible-1022",
     "name": "시즈 맵 주화",
+    "name_original": "Collectible_MapTokenSiege",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -198,6 +212,7 @@
   {
     "id": "collectible-1031",
     "name": "성곽 맵 주화",
+    "name_original": "Collectible_MapTokenCastle",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -212,6 +227,7 @@
   {
     "id": "collectible-1032",
     "name": "검은 황금 맵 주화",
+    "name_original": "Collectible_MapTokenBlackGold",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -226,6 +242,7 @@
   {
     "id": "collectible-1033",
     "name": "습격 맵 주화",
+    "name_original": "Collectible_MapTokenRush",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -240,6 +257,7 @@
   {
     "id": "collectible-1034",
     "name": "안개 맵 주화",
+    "name_original": "Collectible_MapTokenMist",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -254,6 +272,7 @@
   {
     "id": "collectible-1035",
     "name": "침입 맵 주화",
+    "name_original": "Collectible_MapTokenInsertion",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -268,6 +287,7 @@
   {
     "id": "collectible-1036",
     "name": "과대 성장 맵 주화",
+    "name_original": "Collectible_MapTokenOvergrown",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -282,6 +302,7 @@
   {
     "id": "collectible-1037",
     "name": "마르퀴스 맵 주화",
+    "name_original": "Collectible_MapTokenMarquis",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -296,6 +317,7 @@
   {
     "id": "collectible-1038",
     "name": "실내 운동장 맵 주화",
+    "name_original": "Collectible_MapTokenWorkout",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -310,6 +332,7 @@
   {
     "id": "collectible-1039",
     "name": "뒷골목 맵 주화",
+    "name_original": "Collectible_MapTokenBackalley",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -324,6 +347,7 @@
   {
     "id": "collectible-1040",
     "name": "시즌 맵 주화",
+    "name_original": "Collectible_MapTokenSeason",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -338,6 +362,7 @@
   {
     "id": "collectible-1041",
     "name": "시장 맵 주화",
+    "name_original": "Collectible_MapTokenBazaar",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -352,6 +377,7 @@
   {
     "id": "collectible-1042",
     "name": "파사드 맵 주화",
+    "name_original": "Collectible_MapTokenFacade",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -366,6 +392,7 @@
   {
     "id": "collectible-1043",
     "name": "통나무 맵 주화",
+    "name_original": "Collectible_MapTokenLog",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -380,6 +407,7 @@
   {
     "id": "collectible-1044",
     "name": "철로 맵 주화",
+    "name_original": "Collectible_MapTokenRails",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -394,6 +422,7 @@
   {
     "id": "collectible-1045",
     "name": "휴양지 맵 주화",
+    "name_original": "Collectible_MapTokenResort",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -408,6 +437,7 @@
   {
     "id": "collectible-1046",
     "name": "동물원 맵 주화",
+    "name_original": "Collectible_MapTokenZoo",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -422,6 +452,7 @@
   {
     "id": "collectible-1047",
     "name": "산토리니 맵 주화",
+    "name_original": "Collectible_MapTokenSantorini",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -436,6 +467,7 @@
   {
     "id": "collectible-1048",
     "name": "해변 맵 주화",
+    "name_original": "Collectible_MapTokenCoast",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -450,6 +482,7 @@
   {
     "id": "collectible-1049",
     "name": "미클라 맵 주화",
+    "name_original": "Collectible_MapTokenMikla",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -464,6 +497,7 @@
   {
     "id": "collectible-1050",
     "name": "왕실 맵 주화",
+    "name_original": "Collectible_MapTokenRoyal",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -478,6 +512,7 @@
   {
     "id": "collectible-1051",
     "name": "제국 맵 주화",
+    "name_original": "Collectible_MapTokenEmpire",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -492,6 +527,7 @@
   {
     "id": "collectible-1052",
     "name": "튤립 맵 주화",
+    "name_original": "Collectible_MapTokenTulip",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -506,6 +542,7 @@
   {
     "id": "collectible-1053",
     "name": "유람선 맵 주화",
+    "name_original": "Collectible_MapTokenCruise",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -520,6 +557,7 @@
   {
     "id": "collectible-1054",
     "name": "서브제로 맵 주화",
+    "name_original": "Collectible_MapTokenSubzero",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -534,6 +572,7 @@
   {
     "id": "collectible-1055",
     "name": "바이옴 맵 주화",
+    "name_original": "Collectible_MapTokenBiome",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -548,6 +587,7 @@
   {
     "id": "collectible-1056",
     "name": "수도원 맵 주화",
+    "name_original": "Collectible_MapTokenAbbey",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -562,6 +602,7 @@
   {
     "id": "collectible-1057",
     "name": "루비 맵 주화",
+    "name_original": "Collectible_MapTokenRuby",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -576,6 +617,7 @@
   {
     "id": "collectible-1058",
     "name": "브리치 맵 주화",
+    "name_original": "Collectible_MapTokenBreach",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -590,6 +632,7 @@
   {
     "id": "collectible-1059",
     "name": "스튜디오 맵 주화",
+    "name_original": "Collectible_MapTokenStudio",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -604,6 +647,7 @@
   {
     "id": "collectible-1060",
     "name": "정글 맵 주화",
+    "name_original": "Collectible_MapTokenJungle",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -618,6 +662,7 @@
   {
     "id": "collectible-1061",
     "name": "아누비스 맵 주화",
+    "name_original": "Collectible_MapTokenAnubis",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -632,6 +677,7 @@
   {
     "id": "collectible-1062",
     "name": "클로린 맵 주화",
+    "name_original": "Collectible_MapTokenChlorine",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -646,6 +692,7 @@
   {
     "id": "collectible-1063",
     "name": "반란 맵 주화",
+    "name_original": "Collectible_MapTokenMutiny",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -660,6 +707,7 @@
   {
     "id": "collectible-1064",
     "name": "늪지대 맵 주화",
+    "name_original": "Collectible_MapTokenSwamp",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -674,6 +722,7 @@
   {
     "id": "collectible-1065",
     "name": "프로스트바이트 맵 주화",
+    "name_original": "Collectible_MapTokenFrostbite",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -688,6 +737,7 @@
   {
     "id": "collectible-1066",
     "name": "교전 맵 주화",
+    "name_original": "Collectible_MapTokenEngage",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -702,6 +752,7 @@
   {
     "id": "collectible-1067",
     "name": "아폴로 맵 주화",
+    "name_original": "Collectible_MapTokenApollo",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -716,6 +767,7 @@
   {
     "id": "collectible-1068",
     "name": "가드 맵 주화",
+    "name_original": "Collectible_MapTokenGuard",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -730,6 +782,7 @@
   {
     "id": "collectible-1069",
     "name": "엘리시온 맵 주화",
+    "name_original": "Collectible_MapTokenElysion",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -744,6 +797,7 @@
   {
     "id": "collectible-1070",
     "name": "그라인드 맵 주화",
+    "name_original": "Collectible_MapTokenGrind",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -758,6 +812,7 @@
   {
     "id": "collectible-1071",
     "name": "모카 맵 주화",
+    "name_original": "Collectible_MapTokenMocha",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -772,6 +827,7 @@
   {
     "id": "collectible-1072",
     "name": "칼라베라 맵 주화",
+    "name_original": "Collectible_MapTokenCalavera",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -786,6 +842,7 @@
   {
     "id": "collectible-1073",
     "name": "피트스톱 맵 주화",
+    "name_original": "Collectible_MapTokenPitstop",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -800,6 +857,7 @@
   {
     "id": "collectible-1074",
     "name": "바살트 맵 주화",
+    "name_original": "Collectible_MapTokenBasalt",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -814,6 +872,7 @@
   {
     "id": "collectible-1075",
     "name": "침입 2 맵 주화",
+    "name_original": "Collectible_MapTokenInsertion2",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -828,6 +887,7 @@
   {
     "id": "collectible-1076",
     "name": "성채 맵 주화",
+    "name_original": "Collectible_MapTokenRavine",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -842,6 +902,7 @@
   {
     "id": "collectible-1077",
     "name": "추출 맵 주화",
+    "name_original": "Collectible_MapTokenExtraction",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -856,6 +917,7 @@
   {
     "id": "collectible-1078",
     "name": "카운티 맵 주화",
+    "name_original": "Collectible_MapTokenCounty",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -870,6 +932,7 @@
   {
     "id": "collectible-1079",
     "name": "아이리스 맵 주화",
+    "name_original": "Collectible_MapTokenIris",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -884,6 +947,7 @@
   {
     "id": "collectible-1080",
     "name": "등반 맵 주화",
+    "name_original": "Collectible_MapTokenClimb",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -898,6 +962,7 @@
   {
     "id": "collectible-1081",
     "name": "크레타 맵 주화",
+    "name_original": "Collectible_MapTokenCrete",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -912,6 +977,7 @@
   {
     "id": "collectible-1082",
     "name": "하이브 맵 주화",
+    "name_original": "Collectible_MapTokenHive",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -926,6 +992,7 @@
   {
     "id": "collectible-1083",
     "name": "포도원 맵 주화",
+    "name_original": "Collectible_MapTokenVineyard",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -940,6 +1007,7 @@
   {
     "id": "collectible-1084",
     "name": "엠버 맵 주화",
+    "name_original": "Collectible_MapTokenEmber",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -954,6 +1022,7 @@
   {
     "id": "collectible-1085",
     "name": "토스카나 맵 주화",
+    "name_original": "Collectible_MapTokenTuscan",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -968,6 +1037,7 @@
   {
     "id": "collectible-1086",
     "name": "폭포 맵 주화",
+    "name_original": "Collectible_MapTokenPrime",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -982,6 +1052,7 @@
   {
     "id": "collectible-1087",
     "name": "블라가이 맵 주화",
+    "name_original": "Collectible_MapTokenBlagai",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -996,6 +1067,7 @@
   {
     "id": "collectible-1088",
     "name": "보야르 맵 주화",
+    "name_original": "Collectible_MapTokenBoyard",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1010,6 +1082,7 @@
   {
     "id": "collectible-1089",
     "name": "성배 맵 주화",
+    "name_original": "Collectible_MapTokenChalice",
     "description": null,
     "rarity": {
       "id": "rarity_ancient",
@@ -1024,6 +1097,7 @@
   {
     "id": "collectible-4941",
     "name": "테라 맵 주화",
+    "name_original": "Collectible_MapTokenThera",
     "description": "CS2 '테라' 맵 제작자에게 수여되는 주화입니다.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1038,6 +1112,7 @@
   {
     "id": "collectible-4942",
     "name": "밀스 맵 주화",
+    "name_original": "Collectible_MapTokenMills",
     "description": "CS2 '밀스' 맵 제작자에게 수여되는 주화입니다.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1052,6 +1127,7 @@
   {
     "id": "collectible-4943",
     "name": "어셈블리 맵 주화",
+    "name_original": "Collectible_MapTokenAssembly",
     "description": "CS2 '어셈블리' 맵 제작자에게 수여되는 주화입니다.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1066,6 +1142,7 @@
   {
     "id": "collectible-4944",
     "name": "메멘토 맵 주화",
+    "name_original": "Collectible_MapTokenMemento",
     "description": "CS2 '메멘토' 맵 제작자에게 수여되는 주화입니다.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1080,6 +1157,7 @@
   {
     "id": "collectible-4945",
     "name": "풀 데이 맵 주화",
+    "name_original": "Collectible_MapTokenPoolDay",
     "description": "CS2 '풀 데이' 맵 제작자에게 수여되는 주화입니다.",
     "rarity": {
       "id": "rarity_ancient",

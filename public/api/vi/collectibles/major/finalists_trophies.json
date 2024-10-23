@@ -2,6 +2,7 @@
   {
     "id": "collectible-875",
     "name": "Nhà vô địch DreamHack 2013",
+    "name_original": "CollectibleCoin_DH2013_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO DreamHack SteelSeries 2013.",
     "rarity": {
       "id": "rarity_ancient",
@@ -16,6 +17,7 @@
   {
     "id": "collectible-876",
     "name": "Lọt vào chung kết tại giải DreamHack 2013",
+    "name_original": "CollectibleCoin_DH2013_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO DreamHack SteelSeries 2013.",
     "rarity": {
       "id": "rarity_ancient",
@@ -30,6 +32,7 @@
   {
     "id": "collectible-877",
     "name": "Lọt vào bán kết tại giải DreamHack 2013",
+    "name_original": "CollectibleCoin_DH2013_SemiFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO 2013 DreamHack SteelSeries.",
     "rarity": {
       "id": "rarity_ancient",
@@ -44,6 +47,7 @@
   {
     "id": "collectible-878",
     "name": "Lọt vào tứ kết tại giải DreamHack 2013",
+    "name_original": "CollectibleCoin_DH2013_QuarterFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO 2013 DreamHack SteelSeries.",
     "rarity": {
       "id": "rarity_ancient",
@@ -58,6 +62,7 @@
   {
     "id": "collectible-879",
     "name": "Nhà vô địch EMS One Katowice 2014",
+    "name_original": "CollectibleCoin_Kat2014_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải EMS One Katowice 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -72,6 +77,7 @@
   {
     "id": "collectible-880",
     "name": "Lọt vào chung kết tại giải EMS One Katowice 2014",
+    "name_original": "CollectibleCoin_Kat2014_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO EMS One Katowice 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -86,6 +92,7 @@
   {
     "id": "collectible-881",
     "name": "Lọt vào bán kết tại giải EMS One Katowice 2014",
+    "name_original": "CollectibleCoin_Kat2014_SemiFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO EMS One Katowice 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -100,6 +107,7 @@
   {
     "id": "collectible-882",
     "name": "Lọt vào tứ kết tại giải EMS One Katowice 2014",
+    "name_original": "CollectibleCoin_Kat2014_QuarterFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO 2014 EMS One Katowice.",
     "rarity": {
       "id": "rarity_ancient",
@@ -114,6 +122,7 @@
   {
     "id": "collectible-883",
     "name": "Nhà vô địch ESL One Cologne 2014",
+    "name_original": "CollectibleCoin_Cologne2014_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ESL One Cologne 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -128,6 +137,7 @@
   {
     "id": "collectible-884",
     "name": "Lọt vào chung kết tại giải ESL One Cologne 2014",
+    "name_original": "CollectibleCoin_Cologne2014_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ESL One Cologne 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -142,6 +152,7 @@
   {
     "id": "collectible-885",
     "name": "Lọt vào bán kết tại giải ESL One Cologne 2014",
+    "name_original": "CollectibleCoin_Cologne2014_SemiFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ESL One Cologne 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -156,6 +167,7 @@
   {
     "id": "collectible-886",
     "name": "Lọt vào tứ kết tại giải ESL One Cologne 2014",
+    "name_original": "CollectibleCoin_Cologne2014_QuarterFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ESL One Cologne 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -170,6 +182,7 @@
   {
     "id": "collectible-890",
     "name": "Nhà vô địch DreamHack Winter 2014",
+    "name_original": "CollectibleCoin_DHW2014_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải DreamHack Winter 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -184,6 +197,7 @@
   {
     "id": "collectible-891",
     "name": "Lọt vào chung kết tại giải DreamHack Winter 2014",
+    "name_original": "CollectibleCoin_DHW2014_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO DreamHack Winter 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -198,6 +212,7 @@
   {
     "id": "collectible-892",
     "name": "Lọt vào bán kết tại giải DreamHack Winter 2014",
+    "name_original": "CollectibleCoin_DHW2014_SemiFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO DreamHack Winter 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -212,6 +227,7 @@
   {
     "id": "collectible-893",
     "name": "Lọt vào tứ kết tại giải DreamHack Winter 2014",
+    "name_original": "CollectibleCoin_DHW2014_QuarterFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO DreamHack Winter 2014.",
     "rarity": {
       "id": "rarity_ancient",
@@ -226,6 +242,7 @@
   {
     "id": "collectible-897",
     "name": "Nhà vô địch ESL One Katowice 2015",
+    "name_original": "CollectibleCoin_Kat2015_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ESL One Katowice 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -240,6 +257,7 @@
   {
     "id": "collectible-898",
     "name": "Lọt vào chung kết tại giải ESL One Katowice 2015",
+    "name_original": "CollectibleCoin_Kat2015_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ESL One Katowice 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -254,6 +272,7 @@
   {
     "id": "collectible-899",
     "name": "Lọt vào bán kết tại giải ESL One Katowice 2015",
+    "name_original": "CollectibleCoin_Kat2015_SemiFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ESL One Katowice 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -268,6 +287,7 @@
   {
     "id": "collectible-900",
     "name": "Lọt vào tứ kết tại giải ESL One Katowice 2015",
+    "name_original": "CollectibleCoin_Kat2015_QuarterFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ESL One Katowice 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -282,6 +302,7 @@
   {
     "id": "collectible-904",
     "name": "Nhà vô địch ESL One Cologne 2015",
+    "name_original": "CollectibleCoin_Cologne2015_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ESL One Cologne 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -296,6 +317,7 @@
   {
     "id": "collectible-905",
     "name": "Lọt vào chung kết tại giải ESL One Cologne 2015",
+    "name_original": "CollectibleCoin_Cologne2015_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ESL One Cologne 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -310,6 +332,7 @@
   {
     "id": "collectible-906",
     "name": "Lọt vào bán kết tại giải ESL One Cologne 2015",
+    "name_original": "CollectibleCoin_Cologne2015_SemiFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ESL One Cologne 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -324,6 +347,7 @@
   {
     "id": "collectible-907",
     "name": "Lọt vào tứ kết tại giải ESL One Cologne 2015",
+    "name_original": "CollectibleCoin_Cologne2015_QuarterFinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ESL One Cologne 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -338,6 +362,7 @@
   {
     "id": "collectible-917",
     "name": "Nhà vô địch DreamHack Cluj-Napoca 2015",
+    "name_original": "CollectibleCoin_Cluj2015_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải DreamHack Cluj-Napoca 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -352,6 +377,7 @@
   {
     "id": "collectible-918",
     "name": "Lọt vào chung kết tại giải DreamHack Cluj-Napoca 2015",
+    "name_original": "CollectibleCoin_Cluj2015_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO DreamHack Cluj-Napoca 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -366,6 +392,7 @@
   {
     "id": "collectible-919",
     "name": "Lọt vào bán kết tại giải DreamHack Cluj-Napoca 2015",
+    "name_original": "CollectibleCoin_Cluj2015_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO DreamHack Cluj-Napoca 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -380,6 +407,7 @@
   {
     "id": "collectible-920",
     "name": "Lọt vào tứ kết tại giải DreamHack Cluj-Napoca 2015",
+    "name_original": "CollectibleCoin_Cluj2015_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO DreamHack Cluj-Napoca 2015.",
     "rarity": {
       "id": "rarity_ancient",
@@ -394,6 +422,7 @@
   {
     "id": "collectible-927",
     "name": "Nhà vô địch MLG Columbus 2016",
+    "name_original": "CollectibleCoin_Columbus2016_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải MLG Columbus 2016.",
     "rarity": {
       "id": "rarity_ancient",
@@ -408,6 +437,7 @@
   {
     "id": "collectible-928",
     "name": "Lọt vào chung kết tại giải MLG Columbus 2016",
+    "name_original": "CollectibleCoin_Columbus2016_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO MLG Columbus 2016.",
     "rarity": {
       "id": "rarity_ancient",
@@ -422,6 +452,7 @@
   {
     "id": "collectible-929",
     "name": "Lọt vào bán kết tại giải MLG Columbus 2016",
+    "name_original": "CollectibleCoin_Columbus2016_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO MLG Columbus 2016.",
     "rarity": {
       "id": "rarity_ancient",
@@ -436,6 +467,7 @@
   {
     "id": "collectible-930",
     "name": "Lọt vào tứ kết tại giải MLG Columbus 2016",
+    "name_original": "CollectibleCoin_Columbus2016_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO MLG Columbus 2016.",
     "rarity": {
       "id": "rarity_ancient",
@@ -450,6 +482,7 @@
   {
     "id": "collectible-931",
     "name": "Nhà vô địch ESL One Cologne 2016",
+    "name_original": "CollectibleCoin_Cologne2016_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ESL One Cologne 2016.",
     "rarity": {
       "id": "rarity_ancient",
@@ -464,6 +497,7 @@
   {
     "id": "collectible-932",
     "name": "Lọt vào chung kết tại giải ESL One Cologne 2016",
+    "name_original": "CollectibleCoin_Cologne2016_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ESL One Cologne 2016.",
     "rarity": {
       "id": "rarity_ancient",
@@ -478,6 +512,7 @@
   {
     "id": "collectible-933",
     "name": "Lọt vào bán kết tại giải ESL One Cologne 2016",
+    "name_original": "CollectibleCoin_Cologne2016_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ESL One Cologne 2016.",
     "rarity": {
       "id": "rarity_ancient",
@@ -492,6 +527,7 @@
   {
     "id": "collectible-934",
     "name": "Lọt vào tứ kết tại giải ESL One Cologne 2016",
+    "name_original": "CollectibleCoin_Cologne2016_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ESL One Cologne 2016.",
     "rarity": {
       "id": "rarity_ancient",
@@ -506,6 +542,7 @@
   {
     "id": "collectible-941",
     "name": "Nhà vô địch ELEAGUE Atlanta 2017",
+    "name_original": "CollectibleCoin_Atlanta2017_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ELEAGUE Atlanta 2017.",
     "rarity": {
       "id": "rarity_ancient",
@@ -520,6 +557,7 @@
   {
     "id": "collectible-942",
     "name": "Lọt vào chung kết tại giải ELEAGUE Atlanta 2017",
+    "name_original": "CollectibleCoin_Atlanta2017_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ELEAGUE Atlanta 2017.",
     "rarity": {
       "id": "rarity_ancient",
@@ -534,6 +572,7 @@
   {
     "id": "collectible-943",
     "name": "Lọt vào bán kết tại giải ELEAGUE Atlanta 2017",
+    "name_original": "CollectibleCoin_Atlanta2017_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ELEAGUE Atlanta 2017.",
     "rarity": {
       "id": "rarity_ancient",
@@ -548,6 +587,7 @@
   {
     "id": "collectible-944",
     "name": "Lọt vào tứ kết tại giải ELEAGUE Atlanta 2017",
+    "name_original": "CollectibleCoin_Atlanta2017_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ELEAGUE Atlanta 2017.",
     "rarity": {
       "id": "rarity_ancient",
@@ -562,6 +602,7 @@
   {
     "id": "collectible-948",
     "name": "Nhà vô địch PGL Krakow 2017",
+    "name_original": "CollectibleCoin_Krakow2017_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải PGL Krakow 2017.",
     "rarity": {
       "id": "rarity_ancient",
@@ -576,6 +617,7 @@
   {
     "id": "collectible-949",
     "name": "Lọt vào chung kết tại giải PGL Krakow 2017",
+    "name_original": "CollectibleCoin_Krakow2017_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO PGL Krakow 2017.",
     "rarity": {
       "id": "rarity_ancient",
@@ -590,6 +632,7 @@
   {
     "id": "collectible-950",
     "name": "Lọt vào bán kết tại giải PGL Krakow 2017",
+    "name_original": "CollectibleCoin_Krakow2017_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO PGL Krakow 2017.",
     "rarity": {
       "id": "rarity_ancient",
@@ -604,6 +647,7 @@
   {
     "id": "collectible-951",
     "name": "Lọt vào tứ kết tại giải PGL Krakow 2017",
+    "name_original": "CollectibleCoin_Krakow2017_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO PGL Krakow 2017.",
     "rarity": {
       "id": "rarity_ancient",
@@ -618,6 +662,7 @@
   {
     "id": "collectible-955",
     "name": "Nhà vô địch ELEAGUE Boston 2018",
+    "name_original": "CollectibleCoin_Boston2018_Champion",
     "description": "Cúp giải đấu này được trao tặng đội vô địch giải CS:GO ELEAGUE Boston 2018.",
     "rarity": {
       "id": "rarity_ancient",
@@ -632,6 +677,7 @@
   {
     "id": "collectible-956",
     "name": "Lọt vào chung kết tại giải ELEAGUE Boston 2018",
+    "name_original": "CollectibleCoin_Boston2018_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ELEAGUE Boston 2018.",
     "rarity": {
       "id": "rarity_ancient",
@@ -646,6 +692,7 @@
   {
     "id": "collectible-957",
     "name": "Lọt vào bán kết tại giải ELEAGUE Boston 2018",
+    "name_original": "CollectibleCoin_Boston2018_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ELEAGUE Boston 2018.",
     "rarity": {
       "id": "rarity_ancient",
@@ -660,6 +707,7 @@
   {
     "id": "collectible-958",
     "name": "Lọt vào tứ kết tại giải ELEAGUE Boston 2018",
+    "name_original": "CollectibleCoin_Boston2018_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ELEAGUE Boston 2018.",
     "rarity": {
       "id": "rarity_ancient",
@@ -674,6 +722,7 @@
   {
     "id": "collectible-962",
     "name": "Nhà vô địch FACEIT London 2018",
+    "name_original": "CollectibleCoin_London2018_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải FACEIT London 2018.",
     "rarity": {
       "id": "rarity_ancient",
@@ -688,6 +737,7 @@
   {
     "id": "collectible-963",
     "name": "Lọt vào chung kết tại giải FACEIT London 2018",
+    "name_original": "CollectibleCoin_London2018_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO FACEIT London 2018.",
     "rarity": {
       "id": "rarity_ancient",
@@ -702,6 +752,7 @@
   {
     "id": "collectible-964",
     "name": "Lọt vào bán kết tại giải FACEIT London 2018",
+    "name_original": "CollectibleCoin_London2018_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải FACEIT London 2018.",
     "rarity": {
       "id": "rarity_ancient",
@@ -716,6 +767,7 @@
   {
     "id": "collectible-965",
     "name": "Lọt vào tứ kết tại giải FACEIT London 2018",
+    "name_original": "CollectibleCoin_London2018_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải FACEIT London 2018.",
     "rarity": {
       "id": "rarity_ancient",
@@ -730,6 +782,7 @@
   {
     "id": "collectible-971",
     "name": "Nhà vô địch IEM Katowice 2019",
+    "name_original": "CollectibleCoin_Katowice2019_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO IEM Katowice 2019.",
     "rarity": {
       "id": "rarity_ancient",
@@ -744,6 +797,7 @@
   {
     "id": "collectible-972",
     "name": "Lọt vào chung kết tại giải IEM Katowice 2019",
+    "name_original": "CollectibleCoin_Katowice2019_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO IEM Katowice 2019.",
     "rarity": {
       "id": "rarity_ancient",
@@ -758,6 +812,7 @@
   {
     "id": "collectible-973",
     "name": "Lọt vào bán kết tại giải IEM Katowice 2019",
+    "name_original": "CollectibleCoin_Katowice2019_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO IEM Katowice 2019.",
     "rarity": {
       "id": "rarity_ancient",
@@ -772,6 +827,7 @@
   {
     "id": "collectible-974",
     "name": "Lọt vào tứ kết tại giải IEM Katowice 2019",
+    "name_original": "CollectibleCoin_Katowice2019_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO IEM Katowice 2019.",
     "rarity": {
       "id": "rarity_ancient",
@@ -786,6 +842,7 @@
   {
     "id": "collectible-975",
     "name": "Vô địch StarLadder Berlin 2019",
+    "name_original": "CollectibleCoin_Berlin2019_Champion",
     "description": "Cúp này được trao tặng cho nhà vô địch giải CS:GO StarLadder Berlin 2019.",
     "rarity": {
       "id": "rarity_ancient",
@@ -800,6 +857,7 @@
   {
     "id": "collectible-976",
     "name": "Vào chung kết StarLadder Berlin 2019",
+    "name_original": "CollectibleCoin_Berlin2019_Finalist",
     "description": "Cúp này được trao tặng cho người vào vòng chung kết giải CS:GO StarLadder Berlin 2019.",
     "rarity": {
       "id": "rarity_ancient",
@@ -814,6 +872,7 @@
   {
     "id": "collectible-977",
     "name": "Vào bán kết StarLadder Berlin 2019",
+    "name_original": "CollectibleCoin_Berlin2019_Semifinalist",
     "description": "Cúp này được trao tặng cho người vào vòng bán kết giải CS:GO StarLadder Berlin 2019.",
     "rarity": {
       "id": "rarity_ancient",
@@ -828,6 +887,7 @@
   {
     "id": "collectible-978",
     "name": "Vào tứ kết StarLadder Berlin 2019",
+    "name_original": "CollectibleCoin_Berlin2019_Quarterfinalist",
     "description": "Cúp này được trao tặng cho người vào vòng tứ kết giải CS:GO StarLadder Berlin 2019.",
     "rarity": {
       "id": "rarity_ancient",
@@ -842,6 +902,7 @@
   {
     "id": "collectible-979",
     "name": "Nhà vô địch PGL Stockholm 2021",
+    "name_original": "CollectibleCoin_Stockh2021_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải đấu Major CS:GO PGL Stockholm 2021.",
     "rarity": {
       "id": "rarity_ancient",
@@ -856,6 +917,7 @@
   {
     "id": "collectible-980",
     "name": "Lọt vào chung kết tại giải PGL Stockholm 2021",
+    "name_original": "CollectibleCoin_Stockh2021_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải đấu Major CS:GO PGL Stockholm 2021.",
     "rarity": {
       "id": "rarity_ancient",
@@ -870,6 +932,7 @@
   {
     "id": "collectible-981",
     "name": "Lọt vào bán kết tại giải PGL Stockholm 2021",
+    "name_original": "CollectibleCoin_Stockh2021_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải đấu Major CS:GO PGL Stockholm 2021.",
     "rarity": {
       "id": "rarity_ancient",
@@ -884,6 +947,7 @@
   {
     "id": "collectible-982",
     "name": "Lọt vào tứ kết tại giải PGL Stockholm 2021",
+    "name_original": "CollectibleCoin_Stockh2021_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải đấu Major CS:GO PGL Stockholm 2021.",
     "rarity": {
       "id": "rarity_ancient",
@@ -898,6 +962,7 @@
   {
     "id": "collectible-983",
     "name": "Nhà vô địch PGL Antwerp 2022",
+    "name_original": "CollectibleCoin_Antwerp2022_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO Major PGL Antwerp 2022.",
     "rarity": {
       "id": "rarity_ancient",
@@ -912,6 +977,7 @@
   {
     "id": "collectible-984",
     "name": "Lọt vào chung kết tại giải PGL Antwerp 2022",
+    "name_original": "CollectibleCoin_Antwerp2022_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết kết giải CS:GO Major PGL Antwerp 2022.",
     "rarity": {
       "id": "rarity_ancient",
@@ -926,6 +992,7 @@
   {
     "id": "collectible-985",
     "name": "Lọt vào bán kết tại giải PGL Antwerp 2022",
+    "name_original": "CollectibleCoin_Antwerp2022_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO Major PGL Antwerp 2022.",
     "rarity": {
       "id": "rarity_ancient",
@@ -940,6 +1007,7 @@
   {
     "id": "collectible-986",
     "name": "Lọt vào tứ kết tại giải PGL Antwerp 2022",
+    "name_original": "CollectibleCoin_Antwerp2022_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO Major PGL Antwerp 2022.",
     "rarity": {
       "id": "rarity_ancient",
@@ -954,6 +1022,7 @@
   {
     "id": "collectible-988",
     "name": "Nhà vô địch IEM Rio 2022",
+    "name_original": "CollectibleCoin_Rio2022_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO Major IEM Rio 2022.",
     "rarity": {
       "id": "rarity_ancient",
@@ -968,6 +1037,7 @@
   {
     "id": "collectible-989",
     "name": "Lọt vào chung kết tại giải IEM Rio 2022",
+    "name_original": "CollectibleCoin_Rio2022_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO Major IEM Rio 2022.",
     "rarity": {
       "id": "rarity_ancient",
@@ -982,6 +1052,7 @@
   {
     "id": "collectible-990",
     "name": "Lọt vào bán kết tại giải IEM Rio 2022",
+    "name_original": "CollectibleCoin_Rio2022_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO Major IEM Rio 2022.",
     "rarity": {
       "id": "rarity_ancient",
@@ -996,6 +1067,7 @@
   {
     "id": "collectible-991",
     "name": "Lọt vào tứ kết tại giải IEM Rio 2022",
+    "name_original": "CollectibleCoin_Rio2022_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO Major IEM Rio 2022.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1010,6 +1082,7 @@
   {
     "id": "collectible-992",
     "name": "Nhà vô địch giải BLAST.tv Paris 2023",
+    "name_original": "CollectibleCoin_Paris2023_Champion",
     "description": "Cúp giải đấu này được trao tặng nhà vô địch giải Major CS:GO BLAST.tv Paris 2023.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1024,6 +1097,7 @@
   {
     "id": "collectible-993",
     "name": "Lọt vào chung kết tại giải BLAST.tv Paris 2023",
+    "name_original": "CollectibleCoin_Paris2023_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải Major CS:GO BLAST.tv Paris 2023.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1038,6 +1112,7 @@
   {
     "id": "collectible-994",
     "name": "Lọt vào bán kết tại giải BLAST.tv Paris 2023",
+    "name_original": "CollectibleCoin_Paris2023_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải Major CS:GO BLAST.tv Paris 2023.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1052,6 +1127,7 @@
   {
     "id": "collectible-995",
     "name": "Lọt vào tứ kết tại giải BLAST.tv Paris 2023",
+    "name_original": "CollectibleCoin_Paris2023_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải Major CS:GO BLAST.tv Paris 2023.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1066,6 +1142,7 @@
   {
     "id": "collectible-4933",
     "name": "Đội vô địch giải PGL Copenhagen 2024",
+    "name_original": "CollectibleCoin_cph2024_Champion",
     "description": "Cúp giải đấu này được trao tặng đội vô địch giải Major CS2 PGL Copenhagen 2024.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1080,6 +1157,7 @@
   {
     "id": "collectible-4934",
     "name": "Đội vào chung kết giải PGL Copenhagen 2024",
+    "name_original": "CollectibleCoin_cph2024_Finalist",
     "description": "Cúp giải đấu này được trao tặng đội vào chung kết giải Major CS2 PGL Copenhagen 2024.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1094,6 +1172,7 @@
   {
     "id": "collectible-4935",
     "name": "Đội vào bán kết giải PGL Copenhagen 2024",
+    "name_original": "CollectibleCoin_cph2024_Semifinalist",
     "description": "Cúp giải đấu này được trao tặng đội vào bán kết giải Major CS2 PGL Copenhagen 2024.",
     "rarity": {
       "id": "rarity_ancient",
@@ -1108,6 +1187,7 @@
   {
     "id": "collectible-4936",
     "name": "Đội vào tứ kết giải PGL Copenhagen 2024",
+    "name_original": "CollectibleCoin_cph2024_Quarterfinalist",
     "description": "Cúp giải đấu này được trao tặng đội vào tứ kết giải Major CS2 PGL Copenhagen 2024.",
     "rarity": {
       "id": "rarity_ancient",

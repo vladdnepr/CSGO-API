@@ -2,6 +2,7 @@
   {
     "id": "crate-4610",
     "name": "CS2-kangasmerkkipaketti",
+    "name_original": "crate_patch_pack01",
     "description": "Paketissa on kokoelma tikattuja kangasmerkkejä. Voit käyttää niitä omistamiisi agentteihin.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -226,6 +227,7 @@
   {
     "id": "crate-4614",
     "name": "Kangasmerkkikokoelma: metalli-taitotaso",
+    "name_original": "crate_patch_pack02",
     "description": "Kokoelmassa on erilaisia tikattuja kangasmerkkejä. Voit käyttää niitä omistamiisi agentteihin.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -410,6 +412,7 @@
   {
     "id": "crate-4615",
     "name": "Half-Life: Alyx -kangasmerkkipaketti",
+    "name_original": "crate_patch_pack_hlalyx",
     "description": "Paketissa on kokoelma tikattuja kangasmerkkejä, jotka juhlistavat Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit käyttää niitä omistamiisi agentteihin.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/03/23",
@@ -534,6 +537,7 @@
   {
     "id": "crate-4795",
     "name": "Operaatio Ristiaallokko -kangasmerkkikokoelma",
+    "name_original": "crate_patch_pack03",
     "description": "Kokoelmassa on erilaisia Operaatio Ristiaallokon tikattuja kangasmerkkejä. Voit käyttää niitä omistamiisi agentteihin.",
     "type": "Patch Capsule",
     "first_sale_date": "2021/09/01",
@@ -678,6 +682,7 @@
   {
     "id": "crate-4806",
     "name": "Tukholma 2021 – Legendojen kangasmerkkipaketti",
+    "name_original": "crate_patch_pack_stockh2021_legends",
     "description": "Tämä Tukholma 2021 -paketti sisältää yhden osallistujan korkean tason tai kultakirjaillun kangasmerkin.\\n\\n50 % paketin myyntituloista käytetään paketin organisaatioiden tukemiseen.\\n\\nVoit käyttää merkkiä omistamiisi agentteihin.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -872,6 +877,7 @@
   {
     "id": "crate-4807",
     "name": "Tukholma 2021 – Haastajien kangasmerkkipaketti",
+    "name_original": "crate_patch_pack_stockh2021_challengers",
     "description": "Tämä Tukholma 2021 -paketti sisältää yhden osallistujan korkean tason tai kultakirjaillun kangasmerkin.\\n\\n50 % paketin myyntituloista käytetään paketin organisaatioiden tukemiseen.\\n\\nVoit käyttää merkkiä omistamiisi agentteihin.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -1066,6 +1072,7 @@
   {
     "id": "crate-4808",
     "name": "Tukholma 2021 – Kilpailijoiden kangasmerkkipaketti",
+    "name_original": "crate_patch_pack_stockh2021_contenders",
     "description": "Tämä Tukholma 2021 -paketti sisältää yhden osallistujan korkean tason tai kultakirjaillun kangasmerkin.\\n\\n50 % paketin myyntituloista käytetään paketin organisaatioiden tukemiseen.\\n\\nVoit käyttää merkkiä omistamiisi agentteihin.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",

@@ -2,6 +2,7 @@
   {
     "id": "collectible-874",
     "name": "Монета за 5 лет службы",
+    "name_original": "CollectibleCoin_FiveYearService",
     "description": "За участие в сообществе Counter-Strike на протяжении более пяти лет.",
     "rarity": {
       "id": "rarity_ancient",
@@ -16,6 +17,7 @@
   {
     "id": "collectible-969",
     "name": "Монета за 10 лет службы",
+    "name_original": "CollectibleCoin_TenYearService",
     "description": "За участие в сообществе Counter-Strike на протяжении более десяти лет.",
     "rarity": {
       "id": "rarity_ancient",
@@ -30,6 +32,7 @@
   {
     "id": "collectible-970",
     "name": "Медаль за преданность",
+    "name_original": "CollectibleCoin_FortiusQuoFidelius",
     "description": "Выдаётся преданным членам сообщества Counter-Strike, вступившим в него до выхода обновления «Запретная зона».\\n\\n<i>Сила в преданности.</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -44,6 +47,7 @@
   {
     "id": "collectible-987",
     "name": "Монета десятилетнего юбилея",
+    "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
     "description": "За празднование десятого дня рождения CS:GO вместе с сообществом игры.\\n\\n<i>Отметим десять лет хедшотов, клатчей и дружбы. С днём рождения, CS:GO!</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -58,6 +62,7 @@
   {
     "id": "collectible-996",
     "name": "Медаль Global Offensive",
+    "name_original": "CollectibleCoin_CoinCsgo",
     "description": "Выдаётся преданным членам сообщества Counter-Strike: Global Offensive, вступившим в него до выхода Counter-Strike 2.\\n\\n<i>Легенды не умирают.</i>",
     "rarity": {
       "id": "rarity_ancient",
