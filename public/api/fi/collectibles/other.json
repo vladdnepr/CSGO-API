@@ -3,7 +3,7 @@
     "id": "collectible-874",
     "name": "Viiden vuoden veteraanikolikko",
     "name_original": "CollectibleCoin_FiveYearService",
-    "code": "CollectibleCoin_FiveYearService",
+    "code": "#CSGO_CollectibleCoin_FiveYearService",
     "description": "On ollut Counter-Strike-yhteisön jäsen yli viisi vuotta.",
     "rarity": {
       "id": "rarity_ancient",
@@ -19,7 +19,7 @@
     "id": "collectible-969",
     "name": "Kymmenen vuoden veteraanikolikko",
     "name_original": "CollectibleCoin_TenYearService",
-    "code": "CollectibleCoin_TenYearService",
+    "code": "#CSGO_CollectibleCoin_TenYearService",
     "description": "On ollut Counter-Strike-yhteisön jäsen yli 10 vuotta.",
     "rarity": {
       "id": "rarity_ancient",
@@ -35,7 +35,7 @@
     "id": "collectible-970",
     "name": "Uskollisuusmerkki",
     "name_original": "CollectibleCoin_FortiusQuoFidelius",
-    "code": "CollectibleCoin_FortiusQuoFidelius",
+    "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
     "description": "Merkki juhlistaa Counter-Strike-yhteisön uskollisia jäseniä, jotka olivat mukana jo ennen Vaaravyöhyke-päivitystä.\\n\\n <i>Vahvuus tulee uskollisuuden kautta.</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -51,7 +51,7 @@
     "id": "collectible-987",
     "name": "10-vuotispäivän kolikko",
     "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
-    "code": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
+    "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
     "description": "CS2-yhteisö juhlisti pelin 10-vuotispäivää.\\n\\n<i>10 vuotta pääosumia, Clutch-tappoja ja yhteisöä. Onneksi olkoon, CS2!</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -67,7 +67,7 @@
     "id": "collectible-996",
     "name": "Global Offensive -merkki",
     "name_original": "CollectibleCoin_CoinCsgo",
-    "code": "CollectibleCoin_CoinCsgo",
+    "code": "#CSGO_CollectibleCoin_CoinCsgo",
     "description": "Merkki on kunnianosoitus Counter-Strike: Global Offensive -yhteisön uskollisesta jäsenyydestä ennen Counter-Strike 2:n julkaisua. \\n\\n<i>Legendat eivät koskaan kuole</i>",
     "rarity": {
       "id": "rarity_ancient",

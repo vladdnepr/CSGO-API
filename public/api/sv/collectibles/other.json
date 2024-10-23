@@ -3,7 +3,7 @@
     "id": "collectible-874",
     "name": "5-årsveteranmynt",
     "name_original": "CollectibleCoin_FiveYearService",
-    "code": "CollectibleCoin_FiveYearService",
+    "code": "#CSGO_CollectibleCoin_FiveYearService",
     "description": "Har varit en del av Counter-Strike-gemenskapen i över 5 år.",
     "rarity": {
       "id": "rarity_ancient",
@@ -19,7 +19,7 @@
     "id": "collectible-969",
     "name": "10-årsveteranmynt",
     "name_original": "CollectibleCoin_TenYearService",
-    "code": "CollectibleCoin_TenYearService",
+    "code": "#CSGO_CollectibleCoin_TenYearService",
     "description": "Har varit en del av Counter-Strike-gemenskapen i över 10 år.",
     "rarity": {
       "id": "rarity_ancient",
@@ -35,7 +35,7 @@
     "id": "collectible-970",
     "name": "Lojalitetsmedalj",
     "name_original": "CollectibleCoin_FortiusQuoFidelius",
-    "code": "CollectibleCoin_FortiusQuoFidelius",
+    "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
     "description": "Denna medalj hyllar lojalt medlemskap i Counter-Strike-gemenskapen innan Danger Zone-uppdateringen.\\n\\n<i>Styrka genom lojalitet.</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -51,7 +51,7 @@
     "id": "collectible-987",
     "name": "10-årsmynt",
     "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
-    "code": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
+    "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
     "description": "Firade CS:GO:s 10-årsdag med gemenskapen.\\n\\n<i>Ett firande av tio år av huvudskott, bragder och gemenskap. Grattis på 10-årsdagen CS:GO!</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -67,7 +67,7 @@
     "id": "collectible-996",
     "name": "Global Offensive-märke",
     "name_original": "CollectibleCoin_CoinCsgo",
-    "code": "CollectibleCoin_CoinCsgo",
+    "code": "#CSGO_CollectibleCoin_CoinCsgo",
     "description": "Denna medalj hyllar lojalt medlemskap i Counter-Strike-gemenskapen innan lanseringen av Conuter-Strike 2.\\n\\n<i>Legender dör aldrig.</i>",
     "rarity": {
       "id": "rarity_ancient",

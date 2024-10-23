@@ -2,7 +2,7 @@
   {
     "id": "keychain-1",
     "name": "Breloc | Lil' Ava",
-    "code": "ava",
+    "code": "#keychain_kc_missinglink_ava",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_rare",
@@ -15,7 +15,7 @@
   {
     "id": "keychain-2",
     "name": "Breloc | That's Bananas",
-    "code": "banana",
+    "code": "#keychain_kc_missinglink_banana",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_mythical",
@@ -28,7 +28,7 @@
   {
     "id": "keychain-3",
     "name": "Breloc | Lil' Whiskers",
-    "code": "cat",
+    "code": "#keychain_kc_missinglink_cat",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_mythical",
@@ -41,7 +41,7 @@
   {
     "id": "keychain-4",
     "name": "Breloc | Lil' Sandy",
-    "code": "catbeach",
+    "code": "#keychain_kc_missinglink_catbeach",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_mythical",
@@ -54,7 +54,7 @@
   {
     "id": "keychain-5",
     "name": "Breloc | Chicken Lil'",
-    "code": "chicken",
+    "code": "#keychain_kc_missinglink_chicken",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_mythical",
@@ -67,7 +67,7 @@
   {
     "id": "keychain-6",
     "name": "Breloc | Lil' Crass",
-    "code": "guerilla",
+    "code": "#keychain_kc_missinglink_guerilla",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_rare",
@@ -80,7 +80,7 @@
   {
     "id": "keychain-7",
     "name": "Breloc | Hot Howl",
-    "code": "howl",
+    "code": "#keychain_kc_missinglink_howl",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_ancient",
@@ -93,7 +93,7 @@
   {
     "id": "keychain-8",
     "name": "Breloc | Big Kev",
-    "code": "kev",
+    "code": "#keychain_kc_missinglink_kev",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_rare",
@@ -106,7 +106,7 @@
   {
     "id": "keychain-9",
     "name": "Breloc | Lil' Monster",
-    "code": "monster",
+    "code": "#keychain_kc_missinglink_monster",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_legendary",
@@ -119,7 +119,7 @@
   {
     "id": "keychain-10",
     "name": "Breloc | Hot Sauce",
-    "code": "sam_catchup",
+    "code": "#keychain_kc_missinglink_sam_catchup",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_rare",
@@ -132,7 +132,7 @@
   {
     "id": "keychain-11",
     "name": "Breloc | Diamond Dog",
-    "code": "sam_diamond",
+    "code": "#keychain_kc_missinglink_sam_diamond",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_legendary",
@@ -145,7 +145,7 @@
   {
     "id": "keychain-12",
     "name": "Breloc | Pinch O' Salt",
-    "code": "sam_salty",
+    "code": "#keychain_kc_missinglink_sam_salty",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_rare",
@@ -158,7 +158,7 @@
   {
     "id": "keychain-13",
     "name": "Breloc | Diner Dog",
-    "code": "sam_shape",
+    "code": "#keychain_kc_missinglink_sam_shape",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_legendary",
@@ -171,7 +171,7 @@
   {
     "id": "keychain-14",
     "name": "Breloc | Lil' Teacup",
-    "code": "sam_toile",
+    "code": "#keychain_kc_missinglink_sam_toile",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_mythical",
@@ -184,7 +184,7 @@
   {
     "id": "keychain-15",
     "name": "Breloc | Lil' SAS",
-    "code": "sas",
+    "code": "#keychain_kc_missinglink_sas",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_rare",
@@ -197,7 +197,7 @@
   {
     "id": "keychain-16",
     "name": "Breloc | Hot Wurst",
-    "code": "wurst",
+    "code": "#keychain_kc_missinglink_wurst",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_ancient",
@@ -418,7 +418,7 @@
   {
     "id": "keychain-33",
     "name": "Breloc | Lil' Squatch",
-    "code": "bigfoot",
+    "code": "#keychain_kc_missinglink_bigfoot",
     "description": "Acest breloc poate fi atașat oricărei arme pe care o deții. Fiecare breloc atașat poate fi detașat cu ajutorul unui instrument de detașat brelocuri. Brelocurile detașate vor fi transferate în inventarul tău.",
     "rarity": {
       "id": "rarity_mythical",

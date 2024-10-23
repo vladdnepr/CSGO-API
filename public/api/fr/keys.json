@@ -3,7 +3,7 @@
     "id": "key-generic_valve_key",
     "name": "Clé de caisse CS:GO",
     "name_original": "Tool_WeaponCase_Key",
-    "code": "Tool_WeaponCase_Key",
+    "code": "#CSGO_Tool_WeaponCase_Key",
     "description": "Cette clé ouvre n'importe quelle Caisse d'arme de Valve. Les caisses d'arme non Valve (par exemple les Caisses eSports) nécessitent leur propre clé.",
     "market_hash_name": "CS:GO Case Key",
     "crates": [
@@ -34,7 +34,7 @@
     "id": "key-1204",
     "name": "Clé eSports",
     "name_original": "esports_crate_key_1",
-    "code": "esports_crate_key_1",
+    "code": "#CSGO_esports_crate_key_1",
     "description": "Cette clé ouvre n'importe quelle Caisse eSports.\\n\\nUne partie des recettes provenant de la vente de cette clé ira vers l'un des tournois gérés par la communauté CS:GO. Restez à l'affût des nouvelles annonces.",
     "market_hash_name": "eSports Key",
     "crates": [
@@ -60,7 +60,7 @@
     "id": "key-1212",
     "name": "Clé de capsule CS:GO",
     "name_original": "sticker_crate_key_1",
-    "code": "sticker_crate_key_1",
+    "code": "#CSGO_sticker_crate_key_1",
     "description": "Cette clé ouvre n'importe quelle Capsule de Valve.",
     "market_hash_name": "CS:GO Capsule Key",
     "crates": [
@@ -81,7 +81,7 @@
     "id": "key-1214",
     "name": "Clé de caisse Winter Offensive",
     "name_original": "community_crate_key_1",
-    "code": "community_crate_key_1",
+    "code": "#CSGO_community_crate_key_1",
     "description": "Cette clé ouvre seulement les Caisses d'arme Winter Offensive",
     "market_hash_name": "Winter Offensive Case Key",
     "crates": [
@@ -97,7 +97,7 @@
     "id": "key-1303",
     "name": "Clé de l'Opération Phoenix",
     "name_original": "community_crate_key_2",
-    "code": "community_crate_key_2",
+    "code": "#CSGO_community_crate_key_2",
     "description": "Cette clé ouvre seulement les Caisses d'arme de l'Opération Phoenix",
     "market_hash_name": "Operation Phoenix Case Key",
     "crates": [
@@ -113,7 +113,7 @@
     "id": "key-1304",
     "name": "Clé de Capsule communautaire N°1",
     "name_original": "sticker_crate_key_community01",
-    "code": "sticker_crate_key_community01",
+    "code": "#CSGO_sticker_crate_key_community01",
     "description": "Cette clé ouvre n'importe quelle Capsule à sticker communautaire N°1.\\n\\nUne partie des recettes provenant de la vente de cette clé ira aux créateurs des stickers.",
     "market_hash_name": "Community Sticker Capsule 1 Key",
     "crates": [
@@ -129,7 +129,7 @@
     "id": "key-1305",
     "name": "Clé de caisse Chasseur",
     "name_original": "community_crate_key_3",
-    "code": "community_crate_key_3",
+    "code": "#CSGO_community_crate_key_3",
     "description": "Cette clé ouvre seulement les Caisses d'arme Chasseur",
     "market_hash_name": "Huntsman Case Key",
     "crates": [
@@ -145,7 +145,7 @@
     "id": "key-1309",
     "name": "Clé de l'Opération Breakout",
     "name_original": "community_crate_key_4",
-    "code": "community_crate_key_4",
+    "code": "#CSGO_community_crate_key_4",
     "description": "Cette clé ouvre seulement les Caisses d'arme de l'Opération Breakout",
     "market_hash_name": "Operation Breakout Case Key",
     "crates": [
@@ -161,7 +161,7 @@
     "id": "key-1322",
     "name": "Clé de l'Opération Vanguard",
     "name_original": "community_crate_key_5",
-    "code": "community_crate_key_5",
+    "code": "#CSGO_community_crate_key_5",
     "description": "Cette clé ouvre seulement les Caisses d'arme de l'Opération Vanguard",
     "market_hash_name": "Operation Vanguard Case Key",
     "crates": [
@@ -177,7 +177,7 @@
     "id": "key-1323",
     "name": "Clé de caisse Saturation",
     "name_original": "community_crate_key_6",
-    "code": "community_crate_key_6",
+    "code": "#CSGO_community_crate_key_6",
     "description": "Cette clé ouvre seulement les Caisses d'arme Saturation",
     "market_hash_name": "Chroma Case Key",
     "crates": [
@@ -193,7 +193,7 @@
     "id": "key-1325",
     "name": "Clé de caisse Saturation N°2",
     "name_original": "community_crate_key_7",
-    "code": "community_crate_key_7",
+    "code": "#CSGO_community_crate_key_7",
     "description": "Cette clé ouvre seulement les Caisses d'arme Saturation N°2",
     "market_hash_name": "Chroma 2 Case Key",
     "crates": [
@@ -209,7 +209,7 @@
     "id": "key-1330",
     "name": "Clé de caisse Fauchon",
     "name_original": "community_crate_key_8",
-    "code": "community_crate_key_8",
+    "code": "#CSGO_community_crate_key_8",
     "description": "Cette clé ouvre seulement les Caisses d'arme Fauchon",
     "market_hash_name": "Falchion Case Key",
     "crates": [
@@ -225,7 +225,7 @@
     "id": "key-1333",
     "name": "Clé de caisse Sombre",
     "name_original": "community_crate_key_9",
-    "code": "community_crate_key_9",
+    "code": "#CSGO_community_crate_key_9",
     "description": "Cette clé ouvre seulement les Caisses d'arme Sombre",
     "market_hash_name": "Shadow Case Key",
     "crates": [
@@ -241,7 +241,7 @@
     "id": "key-1334",
     "name": "Clé de caisse Revolver",
     "name_original": "crate_community_10_key",
-    "code": "crate_community_10_key",
+    "code": "#CSGO_crate_community_10_key",
     "description": "Cette clé ouvre seulement les Caisses d'arme Revolver",
     "market_hash_name": "Revolver Case Key",
     "crates": [
@@ -257,7 +257,7 @@
     "id": "key-1347",
     "name": "Clé de caisse Saturation N°3",
     "name_original": "crate_key_community_12",
-    "code": "crate_key_community_12",
+    "code": "#CSGO_crate_key_community_12",
     "description": "Cette clé ouvre seulement les Caisses d'arme Saturation N°3",
     "market_hash_name": "Chroma 3 Case Key",
     "crates": [
@@ -273,7 +273,7 @@
     "id": "key-1350",
     "name": "Clé de caisse Gamma",
     "name_original": "crate_key_community_13",
-    "code": "crate_key_community_13",
+    "code": "#CSGO_crate_key_community_13",
     "description": "Cette clé ouvre seulement les Caisses d'arme Gamma",
     "market_hash_name": "Gamma Case Key",
     "crates": [
@@ -289,7 +289,7 @@
     "id": "key-1351",
     "name": "Clé de caisse Gamma N°2",
     "name_original": "crate_key_gamma_2",
-    "code": "crate_key_gamma_2",
+    "code": "#CSGO_crate_key_gamma_2",
     "description": "Cette clé ouvre seulement les Caisses d'arme Gamma N°2",
     "market_hash_name": "Gamma 2 Case Key",
     "crates": [
@@ -305,7 +305,7 @@
     "id": "key-1356",
     "name": "Clé de caisse de gants",
     "name_original": "crate_key_community_15",
-    "code": "crate_key_community_15",
+    "code": "#CSGO_crate_key_community_15",
     "description": "Cette clé ouvre seulement les Caisses de gants",
     "market_hash_name": "Glove Case Key",
     "crates": [
@@ -321,7 +321,7 @@
     "id": "key-1364",
     "name": "Clé de caisse spectrale",
     "name_original": "crate_key_community_16",
-    "code": "crate_key_community_16",
+    "code": "#CSGO_crate_key_community_16",
     "description": "Cette clé ouvre seulement les Caisses d'arme spectrales",
     "market_hash_name": "Spectrum Case Key",
     "crates": [
@@ -337,7 +337,7 @@
     "id": "key-1365",
     "name": "Clé de caisse Hydra",
     "name_original": "crate_key_community_17",
-    "code": "crate_key_community_17",
+    "code": "#CSGO_crate_key_community_17",
     "description": "Cette clé ouvre seulement les Caisses d'arme Hydra",
     "market_hash_name": "Operation Hydra Case Key",
     "crates": [
@@ -353,7 +353,7 @@
     "id": "key-1366",
     "name": "Clé de caisse spectrale N°2",
     "name_original": "crate_key_community_18",
-    "code": "crate_key_community_18",
+    "code": "#CSGO_crate_key_community_18",
     "description": "Cette clé ouvre seulement les Caisses d'arme spectrales N°2",
     "market_hash_name": "Spectrum 2 Case Key",
     "crates": [
@@ -369,7 +369,7 @@
     "id": "key-1373",
     "name": "Clé de caisse du dernier survivant",
     "name_original": "crate_key_community_19",
-    "code": "crate_key_community_19",
+    "code": "#CSGO_crate_key_community_19",
     "description": "Cette clé ouvre seulement les Caisses du dernier survivant",
     "market_hash_name": "Clutch Case Key",
     "crates": [
@@ -385,7 +385,7 @@
     "id": "key-1374",
     "name": "Clé de caisse Horizon",
     "name_original": "crate_key_community_20",
-    "code": "crate_key_community_20",
+    "code": "#CSGO_crate_key_community_20",
     "description": "Cette clé ouvre seulement les Caisses d'arme Horizon",
     "market_hash_name": "Horizon Case Key",
     "crates": [
@@ -401,7 +401,7 @@
     "id": "key-1375",
     "name": "Clé de caisse Zone de danger",
     "name_original": "crate_key_community_21",
-    "code": "crate_key_community_21",
+    "code": "#CSGO_crate_key_community_21",
     "description": "Cette clé ouvre seulement les caisses Zone de danger",
     "market_hash_name": "Danger Zone Case Key",
     "crates": [
@@ -417,7 +417,7 @@
     "id": "key-1383",
     "name": "Clé de caisse Prisma",
     "name_original": "crate_key_community_22",
-    "code": "crate_key_community_22",
+    "code": "#CSGO_crate_key_community_22",
     "description": "Cette clé ouvre seulement les caisses d'arme Prisma",
     "market_hash_name": "Prisma Case Key",
     "crates": [
@@ -433,7 +433,7 @@
     "id": "key-1384",
     "name": "Clé de caisse Shattered Web",
     "name_original": "crate_key_community_23",
-    "code": "crate_key_community_23",
+    "code": "#CSGO_crate_key_community_23",
     "description": "Cette clé ouvre uniquement les caisses Shattered Web",
     "market_hash_name": "Shattered Web Case Key",
     "crates": [
@@ -449,7 +449,7 @@
     "id": "key-1385",
     "name": "Clé de caisse CS20",
     "name_original": "crate_key_community_24",
-    "code": "crate_key_community_24",
+    "code": "#CSGO_crate_key_community_24",
     "description": "Cette clé ouvre seulement les caisses d'arme CS20",
     "market_hash_name": "CS20 Case Key",
     "crates": [
@@ -465,7 +465,7 @@
     "id": "key-1386",
     "name": "Clé de caisse Prisma 2",
     "name_original": "crate_key_community_25",
-    "code": "crate_key_community_25",
+    "code": "#CSGO_crate_key_community_25",
     "description": "Cette clé ouvre seulement les caisses d'armes Prisma 2",
     "market_hash_name": "Prisma 2 Case Key",
     "crates": [
@@ -481,7 +481,7 @@
     "id": "key-1387",
     "name": "Clé de caisse Fracture",
     "name_original": "crate_key_community_26",
-    "code": "crate_key_community_26",
+    "code": "#CSGO_crate_key_community_26",
     "description": "Cette clé ouvre seulement les caisses d'armes Fracture",
     "market_hash_name": "Fracture Case Key",
     "crates": [
@@ -497,7 +497,7 @@
     "id": "key-1388",
     "name": "Clé de caisse de l'Opération Broken Fang",
     "name_original": "crate_key_community_27",
-    "code": "crate_key_community_27",
+    "code": "#CSGO_crate_key_community_27",
     "description": "Cette clé ouvre uniquement les caisses d'arme de l'Opération Broken Fang",
     "market_hash_name": "Operation Broken Fang Case Key",
     "crates": [
@@ -513,7 +513,7 @@
     "id": "key-1389",
     "name": "Clé de caisse envenimée",
     "name_original": "crate_key_community_28",
-    "code": "crate_key_community_28",
+    "code": "#CSGO_crate_key_community_28",
     "description": "Cette clé ouvre seulement les caisses d'armes envenimées",
     "market_hash_name": "Snakebite Case Key",
     "crates": [
@@ -529,7 +529,7 @@
     "id": "key-1390",
     "name": "Clé de caisse de l'Opération Riptide",
     "name_original": "crate_key_community_29",
-    "code": "crate_key_community_29",
+    "code": "#CSGO_crate_key_community_29",
     "description": "Cette clé ouvre uniquement les caisses de l'Opération Riptide",
     "market_hash_name": "Operation Riptide Case Key",
     "crates": [
@@ -545,7 +545,7 @@
     "id": "key-1391",
     "name": "Clé de caisse Rêves et cauchemars",
     "name_original": "crate_key_community_30",
-    "code": "crate_key_community_30",
+    "code": "#CSGO_crate_key_community_30",
     "description": "Cette clé ouvre seulement les caisses d'armes Rêves et cauchemars",
     "market_hash_name": "Dreams & Nightmares Case Key",
     "crates": [
@@ -561,7 +561,7 @@
     "id": "key-1392",
     "name": "Clé de caisse Recul du serpent",
     "name_original": "crate_key_community_31",
-    "code": "crate_key_community_31",
+    "code": "#CSGO_crate_key_community_31",
     "description": "Cette clé ouvre seulement les caisses Recul du serpent",
     "market_hash_name": "Recoil Case Key",
     "crates": [
@@ -577,7 +577,7 @@
     "id": "key-1393",
     "name": "Clé de caisse Révolution",
     "name_original": "crate_key_community_32",
-    "code": "crate_key_community_32",
+    "code": "#CSGO_crate_key_community_32",
     "description": "Cette clé ouvre seulement les caisses Révolution.",
     "market_hash_name": "Revolution Case Key",
     "crates": [
@@ -593,7 +593,7 @@
     "id": "key-1394",
     "name": "Clé de caisse Kilowatt",
     "name_original": "crate_key_community_33",
-    "code": "crate_key_community_33",
+    "code": "#CSGO_crate_key_community_33",
     "description": "Cette clé ouvre seulement les caisses Kilowatt",
     "market_hash_name": "Kilowatt Case Key",
     "crates": [
@@ -609,7 +609,7 @@
     "id": "key-7000",
     "name": "Clé de caisse Wildfire",
     "name_original": "crate_key_community_11",
-    "code": "crate_key_community_11",
+    "code": "#CSGO_crate_key_community_11",
     "description": "Cette clé ouvre seulement les Caisses d'arme Wildfire",
     "market_hash_name": "Operation Wildfire Case Key",
     "crates": [
@@ -625,7 +625,7 @@
     "id": "key-7002",
     "name": "Clé de caisse de Galerie",
     "name_original": "crate_key_community_34",
-    "code": "crate_key_community_34",
+    "code": "#CSGO_crate_key_community_34",
     "description": "Cette clé ouvre seulement les caisses d'armes de Galerie.",
     "market_hash_name": "Gallery Case Key",
     "crates": [

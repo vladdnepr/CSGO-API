@@ -2,7 +2,7 @@
   {
     "id": "keychain-1",
     "name": "Porte-bonheur | Mini Ava",
-    "code": "ava",
+    "code": "#keychain_kc_missinglink_ava",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_rare",
@@ -15,7 +15,7 @@
   {
     "id": "keychain-2",
     "name": "Porte-bonheur | Mini banane",
-    "code": "banana",
+    "code": "#keychain_kc_missinglink_banana",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_mythical",
@@ -28,7 +28,7 @@
   {
     "id": "keychain-3",
     "name": "Porte-bonheur | Mini matou",
-    "code": "cat",
+    "code": "#keychain_kc_missinglink_cat",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_mythical",
@@ -41,7 +41,7 @@
   {
     "id": "keychain-4",
     "name": "Porte-bonheur | Mini Sandy",
-    "code": "catbeach",
+    "code": "#keychain_kc_missinglink_catbeach",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_mythical",
@@ -54,7 +54,7 @@
   {
     "id": "keychain-5",
     "name": "Porte-bonheur | Mini poulet",
-    "code": "chicken",
+    "code": "#keychain_kc_missinglink_chicken",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_mythical",
@@ -67,7 +67,7 @@
   {
     "id": "keychain-6",
     "name": "Porte-bonheur | Mini Crass",
-    "code": "guerilla",
+    "code": "#keychain_kc_missinglink_guerilla",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_rare",
@@ -80,7 +80,7 @@
   {
     "id": "keychain-7",
     "name": "Porte-bonheur | Mini molosse",
-    "code": "howl",
+    "code": "#keychain_kc_missinglink_howl",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_ancient",
@@ -93,7 +93,7 @@
   {
     "id": "keychain-8",
     "name": "Porte-bonheur | Mini Kev",
-    "code": "kev",
+    "code": "#keychain_kc_missinglink_kev",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_rare",
@@ -106,7 +106,7 @@
   {
     "id": "keychain-9",
     "name": "Porte-bonheur | Mini monstre",
-    "code": "monster",
+    "code": "#keychain_kc_missinglink_monster",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_legendary",
@@ -119,7 +119,7 @@
   {
     "id": "keychain-10",
     "name": "Porte-bonheur | Sauce piquante",
-    "code": "sam_catchup",
+    "code": "#keychain_kc_missinglink_sam_catchup",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_rare",
@@ -132,7 +132,7 @@
   {
     "id": "keychain-11",
     "name": "Porte-bonheur | Mini diamant",
-    "code": "sam_diamond",
+    "code": "#keychain_kc_missinglink_sam_diamond",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_legendary",
@@ -145,7 +145,7 @@
   {
     "id": "keychain-12",
     "name": "Porte-bonheur | Pincée de sel",
-    "code": "sam_salty",
+    "code": "#keychain_kc_missinglink_sam_salty",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_rare",
@@ -158,7 +158,7 @@
   {
     "id": "keychain-13",
     "name": "Porte-bonheur | Mini hot-dog",
-    "code": "sam_shape",
+    "code": "#keychain_kc_missinglink_sam_shape",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_legendary",
@@ -171,7 +171,7 @@
   {
     "id": "keychain-14",
     "name": "Porte-bonheur | Mini porcelaine",
-    "code": "sam_toile",
+    "code": "#keychain_kc_missinglink_sam_toile",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_mythical",
@@ -184,7 +184,7 @@
   {
     "id": "keychain-15",
     "name": "Porte-bonheur | Mini SAS",
-    "code": "sas",
+    "code": "#keychain_kc_missinglink_sas",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_rare",
@@ -197,7 +197,7 @@
   {
     "id": "keychain-16",
     "name": "Porte-bonheur | Mini coup de chaud",
-    "code": "wurst",
+    "code": "#keychain_kc_missinglink_wurst",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_ancient",
@@ -418,7 +418,7 @@
   {
     "id": "keychain-33",
     "name": "Porte-bonheur | Mini Bigfoot",
-    "code": "bigfoot",
+    "code": "#keychain_kc_missinglink_bigfoot",
     "description": "Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
     "rarity": {
       "id": "rarity_mythical",

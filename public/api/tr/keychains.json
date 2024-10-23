@@ -2,7 +2,7 @@
   {
     "id": "keychain-1",
     "name": "Süs | Minik Ava",
-    "code": "ava",
+    "code": "#keychain_kc_missinglink_ava",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_rare",
@@ -15,7 +15,7 @@
   {
     "id": "keychain-2",
     "name": "Süs | Muz Kafa",
-    "code": "banana",
+    "code": "#keychain_kc_missinglink_banana",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_mythical",
@@ -28,7 +28,7 @@
   {
     "id": "keychain-3",
     "name": "Süs | Tüylü Ufaklık",
-    "code": "cat",
+    "code": "#keychain_kc_missinglink_cat",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_mythical",
@@ -41,7 +41,7 @@
   {
     "id": "keychain-4",
     "name": "Süs | Kumlu Ufaklık",
-    "code": "catbeach",
+    "code": "#keychain_kc_missinglink_catbeach",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_mythical",
@@ -54,7 +54,7 @@
   {
     "id": "keychain-5",
     "name": "Süs | Minik Tavuk",
-    "code": "chicken",
+    "code": "#keychain_kc_missinglink_chicken",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_mythical",
@@ -67,7 +67,7 @@
   {
     "id": "keychain-6",
     "name": "Süs | Minik Serseri",
-    "code": "guerilla",
+    "code": "#keychain_kc_missinglink_guerilla",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_rare",
@@ -80,7 +80,7 @@
   {
     "id": "keychain-7",
     "name": "Süs | Uluyan Sosis",
-    "code": "howl",
+    "code": "#keychain_kc_missinglink_howl",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_ancient",
@@ -93,7 +93,7 @@
   {
     "id": "keychain-8",
     "name": "Süs | Büyük Kev",
-    "code": "kev",
+    "code": "#keychain_kc_missinglink_kev",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_rare",
@@ -106,7 +106,7 @@
   {
     "id": "keychain-9",
     "name": "Süs | Minik Canavar",
-    "code": "monster",
+    "code": "#keychain_kc_missinglink_monster",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_legendary",
@@ -119,7 +119,7 @@
   {
     "id": "keychain-10",
     "name": "Süs | Acı Sos",
-    "code": "sam_catchup",
+    "code": "#keychain_kc_missinglink_sam_catchup",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_rare",
@@ -132,7 +132,7 @@
   {
     "id": "keychain-11",
     "name": "Süs | Elmas Sosisli",
-    "code": "sam_diamond",
+    "code": "#keychain_kc_missinglink_sam_diamond",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_legendary",
@@ -145,7 +145,7 @@
   {
     "id": "keychain-12",
     "name": "Süs | Tuzluk Kafa",
-    "code": "sam_salty",
+    "code": "#keychain_kc_missinglink_sam_salty",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_rare",
@@ -158,7 +158,7 @@
   {
     "id": "keychain-13",
     "name": "Süs | Renkli Sosisli",
-    "code": "sam_shape",
+    "code": "#keychain_kc_missinglink_sam_shape",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_legendary",
@@ -171,7 +171,7 @@
   {
     "id": "keychain-14",
     "name": "Süs | Minik Fincan",
-    "code": "sam_toile",
+    "code": "#keychain_kc_missinglink_sam_toile",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_mythical",
@@ -184,7 +184,7 @@
   {
     "id": "keychain-15",
     "name": "Süs | Minik SAS",
-    "code": "sas",
+    "code": "#keychain_kc_missinglink_sas",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_rare",
@@ -197,7 +197,7 @@
   {
     "id": "keychain-16",
     "name": "Süs | Sıcak Sosis",
-    "code": "wurst",
+    "code": "#keychain_kc_missinglink_wurst",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_ancient",
@@ -418,7 +418,7 @@
   {
     "id": "keychain-33",
     "name": "Süs | Minik Ayak",
-    "code": "bigfoot",
+    "code": "#keychain_kc_missinglink_bigfoot",
     "description": "Bu süs sahip olduğun herhangi bir silaha takılabilir. Takılan her süs, bir süs çıkarıcısı kullanılarak çıkarılabilir. Çıkarılan süsler envanterine geri eklenir.",
     "rarity": {
       "id": "rarity_mythical",

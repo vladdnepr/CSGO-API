@@ -3,7 +3,7 @@
     "id": "collectible-874",
     "name": "Νόμισμα βετεράνου 5 χρόνων",
     "name_original": "CollectibleCoin_FiveYearService",
-    "code": "CollectibleCoin_FiveYearService",
+    "code": "#CSGO_CollectibleCoin_FiveYearService",
     "description": "Είναι μέλος της κοινότητας Counter-Strike για πάνω από 5 χρόνια.",
     "rarity": {
       "id": "rarity_ancient",
@@ -19,7 +19,7 @@
     "id": "collectible-969",
     "name": "Νόμισμα βετεράνου 10 χρόνων",
     "name_original": "CollectibleCoin_TenYearService",
-    "code": "CollectibleCoin_TenYearService",
+    "code": "#CSGO_CollectibleCoin_TenYearService",
     "description": "Είναι μέλος της κοινότητας Counter-Strike για πάνω από 10 χρόνια.",
     "rarity": {
       "id": "rarity_ancient",
@@ -35,7 +35,7 @@
     "id": "collectible-970",
     "name": "Έμβλημα Αφοσίωσης",
     "name_original": "CollectibleCoin_FortiusQuoFidelius",
-    "code": "CollectibleCoin_FortiusQuoFidelius",
+    "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
     "description": "Αυτό το έμβλημα τιμά την πιστή αφοσίωση των μελών της κοινότητας του Counter-Strike πριν την ενημέρωση Ζώνης Κινδύνου. \\n\\n<i>Δύναμη μέσω αφοσίωσης.</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -51,7 +51,7 @@
     "id": "collectible-987",
     "name": "Νόμισμα Γενεθλίων 10 χρόνων",
     "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
-    "code": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
+    "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
     "description": "Γιόρτασε τα δέκατα γενέθλια του CS:GO με την Κοινότητα του CS:GO.\\n\\n<i>Γιορτάζουμε δέκα χρόνια με κεφαλίδια, ανέλπιστους σκοτωμούς και με την Κοινότητα. Χρόνια πολλά για τα δέκατα γενέθλιά σου, CS:GO!</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -67,7 +67,7 @@
     "id": "collectible-996",
     "name": "Έμβλημα Global Offensive",
     "name_original": "CollectibleCoin_CoinCsgo",
-    "code": "CollectibleCoin_CoinCsgo",
+    "code": "#CSGO_CollectibleCoin_CoinCsgo",
     "description": "Αυτό το έμβλημα τιμά την πιστή αφοσίωση στην κοινότητα του Counter-Strike: Global Offensive πριν την κυκλοφορία του Counter-Strike 2.\\n\\n<i>Οι θρύλοι είναι αθάνατοι.</i>",
     "rarity": {
       "id": "rarity_ancient",

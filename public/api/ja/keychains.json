@@ -2,7 +2,7 @@
   {
     "id": "keychain-1",
     "name": "チャーム | Lil' Ava",
-    "code": "ava",
+    "code": "#keychain_kc_missinglink_ava",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_rare",
@@ -15,7 +15,7 @@
   {
     "id": "keychain-2",
     "name": "チャーム | That's Bananas",
-    "code": "banana",
+    "code": "#keychain_kc_missinglink_banana",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_mythical",
@@ -28,7 +28,7 @@
   {
     "id": "keychain-3",
     "name": "チャーム | Lil' Whiskers",
-    "code": "cat",
+    "code": "#keychain_kc_missinglink_cat",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_mythical",
@@ -41,7 +41,7 @@
   {
     "id": "keychain-4",
     "name": "チャーム | Lil' Sandy",
-    "code": "catbeach",
+    "code": "#keychain_kc_missinglink_catbeach",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_mythical",
@@ -54,7 +54,7 @@
   {
     "id": "keychain-5",
     "name": "チャーム | Chicken Lil'",
-    "code": "chicken",
+    "code": "#keychain_kc_missinglink_chicken",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_mythical",
@@ -67,7 +67,7 @@
   {
     "id": "keychain-6",
     "name": "チャーム | Lil' Crass",
-    "code": "guerilla",
+    "code": "#keychain_kc_missinglink_guerilla",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_rare",
@@ -80,7 +80,7 @@
   {
     "id": "keychain-7",
     "name": "チャーム | Hot Howl",
-    "code": "howl",
+    "code": "#keychain_kc_missinglink_howl",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_ancient",
@@ -93,7 +93,7 @@
   {
     "id": "keychain-8",
     "name": "チャーム | Big Kev",
-    "code": "kev",
+    "code": "#keychain_kc_missinglink_kev",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_rare",
@@ -106,7 +106,7 @@
   {
     "id": "keychain-9",
     "name": "チャーム | Lil' Monster",
-    "code": "monster",
+    "code": "#keychain_kc_missinglink_monster",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_legendary",
@@ -119,7 +119,7 @@
   {
     "id": "keychain-10",
     "name": "チャーム | Hot Sauce",
-    "code": "sam_catchup",
+    "code": "#keychain_kc_missinglink_sam_catchup",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_rare",
@@ -132,7 +132,7 @@
   {
     "id": "keychain-11",
     "name": "チャーム | Diamond Dog",
-    "code": "sam_diamond",
+    "code": "#keychain_kc_missinglink_sam_diamond",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_legendary",
@@ -145,7 +145,7 @@
   {
     "id": "keychain-12",
     "name": "チャーム | Pinch O' Salt",
-    "code": "sam_salty",
+    "code": "#keychain_kc_missinglink_sam_salty",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_rare",
@@ -158,7 +158,7 @@
   {
     "id": "keychain-13",
     "name": "チャーム | Diner Dog",
-    "code": "sam_shape",
+    "code": "#keychain_kc_missinglink_sam_shape",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_legendary",
@@ -171,7 +171,7 @@
   {
     "id": "keychain-14",
     "name": "チャーム | Lil' Teacup",
-    "code": "sam_toile",
+    "code": "#keychain_kc_missinglink_sam_toile",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_mythical",
@@ -184,7 +184,7 @@
   {
     "id": "keychain-15",
     "name": "チャーム | Lil' SAS",
-    "code": "sas",
+    "code": "#keychain_kc_missinglink_sas",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_rare",
@@ -197,7 +197,7 @@
   {
     "id": "keychain-16",
     "name": "チャーム | Hot Wurst",
-    "code": "wurst",
+    "code": "#keychain_kc_missinglink_wurst",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_ancient",
@@ -418,7 +418,7 @@
   {
     "id": "keychain-33",
     "name": "チャーム | Lil' Squatch",
-    "code": "bigfoot",
+    "code": "#keychain_kc_missinglink_bigfoot",
     "description": "このチャームは、所有するどの武器にも装着できます。装着したチャームは、チャームデタッチを使えば取り外せます。取り外したチャームはインベントリに戻されます。",
     "rarity": {
       "id": "rarity_mythical",

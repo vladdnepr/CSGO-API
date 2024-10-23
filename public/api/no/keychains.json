@@ -2,7 +2,7 @@
   {
     "id": "keychain-1",
     "name": "Anheng | Lil' Ava",
-    "code": "ava",
+    "code": "#keychain_kc_missinglink_ava",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_rare",
@@ -15,7 +15,7 @@
   {
     "id": "keychain-2",
     "name": "Anheng | That's Bananas",
-    "code": "banana",
+    "code": "#keychain_kc_missinglink_banana",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_mythical",
@@ -28,7 +28,7 @@
   {
     "id": "keychain-3",
     "name": "Anheng | Lil' Whiskers",
-    "code": "cat",
+    "code": "#keychain_kc_missinglink_cat",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_mythical",
@@ -41,7 +41,7 @@
   {
     "id": "keychain-4",
     "name": "Anheng | Lil' Sandy",
-    "code": "catbeach",
+    "code": "#keychain_kc_missinglink_catbeach",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_mythical",
@@ -54,7 +54,7 @@
   {
     "id": "keychain-5",
     "name": "Anheng | Chicken Lil'",
-    "code": "chicken",
+    "code": "#keychain_kc_missinglink_chicken",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_mythical",
@@ -67,7 +67,7 @@
   {
     "id": "keychain-6",
     "name": "Anheng | Lil' Crass",
-    "code": "guerilla",
+    "code": "#keychain_kc_missinglink_guerilla",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_rare",
@@ -80,7 +80,7 @@
   {
     "id": "keychain-7",
     "name": "Anheng | Hot Howl",
-    "code": "howl",
+    "code": "#keychain_kc_missinglink_howl",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_ancient",
@@ -93,7 +93,7 @@
   {
     "id": "keychain-8",
     "name": "Anheng | Big Kev",
-    "code": "kev",
+    "code": "#keychain_kc_missinglink_kev",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_rare",
@@ -106,7 +106,7 @@
   {
     "id": "keychain-9",
     "name": "Anheng | Lil' Monster",
-    "code": "monster",
+    "code": "#keychain_kc_missinglink_monster",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_legendary",
@@ -119,7 +119,7 @@
   {
     "id": "keychain-10",
     "name": "Anheng | Hot Sauce",
-    "code": "sam_catchup",
+    "code": "#keychain_kc_missinglink_sam_catchup",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_rare",
@@ -132,7 +132,7 @@
   {
     "id": "keychain-11",
     "name": "Anheng | Diamond Dog",
-    "code": "sam_diamond",
+    "code": "#keychain_kc_missinglink_sam_diamond",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_legendary",
@@ -145,7 +145,7 @@
   {
     "id": "keychain-12",
     "name": "Anheng | Pinch O' Salt",
-    "code": "sam_salty",
+    "code": "#keychain_kc_missinglink_sam_salty",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_rare",
@@ -158,7 +158,7 @@
   {
     "id": "keychain-13",
     "name": "Anheng | Diner Dog",
-    "code": "sam_shape",
+    "code": "#keychain_kc_missinglink_sam_shape",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_legendary",
@@ -171,7 +171,7 @@
   {
     "id": "keychain-14",
     "name": "Anheng | Lil' Teacup",
-    "code": "sam_toile",
+    "code": "#keychain_kc_missinglink_sam_toile",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_mythical",
@@ -184,7 +184,7 @@
   {
     "id": "keychain-15",
     "name": "Anheng | Lil' SAS",
-    "code": "sas",
+    "code": "#keychain_kc_missinglink_sas",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_rare",
@@ -197,7 +197,7 @@
   {
     "id": "keychain-16",
     "name": "Anheng | Hot Wurst",
-    "code": "wurst",
+    "code": "#keychain_kc_missinglink_wurst",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_ancient",
@@ -418,7 +418,7 @@
   {
     "id": "keychain-33",
     "name": "Anheng | Lil' Squatch",
-    "code": "bigfoot",
+    "code": "#keychain_kc_missinglink_bigfoot",
     "description": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
     "rarity": {
       "id": "rarity_mythical",

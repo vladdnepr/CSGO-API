@@ -3,7 +3,7 @@
     "id": "collectible-1001",
     "name": "Operation Payback チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonOneSpring2013_Coin1",
-    "code": "Collectible_CommunitySeasonOneSpring2013_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
     "description": "コミュニティのマップ作成者達を支援するために、 Operation Payback に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -19,7 +19,7 @@
     "id": "collectible-1002",
     "name": "Operation Payback シルバー　チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonOneSpring2013_Coin2",
-    "code": "Collectible_CommunitySeasonOneSpring2013_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
     "description": "コミュニティのマップ作成者達を支援するために、10時間Operation Paybackに参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -35,7 +35,7 @@
     "id": "collectible-1003",
     "name": "Operation Payback ゴールドチャレンジコイン",
     "name_original": "Collectible_CommunitySeasonOneSpring2013_Coin3",
-    "code": "Collectible_CommunitySeasonOneSpring2013_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
     "description": "コミュニティのマップ作成者達を支援するために、50時間Operation Paybackに参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -51,7 +51,7 @@
     "id": "collectible-1013",
     "name": "Operation Bravo チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonTwoAutumn2013_Coin1",
-    "code": "Collectible_CommunitySeasonTwoAutumn2013_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
     "description": "Operation Bravo に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -67,7 +67,7 @@
     "id": "collectible-1014",
     "name": "Operation Bravo シルバー コイン",
     "name_original": "Collectible_CommunitySeasonTwoAutumn2013_Coin2",
-    "code": "Collectible_CommunitySeasonTwoAutumn2013_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
     "description": "Operation Bravo に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -83,7 +83,7 @@
     "id": "collectible-1015",
     "name": "Operation Bravo ゴールドコイン",
     "name_original": "Collectible_CommunitySeasonTwoAutumn2013_Coin3",
-    "code": "Collectible_CommunitySeasonTwoAutumn2013_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
     "description": "Operation Bravo に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -99,7 +99,7 @@
     "id": "collectible-1024",
     "name": "Operation Phoenix チャレンジ コイン",
     "name_original": "Collectible_CommunitySeasonThreeSpring2014_Coin1",
-    "code": "Collectible_CommunitySeasonThreeSpring2014_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
     "description": "Operation Phoenix に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -115,7 +115,7 @@
     "id": "collectible-1025",
     "name": "Operation Phoenix シルバー コイン",
     "name_original": "Collectible_CommunitySeasonThreeSpring2014_Coin2",
-    "code": "Collectible_CommunitySeasonThreeSpring2014_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
     "description": "Operation Phoenix に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -131,7 +131,7 @@
     "id": "collectible-1026",
     "name": "Operation Phoenix ゴールド コイン",
     "name_original": "Collectible_CommunitySeasonThreeSpring2014_Coin3",
-    "code": "Collectible_CommunitySeasonThreeSpring2014_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
     "description": "Operation Phoenix に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -147,7 +147,7 @@
     "id": "collectible-1028",
     "name": "Operation Breakout チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonFourSummer2014_Coin1",
-    "code": "Collectible_CommunitySeasonFourSummer2014_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
     "description": "Operation Breakout に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -163,7 +163,7 @@
     "id": "collectible-1029",
     "name": "Operation Breakout シルバーコイン",
     "name_original": "Collectible_CommunitySeasonFourSummer2014_Coin2",
-    "code": "Collectible_CommunitySeasonFourSummer2014_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
     "description": "Operation Breakout に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -179,7 +179,7 @@
     "id": "collectible-1030",
     "name": "Operation Breakout ゴールドコイン",
     "name_original": "Collectible_CommunitySeasonFourSummer2014_Coin3",
-    "code": "Collectible_CommunitySeasonFourSummer2014_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
     "description": "Operation Breakout に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -195,7 +195,7 @@
     "id": "collectible-1316",
     "name": "Operation Vanguard チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonFiveSummer2014_Coin1",
-    "code": "Collectible_CommunitySeasonFiveSummer2014_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
     "description": "Operation Vanguard に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -211,7 +211,7 @@
     "id": "collectible-1317",
     "name": "Operation Vanguard シルバーコイン",
     "name_original": "Collectible_CommunitySeasonFiveSummer2014_Coin2",
-    "code": "Collectible_CommunitySeasonFiveSummer2014_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
     "description": "Operation Vanguard に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -227,7 +227,7 @@
     "id": "collectible-1318",
     "name": "Operation Vanguard ゴールドコイン",
     "name_original": "Collectible_CommunitySeasonFiveSummer2014_Coin3",
-    "code": "Collectible_CommunitySeasonFiveSummer2014_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
     "description": "Operation Vanguard に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -243,7 +243,7 @@
     "id": "collectible-1327",
     "name": "Operation Bloodhound チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonSix2015_Coin1",
-    "code": "Collectible_CommunitySeasonSix2015_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
     "description": "Operation Bloodhound に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -259,7 +259,7 @@
     "id": "collectible-1328",
     "name": "Operation Bloodhound \bシルバーコイン",
     "name_original": "Collectible_CommunitySeasonSix2015_Coin2",
-    "code": "Collectible_CommunitySeasonSix2015_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
     "description": "Operation Bloodhound に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -275,7 +275,7 @@
     "id": "collectible-1329",
     "name": "Operation Bloodhound ゴールドコイン",
     "name_original": "Collectible_CommunitySeasonSix2015_Coin3",
-    "code": "Collectible_CommunitySeasonSix2015_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
     "description": "Operation Bloodhound に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -291,7 +291,7 @@
     "id": "collectible-1336",
     "name": "Operation Wildfire チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonSeven2016_Coin1",
-    "code": "Collectible_CommunitySeasonSeven2016_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
     "description": "Operation Wildfireに参加しました。",
     "rarity": {
       "id": "rarity_ancient",
@@ -307,7 +307,7 @@
     "id": "collectible-1337",
     "name": "Operation Wildfire シルバーコイン",
     "name_original": "Collectible_CommunitySeasonSeven2016_Coin2",
-    "code": "Collectible_CommunitySeasonSeven2016_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
     "description": "Operation Wildfireに参加しました。",
     "rarity": {
       "id": "rarity_ancient",
@@ -323,7 +323,7 @@
     "id": "collectible-1338",
     "name": "Operation Wildfire ゴールドコイン",
     "name_original": "Collectible_CommunitySeasonSeven2016_Coin3",
-    "code": "Collectible_CommunitySeasonSeven2016_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
     "description": "Operation Wildfireに参加しました。",
     "rarity": {
       "id": "rarity_ancient",
@@ -339,7 +339,7 @@
     "id": "collectible-4353",
     "name": "Operation Hydra チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonEight2017_Coin1",
-    "code": "Collectible_CommunitySeasonEight2017_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
     "description": "Operation Hydraに参加しました。",
     "rarity": {
       "id": "rarity_ancient",
@@ -355,7 +355,7 @@
     "id": "collectible-4354",
     "name": "Operation Hydra シルバー コイン",
     "name_original": "Collectible_CommunitySeasonEight2017_Coin2",
-    "code": "Collectible_CommunitySeasonEight2017_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
     "description": "Operation Hydraに参加しました。",
     "rarity": {
       "id": "rarity_ancient",
@@ -371,7 +371,7 @@
     "id": "collectible-4355",
     "name": "Operation Hydra ゴールドコイン",
     "name_original": "Collectible_CommunitySeasonEight2017_Coin3",
-    "code": "Collectible_CommunitySeasonEight2017_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
     "description": "Operation Hydraに参加しました。",
     "rarity": {
       "id": "rarity_ancient",
@@ -387,7 +387,7 @@
     "id": "collectible-4356",
     "name": "Operation Hydra ダイヤモンドコイン",
     "name_original": "Collectible_CommunitySeasonEight2017_Coin4",
-    "code": "Collectible_CommunitySeasonEight2017_Coin4",
+    "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
     "description": "Operation Hydra をクリアした。",
     "rarity": {
       "id": "rarity_ancient",
@@ -403,7 +403,7 @@
     "id": "collectible-4550",
     "name": "Operation Shattered Web チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonNine2019_Coin1",
-    "code": "Collectible_CommunitySeasonNine2019_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
     "description": "Operation Shattered Web に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -419,7 +419,7 @@
     "id": "collectible-4551",
     "name": "Operation Shattered Web シルバーコイン",
     "name_original": "Collectible_CommunitySeasonNine2019_Coin2",
-    "code": "Collectible_CommunitySeasonNine2019_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
     "description": "Operation Shattered Web に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -435,7 +435,7 @@
     "id": "collectible-4552",
     "name": "Operation Shattered Web ゴールドコイン",
     "name_original": "Collectible_CommunitySeasonNine2019_Coin3",
-    "code": "Collectible_CommunitySeasonNine2019_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
     "description": "Operation Shattered Web に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -451,7 +451,7 @@
     "id": "collectible-4553",
     "name": "Operation Shattered Web ダイヤモンドコイン",
     "name_original": "Collectible_CommunitySeasonNine2019_Coin4",
-    "code": "Collectible_CommunitySeasonNine2019_Coin4",
+    "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
     "description": "Operation Shattered Web をクリアした。",
     "rarity": {
       "id": "rarity_ancient",
@@ -467,7 +467,7 @@
     "id": "collectible-4700",
     "name": "Operation Broken Fang チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonTen2020_Coin1",
-    "code": "Collectible_CommunitySeasonTen2020_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
     "description": "Operation Broken Fang に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -483,7 +483,7 @@
     "id": "collectible-4701",
     "name": "Operation Broken Fang シルバーコイン",
     "name_original": "Collectible_CommunitySeasonTen2020_Coin2",
-    "code": "Collectible_CommunitySeasonTen2020_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
     "description": "Operation Broken Fang に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -499,7 +499,7 @@
     "id": "collectible-4702",
     "name": "Operation Broken Fang ゴールドコイン",
     "name_original": "Collectible_CommunitySeasonTen2020_Coin3",
-    "code": "Collectible_CommunitySeasonTen2020_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
     "description": "Operation Broken Fang に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -515,7 +515,7 @@
     "id": "collectible-4703",
     "name": "Operation Broken Fang ダイヤモンドコイン",
     "name_original": "Collectible_CommunitySeasonTen2020_Coin4",
-    "code": "Collectible_CommunitySeasonTen2020_Coin4",
+    "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
     "description": "Operation Broken Fang をクリアした。",
     "rarity": {
       "id": "rarity_ancient",
@@ -531,7 +531,7 @@
     "id": "collectible-4759",
     "name": "Operation Riptide チャレンジコイン",
     "name_original": "Collectible_CommunitySeasonEleven2021_Coin1",
-    "code": "Collectible_CommunitySeasonEleven2021_Coin1",
+    "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
     "description": "Operation Riptide に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -547,7 +547,7 @@
     "id": "collectible-4760",
     "name": "Operation Riptide シルバーコイン",
     "name_original": "Collectible_CommunitySeasonEleven2021_Coin2",
-    "code": "Collectible_CommunitySeasonEleven2021_Coin2",
+    "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
     "description": "Operation Riptide に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -563,7 +563,7 @@
     "id": "collectible-4761",
     "name": "Operation Riptide ゴールドコイン",
     "name_original": "Collectible_CommunitySeasonEleven2021_Coin3",
-    "code": "Collectible_CommunitySeasonEleven2021_Coin3",
+    "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
     "description": "Operation Riptide に参加した。",
     "rarity": {
       "id": "rarity_ancient",
@@ -579,7 +579,7 @@
     "id": "collectible-4762",
     "name": "Operation Riptide ダイヤモンドコイン",
     "name_original": "Collectible_CommunitySeasonEleven2021_Coin4",
-    "code": "Collectible_CommunitySeasonEleven2021_Coin4",
+    "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
     "description": "Operation Riptide をクリアした。",
     "rarity": {
       "id": "rarity_ancient",

@@ -3,7 +3,7 @@
     "id": "key-generic_valve_key",
     "name": "Cheie pentru cutia CS:GO",
     "name_original": "Tool_WeaponCase_Key",
-    "code": "Tool_WeaponCase_Key",
+    "code": "#CSGO_Tool_WeaponCase_Key",
     "description": "Această cheie va deschide orice cutie din seriile create de Valve. Cutiile din celelalte serii (de exemplu: cutia eSports) au nevoie de chei specifice.",
     "market_hash_name": "CS:GO Case Key",
     "crates": [
@@ -34,7 +34,7 @@
     "id": "key-1204",
     "name": "Cheie eSports",
     "name_original": "esports_crate_key_1",
-    "code": "esports_crate_key_1",
+    "code": "#CSGO_esports_crate_key_1",
     "description": "Această cheie deschide Cutia eSports.\\n\\nO parte din veniturile obținute din vânzări va fi oferită unuia dintre turneele importante din comunitatea de CS:GO. Mai multe informații vor fi dezvăluite în curând.",
     "market_hash_name": "eSports Key",
     "crates": [
@@ -60,7 +60,7 @@
     "id": "key-1212",
     "name": "Cheie capsulă CS:GO",
     "name_original": "sticker_crate_key_1",
-    "code": "sticker_crate_key_1",
+    "code": "#CSGO_sticker_crate_key_1",
     "description": "Această cheie va deschide orice capsulă din seriile Valve.",
     "market_hash_name": "CS:GO Capsule Key",
     "crates": [
@@ -81,7 +81,7 @@
     "id": "key-1214",
     "name": "Cheie pentru cutia Winter Offensive",
     "name_original": "community_crate_key_1",
-    "code": "community_crate_key_1",
+    "code": "#CSGO_community_crate_key_1",
     "description": "Această cheie deschide numai cutii Winter Offensive",
     "market_hash_name": "Winter Offensive Case Key",
     "crates": [
@@ -97,7 +97,7 @@
     "id": "key-1303",
     "name": "Cheie pentru cutia operațiunii Phoenix",
     "name_original": "community_crate_key_2",
-    "code": "community_crate_key_2",
+    "code": "#CSGO_community_crate_key_2",
     "description": "Această cheie deschide numai cutii ale operațiunii Phoenix",
     "market_hash_name": "Operation Phoenix Case Key",
     "crates": [
@@ -113,7 +113,7 @@
     "id": "key-1304",
     "name": "Cheie pentru capsula cu abțibild comunitar 1",
     "name_original": "sticker_crate_key_community01",
-    "code": "sticker_crate_key_community01",
+    "code": "#CSGO_sticker_crate_key_community01",
     "description": "Această cheie deschide capsula cu abțibild comunitar 1.\\n\\nO parte din veniturile obținute din vânzarea acestei chei va merge la creatorii abțibildului.",
     "market_hash_name": "Community Sticker Capsule 1 Key",
     "crates": [
@@ -129,7 +129,7 @@
     "id": "key-1305",
     "name": "Cheie pentru cutia Huntsman",
     "name_original": "community_crate_key_3",
-    "code": "community_crate_key_3",
+    "code": "#CSGO_community_crate_key_3",
     "description": "Această cheie deschide numai cutii Huntsman",
     "market_hash_name": "Huntsman Case Key",
     "crates": [
@@ -145,7 +145,7 @@
     "id": "key-1309",
     "name": "Cheie pentru cutia operațiunii Breakout",
     "name_original": "community_crate_key_4",
-    "code": "community_crate_key_4",
+    "code": "#CSGO_community_crate_key_4",
     "description": "Această cheie deschide numai cutii ale operațiunii Breakout",
     "market_hash_name": "Operation Breakout Case Key",
     "crates": [
@@ -161,7 +161,7 @@
     "id": "key-1322",
     "name": "Cheie pentru cutia operațiunii Vanguard",
     "name_original": "community_crate_key_5",
-    "code": "community_crate_key_5",
+    "code": "#CSGO_community_crate_key_5",
     "description": "Această cheie deschide numai cutii ale operațiunii Vanguard",
     "market_hash_name": "Operation Vanguard Case Key",
     "crates": [
@@ -177,7 +177,7 @@
     "id": "key-1323",
     "name": "Cheie pentru cutia Chroma",
     "name_original": "community_crate_key_6",
-    "code": "community_crate_key_6",
+    "code": "#CSGO_community_crate_key_6",
     "description": "Această cheie deschide numai cutii Chroma",
     "market_hash_name": "Chroma Case Key",
     "crates": [
@@ -193,7 +193,7 @@
     "id": "key-1325",
     "name": "Cheie pentru cutia Chroma 2",
     "name_original": "community_crate_key_7",
-    "code": "community_crate_key_7",
+    "code": "#CSGO_community_crate_key_7",
     "description": "Această cheie deschide numai cutii Chroma 2",
     "market_hash_name": "Chroma 2 Case Key",
     "crates": [
@@ -209,7 +209,7 @@
     "id": "key-1330",
     "name": "Cheie pentru cutia Falchion",
     "name_original": "community_crate_key_8",
-    "code": "community_crate_key_8",
+    "code": "#CSGO_community_crate_key_8",
     "description": "Această cheie deschide numai cutii Falchion",
     "market_hash_name": "Falchion Case Key",
     "crates": [
@@ -225,7 +225,7 @@
     "id": "key-1333",
     "name": "Cheie pentru cutia Shadow",
     "name_original": "community_crate_key_9",
-    "code": "community_crate_key_9",
+    "code": "#CSGO_community_crate_key_9",
     "description": "Această cheie deschide numai cutii Shadow",
     "market_hash_name": "Shadow Case Key",
     "crates": [
@@ -241,7 +241,7 @@
     "id": "key-1334",
     "name": "Cheie pentru cutia Revolver",
     "name_original": "crate_community_10_key",
-    "code": "crate_community_10_key",
+    "code": "#CSGO_crate_community_10_key",
     "description": "Această cheie deschide numai cutii Revolver",
     "market_hash_name": "Revolver Case Key",
     "crates": [
@@ -257,7 +257,7 @@
     "id": "key-1347",
     "name": "Cheie pentru cutia Chroma 3",
     "name_original": "crate_key_community_12",
-    "code": "crate_key_community_12",
+    "code": "#CSGO_crate_key_community_12",
     "description": "Această cheie deschide numai cutii Chroma 3.",
     "market_hash_name": "Chroma 3 Case Key",
     "crates": [
@@ -273,7 +273,7 @@
     "id": "key-1350",
     "name": "Cheie pentru cutia Gamma",
     "name_original": "crate_key_community_13",
-    "code": "crate_key_community_13",
+    "code": "#CSGO_crate_key_community_13",
     "description": "Această cheie deschide numai cutii Gamma.",
     "market_hash_name": "Gamma Case Key",
     "crates": [
@@ -289,7 +289,7 @@
     "id": "key-1351",
     "name": "Cheie pentru cutia Gamma 2",
     "name_original": "crate_key_gamma_2",
-    "code": "crate_key_gamma_2",
+    "code": "#CSGO_crate_key_gamma_2",
     "description": "Această cheie deschide numai cutii Gamma 2.",
     "market_hash_name": "Gamma 2 Case Key",
     "crates": [
@@ -305,7 +305,7 @@
     "id": "key-1356",
     "name": "Cheie pentru cutia Glove",
     "name_original": "crate_key_community_15",
-    "code": "crate_key_community_15",
+    "code": "#CSGO_crate_key_community_15",
     "description": "Această cheie deschide numai cutii Glove.",
     "market_hash_name": "Glove Case Key",
     "crates": [
@@ -321,7 +321,7 @@
     "id": "key-1364",
     "name": "Cheie pentru cutia Spectrum",
     "name_original": "crate_key_community_16",
-    "code": "crate_key_community_16",
+    "code": "#CSGO_crate_key_community_16",
     "description": "Această cheie deschide numai cutii Spectrum.",
     "market_hash_name": "Spectrum Case Key",
     "crates": [
@@ -337,7 +337,7 @@
     "id": "key-1365",
     "name": "Cheie pentru cutia operațiunii Hydra",
     "name_original": "crate_key_community_17",
-    "code": "crate_key_community_17",
+    "code": "#CSGO_crate_key_community_17",
     "description": "Această cheie deschide numai cutii ale operațiunii Hydra.",
     "market_hash_name": "Operation Hydra Case Key",
     "crates": [
@@ -353,7 +353,7 @@
     "id": "key-1366",
     "name": "Cheie pentru cutia Spectrum 2",
     "name_original": "crate_key_community_18",
-    "code": "crate_key_community_18",
+    "code": "#CSGO_crate_key_community_18",
     "description": "Această cheie deschide numai cutii Spectrum 2.",
     "market_hash_name": "Spectrum 2 Case Key",
     "crates": [
@@ -369,7 +369,7 @@
     "id": "key-1373",
     "name": "Cheie pentru cutia Clutch",
     "name_original": "crate_key_community_19",
-    "code": "crate_key_community_19",
+    "code": "#CSGO_crate_key_community_19",
     "description": "Această cheie deschide numai cutii Clutch.",
     "market_hash_name": "Clutch Case Key",
     "crates": [
@@ -385,7 +385,7 @@
     "id": "key-1374",
     "name": "Cheie pentru cutia Horizon",
     "name_original": "crate_key_community_20",
-    "code": "crate_key_community_20",
+    "code": "#CSGO_crate_key_community_20",
     "description": "Această cheie deschide numai cutii Horizon.",
     "market_hash_name": "Horizon Case Key",
     "crates": [
@@ -401,7 +401,7 @@
     "id": "key-1375",
     "name": "Cheie pentru cutia Danger Zone",
     "name_original": "crate_key_community_21",
-    "code": "crate_key_community_21",
+    "code": "#CSGO_crate_key_community_21",
     "description": "Această cheie deschide numai cutii Danger Zone.",
     "market_hash_name": "Danger Zone Case Key",
     "crates": [
@@ -417,7 +417,7 @@
     "id": "key-1383",
     "name": "Cheie pentru cutia Prisma",
     "name_original": "crate_key_community_22",
-    "code": "crate_key_community_22",
+    "code": "#CSGO_crate_key_community_22",
     "description": "Această cheie deschide numai cutii Prisma.",
     "market_hash_name": "Prisma Case Key",
     "crates": [
@@ -433,7 +433,7 @@
     "id": "key-1384",
     "name": "Cheie pentru cutia Shattered Web",
     "name_original": "crate_key_community_23",
-    "code": "crate_key_community_23",
+    "code": "#CSGO_crate_key_community_23",
     "description": "Această cheie deschide numai cutii Shattered Web.",
     "market_hash_name": "Shattered Web Case Key",
     "crates": [
@@ -449,7 +449,7 @@
     "id": "key-1385",
     "name": "Cheie pentru cutia CS20",
     "name_original": "crate_key_community_24",
-    "code": "crate_key_community_24",
+    "code": "#CSGO_crate_key_community_24",
     "description": "Această cheie deschide numai cutii CS20.",
     "market_hash_name": "CS20 Case Key",
     "crates": [
@@ -465,7 +465,7 @@
     "id": "key-1386",
     "name": "Cheie pentru cutia Prisma 2",
     "name_original": "crate_key_community_25",
-    "code": "crate_key_community_25",
+    "code": "#CSGO_crate_key_community_25",
     "description": "Această cheie deschide numai cutii Prisma 2.",
     "market_hash_name": "Prisma 2 Case Key",
     "crates": [
@@ -481,7 +481,7 @@
     "id": "key-1387",
     "name": "Cheie pentru cutia Fracture",
     "name_original": "crate_key_community_26",
-    "code": "crate_key_community_26",
+    "code": "#CSGO_crate_key_community_26",
     "description": "Această cheie deschide numai cutii Fracture.",
     "market_hash_name": "Fracture Case Key",
     "crates": [
@@ -497,7 +497,7 @@
     "id": "key-1388",
     "name": "Cheie pentru cutia operațiunii Broken Fang",
     "name_original": "crate_key_community_27",
-    "code": "crate_key_community_27",
+    "code": "#CSGO_crate_key_community_27",
     "description": "Această cheie deschide numai cutii ale operațiunii Broken Fang.",
     "market_hash_name": "Operation Broken Fang Case Key",
     "crates": [
@@ -513,7 +513,7 @@
     "id": "key-1389",
     "name": "Cheie pentru cutia Snakebite",
     "name_original": "crate_key_community_28",
-    "code": "crate_key_community_28",
+    "code": "#CSGO_crate_key_community_28",
     "description": "Această cheie deschide numai cutii Snakebite.",
     "market_hash_name": "Snakebite Case Key",
     "crates": [
@@ -529,7 +529,7 @@
     "id": "key-1390",
     "name": "Cheie pentru cutia operațiunii Riptide",
     "name_original": "crate_key_community_29",
-    "code": "crate_key_community_29",
+    "code": "#CSGO_crate_key_community_29",
     "description": "Această cheie deschide numai cutii ale operațiunii Riptide.",
     "market_hash_name": "Operation Riptide Case Key",
     "crates": [
@@ -545,7 +545,7 @@
     "id": "key-1391",
     "name": "Cheie pentru cutia Dreams & Nightmares",
     "name_original": "crate_key_community_30",
-    "code": "crate_key_community_30",
+    "code": "#CSGO_crate_key_community_30",
     "description": "Această cheie deschide numai cutii Dreams & Nightmares.",
     "market_hash_name": "Dreams & Nightmares Case Key",
     "crates": [
@@ -561,7 +561,7 @@
     "id": "key-1392",
     "name": "Cheie pentru cutia Recoil",
     "name_original": "crate_key_community_31",
-    "code": "crate_key_community_31",
+    "code": "#CSGO_crate_key_community_31",
     "description": "Această cheie deschide numai cutii Recoil.",
     "market_hash_name": "Recoil Case Key",
     "crates": [
@@ -577,7 +577,7 @@
     "id": "key-1393",
     "name": "Cheie pentru cutia Revolution",
     "name_original": "crate_key_community_32",
-    "code": "crate_key_community_32",
+    "code": "#CSGO_crate_key_community_32",
     "description": "Această cheie deschide numai cutii Revolution.",
     "market_hash_name": "Revolution Case Key",
     "crates": [
@@ -593,7 +593,7 @@
     "id": "key-1394",
     "name": "Cheie pentru cutia Kilowatt",
     "name_original": "crate_key_community_33",
-    "code": "crate_key_community_33",
+    "code": "#CSGO_crate_key_community_33",
     "description": "Această cheie deschide numai cutii Kilowatt.",
     "market_hash_name": "Kilowatt Case Key",
     "crates": [
@@ -609,7 +609,7 @@
     "id": "key-7000",
     "name": "Cheie pentru cutia operațiunii Wildfire",
     "name_original": "crate_key_community_11",
-    "code": "crate_key_community_11",
+    "code": "#CSGO_crate_key_community_11",
     "description": "Această cheie deschide numai cutii ale operațiunii Wildfire.",
     "market_hash_name": "Operation Wildfire Case Key",
     "crates": [
@@ -625,7 +625,7 @@
     "id": "key-7002",
     "name": "Cheie pentru cutia Gallery",
     "name_original": "crate_key_community_34",
-    "code": "crate_key_community_34",
+    "code": "#CSGO_crate_key_community_34",
     "description": "Această cheie deschide numai cutii Gallery.",
     "market_hash_name": "Gallery Case Key",
     "crates": [

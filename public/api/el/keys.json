@@ -3,7 +3,7 @@
     "id": "key-generic_valve_key",
     "name": "Κλειδί θήκης CS:GO",
     "name_original": "Tool_WeaponCase_Key",
-    "code": "Tool_WeaponCase_Key",
+    "code": "#CSGO_Tool_WeaponCase_Key",
     "description": "Αυτό το κλειδί ανοίγει οποιαδήποτε θήκη όπλων σειράς Valve. Θήκες που δεν είναι ανήκουν στη σειρά Valve (π.χ. η θήκη όπλων eSports) απαιτούν το δικό τους κλειδί για να ανοίξουν.",
     "market_hash_name": "CS:GO Case Key",
     "crates": [
@@ -34,7 +34,7 @@
     "id": "key-1204",
     "name": "Κλειδί eSports",
     "name_original": "esports_crate_key_1",
-    "code": "esports_crate_key_1",
+    "code": "#CSGO_esports_crate_key_1",
     "description": "Αυτό το κλειδί ανοίγει οποιαδήποτε θήκη eSports.\\n\\nΈνα μέρος των εσόδων από τις πωλήσεις αυτού του κλειδιού διατίθεται σε κάποια από τις καθιερωμένες διοργανώσεις CS:GO της κοινότητας. Μείνετε συντονισμένοι για περαιτέρω ανακοινώσεις.",
     "market_hash_name": "eSports Key",
     "crates": [
@@ -60,7 +60,7 @@
     "id": "key-1212",
     "name": "Κλειδί κάψουλας CS:GO",
     "name_original": "sticker_crate_key_1",
-    "code": "sticker_crate_key_1",
+    "code": "#CSGO_sticker_crate_key_1",
     "description": "Αυτό το κλειδί θα ανοίξει οποιαδήποτε κάψουλα σειράς Valve.",
     "market_hash_name": "CS:GO Capsule Key",
     "crates": [
@@ -81,7 +81,7 @@
     "id": "key-1214",
     "name": "Κλειδί θήκης Winter Offensive",
     "name_original": "community_crate_key_1",
-    "code": "community_crate_key_1",
+    "code": "#CSGO_community_crate_key_1",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Winter Offensive",
     "market_hash_name": "Winter Offensive Case Key",
     "crates": [
@@ -97,7 +97,7 @@
     "id": "key-1303",
     "name": "Κλειδί θήκης επιχείρησης Phoenix",
     "name_original": "community_crate_key_2",
-    "code": "community_crate_key_2",
+    "code": "#CSGO_community_crate_key_2",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες επιχείρησης Phoenix",
     "market_hash_name": "Operation Phoenix Case Key",
     "crates": [
@@ -113,7 +113,7 @@
     "id": "key-1304",
     "name": "Κλειδί κάψουλας αυτοκόλλητων κοινότητας 1",
     "name_original": "sticker_crate_key_community01",
-    "code": "sticker_crate_key_community01",
+    "code": "#CSGO_sticker_crate_key_community01",
     "description": "Αυτό το κλειδί ανοίγει την κάψουλα αυτοκόλλητων κοινότητας 1.\\n\\nΈνα μερός των εσόδων από τις πωλήσεις αυτού του κλειδιού θα αποδοθεί στους δημιουργούς των αυτοκόλλητων.",
     "market_hash_name": "Community Sticker Capsule 1 Key",
     "crates": [
@@ -129,7 +129,7 @@
     "id": "key-1305",
     "name": "Κλειδί θήκης Huntsman",
     "name_original": "community_crate_key_3",
-    "code": "community_crate_key_3",
+    "code": "#CSGO_community_crate_key_3",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Huntsman",
     "market_hash_name": "Huntsman Case Key",
     "crates": [
@@ -145,7 +145,7 @@
     "id": "key-1309",
     "name": "Κλειδί θήκης επιχείρησης Breakout",
     "name_original": "community_crate_key_4",
-    "code": "community_crate_key_4",
+    "code": "#CSGO_community_crate_key_4",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες επιχείρησης Breakout",
     "market_hash_name": "Operation Breakout Case Key",
     "crates": [
@@ -161,7 +161,7 @@
     "id": "key-1322",
     "name": "Κλειδί θήκης επιχείρησης Vanguard",
     "name_original": "community_crate_key_5",
-    "code": "community_crate_key_5",
+    "code": "#CSGO_community_crate_key_5",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες επιχείρησης Vanguard",
     "market_hash_name": "Operation Vanguard Case Key",
     "crates": [
@@ -177,7 +177,7 @@
     "id": "key-1323",
     "name": "Κλειδί θήκης Chroma",
     "name_original": "community_crate_key_6",
-    "code": "community_crate_key_6",
+    "code": "#CSGO_community_crate_key_6",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Chroma",
     "market_hash_name": "Chroma Case Key",
     "crates": [
@@ -193,7 +193,7 @@
     "id": "key-1325",
     "name": "Κλειδί θήκης Chroma 2",
     "name_original": "community_crate_key_7",
-    "code": "community_crate_key_7",
+    "code": "#CSGO_community_crate_key_7",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Chroma 2",
     "market_hash_name": "Chroma 2 Case Key",
     "crates": [
@@ -209,7 +209,7 @@
     "id": "key-1330",
     "name": "Κλειδί θήκης Falchion",
     "name_original": "community_crate_key_8",
-    "code": "community_crate_key_8",
+    "code": "#CSGO_community_crate_key_8",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Falchion",
     "market_hash_name": "Falchion Case Key",
     "crates": [
@@ -225,7 +225,7 @@
     "id": "key-1333",
     "name": "Κλειδί θήκης Shadow",
     "name_original": "community_crate_key_9",
-    "code": "community_crate_key_9",
+    "code": "#CSGO_community_crate_key_9",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Shadow",
     "market_hash_name": "Shadow Case Key",
     "crates": [
@@ -241,7 +241,7 @@
     "id": "key-1334",
     "name": "Κλειδί θήκης Revolver",
     "name_original": "crate_community_10_key",
-    "code": "crate_community_10_key",
+    "code": "#CSGO_crate_community_10_key",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Revolver",
     "market_hash_name": "Revolver Case Key",
     "crates": [
@@ -257,7 +257,7 @@
     "id": "key-1347",
     "name": "Κλειδί θήκης Chroma 3",
     "name_original": "crate_key_community_12",
-    "code": "crate_key_community_12",
+    "code": "#CSGO_crate_key_community_12",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Chroma 3",
     "market_hash_name": "Chroma 3 Case Key",
     "crates": [
@@ -273,7 +273,7 @@
     "id": "key-1350",
     "name": "Κλειδί θήκης Gamma",
     "name_original": "crate_key_community_13",
-    "code": "crate_key_community_13",
+    "code": "#CSGO_crate_key_community_13",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Gamma",
     "market_hash_name": "Gamma Case Key",
     "crates": [
@@ -289,7 +289,7 @@
     "id": "key-1351",
     "name": "Κλειδί θήκης Gamma 2",
     "name_original": "crate_key_gamma_2",
-    "code": "crate_key_gamma_2",
+    "code": "#CSGO_crate_key_gamma_2",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Gamma 2",
     "market_hash_name": "Gamma 2 Case Key",
     "crates": [
@@ -305,7 +305,7 @@
     "id": "key-1356",
     "name": "Κλειδί θήκης γαντιών",
     "name_original": "crate_key_community_15",
-    "code": "crate_key_community_15",
+    "code": "#CSGO_crate_key_community_15",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες γαντιών",
     "market_hash_name": "Glove Case Key",
     "crates": [
@@ -321,7 +321,7 @@
     "id": "key-1364",
     "name": "Κλειδί θήκης Spectrum",
     "name_original": "crate_key_community_16",
-    "code": "crate_key_community_16",
+    "code": "#CSGO_crate_key_community_16",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Spectrum",
     "market_hash_name": "Spectrum Case Key",
     "crates": [
@@ -337,7 +337,7 @@
     "id": "key-1365",
     "name": "Κλειδή θήκης επιχείρησης Hydra",
     "name_original": "crate_key_community_17",
-    "code": "crate_key_community_17",
+    "code": "#CSGO_crate_key_community_17",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες επιχείρησης Hydra",
     "market_hash_name": "Operation Hydra Case Key",
     "crates": [
@@ -353,7 +353,7 @@
     "id": "key-1366",
     "name": "Κλειδί θήκης Spectrum 2",
     "name_original": "crate_key_community_18",
-    "code": "crate_key_community_18",
+    "code": "#CSGO_crate_key_community_18",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Spectrum 2",
     "market_hash_name": "Spectrum 2 Case Key",
     "crates": [
@@ -369,7 +369,7 @@
     "id": "key-1373",
     "name": "Κλειδί θήκης Clutch",
     "name_original": "crate_key_community_19",
-    "code": "crate_key_community_19",
+    "code": "#CSGO_crate_key_community_19",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Clutch",
     "market_hash_name": "Clutch Case Key",
     "crates": [
@@ -385,7 +385,7 @@
     "id": "key-1374",
     "name": "Κλειδί θήκης Horizon",
     "name_original": "crate_key_community_20",
-    "code": "crate_key_community_20",
+    "code": "#CSGO_crate_key_community_20",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Horizon",
     "market_hash_name": "Horizon Case Key",
     "crates": [
@@ -401,7 +401,7 @@
     "id": "key-1375",
     "name": "Κλειδί θήκης Danger Zone",
     "name_original": "crate_key_community_21",
-    "code": "crate_key_community_21",
+    "code": "#CSGO_crate_key_community_21",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Danger Zone",
     "market_hash_name": "Danger Zone Case Key",
     "crates": [
@@ -417,7 +417,7 @@
     "id": "key-1383",
     "name": "Κλειδί θήκης Prisma",
     "name_original": "crate_key_community_22",
-    "code": "crate_key_community_22",
+    "code": "#CSGO_crate_key_community_22",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Prisma",
     "market_hash_name": "Prisma Case Key",
     "crates": [
@@ -433,7 +433,7 @@
     "id": "key-1384",
     "name": "Κλειδί θήκης Shattered Web",
     "name_original": "crate_key_community_23",
-    "code": "crate_key_community_23",
+    "code": "#CSGO_crate_key_community_23",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Shattered Web",
     "market_hash_name": "Shattered Web Case Key",
     "crates": [
@@ -449,7 +449,7 @@
     "id": "key-1385",
     "name": "Κλειδί θήκης CS20",
     "name_original": "crate_key_community_24",
-    "code": "crate_key_community_24",
+    "code": "#CSGO_crate_key_community_24",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες CS20",
     "market_hash_name": "CS20 Case Key",
     "crates": [
@@ -465,7 +465,7 @@
     "id": "key-1386",
     "name": "Κλειδί θήκης Prisma 2",
     "name_original": "crate_key_community_25",
-    "code": "crate_key_community_25",
+    "code": "#CSGO_crate_key_community_25",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Prisma 2",
     "market_hash_name": "Prisma 2 Case Key",
     "crates": [
@@ -481,7 +481,7 @@
     "id": "key-1387",
     "name": "Κλειδί θήκης Fracture",
     "name_original": "crate_key_community_26",
-    "code": "crate_key_community_26",
+    "code": "#CSGO_crate_key_community_26",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Fracture",
     "market_hash_name": "Fracture Case Key",
     "crates": [
@@ -497,7 +497,7 @@
     "id": "key-1388",
     "name": "Κλειδί θήκης επιχείρησης Broken Fang",
     "name_original": "crate_key_community_27",
-    "code": "crate_key_community_27",
+    "code": "#CSGO_crate_key_community_27",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες επιχείρησης Broken Fang",
     "market_hash_name": "Operation Broken Fang Case Key",
     "crates": [
@@ -513,7 +513,7 @@
     "id": "key-1389",
     "name": "Κλειδί θήκης Snakebite",
     "name_original": "crate_key_community_28",
-    "code": "crate_key_community_28",
+    "code": "#CSGO_crate_key_community_28",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Snakebite",
     "market_hash_name": "Snakebite Case Key",
     "crates": [
@@ -529,7 +529,7 @@
     "id": "key-1390",
     "name": "Κλειδί θήκης Επιχείρησης Riptide",
     "name_original": "crate_key_community_29",
-    "code": "crate_key_community_29",
+    "code": "#CSGO_crate_key_community_29",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Επιχείρησης Riptide",
     "market_hash_name": "Operation Riptide Case Key",
     "crates": [
@@ -545,7 +545,7 @@
     "id": "key-1391",
     "name": "Κλειδί θήκης «Όνειρα και Εφιάλτες»",
     "name_original": "crate_key_community_30",
-    "code": "crate_key_community_30",
+    "code": "#CSGO_crate_key_community_30",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες «Όνειρα και Εφιάλτες»",
     "market_hash_name": "Dreams & Nightmares Case Key",
     "crates": [
@@ -561,7 +561,7 @@
     "id": "key-1392",
     "name": "Κλειδί θήκης Recoil",
     "name_original": "crate_key_community_31",
-    "code": "crate_key_community_31",
+    "code": "#CSGO_crate_key_community_31",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Recoil",
     "market_hash_name": "Recoil Case Key",
     "crates": [
@@ -577,7 +577,7 @@
     "id": "key-1393",
     "name": "Κλειδί θήκης Revolution",
     "name_original": "crate_key_community_32",
-    "code": "crate_key_community_32",
+    "code": "#CSGO_crate_key_community_32",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Revolution",
     "market_hash_name": "Revolution Case Key",
     "crates": [
@@ -593,7 +593,7 @@
     "id": "key-1394",
     "name": "Κλειδί θήκης Kilowatt",
     "name_original": "crate_key_community_33",
-    "code": "crate_key_community_33",
+    "code": "#CSGO_crate_key_community_33",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Kilowatt",
     "market_hash_name": "Kilowatt Case Key",
     "crates": [
@@ -609,7 +609,7 @@
     "id": "key-7000",
     "name": "Κλειδί θήκης επιχείρησης Wildfire",
     "name_original": "crate_key_community_11",
-    "code": "crate_key_community_11",
+    "code": "#CSGO_crate_key_community_11",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες επιχείρησης Wildfire",
     "market_hash_name": "Operation Wildfire Case Key",
     "crates": [
@@ -625,7 +625,7 @@
     "id": "key-7002",
     "name": "Κλειδί θήκης Gallery",
     "name_original": "crate_key_community_34",
-    "code": "crate_key_community_34",
+    "code": "#CSGO_crate_key_community_34",
     "description": "Αυτό το κλειδί ανοίγει μόνο θήκες Gallery",
     "market_hash_name": "Gallery Case Key",
     "crates": [

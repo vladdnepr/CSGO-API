@@ -2,7 +2,7 @@
   {
     "id": "keychain-1",
     "name": "참 장식 | 리틀 아바",
-    "code": "ava",
+    "code": "#keychain_kc_missinglink_ava",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_rare",
@@ -15,7 +15,7 @@
   {
     "id": "keychain-2",
     "name": "참 장식 | 바나나맨",
-    "code": "banana",
+    "code": "#keychain_kc_missinglink_banana",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_mythical",
@@ -28,7 +28,7 @@
   {
     "id": "keychain-3",
     "name": "참 장식 | 리틀 위스커스",
-    "code": "cat",
+    "code": "#keychain_kc_missinglink_cat",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_mythical",
@@ -41,7 +41,7 @@
   {
     "id": "keychain-4",
     "name": "참 장식 | 리틀 샌디",
-    "code": "catbeach",
+    "code": "#keychain_kc_missinglink_catbeach",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_mythical",
@@ -54,7 +54,7 @@
   {
     "id": "keychain-5",
     "name": "참 장식 | 리틀 치킨",
-    "code": "chicken",
+    "code": "#keychain_kc_missinglink_chicken",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_mythical",
@@ -67,7 +67,7 @@
   {
     "id": "keychain-6",
     "name": "참 장식 | 리틀 크래스",
-    "code": "guerilla",
+    "code": "#keychain_kc_missinglink_guerilla",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_rare",
@@ -80,7 +80,7 @@
   {
     "id": "keychain-7",
     "name": "참 장식 | 뜨거운 포효",
-    "code": "howl",
+    "code": "#keychain_kc_missinglink_howl",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_ancient",
@@ -93,7 +93,7 @@
   {
     "id": "keychain-8",
     "name": "참 장식 | 빅 케브",
-    "code": "kev",
+    "code": "#keychain_kc_missinglink_kev",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_rare",
@@ -106,7 +106,7 @@
   {
     "id": "keychain-9",
     "name": "참 장식 | 리틀 몬스터",
-    "code": "monster",
+    "code": "#keychain_kc_missinglink_monster",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_legendary",
@@ -119,7 +119,7 @@
   {
     "id": "keychain-10",
     "name": "참 장식 | 핫 소스",
-    "code": "sam_catchup",
+    "code": "#keychain_kc_missinglink_sam_catchup",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_rare",
@@ -132,7 +132,7 @@
   {
     "id": "keychain-11",
     "name": "참 장식 | 다이아몬드 소시지",
-    "code": "sam_diamond",
+    "code": "#keychain_kc_missinglink_sam_diamond",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_legendary",
@@ -145,7 +145,7 @@
   {
     "id": "keychain-12",
     "name": "참 장식 | 소금 한 꼬집",
-    "code": "sam_salty",
+    "code": "#keychain_kc_missinglink_sam_salty",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_rare",
@@ -158,7 +158,7 @@
   {
     "id": "keychain-13",
     "name": "참 장식 | 다이너 소시지",
-    "code": "sam_shape",
+    "code": "#keychain_kc_missinglink_sam_shape",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_legendary",
@@ -171,7 +171,7 @@
   {
     "id": "keychain-14",
     "name": "참 장식 | 리틀 티컵",
-    "code": "sam_toile",
+    "code": "#keychain_kc_missinglink_sam_toile",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_mythical",
@@ -184,7 +184,7 @@
   {
     "id": "keychain-15",
     "name": "참 장식 | 리틀 SAS 요원",
-    "code": "sas",
+    "code": "#keychain_kc_missinglink_sas",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_rare",
@@ -197,7 +197,7 @@
   {
     "id": "keychain-16",
     "name": "참 장식 | 불타는 소시지",
-    "code": "wurst",
+    "code": "#keychain_kc_missinglink_wurst",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_ancient",
@@ -418,7 +418,7 @@
   {
     "id": "keychain-33",
     "name": "참 장식 | 리틀 스쿼치",
-    "code": "bigfoot",
+    "code": "#keychain_kc_missinglink_bigfoot",
     "description": "이 참 장식은 소유하고 있는 모든 무기에 장착할 수 있습니다. 장착된 각 참 장식은 참 장식 분리를 사용하여 분리할 수 있습니다. 분리한 참 장식은 보관함으로 반환됩니다.",
     "rarity": {
       "id": "rarity_mythical",
