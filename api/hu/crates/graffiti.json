@@ -3,6 +3,7 @@
     "id": "crate-4234",
     "name": "Közösségi Falfirka Láda 1",
     "name_original": "crate_sprays_community_1",
+    "code": "#CSGO_crate_sprays_community_1",
     "description": "Ez a láda egyetlen közösség készítette falfirka-mintát tartalmaz. A bevétel egy része egyenlően kerül szétosztásra a hozzájáruló készítők között.",
     "type": "Graffiti",
     "first_sale_date": "2016/06/20",
@@ -191,12 +192,14 @@
     "contains_rare": [],
     "market_hash_name": "Community Graffiti Box 1",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_spray_pack_community_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4285",
     "name": "CS:GO Falfirka Láda",
     "name_original": "crate_sprays_vcap1",
+    "code": "#CSGO_crate_sprays_vcap1",
     "description": null,
     "type": "Graffiti",
     "first_sale_date": "2016/08/24",
@@ -385,12 +388,14 @@
     "contains_rare": [],
     "market_hash_name": "CS:GO Graffiti Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4286",
     "name": "Perfect World Falfirka Láda",
     "name_original": "crate_sprays_illuminate1",
+    "code": "#CSGO_crate_sprays_illuminate1",
     "description": "Ez a kapszula többféle falfirkát tartalmaz a Perfect Worldtől, megemlékezésül a Counter-Strike: Global Offensive indulására a kontinentális Kínában.",
     "type": "Graffiti",
     "first_sale_date": "2017/09/14",
@@ -579,6 +584,7 @@
     "contains_rare": [],
     "market_hash_name": "Perfect World Graffiti Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png",
+    "model_player": null
   }
 ]

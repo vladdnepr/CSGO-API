@@ -3,6 +3,7 @@
     "id": "crate-4610",
     "name": "CS:GO-lappepakke",
     "name_original": "crate_patch_pack01",
+    "code": "#CSGO_crate_patch_pack01",
     "description": "Denne pakke indeholder forskellige broderede lapper. Lapperne kan bruges på alle agenter, du ejer.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -221,12 +222,14 @@
     "contains_rare": [],
     "market_hash_name": "CS:GO Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack01_png.png",
+    "model_player": "models/props/crates/patch_envelope.vmdl"
   },
   {
     "id": "crate-4614",
     "name": "Lappesamling: Metalfærdighedsgruppe",
     "name_original": "crate_patch_pack02",
+    "code": "#CSGO_crate_patch_pack02",
     "description": "Denne lappesamling indeholder forskellige mindelapper fra Operation Riptide. Lapper kan bruges på alle agenter, du ejer.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -405,12 +408,14 @@
     "contains_rare": [],
     "market_hash_name": "Metal Skill Group Patch Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack02_png.png",
+    "model_player": "models/props/crates/patch_envelope02.vmdl"
   },
   {
     "id": "crate-4615",
     "name": "Lappepakke: Half-Life: Alyx",
     "name_original": "crate_patch_pack_hlalyx",
+    "code": "#CSGO_crate_patch_pack_hlalyx",
     "description": "Denne pakke indeholder forskellige broderede mindelapper fra Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan fremvises på din CS:GO-profil.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/03/23",
@@ -529,12 +534,14 @@
     "contains_rare": [],
     "market_hash_name": "Half-Life: Alyx Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_hlalyx_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_hlalyx_png.png",
+    "model_player": "models/props/crates/patch_envelope_hlalyx.vmdl"
   },
   {
     "id": "crate-4795",
     "name": "Lappesamling: Operation Riptide",
     "name_original": "crate_patch_pack03",
+    "code": "#CSGO_crate_patch_pack03",
     "description": "Denne lappesamling indeholder forskellige broderede lapper til minde om Operation Riptide. Lapperne kan bruges på alle agenter, du ejer.",
     "type": "Patch Capsule",
     "first_sale_date": "2021/09/01",
@@ -673,12 +680,14 @@
     "contains_rare": [],
     "market_hash_name": "Operation Riptide Patch Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack03_png.png",
+    "model_player": "models/props/crates/patch_envelope03.vmdl"
   },
   {
     "id": "crate-4806",
     "name": "Stockholm 2021 – Pakke med legendelapper",
     "name_original": "crate_patch_pack_stockh2021_legends",
+    "code": "#CSGO_crate_patch_pack_stockh2021_legends",
     "description": "Denne pakke indeholder en enkelt broderet lap i høj kvalitet eller guld med en deltager fra Stockholm 2021.\\n\\n50% af indtægterne fra salget af denne pakke støtter de inkluderede organisationer.\\n\\nLapper kan påføres enhver agent, du ejer.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -867,12 +876,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Legends Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_legends_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_legends.vmdl"
   },
   {
     "id": "crate-4807",
     "name": "Stockholm 2021 – Pakke med udfordrerlapper",
     "name_original": "crate_patch_pack_stockh2021_challengers",
+    "code": "#CSGO_crate_patch_pack_stockh2021_challengers",
     "description": "Denne pakke indeholder en enkelt broderet lap i høj kvalitet eller guld med en deltager fra Stockholm 2021.\\n\\n50% af indtægterne fra salget af denne pakke støtter de inkluderede organisationer.\\n\\nLapper kan påføres enhver agent, du ejer.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -1061,12 +1072,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Challengers Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_challengers_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_challengers.vmdl"
   },
   {
     "id": "crate-4808",
     "name": "Stockholm 2021 – Pakke med deltagerlapper",
     "name_original": "crate_patch_pack_stockh2021_contenders",
+    "code": "#CSGO_crate_patch_pack_stockh2021_contenders",
     "description": "Denne pakke indeholder en enkelt broderet lap i høj kvalitet eller guld med en deltager fra Stockholm 2021.\\n\\n50% af indtægterne fra salget af denne pakke støtter de inkluderede organisationer.\\n\\nLapper kan påføres enhver agent, du ejer.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -1255,6 +1268,7 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Contenders Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_contenders_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_contenders.vmdl"
   }
 ]

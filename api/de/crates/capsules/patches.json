@@ -3,6 +3,7 @@
     "id": "crate-4610",
     "name": "CS:GO-Aufnäherpaket",
     "name_original": "crate_patch_pack01",
+    "code": "#CSGO_crate_patch_pack01",
     "description": "Dieses Paket enthält eine Vielzahl von gestickten Aufnähern. Aufnäher können an jedem beliebigen Ihrer Agenten angebracht werden.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -221,12 +222,14 @@
     "contains_rare": [],
     "market_hash_name": "CS:GO Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack01_png.png",
+    "model_player": "models/props/crates/patch_envelope.vmdl"
   },
   {
     "id": "crate-4614",
     "name": "Aufnäherkollektion „Metall-Skill-Gruppe“",
     "name_original": "crate_patch_pack02",
+    "code": "#CSGO_crate_patch_pack02",
     "description": "Diese Kollektion enthält eine Vielzahl von gestickten Aufnähern. Aufnäher können an jedem beliebigen Ihrer Agenten angebracht werden.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -405,12 +408,14 @@
     "contains_rare": [],
     "market_hash_name": "Metal Skill Group Patch Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack02_png.png",
+    "model_player": "models/props/crates/patch_envelope02.vmdl"
   },
   {
     "id": "crate-4615",
     "name": "Aufnäherpaket zu Half-Life: Alyx",
     "name_original": "crate_patch_pack_hlalyx",
+    "code": "#CSGO_crate_patch_pack_hlalyx",
     "description": "Dieses Paket enthält eine Vielzahl von gestickten Aufnähern, mit denen Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR feiert. Aufnäher können an jedem beliebigen Ihrer Agenten angebracht werden.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/03/23",
@@ -529,12 +534,14 @@
     "contains_rare": [],
     "market_hash_name": "Half-Life: Alyx Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_hlalyx_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_hlalyx_png.png",
+    "model_player": "models/props/crates/patch_envelope_hlalyx.vmdl"
   },
   {
     "id": "crate-4795",
     "name": "Aufnäherkollektion „Operation Springflut“",
     "name_original": "crate_patch_pack03",
+    "code": "#CSGO_crate_patch_pack03",
     "description": "Diese Kollektion enthält eine Vielzahl von gestickten Aufnähern zur Feier von Operation Springflut. Aufnäher können an jedem beliebigen Ihrer Agenten angebracht werden.",
     "type": "Patch Capsule",
     "first_sale_date": "2021/09/01",
@@ -673,12 +680,14 @@
     "contains_rare": [],
     "market_hash_name": "Operation Riptide Patch Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack03_png.png",
+    "model_player": "models/props/crates/patch_envelope03.vmdl"
   },
   {
     "id": "crate-4806",
     "name": "Aufnäherpaket „Stockholm 2021 – Legenden“",
     "name_original": "crate_patch_pack_stockh2021_legends",
+    "code": "#CSGO_crate_patch_pack_stockh2021_legends",
     "description": "Dieses Paket enthält einen einzelnen Teilnehmer-Aufnäher zur PGL Stockholm 2021 (Hohe Qualität oder mit Goldstickerei).\\n\\n50 % der Erlöse durch den Verkauf dieses Pakets unterstützen die teilnehmenden Organisationen.\\n\\nAufnäher können an einen Ihrer Agenten angebracht werden.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -867,12 +876,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Legends Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_legends_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_legends.vmdl"
   },
   {
     "id": "crate-4807",
     "name": "Aufnäherpaket „Stockholm 2021 – Herausforderer“",
     "name_original": "crate_patch_pack_stockh2021_challengers",
+    "code": "#CSGO_crate_patch_pack_stockh2021_challengers",
     "description": "Dieses Paket enthält einen einzelnen Teilnehmer-Aufnäher zur PGL Stockholm 2021 (Hohe Qualität oder mit Goldstickerei).\\n\\n50 % der Erlöse durch den Verkauf dieses Pakets unterstützen die teilnehmenden Organisationen.\\n\\nAufnäher können an einen Ihrer Agenten angebracht werden.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -1061,12 +1072,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Challengers Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_challengers_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_challengers.vmdl"
   },
   {
     "id": "crate-4808",
     "name": "Aufnäherpaket „Stockholm 2021 – Anwärter“",
     "name_original": "crate_patch_pack_stockh2021_contenders",
+    "code": "#CSGO_crate_patch_pack_stockh2021_contenders",
     "description": "Dieses Paket enthält einen einzelnen Teilnehmer-Aufnäher zur PGL Stockholm 2021 (Hohe Qualität oder mit Goldstickerei).\\n\\n50 % der Erlöse durch den Verkauf dieses Pakets unterstützen die teilnehmenden Organisationen.\\n\\nAufnäher können an einen Ihrer Agenten angebracht werden.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -1255,6 +1268,7 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Contenders Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_contenders_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_contenders.vmdl"
   }
 ]

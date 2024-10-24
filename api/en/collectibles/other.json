@@ -3,6 +3,7 @@
     "id": "collectible-874",
     "name": "5 Year Veteran Coin",
     "name_original": "CollectibleCoin_FiveYearService",
+    "code": "#CSGO_CollectibleCoin_FiveYearService",
     "description": "Has been a member of the Counter-Strike community for over 5 years.",
     "rarity": {
       "id": "rarity_ancient",
@@ -18,6 +19,7 @@
     "id": "collectible-969",
     "name": "10 Year Veteran Coin",
     "name_original": "CollectibleCoin_TenYearService",
+    "code": "#CSGO_CollectibleCoin_TenYearService",
     "description": "Has been a member of the Counter-Strike community for over 10 years.",
     "rarity": {
       "id": "rarity_ancient",
@@ -33,6 +35,7 @@
     "id": "collectible-970",
     "name": "Loyalty Badge",
     "name_original": "CollectibleCoin_FortiusQuoFidelius",
+    "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
     "description": "This badge commemorates loyal membership in the Counter-Strike community prior to the Danger Zone update.\\n\\n<i>Strength through loyalty.</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -48,6 +51,7 @@
     "id": "collectible-987",
     "name": "10 Year Birthday Coin",
     "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
+    "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
     "description": "Celebrated CS:GO's 10th birthday with the CS:GO community.\\n\\n<i>Celebrating ten years of headshots, clutches, and the community. Happy 10th birthday, CS:GO!</i>",
     "rarity": {
       "id": "rarity_ancient",
@@ -63,6 +67,7 @@
     "id": "collectible-996",
     "name": "Global Offensive Badge",
     "name_original": "CollectibleCoin_CoinCsgo",
+    "code": "#CSGO_CollectibleCoin_CoinCsgo",
     "description": "This badge commemorates loyal membership in the Counter-Strike: Global Offensive community prior to the release of Counter-Strike 2. \\n\\n<i>Legends never die.</i>",
     "rarity": {
       "id": "rarity_ancient",

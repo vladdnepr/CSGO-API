@@ -3,6 +3,7 @@
     "id": "crate-4007",
     "name": "Капсула з наліпкою",
     "name_original": "crate_sticker_pack01",
+    "code": "#CSGO_crate_sticker_pack01",
     "description": null,
     "type": "Sticker Capsule",
     "first_sale_date": "2014/01/29",
@@ -161,12 +162,14 @@
     "contains_rare": [],
     "market_hash_name": "Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4012",
     "name": "Капсула з наліпкою, серія #2",
     "name_original": "crate_sticker_pack02",
+    "code": "#CSGO_crate_sticker_pack02",
     "description": null,
     "type": "Sticker Capsule",
     "first_sale_date": "2014/01/29",
@@ -335,12 +338,14 @@
     "contains_rare": [],
     "market_hash_name": "Sticker Capsule 2",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4014",
     "name": "Претенденти на кубок EMS Katowice 2014",
     "name_original": "crate_sticker_pack_kat2014_01",
+    "code": "#CSGO_crate_sticker_pack_kat2014_01",
     "description": "Ця капсула містить одну з наліпок учасників «EMS One Катовіце 2014». Частина прибутків від її продажу розподіляється порівно між причетними організаціями.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/03/02",
@@ -519,12 +524,14 @@
     "contains_rare": [],
     "market_hash_name": "EMS Katowice 2014 Challengers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4015",
     "name": "Легенди EMS Katowice 2014",
     "name_original": "crate_sticker_pack_kat2014_02",
+    "code": "#CSGO_crate_sticker_pack_kat2014_02",
     "description": "Ця капсула містить одну з наліпок учасників «EMS One Катовіце 2014». Частина прибутків від її продажу розподіляється порівно між причетними організаціями.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/03/02",
@@ -703,12 +710,14 @@
     "contains_rare": [],
     "market_hash_name": "EMS Katowice 2014 Legends",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4016",
     "name": "Капсула з наліпками від спільноти, серія #1",
     "name_original": "crate_sticker_pack_community01",
+    "code": "#CSGO_crate_sticker_pack_community01",
     "description": "Ця капсула містить одну з наліпок, зроблених членами спільноти. Частина прибутку від продажу капсул рівно розподіляється між авторами.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/06/11",
@@ -887,12 +896,14 @@
     "contains_rare": [],
     "market_hash_name": "Community Sticker Capsule 1",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4020",
     "name": "Легенди «ESL One Cologne 2014»",
     "name_original": "crate_sticker_pack_cologne2014_01",
+    "code": "#CSGO_crate_sticker_pack_cologne2014_01",
     "description": "Ця капсула містить одну наліпку від учасника «ESL One Кельн 2014». Частина прибутку від продажів порівну розділяється поміж організаціями, що є учасниками турніру.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/08/01",
@@ -1051,12 +1062,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Legends",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4021",
     "name": "Учасники «ESL One Cologne 2014»",
     "name_original": "crate_sticker_pack_cologne2014_02",
+    "code": "#CSGO_crate_sticker_pack_cologne2014_02",
     "description": "Ця капсула містить одну наліпку від учасника «ESL One Кельн 2014». Частина прибутку від продажів порівну розділяється поміж організаціями, що є учасниками турніру.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/08/01",
@@ -1255,12 +1268,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Challengers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4030",
     "name": "Легенди DreamHack 2014 (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_dhw2014_01",
+    "code": "#CSGO_crate_sticker_pack_dhw2014_01",
     "description": "Ця капсула містить одну голографічну або лискучу наліпку від одного з учасників «DreamHack 2014». Частка прибутку з продажів буде рівно розподілена між організаціями, що беруть участь.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/11/20",
@@ -1399,12 +1414,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2014 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_dhw2014_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_dhw2014_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4086",
     "name": "Легенди ESL One Katowice 2015 (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_eslkatowice2015_01",
+    "code": "#CSGO_crate_sticker_pack_eslkatowice2015_01",
     "description": "Ця капсула містить одну голографічну або лискучу наліпку від одного з учасників «ESL One Катовіце 2015». Частка прибутку з продажів буде рівно розподілена між організаціями, що беруть участь.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/02/26",
@@ -1583,12 +1600,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4087",
     "name": "Претенденти на кубок ESL One Katowice 2015 (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_eslkatowice2015_02",
+    "code": "#CSGO_crate_sticker_pack_eslkatowice2015_02",
     "description": "Ця капсула містить одну голографічну або лискучу наліпку від одного з учасників «ESL One Катовіце 2015». Частка прибутку з продажів буде рівно розподілена між організаціями, що беруть участь.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/02/26",
@@ -1767,12 +1786,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4090",
     "name": "Капсула з наліпками Enfu",
     "name_original": "crate_sticker_pack_enfu_capsule",
+    "code": "#CSGO_crate_sticker_pack_enfu_capsule",
     "description": "Ця капсула містить різні наліпки від художника спільноти ENFU.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/04/22",
@@ -1931,12 +1952,14 @@
     "contains_rare": [],
     "market_hash_name": "Enfu Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_enfu_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_enfu_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4109",
     "name": "Легенди ESL One Cologne 2015 (лискуча)",
     "name_original": "crate_sticker_pack_eslcologne2015_legends",
+    "code": "#CSGO_crate_sticker_pack_eslcologne2015_legends",
     "description": "Ця капсула містить одну лискучу наліпку учасників «ESL One Cologne 2015».\\n\\n50% з продажів розподіляється порівно між причетними організаціями.\\n\\n50.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/8/10",
@@ -2035,12 +2058,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Legends (Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4110",
     "name": "Учасники ESL One Cologne 2015 (лискуча)",
     "name_original": "crate_sticker_pack_eslcologne2015_challengers",
+    "code": "#CSGO_crate_sticker_pack_eslcologne2015_challengers",
     "description": "Ця капсула містить одну лискучу наліпку учасників «ESL One Cologne 2015».\\n\\n50% з продажів розподіляється порівно між причетними організаціями.\\n\\n50.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/8/10",
@@ -2139,12 +2164,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Challengers (Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4156",
     "name": "Легенди DreamHack Клуж-Напока 2015 (лискуча)",
     "name_original": "crate_sticker_pack_cluj2015_legends",
+    "code": "#CSGO_crate_sticker_pack_cluj2015_legends",
     "description": "Ця капсула містить одну лискучу наліпку команди, що брала участь на «DreamHack Клуж-Напока 2015».\\n\\n50% з продажів цієї капсули отримують вказані гравці та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/10/20",
@@ -2243,12 +2270,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Legends (Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4157",
     "name": "Учасники DreamHack Клуж-Напока 2015 (лискуча)",
     "name_original": "crate_sticker_pack_cluj2015_challengers",
+    "code": "#CSGO_crate_sticker_pack_cluj2015_challengers",
     "description": "Ця капсула містить одну лискучу наліпку команди, що брала участь на «DreamHack Клуж-Напока 2015».\\n\\n50% з продажів цієї капсули отримують вказані гравці та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/10/20",
@@ -2347,12 +2376,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4183",
     "name": "Капсула з красунями",
     "name_original": "crate_sticker_pack_pinups_capsule",
+    "code": "#CSGO_crate_sticker_pack_pinups_capsule",
     "description": "В цій капсулі знаходяться різноманітні наліпки від художника спільноти ninjasia.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/12/01",
@@ -2481,12 +2512,14 @@
     "contains_rare": [],
     "market_hash_name": "Pinups Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_pinups_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_pinups_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4184",
     "name": "Капсула Slid3",
     "name_original": "crate_sticker_pack_slid3_capsule",
+    "code": "#CSGO_crate_sticker_pack_slid3_capsule",
     "description": "В цій капсулі знаходяться різноманітні наліпки від художника спільноти Slid3.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/12/01",
@@ -2645,12 +2678,14 @@
     "contains_rare": [],
     "market_hash_name": "Slid3 Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_slid3_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_slid3_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4185",
     "name": "Капсула з наліпками «Члени команди»",
     "name_original": "crate_sticker_pack_team_roles_capsule",
+    "code": "#CSGO_crate_sticker_pack_team_roles_capsule",
     "description": "Ця капсула містить різні наліпки від художника спільноти ThePolymath.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/12/01",
@@ -2769,12 +2804,14 @@
     "contains_rare": [],
     "market_hash_name": "Team Roles Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_team_roles_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_team_roles_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4205",
     "name": "Легенди MLG Columbus 2016 (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_columbus2016_legends",
+    "code": "#CSGO_crate_sticker_pack_columbus2016_legends",
     "description": "Ця капсула містить одну голографічна чи лискучу наліпку з автографом учасника MLG Колумбус 2016.\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаним гравцям та організаціям.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016-03-10",
@@ -2963,12 +3000,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4206",
     "name": "Учасники MLG Columbus 2016 (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_columbus2016_challengers",
+    "code": "#CSGO_crate_sticker_pack_columbus2016_challengers",
     "description": "Ця капсула містить одну голографічна чи лискучу наліпку з автографом учасника MLG Колумбус 2016.\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаним гравцям та організаціям.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016-03-10",
@@ -3157,12 +3196,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4254",
     "name": "Легенди «Cologne 2016» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_cologne2016_legends",
+    "code": "#CSGO_crate_sticker_pack_cologne2016_legends",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку легенди «Cologne 2016».\\n\\n50% з продажів цієї капсули отримують вказані гравці та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016-06-24",
@@ -3351,12 +3392,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2016_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2016_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4255",
     "name": "Учасники «Cologne 2016» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_cologne2016_challengers",
+    "code": "#CSGO_crate_sticker_pack_cologne2016_challengers",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника «Cologne 2016».\\n\\n50% з продажів цієї капсули отримують вказані гравці та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016-06-24",
@@ -3545,12 +3588,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2016_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2016_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4282",
     "name": "Капсула «Улюблені обличчя»",
     "name_original": "crate_sticker_pack_sugarface_capsule",
+    "code": "#CSGO_crate_sticker_pack_sugarface_capsule",
     "description": "Ця капсула містить наліпки від Guardian Gear, творця зі спільноти.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016/08/16",
@@ -3699,12 +3744,14 @@
     "contains_rare": [],
     "market_hash_name": "Sugarface Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_sugarface_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_sugarface_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4283",
     "name": "Капсула «Бестіарій»",
     "name_original": "crate_sticker_pack_bestiary_capsule",
+    "code": "#CSGO_crate_sticker_pack_bestiary_capsule",
     "description": "Ця капсула містить наліпки від apёl7 та Less, творців зі спільноти.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016/08/16",
@@ -3853,12 +3900,14 @@
     "contains_rare": [],
     "market_hash_name": "Bestiary Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_bestiary_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_bestiary_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4323",
     "name": "Легенди «Atlanta 2017» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_atlanta2017_legends",
+    "code": "#CSGO_crate_sticker_pack_atlanta2017_legends",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку легенди «Атланта 2017»\\n\\n50% з продажів цієї капсули отримують вказані гравці та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-01-10",
@@ -4047,12 +4096,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_atlanta2017_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_atlanta2017_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4324",
     "name": "Претенденти «Атланта 2017» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_atlanta2017_challengers",
+    "code": "#CSGO_crate_sticker_pack_atlanta2017_challengers",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника «Атланта 2017».\\n\\n50% з продажів цієї капсули отримують вказані гравці та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-01-10",
@@ -4241,12 +4292,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_atlanta2017_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_atlanta2017_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4391",
     "name": "Легенди «Краків 2017» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_krakow2017_legends",
+    "code": "#CSGO_crate_sticker_pack_krakow2017_legends",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника «Краків 2017».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаному гравцеві та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-07-05",
@@ -4435,12 +4488,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_krakow2017_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_krakow2017_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4392",
     "name": "Претенденти «Краків 2017» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_krakow2017_challengers",
+    "code": "#CSGO_crate_sticker_pack_krakow2017_challengers",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника «Краків 2017».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаному гравцеві та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-07-05",
@@ -4629,12 +4684,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_krakow2017_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_krakow2017_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4404",
     "name": "Капсула з наліпками Perfect World, серія #1",
     "name_original": "crate_sticker_pack_illuminate_capsule_01",
+    "code": "#CSGO_crate_sticker_pack_illuminate_capsule_01",
     "description": "Ця капсула містить наліпки від Perfect World, що присвячені запуску Counter-Strike: Global Offensive у материковому Китаї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017/09/15",
@@ -4793,12 +4850,14 @@
     "contains_rare": [],
     "market_hash_name": "Perfect World Sticker Capsule 1",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_illuminate_capsule_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_illuminate_capsule_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4405",
     "name": "Капсула з наліпками Perfect World, серія #2",
     "name_original": "crate_sticker_pack_illuminate_capsule_02",
+    "code": "#CSGO_crate_sticker_pack_illuminate_capsule_02",
     "description": "Ця капсула містить наліпки від Perfect World, що присвячені випуску Counter-Strike: Global Offensive у материковому Китаї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017/09/15",
@@ -4957,12 +5016,14 @@
     "contains_rare": [],
     "market_hash_name": "Perfect World Sticker Capsule 2",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_illuminate_capsule_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_illuminate_capsule_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4456",
     "name": "Легенди «Бостон 2018» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_boston2018_legends",
+    "code": "#CSGO_crate_sticker_pack_boston2018_legends",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника «Бостон 2017».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаному гравцеві та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -5151,12 +5212,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4457",
     "name": "Претенденти, що повертаються на «Бостон 2018» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_boston2018_challengers",
+    "code": "#CSGO_crate_sticker_pack_boston2018_challengers",
     "description": "Ця капсула містить одну лискучу наліпку команди, що брала участь на «Бостон 2018».\\n\\n50% з продажів цієї капсули отримують вказані гравці та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -5345,12 +5408,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Returning Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4458",
     "name": "Претенденти малих турнірів на «Бостон 2018» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_boston2018_contenders",
+    "code": "#CSGO_crate_sticker_pack_boston2018_contenders",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника «Бостон 2018».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаному гравцеві та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -5545,12 +5610,14 @@
     ],
     "market_hash_name": "Boston 2018 Minor Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4470",
     "name": "Капсула від спільноти 2018",
     "name_original": "crate_sticker_pack_comm2018_01_capsule",
+    "code": "#CSGO_crate_sticker_pack_comm2018_01_capsule",
     "description": "Ця капсула містить різні наліпки від спільноти майстерні.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017/12/11",
@@ -5699,12 +5766,14 @@
     "contains_rare": [],
     "market_hash_name": "Community Capsule 2018",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_comm2018_01_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_comm2018_01_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4474",
     "name": "Претенденти малих турнірів на «Бостон 2018» із Flash Gaming (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_boston2018_contenders_flg",
+    "code": "#CSGO_crate_sticker_pack_boston2018_contenders_flg",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника «Бостон 2018».\\n\\n50% з продажів цієї капсули отримують вказані гравці та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -5893,12 +5962,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_contenders_flg_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_contenders_flg_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4477",
     "name": "Капсула «Курча»",
     "name_original": "crate_sticker_pack_chicken_capsule",
+    "code": "#CSGO_crate_sticker_pack_chicken_capsule",
     "description": "Ця капсула містить різноманітні наліпки від художника зі спільноти Slid3.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/06/10",
@@ -6077,12 +6148,14 @@
     "contains_rare": [],
     "market_hash_name": "Chicken Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_chicken_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_chicken_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4478",
     "name": "Легенди чемпіонату «Бостон 2018» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_boston2018_legends_ntv",
+    "code": "#CSGO_crate_sticker_pack_boston2018_legends_ntv",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника «Бостон 2017».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаному гравцеві та організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -6251,12 +6324,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Attending Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_legends_ntv_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_legends_ntv_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4533",
     "name": "Легенди «Лондон 2018» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_london2018_legends",
+    "code": "#CSGO_crate_sticker_pack_london2018_legends",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника турніру «Лондон 2018».\\n\\n50% коштів від продажу цієї капсули отримає вказаний гравець та організація.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2018-09-04",
@@ -6445,12 +6520,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4534",
     "name": "Претенденти, що повертаються на «Лондон 2018» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_london2018_challengers",
+    "code": "#CSGO_crate_sticker_pack_london2018_challengers",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника турніру «Лондон 2018».\\n\\n50% коштів від продажу цієї капсули отримає вказаний гравець та організація.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2018-09-04",
@@ -6639,12 +6716,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Returning Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4535",
     "name": "Претенденти малих турнірів на «Лондон 2018» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_london2018_contenders",
+    "code": "#CSGO_crate_sticker_pack_london2018_contenders",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника турніру «Лондон 2018».\\n\\n50% коштів від продажу цієї капсули отримає вказаний гравець та організація.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2018-09-04",
@@ -6833,12 +6912,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Minor Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4547",
     "name": "Капсула наліпок звань",
     "name_original": "crate_sticker_pack_skillgroup_capsule",
+    "code": "#CSGO_crate_sticker_pack_skillgroup_capsule",
     "description": "Ця капсула містить низку наліпок від творця спільноти daniDem.",
     "type": "Sticker Capsule",
     "first_sale_date": "2018/11/15",
@@ -7027,12 +7108,14 @@
     "contains_rare": [],
     "market_hash_name": "Skill Groups Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_skillgroup_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_skillgroup_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4584",
     "name": "Легенди «Катовіце 2019» (голографічна/лискучі)",
     "name_original": "crate_sticker_pack_katowice2019_legends",
+    "code": "#CSGO_crate_sticker_pack_katowice2019_legends",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника турніру «Катовіце 2019».\\n\\n50% коштів від продажу цієї капсули отримає вказаний гравець та організація.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-02-04",
@@ -7221,12 +7304,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4585",
     "name": "Претенденти, що повертаються на «Катовіце 2019» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_katowice2019_challengers",
+    "code": "#CSGO_crate_sticker_pack_katowice2019_challengers",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника турніру «Катовіце 2019».\\n\\n50% коштів від продажу цієї капсули отримає вказаний гравець та організація.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-02-04",
@@ -7375,12 +7460,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Returning Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4586",
     "name": "Претенденти малих турнірів на «Катовіце 2019» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_katowice2019_contenders",
+    "code": "#CSGO_crate_sticker_pack_katowice2019_contenders",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника турніру «Катовіце 2019».\\n\\n50% коштів від продажу цієї капсули отримає вказаний гравець та організація.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-02-04",
@@ -7609,12 +7696,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Minor Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4597",
     "name": "Капсула «Halo»",
     "name_original": "crate_sticker_pack_halo_capsule",
+    "code": "#CSGO_crate_sticker_pack_halo_capsule",
     "description": "Ця капсула містить різні наліпки від 343 Industries.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/11/25",
@@ -7793,12 +7882,14 @@
     "contains_rare": [],
     "market_hash_name": "Halo Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_halo_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_halo_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4599",
     "name": "Капсула Feral Predators",
     "name_original": "crate_sticker_pack_feral_predators_capsule",
+    "code": "#CSGO_crate_sticker_pack_feral_predators_capsule",
     "description": "Ця капсула містить низку наліпок від творців спільноти 2Minds, OniLolz та Zaphk.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/04/15",
@@ -7987,12 +8078,14 @@
     "contains_rare": [],
     "market_hash_name": "Feral Predators Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_feral_predators_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_feral_predators_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4600",
     "name": "Колекція наліпок «Розірвана мережа»",
     "name_original": "crate_sticker_pack_shattered_web",
+    "code": "#CSGO_crate_sticker_pack_shattered_web",
     "description": "Ця колекція містить різноманітні наліпки, присвячені операції «Розірвана мережа».",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/10/1",
@@ -8091,12 +8184,14 @@
     "contains_rare": [],
     "market_hash_name": "Shattered Web Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_shattered_web_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_shattered_web_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4616",
     "name": "Капсула з наліпками «Warhammer 40,000»",
     "name_original": "crate_sticker_pack_warhammer",
+    "code": "#CSGO_crate_sticker_pack_warhammer",
     "description": "Ця капсула містить різноманітні наліпки з серії ігор «Warhammer 40,000».",
     "type": "Sticker Capsule",
     "first_sale_date": "2020/05/28",
@@ -8275,12 +8370,14 @@
     "contains_rare": [],
     "market_hash_name": "Warhammer 40,000 Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_warhammer_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_warhammer_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4654",
     "name": "Легенди «Берлін 2019» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_berlin2019_legends",
+    "code": "#CSGO_crate_sticker_pack_berlin2019_legends",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника турніру «Берлін 2019».\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-08-08",
@@ -8469,12 +8566,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4655",
     "name": "Претенденти, що повертаються на «Берлін 2019» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_berlin2019_challengers",
+    "code": "#CSGO_crate_sticker_pack_berlin2019_challengers",
     "description": "Ця капсула містить одну лискучу або голографічну наліпку учасника турніру «Берлін 2019».\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-08-08",
@@ -8603,12 +8702,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Returning Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4656",
     "name": "Претенденти малих турнірів на «Берлін 2019» (голографічна/лискуча)",
     "name_original": "crate_sticker_pack_berlin2019_contenders",
+    "code": "#CSGO_crate_sticker_pack_berlin2019_contenders",
     "description": "Ця капсула містить одну голографічна чи лискучу наліпку з автографом учасника турніру «Берлін 2019».\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-08-08",
@@ -8857,12 +8958,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Minor Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4670",
     "name": "Капсула з наліпками «CS20»",
     "name_original": "crate_sticker_pack_cs20_capsule",
+    "code": "#CSGO_crate_sticker_pack_cs20_capsule",
     "description": "Ця ювілейна капсула з нагоди двадцятиріччя серії Counter-Strike містить різноманітні наліпки з майстерні спільноти Steam.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/10/16",
@@ -9071,12 +9174,14 @@
     "contains_rare": [],
     "market_hash_name": "CS20 Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cs20_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cs20_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4694",
     "name": "Капсула з наліпками «Half-Life: Alyx»",
     "name_original": "crate_sticker_pack_hlalyx_capsule",
+    "code": "#CSGO_crate_sticker_pack_hlalyx_capsule",
     "description": "Ця капсула містить різноманітні наліпки на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life.",
     "type": "Sticker Capsule",
     "first_sale_date": "2020/03/23",
@@ -9215,12 +9320,14 @@
     "contains_rare": [],
     "market_hash_name": "Half-Life: Alyx Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_hlalyx_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_hlalyx_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4719",
     "name": "Колекція наліпок «Віддача»",
     "name_original": "crate_sticker_pack_recoil",
+    "code": "#CSGO_crate_sticker_pack_recoil",
     "description": null,
     "type": "Sticker Capsule",
     "first_sale_date": "2019/10/1",
@@ -9549,12 +9656,14 @@
     "contains_rare": [],
     "market_hash_name": "Recoil Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_recoil_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_recoil_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4729",
     "name": "Колекція наліпок «Зламане ікло»",
     "name_original": "crate_sticker_pack_broken_fang",
+    "code": "#CSGO_crate_sticker_pack_broken_fang",
     "description": "Ця колекція містить різноманітні наліпки, присвячені операції «Зламане ікло».",
     "type": "Sticker Capsule",
     "first_sale_date": "2020/11/9",
@@ -9723,12 +9832,14 @@
     "contains_rare": [],
     "market_hash_name": "Broken Fang Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_broken_fang_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_broken_fang_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4743",
     "name": "Легенди «РВТ 2020»",
     "name_original": "crate_sticker_pack_rmr2020_legends",
+    "code": "#CSGO_crate_sticker_pack_rmr2020_legends",
     "description": "Ця капсула містить одну паперову, голографічну, лискучу або золоту наліпку з автографом учасника «РВТ 2020».\\n\\n50% коштів від продажу цієї капсули отримають вказані організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-01-19",
@@ -10057,12 +10168,14 @@
     "contains_rare": [],
     "market_hash_name": "2020 RMR Legends",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4744",
     "name": "Претенденти «РВТ 2020»",
     "name_original": "crate_sticker_pack_rmr2020_challengers",
+    "code": "#CSGO_crate_sticker_pack_rmr2020_challengers",
     "description": "Ця капсула містить одну паперову, голографічну, лискучу або золоту наліпку з автографом учасника «РВТ 2020».\\n\\n50% коштів від продажу цієї капсули отримають вказані організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-01-19",
@@ -10391,12 +10504,14 @@
     "contains_rare": [],
     "market_hash_name": "2020 RMR Challengers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4745",
     "name": "Претенденти «РВТ 2020»",
     "name_original": "crate_sticker_pack_rmr2020_contenders",
+    "code": "#CSGO_crate_sticker_pack_rmr2020_contenders",
     "description": "Ця капсула містить одну паперову, голографічну, лискучу або золоту наліпку з автографом учасника «РВТ 2020».\\n\\n50% коштів від продажу цієї капсули отримають вказані організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-01-19",
@@ -10725,12 +10840,14 @@
     "contains_rare": [],
     "market_hash_name": "2020 RMR Contenders",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4746",
     "name": "Капсула з кепсько намальованою наліпкою",
     "name_original": "crate_sticker_pack_poorly_drawn_capsule",
+    "code": "#CSGO_crate_sticker_pack_poorly_drawn_capsule",
     "description": "Ця капсула містить різноманітні кепсько намальовані наліпки від художників спільноти, а саме HH110011HH та Hoxton.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021/02/14",
@@ -10939,12 +11056,14 @@
     "contains_rare": [],
     "market_hash_name": "Poorly Drawn Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4779",
     "name": "Колекція наліпок операції «Хижі води» з крамниці серфінгу",
     "name_original": "crate_sticker_pack_riptide_surfshop",
+    "code": "#CSGO_crate_sticker_pack_riptide_surfshop",
     "description": null,
     "type": "Sticker Capsule",
     "first_sale_date": "2021/08/01",
@@ -11673,12 +11792,14 @@
     "contains_rare": [],
     "market_hash_name": "Riptide Surf Shop Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4782",
     "name": "Капсула з наліпками від спільноти 2021",
     "name_original": "crate_sticker_pack_community2021_capsule",
+    "code": "#CSGO_crate_sticker_pack_community2021_capsule",
     "description": "Ця капсула містить різні наліпки від художників майстерні Steam.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021/09/02",
@@ -11897,12 +12018,14 @@
     "contains_rare": [],
     "market_hash_name": "2021 Community Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community2021_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community2021_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4783",
     "name": "Колекція наліпок операції «Хижі води»",
     "name_original": "crate_sticker_pack_op_riptide_capsule",
+    "code": "#CSGO_crate_sticker_pack_op_riptide_capsule",
     "description": "Ця колекція містить різноманітні наліпки, присвячені операції «Хижі води».",
     "type": "Sticker Capsule",
     "first_sale_date": "2021/09/21",
@@ -12051,12 +12174,14 @@
     "contains_rare": [],
     "market_hash_name": "Operation Riptide Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_op_riptide_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_op_riptide_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4784",
     "name": "Капсула з наліпками «Зал засідань»",
     "name_original": "crate_sticker_pack_spring2022_capsule",
+    "code": "#CSGO_crate_sticker_pack_spring2022_capsule",
     "description": "Ця капсула містить різні наліпки від художників майстерні Steam. Випущена в лютому 2022 року.",
     "type": "Sticker Capsule",
     "first_sale_date": "2022/02/20",
@@ -12285,12 +12410,14 @@
     "contains_rare": [],
     "market_hash_name": "The Boardroom Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_spring2022_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_spring2022_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4789",
     "name": "Капсула з наліпками «Battlefield 2042»",
     "name_original": "crate_sticker_pack_bf2042_capsule",
+    "code": "#CSGO_crate_sticker_pack_bf2042_capsule",
     "description": "Ця капсула містить різні наліпки від Electronic Arts.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021/10/07",
@@ -12469,12 +12596,14 @@
     "contains_rare": [],
     "market_hash_name": "Battlefield 2042 Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_bf2042_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_bf2042_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4803",
     "name": "Капсули з наліпками легенд «Стокгольм 2021»",
     "name_original": "crate_sticker_pack_stockh2021_legends",
+    "code": "#CSGO_crate_sticker_pack_stockh2021_legends",
     "description": "Ця капсула містить одну дуже рідкісну, лискучу, золоту або голографічну наліпку учасника «Стокгольм 2021».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-10-10",
@@ -12843,12 +12972,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4804",
     "name": "Капсула з наліпками претендентів «Стокгольм 2021»",
     "name_original": "crate_sticker_pack_stockh2021_challengers",
+    "code": "#CSGO_crate_sticker_pack_stockh2021_challengers",
     "description": "Ця капсула містить одну дуже рідкісну, лискучу, золоту або голографічну наліпку учасника «Стокгольм 2021».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-10-10",
@@ -13217,12 +13348,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4805",
     "name": "Капсула з наліпками учасників «Стокгольм 2021»",
     "name_original": "crate_sticker_pack_stockh2021_contenders",
+    "code": "#CSGO_crate_sticker_pack_stockh2021_contenders",
     "description": "Ця капсула містить одну дуже рідкісну, лискучу, золоту або голографічну наліпку учасника «Стокгольм 2021».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-10-10",
@@ -13591,12 +13724,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4832",
     "name": "Капсула з наліпками легенд «Антверпен 2022»",
     "name_original": "crate_sticker_pack_antwerp2022_legends",
+    "code": "#CSGO_crate_sticker_pack_antwerp2022_legends",
     "description": "Ця капсула містить одну дуже рідкісну, сяйнисту, голографічну або золоту наліпку легенди «Антверпен 2022».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -13965,12 +14100,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4833",
     "name": "Капсула з наліпками претендентів «Антверпен 2022»",
     "name_original": "crate_sticker_pack_antwerp2022_challengers",
+    "code": "#CSGO_crate_sticker_pack_antwerp2022_challengers",
     "description": "Ця капсула містить одну дуже рідкісну, сяйнисту, голографічну або золоту наліпку претендента «Антверпен 2022».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -14339,12 +14476,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4834",
     "name": "Капсула з наліпками учасників «Антверпен 2022»",
     "name_original": "crate_sticker_pack_antwerp2022_contenders",
+    "code": "#CSGO_crate_sticker_pack_antwerp2022_contenders",
     "description": "Ця капсула містить одну дуже рідкісну, сяйнисту, голографічну або золоту наліпку учасника «Антверпен 2022».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -14713,12 +14852,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4847",
     "name": "Капсула з наліпками «Десятиріччя CS:GO»",
     "name_original": "crate_sticker_pack_csgo10_capsule",
+    "code": "#CSGO_crate_sticker_pack_csgo10_capsule",
     "description": "Ця капсула містить різноманітні наліпки від художників з майстерні Steam, які присвячені десятому Дню народження CS:GO.",
     "type": "Sticker Capsule",
     "first_sale_date": "2022/06/15",
@@ -15377,12 +15518,14 @@
     "contains_rare": [],
     "market_hash_name": "10 Year Birthday Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_csgo10_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_csgo10_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4857",
     "name": "Капсула з наліпками легенд «Ріо 2022»",
     "name_original": "crate_sticker_pack_rio2022_legends",
+    "code": "#CSGO_crate_sticker_pack_rio2022_legends",
     "description": "Ця капсула містить одну паперову, сяйнисту, голографічну або золоту наліпку легенди «Ріо 2022».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -15751,12 +15894,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4858",
     "name": "Капсула з наліпками претендентів «Ріо 2022»",
     "name_original": "crate_sticker_pack_rio2022_challengers",
+    "code": "#CSGO_crate_sticker_pack_rio2022_challengers",
     "description": "Ця капсула містить одну паперову, сяйнисту, голографічну або золоту наліпку претендента «Ріо 2022».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -16125,12 +16270,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4859",
     "name": "Капсула з наліпками учасників «Ріо 2022»",
     "name_original": "crate_sticker_pack_rio2022_contenders",
+    "code": "#CSGO_crate_sticker_pack_rio2022_contenders",
     "description": "Ця капсула містить одну паперову, сяйнисту, голографічну або золоту наліпку учасника «Ріо 2022».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -16499,12 +16646,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4879",
     "name": "Капсула з наліпками «Шпигунство»",
     "name_original": "crate_sticker_pack_community2022_capsule",
+    "code": "#CSGO_crate_sticker_pack_community2022_capsule",
     "description": "Ця капсула містить різні наліпки від художників майстерні Steam. Випущена в лютому 2023 року.",
     "type": "Sticker Capsule",
     "first_sale_date": "2023/01/05",
@@ -16723,12 +16872,14 @@
     "contains_rare": [],
     "market_hash_name": "Espionage Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community2022_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community2022_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4890",
     "name": "Капсула з наліпками легенд «Париж 2023»",
     "name_original": "crate_sticker_pack_paris2023_legends",
+    "code": "#CSGO_crate_sticker_pack_paris2023_legends",
     "description": "Ця капсула містить одну паперову, сяйнисту, голографічну або золоту наліпку легенди «Париж 2023».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -17097,12 +17248,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4891",
     "name": "Капсула з наліпками претендентів «Париж 2023»",
     "name_original": "crate_sticker_pack_paris2023_challengers",
+    "code": "#CSGO_crate_sticker_pack_paris2023_challengers",
     "description": "Ця капсула містить одну паперову, сяйнисту, голографічну або золоту наліпку претендента «Париж 2023».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -17471,12 +17624,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4892",
     "name": "Капсула з наліпками учасників «Париж 2023»",
     "name_original": "crate_sticker_pack_paris2023_contenders",
+    "code": "#CSGO_crate_sticker_pack_paris2023_contenders",
     "description": "Ця капсула містить одну паперову, сяйнисту, голографічну або золоту наліпку учасника «Париж 2023».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -17845,12 +18000,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4905",
     "name": "Капсула з наліпками «Засідка»",
     "name_original": "crate_sticker_pack_community_2024_capsule",
+    "code": "#CSGO_crate_sticker_pack_community_2024_capsule",
     "description": "Ця капсула містить різні наліпки від художників майстерні Steam. Випущена в лютому 2024 року.",
     "type": "Sticker Capsule",
     "first_sale_date": "2024-01-25",
@@ -18069,12 +18226,14 @@
     "contains_rare": [],
     "market_hash_name": "Ambush Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4923",
     "name": "Капсула з наліпками легенд «Копенгаген 2024»",
     "name_original": "crate_sticker_pack_cph2024_legends",
+    "code": "#CSGO_crate_sticker_pack_cph2024_legends",
     "description": "Ця капсула містить одну паперову, сяйнисту, голографічну або золоту наліпку легенди турніру «Копенгаген 2024».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -18443,12 +18602,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4924",
     "name": "Капсула з наліпками претендентів «Копенгаген 2024»",
     "name_original": "crate_sticker_pack_cph2024_challengers",
+    "code": "#CSGO_crate_sticker_pack_cph2024_challengers",
     "description": "Ця капсула містить одну паперову, сяйнисту, голографічну або золоту наліпку претендента турніру «Копенгаген 2024».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -18817,12 +18978,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4925",
     "name": "Капсула з наліпками учасників «Копенгаген 2024»",
     "name_original": "crate_sticker_pack_cph2024_contenders",
+    "code": "#CSGO_crate_sticker_pack_cph2024_contenders",
     "description": "Ця капсула містить одну паперову, сяйнисту, голографічну або золоту наліпку учасника турніру «Копенгаген 2024».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаній організації.\\n\\nЦя наліпка прикріплюється на будь-яку вашу зброю. Її можна пошкрябати, щоби надати зношеного вигляду. Ви можете шкрябати наліпку кілька разів, щоразу роблячи її обшарпанішою, аж доки вона не відпаде зі зброї.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -19191,6 +19354,7 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_contenders_png.png",
+    "model_player": null
   }
 ]

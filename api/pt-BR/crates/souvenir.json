@@ -3,6 +3,7 @@
     "id": "crate-4006",
     "name": "Pacote de Lembrança do DreamHack 2013",
     "name_original": "crate_dhw13_promo",
+    "code": "#CSGO_crate_dhw13_promo",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -1023,12 +1024,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2013 Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw13_promo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw13_promo_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4013",
     "name": "Pacote de Lembrança do EMS One 2014",
     "name_original": "crate_ems14_promo",
+    "code": "#CSGO_crate_ems14_promo",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -2038,12 +2041,14 @@
     "contains_rare": [],
     "market_hash_name": "EMS One 2014 Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_ems14_promo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_ems14_promo_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4022",
     "name": "Pacote de Lembrança do ESL One Colônia 2014 — Dust II",
     "name_original": "crate_esl14_promo_de_dust2",
+    "code": "#CSGO_crate_esl14_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -2228,12 +2233,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4023",
     "name": "Pacote de Lembrança do ESL One Colônia 2014 — Inferno",
     "name_original": "crate_esl14_promo_de_inferno",
+    "code": "#CSGO_crate_esl14_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -2308,12 +2315,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4024",
     "name": "Pacote de Lembrança do ESL One Colônia 2014 — Mirage",
     "name_original": "crate_esl14_promo_de_mirage",
+    "code": "#CSGO_crate_esl14_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -2487,12 +2496,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4025",
     "name": "Pacote de Lembrança do ESL One Colônia 2014 — Nuke",
     "name_original": "crate_esl14_promo_de_nuke",
+    "code": "#CSGO_crate_esl14_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -2600,12 +2611,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4026",
     "name": "Pacote de Lembrança do ESL One Colônia 2014 — Cache",
     "name_original": "crate_esl14_promo_de_cache",
+    "code": "#CSGO_crate_esl14_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -2757,12 +2770,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4027",
     "name": "Pacote de Lembrança do ESL One Colônia 2014 — Cobblestone",
     "name_original": "crate_esl14_promo_de_cbble",
+    "code": "#CSGO_crate_esl14_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -2936,12 +2951,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4028",
     "name": "Pacote de Lembrança do ESL One Colônia 2014 — Overpass",
     "name_original": "crate_esl14_promo_de_overpass",
+    "code": "#CSGO_crate_esl14_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -3115,12 +3132,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esl14_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4031",
     "name": "Pacote de Lembrança do DreamHack 2014 — Dust II",
     "name_original": "crate_dhw14_promo_de_dust2",
+    "code": "#CSGO_crate_dhw14_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -3305,12 +3324,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2014 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4032",
     "name": "Pacote de Lembrança do DreamHack 2014 — Inferno",
     "name_original": "crate_dhw14_promo_de_inferno",
+    "code": "#CSGO_crate_dhw14_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -3385,12 +3406,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2014 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4033",
     "name": "Pacote de Lembrança do DreamHack 2014 — Mirage",
     "name_original": "crate_dhw14_promo_de_mirage",
+    "code": "#CSGO_crate_dhw14_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -3564,12 +3587,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2014 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4034",
     "name": "Pacote de Lembrança do DreamHack 2014 — Nuke",
     "name_original": "crate_dhw14_promo_de_nuke",
+    "code": "#CSGO_crate_dhw14_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -3677,12 +3702,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2014 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4035",
     "name": "Pacote de Lembrança do DreamHack 2014 — Cache",
     "name_original": "crate_dhw14_promo_de_cache",
+    "code": "#CSGO_crate_dhw14_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -3834,12 +3861,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2014 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4036",
     "name": "Pacote de Lembrança do DreamHack 2014 — Cobblestone",
     "name_original": "crate_dhw14_promo_de_cbble",
+    "code": "#CSGO_crate_dhw14_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -4013,12 +4042,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2014 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4037",
     "name": "Pacote de Lembrança do DreamHack 2014 — Overpass",
     "name_original": "crate_dhw14_promo_de_overpass",
+    "code": "#CSGO_crate_dhw14_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -4192,12 +4223,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2014 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_dhw14_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4079",
     "name": "Pacote de Lembrança do ESL One Katowice 2015 — Dust II",
     "name_original": "crate_eslkatowice2015_promo_de_dust2",
+    "code": "#CSGO_crate_eslkatowice2015_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -4382,12 +4415,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4080",
     "name": "Pacote de Lembrança do ESL One Katowice 2015 — Inferno",
     "name_original": "crate_eslkatowice2015_promo_de_inferno",
+    "code": "#CSGO_crate_eslkatowice2015_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -4462,12 +4497,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4081",
     "name": "Pacote de Lembrança do ESL One Katowice 2015 — Mirage",
     "name_original": "crate_eslkatowice2015_promo_de_mirage",
+    "code": "#CSGO_crate_eslkatowice2015_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -4641,12 +4678,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4082",
     "name": "Pacote de Lembrança do ESL One Katowice 2015 — Nuke",
     "name_original": "crate_eslkatowice2015_promo_de_nuke",
+    "code": "#CSGO_crate_eslkatowice2015_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -4754,12 +4793,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4083",
     "name": "Pacote de Lembrança do ESL One Katowice 2015 — Cache",
     "name_original": "crate_eslkatowice2015_promo_de_cache",
+    "code": "#CSGO_crate_eslkatowice2015_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -4911,12 +4952,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4084",
     "name": "Pacote de Lembrança do ESL One Katowice 2015 — Cobblestone",
     "name_original": "crate_eslkatowice2015_promo_de_cbble",
+    "code": "#CSGO_crate_eslkatowice2015_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -5090,12 +5133,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4085",
     "name": "Pacote de Lembrança do ESL One Katowice 2015 — Overpass",
     "name_original": "crate_eslkatowice2015_promo_de_overpass",
+    "code": "#CSGO_crate_eslkatowice2015_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -5269,12 +5314,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4131",
     "name": "Pacote de Lembrança do ESL One Colônia 2015 — Dust II",
     "name_original": "crate_eslcologne2015_promo_de_dust2",
+    "code": "#CSGO_crate_eslcologne2015_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -5459,12 +5506,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4132",
     "name": "Pacote de Lembrança do ESL One Colônia 2015 — Mirage",
     "name_original": "crate_eslcologne2015_promo_de_mirage",
+    "code": "#CSGO_crate_eslcologne2015_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -5638,12 +5687,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4133",
     "name": "Pacote de Lembrança do ESL One Colônia 2015 — Inferno",
     "name_original": "crate_eslcologne2015_promo_de_inferno",
+    "code": "#CSGO_crate_eslcologne2015_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -5718,12 +5769,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4134",
     "name": "Pacote de Lembrança do ESL One Colônia 2015 — Cobblestone",
     "name_original": "crate_eslcologne2015_promo_de_cbble",
+    "code": "#CSGO_crate_eslcologne2015_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -5897,12 +5950,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4135",
     "name": "Pacote de Lembrança do ESL One Colônia 2015 — Overpass",
     "name_original": "crate_eslcologne2015_promo_de_overpass",
+    "code": "#CSGO_crate_eslcologne2015_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -6076,12 +6131,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4136",
     "name": "Pacote de Lembrança do ESL One Colônia 2015 — Cache",
     "name_original": "crate_eslcologne2015_promo_de_cache",
+    "code": "#CSGO_crate_eslcologne2015_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -6233,12 +6290,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4137",
     "name": "Pacote de Lembrança do ESL One Colônia 2015 — Train",
     "name_original": "crate_eslcologne2015_promo_de_train",
+    "code": "#CSGO_crate_eslcologne2015_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -6412,12 +6471,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_eslcologne2015_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4176",
     "name": "Pacote de Lembrança do DreamHack Cluj-Napoca 2015 — Dust II",
     "name_original": "crate_cluj2015_promo_de_dust2",
+    "code": "#CSGO_crate_cluj2015_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -6602,12 +6663,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4177",
     "name": "Pacote de Lembrança do DreamHack Cluj-Napoca 2015 — Mirage",
     "name_original": "crate_cluj2015_promo_de_mirage",
+    "code": "#CSGO_crate_cluj2015_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -6781,12 +6844,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4178",
     "name": "Pacote de Lembrança do DreamHack Cluj-Napoca 2015 — Inferno",
     "name_original": "crate_cluj2015_promo_de_inferno",
+    "code": "#CSGO_crate_cluj2015_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -6861,12 +6926,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4179",
     "name": "Pacote de Lembrança do DreamHack Cluj-Napoca 2015 — Cobblestone",
     "name_original": "crate_cluj2015_promo_de_cbble",
+    "code": "#CSGO_crate_cluj2015_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -7040,12 +7107,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4180",
     "name": "Pacote de Lembrança do DreamHack Cluj-Napoca 2015 — Overpass",
     "name_original": "crate_cluj2015_promo_de_overpass",
+    "code": "#CSGO_crate_cluj2015_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -7219,12 +7288,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4181",
     "name": "Pacote de Lembrança do DreamHack Cluj-Napoca 2015 — Cache",
     "name_original": "crate_cluj2015_promo_de_cache",
+    "code": "#CSGO_crate_cluj2015_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -7376,12 +7447,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4182",
     "name": "Pacote de Lembrança do DreamHack Cluj-Napoca 2015 — Train",
     "name_original": "crate_cluj2015_promo_de_train",
+    "code": "#CSGO_crate_cluj2015_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -7555,12 +7628,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cluj2015_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4225",
     "name": "Pacote de Lembrança do MLG Columbus 2016 — Dust II",
     "name_original": "crate_columbus2016_promo_de_dust2",
+    "code": "#CSGO_crate_columbus2016_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -7745,12 +7820,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4226",
     "name": "Pacote de Lembrança do MLG Columbus 2016 — Mirage",
     "name_original": "crate_columbus2016_promo_de_mirage",
+    "code": "#CSGO_crate_columbus2016_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -7924,12 +8001,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4227",
     "name": "Pacote de Lembrança do MLG Columbus 2016 — Inferno",
     "name_original": "crate_columbus2016_promo_de_inferno",
+    "code": "#CSGO_crate_columbus2016_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -8004,12 +8083,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4228",
     "name": "Pacote de Lembrança do MLG Columbus 2016 — Cobblestone",
     "name_original": "crate_columbus2016_promo_de_cbble",
+    "code": "#CSGO_crate_columbus2016_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -8183,12 +8264,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4229",
     "name": "Pacote de Lembrança do MLG Columbus 2016 — Overpass",
     "name_original": "crate_columbus2016_promo_de_overpass",
+    "code": "#CSGO_crate_columbus2016_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -8362,12 +8445,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4230",
     "name": "Pacote de Lembrança do MLG Columbus 2016 — Cache",
     "name_original": "crate_columbus2016_promo_de_cache",
+    "code": "#CSGO_crate_columbus2016_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -8519,12 +8604,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4231",
     "name": "Pacote de Lembrança do MLG Columbus 2016 — Train",
     "name_original": "crate_columbus2016_promo_de_train",
+    "code": "#CSGO_crate_columbus2016_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -8698,12 +8785,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4232",
     "name": "Pacote de Lembrança do MLG Columbus 2016 — Nuke",
     "name_original": "crate_columbus2016_promo_de_nuke",
+    "code": "#CSGO_crate_columbus2016_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -8811,12 +8900,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_columbus2016_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4274",
     "name": "Pacote de Lembrança do Colônia 2016 — Dust II",
     "name_original": "crate_cologne2016_promo_de_dust2",
+    "code": "#CSGO_crate_cologne2016_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -9001,12 +9092,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4275",
     "name": "Pacote de Lembrança do Colônia 2016 — Mirage",
     "name_original": "crate_cologne2016_promo_de_mirage",
+    "code": "#CSGO_crate_cologne2016_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -9180,12 +9273,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4276",
     "name": "Pacote de Lembrança do Colônia 2016 — Cobblestone",
     "name_original": "crate_cologne2016_promo_de_cbble",
+    "code": "#CSGO_crate_cologne2016_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -9359,12 +9454,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4277",
     "name": "Pacote de Lembrança do Colônia 2016 — Overpass",
     "name_original": "crate_cologne2016_promo_de_overpass",
+    "code": "#CSGO_crate_cologne2016_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -9538,12 +9635,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4278",
     "name": "Pacote de Lembrança do Colônia 2016 — Cache",
     "name_original": "crate_cologne2016_promo_de_cache",
+    "code": "#CSGO_crate_cologne2016_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -9695,12 +9794,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4279",
     "name": "Pacote de Lembrança do Colônia 2016 — Train",
     "name_original": "crate_cologne2016_promo_de_train",
+    "code": "#CSGO_crate_cologne2016_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -9874,12 +9975,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4280",
     "name": "Pacote de Lembrança do Colônia 2016 — Nuke",
     "name_original": "crate_cologne2016_promo_de_nuke",
+    "code": "#CSGO_crate_cologne2016_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -9987,12 +10090,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cologne2016_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4344",
     "name": "Pacote de Lembrança do Atlanta 2017 — Dust II",
     "name_original": "crate_atlanta2017_promo_de_dust2",
+    "code": "#CSGO_crate_atlanta2017_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -10177,12 +10282,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4345",
     "name": "Pacote de Lembrança do Atlanta 2017 — Mirage",
     "name_original": "crate_atlanta2017_promo_de_mirage",
+    "code": "#CSGO_crate_atlanta2017_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -10356,12 +10463,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4346",
     "name": "Pacote de Lembrança do Atlanta 2017 — Cobblestone",
     "name_original": "crate_atlanta2017_promo_de_cbble",
+    "code": "#CSGO_crate_atlanta2017_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -10535,12 +10644,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4347",
     "name": "Pacote de Lembrança do Atlanta 2017 — Overpass",
     "name_original": "crate_atlanta2017_promo_de_overpass",
+    "code": "#CSGO_crate_atlanta2017_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -10714,12 +10825,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4348",
     "name": "Pacote de Lembrança do Atlanta 2017 — Cache",
     "name_original": "crate_atlanta2017_promo_de_cache",
+    "code": "#CSGO_crate_atlanta2017_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -10871,12 +10984,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4349",
     "name": "Pacote de Lembrança do Atlanta 2017 — Train",
     "name_original": "crate_atlanta2017_promo_de_train",
+    "code": "#CSGO_crate_atlanta2017_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -11050,12 +11165,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4350",
     "name": "Pacote de Lembrança do Atlanta 2017 — Nuke",
     "name_original": "crate_atlanta2017_promo_de_nuke",
+    "code": "#CSGO_crate_atlanta2017_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -11163,12 +11280,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_atlanta2017_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4396",
     "name": "Pacote de Lembrança do Cracóvia 2017 — Inferno",
     "name_original": "crate_krakow2017_promo_de_inferno",
+    "code": "#CSGO_crate_krakow2017_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -11243,12 +11362,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4397",
     "name": "Pacote de Lembrança do Cracóvia 2017 — Mirage",
     "name_original": "crate_krakow2017_promo_de_mirage",
+    "code": "#CSGO_crate_krakow2017_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -11422,12 +11543,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4398",
     "name": "Pacote de Lembrança do Cracóvia 2017 — Cobblestone",
     "name_original": "crate_krakow2017_promo_de_cbble",
+    "code": "#CSGO_crate_krakow2017_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -11601,12 +11724,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4399",
     "name": "Pacote de Lembrança do Cracóvia 2017 — Overpass",
     "name_original": "crate_krakow2017_promo_de_overpass",
+    "code": "#CSGO_crate_krakow2017_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -11780,12 +11905,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4400",
     "name": "Pacote de Lembrança do Cracóvia 2017 — Cache",
     "name_original": "crate_krakow2017_promo_de_cache",
+    "code": "#CSGO_crate_krakow2017_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -11937,12 +12064,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4401",
     "name": "Pacote de Lembrança do Cracóvia 2017 — Train",
     "name_original": "crate_krakow2017_promo_de_train",
+    "code": "#CSGO_crate_krakow2017_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -12116,12 +12245,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4402",
     "name": "Pacote de Lembrança do Cracóvia 2017 — Nuke",
     "name_original": "crate_krakow2017_promo_de_nuke",
+    "code": "#CSGO_crate_krakow2017_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -12229,12 +12360,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_krakow2017_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4463",
     "name": "Pacote de Lembrança do Boston 2018 — Inferno",
     "name_original": "crate_boston2018_promo_de_inferno",
+    "code": "#CSGO_crate_boston2018_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -12309,12 +12442,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4464",
     "name": "Pacote de Lembrança do Boston 2018 — Mirage",
     "name_original": "crate_boston2018_promo_de_mirage",
+    "code": "#CSGO_crate_boston2018_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -12488,12 +12623,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4465",
     "name": "Pacote de Lembrança do Boston 2018 — Cobblestone",
     "name_original": "crate_boston2018_promo_de_cbble",
+    "code": "#CSGO_crate_boston2018_promo_de_cbble",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -12667,12 +12804,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Cobblestone Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_cbble_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_cbble_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4466",
     "name": "Pacote de Lembrança do Boston 2018 — Overpass",
     "name_original": "crate_boston2018_promo_de_overpass",
+    "code": "#CSGO_crate_boston2018_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -12846,12 +12985,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4467",
     "name": "Pacote de Lembrança do Boston 2018 — Cache",
     "name_original": "crate_boston2018_promo_de_cache",
+    "code": "#CSGO_crate_boston2018_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -13003,12 +13144,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4468",
     "name": "Pacote de Lembrança do Boston 2018 — Train",
     "name_original": "crate_boston2018_promo_de_train",
+    "code": "#CSGO_crate_boston2018_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -13182,12 +13325,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4469",
     "name": "Pacote de Lembrança do Boston 2018 — Nuke",
     "name_original": "crate_boston2018_promo_de_nuke",
+    "code": "#CSGO_crate_boston2018_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -13295,12 +13440,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_boston2018_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4540",
     "name": "Pacote de Lembrança do Londres 2018 — Inferno",
     "name_original": "crate_london2018_promo_de_inferno",
+    "code": "#CSGO_crate_london2018_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -13507,12 +13654,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4541",
     "name": "Pacote de Lembrança do Londres 2018 — Mirage",
     "name_original": "crate_london2018_promo_de_mirage",
+    "code": "#CSGO_crate_london2018_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -13686,12 +13835,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4542",
     "name": "Pacote de Lembrança do Londres 2018 — Dust II",
     "name_original": "crate_london2018_promo_de_dust2",
+    "code": "#CSGO_crate_london2018_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -13876,12 +14027,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4543",
     "name": "Pacote de Lembrança do Londres 2018 — Overpass",
     "name_original": "crate_london2018_promo_de_overpass",
+    "code": "#CSGO_crate_london2018_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -14055,12 +14208,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4544",
     "name": "Pacote de Lembrança do Londres 2018 — Cache",
     "name_original": "crate_london2018_promo_de_cache",
+    "code": "#CSGO_crate_london2018_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -14212,12 +14367,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4545",
     "name": "Pacote de Lembrança do Londres 2018 — Train",
     "name_original": "crate_london2018_promo_de_train",
+    "code": "#CSGO_crate_london2018_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -14391,12 +14548,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4546",
     "name": "Pacote de Lembrança do Londres 2018 — Nuke",
     "name_original": "crate_london2018_promo_de_nuke",
+    "code": "#CSGO_crate_london2018_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -14603,12 +14762,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_london2018_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4590",
     "name": "Pacote de Lembrança do Katowice 2019 — Inferno",
     "name_original": "crate_katowice2019_promo_de_inferno",
+    "code": "#CSGO_crate_katowice2019_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -14815,12 +14976,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4591",
     "name": "Pacote de Lembrança do Katowice 2019 — Mirage",
     "name_original": "crate_katowice2019_promo_de_mirage",
+    "code": "#CSGO_crate_katowice2019_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -14994,12 +15157,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4592",
     "name": "Pacote de Lembrança do Katowice 2019 — Dust II",
     "name_original": "crate_katowice2019_promo_de_dust2",
+    "code": "#CSGO_crate_katowice2019_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -15184,12 +15349,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4593",
     "name": "Pacote de Lembrança do Katowice 2019 — Overpass",
     "name_original": "crate_katowice2019_promo_de_overpass",
+    "code": "#CSGO_crate_katowice2019_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -15363,12 +15530,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4594",
     "name": "Pacote de Lembrança do Katowice 2019 — Cache",
     "name_original": "crate_katowice2019_promo_de_cache",
+    "code": "#CSGO_crate_katowice2019_promo_de_cache",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -15520,12 +15689,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Cache Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_cache_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4595",
     "name": "Pacote de Lembrança do Katowice 2019 — Train",
     "name_original": "crate_katowice2019_promo_de_train",
+    "code": "#CSGO_crate_katowice2019_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -15699,12 +15870,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4596",
     "name": "Pacote de Lembrança do Katowice 2019 — Nuke",
     "name_original": "crate_katowice2019_promo_de_nuke",
+    "code": "#CSGO_crate_katowice2019_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -15911,12 +16084,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_katowice2019_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4660",
     "name": "Pacote de Lembrança do Berlim 2019 — Inferno",
     "name_original": "crate_berlin2019_promo_de_inferno",
+    "code": "#CSGO_crate_berlin2019_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -16123,12 +16298,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4661",
     "name": "Pacote de Lembrança do Berlim 2019 — Mirage",
     "name_original": "crate_berlin2019_promo_de_mirage",
+    "code": "#CSGO_crate_berlin2019_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -16302,12 +16479,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4662",
     "name": "Pacote de Lembrança do Berlim 2019 — Dust II",
     "name_original": "crate_berlin2019_promo_de_dust2",
+    "code": "#CSGO_crate_berlin2019_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -16492,12 +16671,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4663",
     "name": "Pacote de Lembrança do Berlim 2019 — Overpass",
     "name_original": "crate_berlin2019_promo_de_overpass",
+    "code": "#CSGO_crate_berlin2019_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -16671,12 +16852,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4664",
     "name": "Pacote de Lembrança do Berlim 2019 — Train",
     "name_original": "crate_berlin2019_promo_de_train",
+    "code": "#CSGO_crate_berlin2019_promo_de_train",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -16850,12 +17033,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Train Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_train_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4665",
     "name": "Pacote de Lembrança do Berlim 2019 — Nuke",
     "name_original": "crate_berlin2019_promo_de_nuke",
+    "code": "#CSGO_crate_berlin2019_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -17062,12 +17247,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4666",
     "name": "Pacote de Lembrança do Berlim 2019 — Vertigo",
     "name_original": "crate_berlin2019_promo_de_vertigo",
+    "code": "#CSGO_crate_berlin2019_promo_de_vertigo",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -17142,12 +17329,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Vertigo Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_vertigo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_berlin2019_promo_de_vertigo_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4809",
     "name": "Pacote de Lembrança do Estocolmo 2021 — Inferno",
     "name_original": "crate_stockh2021_promo_de_inferno",
+    "code": "#CSGO_crate_stockh2021_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -17354,12 +17543,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4810",
     "name": "Pacote de Lembrança do Estocolmo 2021 — Mirage",
     "name_original": "crate_stockh2021_promo_de_mirage",
+    "code": "#CSGO_crate_stockh2021_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -17577,12 +17768,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4811",
     "name": "Pacote de Lembrança do Estocolmo 2021 — Dust II",
     "name_original": "crate_stockh2021_promo_de_dust2",
+    "code": "#CSGO_crate_stockh2021_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -17800,12 +17993,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4812",
     "name": "Pacote de Lembrança do Estocolmo 2021 — Overpass",
     "name_original": "crate_stockh2021_promo_de_overpass",
+    "code": "#CSGO_crate_stockh2021_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -17979,12 +18174,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4813",
     "name": "Pacote de Lembrança do Estocolmo 2021 — Ancient",
     "name_original": "crate_stockh2021_promo_de_ancient",
+    "code": "#CSGO_crate_stockh2021_promo_de_ancient",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -18202,12 +18399,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Ancient Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_ancient_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_ancient_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4814",
     "name": "Pacote de Lembrança do Estocolmo 2021 — Nuke",
     "name_original": "crate_stockh2021_promo_de_nuke",
+    "code": "#CSGO_crate_stockh2021_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -18414,12 +18613,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4815",
     "name": "Pacote de Lembrança do Estocolmo 2021 — Vertigo",
     "name_original": "crate_stockh2021_promo_de_vertigo",
+    "code": "#CSGO_crate_stockh2021_promo_de_vertigo",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -18637,12 +18838,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Vertigo Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_vertigo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_stockh2021_promo_de_vertigo_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4835",
     "name": "Pacote de Lembrança do Antuérpia 2022 — Inferno",
     "name_original": "crate_antwerp2022_promo_de_inferno",
+    "code": "#CSGO_crate_antwerp2022_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -18849,12 +19052,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4836",
     "name": "Pacote de Lembrança do Antuérpia 2022 — Mirage",
     "name_original": "crate_antwerp2022_promo_de_mirage",
+    "code": "#CSGO_crate_antwerp2022_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -19072,12 +19277,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4837",
     "name": "Pacote de Lembrança do Antuérpia 2022 — Dust II",
     "name_original": "crate_antwerp2022_promo_de_dust2",
+    "code": "#CSGO_crate_antwerp2022_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -19295,12 +19502,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4838",
     "name": "Pacote de Lembrança do Antuérpia 2022 — Overpass",
     "name_original": "crate_antwerp2022_promo_de_overpass",
+    "code": "#CSGO_crate_antwerp2022_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -19474,12 +19683,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4839",
     "name": "Pacote de Lembrança do Antuérpia 2022 — Ancient",
     "name_original": "crate_antwerp2022_promo_de_ancient",
+    "code": "#CSGO_crate_antwerp2022_promo_de_ancient",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -19697,12 +19908,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Ancient Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_ancient_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_ancient_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4840",
     "name": "Pacote de Lembrança do Antuérpia 2022 — Nuke",
     "name_original": "crate_antwerp2022_promo_de_nuke",
+    "code": "#CSGO_crate_antwerp2022_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -19909,12 +20122,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4841",
     "name": "Pacote de Lembrança do Antuérpia 2022 — Vertigo",
     "name_original": "crate_antwerp2022_promo_de_vertigo",
+    "code": "#CSGO_crate_antwerp2022_promo_de_vertigo",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -20132,12 +20347,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Vertigo Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_vertigo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_antwerp2022_promo_de_vertigo_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4860",
     "name": "Pacote de Lembrança do Rio 2022 — Inferno",
     "name_original": "crate_rio2022_promo_de_inferno",
+    "code": "#CSGO_crate_rio2022_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -20344,12 +20561,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4861",
     "name": "Pacote de Lembrança do Rio 2022 — Mirage",
     "name_original": "crate_rio2022_promo_de_mirage",
+    "code": "#CSGO_crate_rio2022_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -20567,12 +20786,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4862",
     "name": "Pacote de Lembrança do Rio 2022 — Dust II",
     "name_original": "crate_rio2022_promo_de_dust2",
+    "code": "#CSGO_crate_rio2022_promo_de_dust2",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -20790,12 +21011,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Dust II Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4863",
     "name": "Pacote de Lembrança do Rio 2022 — Overpass",
     "name_original": "crate_rio2022_promo_de_overpass",
+    "code": "#CSGO_crate_rio2022_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -20969,12 +21192,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4864",
     "name": "Pacote de Lembrança do Rio 2022 — Ancient",
     "name_original": "crate_rio2022_promo_de_ancient",
+    "code": "#CSGO_crate_rio2022_promo_de_ancient",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -21192,12 +21417,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Ancient Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_ancient_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_ancient_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4865",
     "name": "Pacote de Lembrança do Rio 2022 — Nuke",
     "name_original": "crate_rio2022_promo_de_nuke",
+    "code": "#CSGO_crate_rio2022_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -21404,12 +21631,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4866",
     "name": "Pacote de Lembrança do Rio 2022 — Vertigo",
     "name_original": "crate_rio2022_promo_de_vertigo",
+    "code": "#CSGO_crate_rio2022_promo_de_vertigo",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -21627,12 +21856,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Vertigo Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_vertigo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_rio2022_promo_de_vertigo_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4893",
     "name": "Pacote de Lembrança do Paris 2023 — Inferno",
     "name_original": "crate_paris2023_promo_de_inferno",
+    "code": "#CSGO_crate_paris2023_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -21839,12 +22070,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_inferno_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4894",
     "name": "Pacote de Lembrança do Paris 2023 — Mirage",
     "name_original": "crate_paris2023_promo_de_mirage",
+    "code": "#CSGO_crate_paris2023_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -22062,12 +22295,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_mirage_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4895",
     "name": "Pacote de Lembrança do Paris 2023 — Anubis",
     "name_original": "crate_paris2023_promo_de_anubis",
+    "code": "#CSGO_crate_paris2023_promo_de_anubis",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -22285,12 +22520,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Anubis Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_anubis_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_anubis_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4896",
     "name": "Pacote de Lembrança do Paris 2023 — Overpass",
     "name_original": "crate_paris2023_promo_de_overpass",
+    "code": "#CSGO_crate_paris2023_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -22464,12 +22701,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_overpass_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4897",
     "name": "Pacote de Lembrança do Paris 2023 — Ancient",
     "name_original": "crate_paris2023_promo_de_ancient",
+    "code": "#CSGO_crate_paris2023_promo_de_ancient",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -22687,12 +22926,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Ancient Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_ancient_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_ancient_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4898",
     "name": "Pacote de Lembrança do Paris 2023 — Nuke",
     "name_original": "crate_paris2023_promo_de_nuke",
+    "code": "#CSGO_crate_paris2023_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -22899,12 +23140,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_nuke_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4899",
     "name": "Pacote de Lembrança do Paris 2023 — Vertigo",
     "name_original": "crate_paris2023_promo_de_vertigo",
+    "code": "#CSGO_crate_paris2023_promo_de_vertigo",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -23122,12 +23365,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Vertigo Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_vertigo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_paris2023_promo_de_vertigo_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4926",
     "name": "Pacote de Lembrança do Copenhague 2024 — Inferno",
     "name_original": "crate_cph2024_promo_de_inferno",
+    "code": "#CSGO_crate_cph2024_promo_de_inferno",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -23334,12 +23579,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Inferno Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png",
+    "model_player": "models/props/crates/crate_cph2024_promo_de_inferno.vmdl"
   },
   {
     "id": "crate-4927",
     "name": "Pacote de Lembrança do Copenhague 2024 — Mirage",
     "name_original": "crate_cph2024_promo_de_mirage",
+    "code": "#CSGO_crate_cph2024_promo_de_mirage",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -23557,12 +23804,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Mirage Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png",
+    "model_player": "models/props/crates/crate_cph2024_promo_de_mirage.vmdl"
   },
   {
     "id": "crate-4928",
     "name": "Pacote de Lembrança do Copenhague 2024 — Anubis",
     "name_original": "crate_cph2024_promo_de_anubis",
+    "code": "#CSGO_crate_cph2024_promo_de_anubis",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -23780,12 +24029,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Anubis Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png",
+    "model_player": "models/props/crates/crate_cph2024_promo_de_anubis.vmdl"
   },
   {
     "id": "crate-4929",
     "name": "Pacote de Lembrança do Copenhague 2024 — Overpass",
     "name_original": "crate_cph2024_promo_de_overpass",
+    "code": "#CSGO_crate_cph2024_promo_de_overpass",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -23959,12 +24210,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Overpass Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_overpass_png.png",
+    "model_player": "models/props/crates/crate_cph2024_promo_de_overpass.vmdl"
   },
   {
     "id": "crate-4930",
     "name": "Pacote de Lembrança do Copenhague 2024 — Ancient",
     "name_original": "crate_cph2024_promo_de_ancient",
+    "code": "#CSGO_crate_cph2024_promo_de_ancient",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -24182,12 +24435,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Ancient Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png",
+    "model_player": "models/props/crates/crate_cph2024_promo_de_ancient.vmdl"
   },
   {
     "id": "crate-4931",
     "name": "Pacote de Lembrança do Copenhague 2024 — Nuke",
     "name_original": "crate_cph2024_promo_de_nuke",
+    "code": "#CSGO_crate_cph2024_promo_de_nuke",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -24394,12 +24649,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Nuke Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png",
+    "model_player": "models/props/crates/crate_cph2024_promo_de_nuke.vmdl"
   },
   {
     "id": "crate-4932",
     "name": "Pacote de Lembrança do Copenhague 2024 — Vertigo",
     "name_original": "crate_cph2024_promo_de_vertigo",
+    "code": "#CSGO_crate_cph2024_promo_de_vertigo",
     "description": null,
     "type": "Souvenir",
     "first_sale_date": null,
@@ -24617,6 +24874,7 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Vertigo Souvenir Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png",
+    "model_player": "models/props/crates/crate_cph2024_promo_de_vertigo.vmdl"
   }
 ]

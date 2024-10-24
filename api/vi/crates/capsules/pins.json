@@ -3,6 +3,7 @@
     "id": "crate-4235",
     "name": "Gói huy hiệu sưu tầm sê-ri 1",
     "name_original": "crate_pins_series_1",
+    "code": "#CSGO_crate_pins_series_1",
     "description": "Gói này chứa một huy hiệu sưu tầm của sê-ri 1. Bạn có thể khoe các huy hiệu sưu tầm trên hồ sơ của mình.",
     "type": "Pins",
     "first_sale_date": "2016/06/01",
@@ -121,12 +122,14 @@
     "contains_rare": [],
     "market_hash_name": "Collectible Pins Capsule Series 1",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4284",
     "name": "Gói huy hiệu sưu tầm sê-ri 2",
     "name_original": "crate_pins_series_2",
+    "code": "#CSGO_crate_pins_series_2",
     "description": "Gói này chứa một huy hiệu sưu tầm của sê-ri 2. Bạn có thể khoe các huy hiệu sưu tầm trên hồ sơ của mình.",
     "type": "Pins",
     "first_sale_date": "2016/09/28",
@@ -245,12 +248,14 @@
     "contains_rare": [],
     "market_hash_name": "Collectible Pins Capsule Series 2",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4481",
     "name": "Gói huy hiệu sưu tầm sê-ri 3",
     "name_original": "crate_pins_series_3",
+    "code": "#CSGO_crate_pins_series_3",
     "description": "Gói này chứa một huy hiệu sưu tầm của sê-ri 3. Bạn có thể khoe các huy hiệu sưu tầm trên hồ sơ của mình.",
     "type": "Pins",
     "first_sale_date": "2018/03/01",
@@ -369,12 +374,14 @@
     "contains_rare": [],
     "market_hash_name": "Collectible Pins Capsule Series 3",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_3_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_3_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4693",
     "name": "Gói huy hiệu sưu tầm Half-Life: Alyx",
     "name_original": "crate_pins_hlalyx",
+    "code": "#CSGO_crate_pins_hlalyx",
     "description": "Gói này chứa một huy hiệu kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe các huy hiệu sưu tầm trên hồ sơ của mình.",
     "type": "Pins",
     "first_sale_date": "2020/03/23",
@@ -503,6 +510,7 @@
     "contains_rare": [],
     "market_hash_name": "Half-Life: Alyx Collectible Pins Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_hlalyx_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_hlalyx_png.png",
+    "model_player": null
   }
 ]

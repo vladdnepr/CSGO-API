@@ -1,0 +1,431 @@
+[
+  {
+    "id": "keychain-1",
+    "name": "Брелок | Маленька Ава",
+    "code": "#keychain_kc_missinglink_ava",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Lil' Ava",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_ava_png.png"
+  },
+  {
+    "id": "keychain-2",
+    "name": "Брелок | Шалений банан",
+    "code": "#keychain_kc_missinglink_banana",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | That's Bananas",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_banana_png.png"
+  },
+  {
+    "id": "keychain-3",
+    "name": "Брелок | Маленький Вусань",
+    "code": "#keychain_kc_missinglink_cat",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Lil' Whiskers",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_cat_png.png"
+  },
+  {
+    "id": "keychain-4",
+    "name": "Брелок | Маленький Пляжник",
+    "code": "#keychain_kc_missinglink_catbeach",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Lil' Sandy",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_catbeach_png.png"
+  },
+  {
+    "id": "keychain-5",
+    "name": "Брелок | Маленьке курча",
+    "code": "#keychain_kc_missinglink_chicken",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Chicken Lil'",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_chicken_png.png"
+  },
+  {
+    "id": "keychain-6",
+    "name": "Брелок | Маленький Крес",
+    "code": "#keychain_kc_missinglink_guerilla",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Lil' Crass",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_guerilla_png.png"
+  },
+  {
+    "id": "keychain-7",
+    "name": "Брелок | Гаряче виття",
+    "code": "#keychain_kc_missinglink_howl",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "Charm | Hot Howl",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_howl_png.png"
+  },
+  {
+    "id": "keychain-8",
+    "name": "Брелок | Великий Кев",
+    "code": "#keychain_kc_missinglink_kev",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Big Kev",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_kev_png.png"
+  },
+  {
+    "id": "keychain-9",
+    "name": "Брелок | Маленьке чудовисько",
+    "code": "#keychain_kc_missinglink_monster",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "екзотичний предмет",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Lil' Monster",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_monster_png.png"
+  },
+  {
+    "id": "keychain-10",
+    "name": "Брелок | Гострий соус",
+    "code": "#keychain_kc_missinglink_sam_catchup",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Hot Sauce",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_catchup_png.png"
+  },
+  {
+    "id": "keychain-11",
+    "name": "Брелок | Діамантова сосиска",
+    "code": "#keychain_kc_missinglink_sam_diamond",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "екзотичний предмет",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Diamond Dog",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_diamond_png.png"
+  },
+  {
+    "id": "keychain-12",
+    "name": "Брелок | Дрібка солі",
+    "code": "#keychain_kc_missinglink_sam_salty",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Pinch O' Salt",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_salty_png.png"
+  },
+  {
+    "id": "keychain-13",
+    "name": "Брелок | Закусочна сосиска",
+    "code": "#keychain_kc_missinglink_sam_shape",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "екзотичний предмет",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Diner Dog",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_shape_png.png"
+  },
+  {
+    "id": "keychain-14",
+    "name": "Брелок | Маленька чашка чаю",
+    "code": "#keychain_kc_missinglink_sam_toile",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Lil' Teacup",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_toile_png.png"
+  },
+  {
+    "id": "keychain-15",
+    "name": "Брелок | Маленький боєць СПС",
+    "code": "#keychain_kc_missinglink_sas",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Lil' SAS",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sas_png.png"
+  },
+  {
+    "id": "keychain-16",
+    "name": "Брелок | Смажена сосиска",
+    "code": "#keychain_kc_missinglink_wurst",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "Charm | Hot Wurst",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_wurst_png.png"
+  },
+  {
+    "id": "keychain-17",
+    "name": "Брелок | Малюк АК",
+    "code": "#keychain_kc_wpn_ak_base",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Baby's AK",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_ak_base_png.png"
+  },
+  {
+    "id": "keychain-18",
+    "name": "Брелок | Литий АК",
+    "code": "#keychain_kc_wpn_ak_jelly",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Die-cast AK",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_ak_jelly_png.png"
+  },
+  {
+    "id": "keychain-19",
+    "name": "Брелок | Кишенькова АВП",
+    "code": "#keychain_kc_wpn_awp_plastic",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Pocket AWP",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_awp_plastic_png.png"
+  },
+  {
+    "id": "keychain-20",
+    "name": "Брелок | Титаненька АВП",
+    "code": "#keychain_kc_wpn_awp_spoon",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "екзотичний предмет",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Titeenium AWP",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_awp_spoon_png.png"
+  },
+  {
+    "id": "keychain-21",
+    "name": "Брелок | Малюк карат (С)",
+    "code": "#keychain_kc_wpn_ctknife_gold",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "Charm | Baby Karat CT",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_ctknife_gold_png.png"
+  },
+  {
+    "id": "keychain-22",
+    "name": "Брелок | Дерев’яний ніж",
+    "code": "#keychain_kc_wpn_ctknife_wood",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Whittle Knife",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_ctknife_wood_png.png"
+  },
+  {
+    "id": "keychain-23",
+    "name": "Брелок | ПОП-арт",
+    "code": "#keychain_kc_wpn_m4a1s_comic",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | POP Art",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_m4a1s_comic_png.png"
+  },
+  {
+    "id": "keychain-24",
+    "name": "Брелок | Маленька бризкалка",
+    "code": "#keychain_kc_wpn_m4a1s_ss",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "екзотичний предмет",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Lil' Squirt",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_m4a1s_ss_png.png"
+  },
+  {
+    "id": "keychain-25",
+    "name": "Брелок | Диско-МАК",
+    "code": "#keychain_kc_wpn_mac10_glitter",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Disco MAC",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_mac10_glitter_png.png"
+  },
+  {
+    "id": "keychain-26",
+    "name": "Брелок | Кахель",
+    "code": "#keychain_kc_wpn_mac10_tile",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Backsplash",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_mac10_tile_png.png"
+  },
+  {
+    "id": "keychain-27",
+    "name": "Брелок | Іграшковий пістолет",
+    "code": "#keychain_kc_wpn_tec9_cap",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Lil' Cap Gun",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_tec9_cap_png.png"
+  },
+  {
+    "id": "keychain-28",
+    "name": "Брелок | Гарячі ручки",
+    "code": "#keychain_kc_wpn_tec9_magma",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Hot Hands",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_tec9_magma_png.png"
+  },
+  {
+    "id": "keychain-29",
+    "name": "Брелок | Напівдорогоцінність",
+    "code": "#keychain_kc_wpn_tknife_crystal",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "екзотичний предмет",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Semi-Precious",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_tknife_crystal_png.png"
+  },
+  {
+    "id": "keychain-30",
+    "name": "Брелок | Малюк карат (Т)",
+    "code": "#keychain_kc_wpn_tknife_gold",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "надзвичайний предмет",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "Charm | Baby Karat T",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_tknife_gold_png.png"
+  },
+  {
+    "id": "keychain-31",
+    "name": "Брелок | Гламурний постріл",
+    "code": "#keychain_kc_wpn_usp_jewel",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Glamour Shot",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_usp_jewel_png.png"
+  },
+  {
+    "id": "keychain-32",
+    "name": "Брелок | В’язаний пістолет",
+    "code": "#keychain_kc_wpn_usp_yarn",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "дуже рідкісний предмет",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Stitch-Loaded",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_usp_yarn_png.png"
+  },
+  {
+    "id": "keychain-33",
+    "name": "Брелок | Маленький сасквач",
+    "code": "#keychain_kc_missinglink_bigfoot",
+    "description": "Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "цікавий предмет",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Lil' Squatch",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_bigfoot_png.png"
+  }
+]

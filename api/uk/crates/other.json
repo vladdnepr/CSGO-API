@@ -3,6 +3,7 @@
     "id": "crate-1210",
     "name": "Пакунок з подарунком",
     "name_original": "Tool_Gift1Player",
+    "code": "#CSGO_Tool_Gift1Player",
     "description": "Після використання випадковий гравець у вашому матчі отримає випадковий предмет як дарунок від вас.",
     "type": null,
     "first_sale_date": "2013/12/17",
@@ -10,12 +11,14 @@
     "contains_rare": [],
     "market_hash_name": "Gift Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1211",
     "name": "Палета з дарунками",
     "name_original": "Tool_Gift9Players",
+    "code": "#CSGO_Tool_Gift9Players",
     "description": "Після використання, до 9 гравців у вашому матчі отримають по випадковому предмету в дарунок від вас.",
     "type": null,
     "first_sale_date": "2013/12/16",
@@ -23,12 +26,14 @@
     "contains_rare": [],
     "market_hash_name": "Pallet of Presents",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1215",
     "name": "Пакунок для аудиторії",
     "name_original": "Tool_Gift25Spectators",
+    "code": "#CSGO_Tool_Gift25Spectators",
     "description": "Після використання, до 25 глядачів вашого матчу отримають по випадковому предмету в дарунок від вас.",
     "type": null,
     "first_sale_date": "2013/12/16",
@@ -36,12 +41,14 @@
     "contains_rare": [],
     "market_hash_name": "Audience Participation Parcel",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4668",
     "name": "Набір «Рентген П250»",
     "name_original": "crate_xray_p250",
+    "code": "#CSGO_crate_xray_p250",
     "description": "Цей пакунок містить один П250 із нанесеним рентген-зображенням його нутрощів. Швидкострільний пістолет П250 має низьку віддачу і є відносно недорогим вибором проти захищених бронежилетами опонентів.",
     "type": null,
     "first_sale_date": "2019/10/02",
@@ -61,12 +68,14 @@
     "contains_rare": [],
     "market_hash_name": "X-Ray P250 Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4871",
     "name": "Сховище для зберігання «Ріо 2022» з паперовими наліпками",
     "name_original": "storageunit0_rio2022",
+    "code": "#CSGO_storageunit0_rio2022",
     "description": "Це сховище для зберігання, що містить паперові наліпки з автографом кожного гравця, а також паперові наліпки організацій, що нагадують про великий турнір «IEM Ріо 2022».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаному гравцеві та організації.",
     "type": null,
     "first_sale_date": null,
@@ -1525,12 +1534,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Paper Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4872",
     "name": "Сховище для зберігання «Ріо 2022» із сяйнистими наліпками",
     "name_original": "storageunit1_rio2022",
+    "code": "#CSGO_storageunit1_rio2022",
     "description": "Це сховище для зберігання, що містить сяйнисті наліпки з автографом кожного гравця, а також сяйнисті наліпки організацій, що нагадують про великий турнір «IEM Ріо 2022».\\n\\n50% коштів, отриманих із продажу цієї капсули, буде передано вказаному гравцеві та організації.",
     "type": null,
     "first_sale_date": null,
@@ -2989,12 +3000,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Glitter Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4882",
     "name": "Набір колекції «Anubis»",
     "name_original": "set_anubis_storepromo",
+    "code": "#CSGO_set_anubis_storepromo",
     "description": null,
     "type": null,
     "first_sale_date": "2023/04/24",
@@ -3212,6 +3225,7 @@
     "contains_rare": [],
     "market_hash_name": "Anubis Collection Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png",
+    "model_player": null
   }
 ]

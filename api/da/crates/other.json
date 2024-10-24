@@ -3,6 +3,7 @@
     "id": "crate-1210",
     "name": "Gavepakke",
     "name_original": "Tool_Gift1Player",
+    "code": "#CSGO_Tool_Gift1Player",
     "description": "Når den bruges, modtager en tilfældig spiller, i din kamp, en tilfældig genstand som en gave fra dig.",
     "type": null,
     "first_sale_date": "2013/12/17",
@@ -10,12 +11,14 @@
     "contains_rare": [],
     "market_hash_name": "Gift Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1211",
     "name": "Palle af pakker",
     "name_original": "Tool_Gift9Players",
+    "code": "#CSGO_Tool_Gift9Players",
     "description": "Når den bruges, modtager op til 9 andre spillere, i din kamp, en tilfældig genstand som en gave fra dig.",
     "type": null,
     "first_sale_date": "2013/12/16",
@@ -23,12 +26,14 @@
     "contains_rare": [],
     "market_hash_name": "Pallet of Presents",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1215",
     "name": "Publikum-deltagelsespakke",
     "name_original": "Tool_Gift25Spectators",
+    "code": "#CSGO_Tool_Gift25Spectators",
     "description": "Når den bruges, modtager op til 25 seere, der ser på din kamp, en tilfældig genstand som gave fra dig.",
     "type": null,
     "first_sale_date": "2013/12/16",
@@ -36,12 +41,14 @@
     "contains_rare": [],
     "market_hash_name": "Audience Participation Parcel",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4668",
     "name": "Røntgen P250-pakke",
     "name_original": "crate_xray_p250",
+    "code": "#CSGO_crate_xray_p250",
     "description": "Denne pakke indeholder en P250, som er forsynet med en speciel maling, som gør dets indre synligt med røntgenstråler. P250 er et lavrekyl-skydevåben med høj skudhastighed og er et relativt billigt valg imod pansrede modstandere.",
     "type": null,
     "first_sale_date": "2019/10/02",
@@ -61,12 +68,14 @@
     "contains_rare": [],
     "market_hash_name": "X-Ray P250 Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4871",
     "name": "Rio 2022-lagercontainere med papirklistermærker",
     "name_original": "storageunit0_rio2022",
+    "code": "#CSGO_storageunit0_rio2022",
     "description": "Denne lagercontainer indeholder alle spillerautografer i papir og alle papirklistermærkerne til minde om IEM Rio 2022 CS:GO Major-mesterskabet.\\n\\n50% af indtægterne fra salget af denne kapsel støtter de inkluderede spillere og organisationer.",
     "type": null,
     "first_sale_date": null,
@@ -1525,12 +1534,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Paper Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4872",
     "name": "Rio 2022-lagercontainere med glitterklistermærker",
     "name_original": "storageunit1_rio2022",
+    "code": "#CSGO_storageunit1_rio2022",
     "description": "Denne lagercontainer indeholder alle spillerautografer i glitter og alle glitterklistermærkerne til minde om IEM Rio 2022 CS:GO Major-mesterskabet.\\n\\n50% af indtægterne fra salget af denne kapsel støtter de inkluderede spillere og organisationer.",
     "type": null,
     "first_sale_date": null,
@@ -2989,12 +3000,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Glitter Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4882",
     "name": "Pakke: Anubis-samlingen",
     "name_original": "set_anubis_storepromo",
+    "code": "#CSGO_set_anubis_storepromo",
     "description": null,
     "type": null,
     "first_sale_date": "2023/04/24",
@@ -3212,6 +3225,7 @@
     "contains_rare": [],
     "market_hash_name": "Anubis Collection Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png",
+    "model_player": null
   }
 ]

@@ -3,6 +3,7 @@
     "id": "crate-1210",
     "name": "Pacchetto dono",
     "name_original": "Tool_Gift1Player",
+    "code": "#CSGO_Tool_Gift1Player",
     "description": "Quando lo usi, verrà donato un oggetto casuale a un giocatore nella tua partita.",
     "type": null,
     "first_sale_date": "2013/12/17",
@@ -10,12 +11,14 @@
     "contains_rare": [],
     "market_hash_name": "Gift Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1211",
     "name": "Bancale di doni",
     "name_original": "Tool_Gift9Players",
+    "code": "#CSGO_Tool_Gift9Players",
     "description": "Quando lo usi, verrà donato un oggetto casuale a un massimo di 9 giocatori nella tua partita.",
     "type": null,
     "first_sale_date": "2013/12/16",
@@ -23,12 +26,14 @@
     "contains_rare": [],
     "market_hash_name": "Pallet of Presents",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1215",
     "name": "Collo di partecipazione per il pubblico",
     "name_original": "Tool_Gift25Spectators",
+    "code": "#CSGO_Tool_Gift25Spectators",
     "description": "Quando lo usi, verrà donato un oggetto casuale a un massimo di 25 spettatori che stanno guardando la tua partita.",
     "type": null,
     "first_sale_date": "2013/12/16",
@@ -36,12 +41,14 @@
     "contains_rare": [],
     "market_hash_name": "Audience Participation Parcel",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4668",
     "name": "Pacchetto raggi X P250",
     "name_original": "crate_xray_p250",
+    "code": "#CSGO_crate_xray_p250",
     "description": "Questo pacchetto contiene una P250 singola con vernice personalizzata che mostra le sue componenti interne come in una lastra. La P250 è una pistola a basso rinculo ed alta cadenza di tiro ed è una scelta relativamente poco costosa contro avversari dotati di giubbotto antiproiettile.",
     "type": null,
     "first_sale_date": "2019/10/02",
@@ -61,12 +68,14 @@
     "contains_rare": [],
     "market_hash_name": "X-Ray P250 Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4871",
     "name": "Magazzino di Rio 2022 con adesivi di carta",
     "name_original": "storageunit0_rio2022",
+    "code": "#CSGO_storageunit0_rio2022",
     "description": "Questo è un magazzino che include tutti gli adesivi di carta autografati dai giocatori e tutti gli adesivi di carta commemorativi del campionato Major IEM di CS:GO di Rio 2022\\n\\nIl 50% dei ricavi della vendita di questa capsula andrà ai giocatori e alle organizzazioni coinvolte.",
     "type": null,
     "first_sale_date": null,
@@ -1525,12 +1534,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Paper Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4872",
     "name": "Magazzino di Rio 2022 con adesivi glitterati",
     "name_original": "storageunit1_rio2022",
+    "code": "#CSGO_storageunit1_rio2022",
     "description": "Questo è un magazzino che include tutti gli adesivi glitterati autografati dai giocatori e tutti gli adesivi glitterati commemorativi del campionato Major IEM di CS:GO di Rio 2022\\n\\nIl 50% dei ricavi della vendita di questa capsula andrà ai giocatori e alle organizzazioni coinvolte.",
     "type": null,
     "first_sale_date": null,
@@ -2989,12 +3000,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Glitter Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4882",
     "name": "Pacchetto collezione Anubis",
     "name_original": "set_anubis_storepromo",
+    "code": "#CSGO_set_anubis_storepromo",
     "description": null,
     "type": null,
     "first_sale_date": "2023/04/24",
@@ -3212,6 +3225,7 @@
     "contains_rare": [],
     "market_hash_name": "Anubis Collection Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png",
+    "model_player": null
   }
 ]

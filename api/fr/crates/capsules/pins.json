@@ -3,6 +3,7 @@
     "id": "crate-4235",
     "name": "Capsule à pin's - Série 1",
     "name_original": "crate_pins_series_1",
+    "code": "#CSGO_crate_pins_series_1",
     "description": "Cette capsule contient un seul pin's de la série 1. Vous pouvez afficher les pin's sur votre profil.",
     "type": "Pins",
     "first_sale_date": "2016/06/01",
@@ -121,12 +122,14 @@
     "contains_rare": [],
     "market_hash_name": "Collectible Pins Capsule Series 1",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4284",
     "name": "Capsule à pin's - Série 2",
     "name_original": "crate_pins_series_2",
+    "code": "#CSGO_crate_pins_series_2",
     "description": "Cette capsule contient un seul pin's de la série 2. Vous pouvez afficher les pin's sur votre profil.",
     "type": "Pins",
     "first_sale_date": "2016/09/28",
@@ -245,12 +248,14 @@
     "contains_rare": [],
     "market_hash_name": "Collectible Pins Capsule Series 2",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4481",
     "name": "Capsule à pin's - Série 3",
     "name_original": "crate_pins_series_3",
+    "code": "#CSGO_crate_pins_series_3",
     "description": "Cette capsule contient un seul pin's de la série 3. Vous pouvez afficher les pin's sur votre profil.",
     "type": "Pins",
     "first_sale_date": "2018/03/01",
@@ -369,12 +374,14 @@
     "contains_rare": [],
     "market_hash_name": "Collectible Pins Capsule Series 3",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_3_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_3_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4693",
     "name": "Capsule de pin's à collectionner Half-Life: Alyx",
     "name_original": "crate_pins_hlalyx",
+    "code": "#CSGO_crate_pins_hlalyx",
     "description": "Cette capsule contient un pin's à collectionner célébrant la sortie de Half-Life: Alyx, le jeu qui signe le retour de Valve, en VR, dans l'univers de Half-Life. Il peut être affiché sur votre profil.",
     "type": "Pins",
     "first_sale_date": "2020/03/23",
@@ -503,6 +510,7 @@
     "contains_rare": [],
     "market_hash_name": "Half-Life: Alyx Collectible Pins Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_hlalyx_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_hlalyx_png.png",
+    "model_player": null
   }
 ]

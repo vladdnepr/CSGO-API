@@ -3,6 +3,7 @@
     "id": "crate-4287",
     "name": "StatTrak™-Musikkiste: Radicals",
     "name_original": "crate_musickit_radicals_stattrak_capsule",
+    "code": "#CSGO_crate_musickit_radicals_stattrak_capsule",
     "description": "Diese Box enthält verschiedene StatTrak™-Musikkits von „Radicals“-Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2016/08/16",
@@ -81,12 +82,14 @@
     "contains_rare": [],
     "market_hash_name": "StatTrak™ Radicals Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_radicals_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_radicals_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4696",
     "name": "Musikkiste: Masterminds",
     "name_original": "crate_musickit_masterminds_capsule",
+    "code": "#CSGO_crate_musickit_masterminds_capsule",
     "description": "Diese Box enthält verschiedene Musikkits von diversen Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2020/04/22",
@@ -165,12 +168,14 @@
     "contains_rare": [],
     "market_hash_name": "Masterminds Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_masterminds_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_masterminds_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4697",
     "name": "StatTrak™-Musikkiste: Masterminds",
     "name_original": "crate_musickit_masterminds_stattrak_capsule",
+    "code": "#CSGO_crate_musickit_masterminds_stattrak_capsule",
     "description": "Diese Box enthält verschiedene StatTrak™-Musikkits von diversen Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2020/04/22",
@@ -249,12 +254,14 @@
     "contains_rare": [],
     "market_hash_name": "StatTrak™ Masterminds Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_masterminds_stattrak_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_masterminds_stattrak_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4754",
     "name": "Musikkiste: Tacticians",
     "name_original": "crate_musickit_tacticians_capsule",
+    "code": "#CSGO_crate_musickit_tacticians_capsule",
     "description": "Diese Box enthält verschiedene Musikkits von „Tacticians“-Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2021/07/20",
@@ -323,12 +330,14 @@
     "contains_rare": [],
     "market_hash_name": "Tacticians Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_tacticians_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_tacticians_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4755",
     "name": "StatTrak™-Musikkiste: Tacticians",
     "name_original": "crate_musickit_tacticians_stattrak_capsule",
+    "code": "#CSGO_crate_musickit_tacticians_stattrak_capsule",
     "description": "Diese Box enthält verschiedene StatTrak™-Musikkits von „Tacticians“-Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2021/07/20",
@@ -397,12 +406,14 @@
     "contains_rare": [],
     "market_hash_name": "StatTrak™ Tacticians Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4848",
     "name": "Musikkiste: Initiators",
     "name_original": "crate_musickit_initiators_capsule",
+    "code": "#CSGO_crate_musickit_initiators_capsule",
     "description": "Diese Box enthält verschiedene Musikkits von „Initiators“-Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2022/08/15",
@@ -471,12 +482,14 @@
     "contains_rare": [],
     "market_hash_name": "Initiators Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_initiators_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_initiators_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4849",
     "name": "StatTrak™-Musikkiste: Initiators",
     "name_original": "crate_musickit_initiators_stattrak_capsule",
+    "code": "#CSGO_crate_musickit_initiators_stattrak_capsule",
     "description": "Diese Box enthält verschiedene StatTrak™-Musikkits von „Initiators“-Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2022/08/15",
@@ -545,12 +558,14 @@
     "contains_rare": [],
     "market_hash_name": "StatTrak™ Initiators Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4914",
     "name": "Musikkiste: NIGHTMODE",
     "name_original": "crate_musickit_nightmode_capsule",
+    "code": "#CSGO_crate_musickit_nightmode_capsule",
     "description": "Diese Box enthält verschiedene Musikkits von „NIGHTMODE“-Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2024/01/24",
@@ -619,12 +634,14 @@
     "contains_rare": [],
     "market_hash_name": "NIGHTMODE Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_nightmode_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_nightmode_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4915",
     "name": "StatTrak™-Musikkiste: NIGHTMODE",
     "name_original": "crate_musickit_nightmode_stattrak_capsule",
+    "code": "#CSGO_crate_musickit_nightmode_stattrak_capsule",
     "description": "Diese Box enthält verschiedene StatTrak™-Musikkits von „NIGHTMODE“-Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2024/01/24",
@@ -693,12 +710,14 @@
     "contains_rare": [],
     "market_hash_name": "StatTrak™ NIGHTMODE Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_nightmode_stattrak_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_nightmode_stattrak_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4946",
     "name": "Musikkiste: Masterminds 2",
     "name_original": "crate_musickit_masterminds2_capsule",
+    "code": "#CSGO_crate_musickit_masterminds2_capsule",
     "description": "Diese Box enthält verschiedene Musikkits von diversen Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2024-08-15",
@@ -787,12 +806,14 @@
     "contains_rare": [],
     "market_hash_name": "Masterminds 2 Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_masterminds2_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_masterminds2_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4947",
     "name": "StatTrak™-Musikkiste: Masterminds 2",
     "name_original": "crate_musickit_masterminds2_stattrak_capsule",
+    "code": "#CSGO_crate_musickit_masterminds2_stattrak_capsule",
     "description": "Diese Box enthält verschiedene StatTrak™-Musikkits von diversen Künstlern.",
     "type": "Music Kit Box",
     "first_sale_date": "2024-08-15",
@@ -881,6 +902,7 @@
     "contains_rare": [],
     "market_hash_name": "StatTrak™ Masterminds 2 Music Kit Box",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_masterminds2_stattrak_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_masterminds2_stattrak_capsule_png.png",
+    "model_player": null
   }
 ]

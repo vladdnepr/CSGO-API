@@ -3,6 +3,7 @@
     "id": "crate-4610",
     "name": "Пакет с нашивки CS:GO",
     "name_original": "crate_patch_pack01",
+    "code": "#CSGO_crate_patch_pack01",
     "description": "<b><font color='#F2A93E'>CS:GO Patch Pack</font></b>\\n \\nТози пакет съдържа разнообразни бродирани нашивки. Те могат да бъдат прилагани към всеки агент, който притежавате.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -221,12 +222,14 @@
     "contains_rare": [],
     "market_hash_name": "CS:GO Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack01_png.png",
+    "model_player": "models/props/crates/patch_envelope.vmdl"
   },
   {
     "id": "crate-4614",
     "name": "Колекцията от нашивки „Метълски клас на умение“",
     "name_original": "crate_patch_pack02",
+    "code": "#CSGO_crate_patch_pack02",
     "description": "<b><font color='#F2A93E'>Metal Skill Group Patch Collection</font></b>\\n \\nТази колекция съдържа разнообразни бродирани нашивки. Те могат да бъдат прилагани към всеки агент, който притежавате.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -405,12 +408,14 @@
     "contains_rare": [],
     "market_hash_name": "Metal Skill Group Patch Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack02_png.png",
+    "model_player": "models/props/crates/patch_envelope02.vmdl"
   },
   {
     "id": "crate-4615",
     "name": "Пакет с нашивки Half-Life: Alyx",
     "name_original": "crate_patch_pack_hlalyx",
+    "code": "#CSGO_crate_patch_pack_hlalyx",
     "description": "<b><font color='#F2A93E'>Half-Life: Alyx Patch Pack</font></b>\\n \\nТози пакет съдържа разнообразни бродирани нашивки, ознаменуващи „Half-Life: Alyx“. ВР завръщането на Valve към Half-Life поредицата. Нашивките могат да бъдат прилагани към всеки агент, който притежавате.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/03/23",
@@ -529,12 +534,14 @@
     "contains_rare": [],
     "market_hash_name": "Half-Life: Alyx Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_hlalyx_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_hlalyx_png.png",
+    "model_player": "models/props/crates/patch_envelope_hlalyx.vmdl"
   },
   {
     "id": "crate-4795",
     "name": "Колекцията от нашивки „Коварно течение“",
     "name_original": "crate_patch_pack03",
+    "code": "#CSGO_crate_patch_pack03",
     "description": "<b><font color='#F2A93E'>Operation Riptide Patch Collection</font></b>\\n \\nТази колекция съдържа разнообразни бродирани нашивки, ознаменуващи операция „Коварно течение“. Нашивките могат да бъдат прилагани към всеки агент, който притежавате.",
     "type": "Patch Capsule",
     "first_sale_date": "2021/09/01",
@@ -673,12 +680,14 @@
     "contains_rare": [],
     "market_hash_name": "Operation Riptide Patch Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack03_png.png",
+    "model_player": "models/props/crates/patch_envelope03.vmdl"
   },
   {
     "id": "crate-4806",
     "name": "Пакет с нашивки на легенди Stockholm 2021",
     "name_original": "crate_patch_pack_stockh2021_legends",
+    "code": "#CSGO_crate_patch_pack_stockh2021_legends",
     "description": "<b><font color='#F2A93E'>Stockholm 2021 Legends Patch Pack</font></b>\\n \\nТози пакет съдържа една висококласна или златна бродирана нашивка от Stockholm 2021.\\n\\n50% от приходите при продажбата на този пакет подкрепят включените организации.\\n\\nНашивките могат да бъдат прилагани към всеки агент, който притежавате.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -867,12 +876,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Legends Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_legends_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_legends.vmdl"
   },
   {
     "id": "crate-4807",
     "name": "Пакет с нашивки на претенденти Stockholm 2021",
     "name_original": "crate_patch_pack_stockh2021_challengers",
+    "code": "#CSGO_crate_patch_pack_stockh2021_challengers",
     "description": "<b><font color='#F2A93E'>Stockholm 2021 Challengers Patch Pack</font></b>\\n \\nТози пакет съдържа една висококласна или златна бродирана нашивка от Stockholm 2021.\\n\\n50% от приходите при продажбата на този пакет подкрепят включените организации.\\n\\nНашивките могат да бъдат прилагани към всеки агент, който притежавате.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -1061,12 +1072,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Challengers Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_challengers_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_challengers.vmdl"
   },
   {
     "id": "crate-4808",
     "name": "Пакет с нашивки на съперници Stockholm 2021",
     "name_original": "crate_patch_pack_stockh2021_contenders",
+    "code": "#CSGO_crate_patch_pack_stockh2021_contenders",
     "description": "<b><font color='#F2A93E'>Stockholm 2021 Contenders Patch Pack</font></b>\\n \\nТози пакет съдържа една висококласна или златна бродирана нашивка от Stockholm 2021.\\n\\n50% от приходите при продажбата на този пакет подкрепят включените организации.\\n\\nНашивките могат да бъдат прилагани към всеки агент, който притежавате.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -1255,6 +1268,7 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Contenders Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_contenders_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_contenders.vmdl"
   }
 ]

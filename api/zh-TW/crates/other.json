@@ -3,6 +3,7 @@
     "id": "crate-1210",
     "name": "禮物包裹",
     "name_original": "Tool_Gift1Player",
+    "code": "#CSGO_Tool_Gift1Player",
     "description": "使用後，乙位隨機決定的玩家將會隨機得到您的禮物。",
     "type": null,
     "first_sale_date": "2013/12/17",
@@ -10,12 +11,14 @@
     "contains_rare": [],
     "market_hash_name": "Gift Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1211",
     "name": "滿箱的禮物",
     "name_original": "Tool_Gift9Players",
+    "code": "#CSGO_Tool_Gift9Players",
     "description": "使用後，該局的其他 9 位玩家將會隨機得到您的禮物。",
     "type": null,
     "first_sale_date": "2013/12/16",
@@ -23,12 +26,14 @@
     "contains_rare": [],
     "market_hash_name": "Pallet of Presents",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1215",
     "name": "觀眾參加獎包裹",
     "name_original": "Tool_Gift25Spectators",
+    "code": "#CSGO_Tool_Gift25Spectators",
     "description": "使用後，該局的 25 位觀眾將會隨機得到您的禮物。",
     "type": null,
     "first_sale_date": "2013/12/16",
@@ -36,12 +41,14 @@
     "contains_rare": [],
     "market_hash_name": "Audience Participation Parcel",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4668",
     "name": "X 射線 P250 包裹",
     "name_original": "crate_xray_p250",
+    "code": "#CSGO_crate_xray_p250",
     "description": "本包裹內含一把以 X 射線圖樣客製化塗裝，似顯示其內部結構的 P250。P250 具有低後座力還有高射速，用於對付身穿護甲的對手時是款的價格宜人的選擇。",
     "type": null,
     "first_sale_date": "2019/10/02",
@@ -61,12 +68,14 @@
     "contains_rare": [],
     "market_hash_name": "X-Ray P250 Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4871",
     "name": "包含紙質貼紙的 Rio 2022 儲存單元",
     "name_original": "storageunit0_rio2022",
+    "code": "#CSGO_storageunit0_rio2022",
     "description": "這儲存單元包含所有選手的紙質簽名貼紙和所有紀念 IEM Rio 2022 CS:GO 特級錦標賽的紙質貼紙。\\n\\n50% 的轉蛋收益將分給所屬選手與組織團體。",
     "type": null,
     "first_sale_date": null,
@@ -1525,12 +1534,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Paper Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4872",
     "name": "包含炫光貼紙的 Rio 2022 儲存單元",
     "name_original": "storageunit1_rio2022",
+    "code": "#CSGO_storageunit1_rio2022",
     "description": "這儲存單元包含所有選手的炫光簽名貼紙和所有紀念 IEM Rio 2022 CS:GO 特級錦標賽的炫光貼紙。\\n\\n50% 的轉蛋收益將分給所屬選手與組織團體。",
     "type": null,
     "first_sale_date": null,
@@ -2989,12 +3000,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Glitter Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4882",
     "name": "Anubis 收藏包",
     "name_original": "set_anubis_storepromo",
+    "code": "#CSGO_set_anubis_storepromo",
     "description": null,
     "type": null,
     "first_sale_date": "2023/04/24",
@@ -3212,6 +3225,7 @@
     "contains_rare": [],
     "market_hash_name": "Anubis Collection Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png",
+    "model_player": null
   }
 ]

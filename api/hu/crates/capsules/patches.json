@@ -3,6 +3,7 @@
     "id": "crate-4610",
     "name": "CS:GO Felvarró Csomag",
     "name_original": "crate_patch_pack01",
+    "code": "#CSGO_crate_patch_pack01",
     "description": "Ez a csomag különféle hímzett felvarrókat tartalmaz. A felvarrók bármely általad birtokolt ügynökön elhelyezhetők.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -221,12 +222,14 @@
     "contains_rare": [],
     "market_hash_name": "CS:GO Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack01_png.png",
+    "model_player": "models/props/crates/patch_envelope.vmdl"
   },
   {
     "id": "crate-4614",
     "name": "Metalos Ügyességcsoport Felvarrógyűjtemény",
     "name_original": "crate_patch_pack02",
+    "code": "#CSGO_crate_patch_pack02",
     "description": "Ez a felvarrógyűjtemény különböző hímzett felvarrókat tartalmaz. A felvarrók bármely általad birtokolt ügynökre elhelyezhetők.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/02/24",
@@ -405,12 +408,14 @@
     "contains_rare": [],
     "market_hash_name": "Metal Skill Group Patch Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack02_png.png",
+    "model_player": "models/props/crates/patch_envelope02.vmdl"
   },
   {
     "id": "crate-4615",
     "name": "Half-Life: Alyx Felvarró Csomag",
     "name_original": "crate_patch_pack_hlalyx",
+    "code": "#CSGO_crate_patch_pack_hlalyx",
     "description": "Ez a csomag különféle hímzett felvarrókat tartalmaz, melyek a Half-Life: Alyxnek állítanak emléket, a Valve VR visszatérésének a Half-Life sorozathoz. A felvarrók bármely általad birtokolt ügynökön elhelyezhetők.",
     "type": "Patch Capsule",
     "first_sale_date": "2020/03/23",
@@ -529,12 +534,14 @@
     "contains_rare": [],
     "market_hash_name": "Half-Life: Alyx Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_hlalyx_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_hlalyx_png.png",
+    "model_player": "models/props/crates/patch_envelope_hlalyx.vmdl"
   },
   {
     "id": "crate-4795",
     "name": "Operation Riptide Felvarrógyűjtemény",
     "name_original": "crate_patch_pack03",
+    "code": "#CSGO_crate_patch_pack03",
     "description": "Ez a felvarrógyűjtemény különböző hímzett felvarrókat tartalmaz az Operation Riptide emlékére. A felvarrók bármely általad birtokolt ügynökre elhelyezhetők.",
     "type": "Patch Capsule",
     "first_sale_date": "2021/09/01",
@@ -673,12 +680,14 @@
     "contains_rare": [],
     "market_hash_name": "Operation Riptide Patch Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack03_png.png",
+    "model_player": "models/props/crates/patch_envelope03.vmdl"
   },
   {
     "id": "crate-4806",
     "name": "Stockholm 2021 Legendák Felvarrócsomag",
     "name_original": "crate_patch_pack_stockh2021_legends",
+    "code": "#CSGO_crate_patch_pack_stockh2021_legends",
     "description": "Ez a csomag egyetlen Stockholm 2021 résztvevői magas minőségű vagy arany hímzett felvarrót tartalmaz.\\n\\nE kapszula minden eladásának bevételéből 50% az adott szervezetet támogatja.\\n\\nA felvarrók bármely általad birtokolt ügynökre elhelyezhetők.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -867,12 +876,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Legends Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_legends_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_legends.vmdl"
   },
   {
     "id": "crate-4807",
     "name": "Stockholm 2021 Kihívók Felvarrócsomag",
     "name_original": "crate_patch_pack_stockh2021_challengers",
+    "code": "#CSGO_crate_patch_pack_stockh2021_challengers",
     "description": "Ez a csomag egyetlen Stockholm 2021 résztvevői magas minőségű vagy arany hímzett felvarrót tartalmaz.\\n\\nE kapszula minden eladásának bevételéből 50% az adott szervezetet támogatja.\\n\\nA felvarrók bármely általad birtokolt ügynökre elhelyezhetők.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -1061,12 +1072,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Challengers Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_challengers_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_challengers.vmdl"
   },
   {
     "id": "crate-4808",
     "name": "Stockholm 2021 Esélyesek Felvarrócsomag",
     "name_original": "crate_patch_pack_stockh2021_contenders",
+    "code": "#CSGO_crate_patch_pack_stockh2021_contenders",
     "description": "Ez a csomag egyetlen Stockholm 2021 résztvevői magas minőségű vagy arany hímzett felvarrót tartalmaz.\\n\\nE kapszula minden eladásának bevételéből 50% az adott szervezetet támogatja.\\n\\nA felvarrók bármely általad birtokolt ügynökre elhelyezhetők.",
     "type": "Patch Capsule",
     "first_sale_date": "2021-10-10",
@@ -1255,6 +1268,7 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Contenders Patch Pack",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_patch_pack_stockh2021_contenders_png.png",
+    "model_player": "models/props/crates/patch_envelope_stockh2021_contenders.vmdl"
   }
 ]

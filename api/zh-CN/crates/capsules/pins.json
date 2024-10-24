@@ -3,6 +3,7 @@
     "id": "crate-4235",
     "name": "系列 1 收藏胸章胶囊",
     "name_original": "crate_pins_series_1",
+    "code": "#CSGO_crate_pins_series_1",
     "description": "这个胶囊包含一枚系列 1 的收藏胸章。您可以在个人资料上展示收藏胸章。",
     "type": "Pins",
     "first_sale_date": "2016/06/01",
@@ -121,12 +122,14 @@
     "contains_rare": [],
     "market_hash_name": "Collectible Pins Capsule Series 1",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4284",
     "name": "系列 2 收藏胸章胶囊",
     "name_original": "crate_pins_series_2",
+    "code": "#CSGO_crate_pins_series_2",
     "description": "这个胶囊包含一枚系列 2 的收藏胸章。您可以在个人资料上展示收藏胸章。",
     "type": "Pins",
     "first_sale_date": "2016/09/28",
@@ -245,12 +248,14 @@
     "contains_rare": [],
     "market_hash_name": "Collectible Pins Capsule Series 2",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_2_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4481",
     "name": "系列 3 收藏胸章胶囊",
     "name_original": "crate_pins_series_3",
+    "code": "#CSGO_crate_pins_series_3",
     "description": "这个胶囊包含一枚系列 3 的收藏胸章。您可以在个人资料上展示收藏胸章。",
     "type": "Pins",
     "first_sale_date": "2018/03/01",
@@ -369,12 +374,14 @@
     "contains_rare": [],
     "market_hash_name": "Collectible Pins Capsule Series 3",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_3_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_series_3_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4693",
     "name": "《半衰期：爱莉克斯》收藏胸章胶囊",
     "name_original": "crate_pins_hlalyx",
+    "code": "#CSGO_crate_pins_hlalyx",
     "description": "这个胶囊包含一枚用于纪念《半衰期：爱莉克斯》的收藏品胸章，代表了Valve利用虚拟现实技术让《半衰期》系列得以回归。您可以在个人资料上展示收藏品胸章。",
     "type": "Pins",
     "first_sale_date": "2020/03/23",
@@ -503,6 +510,7 @@
     "contains_rare": [],
     "market_hash_name": "Half-Life: Alyx Collectible Pins Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_hlalyx_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_pins_hlalyx_png.png",
+    "model_player": null
   }
 ]

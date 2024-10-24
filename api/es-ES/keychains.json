@@ -1,0 +1,431 @@
+[
+  {
+    "id": "keychain-1",
+    "name": "Colgante | Avita",
+    "code": "#keychain_kc_missinglink_ava",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Lil' Ava",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_ava_png.png"
+  },
+  {
+    "id": "keychain-2",
+    "name": "Colgante | Platanito loco",
+    "code": "#keychain_kc_missinglink_banana",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | That's Bananas",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_banana_png.png"
+  },
+  {
+    "id": "keychain-3",
+    "name": "Colgante | Bigotillos",
+    "code": "#keychain_kc_missinglink_cat",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Lil' Whiskers",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_cat_png.png"
+  },
+  {
+    "id": "keychain-4",
+    "name": "Colgante | Mini Sandy",
+    "code": "#keychain_kc_missinglink_catbeach",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Lil' Sandy",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_catbeach_png.png"
+  },
+  {
+    "id": "keychain-5",
+    "name": "Colgante | Pollito",
+    "code": "#keychain_kc_missinglink_chicken",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Chicken Lil'",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_chicken_png.png"
+  },
+  {
+    "id": "keychain-6",
+    "name": "Colgante | Guerrillerito",
+    "code": "#keychain_kc_missinglink_guerilla",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Lil' Crass",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_guerilla_png.png"
+  },
+  {
+    "id": "keychain-7",
+    "name": "Colgante | Aullido infernal",
+    "code": "#keychain_kc_missinglink_howl",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "de aspecto extraordinario",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "Charm | Hot Howl",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_howl_png.png"
+  },
+  {
+    "id": "keychain-8",
+    "name": "Colgante | Mini Kev",
+    "code": "#keychain_kc_missinglink_kev",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Big Kev",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_kev_png.png"
+  },
+  {
+    "id": "keychain-9",
+    "name": "Colgante | Monstruito",
+    "code": "#keychain_kc_missinglink_monster",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "de aspecto exótico",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Lil' Monster",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_monster_png.png"
+  },
+  {
+    "id": "keychain-10",
+    "name": "Colgante | Salsa picante",
+    "code": "#keychain_kc_missinglink_sam_catchup",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Hot Sauce",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_catchup_png.png"
+  },
+  {
+    "id": "keychain-11",
+    "name": "Colgante | Mono de diamantes",
+    "code": "#keychain_kc_missinglink_sam_diamond",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "de aspecto exótico",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Diamond Dog",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_diamond_png.png"
+  },
+  {
+    "id": "keychain-12",
+    "name": "Colgante | Pizca de sal",
+    "code": "#keychain_kc_missinglink_sam_salty",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Pinch O' Salt",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_salty_png.png"
+  },
+  {
+    "id": "keychain-13",
+    "name": "Colgante | Mono retro",
+    "code": "#keychain_kc_missinglink_sam_shape",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "de aspecto exótico",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Diner Dog",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_shape_png.png"
+  },
+  {
+    "id": "keychain-14",
+    "name": "Colgante | Porcelanito",
+    "code": "#keychain_kc_missinglink_sam_toile",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Lil' Teacup",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_toile_png.png"
+  },
+  {
+    "id": "keychain-15",
+    "name": "Colgante | SASito",
+    "code": "#keychain_kc_missinglink_sas",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Lil' SAS",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sas_png.png"
+  },
+  {
+    "id": "keychain-16",
+    "name": "Colgante | Salchicha ardiendo",
+    "code": "#keychain_kc_missinglink_wurst",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "de aspecto extraordinario",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "Charm | Hot Wurst",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_wurst_png.png"
+  },
+  {
+    "id": "keychain-17",
+    "name": "Colgante | MiniAK",
+    "code": "#keychain_kc_wpn_ak_base",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Baby's AK",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_ak_base_png.png"
+  },
+  {
+    "id": "keychain-18",
+    "name": "Colgante | AK de metal",
+    "code": "#keychain_kc_wpn_ak_jelly",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Die-cast AK",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_ak_jelly_png.png"
+  },
+  {
+    "id": "keychain-19",
+    "name": "Colgante | AWP de bolsillo",
+    "code": "#keychain_kc_wpn_awp_plastic",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Pocket AWP",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_awp_plastic_png.png"
+  },
+  {
+    "id": "keychain-20",
+    "name": "Colgante | Mini AWP de titanio",
+    "code": "#keychain_kc_wpn_awp_spoon",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "de aspecto exótico",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Titeenium AWP",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_awp_spoon_png.png"
+  },
+  {
+    "id": "keychain-21",
+    "name": "Colgante | Quilatito (AT)",
+    "code": "#keychain_kc_wpn_ctknife_gold",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "de aspecto extraordinario",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "Charm | Baby Karat CT",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_ctknife_gold_png.png"
+  },
+  {
+    "id": "keychain-22",
+    "name": "Colgante | Cuchillo tallado",
+    "code": "#keychain_kc_wpn_ctknife_wood",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Whittle Knife",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_ctknife_wood_png.png"
+  },
+  {
+    "id": "keychain-23",
+    "name": "Colgante | Arte POP",
+    "code": "#keychain_kc_wpn_m4a1s_comic",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | POP Art",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_m4a1s_comic_png.png"
+  },
+  {
+    "id": "keychain-24",
+    "name": "Colgante | Pistolita de agua",
+    "code": "#keychain_kc_wpn_m4a1s_ss",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "de aspecto exótico",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Lil' Squirt",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_m4a1s_ss_png.png"
+  },
+  {
+    "id": "keychain-25",
+    "name": "Colgante | MAC de espejos",
+    "code": "#keychain_kc_wpn_mac10_glitter",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Disco MAC",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_mac10_glitter_png.png"
+  },
+  {
+    "id": "keychain-26",
+    "name": "Colgante | Azulejo",
+    "code": "#keychain_kc_wpn_mac10_tile",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Backsplash",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_mac10_tile_png.png"
+  },
+  {
+    "id": "keychain-27",
+    "name": "Colgante | Pistolita de juguete",
+    "code": "#keychain_kc_wpn_tec9_cap",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Lil' Cap Gun",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_tec9_cap_png.png"
+  },
+  {
+    "id": "keychain-28",
+    "name": "Colgante | Manos calientes",
+    "code": "#keychain_kc_wpn_tec9_magma",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Hot Hands",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_tec9_magma_png.png"
+  },
+  {
+    "id": "keychain-29",
+    "name": "Colgante | Semiprecioso",
+    "code": "#keychain_kc_wpn_tknife_crystal",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "de aspecto exótico",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Charm | Semi-Precious",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_tknife_crystal_png.png"
+  },
+  {
+    "id": "keychain-30",
+    "name": "Colgante | Quilatito (T)",
+    "code": "#keychain_kc_wpn_tknife_gold",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "de aspecto extraordinario",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "Charm | Baby Karat T",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_tknife_gold_png.png"
+  },
+  {
+    "id": "keychain-31",
+    "name": "Colgante | Tiro con estilo",
+    "code": "#keychain_kc_wpn_usp_jewel",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Glamour Shot",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_usp_jewel_png.png"
+  },
+  {
+    "id": "keychain-32",
+    "name": "Colgante | Cargada y a punto",
+    "code": "#keychain_kc_wpn_usp_yarn",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Charm | Stitch-Loaded",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_usp_yarn_png.png"
+  },
+  {
+    "id": "keychain-33",
+    "name": "Colgante | Miniyeti",
+    "code": "#keychain_kc_missinglink_bigfoot",
+    "description": "Este colgante se puede acoplar a cualquier arma que tengas. Cada colgante acoplado se puede quitar con un desacoplador de colgantes. Los colgantes que desacoples volverán a tu inventario.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "singular",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Charm | Lil' Squatch",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_bigfoot_png.png"
+  }
+]

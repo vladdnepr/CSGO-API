@@ -3,6 +3,7 @@
     "id": "crate-4007",
     "name": "Κάψουλα αυτοκόλλητων",
     "name_original": "crate_sticker_pack01",
+    "code": "#CSGO_crate_sticker_pack01",
     "description": null,
     "type": "Sticker Capsule",
     "first_sale_date": "2014/01/29",
@@ -161,12 +162,14 @@
     "contains_rare": [],
     "market_hash_name": "Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4012",
     "name": "Κάψουλα αυτοκόλλητων 2",
     "name_original": "crate_sticker_pack02",
+    "code": "#CSGO_crate_sticker_pack02",
     "description": null,
     "type": "Sticker Capsule",
     "first_sale_date": "2014/01/29",
@@ -335,12 +338,14 @@
     "contains_rare": [],
     "market_hash_name": "Sticker Capsule 2",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4014",
     "name": "EMS Katowice 2014 Challengers",
     "name_original": "crate_sticker_pack_kat2014_01",
+    "code": "#CSGO_crate_sticker_pack_kat2014_01",
     "description": "Αυτή η κάψουλα περιέχει ένα αυτοκόλλητο συμμετέχων EMS One Katowice 2014. Ένα μέρος των εσόδων θα μοιραστεί εξίσου μεταξύ των συμπεριλαμβανομένων οργανισμών.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/03/02",
@@ -519,12 +524,14 @@
     "contains_rare": [],
     "market_hash_name": "EMS Katowice 2014 Challengers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4015",
     "name": "EMS Katowice 2014 Legends",
     "name_original": "crate_sticker_pack_kat2014_02",
+    "code": "#CSGO_crate_sticker_pack_kat2014_02",
     "description": "Αυτή η κάψουλα περιέχει ένα αυτοκόλλητο συμμετέχων EMS One Katowice 2014. Ένα μέρος των εσόδων θα μοιραστεί εξίσου μεταξύ των συμπεριλαμβανομένων οργανισμών.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/03/02",
@@ -703,12 +710,14 @@
     "contains_rare": [],
     "market_hash_name": "EMS Katowice 2014 Legends",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_kat2014_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4016",
     "name": "Κάψουλα αυτοκόλλητων κοινότητας 1",
     "name_original": "crate_sticker_pack_community01",
+    "code": "#CSGO_crate_sticker_pack_community01",
     "description": "Αυτή η κάψουλα περιέχει ένα αυτοκόλλητο δημιουργημένο από την κοινότητα. Ένα μέρος των εσόδων μοιράζεται εξίσου στους συμπεριλαμβανομένους δημιουργούς.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/06/11",
@@ -887,12 +896,14 @@
     "contains_rare": [],
     "market_hash_name": "Community Sticker Capsule 1",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4020",
     "name": "ESL Cologne 2014 Legends",
     "name_original": "crate_sticker_pack_cologne2014_01",
+    "code": "#CSGO_crate_sticker_pack_cologne2014_01",
     "description": "Αυτή η κάψουλα περιέχει ένα αυτοκόλλητο συμμετέχων ESL One Cologne 2014. Ένα μέρος των εσόδων θα μοιραστεί εξίσου μεταξύ των συμπεριλαμβανομένων οργανισμών.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/08/01",
@@ -1051,12 +1062,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Legends",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4021",
     "name": "ESL One Cologne 2014 Challengers",
     "name_original": "crate_sticker_pack_cologne2014_02",
+    "code": "#CSGO_crate_sticker_pack_cologne2014_02",
     "description": "Αυτή η κάψουλα περιέχει ένα αυτοκόλλητο συμμετέχων ESL One Cologne 2014. Ένα μέρος των εσόδων θα μοιραστεί εξίσου μεταξύ των συμπεριλαμβανομένων οργανισμών.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/08/01",
@@ -1255,12 +1268,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2014 Challengers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2014_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4030",
     "name": "DreamHack 2014 Legends (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_dhw2014_01",
+    "code": "#CSGO_crate_sticker_pack_dhw2014_01",
     "description": "Αυτή η κάψουλα περιέχει ένα Holo ή σπάνιο αυτοκόλλητο συμμετέχων DreamHack 2014. Ένα μέρος των εσόδων θα μοιραστεί εξίσου μεταξύ των συμπεριλαμβανομένων οργανισμών.",
     "type": "Sticker Capsule",
     "first_sale_date": "2014/11/20",
@@ -1399,12 +1414,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack 2014 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_dhw2014_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_dhw2014_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4086",
     "name": "ESL One Katowice 2015 Legends (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_eslkatowice2015_01",
+    "code": "#CSGO_crate_sticker_pack_eslkatowice2015_01",
     "description": "Αυτή η κάψουλα περιέχει ένα Holo ή σπάνιο αυτοκόλλητο συμμετέχων ESL One Katowice 2015. Ένα μέρος των εσόδων θα μοιραστεί εξίσου μεταξύ των συμπεριλαμβανομένων οργανισμών.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/02/26",
@@ -1583,12 +1600,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4087",
     "name": "ESL One Katowice 2015 Challengers (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_eslkatowice2015_02",
+    "code": "#CSGO_crate_sticker_pack_eslkatowice2015_02",
     "description": "Αυτή η κάψουλα περιέχει ένα Holo ή σπάνιο αυτοκόλλητο συμμετέχων ESL One Katowice 2015. Ένα μέρος των εσόδων θα μοιραστεί εξίσου μεταξύ των συμπεριλαμβανομένων οργανισμών.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/02/26",
@@ -1767,12 +1786,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Katowice 2015 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslkatowice2015_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4090",
     "name": "Κάψουλα αυτοκόλλητων Enfu",
     "name_original": "crate_sticker_pack_enfu_capsule",
+    "code": "#CSGO_crate_sticker_pack_enfu_capsule",
     "description": "Αυτή η κάψουλα περιέχει διάφορα αυτοκόλλητα από τον καλλιτέχνη κοινότητας ENFU.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/04/22",
@@ -1931,12 +1952,14 @@
     "contains_rare": [],
     "market_hash_name": "Enfu Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_enfu_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_enfu_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4109",
     "name": "ESL One Κολωνία 2015 Θρύλοι (Σπάνιο)",
     "name_original": "crate_sticker_pack_eslcologne2015_legends",
+    "code": "#CSGO_crate_sticker_pack_eslcologne2015_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα σπάνιο αυτοκόλλητο συμμετέχοντος ESL One Cologne 2015.\\n\\nΤο 50% των εσόδων από τις πωλήσεις αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανομένους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να τοποθετηθεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί ώστε να μοιάζει πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το να φαίνεται όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/8/10",
@@ -2035,12 +2058,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Legends (Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4110",
     "name": "ESL One Κολωνία 2015 Διεκδικητές (Σπάνιο)",
     "name_original": "crate_sticker_pack_eslcologne2015_challengers",
+    "code": "#CSGO_crate_sticker_pack_eslcologne2015_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα σπάνιο αυτοκόλλητο συμμετέχοντος ESL One Cologne 2015.\\n\\nΤο 50% των εσόδων από τις πωλήσεις αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανομένους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να τοποθετηθεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί ώστε να μοιάζει πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το να φαίνεται όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/8/10",
@@ -2139,12 +2164,14 @@
     "contains_rare": [],
     "market_hash_name": "ESL One Cologne 2015 Challengers (Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_eslcologne2015_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4156",
     "name": "Θρύλοι DreamHack Cluj-Napoca 2015 (Σπάνιο)",
     "name_original": "crate_sticker_pack_cluj2015_legends",
+    "code": "#CSGO_crate_sticker_pack_cluj2015_legends",
     "description": "Η συγκεκριμένη κάψουλα περιέχει ένα Σπάνιο αυτοκόλλητο συμμετοχής για το DreamHack Cluj-Napoca 2015.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας διατίθενται για την υποστήριξη των συμπεριλαμβανομένων παικτών και οργανισμών.\\n\\nΜπορείτε να εφαρμόσετε αυτό το αυτοκόλλητο οποιοδήποτε όπλο διαθέτετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντας το πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/10/20",
@@ -2243,12 +2270,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Legends (Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4157",
     "name": "Διεκδικητές DreamHack Cluj-Napoca 2015 (Σπάνιο)",
     "name_original": "crate_sticker_pack_cluj2015_challengers",
+    "code": "#CSGO_crate_sticker_pack_cluj2015_challengers",
     "description": "Η συγκεκριμένη κάψουλα περιέχει ένα Σπάνιο αυτοκόλλητο συμμετοχής για το DreamHack Cluj-Napoca 2015.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας διατίθενται για την υποστήριξη των συμπεριλαμβανομένων οργανισμών.\\n\\nΜπορείτε να εφαρμόσετε αυτό το αυτοκόλλητο οποιοδήποτε όπλο διαθέτετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντας το πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/10/20",
@@ -2347,12 +2376,14 @@
     "contains_rare": [],
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cluj2015_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4183",
     "name": "Κάψουλα Pinups",
     "name_original": "crate_sticker_pack_pinups_capsule",
+    "code": "#CSGO_crate_sticker_pack_pinups_capsule",
     "description": "Αυτή η κάψουλα περιέχει ποικιλία αυτοκόλλητων από τον καλλιτέχνη κοινότητας ninjasia.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/12/01",
@@ -2481,12 +2512,14 @@
     "contains_rare": [],
     "market_hash_name": "Pinups Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_pinups_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_pinups_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4184",
     "name": "Κάψουλα Slid3",
     "name_original": "crate_sticker_pack_slid3_capsule",
+    "code": "#CSGO_crate_sticker_pack_slid3_capsule",
     "description": "Αυτή η κάψουλα περιέχει ποικιλία αυτοκόλλητων από τον καλλιτέχνη κοινότητας Slid3.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/12/01",
@@ -2645,12 +2678,14 @@
     "contains_rare": [],
     "market_hash_name": "Slid3 Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_slid3_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_slid3_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4185",
     "name": "Κάψουλα ρόλων ομάδας",
     "name_original": "crate_sticker_pack_team_roles_capsule",
+    "code": "#CSGO_crate_sticker_pack_team_roles_capsule",
     "description": "Αυτή η κάψουλα περιέχει διάφορα αυτοκόλλητα από τον καλλιτέχνη κοινότητας ThePolymath.",
     "type": "Sticker Capsule",
     "first_sale_date": "2015/12/01",
@@ -2769,12 +2804,14 @@
     "contains_rare": [],
     "market_hash_name": "Team Roles Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_team_roles_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_team_roles_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4205",
     "name": "Θρύλοι MLG Columbus 2016 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_columbus2016_legends",
+    "code": "#CSGO_crate_sticker_pack_columbus2016_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα σπάνιο ή Holo αυτοκόλλητο συμμετέχοντα στο MLG Columbus 2016.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας ενισχύει τους συμπεριλαμβανόμενους παίκτες και οργανισμούς.\\n\\nΤο αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο σας ανήκει και μπορεί να γδαρθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να γδάρετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντας το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016-03-10",
@@ -2963,12 +3000,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4206",
     "name": "Διεκδικητές MLG Columbus 2016 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_columbus2016_challengers",
+    "code": "#CSGO_crate_sticker_pack_columbus2016_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα σπάνιο ή Holo αυτοκόλλητο συμμετέχοντα στο MLG Columbus 2016.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας ενισχύει τους συμπεριλαμβανόμενους παίκτες και οργανισμούς.\\n\\nΤο αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο σας ανήκει και μπορεί να γδαρθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να γδάρετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντας το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016-03-10",
@@ -3157,12 +3196,14 @@
     "contains_rare": [],
     "market_hash_name": "MLG Columbus 2016 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_columbus2016_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4254",
     "name": "Θρύλοι Cologne 2016 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_cologne2016_legends",
+    "code": "#CSGO_crate_sticker_pack_cologne2016_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα Cologne 2016.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανομένους παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να τοποθετηθεί σε οποιοδήποτε όπλο έχετε και να ξυθεί ώστε να φαίνεται πιο φθαρμένο. Μπορείτε να το ξύσετε πολλές φορές, φθείροντάς το λίγο περισσότερο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016-06-24",
@@ -3351,12 +3392,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2016_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2016_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4255",
     "name": "Διεκδικητές Cologne 2016 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_cologne2016_challengers",
+    "code": "#CSGO_crate_sticker_pack_cologne2016_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα Cologne 2016.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανομένους παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να τοποθετηθεί σε οποιοδήποτε όπλο έχετε και να ξυθεί ώστε να φαίνεται πιο φθαρμένο. Μπορείτε να το ξύσετε πολλές φορές, φθείροντάς το λίγο περισσότερο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016-06-24",
@@ -3545,12 +3588,14 @@
     "contains_rare": [],
     "market_hash_name": "Cologne 2016 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2016_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cologne2016_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4282",
     "name": "Κάψουλα Sugarface",
     "name_original": "crate_sticker_pack_sugarface_capsule",
+    "code": "#CSGO_crate_sticker_pack_sugarface_capsule",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από τον καλλιτέχνη κοινότητας Guardian Gear.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016/08/16",
@@ -3699,12 +3744,14 @@
     "contains_rare": [],
     "market_hash_name": "Sugarface Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_sugarface_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_sugarface_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4283",
     "name": "Κάψουλα Bestiary",
     "name_original": "crate_sticker_pack_bestiary_capsule",
+    "code": "#CSGO_crate_sticker_pack_bestiary_capsule",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από τον καλλιτέχνη κοινότητας apёl7.",
     "type": "Sticker Capsule",
     "first_sale_date": "2016/08/16",
@@ -3853,12 +3900,14 @@
     "contains_rare": [],
     "market_hash_name": "Bestiary Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_bestiary_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_bestiary_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4323",
     "name": "Atlanta 2017 Legends (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_atlanta2017_legends",
+    "code": "#CSGO_crate_sticker_pack_atlanta2017_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα Ατλάντα 2017.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανομένους παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυστεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-01-10",
@@ -4047,12 +4096,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_atlanta2017_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_atlanta2017_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4324",
     "name": "Atlanta 2017 Challengers (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_atlanta2017_challengers",
+    "code": "#CSGO_crate_sticker_pack_atlanta2017_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα Ατλάντα 2017.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανομένους παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυστεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-01-10",
@@ -4241,12 +4292,14 @@
     "contains_rare": [],
     "market_hash_name": "Atlanta 2017 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_atlanta2017_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_atlanta2017_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4391",
     "name": "Θρύλοι Krakow 2017 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_krakow2017_legends",
+    "code": "#CSGO_crate_sticker_pack_krakow2017_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα στο Krakow 2017.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-07-05",
@@ -4435,12 +4488,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_krakow2017_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_krakow2017_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4392",
     "name": "Διεκδικητές Krakow 2017 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_krakow2017_challengers",
+    "code": "#CSGO_crate_sticker_pack_krakow2017_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα στο Krakow 2017.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-07-05",
@@ -4629,12 +4684,14 @@
     "contains_rare": [],
     "market_hash_name": "Krakow 2017 Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_krakow2017_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_krakow2017_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4404",
     "name": "Κάψουλα αυτοκόλλητων Perfect World 1",
     "name_original": "crate_sticker_pack_illuminate_capsule_01",
+    "code": "#CSGO_crate_sticker_pack_illuminate_capsule_01",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από την Perfect World για να γιορτάσει την έλευση του Counter-Strike: Global Offensive στην ηπειρωτική Κίνα.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017/09/15",
@@ -4793,12 +4850,14 @@
     "contains_rare": [],
     "market_hash_name": "Perfect World Sticker Capsule 1",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_illuminate_capsule_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_illuminate_capsule_01_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4405",
     "name": "Κάψουλα αυτοκόλλητων Perfect World 2",
     "name_original": "crate_sticker_pack_illuminate_capsule_02",
+    "code": "#CSGO_crate_sticker_pack_illuminate_capsule_02",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από την Perfect World για να γιορτάσει την έλευση του Counter-Strike: Global Offensive στην ηπειρωτική Κίνα.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017/09/15",
@@ -4957,12 +5016,14 @@
     "contains_rare": [],
     "market_hash_name": "Perfect World Sticker Capsule 2",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_illuminate_capsule_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_illuminate_capsule_02_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4456",
     "name": "Θρύλοι Boston 2018 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_boston2018_legends",
+    "code": "#CSGO_crate_sticker_pack_boston2018_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα στο Boston 2018.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -5151,12 +5212,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4457",
     "name": "Επανερχόμενοι διεκδικητές στο Boston 2018 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_boston2018_challengers",
+    "code": "#CSGO_crate_sticker_pack_boston2018_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα στο Boston 2018.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -5345,12 +5408,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Returning Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4458",
     "name": "Μικροί διεκδικητές στο Boston 2018 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_boston2018_contenders",
+    "code": "#CSGO_crate_sticker_pack_boston2018_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα στο Boston 2018.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -5545,12 +5610,14 @@
     ],
     "market_hash_name": "Boston 2018 Minor Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4470",
     "name": "Κάψουλα κοινότητας 2018",
     "name_original": "crate_sticker_pack_comm2018_01_capsule",
+    "code": "#CSGO_crate_sticker_pack_comm2018_01_capsule",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από τo εργαστήρι κοινότητας.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017/12/11",
@@ -5699,12 +5766,14 @@
     "contains_rare": [],
     "market_hash_name": "Community Capsule 2018",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_comm2018_01_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_comm2018_01_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4474",
     "name": "Μικροί διεκδικητές Boston 2018 και οι Flash Gaming (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_boston2018_contenders_flg",
+    "code": "#CSGO_crate_sticker_pack_boston2018_contenders_flg",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα στο Boston 2018.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -5893,12 +5962,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_contenders_flg_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_contenders_flg_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4477",
     "name": "Κοτοκάψουλα",
     "name_original": "crate_sticker_pack_chicken_capsule",
+    "code": "#CSGO_crate_sticker_pack_chicken_capsule",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από τον καλλιτέχνη κοινότητας Slid3.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/06/10",
@@ -6077,12 +6148,14 @@
     "contains_rare": [],
     "market_hash_name": "Chicken Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_chicken_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_chicken_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4478",
     "name": "Boston 2018 Θρύλοι (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_boston2018_legends_ntv",
+    "code": "#CSGO_crate_sticker_pack_boston2018_legends_ntv",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντα στο Boston 2018.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2017-12-18",
@@ -6251,12 +6324,14 @@
     "contains_rare": [],
     "market_hash_name": "Boston 2018 Attending Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_legends_ntv_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_boston2018_legends_ntv_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4533",
     "name": "Θρύλοι London 2018 (Holo/Σπάνιο)",
     "name_original": "crate_sticker_pack_london2018_legends",
+    "code": "#CSGO_crate_sticker_pack_london2018_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντος στο London 2018.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2018-09-04",
@@ -6445,12 +6520,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4534",
     "name": "Επανερχόμενοι διεκδικητές London 2018 (Ολογ./Μεταλ.)",
     "name_original": "crate_sticker_pack_london2018_challengers",
+    "code": "#CSGO_crate_sticker_pack_london2018_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντος στο London 2018.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2018-09-04",
@@ -6639,12 +6716,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Returning Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4535",
     "name": "Μικροί διεκδικητές London 2018 (Ολογ./Μεταλ.)",
     "name_original": "crate_sticker_pack_london2018_contenders",
+    "code": "#CSGO_crate_sticker_pack_london2018_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή σπάνιο αυτοκόλλητο συμμετέχοντος στο London 2018.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2018-09-04",
@@ -6833,12 +6912,14 @@
     "contains_rare": [],
     "market_hash_name": "London 2018 Minor Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_london2018_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4547",
     "name": "Κάψουλα επιπέδων ικανότητας",
     "name_original": "crate_sticker_pack_skillgroup_capsule",
+    "code": "#CSGO_crate_sticker_pack_skillgroup_capsule",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από τον καλλιτέχνη κοινότητας daniDem.",
     "type": "Sticker Capsule",
     "first_sale_date": "2018/11/15",
@@ -7027,12 +7108,14 @@
     "contains_rare": [],
     "market_hash_name": "Skill Groups Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_skillgroup_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_skillgroup_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4584",
     "name": "Θρύλοι Katowice 2019 (Μεταλ./Ολογ.)",
     "name_original": "crate_sticker_pack_katowice2019_legends",
+    "code": "#CSGO_crate_sticker_pack_katowice2019_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή μεταλλικό αυτοκόλλητο συμμετέχοντος στο Katowice 2019.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-02-04",
@@ -7221,12 +7304,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4585",
     "name": "Επανερχόμενοι διεκδικητές Katowice 2019 (Μεταλ./Ολογ.)",
     "name_original": "crate_sticker_pack_katowice2019_challengers",
+    "code": "#CSGO_crate_sticker_pack_katowice2019_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή μεταλλικό αυτοκόλλητο συμμετέχοντος στο Katowice 2019.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-02-04",
@@ -7375,12 +7460,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Returning Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4586",
     "name": "Μικροί διεκδικητές Katowice 2019 (Μεταλ./Ολογ.)",
     "name_original": "crate_sticker_pack_katowice2019_contenders",
+    "code": "#CSGO_crate_sticker_pack_katowice2019_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή μεταλλικό αυτοκόλλητο συμμετέχοντος στο Katowice 2019.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμμετέχοντες παίκτες και οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-02-04",
@@ -7609,12 +7696,14 @@
     "contains_rare": [],
     "market_hash_name": "Katowice 2019 Minor Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_katowice2019_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4597",
     "name": "Κάψουλα Halo",
     "name_original": "crate_sticker_pack_halo_capsule",
+    "code": "#CSGO_crate_sticker_pack_halo_capsule",
     "description": "Αυτή η συλλογή περιέχει μια ποικιλία αυτοκόλλητων από 343 Industries.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/11/25",
@@ -7793,12 +7882,14 @@
     "contains_rare": [],
     "market_hash_name": "Halo Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_halo_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_halo_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4599",
     "name": "Κάψουλα Feral Predators",
     "name_original": "crate_sticker_pack_feral_predators_capsule",
+    "code": "#CSGO_crate_sticker_pack_feral_predators_capsule",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από τους καλλιτέχνες κοινότητας 2Minds, OniLolz και Zaphk.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/04/15",
@@ -7987,12 +8078,14 @@
     "contains_rare": [],
     "market_hash_name": "Feral Predators Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_feral_predators_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_feral_predators_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4600",
     "name": "Συλλογή αυτοκόλλητων Shattered Web",
     "name_original": "crate_sticker_pack_shattered_web",
+    "code": "#CSGO_crate_sticker_pack_shattered_web",
     "description": "Αυτή η συλλογή περιέχει μια ποικιλία αυτοκόλλητων προς εορτασμό της επιχείρησης Shattered Web.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/10/1",
@@ -8091,12 +8184,14 @@
     "contains_rare": [],
     "market_hash_name": "Shattered Web Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_shattered_web_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_shattered_web_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4616",
     "name": "Κάψουλα αυτοκόλλητων Warhammer 40,000",
     "name_original": "crate_sticker_pack_warhammer",
+    "code": "#CSGO_crate_sticker_pack_warhammer",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από τη σειρά Warhammer 40,000.",
     "type": "Sticker Capsule",
     "first_sale_date": "2020/05/28",
@@ -8275,12 +8370,14 @@
     "contains_rare": [],
     "market_hash_name": "Warhammer 40,000 Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_warhammer_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_warhammer_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4654",
     "name": "Θρύλοι Βερολίνου 2019 (Ολογ./Μεταλ.)",
     "name_original": "crate_sticker_pack_berlin2019_legends",
+    "code": "#CSGO_crate_sticker_pack_berlin2019_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή μεταλλικό αυτοκόλλητο συμμετέχοντος στο Βερολίνο 2019.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-08-08",
@@ -8469,12 +8566,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Legends (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4655",
     "name": "Επιστρέφοντες διεκδικητές Βερολίνο 2019 (Ολογ./Μεταλ.)",
     "name_original": "crate_sticker_pack_berlin2019_challengers",
+    "code": "#CSGO_crate_sticker_pack_berlin2019_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή μεταλλικό αυτοκόλλητο συμμετέχοντος στο Βερολίνο 2019.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-08-08",
@@ -8603,12 +8702,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Returning Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4656",
     "name": "Μικροί διεκδικητές Βερολίνο 2019 (Ολογ./Μεταλ.)",
     "name_original": "crate_sticker_pack_berlin2019_contenders",
+    "code": "#CSGO_crate_sticker_pack_berlin2019_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα ολογραφικό ή μεταλλικό αυτοκόλλητο συμμετέχοντος στο Βερολίνο 2019.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019-08-08",
@@ -8857,12 +8958,14 @@
     "contains_rare": [],
     "market_hash_name": "Berlin 2019 Minor Challengers (Holo-Foil)",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_berlin2019_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4670",
     "name": "Κάψουλα αυτοκόλλητων CS20",
     "name_original": "crate_sticker_pack_cs20_capsule",
+    "code": "#CSGO_crate_sticker_pack_cs20_capsule",
     "description": "Εορτάζοντας την 20η Επέτειο του Counter-Strike, αυτή η κάψουλα περιλαμβάνει μια ποικιλία αυτοκόλλητων από το Εργαστήρι Κοινότητας Steam.",
     "type": "Sticker Capsule",
     "first_sale_date": "2019/10/16",
@@ -9071,12 +9174,14 @@
     "contains_rare": [],
     "market_hash_name": "CS20 Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cs20_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cs20_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4694",
     "name": "Κάψουλα αυτοκόλλητων Half-Life: Alyx",
     "name_original": "crate_sticker_pack_hlalyx_capsule",
+    "code": "#CSGO_crate_sticker_pack_hlalyx_capsule",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία από αυτοκόλλητα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life.",
     "type": "Sticker Capsule",
     "first_sale_date": "2020/03/23",
@@ -9215,12 +9320,14 @@
     "contains_rare": [],
     "market_hash_name": "Half-Life: Alyx Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_hlalyx_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_hlalyx_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4719",
     "name": "Συλλογή αυτοκόλλητων Recoil",
     "name_original": "crate_sticker_pack_recoil",
+    "code": "#CSGO_crate_sticker_pack_recoil",
     "description": null,
     "type": "Sticker Capsule",
     "first_sale_date": "2019/10/1",
@@ -9549,12 +9656,14 @@
     "contains_rare": [],
     "market_hash_name": "Recoil Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_recoil_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_recoil_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4729",
     "name": "Συλλογή αυτοκόλλητων Broken Fang",
     "name_original": "crate_sticker_pack_broken_fang",
+    "code": "#CSGO_crate_sticker_pack_broken_fang",
     "description": "Αυτή η συλλογή περιέχει μια ποικιλία αυτοκόλλητων προς εορτασμό της επιχείρησης Broken Fang.",
     "type": "Sticker Capsule",
     "first_sale_date": "2020/11/9",
@@ -9723,12 +9832,14 @@
     "contains_rare": [],
     "market_hash_name": "Broken Fang Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_broken_fang_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_broken_fang_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4743",
     "name": "Θρύλοι 2020 RMR",
     "name_original": "crate_sticker_pack_rmr2020_legends",
+    "code": "#CSGO_crate_sticker_pack_rmr2020_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα μονό χάρτινο, ολογραφικό, σπάνιο ή χρυσό αυτοκόλλητο συμμετέχοντα στο RMR 2020.\\n\\n50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους οργανισμούς που περιλαμβάνονται.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο έχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το να φαίνεται λίγο πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-01-19",
@@ -10057,12 +10168,14 @@
     "contains_rare": [],
     "market_hash_name": "2020 RMR Legends",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4744",
     "name": "Διεκδικητές 2020 RMR",
     "name_original": "crate_sticker_pack_rmr2020_challengers",
+    "code": "#CSGO_crate_sticker_pack_rmr2020_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα μονό χάρτινο, ολογραφικό, σπάνιο ή χρυσό αυτοκόλλητο συμμετέχοντα στο RMR 2020.\\n\\n50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους οργανισμούς που περιλαμβάνονται.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο έχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το να φαίνεται λίγο πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-01-19",
@@ -10391,12 +10504,14 @@
     "contains_rare": [],
     "market_hash_name": "2020 RMR Challengers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4745",
     "name": "Ανταγωνιστές 2020 RMR",
     "name_original": "crate_sticker_pack_rmr2020_contenders",
+    "code": "#CSGO_crate_sticker_pack_rmr2020_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα μονό χάρτινο, ολογραφικό, σπάνιο ή χρυσό αυτοκόλλητο συμμετέχοντα στο RMR 2020.\\n\\n50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους οργανισμούς που περιλαμβάνονται.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο έχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το να φαίνεται λίγο πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-01-19",
@@ -10725,12 +10840,14 @@
     "contains_rare": [],
     "market_hash_name": "2020 RMR Contenders",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rmr2020_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4746",
     "name": "Κακοσχεδιασμένη Κάψουλα",
     "name_original": "crate_sticker_pack_poorly_drawn_capsule",
+    "code": "#CSGO_crate_sticker_pack_poorly_drawn_capsule",
     "description": "Αυτή η κάψουλα περιέχει μία ποικιλία κακοσχεδιασμένων αυτοκόλλητων από τους καλλιτέχνες της κοινότητας HH110011HH και Hoxton.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021/02/14",
@@ -10939,12 +11056,14 @@
     "contains_rare": [],
     "market_hash_name": "Poorly Drawn Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4779",
     "name": "Συλλογή αυτοκόλλητων μαγαζιού σέρφινγκ Riptide",
     "name_original": "crate_sticker_pack_riptide_surfshop",
+    "code": "#CSGO_crate_sticker_pack_riptide_surfshop",
     "description": null,
     "type": "Sticker Capsule",
     "first_sale_date": "2021/08/01",
@@ -11673,12 +11792,14 @@
     "contains_rare": [],
     "market_hash_name": "Riptide Surf Shop Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4782",
     "name": "Κάψουλα αυτοκόλλητων Κοινότητας 2021",
     "name_original": "crate_sticker_pack_community2021_capsule",
+    "code": "#CSGO_crate_sticker_pack_community2021_capsule",
     "description": "Αυτή η κάψουλα περιέχει μία ποικιλία αυτοκόλλητων από καλλιτέχνες Εργαστηρίου Steam.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021/09/02",
@@ -11897,12 +12018,14 @@
     "contains_rare": [],
     "market_hash_name": "2021 Community Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community2021_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community2021_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4783",
     "name": "Συλλογή αυτοκόλλητων Επιχείρησης Riptide",
     "name_original": "crate_sticker_pack_op_riptide_capsule",
+    "code": "#CSGO_crate_sticker_pack_op_riptide_capsule",
     "description": "Αυτή η συλλογή περιέχει μια ποικιλία αυτοκόλλητων προς εορτασμό της Επιχείρησης Riptide.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021/09/21",
@@ -12051,12 +12174,14 @@
     "contains_rare": [],
     "market_hash_name": "Operation Riptide Sticker Collection",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_op_riptide_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_op_riptide_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4784",
     "name": "Η κάψουλα αυτοκόλλητων The Boardroom",
     "name_original": "crate_sticker_pack_spring2022_capsule",
+    "code": "#CSGO_crate_sticker_pack_spring2022_capsule",
     "description": "Αυτή η κάψουλα περιέχει μία ποικιλία αυτοκόλλητων από καλλιτέχνες Εργαστηρίου Steam και κυκλοφόρησε τον Φεβρουάριο του 2022.",
     "type": "Sticker Capsule",
     "first_sale_date": "2022/02/20",
@@ -12285,12 +12410,14 @@
     "contains_rare": [],
     "market_hash_name": "The Boardroom Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_spring2022_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_spring2022_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4789",
     "name": "Κάψουλα Αυτοκόλλητων Battlefield 2042",
     "name_original": "crate_sticker_pack_bf2042_capsule",
+    "code": "#CSGO_crate_sticker_pack_bf2042_capsule",
     "description": "Αυτή η κάψουλα περιέχει μια ποικιλία αυτοκόλλητων από την Electronic Arts.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021/10/07",
@@ -12469,12 +12596,14 @@
     "contains_rare": [],
     "market_hash_name": "Battlefield 2042 Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_bf2042_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_bf2042_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4803",
     "name": "Κάψουλα Αυτοκόλλητων Θρύλων – Στοκχόλμη 2021",
     "name_original": "crate_sticker_pack_stockh2021_legends",
+    "code": "#CSGO_crate_sticker_pack_stockh2021_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα Υψηλής Ποιότητας, Ολογραφικό, Μεταλλικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος στο τουρνουά Στοκχόλμη 2021.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-10-10",
@@ -12843,12 +12972,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4804",
     "name": "Κάψουλα Αυτοκόλλητων Διεκδικητών – Στοκχόλμη 2021",
     "name_original": "crate_sticker_pack_stockh2021_challengers",
+    "code": "#CSGO_crate_sticker_pack_stockh2021_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα Υψηλής Ποιότητας, Ολογραφικό, Μεταλλικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος στο τουρνουά Στοκχόλμη 2021.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-10-10",
@@ -13217,12 +13348,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4805",
     "name": "Κάψουλα Αυτοκόλλητων Ανταγωνιστών – Στοκχόλμη 2021",
     "name_original": "crate_sticker_pack_stockh2021_contenders",
+    "code": "#CSGO_crate_sticker_pack_stockh2021_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα Υψηλής Ποιότητας, Ολογραφικό, Μεταλλικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος στο τουρνουά Στοκχόλμη 2021.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": "2021-10-10",
@@ -13591,12 +13724,14 @@
     "contains_rare": [],
     "market_hash_name": "Stockholm 2021 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_stockh2021_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4832",
     "name": "Κάψουλα Αυτοκόλλητων Θρύλων Αμβέρσα 2022",
     "name_original": "crate_sticker_pack_antwerp2022_legends",
+    "code": "#CSGO_crate_sticker_pack_antwerp2022_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα Υψηλής Ποιότητας, Ολογραφικό, Γκλίτερ, Μεταλλικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος Θρύλου στο τουρνουά Αμβέρσα 2022.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -13965,12 +14100,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4833",
     "name": "Κάψουλα Αυτοκόλλητων Διεκδικητών Αμβέρσα 2022",
     "name_original": "crate_sticker_pack_antwerp2022_challengers",
+    "code": "#CSGO_crate_sticker_pack_antwerp2022_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα Υψηλής Ποιότητας, Γκλίτερ, Ολογραφικό, Μεταλλικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος Διεκδικητή στο τουρνουά Αμβέρσα 2022.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -14339,12 +14476,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4834",
     "name": "Κάψουλα Αυτοκόλλητων Ανταγωνιστών Αμβέρσα 2022",
     "name_original": "crate_sticker_pack_antwerp2022_contenders",
+    "code": "#CSGO_crate_sticker_pack_antwerp2022_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα Υψηλής Ποιότητας, Γκλίτερ, Ολογραφικό, Μεταλλικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος Ανταγωνιστή στο τουρνουά Αμβέρσα 2022.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -14713,12 +14852,14 @@
     "contains_rare": [],
     "market_hash_name": "Antwerp 2022 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4847",
     "name": "Κάψουλα αυτοκόλλητων «Γενέθλια 10 Χρόνων»",
     "name_original": "crate_sticker_pack_csgo10_capsule",
+    "code": "#CSGO_crate_sticker_pack_csgo10_capsule",
     "description": "Αυτή η κάψουλα περιέχει μία ποικιλία αυτοκόλλητων από καλλιτέχνες Εργαστηρίου Steam που γιορτάζουν τα δέκατα γενέθλια του CS:GO.",
     "type": "Sticker Capsule",
     "first_sale_date": "2022/06/15",
@@ -15377,12 +15518,14 @@
     "contains_rare": [],
     "market_hash_name": "10 Year Birthday Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_csgo10_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_csgo10_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4857",
     "name": "Κάψουλα Αυτοκόλλητων Θρύλων Ρίο 2022",
     "name_original": "crate_sticker_pack_rio2022_legends",
+    "code": "#CSGO_crate_sticker_pack_rio2022_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος Θρύλου στο τουρνουά Ρίο 2022.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -15751,12 +15894,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4858",
     "name": "Κάψουλα Αυτοκόλλητων Διεκδικητών Ρίο 2022",
     "name_original": "crate_sticker_pack_rio2022_challengers",
+    "code": "#CSGO_crate_sticker_pack_rio2022_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος Διεκδικητή στο τουρνουά Ρίο 2022.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -16125,12 +16270,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4859",
     "name": "Κάψουλα Αυτοκόλλητων Ανταγωνιστών Ρίο 2022",
     "name_original": "crate_sticker_pack_rio2022_contenders",
+    "code": "#CSGO_crate_sticker_pack_rio2022_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος Ανταγωνιστή στο τουρνουά Ρίο 2022.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -16499,12 +16646,14 @@
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_rio2022_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4879",
     "name": "Κάψουλα αυτοκόλλητων Espionage",
     "name_original": "crate_sticker_pack_community2022_capsule",
+    "code": "#CSGO_crate_sticker_pack_community2022_capsule",
     "description": "Αυτή η κάψουλα περιέχει διάφορα αυτοκόλλητα από καλλιτέχνες του Εργαστηρίου Steam και κυκλοφόρησε τον Φεβρουάριο του 2023.",
     "type": "Sticker Capsule",
     "first_sale_date": "2023/01/05",
@@ -16723,12 +16872,14 @@
     "contains_rare": [],
     "market_hash_name": "Espionage Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community2022_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community2022_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4890",
     "name": "Κάψουλα Αυτοκόλλητων Θρύλων Παρίσι 2023",
     "name_original": "crate_sticker_pack_paris2023_legends",
+    "code": "#CSGO_crate_sticker_pack_paris2023_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος Θρύλου στο τουρνουά Παρίσι 2023.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -17097,12 +17248,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4891",
     "name": "Κάψουλα Αυτοκόλλητων Διεκδικητών Παρίσι 2023",
     "name_original": "crate_sticker_pack_paris2023_challengers",
+    "code": "#CSGO_crate_sticker_pack_paris2023_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος Διεκδικητή στο τουρνουά Παρίσι 2023.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -17471,12 +17624,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4892",
     "name": "Κάψουλα Αυτοκόλλητων Ανταγωνιστών Παρίσι 2023",
     "name_original": "crate_sticker_pack_paris2023_contenders",
+    "code": "#CSGO_crate_sticker_pack_paris2023_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό Αυτοκόλλητο συμμετέχοντος Ανταγωνιστή στο τουρνουά Παρίσι 2023.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -17845,12 +18000,14 @@
     "contains_rare": [],
     "market_hash_name": "Paris 2023 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_paris2023_contenders_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4905",
     "name": "Κάψουλα αυτοκόλλητων Ambush",
     "name_original": "crate_sticker_pack_community_2024_capsule",
+    "code": "#CSGO_crate_sticker_pack_community_2024_capsule",
     "description": "Αυτή η κάψουλα περιέχει διάφορα αυτοκόλλητα από καλλιτέχνες του Εργαστηρίου Steam και κυκλοφόρησε τον Φεβρουάριο του 2024.",
     "type": "Sticker Capsule",
     "first_sale_date": "2024-01-25",
@@ -18069,12 +18226,14 @@
     "contains_rare": [],
     "market_hash_name": "Ambush Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4923",
     "name": "Κάψουλα Αυτοκόλλητων Θρύλων Κοπεγχάγη 2024",
     "name_original": "crate_sticker_pack_cph2024_legends",
+    "code": "#CSGO_crate_sticker_pack_cph2024_legends",
     "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό Αυτοκόλλητο ενός Θρύλου από το τουρνουά Κοπεγχάγη 2024.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -18443,12 +18602,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_legends_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_legends_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4924",
     "name": "Κάψουλα Αυτοκόλλητων Διεκδικητών Κοπεγχάγη 2024",
     "name_original": "crate_sticker_pack_cph2024_challengers",
+    "code": "#CSGO_crate_sticker_pack_cph2024_challengers",
     "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό Αυτοκόλλητο ενός Διεκδικητή από το τουρνουά Κοπεγχάγη 2024.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -18817,12 +18978,14 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Challengers Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_challengers_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_challengers_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4925",
     "name": "Κάψουλα Αυτοκόλλητων Ανταγωνιστών Κοπεγχάγη 2024",
     "name_original": "crate_sticker_pack_cph2024_contenders",
+    "code": "#CSGO_crate_sticker_pack_cph2024_contenders",
     "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό Αυτοκόλλητο ενός Ανταγωνιστή από το τουρνουά Κοπεγχάγη 2024.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε όπλο κατέχετε και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να αφαιρεθεί από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -19191,6 +19354,7 @@
     "contains_rare": [],
     "market_hash_name": "Copenhagen 2024 Contenders Sticker Capsule",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_contenders_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_cph2024_contenders_png.png",
+    "model_player": null
   }
 ]

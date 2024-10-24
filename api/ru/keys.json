@@ -3,6 +3,7 @@
     "id": "key-generic_valve_key",
     "name": "Ключ от кейса CS:GO",
     "name_original": "Tool_WeaponCase_Key",
+    "code": "#CSGO_Tool_WeaponCase_Key",
     "description": "Этот ключ может открыть любой оружейный кейс серии Valve. Для кейсов, не принадлежащих к серии Valve (например, оружейный кейс eSports), требуется их собственный ключ.",
     "market_hash_name": "CS:GO Case Key",
     "crates": [
@@ -33,6 +34,7 @@
     "id": "key-1204",
     "name": "Ключ eSports",
     "name_original": "esports_crate_key_1",
+    "code": "#CSGO_esports_crate_key_1",
     "description": "Этот ключ открывает кейс eSports.\\n\\nЧасть доходов от продажи этого ключа пойдет на один из регулярных турниров CS:GO, проводимых сообществом. Следите за новостями.",
     "market_hash_name": "eSports Key",
     "crates": [
@@ -58,6 +60,7 @@
     "id": "key-1212",
     "name": "Ключ от капсулы CS:GO",
     "name_original": "sticker_crate_key_1",
+    "code": "#CSGO_sticker_crate_key_1",
     "description": "Этим ключом можно открыть любую капсулу серии Valve с наклейкой.",
     "market_hash_name": "CS:GO Capsule Key",
     "crates": [
@@ -78,6 +81,7 @@
     "id": "key-1214",
     "name": "Ключ от кейса Winter Offensive",
     "name_original": "community_crate_key_1",
+    "code": "#CSGO_community_crate_key_1",
     "description": "Этот ключ подходит только к кейсам Winter Offensive.",
     "market_hash_name": "Winter Offensive Case Key",
     "crates": [
@@ -93,6 +97,7 @@
     "id": "key-1303",
     "name": "Ключ от кейса операции «Феникс»",
     "name_original": "community_crate_key_2",
+    "code": "#CSGO_community_crate_key_2",
     "description": "Этот ключ подходит только к кейсам операции «Феникс»",
     "market_hash_name": "Operation Phoenix Case Key",
     "crates": [
@@ -108,6 +113,7 @@
     "id": "key-1304",
     "name": "Ключ от капсулы с наклейкой сообщества 1",
     "name_original": "sticker_crate_key_community01",
+    "code": "#CSGO_sticker_crate_key_community01",
     "description": "Этот ключ открывает капсулу с наклейкой сообщества 1.\\n\\nЧасть прибыли с продаж будет поделена между создателями наклеек.",
     "market_hash_name": "Community Sticker Capsule 1 Key",
     "crates": [
@@ -123,6 +129,7 @@
     "id": "key-1305",
     "name": "Ключ от Охотничьего кейса",
     "name_original": "community_crate_key_3",
+    "code": "#CSGO_community_crate_key_3",
     "description": "Этот ключ подходит только к Охотничьим кейсам",
     "market_hash_name": "Huntsman Case Key",
     "crates": [
@@ -138,6 +145,7 @@
     "id": "key-1309",
     "name": "Ключ от кейса операции «Прорыв»",
     "name_original": "community_crate_key_4",
+    "code": "#CSGO_community_crate_key_4",
     "description": "Этот ключ подходит только к кейсам операции «Прорыв»",
     "market_hash_name": "Operation Breakout Case Key",
     "crates": [
@@ -153,6 +161,7 @@
     "id": "key-1322",
     "name": "Ключ от кейса операции «Авангард»",
     "name_original": "community_crate_key_5",
+    "code": "#CSGO_community_crate_key_5",
     "description": "Этот ключ подходит только к кейсам операции «Авангард»",
     "market_hash_name": "Operation Vanguard Case Key",
     "crates": [
@@ -168,6 +177,7 @@
     "id": "key-1323",
     "name": "Ключ от хромированного кейса",
     "name_original": "community_crate_key_6",
+    "code": "#CSGO_community_crate_key_6",
     "description": "Этот ключ подходит только к хромированным кейсам",
     "market_hash_name": "Chroma Case Key",
     "crates": [
@@ -183,6 +193,7 @@
     "id": "key-1325",
     "name": "Ключ от хромированного кейса #2",
     "name_original": "community_crate_key_7",
+    "code": "#CSGO_community_crate_key_7",
     "description": "Этот ключ подходит только к хромированным кейсам #2",
     "market_hash_name": "Chroma 2 Case Key",
     "crates": [
@@ -198,6 +209,7 @@
     "id": "key-1330",
     "name": "Ключ от кейса «Фальшион»",
     "name_original": "community_crate_key_8",
+    "code": "#CSGO_community_crate_key_8",
     "description": "Этот ключ подходит только к кейсам «Фальшион»",
     "market_hash_name": "Falchion Case Key",
     "crates": [
@@ -213,6 +225,7 @@
     "id": "key-1333",
     "name": "Ключ от тёмного кейса",
     "name_original": "community_crate_key_9",
+    "code": "#CSGO_community_crate_key_9",
     "description": "Этот ключ подходит только к тёмным кейсам",
     "market_hash_name": "Shadow Case Key",
     "crates": [
@@ -228,6 +241,7 @@
     "id": "key-1334",
     "name": "Ключ от револьверного кейса",
     "name_original": "crate_community_10_key",
+    "code": "#CSGO_crate_community_10_key",
     "description": "Этот ключ подходит только к револьверным кейсам",
     "market_hash_name": "Revolver Case Key",
     "crates": [
@@ -243,6 +257,7 @@
     "id": "key-1347",
     "name": "Ключ от хромированного кейса #3",
     "name_original": "crate_key_community_12",
+    "code": "#CSGO_crate_key_community_12",
     "description": "Этот ключ подходит только к хромированным кейсам #3",
     "market_hash_name": "Chroma 3 Case Key",
     "crates": [
@@ -258,6 +273,7 @@
     "id": "key-1350",
     "name": "Ключ от гамма-кейса",
     "name_original": "crate_key_community_13",
+    "code": "#CSGO_crate_key_community_13",
     "description": "Этот ключ подходит только к гамма-кейсам.",
     "market_hash_name": "Gamma Case Key",
     "crates": [
@@ -273,6 +289,7 @@
     "id": "key-1351",
     "name": "Ключ от гамма-кейса #2",
     "name_original": "crate_key_gamma_2",
+    "code": "#CSGO_crate_key_gamma_2",
     "description": "Этот ключ подходит только к гамма-кейсам #2",
     "market_hash_name": "Gamma 2 Case Key",
     "crates": [
@@ -288,6 +305,7 @@
     "id": "key-1356",
     "name": "Ключ от перчаточного кейса",
     "name_original": "crate_key_community_15",
+    "code": "#CSGO_crate_key_community_15",
     "description": "Этот ключ подходит только к перчаточным кейсам",
     "market_hash_name": "Glove Case Key",
     "crates": [
@@ -303,6 +321,7 @@
     "id": "key-1364",
     "name": "Ключ от кейса «Спектр»",
     "name_original": "crate_key_community_16",
+    "code": "#CSGO_crate_key_community_16",
     "description": "Этот ключ подходит только к кейсам «Спектр»",
     "market_hash_name": "Spectrum Case Key",
     "crates": [
@@ -318,6 +337,7 @@
     "id": "key-1365",
     "name": "Ключ от кейса операции «Гидра»",
     "name_original": "crate_key_community_17",
+    "code": "#CSGO_crate_key_community_17",
     "description": "Этот ключ подходит только к кейсам операции «Гидра»",
     "market_hash_name": "Operation Hydra Case Key",
     "crates": [
@@ -333,6 +353,7 @@
     "id": "key-1366",
     "name": "Ключ от кейса «Спектр 2»",
     "name_original": "crate_key_community_18",
+    "code": "#CSGO_crate_key_community_18",
     "description": "Этот ключ подходит только к кейсам «Спектр 2»",
     "market_hash_name": "Spectrum 2 Case Key",
     "crates": [
@@ -348,6 +369,7 @@
     "id": "key-1373",
     "name": "Ключ от кейса «Решающий момент»",
     "name_original": "crate_key_community_19",
+    "code": "#CSGO_crate_key_community_19",
     "description": "Этот ключ подходит только к кейсам «Решающий момент»",
     "market_hash_name": "Clutch Case Key",
     "crates": [
@@ -363,6 +385,7 @@
     "id": "key-1374",
     "name": "Ключ от кейса «Горизонт»",
     "name_original": "crate_key_community_20",
+    "code": "#CSGO_crate_key_community_20",
     "description": "Этот ключ подходит только к кейсам «Горизонт»",
     "market_hash_name": "Horizon Case Key",
     "crates": [
@@ -378,6 +401,7 @@
     "id": "key-1375",
     "name": "Ключ от кейса «Запретная зона»",
     "name_original": "crate_key_community_21",
+    "code": "#CSGO_crate_key_community_21",
     "description": "Этот ключ подходит только к кейсам «Запретная зона»",
     "market_hash_name": "Danger Zone Case Key",
     "crates": [
@@ -393,6 +417,7 @@
     "id": "key-1383",
     "name": "Ключ от кейса «Призма»",
     "name_original": "crate_key_community_22",
+    "code": "#CSGO_crate_key_community_22",
     "description": "Этот ключ подходит только к кейсам «Призма»",
     "market_hash_name": "Prisma Case Key",
     "crates": [
@@ -408,6 +433,7 @@
     "id": "key-1384",
     "name": "Ключ от кейса «Расколотая сеть»",
     "name_original": "crate_key_community_23",
+    "code": "#CSGO_crate_key_community_23",
     "description": "Этот ключ подходит только к кейсам «Расколотая сеть»",
     "market_hash_name": "Shattered Web Case Key",
     "crates": [
@@ -423,6 +449,7 @@
     "id": "key-1385",
     "name": "Ключ от кейса CS20",
     "name_original": "crate_key_community_24",
+    "code": "#CSGO_crate_key_community_24",
     "description": "Этот ключ подходит только к кейсам CS20",
     "market_hash_name": "CS20 Case Key",
     "crates": [
@@ -438,6 +465,7 @@
     "id": "key-1386",
     "name": "Ключ от кейса «Призма 2»",
     "name_original": "crate_key_community_25",
+    "code": "#CSGO_crate_key_community_25",
     "description": "Этот ключ подходит только к кейсам «Призма 2»",
     "market_hash_name": "Prisma 2 Case Key",
     "crates": [
@@ -453,6 +481,7 @@
     "id": "key-1387",
     "name": "Ключ от кейса «Разлом»",
     "name_original": "crate_key_community_26",
+    "code": "#CSGO_crate_key_community_26",
     "description": "Этот ключ подходит только к кейсам «Разлом»",
     "market_hash_name": "Fracture Case Key",
     "crates": [
@@ -468,6 +497,7 @@
     "id": "key-1388",
     "name": "Ключ от кейса операции «Сломанный клык»",
     "name_original": "crate_key_community_27",
+    "code": "#CSGO_crate_key_community_27",
     "description": "Этот ключ подходит только к кейсам операции «Сломанный клык»",
     "market_hash_name": "Operation Broken Fang Case Key",
     "crates": [
@@ -483,6 +513,7 @@
     "id": "key-1389",
     "name": "Ключ от кейса «Змеиный укус»",
     "name_original": "crate_key_community_28",
+    "code": "#CSGO_crate_key_community_28",
     "description": "Этот ключ подходит только к кейсам «Змеиный укус»",
     "market_hash_name": "Snakebite Case Key",
     "crates": [
@@ -498,6 +529,7 @@
     "id": "key-1390",
     "name": "Ключ от кейса операции «Хищные воды»",
     "name_original": "crate_key_community_29",
+    "code": "#CSGO_crate_key_community_29",
     "description": "Этот ключ подходит только к кейсам операции «Хищные воды»",
     "market_hash_name": "Operation Riptide Case Key",
     "crates": [
@@ -513,6 +545,7 @@
     "id": "key-1391",
     "name": "Ключ к кейсу «Грёзы и кошмары»",
     "name_original": "crate_key_community_30",
+    "code": "#CSGO_crate_key_community_30",
     "description": "Этот ключ подходит только к кейсам «Грёзы и кошмары»",
     "market_hash_name": "Dreams & Nightmares Case Key",
     "crates": [
@@ -528,6 +561,7 @@
     "id": "key-1392",
     "name": "Ключ от гремучего кейса",
     "name_original": "crate_key_community_31",
+    "code": "#CSGO_crate_key_community_31",
     "description": "Этот ключ подходит только к гремучим кейсам",
     "market_hash_name": "Recoil Case Key",
     "crates": [
@@ -543,6 +577,7 @@
     "id": "key-1393",
     "name": "Ключ от кейса «Революция»",
     "name_original": "crate_key_community_32",
+    "code": "#CSGO_crate_key_community_32",
     "description": "Этот ключ подходит только к кейсам «Революция»",
     "market_hash_name": "Revolution Case Key",
     "crates": [
@@ -558,6 +593,7 @@
     "id": "key-1394",
     "name": "Ключ от кейса «Киловатт»",
     "name_original": "crate_key_community_33",
+    "code": "#CSGO_crate_key_community_33",
     "description": "Этот ключ подходит только к кейсам «Киловатт»",
     "market_hash_name": "Kilowatt Case Key",
     "crates": [
@@ -573,6 +609,7 @@
     "id": "key-7000",
     "name": "Ключ от кейса операции «Дикое пламя»",
     "name_original": "crate_key_community_11",
+    "code": "#CSGO_crate_key_community_11",
     "description": "Этот ключ подходит только к кейсам операции «Дикое пламя»",
     "market_hash_name": "Operation Wildfire Case Key",
     "crates": [
@@ -588,6 +625,7 @@
     "id": "key-7002",
     "name": "Ключ от галерейного кейса",
     "name_original": "crate_key_community_34",
+    "code": "#CSGO_crate_key_community_34",
     "description": "Этот ключ подходит только к галерейным кейсам",
     "market_hash_name": "Gallery Case Key",
     "crates": [
