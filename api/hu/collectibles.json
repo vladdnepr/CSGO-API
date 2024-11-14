@@ -6032,6 +6032,70 @@
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_poolday_png.png"
   },
   {
+    "id": "collectible-4982",
+    "name": "Whistle Map Coin",
+    "name_original": "Collectible_MapTokenWhistle",
+    "code": "#CSGO_Collectible_MapTokenWhistle",
+    "description": "Commemorates authorship of the CS2 Map 'Whistle'",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Rendkívüli",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Palais Map Coin",
+    "name_original": "Collectible_MapTokenPalais",
+    "code": "#CSGO_Collectible_MapTokenPalais",
+    "description": "Commemorates authorship of the CS2 Map 'Palais'",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Rendkívüli",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Edin Map Coin",
+    "name_original": "Collectible_MapTokenEdin",
+    "code": "#CSGO_Collectible_MapTokenEdin",
+    "description": "Commemorates authorship of the CS2 Map 'Edin'",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Rendkívüli",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Basalt Map Coin",
+    "name_original": "Collectible_MapTokenBasaltCS2",
+    "code": "#CSGO_Collectible_MapTokenBasaltCS2",
+    "description": "Commemorates authorship of the CS2 Map 'Basalt'",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Rendkívüli",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_basaltcs2_png.png"
+  },
+  {
     "id": "collectible-6001",
     "name": "Dust II kitűző (Eredeti)",
     "name_original": "Collectible_Pin_DustII",
