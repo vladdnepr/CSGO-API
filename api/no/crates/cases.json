@@ -831,7 +831,7 @@
       }
     ],
     "market_hash_name": "CS:GO Weapon Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_valve_1_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_armsdeal1.vmdl"
   },
@@ -1667,7 +1667,7 @@
       }
     ],
     "market_hash_name": "eSports 2013 Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esports_2013_png.png",
     "model_player": null
   },
@@ -2569,7 +2569,7 @@
       }
     ],
     "market_hash_name": "Operation Bravo Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_operation_ii_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_bravo.vmdl"
   },
@@ -3438,7 +3438,7 @@
       }
     ],
     "market_hash_name": "CS:GO Weapon Case 2",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_valve_2_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_armsdeal2.vmdl"
   },
@@ -4307,7 +4307,7 @@
       }
     ],
     "market_hash_name": "eSports 2013 Winter Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esports_2013_14_png.png",
     "model_player": null
   },
@@ -5187,7 +5187,7 @@
       }
     ],
     "market_hash_name": "Winter Offensive Weapon Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_1_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_winteroffensive.vmdl"
   },
@@ -6056,7 +6056,7 @@
       }
     ],
     "market_hash_name": "CS:GO Weapon Case 3",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_valve_3_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_armsdeal3.vmdl"
   },
@@ -6936,7 +6936,7 @@
       }
     ],
     "market_hash_name": "Operation Phoenix Weapon Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_2_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_phoenix.vmdl"
   },
@@ -7268,7 +7268,7 @@
       }
     ],
     "market_hash_name": "Huntsman Weapon Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_3_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_huntsman.vmdl"
   },
@@ -7583,7 +7583,7 @@
       }
     ],
     "market_hash_name": "Operation Breakout Weapon Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_4_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_breakout.vmdl"
   },
@@ -8507,7 +8507,7 @@
       }
     ],
     "market_hash_name": "eSports 2014 Summer Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esports_2014_summer_png.png",
     "model_player": null
   },
@@ -9398,7 +9398,7 @@
       }
     ],
     "market_hash_name": "Operation Vanguard Weapon Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_5_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_vanguard.vmdl"
   },
@@ -10264,7 +10264,7 @@
       }
     ],
     "market_hash_name": "Chroma Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_6_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_chroma.vmdl"
   },
@@ -11141,7 +11141,7 @@
       }
     ],
     "market_hash_name": "Chroma 2 Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_7_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_chroma2.vmdl"
   },
@@ -11478,7 +11478,7 @@
       }
     ],
     "market_hash_name": "Falchion Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_8_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_bloodhound.vmdl"
   },
@@ -11815,7 +11815,7 @@
       }
     ],
     "market_hash_name": "Shadow Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_9_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_shadow.vmdl"
   },
@@ -12739,7 +12739,7 @@
       }
     ],
     "market_hash_name": "Revolver Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_10_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_revolver.vmdl"
   },
@@ -13076,7 +13076,7 @@
       }
     ],
     "market_hash_name": "Operation Wildfire Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_11_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_wildfire.vmdl"
   },
@@ -13975,7 +13975,7 @@
       }
     ],
     "market_hash_name": "Chroma 3 Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_12_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_chroma3.vmdl"
   },
@@ -14754,7 +14754,7 @@
       }
     ],
     "market_hash_name": "Gamma Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_13_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_gamma.vmdl"
   },
@@ -15533,7 +15533,7 @@
       }
     ],
     "market_hash_name": "Gamma 2 Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_gamma_2_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_gamma2.vmdl"
   },
@@ -16001,7 +16001,7 @@
       }
     ],
     "market_hash_name": "Glove Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_15_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_glove.vmdl"
   },
@@ -16900,7 +16900,7 @@
       }
     ],
     "market_hash_name": "Spectrum Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_16_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_spectrum.vmdl"
   },
@@ -17368,7 +17368,7 @@
       }
     ],
     "market_hash_name": "Operation Hydra Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_17_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_hydra.vmdl"
   },
@@ -18267,7 +18267,7 @@
       }
     ],
     "market_hash_name": "Spectrum 2 Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_18_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_spectrum2.vmdl"
   },
@@ -18735,7 +18735,7 @@
       }
     ],
     "market_hash_name": "Clutch Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_19_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_clutch.vmdl"
   },
@@ -19515,7 +19515,7 @@
       }
     ],
     "market_hash_name": "Horizon Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_20_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_horizon.vmdl"
   },
@@ -20295,7 +20295,7 @@
       }
     ],
     "market_hash_name": "Danger Zone Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_21_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_dangerzone.vmdl"
   },
@@ -21055,7 +21055,7 @@
       }
     ],
     "market_hash_name": "Prisma Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_22_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_22.vmdl"
   },
@@ -21835,7 +21835,7 @@
       }
     ],
     "market_hash_name": "Shattered Web Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_23_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_23.vmdl"
   },
@@ -22183,7 +22183,7 @@
       }
     ],
     "market_hash_name": "CS20 Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_24_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_24.vmdl"
   },
@@ -22943,7 +22943,7 @@
       }
     ],
     "market_hash_name": "Prisma 2 Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_25_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_25.vmdl"
   },
@@ -23723,7 +23723,7 @@
       }
     ],
     "market_hash_name": "Fracture Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_26_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_26.vmdl"
   },
@@ -24191,7 +24191,7 @@
       }
     ],
     "market_hash_name": "Operation Broken Fang Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_27_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_27.vmdl"
   },
@@ -24659,7 +24659,7 @@
       }
     ],
     "market_hash_name": "Snakebite Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_28_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_28.vmdl"
   },
@@ -25438,7 +25438,7 @@
       }
     ],
     "market_hash_name": "Operation Riptide Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_29_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_29.vmdl"
   },
@@ -26217,7 +26217,7 @@
       }
     ],
     "market_hash_name": "Dreams & Nightmares Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_30_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_30.vmdl"
   },
@@ -26685,7 +26685,7 @@
       }
     ],
     "market_hash_name": "Recoil Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_31_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_31.vmdl"
   },
@@ -27153,7 +27153,7 @@
       }
     ],
     "market_hash_name": "Revolution Case",
-    "rental": false,
+    "rental": true,
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_32_png.png",
     "model_player": "models/props/crates/csgo_drop_crate_community_32.vmdl"
   },
