@@ -2,6 +2,7 @@
  {
   "id": "keychain-1",
   "name": "Talizmán | Kicsi Ava",
+  "code": "#keychain_kc_missinglink_ava",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -21,6 +22,7 @@
  {
   "id": "keychain-2",
   "name": "Talizmán | Őrült Banán",
+  "code": "#keychain_kc_missinglink_banana",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -40,6 +42,7 @@
  {
   "id": "keychain-3",
   "name": "Talizmán | Kicsi Bajszos",
+  "code": "#keychain_kc_missinglink_cat",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -59,6 +62,7 @@
  {
   "id": "keychain-4",
   "name": "Talizmán | Kicsi Sandy",
+  "code": "#keychain_kc_missinglink_catbeach",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -78,6 +82,7 @@
  {
   "id": "keychain-5",
   "name": "Talizmán | Kicsi Csirke",
+  "code": "#keychain_kc_missinglink_chicken",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -97,6 +102,7 @@
  {
   "id": "keychain-6",
   "name": "Talizmán | Kicsi Crass",
+  "code": "#keychain_kc_missinglink_guerilla",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -116,6 +122,7 @@
  {
   "id": "keychain-7",
   "name": "Talizmán | Szörny Virsli",
+  "code": "#keychain_kc_missinglink_howl",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_ancient",
@@ -135,6 +142,7 @@
  {
   "id": "keychain-8",
   "name": "Talizmán | Nagy Kev",
+  "code": "#keychain_kc_missinglink_kev",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -154,6 +162,7 @@
  {
   "id": "keychain-9",
   "name": "Talizmán | Kicsi Szörny",
+  "code": "#keychain_kc_missinglink_monster",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_legendary",
@@ -173,6 +182,7 @@
  {
   "id": "keychain-10",
   "name": "Talizmán | Csípős Szósz",
+  "code": "#keychain_kc_missinglink_sam_catchup",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -192,6 +202,7 @@
  {
   "id": "keychain-11",
   "name": "Talizmán | Gyémánt Virsli",
+  "code": "#keychain_kc_missinglink_sam_diamond",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_legendary",
@@ -211,6 +222,7 @@
  {
   "id": "keychain-12",
   "name": "Talizmán | Csipet Só",
+  "code": "#keychain_kc_missinglink_sam_salty",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -230,6 +242,7 @@
  {
   "id": "keychain-13",
   "name": "Talizmán | Büfévirsli",
+  "code": "#keychain_kc_missinglink_sam_shape",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_legendary",
@@ -249,6 +262,7 @@
  {
   "id": "keychain-14",
   "name": "Talizmán | Kicsi Csésze",
+  "code": "#keychain_kc_missinglink_sam_toile",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -268,6 +282,7 @@
  {
   "id": "keychain-15",
   "name": "Talizmán | Kicsi SAS",
+  "code": "#keychain_kc_missinglink_sas",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -287,6 +302,7 @@
  {
   "id": "keychain-16",
   "name": "Talizmán | Lángolt Kolbász",
+  "code": "#keychain_kc_missinglink_wurst",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_ancient",
@@ -306,6 +322,7 @@
  {
   "id": "keychain-17",
   "name": "Talizmán | Mini AK",
+  "code": "#keychain_kc_wpn_ak_base",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -325,6 +342,7 @@
  {
   "id": "keychain-18",
   "name": "Talizmán | Fröccsöntött AK",
+  "code": "#keychain_kc_wpn_ak_jelly",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -344,6 +362,7 @@
  {
   "id": "keychain-19",
   "name": "Talizmán | Zseb-AWP",
+  "code": "#keychain_kc_wpn_awp_plastic",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -363,6 +382,7 @@
  {
   "id": "keychain-20",
   "name": "Talizmán | Titááán AWP",
+  "code": "#keychain_kc_wpn_awp_spoon",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_legendary",
@@ -382,6 +402,7 @@
  {
   "id": "keychain-21",
   "name": "Talizmán | Mini Karát T-E",
+  "code": "#keychain_kc_wpn_ctknife_gold",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_ancient",
@@ -401,6 +422,7 @@
  {
   "id": "keychain-22",
   "name": "Talizmán | Faragott Kés",
+  "code": "#keychain_kc_wpn_ctknife_wood",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -420,6 +442,7 @@
  {
   "id": "keychain-23",
   "name": "Talizmán | POP-Art",
+  "code": "#keychain_kc_wpn_m4a1s_comic",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -439,6 +462,7 @@
  {
   "id": "keychain-24",
   "name": "Talizmán | Kicsi Spriccelő",
+  "code": "#keychain_kc_wpn_m4a1s_ss",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_legendary",
@@ -458,6 +482,7 @@
  {
   "id": "keychain-25",
   "name": "Talizmán | Diszkó MAC",
+  "code": "#keychain_kc_wpn_mac10_glitter",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -477,6 +502,7 @@
  {
   "id": "keychain-26",
   "name": "Talizmán | Visszafröccs",
+  "code": "#keychain_kc_wpn_mac10_tile",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -496,6 +522,7 @@
  {
   "id": "keychain-27",
   "name": "Talizmán | Kis Dugós Puska",
+  "code": "#keychain_kc_wpn_tec9_cap",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -515,6 +542,7 @@
  {
   "id": "keychain-28",
   "name": "Talizmán | Tüzes Kezek",
+  "code": "#keychain_kc_wpn_tec9_magma",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -534,6 +562,7 @@
  {
   "id": "keychain-29",
   "name": "Talizmán | Féldrágakő",
+  "code": "#keychain_kc_wpn_tknife_crystal",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_legendary",
@@ -553,6 +582,7 @@
  {
   "id": "keychain-30",
   "name": "Talizmán | Mini Karát T",
+  "code": "#keychain_kc_wpn_tknife_gold",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_ancient",
@@ -572,6 +602,7 @@
  {
   "id": "keychain-31",
   "name": "Talizmán | Ragyogó Lövés",
+  "code": "#keychain_kc_wpn_usp_jewel",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",
@@ -591,6 +622,7 @@
  {
   "id": "keychain-32",
   "name": "Talizmán | Be(t)öltve",
+  "code": "#keychain_kc_wpn_usp_yarn",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_rare",
@@ -610,6 +642,7 @@
  {
   "id": "keychain-33",
   "name": "Talizmán | Kicsiláb",
+  "code": "#keychain_kc_missinglink_bigfoot",
   "description": "Ez a talizmán bármely általad birtokolt fegyverre felrögzíthető. Az egyes felrögzített talizmánok Talizmánlevevő használatával vehetők le. A levett talizmánok visszakerülnek a felszerelésedbe.",
   "rarity": {
    "id": "rarity_mythical",

@@ -2,6 +2,7 @@
  {
   "id": "keychain-1",
   "name": "Hänge | Lil' Ava",
+  "code": "#keychain_kc_missinglink_ava",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -21,6 +22,7 @@
  {
   "id": "keychain-2",
   "name": "Hänge | That's Bananas",
+  "code": "#keychain_kc_missinglink_banana",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -40,6 +42,7 @@
  {
   "id": "keychain-3",
   "name": "Hänge | Lil' Whiskers",
+  "code": "#keychain_kc_missinglink_cat",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -59,6 +62,7 @@
  {
   "id": "keychain-4",
   "name": "Hänge | Lil' Sandy",
+  "code": "#keychain_kc_missinglink_catbeach",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -78,6 +82,7 @@
  {
   "id": "keychain-5",
   "name": "Hänge | Chicken Lil'",
+  "code": "#keychain_kc_missinglink_chicken",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -97,6 +102,7 @@
  {
   "id": "keychain-6",
   "name": "Hänge | Lil' Crass",
+  "code": "#keychain_kc_missinglink_guerilla",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -116,6 +122,7 @@
  {
   "id": "keychain-7",
   "name": "Hänge | Hot Howl",
+  "code": "#keychain_kc_missinglink_howl",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_ancient",
@@ -135,6 +142,7 @@
  {
   "id": "keychain-8",
   "name": "Hänge | Big Kev",
+  "code": "#keychain_kc_missinglink_kev",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -154,6 +162,7 @@
  {
   "id": "keychain-9",
   "name": "Hänge | Lil' Monster",
+  "code": "#keychain_kc_missinglink_monster",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_legendary",
@@ -173,6 +182,7 @@
  {
   "id": "keychain-10",
   "name": "Hänge | Hot Sauce",
+  "code": "#keychain_kc_missinglink_sam_catchup",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -192,6 +202,7 @@
  {
   "id": "keychain-11",
   "name": "Hänge | Diamond Dog",
+  "code": "#keychain_kc_missinglink_sam_diamond",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_legendary",
@@ -211,6 +222,7 @@
  {
   "id": "keychain-12",
   "name": "Hänge | Pinch O' Salt",
+  "code": "#keychain_kc_missinglink_sam_salty",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -230,6 +242,7 @@
  {
   "id": "keychain-13",
   "name": "Hänge | Diner Dog",
+  "code": "#keychain_kc_missinglink_sam_shape",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_legendary",
@@ -249,6 +262,7 @@
  {
   "id": "keychain-14",
   "name": "Hänge | Lil' Teacup",
+  "code": "#keychain_kc_missinglink_sam_toile",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -268,6 +282,7 @@
  {
   "id": "keychain-15",
   "name": "Hänge | Lil' SAS",
+  "code": "#keychain_kc_missinglink_sas",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -287,6 +302,7 @@
  {
   "id": "keychain-16",
   "name": "Hänge | Hot Wurst",
+  "code": "#keychain_kc_missinglink_wurst",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_ancient",
@@ -306,6 +322,7 @@
  {
   "id": "keychain-17",
   "name": "Hänge | Baby's AK",
+  "code": "#keychain_kc_wpn_ak_base",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -325,6 +342,7 @@
  {
   "id": "keychain-18",
   "name": "Hänge | Die-cast AK",
+  "code": "#keychain_kc_wpn_ak_jelly",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -344,6 +362,7 @@
  {
   "id": "keychain-19",
   "name": "Hänge | Pocket AWP",
+  "code": "#keychain_kc_wpn_awp_plastic",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -363,6 +382,7 @@
  {
   "id": "keychain-20",
   "name": "Hänge | Titeenium AWP",
+  "code": "#keychain_kc_wpn_awp_spoon",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_legendary",
@@ -382,6 +402,7 @@
  {
   "id": "keychain-21",
   "name": "Hänge | Baby Karat CT",
+  "code": "#keychain_kc_wpn_ctknife_gold",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_ancient",
@@ -401,6 +422,7 @@
  {
   "id": "keychain-22",
   "name": "Hänge | Whittle Knife",
+  "code": "#keychain_kc_wpn_ctknife_wood",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -420,6 +442,7 @@
  {
   "id": "keychain-23",
   "name": "Hänge | POP Art",
+  "code": "#keychain_kc_wpn_m4a1s_comic",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -439,6 +462,7 @@
  {
   "id": "keychain-24",
   "name": "Hänge | Lil' Squirt",
+  "code": "#keychain_kc_wpn_m4a1s_ss",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_legendary",
@@ -458,6 +482,7 @@
  {
   "id": "keychain-25",
   "name": "Hänge | Disco MAC",
+  "code": "#keychain_kc_wpn_mac10_glitter",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -477,6 +502,7 @@
  {
   "id": "keychain-26",
   "name": "Hänge | Backsplash",
+  "code": "#keychain_kc_wpn_mac10_tile",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -496,6 +522,7 @@
  {
   "id": "keychain-27",
   "name": "Hänge | Lil' Cap Gun",
+  "code": "#keychain_kc_wpn_tec9_cap",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -515,6 +542,7 @@
  {
   "id": "keychain-28",
   "name": "Hänge | Hot Hands",
+  "code": "#keychain_kc_wpn_tec9_magma",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -534,6 +562,7 @@
  {
   "id": "keychain-29",
   "name": "Hänge | Semi-Precious",
+  "code": "#keychain_kc_wpn_tknife_crystal",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_legendary",
@@ -553,6 +582,7 @@
  {
   "id": "keychain-30",
   "name": "Hänge | Baby Karat T",
+  "code": "#keychain_kc_wpn_tknife_gold",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_ancient",
@@ -572,6 +602,7 @@
  {
   "id": "keychain-31",
   "name": "Hänge | Glamour Shot",
+  "code": "#keychain_kc_wpn_usp_jewel",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",
@@ -591,6 +622,7 @@
  {
   "id": "keychain-32",
   "name": "Hänge | Stitch-Loaded",
+  "code": "#keychain_kc_wpn_usp_yarn",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_rare",
@@ -610,6 +642,7 @@
  {
   "id": "keychain-33",
   "name": "Hänge | Lil' Squatch",
+  "code": "#keychain_kc_missinglink_bigfoot",
   "description": "Detta hänge kan fästas på vilket som helst av dina vapen. Varje fastsatt hänge kan tas loss genom att använda en hängesavlägsnare. Avlägsnade hängen returneras till ditt förråd.",
   "rarity": {
    "id": "rarity_mythical",

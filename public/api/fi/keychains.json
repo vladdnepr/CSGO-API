@@ -2,6 +2,7 @@
  {
   "id": "keychain-1",
   "name": "Riipus | Pikku-Eeva",
+  "code": "#keychain_kc_missinglink_ava",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -21,6 +22,7 @@
  {
   "id": "keychain-2",
   "name": "Riipus | Banaania poskeen",
+  "code": "#keychain_kc_missinglink_banana",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -40,6 +42,7 @@
  {
   "id": "keychain-3",
   "name": "Riipus | Pikku-Kisu",
+  "code": "#keychain_kc_missinglink_cat",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -59,6 +62,7 @@
  {
   "id": "keychain-4",
   "name": "Riipus | Pikku-Aino",
+  "code": "#keychain_kc_missinglink_catbeach",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -78,6 +82,7 @@
  {
   "id": "keychain-5",
   "name": "Riipus | Kananen",
+  "code": "#keychain_kc_missinglink_chicken",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -97,6 +102,7 @@
  {
   "id": "keychain-6",
   "name": "Riipus | Pikku-Rambo",
+  "code": "#keychain_kc_missinglink_guerilla",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -116,6 +122,7 @@
  {
   "id": "keychain-7",
   "name": "Riipus | Monsterimakkara",
+  "code": "#keychain_kc_missinglink_howl",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_ancient",
@@ -135,6 +142,7 @@
  {
   "id": "keychain-8",
   "name": "Riipus | Iso-Teppo",
+  "code": "#keychain_kc_missinglink_kev",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -154,6 +162,7 @@
  {
   "id": "keychain-9",
   "name": "Riipus | Pikkuhirviö",
+  "code": "#keychain_kc_missinglink_monster",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_legendary",
@@ -173,6 +182,7 @@
  {
   "id": "keychain-10",
   "name": "Riipus | Texmex",
+  "code": "#keychain_kc_missinglink_sam_catchup",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -192,6 +202,7 @@
  {
   "id": "keychain-11",
   "name": "Riipus | Timanttinakki",
+  "code": "#keychain_kc_missinglink_sam_diamond",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_legendary",
@@ -211,6 +222,7 @@
  {
   "id": "keychain-12",
   "name": "Riipus | Enemmän suolaa",
+  "code": "#keychain_kc_missinglink_sam_salty",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -230,6 +242,7 @@
  {
   "id": "keychain-13",
   "name": "Riipus | Pikkunakki",
+  "code": "#keychain_kc_missinglink_sam_shape",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_legendary",
@@ -249,6 +262,7 @@
  {
   "id": "keychain-14",
   "name": "Riipus | Makkarakuppi",
+  "code": "#keychain_kc_missinglink_sam_toile",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -268,6 +282,7 @@
  {
   "id": "keychain-15",
   "name": "Riipus | Pikku-Robo",
+  "code": "#keychain_kc_missinglink_sas",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -287,6 +302,7 @@
  {
   "id": "keychain-16",
   "name": "Riipus | Nuotiomakkara",
+  "code": "#keychain_kc_missinglink_wurst",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_ancient",
@@ -306,6 +322,7 @@
  {
   "id": "keychain-17",
   "name": "Riipus | Mini-AK",
+  "code": "#keychain_kc_wpn_ak_base",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -325,6 +342,7 @@
  {
   "id": "keychain-18",
   "name": "Riipus | Pinkki AK",
+  "code": "#keychain_kc_wpn_ak_jelly",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -344,6 +362,7 @@
  {
   "id": "keychain-19",
   "name": "Riipus | Tasku-AWP",
+  "code": "#keychain_kc_wpn_awp_plastic",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -363,6 +382,7 @@
  {
   "id": "keychain-20",
   "name": "Riipus | Titaani-AWP",
+  "code": "#keychain_kc_wpn_awp_spoon",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_legendary",
@@ -382,6 +402,7 @@
  {
   "id": "keychain-21",
   "name": "Riipus | Pieni CT-kultaveitsi",
+  "code": "#keychain_kc_wpn_ctknife_gold",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_ancient",
@@ -401,6 +422,7 @@
  {
   "id": "keychain-22",
   "name": "Riipus | Linkkuveitsi",
+  "code": "#keychain_kc_wpn_ctknife_wood",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -420,6 +442,7 @@
  {
   "id": "keychain-23",
   "name": "Riipus | Poptaide",
+  "code": "#keychain_kc_wpn_m4a1s_comic",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -439,6 +462,7 @@
  {
   "id": "keychain-24",
   "name": "Riipus | Vesitykki",
+  "code": "#keychain_kc_wpn_m4a1s_ss",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_legendary",
@@ -458,6 +482,7 @@
  {
   "id": "keychain-25",
   "name": "Riipus | Disco-MAC",
+  "code": "#keychain_kc_wpn_mac10_glitter",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -477,6 +502,7 @@
  {
   "id": "keychain-26",
   "name": "Riipus | Heijastus",
+  "code": "#keychain_kc_wpn_mac10_tile",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -496,6 +522,7 @@
  {
   "id": "keychain-27",
   "name": "Riipus | Pikkupyssy",
+  "code": "#keychain_kc_wpn_tec9_cap",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -515,6 +542,7 @@
  {
   "id": "keychain-28",
   "name": "Riipus | Kuumat kädet",
+  "code": "#keychain_kc_wpn_tec9_magma",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -534,6 +562,7 @@
  {
   "id": "keychain-29",
   "name": "Riipus | Puolijalokivi",
+  "code": "#keychain_kc_wpn_tknife_crystal",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_legendary",
@@ -553,6 +582,7 @@
  {
   "id": "keychain-30",
   "name": "Riipus | Pieni T-kultaveitsi",
+  "code": "#keychain_kc_wpn_tknife_gold",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_ancient",
@@ -572,6 +602,7 @@
  {
   "id": "keychain-31",
   "name": "Riipus | Bling-bling",
+  "code": "#keychain_kc_wpn_usp_jewel",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",
@@ -591,6 +622,7 @@
  {
   "id": "keychain-32",
   "name": "Riipus | Kudottu ase",
+  "code": "#keychain_kc_wpn_usp_yarn",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_rare",
@@ -610,6 +642,7 @@
  {
   "id": "keychain-33",
   "name": "Riipus | Pikku-Pepsodentti",
+  "code": "#keychain_kc_missinglink_bigfoot",
   "description": "Riipus voidaan kiinnittää mihin tahansa aseeseen ja irrottaa riipuksen poistajalla. Poistetut riipukset palautetaan varusteluetteloosi.",
   "rarity": {
    "id": "rarity_mythical",

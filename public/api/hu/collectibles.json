@@ -2,6 +2,8 @@
  {
   "id": "collectible-874",
   "name": "5 Éves Veterán Érem",
+  "name_original": "CollectibleCoin_FiveYearService",
+  "code": "#CSGO_CollectibleCoin_FiveYearService",
   "description": "Több, mint 5 éve tagja a Counter-Strike közösségnek.",
   "rarity": {
    "id": "rarity_ancient",
@@ -16,6 +18,8 @@
  {
   "id": "collectible-875",
   "name": "A DreamHack 2013 bajnoka",
+  "name_original": "CollectibleCoin_DH2013_Champion",
+  "code": "#CSGO_CollectibleCoin_DH2013_Champion",
   "description": "Ezt a bajnoksági trófeát a DreamHack SteelSeries 2013 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -30,6 +34,8 @@
  {
   "id": "collectible-876",
   "name": "A DreamHack 2013 döntőse",
+  "name_original": "CollectibleCoin_DH2013_Finalist",
+  "code": "#CSGO_CollectibleCoin_DH2013_Finalist",
   "description": "Ezt a bajnoksági trófeát a DreamHack SteelSeries 2013 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -44,6 +50,8 @@
  {
   "id": "collectible-877",
   "name": "A DreamHack 2013 elődöntőse",
+  "name_original": "CollectibleCoin_DH2013_SemiFinalist",
+  "code": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
   "description": "Ezt a bajnoksági trófeát a DreamHack SteelSeries 2013 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -58,6 +66,8 @@
  {
   "id": "collectible-878",
   "name": "A DreamHack 2013 negyeddöntőse",
+  "name_original": "CollectibleCoin_DH2013_QuarterFinalist",
+  "code": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
   "description": "Ezt a bajnoksági trófeát a DreamHack SteelSeries 2013 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -72,6 +82,8 @@
  {
   "id": "collectible-879",
   "name": "Az EMS One Katowice 2014 bajnoka",
+  "name_original": "CollectibleCoin_Kat2014_Champion",
+  "code": "#CSGO_CollectibleCoin_Kat2014_Champion",
   "description": "Ezt a bajnoksági trófeát az EMS One Katowice 2014 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -86,6 +98,8 @@
  {
   "id": "collectible-880",
   "name": "Az EMS One Katowice 2014 döntőse",
+  "name_original": "CollectibleCoin_Kat2014_Finalist",
+  "code": "#CSGO_CollectibleCoin_Kat2014_Finalist",
   "description": "Ezt a bajnoksági trófeát az EMS One Katowice 2014 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -100,6 +114,8 @@
  {
   "id": "collectible-881",
   "name": "Az EMS One Katowice 2014 elődöntőse",
+  "name_original": "CollectibleCoin_Kat2014_SemiFinalist",
+  "code": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
   "description": "Ezt a bajnoksági trófeát az EMS One Katowice 2014 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -114,6 +130,8 @@
  {
   "id": "collectible-882",
   "name": "Az EMS One Katowice 2014 negyeddöntőse",
+  "name_original": "CollectibleCoin_Kat2014_QuarterFinalist",
+  "code": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
   "description": "Ezt a bajnoksági trófeát az EMS One Katowice 2014 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -128,6 +146,8 @@
  {
   "id": "collectible-883",
   "name": "Az ESL One Cologne 2014 bajnoka",
+  "name_original": "CollectibleCoin_Cologne2014_Champion",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_Champion",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2014 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -142,6 +162,8 @@
  {
   "id": "collectible-884",
   "name": "Az ESL One Cologne 2014 döntőse",
+  "name_original": "CollectibleCoin_Cologne2014_Finalist",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2014 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -156,6 +178,8 @@
  {
   "id": "collectible-885",
   "name": "Az ESL One Cologne 2014 elődöntőse",
+  "name_original": "CollectibleCoin_Cologne2014_SemiFinalist",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2014 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -170,6 +194,8 @@
  {
   "id": "collectible-886",
   "name": "Az ESL One Cologne 2014 negyeddöntőse",
+  "name_original": "CollectibleCoin_Cologne2014_QuarterFinalist",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2014 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -184,6 +210,8 @@
  {
   "id": "collectible-887",
   "name": "Cologne 2014 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_Cologne2014_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
   "description": "Ez a bronz trófea az ESL One Cologne 2014 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -198,6 +226,8 @@
  {
   "id": "collectible-888",
   "name": "Cologne 2014 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_Cologne2014_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
   "description": "Ez az ezüst trófea az ESL One Cologne 2014 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -212,6 +242,8 @@
  {
   "id": "collectible-889",
   "name": "Cologne 2014 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_Cologne2014_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
   "description": "Ez az arany trófea az ESL One Cologne 2014 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -226,6 +258,8 @@
  {
   "id": "collectible-890",
   "name": "A DreamHack Winter 2014 bajnoka",
+  "name_original": "CollectibleCoin_DHW2014_Champion",
+  "code": "#CSGO_CollectibleCoin_DHW2014_Champion",
   "description": "Ezt a bajnoksági trófeát a DreamHack Winter 2014 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -240,6 +274,8 @@
  {
   "id": "collectible-891",
   "name": "A DreamHack Winter 2014 döntőse",
+  "name_original": "CollectibleCoin_DHW2014_Finalist",
+  "code": "#CSGO_CollectibleCoin_DHW2014_Finalist",
   "description": "Ezt a bajnoksági trófeát a DreamHack Winter 2014 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -254,6 +290,8 @@
  {
   "id": "collectible-892",
   "name": "A DreamHack Winter 2014 elődöntőse",
+  "name_original": "CollectibleCoin_DHW2014_SemiFinalist",
+  "code": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
   "description": "Ezt a bajnoksági trófeát a DreamHack Winter 2014 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -268,6 +306,8 @@
  {
   "id": "collectible-893",
   "name": "A DreamHack Winter 2014 negyeddöntőse",
+  "name_original": "CollectibleCoin_DHW2014_QuarterFinalist",
+  "code": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
   "description": "Ezt a bajnoksági trófeát a DreamHack Winter 2014 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -282,6 +322,8 @@
  {
   "id": "collectible-894",
   "name": "DreamHack 2014 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_DHW2014_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
   "description": "Ez a bronz trófea a DreamHack Winter 2014 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -296,6 +338,8 @@
  {
   "id": "collectible-895",
   "name": "DreamHack 2014 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_DHW2014_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
   "description": "Ez az ezüst trófea a DreamHack Winter 2014 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -310,6 +354,8 @@
  {
   "id": "collectible-896",
   "name": "DreamHack 2014 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_DHW2014_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
   "description": "Ez az arany trófea a DreamHack Winter 2014 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -324,6 +370,8 @@
  {
   "id": "collectible-897",
   "name": "Az ESL One Katowice 2015 bajnoka",
+  "name_original": "CollectibleCoin_Kat2015_Champion",
+  "code": "#CSGO_CollectibleCoin_Kat2015_Champion",
   "description": "Ezt a bajnoksági trófeát az ESL One Katowice 2015 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -338,6 +386,8 @@
  {
   "id": "collectible-898",
   "name": "Az ESL One Katowice 2015 döntőse",
+  "name_original": "CollectibleCoin_Kat2015_Finalist",
+  "code": "#CSGO_CollectibleCoin_Kat2015_Finalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Katowice 2015 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -352,6 +402,8 @@
  {
   "id": "collectible-899",
   "name": "Az ESL One Katowice 2015 elődöntőse",
+  "name_original": "CollectibleCoin_Kat2015_SemiFinalist",
+  "code": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Katowice 2015 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -366,6 +418,8 @@
  {
   "id": "collectible-900",
   "name": "Az ESL One Katowice 2015 negyeddöntőse",
+  "name_original": "CollectibleCoin_Kat2015_QuarterFinalist",
+  "code": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Katowice 2015 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -380,6 +434,8 @@
  {
   "id": "collectible-901",
   "name": "Katowice 2015 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_Kat2015_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
   "description": "Ez a bronz trófea az ESL One Katowice 2015 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -394,6 +450,8 @@
  {
   "id": "collectible-902",
   "name": "Katowice 2015 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_Kat2015_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
   "description": "Ez az ezüst trófea az ESL One Katowice 2015 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -408,6 +466,8 @@
  {
   "id": "collectible-903",
   "name": "Katowice 2015 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_Kat2015_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
   "description": "Ez az arany trófea az ESL One Katowice 2015 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -422,6 +482,8 @@
  {
   "id": "collectible-904",
   "name": "Az ESL One Cologne 2015 bajnoka",
+  "name_original": "CollectibleCoin_Cologne2015_Champion",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_Champion",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2015 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -436,6 +498,8 @@
  {
   "id": "collectible-905",
   "name": "Az ESL One Cologne 2015 döntőse",
+  "name_original": "CollectibleCoin_Cologne2015_Finalist",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2015 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -450,6 +514,8 @@
  {
   "id": "collectible-906",
   "name": "Az ESL One Cologne 2015 elődöntőse",
+  "name_original": "CollectibleCoin_Cologne2015_SemiFinalist",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2015 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -464,6 +530,8 @@
  {
   "id": "collectible-907",
   "name": "Az ESL One Cologne 2015 negyeddöntőse",
+  "name_original": "CollectibleCoin_Cologne2015_QuarterFinalist",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2015 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -478,6 +546,8 @@
  {
   "id": "collectible-908",
   "name": "Cologne 2015 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_Cologne2015_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
   "description": "Ez a bronz trófea az ESL One Cologne 2015 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -492,6 +562,8 @@
  {
   "id": "collectible-909",
   "name": "Cologne 2015 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_Cologne2015_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
   "description": "Ez az ezüst trófea az ESL One Cologne 2015 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -506,6 +578,8 @@
  {
   "id": "collectible-910",
   "name": "Cologne 2015 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_Cologne2015_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
   "description": "Ez az arany trófea az ESL One Cologne 2015 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -520,6 +594,8 @@
  {
   "id": "collectible-911",
   "name": "Cluj-Napoca 2015 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_Cluj2015_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
   "description": "Ez a bronz trófea a DreamHack Cluj-Napoca 2015 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -534,6 +610,8 @@
  {
   "id": "collectible-912",
   "name": "Cluj-Napoca 2015 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_Cluj2015_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
   "description": "Ez az ezüst trófea a DreamHack Cluj-Napoca 2015 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -548,6 +626,8 @@
  {
   "id": "collectible-913",
   "name": "Cluj-Napoca 2015 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_Cluj2015_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
   "description": "Ez az arany trófea a DreamHack Cluj-Napoca 2015 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -562,6 +642,8 @@
  {
   "id": "collectible-914",
   "name": "Cluj-Napoca 2015 Fantasy bronz trófea",
+  "name_original": "CollectibleCoin_Cluj2015_FantasyBronze",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
   "description": "Ez a bronz trófea a DreamHack Cluj-Napoca 2015 Fantasy csapatkihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -576,6 +658,8 @@
  {
   "id": "collectible-915",
   "name": "Cluj-Napoca 2015 Fantasy ezüst trófea",
+  "name_original": "CollectibleCoin_Cluj2015_FantasySilver",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
   "description": "Ez az ezüst trófea a DreamHack Cluj-Napoca 2015 Fantasy csapatkihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -590,6 +674,8 @@
  {
   "id": "collectible-916",
   "name": "Cluj-Napoca 2015 Fantasy arany trófea",
+  "name_original": "CollectibleCoin_Cluj2015_FantasyGold",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
   "description": "Ez az arany trófea a DreamHack Cluj-Napoca 2015 Fantasy csapatkihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -604,6 +690,8 @@
  {
   "id": "collectible-917",
   "name": "A DreamHack Cluj-Napoca 2015 bajnoka",
+  "name_original": "CollectibleCoin_Cluj2015_Champion",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Champion",
   "description": "Ezt a bajnoksági trófeát a DreamHack Cluj-Napoca 2015 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -618,6 +706,8 @@
  {
   "id": "collectible-918",
   "name": "A DreamHack Cluj-Napoca 2015 döntőse",
+  "name_original": "CollectibleCoin_Cluj2015_Finalist",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
   "description": "Ezt a bajnoksági trófeát a DreamHack Cluj-Napoca 2015 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -632,6 +722,8 @@
  {
   "id": "collectible-919",
   "name": "A DreamHack Cluj-Napoca 2015 elődöntőse",
+  "name_original": "CollectibleCoin_Cluj2015_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
   "description": "Ezt a bajnoksági trófeát a DreamHack Cluj-Napoca 2015 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -646,6 +738,8 @@
  {
   "id": "collectible-920",
   "name": "A DreamHack Cluj-Napoca 2015 negyeddöntőse",
+  "name_original": "CollectibleCoin_Cluj2015_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát a DreamHack Cluj-Napoca 2015 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -660,6 +754,8 @@
  {
   "id": "collectible-921",
   "name": "Columbus 2016 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_Columbus2016_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
   "description": "Ez a bronz trófea az MLG Columbus 2016 Válassz! Kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -674,6 +770,8 @@
  {
   "id": "collectible-922",
   "name": "Columbus 2016 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_Columbus2016_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
   "description": "Ez az ezüst trófea az MLG Columbus 2016 Válassz! Kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -688,6 +786,8 @@
  {
   "id": "collectible-923",
   "name": "Columbus 2016 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_Columbus2016_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
   "description": "Ez az arany trófea az MLG Columbus 2016 Válassz! Kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -702,6 +802,8 @@
  {
   "id": "collectible-924",
   "name": "Bronz Columbus 2016 Fantasy Trófea",
+  "name_original": "CollectibleCoin_Columbus2016_FantasyBronze",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
   "description": "Ez a bronz trófea az MLG Columbus 2016 Fantasy csapatkihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -716,6 +818,8 @@
  {
   "id": "collectible-925",
   "name": "Ezüst Columbus 2016 Fantasy Trófea",
+  "name_original": "CollectibleCoin_Columbus2016_FantasySilver",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
   "description": "Ez az ezüst trófea az MLG Columbus 2016 Fantasy csapatkihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -730,6 +834,8 @@
  {
   "id": "collectible-926",
   "name": "Arany Columbus 2016 Fantasy Trófea",
+  "name_original": "CollectibleCoin_Columbus2016_FantasyGold",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
   "description": "Ez az arany trófea az MLG Columbus 2016 Fantasy csapatkihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -744,6 +850,8 @@
  {
   "id": "collectible-927",
   "name": "Az MLG Columbus 2016 bajnoka",
+  "name_original": "CollectibleCoin_Columbus2016_Champion",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Champion",
   "description": "Ezt a bajnoksági trófeát az MLG Columbus 2016 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -758,6 +866,8 @@
  {
   "id": "collectible-928",
   "name": "Az MLG Columbus 2016 döntőse",
+  "name_original": "CollectibleCoin_Columbus2016_Finalist",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
   "description": "Ezt a bajnoksági trófeát az MLG Columbus 2016 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -772,6 +882,8 @@
  {
   "id": "collectible-929",
   "name": "Az MLG Columbus 2016 elődöntőse",
+  "name_original": "CollectibleCoin_Columbus2016_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
   "description": "Ezt a bajnoksági trófeát az MLG Columbus 2016 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -786,6 +898,8 @@
  {
   "id": "collectible-930",
   "name": "Az MLG Columbus 2016 negyeddöntőse",
+  "name_original": "CollectibleCoin_Columbus2016_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát az MLG Columbus 2016 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -800,6 +914,8 @@
  {
   "id": "collectible-931",
   "name": "Az ESL One Cologne 2016 bajnoka",
+  "name_original": "CollectibleCoin_Cologne2016_Champion",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Champion",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2016 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -814,6 +930,8 @@
  {
   "id": "collectible-932",
   "name": "Az ESL One Cologne 2016 döntőse",
+  "name_original": "CollectibleCoin_Cologne2016_Finalist",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2016 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -828,6 +946,8 @@
  {
   "id": "collectible-933",
   "name": "Az ESL One Cologne 2016 elődöntőse",
+  "name_original": "CollectibleCoin_Cologne2016_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2016 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -842,6 +962,8 @@
  {
   "id": "collectible-934",
   "name": "Az ESL One Cologne 2016 negyeddöntőse",
+  "name_original": "CollectibleCoin_Cologne2016_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát az ESL One Cologne 2016 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -856,6 +978,8 @@
  {
   "id": "collectible-935",
   "name": "Cologne 2016 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_Cologne2016_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
   "description": "Ez a bronz trófea az ESL One Cologne 2016 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -870,6 +994,8 @@
  {
   "id": "collectible-936",
   "name": "Cologne 2016 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_Cologne2016_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
   "description": "Ez az ezüst trófea az ESL One Cologne 2016 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -884,6 +1010,8 @@
  {
   "id": "collectible-937",
   "name": "Cologne 2016 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_Cologne2016_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
   "description": "Ez az arany trófea az ESL One Cologne 2016 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -898,6 +1026,8 @@
  {
   "id": "collectible-938",
   "name": "Bronz Cologne 2016 Fantasy Trófea",
+  "name_original": "CollectibleCoin_Cologne2016_FantasyBronze",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
   "description": "Ez a bronz trófea az ESL One Cologne 2016 Fantasy csapatkihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -912,6 +1042,8 @@
  {
   "id": "collectible-939",
   "name": "Ezüst Cologne 2016 Fantasy Trófea",
+  "name_original": "CollectibleCoin_Cologne2016_FantasySilver",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
   "description": "Ez az ezüst trófea az ESL One Cologne 2016 Fantasy csapatkihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -926,6 +1058,8 @@
  {
   "id": "collectible-940",
   "name": "Arany Cologne 2016 Fantasy Trófea",
+  "name_original": "CollectibleCoin_Cologne2016_FantasyGold",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
   "description": "Ez az arany trófea az ESL One Cologne 2016 Fantasy csapatkihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -940,6 +1074,8 @@
  {
   "id": "collectible-941",
   "name": "Az ELEAGUE Atlanta 2017 bajnoka",
+  "name_original": "CollectibleCoin_Atlanta2017_Champion",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
   "description": "Ezt a bajnoksági trófeát az ELEAGUE Atlanta 2017 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -954,6 +1090,8 @@
  {
   "id": "collectible-942",
   "name": "Az ELEAGUE Atlanta 2017 döntőse",
+  "name_original": "CollectibleCoin_Atlanta2017_Finalist",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
   "description": "Ezt a bajnoksági trófeát az ELEAGUE Atlanta 2017 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -968,6 +1106,8 @@
  {
   "id": "collectible-943",
   "name": "Az ELEAGUE Atlanta 2017 elődöntőse",
+  "name_original": "CollectibleCoin_Atlanta2017_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
   "description": "Ezt a bajnoksági trófeát az ELEAGUE Atlanta 2017 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -982,6 +1122,8 @@
  {
   "id": "collectible-944",
   "name": "Az ELEAGUE Atlanta 2017 negyeddöntőse",
+  "name_original": "CollectibleCoin_Atlanta2017_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát az ELEAGUE Atlanta 2017 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -996,6 +1138,8 @@
  {
   "id": "collectible-945",
   "name": "Atlanta 2017 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_Atlanta2017_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
   "description": "Ez a bronz trófea az ELEAGUE Atlanta 2017 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1010,6 +1154,8 @@
  {
   "id": "collectible-946",
   "name": "Atlanta 2017 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_Atlanta2017_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
   "description": "Ez az ezüst trófea az ELEAGUE Atlanta 2017 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1024,6 +1170,8 @@
  {
   "id": "collectible-947",
   "name": "Atlanta 2017 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_Atlanta2017_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
   "description": "Ez az arany trófea az ELEAGUE Atlanta 2017 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1038,6 +1186,8 @@
  {
   "id": "collectible-948",
   "name": "A PGL Krakow 2017 bajnoka",
+  "name_original": "CollectibleCoin_Krakow2017_Champion",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Champion",
   "description": "Ezt a bajnoksági trófeát a PGL Krakow 2017 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1052,6 +1202,8 @@
  {
   "id": "collectible-949",
   "name": "A PGL Krakow 2017 döntőse",
+  "name_original": "CollectibleCoin_Krakow2017_Finalist",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
   "description": "Ezt a bajnoksági trófeát a PGL Krakow 2017 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1066,6 +1218,8 @@
  {
   "id": "collectible-950",
   "name": "A PGL Krakow 2017 elődöntőse",
+  "name_original": "CollectibleCoin_Krakow2017_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
   "description": "Ezt a bajnoksági trófeát a PGL Krakow 2017 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1080,6 +1234,8 @@
  {
   "id": "collectible-951",
   "name": "A PGL Krakow 2017 negyeddöntőse",
+  "name_original": "CollectibleCoin_Krakow2017_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát a PGL Krakow 2017 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1094,6 +1250,8 @@
  {
   "id": "collectible-952",
   "name": "Krakow 2017 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_Krakow2017_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
   "description": "Ez a bronz trófea a PGL Krakow 2017 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1108,6 +1266,8 @@
  {
   "id": "collectible-953",
   "name": "Krakow 2017 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_Krakow2017_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
   "description": "Ez az ezüst trófea a PGL Krakow 2017 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1122,6 +1282,8 @@
  {
   "id": "collectible-954",
   "name": "Krakow 2017 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_Krakow2017_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
   "description": "Ez az arany trófea a PGL Krakow 2017 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1136,6 +1298,8 @@
  {
   "id": "collectible-955",
   "name": "Az ELEAGUE Boston 2018 bajnoka",
+  "name_original": "CollectibleCoin_Boston2018_Champion",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Champion",
   "description": "Ezt a bajnoksági trófeát az ELEAGUE Boston 2018 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1150,6 +1314,8 @@
  {
   "id": "collectible-956",
   "name": "Az ELEAGUE Boston 2018 döntőse",
+  "name_original": "CollectibleCoin_Boston2018_Finalist",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Finalist",
   "description": "Ezt a bajnoksági trófeát az ELEAGUE Boston 2018 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1164,6 +1330,8 @@
  {
   "id": "collectible-957",
   "name": "Az ELEAGUE Boston 2018 elődöntőse",
+  "name_original": "CollectibleCoin_Boston2018_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
   "description": "Ezt a bajnoksági trófeát az ELEAGUE Boston 2018 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1178,6 +1346,8 @@
  {
   "id": "collectible-958",
   "name": "Az ELEAGUE Boston 2018 negyeddöntőse",
+  "name_original": "CollectibleCoin_Boston2018_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát az ELEAGUE Boston 2018 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1192,6 +1362,8 @@
  {
   "id": "collectible-959",
   "name": "Boston 2018 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_Boston2018_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
   "description": "Ez a bronz trófea az ELEAGUE Boston 2018 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1206,6 +1378,8 @@
  {
   "id": "collectible-960",
   "name": "Boston 2018 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_Boston2018_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
   "description": "Ez az ezüst trófea az ELEAGUE Boston 2018 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1220,6 +1394,8 @@
  {
   "id": "collectible-961",
   "name": "Boston 2017 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_Boston2018_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
   "description": "Ez az arany trófea az ELEAGUE Boston 2018 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1234,6 +1410,8 @@
  {
   "id": "collectible-962",
   "name": "A FACEIT London 2018 bajnoka",
+  "name_original": "CollectibleCoin_London2018_Champion",
+  "code": "#CSGO_CollectibleCoin_London2018_Champion",
   "description": "Ezt a bajnoksági trófeát a FACEIT London 2018 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1248,6 +1426,8 @@
  {
   "id": "collectible-963",
   "name": "A FACEIT London 2018 döntőse",
+  "name_original": "CollectibleCoin_London2018_Finalist",
+  "code": "#CSGO_CollectibleCoin_London2018_Finalist",
   "description": "Ezt a bajnoksági trófeát a FACEIT London 2018 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1262,6 +1442,8 @@
  {
   "id": "collectible-964",
   "name": "A FACEIT London 2018 elődöntőse",
+  "name_original": "CollectibleCoin_London2018_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_London2018_Semifinalist",
   "description": "Ezt a bajnoksági trófeát a FACEIT London 2018 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1276,6 +1458,8 @@
  {
   "id": "collectible-965",
   "name": "A FACEIT London 2018 negyeddöntőse",
+  "name_original": "CollectibleCoin_London2018_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát a FACEIT London 2018 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1290,6 +1474,8 @@
  {
   "id": "collectible-966",
   "name": "London 2018 Válassz! bronz trófea",
+  "name_original": "CollectibleCoin_London2018_PickEmBronze",
+  "code": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
   "description": "Ez a bronz trófea a FACEIT London 2018 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1304,6 +1490,8 @@
  {
   "id": "collectible-967",
   "name": "London 2018 Válassz! ezüst trófea",
+  "name_original": "CollectibleCoin_London2018_PickEmSilver",
+  "code": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
   "description": "Ez az ezüst trófea a FACEIT London 2018 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1318,6 +1506,8 @@
  {
   "id": "collectible-968",
   "name": "London 2018 Válassz! arany trófea",
+  "name_original": "CollectibleCoin_London2018_PickEmGold",
+  "code": "#CSGO_CollectibleCoin_London2018_PickEmGold",
   "description": "Ez az arany trófea a FACEIT London 2018 Válassz! kihíváson került kiosztásra.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1332,6 +1522,8 @@
  {
   "id": "collectible-969",
   "name": "10 Éves Veterán Érem",
+  "name_original": "CollectibleCoin_TenYearService",
+  "code": "#CSGO_CollectibleCoin_TenYearService",
   "description": "Több, mint 10 éve tagja a Counter-Strike közösségnek.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1346,6 +1538,8 @@
  {
   "id": "collectible-970",
   "name": "Hűség kitűző",
+  "name_original": "CollectibleCoin_FortiusQuoFidelius",
+  "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
   "description": "Ez a kitűző a Counter-Strike közösség hű tagjainak állít emléket a Veszélyzóna frissítés előtti időkből.\\n\\n<i>Hűségben az erő.</i>",
   "rarity": {
    "id": "rarity_ancient",
@@ -1360,6 +1554,8 @@
  {
   "id": "collectible-971",
   "name": "Az IEM Katowice 2019 bajnoka",
+  "name_original": "CollectibleCoin_Katowice2019_Champion",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Champion",
   "description": "Ezt a bajnoksági trófeát az IEM Katowice 2019 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1374,6 +1570,8 @@
  {
   "id": "collectible-972",
   "name": "Az IEM Katowice 2019 döntőse",
+  "name_original": "CollectibleCoin_Katowice2019_Finalist",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
   "description": "Ezt a bajnoksági trófeát az IEM Katowice 2019 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1388,6 +1586,8 @@
  {
   "id": "collectible-973",
   "name": "Az IEM Katowice 2019 elődöntőse",
+  "name_original": "CollectibleCoin_Katowice2019_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
   "description": "Ezt a bajnoksági trófeát az IEM Katowice 2019 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1402,6 +1602,8 @@
  {
   "id": "collectible-974",
   "name": "Az IEM Katowice 2019 negyeddöntőse",
+  "name_original": "CollectibleCoin_Katowice2019_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát az IEM Katowice 2019 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1416,6 +1618,8 @@
  {
   "id": "collectible-975",
   "name": "A StarLadder Berlin 2019 bajnoka",
+  "name_original": "CollectibleCoin_Berlin2019_Champion",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Champion",
   "description": "Ezt a bajnoksági trófeát a StarLadder Berlin 2019 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1430,6 +1634,8 @@
  {
   "id": "collectible-976",
   "name": "A StarLadder Berlin 2019 döntőse",
+  "name_original": "CollectibleCoin_Berlin2019_Finalist",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
   "description": "Ezt a bajnoksági trófeát a StarLadder Berlin 2019 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1444,6 +1650,8 @@
  {
   "id": "collectible-977",
   "name": "A StarLadder Berlin 2019 elődöntőse",
+  "name_original": "CollectibleCoin_Berlin2019_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
   "description": "Ezt a bajnoksági trófeát a StarLadder Berlin 2019 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1458,6 +1666,8 @@
  {
   "id": "collectible-978",
   "name": "A StarLadder Berlin 2019 negyeddöntőse",
+  "name_original": "CollectibleCoin_Berlin2019_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát a StarLadder Berlin 2019 CS:GO bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1472,6 +1682,8 @@
  {
   "id": "collectible-979",
   "name": "A PGL Stockholm 2021 bajnoka",
+  "name_original": "CollectibleCoin_Stockh2021_Champion",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Champion",
   "description": "Ezt a bajnoksági trófeát a PGL Stockholm 2021 CS:GO Major bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1486,6 +1698,8 @@
  {
   "id": "collectible-980",
   "name": "A PGL Stockholm 2021 helyezettje",
+  "name_original": "CollectibleCoin_Stockh2021_Finalist",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
   "description": "Ezt a bajnoksági trófeát a PGL Stockholm 2021 CS:GO Major bajnokság helyezettje kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1500,6 +1714,8 @@
  {
   "id": "collectible-981",
   "name": "A PGL Stockholm 2021 elődöntőse",
+  "name_original": "CollectibleCoin_Stockh2021_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
   "description": "Ezt a bajnoksági trófeát a PGL Stockholm 2021 CS:GO Major bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1514,6 +1730,8 @@
  {
   "id": "collectible-982",
   "name": "A PGL Stockholm 2021 negyeddöntőse",
+  "name_original": "CollectibleCoin_Stockh2021_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát a PGL Stockholm 2021 CS:GO Major bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1528,6 +1746,8 @@
  {
   "id": "collectible-983",
   "name": "A PGL Antwerp 2022 bajnoka",
+  "name_original": "CollectibleCoin_Antwerp2022_Champion",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
   "description": "Ezt a bajnoksági trófeát a PGL Antwerp 2022 CS:GO Major bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1542,6 +1762,8 @@
  {
   "id": "collectible-984",
   "name": "A PGL Antwerp 2022 döntőse",
+  "name_original": "CollectibleCoin_Antwerp2022_Finalist",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
   "description": "Ezt a bajnoksági trófeát a PGL Antwerp 2022 CS:GO Major bajnokság helyezettje kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1556,6 +1778,8 @@
  {
   "id": "collectible-985",
   "name": "A PGL Antwerp 2022 elődöntőse",
+  "name_original": "CollectibleCoin_Antwerp2022_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
   "description": "Ezt a bajnoksági trófeát a PGL Antwerp 2022 CS:GO Major bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1570,6 +1794,8 @@
  {
   "id": "collectible-986",
   "name": "A PGL Antwerp 2022 negyeddöntőse",
+  "name_original": "CollectibleCoin_Antwerp2022_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát a PGL Antwerp 2022 CS:GO Major bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1584,6 +1810,8 @@
  {
   "id": "collectible-987",
   "name": "10. Születésnapi Érem",
+  "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
+  "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
   "description": "Együtt ünnepelte a CS:GO 10. születésnapját a közösséggel.\\n\\n<i>Tíz évnyi fejlövés, szóló győzelem és a közösség ünneplése. Boldog 10. születésnapot, CS:GO!</i>",
   "rarity": {
    "id": "rarity_ancient",
@@ -1598,6 +1826,8 @@
  {
   "id": "collectible-988",
   "name": "Az IEM Rio 2022 bajnoka",
+  "name_original": "CollectibleCoin_Rio2022_Champion",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Champion",
   "description": "Ezt a bajnoksági trófeát az IEM Rio 2022 CS:GO bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1612,6 +1842,8 @@
  {
   "id": "collectible-989",
   "name": "Az IEM Rio 2022 döntőse",
+  "name_original": "CollectibleCoin_Rio2022_Finalist",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Finalist",
   "description": "Ezt a bajnoksági trófeát az IEM Rio 2022 CS:GO bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1626,6 +1858,8 @@
  {
   "id": "collectible-990",
   "name": "Az IEM Rio 2022 elődöntőse",
+  "name_original": "CollectibleCoin_Rio2022_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
   "description": "Ezt a bajnoksági trófeát az IEM Rio 2022 CS:GO bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1640,6 +1874,8 @@
  {
   "id": "collectible-991",
   "name": "Az IEM Rio 2022 negyeddöntőse",
+  "name_original": "CollectibleCoin_Rio2022_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát az IEM Rio 2022 CS:GO Major bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1654,6 +1890,8 @@
  {
   "id": "collectible-992",
   "name": "A BLAST.tv Paris 2023 bajnoka",
+  "name_original": "CollectibleCoin_Paris2023_Champion",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Champion",
   "description": "Ezt a bajnoksági trófeát a BLAST.tv Paris 2023 CS:GO Major bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1668,6 +1906,8 @@
  {
   "id": "collectible-993",
   "name": "A BLAST.tv Paris 2023 döntőse",
+  "name_original": "CollectibleCoin_Paris2023_Finalist",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Finalist",
   "description": "Ezt a bajnoksági trófeát a BLAST.tv Paris 2023 CS:GO Major bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1682,6 +1922,8 @@
  {
   "id": "collectible-994",
   "name": "A BLAST.tv Paris 2023 elődöntőse",
+  "name_original": "CollectibleCoin_Paris2023_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
   "description": "Ezt a bajnoksági trófeát a BLAST.tv Paris 2023 CS:GO Major bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1696,6 +1938,8 @@
  {
   "id": "collectible-995",
   "name": "A BLAST.tv Paris 2023 negyeddöntőse",
+  "name_original": "CollectibleCoin_Paris2023_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát a BLAST.tv Paris 2023 CS:GO Major bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1710,6 +1954,8 @@
  {
   "id": "collectible-996",
   "name": "Global Offensive Érem",
+  "name_original": "CollectibleCoin_CoinCsgo",
+  "code": "#CSGO_CollectibleCoin_CoinCsgo",
   "description": "Ez az érem a Counter-Strike: Global Offensive közösség hű tagjainak állít emléket a Counter-Strike 2 megjelenése előtti időkből.\\n\\n<i>A legendák örökké élnek.</i>",
   "rarity": {
    "id": "rarity_ancient",
@@ -1724,6 +1970,8 @@
  {
   "id": "collectible-1000",
   "name": "Operation Payback belépő",
+  "name_original": "Ticket_CommunitySeasonOneSpring2013",
+  "code": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
   "description": "Az Operation Payback esemény 2013. április 25-től szeptember 2-ig tartott, és több mint 180 000 dollárral jutalmazta a közösségi pályakészítőket. Ez a belépő már nem ad hozzáférést Operation eseményhez, de beváltható egy Operation Payback emlékéremre.",
   "rarity": {
    "id": "rarity_common",
@@ -1738,6 +1986,8 @@
  {
   "id": "collectible-1001",
   "name": "Operation Payback Érdemérem",
+  "name_original": "Collectible_CommunitySeasonOneSpring2013_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
   "description": "A közösségi pályakészítők támogatására részt vett az Operation Paybackben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1752,6 +2002,8 @@
  {
   "id": "collectible-1002",
   "name": "Ezüst Operation Payback Érem",
+  "name_original": "Collectible_CommunitySeasonOneSpring2013_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
   "description": "A közösségi pályakészítők támogatására 10 órán át részt vett az Operation Paybackben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1766,6 +2018,8 @@
  {
   "id": "collectible-1003",
   "name": "Arany Operation Payback Érem",
+  "name_original": "Collectible_CommunitySeasonOneSpring2013_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
   "description": "A közösségi pályakészítők támogatására 50 órán át részt vett az Operation Paybackben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1780,6 +2034,8 @@
  {
   "id": "collectible-1004",
   "name": "Museum Pályaérem",
+  "name_original": "Collectible_MapTokenMuseum",
+  "code": "#CSGO_Collectible_MapTokenMuseum",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1794,6 +2050,8 @@
  {
   "id": "collectible-1005",
   "name": "Downtown Pályaérem",
+  "name_original": "Collectible_MapTokenDowntown",
+  "code": "#CSGO_Collectible_MapTokenDowntown",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1808,6 +2066,8 @@
  {
   "id": "collectible-1006",
   "name": "Thunder Pályaérem",
+  "name_original": "Collectible_MapTokenThunder",
+  "code": "#CSGO_Collectible_MapTokenThunder",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1822,6 +2082,8 @@
  {
   "id": "collectible-1007",
   "name": "Favela Pályaérem",
+  "name_original": "Collectible_MapTokenFavela",
+  "code": "#CSGO_Collectible_MapTokenFavela",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1836,6 +2098,8 @@
  {
   "id": "collectible-1008",
   "name": "Motel Pályaérem",
+  "name_original": "Collectible_MapTokenMotel",
+  "code": "#CSGO_Collectible_MapTokenMotel",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1850,6 +2114,8 @@
  {
   "id": "collectible-1009",
   "name": "Seaside Pályaérem",
+  "name_original": "Collectible_MapTokenSeaside",
+  "code": "#CSGO_Collectible_MapTokenSeaside",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1864,6 +2130,8 @@
  {
   "id": "collectible-1010",
   "name": "Library Pályaérem",
+  "name_original": "Collectible_MapTokenLibrary",
+  "code": "#CSGO_Collectible_MapTokenLibrary",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1878,6 +2146,8 @@
  {
   "id": "collectible-1012",
   "name": "Operation Bravo belépő",
+  "name_original": "Ticket_CommunitySeasonTwoAutumn2013",
+  "code": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
   "description": "Az Operation Bravo esemény 2013. szeptember 19-től 2014. február 5-ig tartott. Ez a belépő már nem ad hozzáférést Operation eseményhez, de beváltható egy Operation Bravo emlékéremre.",
   "rarity": {
    "id": "rarity_common",
@@ -1892,6 +2162,8 @@
  {
   "id": "collectible-1013",
   "name": "Operation Bravo Érdemérem",
+  "name_original": "Collectible_CommunitySeasonTwoAutumn2013_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
   "description": "Részt vett az Operation Bravo-ban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1906,6 +2178,8 @@
  {
   "id": "collectible-1014",
   "name": "Ezüst Operation Bravo Érem",
+  "name_original": "Collectible_CommunitySeasonTwoAutumn2013_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
   "description": "Részt vett az Operation Bravo-ban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1920,6 +2194,8 @@
  {
   "id": "collectible-1015",
   "name": "Arany Operation Bravo Érem",
+  "name_original": "Collectible_CommunitySeasonTwoAutumn2013_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
   "description": "Részt vett az Operation Bravo-ban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -1934,6 +2210,8 @@
  {
   "id": "collectible-1016",
   "name": "Agency Pályaérem",
+  "name_original": "Collectible_MapTokenAgency",
+  "code": "#CSGO_Collectible_MapTokenAgency",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1948,6 +2226,8 @@
  {
   "id": "collectible-1017",
   "name": "Ali Pályaérem",
+  "name_original": "Collectible_MapTokenAli",
+  "code": "#CSGO_Collectible_MapTokenAli",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1962,6 +2242,8 @@
  {
   "id": "collectible-1018",
   "name": "Cache Pályaérem",
+  "name_original": "Collectible_MapTokenCache",
+  "code": "#CSGO_Collectible_MapTokenCache",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1976,6 +2258,8 @@
  {
   "id": "collectible-1019",
   "name": "Chinatown Pályaérem",
+  "name_original": "Collectible_MapTokenChinatown",
+  "code": "#CSGO_Collectible_MapTokenChinatown",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -1990,6 +2274,8 @@
  {
   "id": "collectible-1020",
   "name": "Gwalior Pályaérem",
+  "name_original": "Collectible_MapTokenGwalior",
+  "code": "#CSGO_Collectible_MapTokenGwalior",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2004,6 +2290,8 @@
  {
   "id": "collectible-1021",
   "name": "Ruins Pályaérem",
+  "name_original": "Collectible_MapTokenRuins",
+  "code": "#CSGO_Collectible_MapTokenRuins",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2018,6 +2306,8 @@
  {
   "id": "collectible-1022",
   "name": "Siege Pályaérem",
+  "name_original": "Collectible_MapTokenSiege",
+  "code": "#CSGO_Collectible_MapTokenSiege",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2032,6 +2322,8 @@
  {
   "id": "collectible-1023",
   "name": "Operation Phoenix belépő",
+  "name_original": "Ticket_CommunitySeasonThreeSpring2014",
+  "code": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
   "description": "Az Operation Phoenix esemény 2014. február 20-tól 2014. június 11-ig tartott. Ez a belépő már nem ad hozzáférést Operation eseményhez, de beváltható egy Operation Phoenix emlékéremre.",
   "rarity": {
    "id": "rarity_common",
@@ -2046,6 +2338,8 @@
  {
   "id": "collectible-1024",
   "name": "Operation Phoenix Érdemérem",
+  "name_original": "Collectible_CommunitySeasonThreeSpring2014_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
   "description": "Részt vett az Operation Phoenix-ben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -2060,6 +2354,8 @@
  {
   "id": "collectible-1025",
   "name": "Ezüst Operation Phoenix Érem",
+  "name_original": "Collectible_CommunitySeasonThreeSpring2014_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
   "description": "Részt vett az Operation Phoenix-ben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -2074,6 +2370,8 @@
  {
   "id": "collectible-1026",
   "name": "Arany Operation Phoenix Érem",
+  "name_original": "Collectible_CommunitySeasonThreeSpring2014_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
   "description": "Részt vett az Operation Phoenix-ben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -2088,6 +2386,8 @@
  {
   "id": "collectible-1027",
   "name": "Operation Breakout teljes hozzáférés",
+  "name_original": "Ticket_CommunitySeasonFourSummer2014",
+  "code": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
   "description": "Az Operation Breakout esemény 2014. július 2-től 2014. október 2-ig tartott. Ez a belépő már nem ad hozzáférést Operation eseményhez, de beváltható egy Operation Breakout emlékérmére.",
   "rarity": {
    "id": "rarity_common",
@@ -2102,6 +2402,8 @@
  {
   "id": "collectible-1028",
   "name": "Operation Breakout Érdemérem",
+  "name_original": "Collectible_CommunitySeasonFourSummer2014_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
   "description": "Részt vett az Operation Breakoutban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -2116,6 +2418,8 @@
  {
   "id": "collectible-1029",
   "name": "Ezüst Operation Breakout Érem",
+  "name_original": "Collectible_CommunitySeasonFourSummer2014_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
   "description": "Részt vett az Operation Breakoutban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -2130,6 +2434,8 @@
  {
   "id": "collectible-1030",
   "name": "Arany Operation Breakout Érem",
+  "name_original": "Collectible_CommunitySeasonFourSummer2014_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
   "description": "Részt vett az Operation Breakoutban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -2144,6 +2450,8 @@
  {
   "id": "collectible-1031",
   "name": "Castle Pályaérem",
+  "name_original": "Collectible_MapTokenCastle",
+  "code": "#CSGO_Collectible_MapTokenCastle",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2158,6 +2466,8 @@
  {
   "id": "collectible-1032",
   "name": "Black Gold Pályaérem",
+  "name_original": "Collectible_MapTokenBlackGold",
+  "code": "#CSGO_Collectible_MapTokenBlackGold",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2172,6 +2482,8 @@
  {
   "id": "collectible-1033",
   "name": "Rush Pályaérem",
+  "name_original": "Collectible_MapTokenRush",
+  "code": "#CSGO_Collectible_MapTokenRush",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2186,6 +2498,8 @@
  {
   "id": "collectible-1034",
   "name": "Mist Pályaérem",
+  "name_original": "Collectible_MapTokenMist",
+  "code": "#CSGO_Collectible_MapTokenMist",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2200,6 +2514,8 @@
  {
   "id": "collectible-1035",
   "name": "Insertion Pályaérem",
+  "name_original": "Collectible_MapTokenInsertion",
+  "code": "#CSGO_Collectible_MapTokenInsertion",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2214,6 +2530,8 @@
  {
   "id": "collectible-1036",
   "name": "Overgrown Pályaérem",
+  "name_original": "Collectible_MapTokenOvergrown",
+  "code": "#CSGO_Collectible_MapTokenOvergrown",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2228,6 +2546,8 @@
  {
   "id": "collectible-1037",
   "name": "Marquis Pályaérem",
+  "name_original": "Collectible_MapTokenMarquis",
+  "code": "#CSGO_Collectible_MapTokenMarquis",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2242,6 +2562,8 @@
  {
   "id": "collectible-1038",
   "name": "Workout Pályaérem",
+  "name_original": "Collectible_MapTokenWorkout",
+  "code": "#CSGO_Collectible_MapTokenWorkout",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2256,6 +2578,8 @@
  {
   "id": "collectible-1039",
   "name": "Backalley Pályaérem",
+  "name_original": "Collectible_MapTokenBackalley",
+  "code": "#CSGO_Collectible_MapTokenBackalley",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2270,6 +2594,8 @@
  {
   "id": "collectible-1040",
   "name": "Season Pályaérem",
+  "name_original": "Collectible_MapTokenSeason",
+  "code": "#CSGO_Collectible_MapTokenSeason",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2284,6 +2610,8 @@
  {
   "id": "collectible-1041",
   "name": "Bazaar Pályaérem",
+  "name_original": "Collectible_MapTokenBazaar",
+  "code": "#CSGO_Collectible_MapTokenBazaar",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2298,6 +2626,8 @@
  {
   "id": "collectible-1042",
   "name": "Facade Pályaérem",
+  "name_original": "Collectible_MapTokenFacade",
+  "code": "#CSGO_Collectible_MapTokenFacade",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2312,6 +2642,8 @@
  {
   "id": "collectible-1043",
   "name": "Log Pályaérem",
+  "name_original": "Collectible_MapTokenLog",
+  "code": "#CSGO_Collectible_MapTokenLog",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2326,6 +2658,8 @@
  {
   "id": "collectible-1044",
   "name": "Rails Pályaérem",
+  "name_original": "Collectible_MapTokenRails",
+  "code": "#CSGO_Collectible_MapTokenRails",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2340,6 +2674,8 @@
  {
   "id": "collectible-1045",
   "name": "Resort Pályaérem",
+  "name_original": "Collectible_MapTokenResort",
+  "code": "#CSGO_Collectible_MapTokenResort",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2354,6 +2690,8 @@
  {
   "id": "collectible-1046",
   "name": "Zoo Pályaérem",
+  "name_original": "Collectible_MapTokenZoo",
+  "code": "#CSGO_Collectible_MapTokenZoo",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2368,6 +2706,8 @@
  {
   "id": "collectible-1047",
   "name": "Santorini Pályaérem",
+  "name_original": "Collectible_MapTokenSantorini",
+  "code": "#CSGO_Collectible_MapTokenSantorini",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2382,6 +2722,8 @@
  {
   "id": "collectible-1048",
   "name": "Coast Pályaérem",
+  "name_original": "Collectible_MapTokenCoast",
+  "code": "#CSGO_Collectible_MapTokenCoast",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2396,6 +2738,8 @@
  {
   "id": "collectible-1049",
   "name": "Mikla Pályaérem",
+  "name_original": "Collectible_MapTokenMikla",
+  "code": "#CSGO_Collectible_MapTokenMikla",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2410,6 +2754,8 @@
  {
   "id": "collectible-1050",
   "name": "Royal Pályaérem",
+  "name_original": "Collectible_MapTokenRoyal",
+  "code": "#CSGO_Collectible_MapTokenRoyal",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2424,6 +2770,8 @@
  {
   "id": "collectible-1051",
   "name": "Empire Pályaérem",
+  "name_original": "Collectible_MapTokenEmpire",
+  "code": "#CSGO_Collectible_MapTokenEmpire",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2438,6 +2786,8 @@
  {
   "id": "collectible-1052",
   "name": "Tulip Pályaérem",
+  "name_original": "Collectible_MapTokenTulip",
+  "code": "#CSGO_Collectible_MapTokenTulip",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2452,6 +2802,8 @@
  {
   "id": "collectible-1053",
   "name": "Cruise Pályaérem",
+  "name_original": "Collectible_MapTokenCruise",
+  "code": "#CSGO_Collectible_MapTokenCruise",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2466,6 +2818,8 @@
  {
   "id": "collectible-1054",
   "name": "Subzero Pályaérem",
+  "name_original": "Collectible_MapTokenSubzero",
+  "code": "#CSGO_Collectible_MapTokenSubzero",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2480,6 +2834,8 @@
  {
   "id": "collectible-1055",
   "name": "Biome Pályaérem",
+  "name_original": "Collectible_MapTokenBiome",
+  "code": "#CSGO_Collectible_MapTokenBiome",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2494,6 +2850,8 @@
  {
   "id": "collectible-1056",
   "name": "Abbey Pályaérem",
+  "name_original": "Collectible_MapTokenAbbey",
+  "code": "#CSGO_Collectible_MapTokenAbbey",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2508,6 +2866,8 @@
  {
   "id": "collectible-1057",
   "name": "Ruby Pályaérem",
+  "name_original": "Collectible_MapTokenRuby",
+  "code": "#CSGO_Collectible_MapTokenRuby",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2522,6 +2882,8 @@
  {
   "id": "collectible-1058",
   "name": "Breach Pályaérem",
+  "name_original": "Collectible_MapTokenBreach",
+  "code": "#CSGO_Collectible_MapTokenBreach",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2536,6 +2898,8 @@
  {
   "id": "collectible-1059",
   "name": "Studio Pályaérem",
+  "name_original": "Collectible_MapTokenStudio",
+  "code": "#CSGO_Collectible_MapTokenStudio",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2550,6 +2914,8 @@
  {
   "id": "collectible-1060",
   "name": "Jungle Pályaérem",
+  "name_original": "Collectible_MapTokenJungle",
+  "code": "#CSGO_Collectible_MapTokenJungle",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2564,6 +2930,8 @@
  {
   "id": "collectible-1061",
   "name": "Anubis Pályaérem",
+  "name_original": "Collectible_MapTokenAnubis",
+  "code": "#CSGO_Collectible_MapTokenAnubis",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2578,6 +2946,8 @@
  {
   "id": "collectible-1062",
   "name": "Chlorine Pályaérem",
+  "name_original": "Collectible_MapTokenChlorine",
+  "code": "#CSGO_Collectible_MapTokenChlorine",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2592,6 +2962,8 @@
  {
   "id": "collectible-1063",
   "name": "Mutiny Pályaérem",
+  "name_original": "Collectible_MapTokenMutiny",
+  "code": "#CSGO_Collectible_MapTokenMutiny",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2606,6 +2978,8 @@
  {
   "id": "collectible-1064",
   "name": "Swamp Pályaérem",
+  "name_original": "Collectible_MapTokenSwamp",
+  "code": "#CSGO_Collectible_MapTokenSwamp",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2620,6 +2994,8 @@
  {
   "id": "collectible-1065",
   "name": "Frostbite Pályaérem",
+  "name_original": "Collectible_MapTokenFrostbite",
+  "code": "#CSGO_Collectible_MapTokenFrostbite",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2634,6 +3010,8 @@
  {
   "id": "collectible-1066",
   "name": "Engage Pályaérem",
+  "name_original": "Collectible_MapTokenEngage",
+  "code": "#CSGO_Collectible_MapTokenEngage",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2648,6 +3026,8 @@
  {
   "id": "collectible-1067",
   "name": "Apollo Pályaérem",
+  "name_original": "Collectible_MapTokenApollo",
+  "code": "#CSGO_Collectible_MapTokenApollo",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2662,6 +3042,8 @@
  {
   "id": "collectible-1068",
   "name": "Guard Pályaérem",
+  "name_original": "Collectible_MapTokenGuard",
+  "code": "#CSGO_Collectible_MapTokenGuard",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2676,6 +3058,8 @@
  {
   "id": "collectible-1069",
   "name": "Elysion Pályaérem",
+  "name_original": "Collectible_MapTokenElysion",
+  "code": "#CSGO_Collectible_MapTokenElysion",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2690,6 +3074,8 @@
  {
   "id": "collectible-1070",
   "name": "Grind Pályaérem",
+  "name_original": "Collectible_MapTokenGrind",
+  "code": "#CSGO_Collectible_MapTokenGrind",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2704,6 +3090,8 @@
  {
   "id": "collectible-1071",
   "name": "Mocha Pályaérem",
+  "name_original": "Collectible_MapTokenMocha",
+  "code": "#CSGO_Collectible_MapTokenMocha",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2718,6 +3106,8 @@
  {
   "id": "collectible-1072",
   "name": "Calavera Pályaérem",
+  "name_original": "Collectible_MapTokenCalavera",
+  "code": "#CSGO_Collectible_MapTokenCalavera",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2732,6 +3122,8 @@
  {
   "id": "collectible-1073",
   "name": "Pitstop Pályaérem",
+  "name_original": "Collectible_MapTokenPitstop",
+  "code": "#CSGO_Collectible_MapTokenPitstop",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2746,6 +3138,8 @@
  {
   "id": "collectible-1074",
   "name": "Basalt Pályaérem",
+  "name_original": "Collectible_MapTokenBasalt",
+  "code": "#CSGO_Collectible_MapTokenBasalt",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2760,6 +3154,8 @@
  {
   "id": "collectible-1075",
   "name": "Insertion II Pályaérem",
+  "name_original": "Collectible_MapTokenInsertion2",
+  "code": "#CSGO_Collectible_MapTokenInsertion2",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2774,6 +3170,8 @@
  {
   "id": "collectible-1076",
   "name": "Ravine Pályaérem",
+  "name_original": "Collectible_MapTokenRavine",
+  "code": "#CSGO_Collectible_MapTokenRavine",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2788,6 +3186,8 @@
  {
   "id": "collectible-1077",
   "name": "Extraction Pályaérem",
+  "name_original": "Collectible_MapTokenExtraction",
+  "code": "#CSGO_Collectible_MapTokenExtraction",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2802,6 +3202,8 @@
  {
   "id": "collectible-1078",
   "name": "County Pályaérem",
+  "name_original": "Collectible_MapTokenCounty",
+  "code": "#CSGO_Collectible_MapTokenCounty",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2816,6 +3218,8 @@
  {
   "id": "collectible-1079",
   "name": "Iris Pályaérem",
+  "name_original": "Collectible_MapTokenIris",
+  "code": "#CSGO_Collectible_MapTokenIris",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2830,6 +3234,8 @@
  {
   "id": "collectible-1080",
   "name": "Climb Pályaérem",
+  "name_original": "Collectible_MapTokenClimb",
+  "code": "#CSGO_Collectible_MapTokenClimb",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2844,6 +3250,8 @@
  {
   "id": "collectible-1081",
   "name": "Crete Pályaérem",
+  "name_original": "Collectible_MapTokenCrete",
+  "code": "#CSGO_Collectible_MapTokenCrete",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2858,6 +3266,8 @@
  {
   "id": "collectible-1082",
   "name": "Hive Pályaérem",
+  "name_original": "Collectible_MapTokenHive",
+  "code": "#CSGO_Collectible_MapTokenHive",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2872,6 +3282,8 @@
  {
   "id": "collectible-1083",
   "name": "Vineyard Pályaérem",
+  "name_original": "Collectible_MapTokenVineyard",
+  "code": "#CSGO_Collectible_MapTokenVineyard",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2886,6 +3298,8 @@
  {
   "id": "collectible-1084",
   "name": "Ember Pályaérem",
+  "name_original": "Collectible_MapTokenEmber",
+  "code": "#CSGO_Collectible_MapTokenEmber",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2900,6 +3314,8 @@
  {
   "id": "collectible-1085",
   "name": "Tuscan Pályaérem",
+  "name_original": "Collectible_MapTokenTuscan",
+  "code": "#CSGO_Collectible_MapTokenTuscan",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2914,6 +3330,8 @@
  {
   "id": "collectible-1086",
   "name": "Cascade Pályaérem",
+  "name_original": "Collectible_MapTokenPrime",
+  "code": "#CSGO_Collectible_MapTokenPrime",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2928,6 +3346,8 @@
  {
   "id": "collectible-1087",
   "name": "Blagai Pályaérem",
+  "name_original": "Collectible_MapTokenBlagai",
+  "code": "#CSGO_Collectible_MapTokenBlagai",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2942,6 +3362,8 @@
  {
   "id": "collectible-1088",
   "name": "Boyard Pályaérem",
+  "name_original": "Collectible_MapTokenBoyard",
+  "code": "#CSGO_Collectible_MapTokenBoyard",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2956,6 +3378,8 @@
  {
   "id": "collectible-1089",
   "name": "Chalice Pályaérem",
+  "name_original": "Collectible_MapTokenChalice",
+  "code": "#CSGO_Collectible_MapTokenChalice",
   "description": null,
   "rarity": {
    "id": "rarity_ancient",
@@ -2970,6 +3394,8 @@
  {
   "id": "collectible-1315",
   "name": "Operation Vanguard hozzáférés belépő",
+  "name_original": "Ticket_CommunitySeasonFiveSummer2014",
+  "code": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
   "description": "Az Operation Vanguard esemény 2014. november 11-től 2015. március 31-ig tartott. Ez a belépő már nem ad hozzáférést az Operation eseményhez, de beváltható egy Operation Vanguard emlékéremre.",
   "rarity": {
    "id": "rarity_common",
@@ -2984,6 +3410,8 @@
  {
   "id": "collectible-1316",
   "name": "Operation Vanguard Érdemérem",
+  "name_original": "Collectible_CommunitySeasonFiveSummer2014_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
   "description": "Részt vett az Operation Vanguardban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -2998,6 +3426,8 @@
  {
   "id": "collectible-1317",
   "name": "Ezüst Operation Vanguard Érem",
+  "name_original": "Collectible_CommunitySeasonFiveSummer2014_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
   "description": "Részt vett az Operation Vanguardban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3012,6 +3442,8 @@
  {
   "id": "collectible-1318",
   "name": "Arany Operation Vanguard Érem",
+  "name_original": "Collectible_CommunitySeasonFiveSummer2014_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
   "description": "Részt vett az Operation Vanguardban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3026,6 +3458,8 @@
  {
   "id": "collectible-1326",
   "name": "Operation Bloodhound hozzáférés belépő",
+  "name_original": "Ticket_CommunitySeasonSix2015",
+  "code": "#CSGO_Ticket_CommunitySeasonSix2015",
   "description": "Az Operation Bloodhound esemény 2015. május 26-tól 2015. október 1-ig tartott. Ez a belépő már nem ad hozzáférést Operation eseményhez, de beváltható egy Operation Bloodhound emlékéremre.",
   "rarity": {
    "id": "rarity_common",
@@ -3040,6 +3474,8 @@
  {
   "id": "collectible-1327",
   "name": "Operation Bloodhound Érdemérem",
+  "name_original": "Collectible_CommunitySeasonSix2015_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
   "description": "Részt vett az Operation Bloodhoundban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3054,6 +3490,8 @@
  {
   "id": "collectible-1328",
   "name": "Ezüst Operation Bloodhound Érem",
+  "name_original": "Collectible_CommunitySeasonSix2015_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
   "description": "Részt vett az Operation Bloodhoundban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3068,6 +3506,8 @@
  {
   "id": "collectible-1329",
   "name": "Arany Operation Bloodhound Érem",
+  "name_original": "Collectible_CommunitySeasonSix2015_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
   "description": "Részt vett az Operation Bloodhoundban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3082,6 +3522,8 @@
  {
   "id": "collectible-1331",
   "name": "2015-ös Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2015",
+  "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "A 2015-ös kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3096,6 +3538,8 @@
  {
   "id": "collectible-1332",
   "name": "2015-ös Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2015",
+  "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "A 2015-ös kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3110,6 +3554,8 @@
  {
   "id": "collectible-1335",
   "name": "Operation Wildfire Belépő",
+  "name_original": "Ticket_CommunitySeasonSeven2016",
+  "code": "#CSGO_Ticket_CommunitySeasonSeven2016",
   "description": "Az Operation Wildfire esemény 2016. február 17-től 2016. július 13-ig tartott. Ez a belépő már nem ad hozzáférést Operation eseményhez, de beváltható egy Operation Wildfire emlékéremre.",
   "rarity": {
    "id": "rarity_common",
@@ -3124,6 +3570,8 @@
  {
   "id": "collectible-1336",
   "name": "Operation Wildfire Érdemérem",
+  "name_original": "Collectible_CommunitySeasonSeven2016_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
   "description": "Részt vett az Operation Wildfire-ben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3138,6 +3586,8 @@
  {
   "id": "collectible-1337",
   "name": "Ezüst Operation Wildfire Érdemérem",
+  "name_original": "Collectible_CommunitySeasonSeven2016_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
   "description": "Részt vett az Operation Wildfire-ben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3152,6 +3602,8 @@
  {
   "id": "collectible-1338",
   "name": "Arany Operation Wildfire Érdemérem",
+  "name_original": "Collectible_CommunitySeasonSeven2016_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
   "description": "Részt vett az Operation Wildfire-ben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3166,6 +3618,8 @@
  {
   "id": "collectible-1339",
   "name": "2016-os Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "A 2016-os kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3180,6 +3634,8 @@
  {
   "id": "collectible-1340",
   "name": "2016-os Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "A 2016-os kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3194,6 +3650,8 @@
  {
   "id": "collectible-1341",
   "name": "2016-os Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "A 2016-os kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3208,6 +3666,8 @@
  {
   "id": "collectible-1342",
   "name": "2016-os Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "A 2016-os kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3222,6 +3682,8 @@
  {
   "id": "collectible-1343",
   "name": "2016-os Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "A 2016-os kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3236,6 +3698,8 @@
  {
   "id": "collectible-1344",
   "name": "2016-os Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "A 2016-os kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3250,6 +3714,8 @@
  {
   "id": "collectible-1352",
   "name": "Operation Hydra Belépő",
+  "name_original": "Ticket_CommunitySeasonEight2017",
+  "code": "#CSGO_Ticket_CommunitySeasonEight2017",
   "description": "Az Operation Hydra esemény 2017. május 23-tól 2017. november 14-ig tartott. Ez a belépő már nem ad hozzáférést Operation eseményhez, de beváltható egy Operation Hydra emlékéremre.",
   "rarity": {
    "id": "rarity_common",
@@ -3264,6 +3730,8 @@
  {
   "id": "collectible-1357",
   "name": "2017-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "A 2017-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3278,6 +3746,8 @@
  {
   "id": "collectible-1358",
   "name": "2017-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "A 2017-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3292,6 +3762,8 @@
  {
   "id": "collectible-1359",
   "name": "2017-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "A 2017-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3306,6 +3778,8 @@
  {
   "id": "collectible-1360",
   "name": "2017-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "A 2017-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3320,6 +3794,8 @@
  {
   "id": "collectible-1361",
   "name": "2017-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "A 2017-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3334,6 +3810,8 @@
  {
   "id": "collectible-1362",
   "name": "2017-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "A 2017-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3348,6 +3826,8 @@
  {
   "id": "collectible-1363",
   "name": "2017-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "A 2017-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3362,6 +3842,8 @@
  {
   "id": "collectible-1367",
   "name": "2018-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "A 2018-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3376,6 +3858,8 @@
  {
   "id": "collectible-1368",
   "name": "2018-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "A 2018-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3390,6 +3874,8 @@
  {
   "id": "collectible-1369",
   "name": "2018-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "A 2018-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3404,6 +3890,8 @@
  {
   "id": "collectible-1370",
   "name": "2018-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "A 2018-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3418,6 +3906,8 @@
  {
   "id": "collectible-1371",
   "name": "2018-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "A 2018-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3432,6 +3922,8 @@
  {
   "id": "collectible-1372",
   "name": "2018-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "A 2018-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3446,6 +3938,8 @@
  {
   "id": "collectible-1376",
   "name": "2019-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "A 2019-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3460,6 +3954,8 @@
  {
   "id": "collectible-1377",
   "name": "2019-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "A 2019-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3474,6 +3970,8 @@
  {
   "id": "collectible-1378",
   "name": "2019-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "A 2019-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3488,6 +3986,8 @@
  {
   "id": "collectible-1379",
   "name": "2019-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "A 2019-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3502,6 +4002,8 @@
  {
   "id": "collectible-1380",
   "name": "2019-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "A 2019-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3516,6 +4018,8 @@
  {
   "id": "collectible-1381",
   "name": "2019-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "A 2019-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3530,6 +4034,8 @@
  {
   "id": "collectible-4353",
   "name": "Operation Hydra Érdemérem",
+  "name_original": "Collectible_CommunitySeasonEight2017_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
   "description": "Részt vett az Operation Hydrában.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3544,6 +4050,8 @@
  {
   "id": "collectible-4354",
   "name": "Ezüst Operation Hydra Érdemérem",
+  "name_original": "Collectible_CommunitySeasonEight2017_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
   "description": "Részt vett az Operation Hydrában.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3558,6 +4066,8 @@
  {
   "id": "collectible-4355",
   "name": "Arany Operation Hydra Érdemérem",
+  "name_original": "Collectible_CommunitySeasonEight2017_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
   "description": "Részt vett az Operation Hydrában.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3572,6 +4082,8 @@
  {
   "id": "collectible-4356",
   "name": "Gyémánt Operation Hydra Érdemérem",
+  "name_original": "Collectible_CommunitySeasonEight2017_Coin4",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
   "description": "Teljesítette az Operation Hydrát.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3586,6 +4098,8 @@
  {
   "id": "collectible-4549",
   "name": "Operation Shattered Web prémium belépő",
+  "name_original": "Ticket_CommunitySeasonNine2019",
+  "code": "#CSGO_Ticket_CommunitySeasonNine2019",
   "description": "Az Operation Shattered Web esemény 2019. november 18-tól 2020. március 31-ig tartott. Ez a belépő már nem ad hozzáférést Operation eseményhez, de beváltható egy Operation Shattered Web emlékéremre.",
   "rarity": {
    "id": "rarity_common",
@@ -3600,6 +4114,8 @@
  {
   "id": "collectible-4550",
   "name": "Operation Shattered Web Érdemérem",
+  "name_original": "Collectible_CommunitySeasonNine2019_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
   "description": "Részt vett az Operation Shattered Weben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3614,6 +4130,8 @@
  {
   "id": "collectible-4551",
   "name": "Ezüst Operation Shattered Web Érme",
+  "name_original": "Collectible_CommunitySeasonNine2019_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
   "description": "Részt vett az Operation Shattered Weben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3628,6 +4146,8 @@
  {
   "id": "collectible-4552",
   "name": "Arany Operation Shattered Web Érme",
+  "name_original": "Collectible_CommunitySeasonNine2019_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
   "description": "Részt vett az Operation Shattered Weben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3642,6 +4162,8 @@
  {
   "id": "collectible-4553",
   "name": "Gyémánt Operation Shattered Web Érme",
+  "name_original": "Collectible_CommunitySeasonNine2019_Coin4",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
   "description": "Teljesítette az Operation Shattered Webet.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3656,6 +4178,8 @@
  {
   "id": "collectible-4554",
   "name": "Katowice 2019 nézői belépő",
+  "name_original": "TournamentPass_katowice2019",
+  "code": "#CSGO_TournamentPass_katowice2019",
   "description": "Ez egy lezárt IEM Katowice 2019 CS:GO Major Bajnokság nézői belépő. Felbontása után megkapod a Katowice 2019 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Katowice 2019 Válassz! Kihíváshoz, exkluzív hozzáférést ad emlékcsomagokhoz, Steam.tv csevegésdíszekhez, és korlátlan csapatfalfirkákat ad az esemény ideje alatt.\\n\\nKihívások teljesítésével fejlesztheted Katowice 2019 érmedet. Valahányszor fejleszted az érmedet, emlékcsomagot vehetsz fel.",
   "rarity": {
    "id": "rarity_common",
@@ -3670,6 +4194,8 @@
  {
   "id": "collectible-4555",
   "name": "Katowice 2019 Érme",
+  "name_original": "TournamentJournal_katowice2019",
+  "code": "#CSGO_TournamentJournal_katowice2019",
   "description": "Ez egy IEM Katowice 2019 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Katowice 2019 Válassz! Kihíváshoz, exkluzív hozzáférést ad emlékcsomagokhoz, Steam.tv csevegésdíszekhez, és korlátlan csapatfalfirkákat ad az esemény ideje alatt.\\n\\nKihívások teljesítésével fejlesztheted Katowice 2019 érmedet. Valahányszor fejleszted az érmedet, emlékcsomagot vehetsz fel.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3684,6 +4210,8 @@
  {
   "id": "collectible-4556",
   "name": "Katowice 2019 Ezüst Érme",
+  "name_original": "TournamentJournal_katowice2019_Silver",
+  "code": "#CSGO_TournamentJournal_katowice2019_Silver",
   "description": "Ez egy IEM Katowice 2019 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Katowice 2019 Válassz! Kihíváshoz, exkluzív hozzáférést ad emlékcsomagokhoz, Steam.tv csevegésdíszekhez, és korlátlan csapatfalfirkákat ad az esemény ideje alatt.\\n\\nKihívások teljesítésével fejlesztheted Katowice 2019 érmedet. Valahányszor fejleszted az érmedet, emlékcsomagot vehetsz fel.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3698,6 +4226,8 @@
  {
   "id": "collectible-4557",
   "name": "Katowice 2019 Arany Érme",
+  "name_original": "TournamentJournal_katowice2019_Gold",
+  "code": "#CSGO_TournamentJournal_katowice2019_Gold",
   "description": "Ez egy IEM Katowice 2019 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Katowice 2019 Válassz! Kihíváshoz, exkluzív hozzáférést ad emlékcsomagokhoz, Steam.tv csevegésdíszekhez, és korlátlan csapatfalfirkákat ad az esemény ideje alatt.\\n\\nKihívások teljesítésével fejlesztheted Katowice 2019 érmedet. Valahányszor fejleszted az érmedet, emlékcsomagot vehetsz fel.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3712,6 +4242,8 @@
  {
   "id": "collectible-4558",
   "name": "Katowice 2019 Gyémánt Érme",
+  "name_original": "TournamentJournal_katowice2019_Crystal",
+  "code": "#CSGO_TournamentJournal_katowice2019_Crystal",
   "description": "Ez egy IEM Katowice 2019 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Katowice 2019 Válassz! Kihíváshoz, exkluzív hozzáférést ad emlékcsomagokhoz, Steam.tv csevegésdíszekhez, és korlátlan csapatfalfirkákat ad az esemény ideje alatt.\\n\\nKihívások teljesítésével fejlesztheted Katowice 2019 érmedet. Valahányszor fejleszted az érmedet, emlékcsomagot vehetsz fel.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3726,6 +4258,8 @@
  {
   "id": "collectible-4622",
   "name": "Berlin 2019 nézői belépő",
+  "name_original": "TournamentPass_berlin2019",
+  "code": "#CSGO_TournamentPass_berlin2019",
   "description": "Ez egy lezárt StarLadder Berlin 2019 CS:GO Major Bajnokság nézői belépő. Felbontása után megkapod a Berlin 2019 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Berlin 2019 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Berlin 2019 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_common",
@@ -3740,6 +4274,8 @@
  {
   "id": "collectible-4623",
   "name": "Berlin 2019 Érme",
+  "name_original": "TournamentJournal_berlin2019",
+  "code": "#CSGO_TournamentJournal_berlin2019",
   "description": "Ez egy StarLadder Berlin 2019 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Berlin 2019 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Berlin 2019 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3754,6 +4290,8 @@
  {
   "id": "collectible-4624",
   "name": "Berlin 2019 Ezüst Érme",
+  "name_original": "TournamentJournal_berlin2019_Silver",
+  "code": "#CSGO_TournamentJournal_berlin2019_Silver",
   "description": "Ez egy StarLadder Berlin 2019 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Berlin 2019 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Berlin 2019 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3768,6 +4306,8 @@
  {
   "id": "collectible-4625",
   "name": "Berlin 2019 Arany Érme",
+  "name_original": "TournamentJournal_berlin2019_Gold",
+  "code": "#CSGO_TournamentJournal_berlin2019_Gold",
   "description": "Ez egy StarLadder Berlin 2019 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Berlin 2019 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Berlin 2019 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3782,6 +4322,8 @@
  {
   "id": "collectible-4626",
   "name": "Berlin 2019 Gyémánt Érme",
+  "name_original": "TournamentJournal_berlin2019_Crystal",
+  "code": "#CSGO_TournamentJournal_berlin2019_Crystal",
   "description": "Ez egy StarLadder Berlin 2019 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Berlin 2019 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Berlin 2019 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3796,6 +4338,8 @@
  {
   "id": "collectible-4627",
   "name": "Berlin 2019 nézői belépő + 3 emléktárgy-zseton",
+  "name_original": "TournamentPass_berlin2019_pack",
+  "code": "#CSGO_TournamentPass_berlin2019_pack",
   "description": "Ez egy lezárt StarLadder Berlin 2019 CS:GO Major Bajnokság nézői belépő. Felbontása után megkapod a Berlin 2019 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Berlin 2019 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nBerlin 2019 érmedet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.\\n\\nEz a nézői belépő előre aktiválni fogja Berlin 2019 Érmédet 3 emléktárgy-zsetonnal.",
   "rarity": {
    "id": "rarity_common",
@@ -3810,6 +4354,8 @@
  {
   "id": "collectible-4628",
   "name": "Berlin 2019 Emléktárgy-zseton",
+  "name_original": "TournamentPass_berlin2019_charge",
+  "code": "#CSGO_TournamentPass_berlin2019_charge",
   "description": "Ez egy lezárt StarLadder Berlin 2019 CS:GO Major Bajnokság emléktárgy-zseton. Felbontása után hozzáad egy zsetont Berlin 2019 Érmédhez, és lehetővé teszi, hogy felvehess egy Emlékcsomagot.\\n\\nA zsetonok csak már meglévő Berlin 2019 Érmédhez adhatók hozzá.",
   "rarity": {
    "id": "rarity_common",
@@ -3824,6 +4370,8 @@
  {
   "id": "collectible-4671",
   "name": "1 csillag az Operation Shattered Webhez",
+  "name_original": "Collectible_CommunitySeasonNine2019_PlusStars1",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
   "description": "Ez a megvásárolható Operation csillagfejlesztés aktiválásakor <b>1 Operation csillagot</b> ad.\\n\\nEz az Operation csillagfejlesztés csak azon játékosoknak érhető el, akik rendelkeznek az Operation Érmével.",
   "rarity": {
    "id": "rarity_common",
@@ -3838,6 +4386,8 @@
  {
   "id": "collectible-4672",
   "name": "10 csillag az Operation Shattered Webhez",
+  "name_original": "Collectible_CommunitySeasonNine2019_PlusStars10",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
   "description": "Ez a megvásárolható Operation csillagfejlesztés aktiválásakor <b>10 Operation csillagot</b> ad.\\n\\nEz az Operation csillagfejlesztés csak azon játékosoknak érhető el, akik rendelkeznek az Operation Érmével.",
   "rarity": {
    "id": "rarity_common",
@@ -3852,6 +4402,8 @@
  {
   "id": "collectible-4673",
   "name": "100 csillag az Operation Shattered Webhez",
+  "name_original": "Collectible_CommunitySeasonNine2019_PlusStars100",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
   "description": "Ez a megvásárolható Operation csillagfejlesztés aktiválásakor <b>100 Operation csillagot</b> ad.\\n\\nEz az Operation csillagfejlesztés csak azon játékosoknak érhető el, akik rendelkeznek az Operation Érmével.",
   "rarity": {
    "id": "rarity_common",
@@ -3866,6 +4418,8 @@
  {
   "id": "collectible-4674",
   "name": "2020-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "A 2020-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3880,6 +4434,8 @@
  {
   "id": "collectible-4675",
   "name": "2020-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "A 2020-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3894,6 +4450,8 @@
  {
   "id": "collectible-4676",
   "name": "2020-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "A 2020-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3908,6 +4466,8 @@
  {
   "id": "collectible-4677",
   "name": "2020-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "A 2020-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3922,6 +4482,8 @@
  {
   "id": "collectible-4678",
   "name": "2020-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "A 2020-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3936,6 +4498,8 @@
  {
   "id": "collectible-4679",
   "name": "2020-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "A 2020-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3950,6 +4514,8 @@
  {
   "id": "collectible-4682",
   "name": "Polgárvédelem kitűző",
+  "name_original": "Collectible_Pin_alyx_04",
+  "code": "#CSGO_Collectible_Pin_alyx_04",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -3964,6 +4530,8 @@
  {
   "id": "collectible-4683",
   "name": "Táplálék! kitűző",
+  "name_original": "Collectible_Pin_alyx_07",
+  "code": "#CSGO_Collectible_Pin_alyx_07",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -3978,6 +4546,8 @@
  {
   "id": "collectible-4684",
   "name": "Villámujjú kitűző",
+  "name_original": "Collectible_Pin_alyx_09",
+  "code": "#CSGO_Collectible_Pin_alyx_09",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -3992,6 +4562,8 @@
  {
   "id": "collectible-4685",
   "name": "Fejrágó Rajzolat kitűző",
+  "name_original": "Collectible_Pin_alyx_05",
+  "code": "#CSGO_Collectible_Pin_alyx_05",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -4006,6 +4578,8 @@
  {
   "id": "collectible-4686",
   "name": "Egészség kitűző",
+  "name_original": "Collectible_Pin_alyx_12",
+  "code": "#CSGO_Collectible_Pin_alyx_12",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -4020,6 +4594,8 @@
  {
   "id": "collectible-4687",
   "name": "Lambda kitűző",
+  "name_original": "Collectible_Pin_alyx_01",
+  "code": "#CSGO_Collectible_Pin_alyx_01",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -4034,6 +4610,8 @@
  {
   "id": "collectible-4688",
   "name": "Réz Lambda kitűző",
+  "name_original": "Collectible_Pin_alyx_02",
+  "code": "#CSGO_Collectible_Pin_alyx_02",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -4048,6 +4626,8 @@
  {
   "id": "collectible-4689",
   "name": "CMB kitűző",
+  "name_original": "Collectible_Pin_alyx_03",
+  "code": "#CSGO_Collectible_Pin_alyx_03",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -4062,6 +4642,8 @@
  {
   "id": "collectible-4690",
   "name": "Black Mesa kitűző",
+  "name_original": "Collectible_Pin_alyx_06",
+  "code": "#CSGO_Collectible_Pin_alyx_06",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -4076,6 +4658,8 @@
  {
   "id": "collectible-4691",
   "name": "Társulási Sisak kitűző",
+  "name_original": "Collectible_Pin_alyx_08",
+  "code": "#CSGO_Collectible_Pin_alyx_08",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -4090,6 +4674,8 @@
  {
   "id": "collectible-4692",
   "name": "17-es Város kitűző",
+  "name_original": "Collectible_Pin_alyx_11",
+  "code": "#CSGO_Collectible_Pin_alyx_11",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -4104,6 +4690,8 @@
  {
   "id": "collectible-4699",
   "name": "Operation Broken Fang prémium belépő",
+  "name_original": "Ticket_CommunitySeasonTen2020",
+  "code": "#CSGO_Ticket_CommunitySeasonTen2020",
   "description": "Az Operation Broken Fang esemény 2020. december 3-tól 2021. április 30-ig tartott. Ez a belépő már nem ad hozzáférést Operation eseményhez, de beváltható egy Operation Broken Fang emlékéremre.",
   "rarity": {
    "id": "rarity_common",
@@ -4118,6 +4706,8 @@
  {
   "id": "collectible-4700",
   "name": "Operation Broken Fang Érdemérem",
+  "name_original": "Collectible_CommunitySeasonTen2020_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
   "description": "Részt vett az Operation Broken Fangben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4132,6 +4722,8 @@
  {
   "id": "collectible-4701",
   "name": "Ezüst Operation Broken Fang Érem",
+  "name_original": "Collectible_CommunitySeasonTen2020_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
   "description": "Részt vett az Operation Broken Fangben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4146,6 +4738,8 @@
  {
   "id": "collectible-4702",
   "name": "Arany Operation Broken Fang Érem",
+  "name_original": "Collectible_CommunitySeasonTen2020_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
   "description": "Részt vett az Operation Broken Fangben.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4160,6 +4754,8 @@
  {
   "id": "collectible-4703",
   "name": "Gyémánt Operation Broken Fang Érem",
+  "name_original": "Collectible_CommunitySeasonTen2020_Coin4",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
   "description": "Teljesítette az Operation Broken Fanget.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4174,6 +4770,8 @@
  {
   "id": "collectible-4704",
   "name": "1 csillag az Operation Broken Fanghez",
+  "name_original": "Collectible_CommunitySeasonTen2020_PlusStars1",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
   "description": "Ez a megvásárolható Operation csillagfejlesztés aktiváláskor <b>1 Operation csillagot</b> ad.",
   "rarity": {
    "id": "rarity_common",
@@ -4188,6 +4786,8 @@
  {
   "id": "collectible-4705",
   "name": "10 csillag az Operation Broken Fanghez",
+  "name_original": "Collectible_CommunitySeasonTen2020_PlusStars10",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
   "description": "Ez a megvásárolható Operation csillagfejlesztés aktiváláskor <b>10 Operation csillagot</b> ad.",
   "rarity": {
    "id": "rarity_common",
@@ -4202,6 +4802,8 @@
  {
   "id": "collectible-4706",
   "name": "100 csillag az Operation Broken Fanghez",
+  "name_original": "Collectible_CommunitySeasonTen2020_PlusStars100",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
   "description": "Ez a megvásárolható Operation csillagfejlesztés aktiváláskor <b>100 Operation csillagot</b> ad.",
   "rarity": {
    "id": "rarity_common",
@@ -4216,6 +4818,8 @@
  {
   "id": "collectible-4737",
   "name": "2021-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "A 2021-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4230,6 +4834,8 @@
  {
   "id": "collectible-4738",
   "name": "2021-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "A 2021-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4244,6 +4850,8 @@
  {
   "id": "collectible-4739",
   "name": "2021-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "A 2021-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4258,6 +4866,8 @@
  {
   "id": "collectible-4740",
   "name": "2021-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "A 2021-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4272,6 +4882,8 @@
  {
   "id": "collectible-4741",
   "name": "2021-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "A 2021-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4286,6 +4898,8 @@
  {
   "id": "collectible-4742",
   "name": "2021-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "A 2021-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4300,6 +4914,8 @@
  {
   "id": "collectible-4758",
   "name": "Operation Riptide prémium belépő",
+  "name_original": "Ticket_CommunitySeasonEleven2021",
+  "code": "#CSGO_Ticket_CommunitySeasonEleven2021",
   "description": "Az Operation Riptide prémium belépő ad egy fejleszthető Operation Riptide emlékérmet, heti küldetéseket, és hozzáférést exkluzív tárgyakhoz az Operation boltban.",
   "rarity": {
    "id": "rarity_common",
@@ -4314,6 +4930,8 @@
  {
   "id": "collectible-4759",
   "name": "Operation Riptide Érdemérem",
+  "name_original": "Collectible_CommunitySeasonEleven2021_Coin1",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
   "description": "Részt vett az Operation Riptide-ban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4328,6 +4946,8 @@
  {
   "id": "collectible-4760",
   "name": "Ezüst Operation Riptide Érem",
+  "name_original": "Collectible_CommunitySeasonEleven2021_Coin2",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
   "description": "Részt vett az Operation Riptide-ban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4342,6 +4962,8 @@
  {
   "id": "collectible-4761",
   "name": "Arany Operation Riptide Érem",
+  "name_original": "Collectible_CommunitySeasonEleven2021_Coin3",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
   "description": "Részt vett az Operation Riptide-ban.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4356,6 +4978,8 @@
  {
   "id": "collectible-4762",
   "name": "Gyémánt Operation Riptide Érem",
+  "name_original": "Collectible_CommunitySeasonEleven2021_Coin4",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
   "description": "Teljesítette az Operation Riptide-ot.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4370,6 +4994,8 @@
  {
   "id": "collectible-4763",
   "name": "1 csillag az Operation Riptide-hoz",
+  "name_original": "Collectible_CommunitySeasonEleven2021_PlusStars1",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
   "description": "Ez a megvásárolható Operation csillagfejlesztés aktiváláskor <b>1 Operation csillagot</b> ad.",
   "rarity": {
    "id": "rarity_common",
@@ -4384,6 +5010,8 @@
  {
   "id": "collectible-4764",
   "name": "10 csillag az Operation Riptide-hoz",
+  "name_original": "Collectible_CommunitySeasonEleven2021_PlusStars10",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
   "description": "Ez a megvásárolható Operation csillagfejlesztés aktiváláskor <b>10 Operation csillagot</b> ad.",
   "rarity": {
    "id": "rarity_common",
@@ -4398,6 +5026,8 @@
  {
   "id": "collectible-4765",
   "name": "100 csillag az Operation Riptide-hoz",
+  "name_original": "Collectible_CommunitySeasonEleven2021_PlusStars100",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
   "description": "Ez a megvásárolható Operation csillagfejlesztés aktiváláskor <b>100 Operation csillagot</b> ad.",
   "rarity": {
    "id": "rarity_common",
@@ -4412,6 +5042,8 @@
  {
   "id": "collectible-4796",
   "name": "Stockholm 2021 Nézői Belépő",
+  "name_original": "TournamentPass_stockh2021",
+  "code": "#CSGO_TournamentPass_stockh2021",
   "description": "Ez egy lezárt PGL Stockholm 2021 CS:GO Major Bajnokság nézői belépő. Felbontása után megkapod a Stockholm 2021 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Stockholm 2021 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nStockholm 2021 érmedet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -4426,6 +5058,8 @@
  {
   "id": "collectible-4797",
   "name": "Stockholm 2021 Érme",
+  "name_original": "TournamentJournal_stockh2021",
+  "code": "#CSGO_TournamentJournal_stockh2021",
   "description": "Ez egy PGL 2021 Stockholm CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Stockholm 2021 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Stockholm 2021 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4440,6 +5074,8 @@
  {
   "id": "collectible-4798",
   "name": "Stockholm 2021 Ezüst Érme",
+  "name_original": "TournamentJournal_stockh2021_Silver",
+  "code": "#CSGO_TournamentJournal_stockh2021_Silver",
   "description": "Ez egy PGL 2021 Stockholm CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Stockholm 2021 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Stockholm 2021 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4454,6 +5090,8 @@
  {
   "id": "collectible-4799",
   "name": "Stockholm 2021 Arany Érme",
+  "name_original": "TournamentJournal_stockh2021_Gold",
+  "code": "#CSGO_TournamentJournal_stockh2021_Gold",
   "description": "Ez egy PGL 2021 Stockholm CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Stockholm 2021 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Stockholm 2021 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4468,6 +5106,8 @@
  {
   "id": "collectible-4800",
   "name": "Stockholm 2021 Gyémánt Érme",
+  "name_original": "TournamentJournal_stockh2021_Crystal",
+  "code": "#CSGO_TournamentJournal_stockh2021_Crystal",
   "description": "Ez egy PGL 2021 Stockholm CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Stockholm 2021 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Stockholm 2021 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4482,6 +5122,8 @@
  {
   "id": "collectible-4801",
   "name": "Stockholm 2021 nézői belépő + 3 emléktárgy-zseton",
+  "name_original": "TournamentPass_stockh2021_pack",
+  "code": "#CSGO_TournamentPass_stockh2021_pack",
   "description": "Ez egy lezárt PGL Stockholm 2021 CS:GO Major Bajnokság nézői belépő. Felbontása után megkapod a Stockholm 2021 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Stockholm 2021 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nStockholm 2021 érmedet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nEz a nézői belépő előre aktiválni fogja Stockholm 2021 Érmédet 3 emléktárgy-zsetonnal.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -4496,6 +5138,8 @@
  {
   "id": "collectible-4802",
   "name": "Stockholm 2021 Emléktárgy-zseton",
+  "name_original": "TournamentPass_stockh2021_charge",
+  "code": "#CSGO_TournamentPass_stockh2021_charge",
   "description": "Ez egy lezárt PGL 2021 Stockholm CS:GO Major Bajnokság emléktárgy-zseton. Felbontása után hozzáad egy zsetont Stockholm 2021 Érmédhez, és lehetővé teszi, hogy felvehess egy Emlékcsomagot.\\n\\nA zsetonok csak már meglévő Stockholm 2021 Érmédhez adhatók hozzá.",
   "rarity": {
    "id": "rarity_common",
@@ -4510,6 +5154,8 @@
  {
   "id": "collectible-4819",
   "name": "2022-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "A 2022-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4524,6 +5170,8 @@
  {
   "id": "collectible-4820",
   "name": "2022-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "A 2022-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4538,6 +5186,8 @@
  {
   "id": "collectible-4821",
   "name": "2022-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "A 2022-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4552,6 +5202,8 @@
  {
   "id": "collectible-4822",
   "name": "2022-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "A 2022-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4566,6 +5218,8 @@
  {
   "id": "collectible-4823",
   "name": "2022-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "A 2022-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4580,6 +5234,8 @@
  {
   "id": "collectible-4824",
   "name": "2022-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "A 2022-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4594,6 +5250,8 @@
  {
   "id": "collectible-4825",
   "name": "Antwerp 2022 nézői belépő",
+  "name_original": "TournamentPass_antwerp2022",
+  "code": "#CSGO_TournamentPass_antwerp2022",
   "description": "Ez egy lezárt PGL Antwerp 2022 CS:GO Major Bajnokság nézői belépő. Felbontása után megkapod az Antwerp 2022 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad az Antwerp 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nAntwerp 2022 érmedet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -4608,6 +5266,8 @@
  {
   "id": "collectible-4826",
   "name": "Antwerp 2022 Érme",
+  "name_original": "TournamentJournal_antwerp2022",
+  "code": "#CSGO_TournamentJournal_antwerp2022",
   "description": "Ez egy PGL Antwerp 2022 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad az Antwerp 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Antwerp 2022 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4622,6 +5282,8 @@
  {
   "id": "collectible-4827",
   "name": "Antwerp 2022 Ezüst Érme",
+  "name_original": "TournamentJournal_antwerp2022_Silver",
+  "code": "#CSGO_TournamentJournal_antwerp2022_Silver",
   "description": "Ez egy PGL Antwerp 2022 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad az Antwerp 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Antwerp 2022 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4636,6 +5298,8 @@
  {
   "id": "collectible-4828",
   "name": "Antwerp 2022 Arany Érme",
+  "name_original": "TournamentJournal_antwerp2022_Gold",
+  "code": "#CSGO_TournamentJournal_antwerp2022_Gold",
   "description": "Ez egy PGL Antwerp 2022 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad az Antwerp 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Antwerp 2022 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4650,6 +5314,8 @@
  {
   "id": "collectible-4829",
   "name": "Antwerp 2022 Gyémánt Érme",
+  "name_original": "TournamentJournal_antwerp2022_Crystal",
+  "code": "#CSGO_TournamentJournal_antwerp2022_Crystal",
   "description": "Ez egy PGL Antwerp 2022 CS:GO Major Bajnokság emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad az Antwerp 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Antwerp 2022 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4664,6 +5330,8 @@
  {
   "id": "collectible-4830",
   "name": "Antwerp 2022 nézői belépő + 3 emléktárgy-zseton",
+  "name_original": "TournamentPass_antwerp2022_pack",
+  "code": "#CSGO_TournamentPass_antwerp2022_pack",
   "description": "Ez egy lezárt PGL Antwerp 2022 CS:GO Major Bajnokság nézői belépő. Felbontása után megkapod az Antwerp 2022 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad az Antwerp 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nAntwerp 2022 érmedet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nEz a nézői belépő előre aktiválni fogja Antwerp 2022 Érmédet 3 emléktárgy-zsetonnal.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -4678,6 +5346,8 @@
  {
   "id": "collectible-4831",
   "name": "Antwerp 2022 Emléktárgy-zseton",
+  "name_original": "TournamentPass_antwerp2022_charge",
+  "code": "#CSGO_TournamentPass_antwerp2022_charge",
   "description": "Ez egy lezárt PGL Antwerp 2022 CS:GO Major Bajnokság emléktárgy-zseton. Felbontása után hozzáad egy zsetont Antwerp 2022 Érmédhez, és lehetővé teszi, hogy felvehess egy Emlékcsomagot.\\n\\nA zsetonok csak már meglévő Antwerp 2022 Érmédhez adhatók hozzá.",
   "rarity": {
    "id": "rarity_common",
@@ -4692,6 +5362,8 @@
  {
   "id": "collectible-4850",
   "name": "Rio 2022 nézői belépő",
+  "name_original": "TournamentPass_rio2022",
+  "code": "#CSGO_TournamentPass_rio2022",
   "description": "Ez egy lezárt IEM Rio 2022 CS:GO Major Bajnokság Nézői belépő. Felbontása után megkapod a Rio 2022 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Rio 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nRio 2022 érmedet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -4706,6 +5378,8 @@
  {
   "id": "collectible-4851",
   "name": "Rio 2022 Érme",
+  "name_original": "TournamentJournal_rio2022",
+  "code": "#CSGO_TournamentJournal_rio2022",
   "description": "Ez egy IEM Rio 2022 CS:GO Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Rio 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Rio 2022 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4720,6 +5394,8 @@
  {
   "id": "collectible-4852",
   "name": "Rio 2022 Ezüst Érme",
+  "name_original": "TournamentJournal_rio2022_Silver",
+  "code": "#CSGO_TournamentJournal_rio2022_Silver",
   "description": "Ez egy IEM Rio 2022 CS:GO Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Rio 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Rio 2022 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4734,6 +5410,8 @@
  {
   "id": "collectible-4853",
   "name": "Rio 2022 Arany Érme",
+  "name_original": "TournamentJournal_rio2022_Gold",
+  "code": "#CSGO_TournamentJournal_rio2022_Gold",
   "description": "Ez egy IEM Rio 2022 CS:GO Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Rio 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Rio 2022 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4748,6 +5426,8 @@
  {
   "id": "collectible-4854",
   "name": "Rio 2022 Gyémánt Érme",
+  "name_original": "TournamentJournal_rio2022_Crystal",
+  "code": "#CSGO_TournamentJournal_rio2022_Crystal",
   "description": "Ez egy IEM Rio 2022 CS:GO Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Rio 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Rio 2022 érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4762,6 +5442,8 @@
  {
   "id": "collectible-4855",
   "name": "Rio 2022 nézői belépő + 3 emléktárgy-zseton",
+  "name_original": "TournamentPass_rio2022_pack",
+  "code": "#CSGO_TournamentPass_rio2022_pack",
   "description": "Ez egy lezárt IEM Rio 2022 CS:GO Major Bajnokság Nézői belépő. Felbontása után megkapod a Rio 2022 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Rio 2022 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nRio 2022 érmedet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nEz a nézői belépő előre aktiválni fogja Rio 2022 Érmédet 3 emléktárgy-zsetonnal.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -4776,6 +5458,8 @@
  {
   "id": "collectible-4856",
   "name": "Rio 2022 Emléktárgy-zseton",
+  "name_original": "TournamentPass_rio2022_charge",
+  "code": "#CSGO_TournamentPass_rio2022_charge",
   "description": "Ez egy lezárt IEM Rio 2022 CS:GO Major Bajnokság Emléktárgy-zseton. Felbontása után hozzáad egy zsetont Rio 2022 Érmédhez, és lehetővé teszi, hogy felvehess egy Emlékcsomagot.\\n\\nA zsetonok csak már meglévő Rio 2022 Érmédhez adhatók hozzá.",
   "rarity": {
    "id": "rarity_common",
@@ -4790,6 +5474,8 @@
  {
   "id": "collectible-4873",
   "name": "2023-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "A 2023-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4804,6 +5490,8 @@
  {
   "id": "collectible-4874",
   "name": "2023-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "A 2023-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4818,6 +5506,8 @@
  {
   "id": "collectible-4875",
   "name": "2023-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "A 2023-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4832,6 +5522,8 @@
  {
   "id": "collectible-4876",
   "name": "2023-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "A 2023-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4846,6 +5538,8 @@
  {
   "id": "collectible-4877",
   "name": "2023-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "A 2023-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4860,6 +5554,8 @@
  {
   "id": "collectible-4878",
   "name": "2023-as Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "A 2023-as kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4874,6 +5570,8 @@
  {
   "id": "collectible-4883",
   "name": "Paris 2023 Nézői belépő",
+  "name_original": "TournamentPass_paris2023",
+  "code": "#CSGO_TournamentPass_paris2023",
   "description": "Ez egy lezárt BLAST.tv Paris 2023 CS:GO Major Bajnokság Nézői belépő. Felbontása után megkapod a Paris 2023 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Paris 2023 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nParis 2023 Érmedet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -4888,6 +5586,8 @@
  {
   "id": "collectible-4884",
   "name": "Paris 2023 Érme",
+  "name_original": "TournamentJournal_paris2023",
+  "code": "#CSGO_TournamentJournal_paris2023",
   "description": "Ez egy BLAST.tv Paris 2023 CS:GO Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Paris 2023 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Paris 2023 Érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4902,6 +5602,8 @@
  {
   "id": "collectible-4885",
   "name": "Paris 2023 Ezüst Érme",
+  "name_original": "TournamentJournal_paris2023_Silver",
+  "code": "#CSGO_TournamentJournal_paris2023_Silver",
   "description": "Ez egy BLAST.tv Paris 2023 CS:GO Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Paris 2023 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Paris 2023 Érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4916,6 +5618,8 @@
  {
   "id": "collectible-4886",
   "name": "Paris 2023 Arany Érme",
+  "name_original": "TournamentJournal_paris2023_Gold",
+  "code": "#CSGO_TournamentJournal_paris2023_Gold",
   "description": "Ez egy BLAST.tv Paris 2023 CS:GO Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Paris 2023 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Paris 2023 Érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4930,6 +5634,8 @@
  {
   "id": "collectible-4887",
   "name": "Paris 2023 Gyémánt Érme",
+  "name_original": "TournamentJournal_paris2023_Crystal",
+  "code": "#CSGO_TournamentJournal_paris2023_Crystal",
   "description": "Ez egy BLAST.tv Paris 2023 CS:GO Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Paris 2023 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Paris 2023 Érmedet érmekihívások teljesítésével. Valahányszor fejleszted az érmedet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4944,6 +5650,8 @@
  {
   "id": "collectible-4888",
   "name": "Paris 2023 Nézői belépő + 3 emléktárgy-zseton",
+  "name_original": "TournamentPass_paris2023_pack",
+  "code": "#CSGO_TournamentPass_paris2023_pack",
   "description": "Ez egy lezárt BLAST.tv Paris 2023 CS:GO Major Bajnokság Nézői belépő. Felbontása után megkapod a Paris 2023 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Paris 2023 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nParis 2023 Érmedet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nEz a nézői belépő előre aktiválni fogja Paris 2023 Érmédet 3 emléktárgy-zsetonnal.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -4958,6 +5666,8 @@
  {
   "id": "collectible-4889",
   "name": "Paris 2023 Emléktárgy-zseton",
+  "name_original": "TournamentPass_paris2023_charge",
+  "code": "#CSGO_TournamentPass_paris2023_charge",
   "description": "Ez egy lezárt BLAST.tv Paris 2023 CS:GO Major Bajnokság Emléktárgy-zseton. Felbontása után hozzáad egy zsetont Paris 2023 Érmédhez, és lehetővé teszi, hogy felvehess egy Emlékcsomagot.\\n\\nA zsetonok csak már meglévő Paris 2023 Érmédhez adhatók hozzá.",
   "rarity": {
    "id": "rarity_common",
@@ -4972,6 +5682,8 @@
  {
   "id": "collectible-4906",
   "name": "2024-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "A 2024-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -4986,6 +5698,8 @@
  {
   "id": "collectible-4907",
   "name": "2024-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "A 2024-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5000,6 +5714,8 @@
  {
   "id": "collectible-4908",
   "name": "2024-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "A 2024-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5014,6 +5730,8 @@
  {
   "id": "collectible-4909",
   "name": "2024-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "A 2024-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5028,6 +5746,8 @@
  {
   "id": "collectible-4910",
   "name": "2024-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "A 2024-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5042,6 +5762,8 @@
  {
   "id": "collectible-4911",
   "name": "2024-es Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "A 2024-es kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5056,6 +5778,8 @@
  {
   "id": "collectible-4916",
   "name": "Copenhagen 2024 Nézői belépő",
+  "name_original": "TournamentPass_cph2024",
+  "code": "#CSGO_TournamentPass_cph2024",
   "description": "Ez egy lezárt PGL Copenhagen 2024 CS2 Major Bajnokság Nézői belépő. Felbontása után megkapod a Copenhagen 2024 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Copenhagen 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nCopenhagen 2024 érmédet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -5070,6 +5794,8 @@
  {
   "id": "collectible-4917",
   "name": "Copenhagen 2024 Érme",
+  "name_original": "TournamentJournal_cph2024",
+  "code": "#CSGO_TournamentJournal_cph2024",
   "description": "Ez egy PGL Copenhagen 2024 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Copenhagen 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Copenhagen 2024 érmédet érmekihívások teljesítésével. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5084,6 +5810,8 @@
  {
   "id": "collectible-4918",
   "name": "Copenhagen 2024 Ezüst Érme",
+  "name_original": "TournamentJournal_cph2024_Silver",
+  "code": "#CSGO_TournamentJournal_cph2024_Silver",
   "description": "Ez egy PGL Copenhagen 2024 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Copenhagen 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Copenhagen 2024 érmédet érmekihívások teljesítésével. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5098,6 +5826,8 @@
  {
   "id": "collectible-4919",
   "name": "Copenhagen 2024 Arany Érme",
+  "name_original": "TournamentJournal_cph2024_Gold",
+  "code": "#CSGO_TournamentJournal_cph2024_Gold",
   "description": "Ez egy PGL Copenhagen 2024 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Copenhagen 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Copenhagen 2024 érmédet érmekihívások teljesítésével. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5112,6 +5842,8 @@
  {
   "id": "collectible-4920",
   "name": "Copenhagen 2024 Gyémánt Érme",
+  "name_original": "TournamentJournal_cph2024_Crystal",
+  "code": "#CSGO_TournamentJournal_cph2024_Crystal",
   "description": "Ez egy PGL Copenhagen 2024 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Copenhagen 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Copenhagen 2024 érmédet érmekihívások teljesítésével. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5126,6 +5858,8 @@
  {
   "id": "collectible-4921",
   "name": "Copenhagen 2024 Nézői belépő + 3 emléktárgy-zseton",
+  "name_original": "TournamentPass_cph2024_pack",
+  "code": "#CSGO_TournamentPass_cph2024_pack",
   "description": "Ez egy lezárt PGL Copenhagen 2024 CS2 Major Bajnokság Nézői belépő. Felbontása után megkapod a Copenhagen 2024 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Copenhagen 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nCopenhagen 2024 érmédet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nEz a nézői belépő előre aktiválni fogja Copenhagen 2024 Érmédet 3 emléktárgy-zsetonnal.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -5140,6 +5874,8 @@
  {
   "id": "collectible-4922",
   "name": "Copenhagen 2024 Emlékcsomag",
+  "name_original": "TournamentPass_cph2024_charge",
+  "code": "#CSGO_TournamentPass_cph2024_charge",
   "description": "Ez egy lezárt PGL Copenhagen 2024 CS2 Major Bajnokság Emléktárgy-csomag.",
   "rarity": {
    "id": "rarity_common",
@@ -5154,6 +5890,8 @@
  {
   "id": "collectible-4933",
   "name": "A PGL Copenhagen 2024 bajnoka",
+  "name_original": "CollectibleCoin_cph2024_Champion",
+  "code": "#CSGO_CollectibleCoin_cph2024_Champion",
   "description": "Ezt a bajnoksági trófeát a PGL Copenhagen 2024 CS2 Major bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5168,6 +5906,8 @@
  {
   "id": "collectible-4934",
   "name": "A PGL Copenhagen 2024 döntőse",
+  "name_original": "CollectibleCoin_cph2024_Finalist",
+  "code": "#CSGO_CollectibleCoin_cph2024_Finalist",
   "description": "Ezt a bajnoksági trófeát a PGL Copenhagen 2024 CS2 Major bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5182,6 +5922,8 @@
  {
   "id": "collectible-4935",
   "name": "A PGL Copenhagen 2024 elődöntőse",
+  "name_original": "CollectibleCoin_cph2024_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
   "description": "Ezt a bajnoksági trófeát a PGL Copenhagen 2024 CS2 Major bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5196,6 +5938,8 @@
  {
   "id": "collectible-4936",
   "name": "A PGL Copenhagen 2024 negyeddöntőse",
+  "name_original": "CollectibleCoin_cph2024_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát a PGL Copenhagen 2024 CS2 Major bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5210,6 +5954,8 @@
  {
   "id": "collectible-4941",
   "name": "Thera Pályaérem",
+  "name_original": "Collectible_MapTokenThera",
+  "code": "#CSGO_Collectible_MapTokenThera",
   "description": "A „Thera” CS2 pálya alkotóinak állít emléket.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5224,6 +5970,8 @@
  {
   "id": "collectible-4942",
   "name": "Mills Pályaérem",
+  "name_original": "Collectible_MapTokenMills",
+  "code": "#CSGO_Collectible_MapTokenMills",
   "description": "A „Mills” CS2 pálya alkotóinak állít emléket.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5238,6 +5986,8 @@
  {
   "id": "collectible-4943",
   "name": "Assembly Pályaérem",
+  "name_original": "Collectible_MapTokenAssembly",
+  "code": "#CSGO_Collectible_MapTokenAssembly",
   "description": "Az „Assembly” CS2 pálya alkotóinak állít emléket.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5252,6 +6002,8 @@
  {
   "id": "collectible-4944",
   "name": "Memento Pályaérem",
+  "name_original": "Collectible_MapTokenMemento",
+  "code": "#CSGO_Collectible_MapTokenMemento",
   "description": "A „Memento” CS2 pálya alkotóinak állít emléket.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5266,6 +6018,8 @@
  {
   "id": "collectible-4945",
   "name": "Pool Day Pályaérem",
+  "name_original": "Collectible_MapTokenPoolDay",
+  "code": "#CSGO_Collectible_MapTokenPoolDay",
   "description": "A „Pool Day” CS2 pálya alkotóinak állít emléket.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5280,6 +6034,8 @@
  {
   "id": "collectible-4951",
   "name": "2025-ös Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "A 2025-ös kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5294,6 +6050,8 @@
  {
   "id": "collectible-4952",
   "name": "2025-ös Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "A 2025-ös kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5308,6 +6066,8 @@
  {
   "id": "collectible-4953",
   "name": "2025-ös Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "A 2025-ös kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5322,6 +6082,8 @@
  {
   "id": "collectible-4954",
   "name": "2025-ös Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "A 2025-ös kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5336,6 +6098,8 @@
  {
   "id": "collectible-4955",
   "name": "2025-ös Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "A 2025-ös kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5350,6 +6114,8 @@
  {
   "id": "collectible-4956",
   "name": "2025-ös Szolgálati Érdemérem",
+  "name_original": "Collectible_GlobalGeneral2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "A 2025-ös kimagasló szolgálatért és teljesítményért jár.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5364,6 +6130,8 @@
  {
   "id": "collectible-4957",
   "name": "Shanghai 2024 Nézői belépő",
+  "name_original": "TournamentPass_sha2024",
+  "code": "#CSGO_TournamentPass_sha2024",
   "description": "Ez egy lezárt Perfect World Shanghai 2024 CS2 Major Bajnokság Nézői belépő. Felbontása után megkapod a Shanghai 2024 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Shanghai 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nShanghai 2024 érmédet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -5378,6 +6146,8 @@
  {
   "id": "collectible-4958",
   "name": "Shanghai 2024 Érme",
+  "name_original": "TournamentJournal_sha2024",
+  "code": "#CSGO_TournamentJournal_sha2024",
   "description": "Ez egy Perfect World Shanghai 2024 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Shanghai 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Shanghai 2024 érmédet érmekihívások teljesítésével. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5392,6 +6162,8 @@
  {
   "id": "collectible-4959",
   "name": "Shanghai 2024 Ezüst Érme",
+  "name_original": "TournamentJournal_sha2024_Silver",
+  "code": "#CSGO_TournamentJournal_sha2024_Silver",
   "description": "Ez egy Perfect World Shanghai 2024 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Shanghai 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Shanghai 2024 érmédet érmekihívások teljesítésével. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5406,6 +6178,8 @@
  {
   "id": "collectible-4960",
   "name": "Shanghai 2024 Arany Érme",
+  "name_original": "TournamentJournal_sha2024_Gold",
+  "code": "#CSGO_TournamentJournal_sha2024_Gold",
   "description": "Ez egy Perfect World Shanghai 2024 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Shanghai 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Shanghai 2024 érmédet érmekihívások teljesítésével. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5420,6 +6194,8 @@
  {
   "id": "collectible-4961",
   "name": "Shanghai 2024 Gyémánt Érme",
+  "name_original": "TournamentJournal_sha2024_Crystal",
+  "code": "#CSGO_TournamentJournal_sha2024_Crystal",
   "description": "Ez egy Perfect World Shanghai 2024 CS2 Major Bajnokság Emlékérme, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Shanghai 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nFejleszd Shanghai 2024 érmédet érmekihívások teljesítésével. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5434,6 +6210,8 @@
  {
   "id": "collectible-4962",
   "name": "Shanghai 2024 Nézői belépő + 3 emléktárgy-zseton",
+  "name_original": "TournamentPass_sha2024_pack",
+  "code": "#CSGO_TournamentPass_sha2024_pack",
   "description": "Ez egy lezárt Perfect World Shanghai 2024 CS2 Major Bajnokság Nézői belépő. Felbontása után megkapod a Shanghai 2024 Érmét, ami követi előrehaladásod az esemény során, teljes hozzáférést ad a Shanghai 2024 Válassz! Kihíváshoz, Steam.tv csevegésdíszekhez, érmekihívásokhoz, és korlátlan játékbeli falfirka használatot ad az esemény ideje alatt.\\n\\nShanghai 2024 érmédet érmekihívások teljesítésével tudod fejleszteni. Valahányszor fejleszted az érmédet, emléktárgy-zsetont kapsz.\\n\\nEz a nézői belépő előre aktiválni fogja Shanghai 2024 Érmédet 3 emléktárgy-zsetonnal.\\n\\nE belépő minden eladásának bevételéből 50% a részt vevő szervezeteket támogatja.",
   "rarity": {
    "id": "rarity_common",
@@ -5448,6 +6226,8 @@
  {
   "id": "collectible-4963",
   "name": "Shanghai 2024 Emlékcsomag",
+  "name_original": "TournamentPass_sha2024_charge",
+  "code": "#CSGO_TournamentPass_sha2024_charge",
   "description": "Ez egy lezárt Perfect World Shanghai 2024 CS2 Major Bajnokság Emléktárgy-csomag.",
   "rarity": {
    "id": "rarity_common",
@@ -5462,6 +6242,8 @@
  {
   "id": "collectible-4974",
   "name": "A Perfect World Shanghai 2024 bajnoka",
+  "name_original": "CollectibleCoin_sha2024_Champion",
+  "code": "#CSGO_CollectibleCoin_sha2024_Champion",
   "description": "Ezt a bajnoksági trófeát a Perfect World Shanghai 2024 CS2 Major bajnokság bajnoka kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5476,6 +6258,8 @@
  {
   "id": "collectible-4975",
   "name": "A Perfect World Shanghai 2024 döntőse",
+  "name_original": "CollectibleCoin_sha2024_Finalist",
+  "code": "#CSGO_CollectibleCoin_sha2024_Finalist",
   "description": "Ezt a bajnoksági trófeát a Perfect World Shanghai 2024 CS2 Major bajnokság döntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5490,6 +6274,8 @@
  {
   "id": "collectible-4976",
   "name": "A Perfect World Shanghai 2024 elődöntőse",
+  "name_original": "CollectibleCoin_sha2024_Semifinalist",
+  "code": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
   "description": "Ezt a bajnoksági trófeát a Perfect World Shanghai 2024 CS2 Major bajnokság elődöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5504,6 +6290,8 @@
  {
   "id": "collectible-4977",
   "name": "A Perfect World Shanghai 2024 negyeddöntőse",
+  "name_original": "CollectibleCoin_sha2024_Quarterfinalist",
+  "code": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
   "description": "Ezt a bajnoksági trófeát a Perfect World Shanghai 2024 CS2 Major bajnokság negyeddöntőse kapta.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5518,6 +6306,8 @@
  {
   "id": "collectible-4982",
   "name": "Whistle Pályaérem",
+  "name_original": "Collectible_MapTokenWhistle",
+  "code": "#CSGO_Collectible_MapTokenWhistle",
   "description": "A „Whistle” CS2 pálya alkotóinak állít emléket.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5532,6 +6322,8 @@
  {
   "id": "collectible-4983",
   "name": "Palais Pályaérem",
+  "name_original": "Collectible_MapTokenPalais",
+  "code": "#CSGO_Collectible_MapTokenPalais",
   "description": "A „Palais” CS2 pálya alkotóinak állít emléket.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5546,6 +6338,8 @@
  {
   "id": "collectible-4984",
   "name": "Edin Pályaérem",
+  "name_original": "Collectible_MapTokenEdin",
+  "code": "#CSGO_Collectible_MapTokenEdin",
   "description": "Az „Edin” CS2 pálya alkotóinak állít emléket.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5560,6 +6354,8 @@
  {
   "id": "collectible-4985",
   "name": "Basalt Pályaérem",
+  "name_original": "Collectible_MapTokenBasaltCS2",
+  "code": "#CSGO_Collectible_MapTokenBasaltCS2",
   "description": "A „Basalt” CS2 pálya alkotóinak állít emléket.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5574,6 +6370,8 @@
  {
   "id": "collectible-4986",
   "name": "Premier Első Szezon Érem",
+  "name_original": "Collectible_PremierSeason1Coin",
+  "code": "#CSGO_Collectible_PremierSeason1Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier első szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5588,6 +6386,8 @@
  {
   "id": "collectible-4987",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5602,6 +6402,8 @@
  {
   "id": "collectible-4988",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5616,6 +6418,8 @@
  {
   "id": "collectible-4989",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5630,6 +6434,8 @@
  {
   "id": "collectible-4990",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5644,6 +6450,8 @@
  {
   "id": "collectible-4991",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5658,6 +6466,8 @@
  {
   "id": "collectible-4992",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5672,6 +6482,8 @@
  {
   "id": "collectible-4993",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5686,6 +6498,8 @@
  {
   "id": "collectible-4994",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5700,6 +6514,8 @@
  {
   "id": "collectible-4995",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5714,6 +6530,8 @@
  {
   "id": "collectible-4996",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5728,6 +6546,8 @@
  {
   "id": "collectible-4997",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5742,6 +6562,8 @@
  {
   "id": "collectible-4998",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5756,6 +6578,8 @@
  {
   "id": "collectible-4999",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5770,6 +6594,8 @@
  {
   "id": "collectible-5000",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5784,6 +6610,8 @@
  {
   "id": "collectible-5001",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5798,6 +6626,8 @@
  {
   "id": "collectible-5002",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5812,6 +6642,8 @@
  {
   "id": "collectible-5003",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5826,6 +6658,8 @@
  {
   "id": "collectible-5004",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5840,6 +6674,8 @@
  {
   "id": "collectible-5005",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5854,6 +6690,8 @@
  {
   "id": "collectible-5006",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5868,6 +6706,8 @@
  {
   "id": "collectible-5007",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5882,6 +6722,8 @@
  {
   "id": "collectible-5008",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5896,6 +6738,8 @@
  {
   "id": "collectible-5009",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5910,6 +6754,8 @@
  {
   "id": "collectible-5010",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5924,6 +6770,8 @@
  {
   "id": "collectible-5011",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5938,6 +6786,8 @@
  {
   "id": "collectible-5012",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5952,6 +6802,8 @@
  {
   "id": "collectible-5013",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5966,6 +6818,8 @@
  {
   "id": "collectible-5014",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5980,6 +6834,8 @@
  {
   "id": "collectible-5015",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -5994,6 +6850,8 @@
  {
   "id": "collectible-5016",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6008,6 +6866,8 @@
  {
   "id": "collectible-5017",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6022,6 +6882,8 @@
  {
   "id": "collectible-5018",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6036,6 +6898,8 @@
  {
   "id": "collectible-5019",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6050,6 +6914,8 @@
  {
   "id": "collectible-5020",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6064,6 +6930,8 @@
  {
   "id": "collectible-5021",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6078,6 +6946,8 @@
  {
   "id": "collectible-5022",
   "name": "Premier Második Szezon Érem",
+  "name_original": "Collectible_PremierSeason2Coin",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Ez egy Premier emlékérem, amelyet a Premier második szezonban való aktív részvételedért kaptál.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6092,6 +6962,8 @@
  {
   "id": "collectible-6001",
   "name": "Dust II kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_DustII",
+  "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6106,6 +6978,8 @@
  {
   "id": "collectible-6002",
   "name": "Elit Védelmező kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_GuardianElite",
+  "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6120,6 +6994,8 @@
  {
   "id": "collectible-6003",
   "name": "Mirage kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_Mirage",
+  "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6134,6 +7010,8 @@
  {
   "id": "collectible-6004",
   "name": "Inferno kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_Inferno",
+  "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6148,6 +7026,8 @@
  {
   "id": "collectible-6005",
   "name": "Italy kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_Italy",
+  "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6162,6 +7042,8 @@
  {
   "id": "collectible-6006",
   "name": "Győzelem kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_Victory",
+  "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6176,6 +7058,8 @@
  {
   "id": "collectible-6007",
   "name": "Militia kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_Militia",
+  "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6190,6 +7074,8 @@
  {
   "id": "collectible-6008",
   "name": "Nuke kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_Nuke",
+  "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6204,6 +7090,8 @@
  {
   "id": "collectible-6009",
   "name": "Train kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_Train",
+  "code": "#CSGO_Collectible_Pin_Train",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6218,6 +7106,8 @@
  {
   "id": "collectible-6010",
   "name": "Védelmező kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_Guardian",
+  "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6232,6 +7122,8 @@
  {
   "id": "collectible-6011",
   "name": "Taktika kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_Tactics",
+  "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6246,6 +7138,8 @@
  {
   "id": "collectible-6012",
   "name": "Védelmező 2 kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_guardian_2",
+  "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6260,6 +7154,8 @@
  {
   "id": "collectible-6013",
   "name": "Bravo kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_bravo",
+  "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6274,6 +7170,8 @@
  {
   "id": "collectible-6014",
   "name": "Baggage kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_baggage",
+  "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6288,6 +7186,8 @@
  {
   "id": "collectible-6015",
   "name": "Phoenix kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_phoenix",
+  "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6302,6 +7202,8 @@
  {
   "id": "collectible-6016",
   "name": "Office kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_office",
+  "code": "#CSGO_Collectible_Pin_office",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6316,6 +7218,8 @@
  {
   "id": "collectible-6017",
   "name": "Cobblestone kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_cobblestone",
+  "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6330,6 +7234,8 @@
  {
   "id": "collectible-6018",
   "name": "Overpass kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_overpass",
+  "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6344,6 +7250,8 @@
  {
   "id": "collectible-6019",
   "name": "Bloodhound kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_bloodhound",
+  "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6358,6 +7266,8 @@
  {
   "id": "collectible-6020",
   "name": "Cache kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_cache",
+  "code": "#CSGO_Collectible_Pin_cache",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6372,6 +7282,8 @@
  {
   "id": "collectible-6021",
   "name": "Valeria Phoenix kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_valeria",
+  "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6386,6 +7298,8 @@
  {
   "id": "collectible-6022",
   "name": "Színözön kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_chroma",
+  "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6400,6 +7314,8 @@
  {
   "id": "collectible-6023",
   "name": "Védelmező 3 kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_guardian_3",
+  "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6414,6 +7330,8 @@
  {
   "id": "collectible-6024",
   "name": "Canals kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_canals",
+  "code": "#CSGO_Collectible_Pin_canals",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6428,6 +7346,8 @@
  {
   "id": "collectible-6025",
   "name": "Üdv a Szólóklubban kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_welcome_to_the_clutch",
+  "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6442,6 +7362,8 @@
  {
   "id": "collectible-6026",
   "name": "Halálos Ítélet kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_death_sentence",
+  "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6456,6 +7378,8 @@
  {
   "id": "collectible-6027",
   "name": "Inferno 2 kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_inferno_2",
+  "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6470,6 +7394,8 @@
  {
   "id": "collectible-6028",
   "name": "Wildfire kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_wildfire",
+  "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6484,6 +7410,8 @@
  {
   "id": "collectible-6029",
   "name": "Kifacsarlak, elhajítlak kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_easy_peasy",
+  "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6498,6 +7426,8 @@
  {
   "id": "collectible-6030",
   "name": "Magas Ász kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_aces_high",
+  "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6512,6 +7442,8 @@
  {
   "id": "collectible-6031",
   "name": "Hydra kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_hydra",
+  "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6526,6 +7458,8 @@
  {
   "id": "collectible-6032",
   "name": "Üvöltés kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_howl",
+  "code": "#CSGO_Collectible_Pin_howl",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6540,6 +7474,8 @@
  {
   "id": "collectible-6033",
   "name": "Dandártábornok kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_brigadier_general",
+  "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6554,6 +7490,8 @@
  {
   "id": "collectible-6034",
   "name": "Alyx kitűző (Eredeti)",
+  "name_original": "Collectible_Pin_alyx_10",
+  "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6568,6 +7506,8 @@
  {
   "id": "collectible-6101",
   "name": "Dust II kitűző",
+  "name_original": "Collectible_Pin_DustII",
+  "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6582,6 +7522,8 @@
  {
   "id": "collectible-6102",
   "name": "Elit Védelmező kitűző",
+  "name_original": "Collectible_Pin_GuardianElite",
+  "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6596,6 +7538,8 @@
  {
   "id": "collectible-6103",
   "name": "Mirage kitűző",
+  "name_original": "Collectible_Pin_Mirage",
+  "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6610,6 +7554,8 @@
  {
   "id": "collectible-6104",
   "name": "Inferno kitűző",
+  "name_original": "Collectible_Pin_Inferno",
+  "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6624,6 +7570,8 @@
  {
   "id": "collectible-6105",
   "name": "Italy kitűző",
+  "name_original": "Collectible_Pin_Italy",
+  "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6638,6 +7586,8 @@
  {
   "id": "collectible-6106",
   "name": "Győzelem kitűző",
+  "name_original": "Collectible_Pin_Victory",
+  "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6652,6 +7602,8 @@
  {
   "id": "collectible-6107",
   "name": "Militia kitűző",
+  "name_original": "Collectible_Pin_Militia",
+  "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6666,6 +7618,8 @@
  {
   "id": "collectible-6108",
   "name": "Nuke kitűző",
+  "name_original": "Collectible_Pin_Nuke",
+  "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6680,6 +7634,8 @@
  {
   "id": "collectible-6109",
   "name": "Train kitűző",
+  "name_original": "Collectible_Pin_Train",
+  "code": "#CSGO_Collectible_Pin_Train",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6694,6 +7650,8 @@
  {
   "id": "collectible-6110",
   "name": "Védelmező kitűző",
+  "name_original": "Collectible_Pin_Guardian",
+  "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6708,6 +7666,8 @@
  {
   "id": "collectible-6111",
   "name": "Taktika kitűző",
+  "name_original": "Collectible_Pin_Tactics",
+  "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Ez egy 1. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6722,6 +7682,8 @@
  {
   "id": "collectible-6112",
   "name": "Védelmező 2 kitűző",
+  "name_original": "Collectible_Pin_guardian_2",
+  "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6736,6 +7698,8 @@
  {
   "id": "collectible-6113",
   "name": "Bravo kitűző",
+  "name_original": "Collectible_Pin_bravo",
+  "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6750,6 +7714,8 @@
  {
   "id": "collectible-6114",
   "name": "Baggage kitűző",
+  "name_original": "Collectible_Pin_baggage",
+  "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6764,6 +7730,8 @@
  {
   "id": "collectible-6115",
   "name": "Phoenix kitűző",
+  "name_original": "Collectible_Pin_phoenix",
+  "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6778,6 +7746,8 @@
  {
   "id": "collectible-6116",
   "name": "Office kitűző",
+  "name_original": "Collectible_Pin_office",
+  "code": "#CSGO_Collectible_Pin_office",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6792,6 +7762,8 @@
  {
   "id": "collectible-6117",
   "name": "Cobblestone kitűző",
+  "name_original": "Collectible_Pin_cobblestone",
+  "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6806,6 +7778,8 @@
  {
   "id": "collectible-6118",
   "name": "Overpass kitűző",
+  "name_original": "Collectible_Pin_overpass",
+  "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6820,6 +7794,8 @@
  {
   "id": "collectible-6119",
   "name": "Bloodhound kitűző",
+  "name_original": "Collectible_Pin_bloodhound",
+  "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6834,6 +7810,8 @@
  {
   "id": "collectible-6120",
   "name": "Cache kitűző",
+  "name_original": "Collectible_Pin_cache",
+  "code": "#CSGO_Collectible_Pin_cache",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6848,6 +7826,8 @@
  {
   "id": "collectible-6121",
   "name": "Valeria Phoenix kitűző",
+  "name_original": "Collectible_Pin_valeria",
+  "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6862,6 +7842,8 @@
  {
   "id": "collectible-6122",
   "name": "Színözön kitűző",
+  "name_original": "Collectible_Pin_chroma",
+  "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Ez egy 2. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -6876,6 +7858,8 @@
  {
   "id": "collectible-6123",
   "name": "Védelmező 3 kitűző",
+  "name_original": "Collectible_Pin_guardian_3",
+  "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6890,6 +7874,8 @@
  {
   "id": "collectible-6124",
   "name": "Canals kitűző",
+  "name_original": "Collectible_Pin_canals",
+  "code": "#CSGO_Collectible_Pin_canals",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6904,6 +7890,8 @@
  {
   "id": "collectible-6125",
   "name": "Üdv a Szólóklubban kitűző",
+  "name_original": "Collectible_Pin_welcome_to_the_clutch",
+  "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6918,6 +7906,8 @@
  {
   "id": "collectible-6126",
   "name": "Halálos Ítélet kitűző",
+  "name_original": "Collectible_Pin_death_sentence",
+  "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_rare",
@@ -6932,6 +7922,8 @@
  {
   "id": "collectible-6127",
   "name": "Inferno 2 kitűző",
+  "name_original": "Collectible_Pin_inferno_2",
+  "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6946,6 +7938,8 @@
  {
   "id": "collectible-6128",
   "name": "Wildfire kitűző",
+  "name_original": "Collectible_Pin_wildfire",
+  "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6960,6 +7954,8 @@
  {
   "id": "collectible-6129",
   "name": "Kifacsarlak, elhajítlak kitűző",
+  "name_original": "Collectible_Pin_easy_peasy",
+  "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_mythical",
@@ -6974,6 +7970,8 @@
  {
   "id": "collectible-6130",
   "name": "Magas Ász kitűző",
+  "name_original": "Collectible_Pin_aces_high",
+  "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -6988,6 +7986,8 @@
  {
   "id": "collectible-6131",
   "name": "Hydra kitűző",
+  "name_original": "Collectible_Pin_hydra",
+  "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_legendary",
@@ -7002,6 +8002,8 @@
  {
   "id": "collectible-6132",
   "name": "Üvöltés kitűző",
+  "name_original": "Collectible_Pin_howl",
+  "code": "#CSGO_Collectible_Pin_howl",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -7016,6 +8018,8 @@
  {
   "id": "collectible-6133",
   "name": "Dandártábornok kitűző",
+  "name_original": "Collectible_Pin_brigadier_general",
+  "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Ez egy 3. szériás gyűjthető kitűző. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",
@@ -7030,6 +8034,8 @@
  {
   "id": "collectible-6134",
   "name": "Alyx kitűző",
+  "name_original": "Collectible_Pin_alyx_10",
+  "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Ez egy gyűjthető kitűző, mely a Half-Life: Alyxnek állít emléket, a Valve VR visszatérésének a Half-Life sorozathoz. Megjeleníthető a profilodon.",
   "rarity": {
    "id": "rarity_ancient",

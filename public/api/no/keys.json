@@ -2,6 +2,8 @@
  {
   "id": "key-generic_valve_key",
   "name": "CS:GO-kassenøkkel",
+  "name_original": "Tool_WeaponCase_Key",
+  "code": "#CSGO_Tool_WeaponCase_Key",
   "description": "Denne nøkkelen vil åpne alle våpenkasser i Valve-serien. Kasser utenom Valve-serien (f.eks. eSports-kasser) krever egne nøkler for å åpne.",
   "crates": [
    {
@@ -32,6 +34,8 @@
  {
   "id": "key-1204",
   "name": "eSports-kassenøkkel",
+  "name_original": "esports_crate_key_1",
+  "code": "#CSGO_esports_crate_key_1",
   "description": "Denne nøkkelen åpner hvilken som helst eSports-kasse.\\n\\n En del av inntektene fra salget av denne nøkkelen vil gå til en av de etablerte samfunnsdrevne CS:GO-turneringene. Følg med for ytterligere kunngjøringer.",
   "crates": [
    {
@@ -57,6 +61,8 @@
  {
   "id": "key-1212",
   "name": "CS:GO-kapselnøkkel",
+  "name_original": "sticker_crate_key_1",
+  "code": "#CSGO_sticker_crate_key_1",
   "description": "Denne nøkkelen vil åpne hvilken som helst kapsel fra Valve-serier.",
   "crates": [
    {
@@ -77,6 +83,8 @@
  {
   "id": "key-1214",
   "name": "Winter Offensive-kassenøkkel",
+  "name_original": "community_crate_key_1",
+  "code": "#CSGO_community_crate_key_1",
   "description": "Denne nøkkelen åpner kun Winter Offensive-kasser.",
   "crates": [
    {
@@ -92,6 +100,8 @@
  {
   "id": "key-1303",
   "name": "Operasjon Phoenix-kassenøkkel",
+  "name_original": "community_crate_key_2",
+  "code": "#CSGO_community_crate_key_2",
   "description": "Denne nøkkelen åpner kun Operasjon Phoenix-kasser",
   "crates": [
    {
@@ -107,6 +117,8 @@
  {
   "id": "key-1304",
   "name": "Nøkkel til Samfunnets klistremerkekapsel 1",
+  "name_original": "sticker_crate_key_community01",
+  "code": "#CSGO_sticker_crate_key_community01",
   "description": "Denne nøkkelen åpner Samfunnets klistremerkekapsel 1.\\n\\nEn andel av inntektene fra salget av denne nøkkelen vil gå til klistremerkenes skapere.",
   "crates": [
    {
@@ -122,6 +134,8 @@
  {
   "id": "key-1305",
   "name": "Huntsman-kassenøkkel",
+  "name_original": "community_crate_key_3",
+  "code": "#CSGO_community_crate_key_3",
   "description": "Denne nøkkelen åpner kun Huntsman-kasser",
   "crates": [
    {
@@ -137,6 +151,8 @@
  {
   "id": "key-1309",
   "name": "Operasjon Breakout-kassenøkkel",
+  "name_original": "community_crate_key_4",
+  "code": "#CSGO_community_crate_key_4",
   "description": "Denne nøkkelen åpner kun Operasjon Breakout-kasser",
   "crates": [
    {
@@ -152,6 +168,8 @@
  {
   "id": "key-1322",
   "name": "Operasjon Vanguard-kassenøkkel",
+  "name_original": "community_crate_key_5",
+  "code": "#CSGO_community_crate_key_5",
   "description": "Denne nøkkelen åpner kun Operasjon Vanguard-kasser",
   "crates": [
    {
@@ -167,6 +185,8 @@
  {
   "id": "key-1323",
   "name": "Chroma-kassenøkkel",
+  "name_original": "community_crate_key_6",
+  "code": "#CSGO_community_crate_key_6",
   "description": "Denne nøkkelen åpner kun Chroma-kasser",
   "crates": [
    {
@@ -182,6 +202,8 @@
  {
   "id": "key-1325",
   "name": "Chroma 2-kassenøkkel",
+  "name_original": "community_crate_key_7",
+  "code": "#CSGO_community_crate_key_7",
   "description": "Denne nøkkelen åpner kun Chroma 2-kasser",
   "crates": [
    {
@@ -197,6 +219,8 @@
  {
   "id": "key-1330",
   "name": "Falchion-kassenøkkel",
+  "name_original": "community_crate_key_8",
+  "code": "#CSGO_community_crate_key_8",
   "description": "Denne nøkkelen åpner bare Falchion-kasser",
   "crates": [
    {
@@ -212,6 +236,8 @@
  {
   "id": "key-1333",
   "name": "Shadow-kassenøkkel",
+  "name_original": "community_crate_key_9",
+  "code": "#CSGO_community_crate_key_9",
   "description": "Denne nøkkelen åpner kun Shadow-kasser",
   "crates": [
    {
@@ -227,6 +253,8 @@
  {
   "id": "key-1334",
   "name": "Revolver-kassenøkkel",
+  "name_original": "crate_community_10_key",
+  "code": "#CSGO_crate_community_10_key",
   "description": "Denne nøkkelen åpner bare Revolver-våpenkasser",
   "crates": [
    {
@@ -242,6 +270,8 @@
  {
   "id": "key-1347",
   "name": "Chroma 3-kassenøkkel",
+  "name_original": "crate_key_community_12",
+  "code": "#CSGO_crate_key_community_12",
   "description": "Denne nøkkelen åpner kun Chroma 3-kasser",
   "crates": [
    {
@@ -257,6 +287,8 @@
  {
   "id": "key-1350",
   "name": "Gamma-kassenøkkel",
+  "name_original": "crate_key_community_13",
+  "code": "#CSGO_crate_key_community_13",
   "description": "Denne nøkkelen åpner kun Gamma-kasser",
   "crates": [
    {
@@ -272,6 +304,8 @@
  {
   "id": "key-1351",
   "name": "Gamma 2-kassenøkkel",
+  "name_original": "crate_key_gamma_2",
+  "code": "#CSGO_crate_key_gamma_2",
   "description": "Denne nøkkelen åpner kun Gamma 2-kasser",
   "crates": [
    {
@@ -287,6 +321,8 @@
  {
   "id": "key-1356",
   "name": "Hanskekassenøkkel",
+  "name_original": "crate_key_community_15",
+  "code": "#CSGO_crate_key_community_15",
   "description": "Denne nøkkelen åpner kun Hanskekasser",
   "crates": [
    {
@@ -302,6 +338,8 @@
  {
   "id": "key-1364",
   "name": "Spectrum-kassenøkkel",
+  "name_original": "crate_key_community_16",
+  "code": "#CSGO_crate_key_community_16",
   "description": "Denne nøkkelen åpner kun Spectrum-kasser",
   "crates": [
    {
@@ -317,6 +355,8 @@
  {
   "id": "key-1365",
   "name": "Operasjon Hydra-kassenøkkel",
+  "name_original": "crate_key_community_17",
+  "code": "#CSGO_crate_key_community_17",
   "description": "Denne nøkkelen åpner kun Operasjon Hydra-kasser",
   "crates": [
    {
@@ -332,6 +372,8 @@
  {
   "id": "key-1366",
   "name": "Spectrum 2-kassenøkkel",
+  "name_original": "crate_key_community_18",
+  "code": "#CSGO_crate_key_community_18",
   "description": "Denne nøkkelen åpner kun Spectrum 2-kasser",
   "crates": [
    {
@@ -347,6 +389,8 @@
  {
   "id": "key-1373",
   "name": "Clutch-kassenøkkel",
+  "name_original": "crate_key_community_19",
+  "code": "#CSGO_crate_key_community_19",
   "description": "Denne nøkkelen åpner kun Clutch-kasser",
   "crates": [
    {
@@ -362,6 +406,8 @@
  {
   "id": "key-1374",
   "name": "Horizon-kassenøkkel",
+  "name_original": "crate_key_community_20",
+  "code": "#CSGO_crate_key_community_20",
   "description": "Denne nøkkelen åpner kun Horizon-kasser",
   "crates": [
    {
@@ -377,6 +423,8 @@
  {
   "id": "key-1375",
   "name": "Faresonekassenøkkel",
+  "name_original": "crate_key_community_21",
+  "code": "#CSGO_crate_key_community_21",
   "description": "Denne nøkkelen åpner kun Faresonekasser",
   "crates": [
    {
@@ -392,6 +440,8 @@
  {
   "id": "key-1383",
   "name": "Prisma-kassenøkkel",
+  "name_original": "crate_key_community_22",
+  "code": "#CSGO_crate_key_community_22",
   "description": "Denne nøkkelen åpner kun Prisma-kasser",
   "crates": [
    {
@@ -407,6 +457,8 @@
  {
   "id": "key-1384",
   "name": "Shattered Web-kassenøkkel",
+  "name_original": "crate_key_community_23",
+  "code": "#CSGO_crate_key_community_23",
   "description": "Denne nøkkelen åpner kun Shattered Web-kasser",
   "crates": [
    {
@@ -422,6 +474,8 @@
  {
   "id": "key-1385",
   "name": "CS20-kassenøkkel",
+  "name_original": "crate_key_community_24",
+  "code": "#CSGO_crate_key_community_24",
   "description": "Denne nøkkelen åpner kun CS20-kasser",
   "crates": [
    {
@@ -437,6 +491,8 @@
  {
   "id": "key-1386",
   "name": "Prisma 2-kassenøkkel",
+  "name_original": "crate_key_community_25",
+  "code": "#CSGO_crate_key_community_25",
   "description": "Denne nøkkelen åpner kun Prisma 2-kasser",
   "crates": [
    {
@@ -452,6 +508,8 @@
  {
   "id": "key-1387",
   "name": "Fracture-kassenøkkel",
+  "name_original": "crate_key_community_26",
+  "code": "#CSGO_crate_key_community_26",
   "description": "Denne nøkkelen åpner kun Fracture-kasser",
   "crates": [
    {
@@ -467,6 +525,8 @@
  {
   "id": "key-1388",
   "name": "Operasjon Broken Fang-kassenøkkel",
+  "name_original": "crate_key_community_27",
+  "code": "#CSGO_crate_key_community_27",
   "description": "Denne nøkkelen åpner kun Operasjon Broken Fang-kasser",
   "crates": [
    {
@@ -482,6 +542,8 @@
  {
   "id": "key-1389",
   "name": "Snakebite-kassenøkkel",
+  "name_original": "crate_key_community_28",
+  "code": "#CSGO_crate_key_community_28",
   "description": "Denne nøkkelen åpner kun Snakebite-kasser",
   "crates": [
    {
@@ -497,6 +559,8 @@
  {
   "id": "key-1390",
   "name": "Operasjon Riptide-kassenøkkel",
+  "name_original": "crate_key_community_29",
+  "code": "#CSGO_crate_key_community_29",
   "description": "Denne nøkkelen åpner kun Operasjon Riptide-kasser",
   "crates": [
    {
@@ -512,6 +576,8 @@
  {
   "id": "key-1391",
   "name": "Drømmer og mareritt-kassenøkkel",
+  "name_original": "crate_key_community_30",
+  "code": "#CSGO_crate_key_community_30",
   "description": "Denne nøkkelen åpner kun Drømmer og mareritt-kasser",
   "crates": [
    {
@@ -527,6 +593,8 @@
  {
   "id": "key-1392",
   "name": "Recoil-kassenøkkel",
+  "name_original": "crate_key_community_31",
+  "code": "#CSGO_crate_key_community_31",
   "description": "Denne nøkkelen åpner kun Recoil-kasser",
   "crates": [
    {
@@ -542,6 +610,8 @@
  {
   "id": "key-1393",
   "name": "Revolution-kassenøkkel",
+  "name_original": "crate_key_community_32",
+  "code": "#CSGO_crate_key_community_32",
   "description": "Denne nøkkelen åpner kun Revolution-kasser",
   "crates": [
    {
@@ -557,6 +627,8 @@
  {
   "id": "key-1394",
   "name": "Kilowatt-kassenøkkel",
+  "name_original": "crate_key_community_33",
+  "code": "#CSGO_crate_key_community_33",
   "description": "Denne nøkkelen åpner kun Kilowatt-kasser",
   "crates": [
    {
@@ -572,6 +644,8 @@
  {
   "id": "key-7000",
   "name": "Operasjon Wildfire-kassenøkkel",
+  "name_original": "crate_key_community_11",
+  "code": "#CSGO_crate_key_community_11",
   "description": "Denne nøkkelen åpner bare Operasjon Wildfire-våpenkasser",
   "crates": [
    {
@@ -587,6 +661,8 @@
  {
   "id": "key-7002",
   "name": "Gallery-kassenøkkel",
+  "name_original": "crate_key_community_34",
+  "code": "#CSGO_crate_key_community_34",
   "description": "Denne nøkkelen åpner kun Gallery-kasser",
   "crates": [
    {
@@ -602,6 +678,8 @@
  {
   "id": "key-7008",
   "name": "Fever Case Key",
+  "name_original": "crate_key_community_35",
+  "code": "#CSGO_crate_key_community_35",
   "description": "This key only opens Fever cases",
   "crates": [
    {
