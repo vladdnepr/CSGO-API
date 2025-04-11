@@ -52,7 +52,6 @@ const parseItem = (item) => {
             ...i,
             name: $t(i.name),
         })),
-        name_original: item.name.replace("#CSGO_", ""), // deprecated
         code: item.name,
         contains: skinsByCollections?.[item.name.replace("#CSGO_", "")].map(
             (i) => ({

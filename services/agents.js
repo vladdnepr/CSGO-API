@@ -16,7 +16,6 @@ const parseItem = (item) => {
     return {
         id: `agent-${item.object_id}`,
         name: $t(item.item_name),
-        name_original: item.name, // deprecated
         code: item.name,
         description: $t(item.item_description),
         rarity: {

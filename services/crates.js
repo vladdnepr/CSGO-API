@@ -122,7 +122,6 @@ const parseItem = (item, prefabs) => {
     return {
         id: `crate-${item.object_id}`,
         name: $t(item.item_name),
-        name_original: item.item_name.replace("#CSGO_", ""), // deprecated
         code: item.item_name,
         description:
             $t(item.item_description) ?? $t(item.item_description_prefab),

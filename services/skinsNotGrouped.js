@@ -154,7 +154,6 @@ const parseItem = (item, items) => {
                     pattern: $t(paintKits[pattern]?.description_tag),
                     wear: $t(wear),
                 }),
-            name_original: items[weapon].name, // deprecated
             code: items[weapon].name,
             description: getDescription(
                 translatedDescription,
@@ -191,7 +190,6 @@ const parseItem = (item, items) => {
                 name: $t(rarity),
                 color: getRarityColor(rarity),
             },
-            paint_index: paintKits[pattern].paint_index,
             ...(dopplerPhase && { phase: dopplerPhase }),
             // Comment this because it makes JSON file too big.
             // collections:
@@ -257,7 +255,6 @@ export const getSkinsNotGrouped = () => {
                     name: $tc(type, {
                         item_name: $t(knife.item_name),
                     }),
-                    name_original: knife.name, // deprecated
                     code: knife.name,
                     description: getVanillaDescription($t(knife.item_description), type === "rare_special_vanilla_stattrak"),
                     weapon: {
