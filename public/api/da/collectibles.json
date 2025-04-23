@@ -2,7 +2,6 @@
  {
   "id": "collectible-874",
   "name": "5-års veteranmønt",
-  "name_original": "CollectibleCoin_FiveYearService",
   "code": "#CSGO_CollectibleCoin_FiveYearService",
   "description": "Har været medlem af Counter-Strike-fællesskabet i over 5 år.",
   "rarity": {
@@ -18,7 +17,6 @@
  {
   "id": "collectible-875",
   "name": "Vinder af DreamHack 2013",
-  "name_original": "CollectibleCoin_DH2013_Champion",
   "code": "#CSGO_CollectibleCoin_DH2013_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved DreamHack SteelSeries 2013 CS:GO-mesterskabet.",
   "rarity": {
@@ -34,7 +32,6 @@
  {
   "id": "collectible-876",
   "name": "Finalist ved DreamHack 2013",
-  "name_original": "CollectibleCoin_DH2013_Finalist",
   "code": "#CSGO_CollectibleCoin_DH2013_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved DreamHack SteelSeries 2013 CS:GO-mesterskabet.",
   "rarity": {
@@ -50,7 +47,6 @@
  {
   "id": "collectible-877",
   "name": "Semifinalist ved DreamHack 2013",
-  "name_original": "CollectibleCoin_DH2013_SemiFinalist",
   "code": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved DreamHack SteelSeries 2013 CS:GO-mesterskabet.",
   "rarity": {
@@ -66,7 +62,6 @@
  {
   "id": "collectible-878",
   "name": "Kvartfinalist ved DreamHack 2013",
-  "name_original": "CollectibleCoin_DH2013_QuarterFinalist",
   "code": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved DreamHack SteelSeries 2013 CS:GO-mesterskabet.",
   "rarity": {
@@ -82,7 +77,6 @@
  {
   "id": "collectible-879",
   "name": "Vinder af EMS One Katowice 2014",
-  "name_original": "CollectibleCoin_Kat2014_Champion",
   "code": "#CSGO_CollectibleCoin_Kat2014_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved EMS One Katowice 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -98,7 +92,6 @@
  {
   "id": "collectible-880",
   "name": "Finalist ved EMS One Katowice 2014",
-  "name_original": "CollectibleCoin_Kat2014_Finalist",
   "code": "#CSGO_CollectibleCoin_Kat2014_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved EMS One Katowice 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -114,7 +107,6 @@
  {
   "id": "collectible-881",
   "name": "Semifinalist ved EMS One Katowice 2014",
-  "name_original": "CollectibleCoin_Kat2014_SemiFinalist",
   "code": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved EMS One Katowice 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -130,7 +122,6 @@
  {
   "id": "collectible-882",
   "name": "Kvartfinalist ved EMS One Katowice 2014",
-  "name_original": "CollectibleCoin_Kat2014_QuarterFinalist",
   "code": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved EMS One Katowice 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -146,7 +137,6 @@
  {
   "id": "collectible-883",
   "name": "Vinder af ESL One Cologne 2014",
-  "name_original": "CollectibleCoin_Cologne2014_Champion",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved ESL One Cologne 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -162,7 +152,6 @@
  {
   "id": "collectible-884",
   "name": "Finalist ved ESL One Cologne 2014",
-  "name_original": "CollectibleCoin_Cologne2014_Finalist",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved ESL One Cologne 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -178,7 +167,6 @@
  {
   "id": "collectible-885",
   "name": "Semifinalist ved ESL One Cologne 2014",
-  "name_original": "CollectibleCoin_Cologne2014_SemiFinalist",
   "code": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved ESL One Cologne 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -194,7 +182,6 @@
  {
   "id": "collectible-886",
   "name": "Kvartfinalist ved ESL One Cologne 2014",
-  "name_original": "CollectibleCoin_Cologne2014_QuarterFinalist",
   "code": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved ESL One Cologne 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -210,7 +197,6 @@
  {
   "id": "collectible-887",
   "name": "Bronze Cologne 2014 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cologne2014_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under ESL One Cologne 2014 Pick'Em-udfordringen.",
   "rarity": {
@@ -226,7 +212,6 @@
  {
   "id": "collectible-888",
   "name": "Sølv Cologne 2014 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cologne2014_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under ESL One Cologne 2014 Pick'Em-udfordringen.",
   "rarity": {
@@ -242,7 +227,6 @@
  {
   "id": "collectible-889",
   "name": "Guld Cologne 2014 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cologne2014_PickEmGold",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under ESL One Cologne 2014 Pick'Em-udfordringen.",
   "rarity": {
@@ -258,7 +242,6 @@
  {
   "id": "collectible-890",
   "name": "Vinder af DreamHack Winter 2014",
-  "name_original": "CollectibleCoin_DHW2014_Champion",
   "code": "#CSGO_CollectibleCoin_DHW2014_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved DreamHack Winter 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -274,7 +257,6 @@
  {
   "id": "collectible-891",
   "name": "Finalist ved DreamHack Winter 2014",
-  "name_original": "CollectibleCoin_DHW2014_Finalist",
   "code": "#CSGO_CollectibleCoin_DHW2014_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved DreamHack Winter 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -290,7 +272,6 @@
  {
   "id": "collectible-892",
   "name": "Semifinalist ved DreamHack Winter 2014",
-  "name_original": "CollectibleCoin_DHW2014_SemiFinalist",
   "code": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved DreamHack Winter 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -306,7 +287,6 @@
  {
   "id": "collectible-893",
   "name": "Kvartfinalist ved DreamHack Winter 2014",
-  "name_original": "CollectibleCoin_DHW2014_QuarterFinalist",
   "code": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved DreamHack Winter 2014 CS:GO-mesterskabet.",
   "rarity": {
@@ -322,7 +302,6 @@
  {
   "id": "collectible-894",
   "name": "Bronze DreamHack 2014 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_DHW2014_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under DreamHack Winter 2014 Pick'Em-udfordringen.",
   "rarity": {
@@ -338,7 +317,6 @@
  {
   "id": "collectible-895",
   "name": "Sølv DreamHack 2014 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_DHW2014_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under DreamHack Winter 2014 Pick'Em-udfordringen.",
   "rarity": {
@@ -354,7 +332,6 @@
  {
   "id": "collectible-896",
   "name": "Guld DreamHack 2014 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_DHW2014_PickEmGold",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under DreamHack Winter 2014 Pick'Em-udfordringen.",
   "rarity": {
@@ -370,7 +347,6 @@
  {
   "id": "collectible-897",
   "name": "Vinder af ESL One Katowice 2015",
-  "name_original": "CollectibleCoin_Kat2015_Champion",
   "code": "#CSGO_CollectibleCoin_Kat2015_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved ESL One Katowice 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -386,7 +362,6 @@
  {
   "id": "collectible-898",
   "name": "Finalist ved ESL One Katowice 2015",
-  "name_original": "CollectibleCoin_Kat2015_Finalist",
   "code": "#CSGO_CollectibleCoin_Kat2015_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved ESL One Katowice 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -402,7 +377,6 @@
  {
   "id": "collectible-899",
   "name": "Semifinalist ved ESL One Katowice 2015",
-  "name_original": "CollectibleCoin_Kat2015_SemiFinalist",
   "code": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved ESL One Katowice 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -418,7 +392,6 @@
  {
   "id": "collectible-900",
   "name": "Kvartfinalist ved ESL One Katowice 2015",
-  "name_original": "CollectibleCoin_Kat2015_QuarterFinalist",
   "code": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved ESL One Katowice 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -434,7 +407,6 @@
  {
   "id": "collectible-901",
   "name": "Bronze Katowice 2015 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Kat2015_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under ESL One Katowice 2015 Pick'Em-udfordringen.",
   "rarity": {
@@ -450,7 +422,6 @@
  {
   "id": "collectible-902",
   "name": "Sølv Katowice 2015 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Kat2015_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under ESL One Katowice 2015 Pick'Em-udfordringen.",
   "rarity": {
@@ -466,7 +437,6 @@
  {
   "id": "collectible-903",
   "name": "Guld Katowice 2015 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Kat2015_PickEmGold",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under ESL One Katowice 2015 Pick'Em-udfordringen.",
   "rarity": {
@@ -482,7 +452,6 @@
  {
   "id": "collectible-904",
   "name": "Vinder af ESL One Cologne 2015",
-  "name_original": "CollectibleCoin_Cologne2015_Champion",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved ESL One Cologne 2015-mesterskabet.",
   "rarity": {
@@ -498,7 +467,6 @@
  {
   "id": "collectible-905",
   "name": "Finalist ved ESL One Cologne 2015",
-  "name_original": "CollectibleCoin_Cologne2015_Finalist",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved ESL One Cologne 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -514,7 +482,6 @@
  {
   "id": "collectible-906",
   "name": "Semifinalist ved ESL One Cologne 2015",
-  "name_original": "CollectibleCoin_Cologne2015_SemiFinalist",
   "code": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved ESL One Cologne 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -530,7 +497,6 @@
  {
   "id": "collectible-907",
   "name": "Kvartfinalist ved ESL One Cologne 2015",
-  "name_original": "CollectibleCoin_Cologne2015_QuarterFinalist",
   "code": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved ESL One Cologne 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -546,7 +512,6 @@
  {
   "id": "collectible-908",
   "name": "Bronze Cologne 2015 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cologne2015_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under ESL One Cologne 2015 Pick'Em-udfordringen.",
   "rarity": {
@@ -562,7 +527,6 @@
  {
   "id": "collectible-909",
   "name": "Sølv Cologne 2015 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cologne2015_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under ESL One Cologne 2015 Pick'Em-udfordringen.",
   "rarity": {
@@ -578,7 +542,6 @@
  {
   "id": "collectible-910",
   "name": "Guld Cologne 2015 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cologne2015_PickEmGold",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under ESL One Cologne 2015 Pick'Em-udfordringen.",
   "rarity": {
@@ -594,7 +557,6 @@
  {
   "id": "collectible-911",
   "name": "Bronze Cluj-Napoca 2015 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cluj2015_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under DreamHack Cluj-Napoca 2015 Pick'Em-udfordringen.",
   "rarity": {
@@ -610,7 +572,6 @@
  {
   "id": "collectible-912",
   "name": "Sølv Cluj-Napoca 2015 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cluj2015_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under DreamHack Cluj-Napoca 2015 Pick'Em-udfordringen.",
   "rarity": {
@@ -626,7 +587,6 @@
  {
   "id": "collectible-913",
   "name": "Guld Cluj-Napoca 2015 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cluj2015_PickEmGold",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under DreamHack Cluj-Napoca 2015 Pick'Em-udfordringen.",
   "rarity": {
@@ -642,7 +602,6 @@
  {
   "id": "collectible-914",
   "name": "Bronze Cluj-Napoca 2015-fantasitrofæ",
-  "name_original": "CollectibleCoin_Cluj2015_FantasyBronze",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
   "description": "Dette bronzetrofæ blev overrakt under DreamHack Cluj-Napoca 2015-fantasiholdudfordringen.",
   "rarity": {
@@ -658,7 +617,6 @@
  {
   "id": "collectible-915",
   "name": "Sølv Cluj-Napoca 2015-fantasitrofæ",
-  "name_original": "CollectibleCoin_Cluj2015_FantasySilver",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
   "description": "Dette sølvtrofæ blev overrakt under DreamHack Cluj-Napoca 2015-fantasiholdudfordringen.",
   "rarity": {
@@ -674,7 +632,6 @@
  {
   "id": "collectible-916",
   "name": "Guld Cluj-Napoca 2015-fantasitrofæ",
-  "name_original": "CollectibleCoin_Cluj2015_FantasyGold",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
   "description": "Dette guldtrofæ blev overrakt under DreamHack Cluj-Napoca 2015-fantasiholdudfordringen.",
   "rarity": {
@@ -690,7 +647,6 @@
  {
   "id": "collectible-917",
   "name": "Vinder af DreamHack Cluj-Napoca 2015",
-  "name_original": "CollectibleCoin_Cluj2015_Champion",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved DreamHack Cluj-Napoca 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -706,7 +662,6 @@
  {
   "id": "collectible-918",
   "name": "Finalist ved DreamHack Cluj-Napoca 2015",
-  "name_original": "CollectibleCoin_Cluj2015_Finalist",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved DreamHack Cluj-Napoca 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -722,7 +677,6 @@
  {
   "id": "collectible-919",
   "name": "Semifinalist ved DreamHack Cluj-Napoca 2015",
-  "name_original": "CollectibleCoin_Cluj2015_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved DreamHack Cluj-Napoca 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -738,7 +692,6 @@
  {
   "id": "collectible-920",
   "name": "Kvartfinalist ved DreamHack Cluj-Napoca 2015",
-  "name_original": "CollectibleCoin_Cluj2015_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved DreamHack Cluj-Napoca 2015 CS:GO-mesterskabet.",
   "rarity": {
@@ -754,7 +707,6 @@
  {
   "id": "collectible-921",
   "name": "Bronze Columbus 2016 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Columbus2016_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under MLG Columbus 2016 Pick'Em-udfordringen.",
   "rarity": {
@@ -770,7 +722,6 @@
  {
   "id": "collectible-922",
   "name": "Sølv Columbus 2016 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Columbus2016_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under MLG Columbus 2016 Pick'Em-udfordringen.",
   "rarity": {
@@ -786,7 +737,6 @@
  {
   "id": "collectible-923",
   "name": "Guld Columbus 2016 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Columbus2016_PickEmGold",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under MLG Columbus 2016 Pick'Em-udfordringen.",
   "rarity": {
@@ -802,7 +752,6 @@
  {
   "id": "collectible-924",
   "name": "Bronze Columbus 2016-fantasitrofæ",
-  "name_original": "CollectibleCoin_Columbus2016_FantasyBronze",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
   "description": "Dette bronzetrofæ blev overrakt under MLG Columbus 2016-fantasiholdudfordringen.",
   "rarity": {
@@ -818,7 +767,6 @@
  {
   "id": "collectible-925",
   "name": "Sølv Columbus 2016-fantasitrofæ",
-  "name_original": "CollectibleCoin_Columbus2016_FantasySilver",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
   "description": "Dette sølvtrofæ blev overrakt under MLG Columbus 2016-fantasiholdudfordringen.",
   "rarity": {
@@ -834,7 +782,6 @@
  {
   "id": "collectible-926",
   "name": "Guld Columbus 2016-fantasitrofæ",
-  "name_original": "CollectibleCoin_Columbus2016_FantasyGold",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
   "description": "Dette guldtrofæ blev overrakt under MLG Columbus 2016-fantasiholdudfordringen.",
   "rarity": {
@@ -850,7 +797,6 @@
  {
   "id": "collectible-927",
   "name": "Vinder af MLG Columbus 2016",
-  "name_original": "CollectibleCoin_Columbus2016_Champion",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved MLG Columbus 2016 CS:GO-mesterskabet.",
   "rarity": {
@@ -866,7 +812,6 @@
  {
   "id": "collectible-928",
   "name": "Finalist ved MLG Columbus 2016",
-  "name_original": "CollectibleCoin_Columbus2016_Finalist",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved MLG Columbus 2016 CS:GO-mesterskabet.",
   "rarity": {
@@ -882,7 +827,6 @@
  {
   "id": "collectible-929",
   "name": "Semifinalist ved MLG Columbus 2016",
-  "name_original": "CollectibleCoin_Columbus2016_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved MLG Columbus 2016 CS:GO-mesterskabet.",
   "rarity": {
@@ -898,7 +842,6 @@
  {
   "id": "collectible-930",
   "name": "Kvartfinalist ved MLG Columbus 2016",
-  "name_original": "CollectibleCoin_Columbus2016_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved MLG Columbus 2016 CS:GO-mesterskabet.",
   "rarity": {
@@ -914,7 +857,6 @@
  {
   "id": "collectible-931",
   "name": "Vinder af ESL One Cologne 2016",
-  "name_original": "CollectibleCoin_Cologne2016_Champion",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved ESL One Cologne 2016 CS:GO-mesterskabet.",
   "rarity": {
@@ -930,7 +872,6 @@
  {
   "id": "collectible-932",
   "name": "Finalist ved ESL One Cologne 2016",
-  "name_original": "CollectibleCoin_Cologne2016_Finalist",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved ESL One Cologne 2016 CS:GO-mesterskabet.",
   "rarity": {
@@ -946,7 +887,6 @@
  {
   "id": "collectible-933",
   "name": "Semifinalist ved ESL One Cologne 2016",
-  "name_original": "CollectibleCoin_Cologne2016_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved ESL One Cologne 2016 CS:GO-mesterskabet.",
   "rarity": {
@@ -962,7 +902,6 @@
  {
   "id": "collectible-934",
   "name": "Kvartfinalist ved ESL One Cologne 2016",
-  "name_original": "CollectibleCoin_Cologne2016_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved ESL One Cologne 2016 CS:GO-mesterskabet.",
   "rarity": {
@@ -978,7 +917,6 @@
  {
   "id": "collectible-935",
   "name": "Bronze Cologne 2016 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cologne2016_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under ESL One Cologne 2016 Pick'Em-udfordringen.",
   "rarity": {
@@ -994,7 +932,6 @@
  {
   "id": "collectible-936",
   "name": "Sølv Cologne 2016 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cologne2016_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under ESL One Cologne 2016 Pick'Em-udfordringen.",
   "rarity": {
@@ -1010,7 +947,6 @@
  {
   "id": "collectible-937",
   "name": "Guld Cologne 2016 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Cologne2016_PickEmGold",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under ESL One Cologne 2016 Pick'Em-udfordringen.",
   "rarity": {
@@ -1026,7 +962,6 @@
  {
   "id": "collectible-938",
   "name": "Bronze Cologne 2016-fantasitrofæ",
-  "name_original": "CollectibleCoin_Cologne2016_FantasyBronze",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
   "description": "Dette bronzetrofæ blev overrakt under ESL One Cologne 2016-fantasiholdudfordringen.",
   "rarity": {
@@ -1042,7 +977,6 @@
  {
   "id": "collectible-939",
   "name": "Sølv Cologne 2016-fantasitrofæ",
-  "name_original": "CollectibleCoin_Cologne2016_FantasySilver",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
   "description": "Dette sølvtrofæ blev overrakt under ESL One Cologne 2016-fantasiholdudfordringen.",
   "rarity": {
@@ -1058,7 +992,6 @@
  {
   "id": "collectible-940",
   "name": "Guld Cologne 2016-fantasitrofæ",
-  "name_original": "CollectibleCoin_Cologne2016_FantasyGold",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
   "description": "Dette guldtrofæ blev overrakt under ESL One Cologne 2016-fantasiholdudfordringen.",
   "rarity": {
@@ -1074,7 +1007,6 @@
  {
   "id": "collectible-941",
   "name": "Vinder af ELEAGUE Atlanta 2017",
-  "name_original": "CollectibleCoin_Atlanta2017_Champion",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved ELEAGUE Atlanta 2017 CS:GO-mesterskabet.",
   "rarity": {
@@ -1090,7 +1022,6 @@
  {
   "id": "collectible-942",
   "name": "Finalist ved ELEAGUE Atlanta 2017",
-  "name_original": "CollectibleCoin_Atlanta2017_Finalist",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved ELEAGUE Atlanta 2017 CS:GO-mesterskabet.",
   "rarity": {
@@ -1106,7 +1037,6 @@
  {
   "id": "collectible-943",
   "name": "Semifinalist ved ELEAGUE Atlanta 2017",
-  "name_original": "CollectibleCoin_Atlanta2017_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved ELEAGUE Atlanta 2017 CS:GO-mesterskabet.",
   "rarity": {
@@ -1122,7 +1052,6 @@
  {
   "id": "collectible-944",
   "name": "Kvartfinalist ved ELEAGUE Atlanta 2017",
-  "name_original": "CollectibleCoin_Atlanta2017_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved ELEAGUE Atlanta 2017 CS:GO-mesterskabet.",
   "rarity": {
@@ -1138,7 +1067,6 @@
  {
   "id": "collectible-945",
   "name": "Bronze Atlanta 2017 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Atlanta2017_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under ELEAGUE Atlanta 2017 Pick'Em-udfordringen.",
   "rarity": {
@@ -1154,7 +1082,6 @@
  {
   "id": "collectible-946",
   "name": "Sølv Atlanta 2017 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Atlanta2017_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under ELEAGUE Atlanta 2017 Pick'Em-udfordringen.",
   "rarity": {
@@ -1170,7 +1097,6 @@
  {
   "id": "collectible-947",
   "name": "Guld Atlanta 2017 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Atlanta2017_PickEmGold",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under ELEAGUE Atlanta 2017 Pick'Em-udfordringen.",
   "rarity": {
@@ -1186,7 +1112,6 @@
  {
   "id": "collectible-948",
   "name": "Vinder af PGL Krakow 2017",
-  "name_original": "CollectibleCoin_Krakow2017_Champion",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved PGL Krakow 2017 CS:GO-mesterskabet.",
   "rarity": {
@@ -1202,7 +1127,6 @@
  {
   "id": "collectible-949",
   "name": "Finalist ved PGL Krakow 2017",
-  "name_original": "CollectibleCoin_Krakow2017_Finalist",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved PGL Krakow 2017 CS:GO-mesterskabet.",
   "rarity": {
@@ -1218,7 +1142,6 @@
  {
   "id": "collectible-950",
   "name": "Semifinalist ved PGL Krakow 2017",
-  "name_original": "CollectibleCoin_Krakow2017_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved PGL Krakow 2017 CS:GO-mesterskabet.",
   "rarity": {
@@ -1234,7 +1157,6 @@
  {
   "id": "collectible-951",
   "name": "Kvartfinalist ved PGL Krakow 2017",
-  "name_original": "CollectibleCoin_Krakow2017_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved PGL Krakow 2017 CS:GO-mesterskabet.",
   "rarity": {
@@ -1250,7 +1172,6 @@
  {
   "id": "collectible-952",
   "name": "Bronze Krakow 2017 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Krakow2017_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under PGL Krakow 2017 Pick'Em-udfordringen.",
   "rarity": {
@@ -1266,7 +1187,6 @@
  {
   "id": "collectible-953",
   "name": "Sølv Krakow 2017 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Krakow2017_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under PGL Krakow 2017 Pick'Em-udfordringen.",
   "rarity": {
@@ -1282,7 +1202,6 @@
  {
   "id": "collectible-954",
   "name": "Guld Krakow 2017 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Krakow2017_PickEmGold",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under PGL Krakow 2017 Pick'Em-udfordringen.",
   "rarity": {
@@ -1298,7 +1217,6 @@
  {
   "id": "collectible-955",
   "name": "Vinder af ELEAGUE Boston 2018",
-  "name_original": "CollectibleCoin_Boston2018_Champion",
   "code": "#CSGO_CollectibleCoin_Boston2018_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved ELEAGUE Boston 2018 CS:GO-mesterskabet.",
   "rarity": {
@@ -1314,7 +1232,6 @@
  {
   "id": "collectible-956",
   "name": "Finalist ved ELEAGUE Boston 2018",
-  "name_original": "CollectibleCoin_Boston2018_Finalist",
   "code": "#CSGO_CollectibleCoin_Boston2018_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved ELEAGUE Boston 2018 CS:GO-mesterskabet.",
   "rarity": {
@@ -1330,7 +1247,6 @@
  {
   "id": "collectible-957",
   "name": "Semifinalist ved ELEAGUE Boston 2018",
-  "name_original": "CollectibleCoin_Boston2018_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved ELEAGUE Boston 2018 CS:GO-mesterskabet.",
   "rarity": {
@@ -1346,7 +1262,6 @@
  {
   "id": "collectible-958",
   "name": "Kvartfinalist ved ELEAGUE Boston 2018",
-  "name_original": "CollectibleCoin_Boston2018_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved ELEAGUE Boston 2018 CS:GO-mesterskabet.",
   "rarity": {
@@ -1362,7 +1277,6 @@
  {
   "id": "collectible-959",
   "name": "Bronze Boston 2018 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Boston2018_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under ELEAGUE Boston 2018 Pick'Em-udfordringen.",
   "rarity": {
@@ -1378,7 +1292,6 @@
  {
   "id": "collectible-960",
   "name": "Sølv Boston 2018 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Boston2018_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under ELEAGUE Boston 2018 Pick'Em-udfordringen.",
   "rarity": {
@@ -1394,7 +1307,6 @@
  {
   "id": "collectible-961",
   "name": "Guld Boston 2018 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_Boston2018_PickEmGold",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under ELEAGUE Boston 2018 Pick'Em-udfordringen.",
   "rarity": {
@@ -1410,7 +1322,6 @@
  {
   "id": "collectible-962",
   "name": "Vinder af FACEIT London 2018",
-  "name_original": "CollectibleCoin_London2018_Champion",
   "code": "#CSGO_CollectibleCoin_London2018_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved FACEIT London 2018 CS:GO-mesterskabet.",
   "rarity": {
@@ -1426,7 +1337,6 @@
  {
   "id": "collectible-963",
   "name": "Finalist ved FACEIT London 2018",
-  "name_original": "CollectibleCoin_London2018_Finalist",
   "code": "#CSGO_CollectibleCoin_London2018_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved FACEIT London 2018 CS:GO-mesterskabet.",
   "rarity": {
@@ -1442,7 +1352,6 @@
  {
   "id": "collectible-964",
   "name": "Semifinalist ved FACEIT London 2018",
-  "name_original": "CollectibleCoin_London2018_Semifinalist",
   "code": "#CSGO_CollectibleCoin_London2018_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved FACEIT London 2018 CS:GO-mesterskabet.",
   "rarity": {
@@ -1458,7 +1367,6 @@
  {
   "id": "collectible-965",
   "name": "Kvartfinalist ved FACEIT London 2018",
-  "name_original": "CollectibleCoin_London2018_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved FACEIT London 2018 CS:GO-mesterskabet.",
   "rarity": {
@@ -1474,7 +1382,6 @@
  {
   "id": "collectible-966",
   "name": "Bronze London 2018 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_London2018_PickEmBronze",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
   "description": "Dette bronzetrofæ blev overrakt under FACEIT London 2018 Pick'Em-udfordringen.",
   "rarity": {
@@ -1490,7 +1397,6 @@
  {
   "id": "collectible-967",
   "name": "Sølv London 2018 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_London2018_PickEmSilver",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
   "description": "Dette sølvtrofæ blev overrakt under FACEIT London 2018 Pick'Em-udfordringen.",
   "rarity": {
@@ -1506,7 +1412,6 @@
  {
   "id": "collectible-968",
   "name": "Guld London 2018 Pick'Em-trofæ",
-  "name_original": "CollectibleCoin_London2018_PickEmGold",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmGold",
   "description": "Dette guldtrofæ blev overrakt under FACEIT London 2018 Pick'Em-udfordringen.",
   "rarity": {
@@ -1522,7 +1427,6 @@
  {
   "id": "collectible-969",
   "name": "10-års veteranmønt",
-  "name_original": "CollectibleCoin_TenYearService",
   "code": "#CSGO_CollectibleCoin_TenYearService",
   "description": "Har været medlem af Counter-Strike-fællesskabet i over 10 år.",
   "rarity": {
@@ -1538,7 +1442,6 @@
  {
   "id": "collectible-970",
   "name": "Loyalitetsemblem",
-  "name_original": "CollectibleCoin_FortiusQuoFidelius",
   "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
   "description": "Dette emblem fejrer loyalt medlemskab i Counter-Strike-fællesskabet forud for Danger Zone-opdateringen.\\n\\n<i>Styrke gennem loyalitet.</i>",
   "rarity": {
@@ -1554,7 +1457,6 @@
  {
   "id": "collectible-971",
   "name": "Vinder af IEM Katowice 2019",
-  "name_original": "CollectibleCoin_Katowice2019_Champion",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved IEM Katowice 2019 CS:GO-mesterskabet.",
   "rarity": {
@@ -1570,7 +1472,6 @@
  {
   "id": "collectible-972",
   "name": "Finalist ved IEM Katowice 2019",
-  "name_original": "CollectibleCoin_Katowice2019_Finalist",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved IEM Katowice 2019 CS:GO-mesterskabet.",
   "rarity": {
@@ -1586,7 +1487,6 @@
  {
   "id": "collectible-973",
   "name": "Semifinalist ved IEM Katowice 2019",
-  "name_original": "CollectibleCoin_Katowice2019_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved IEM Katowice 2019 CS:GO-mesterskabet.",
   "rarity": {
@@ -1602,7 +1502,6 @@
  {
   "id": "collectible-974",
   "name": "Kvartfinalist ved IEM Katowice 2019",
-  "name_original": "CollectibleCoin_Katowice2019_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved IEM Katowice 2019 CS:GO-mesterskabet.",
   "rarity": {
@@ -1618,7 +1517,6 @@
  {
   "id": "collectible-975",
   "name": "Vinder ved StarLadder Berlin 2019",
-  "name_original": "CollectibleCoin_Berlin2019_Champion",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Champion",
   "description": "Dette turneringstrofæ blev tildelt vinderen ved StarLadder Berlin 2019 CS:GO-mesterskabet.",
   "rarity": {
@@ -1634,7 +1532,6 @@
  {
   "id": "collectible-976",
   "name": "Finalist ved StarLadder Berlin 2019",
-  "name_original": "CollectibleCoin_Berlin2019_Finalist",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
   "description": "Dette turneringstrofæ blev tildelt finalisten ved StarLadder Berlin 2019 CS:GO-mesterskabet.",
   "rarity": {
@@ -1650,7 +1547,6 @@
  {
   "id": "collectible-977",
   "name": "Semifinalist ved StarLadder Berlin 2019",
-  "name_original": "CollectibleCoin_Berlin2019_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
   "description": "Dette turneringstrofæ blev tildelt semifinalisten ved StarLadder Berlin 2019 CS:GO-mesterskabet.",
   "rarity": {
@@ -1666,7 +1562,6 @@
  {
   "id": "collectible-978",
   "name": "Kvartfinalist ved StarLadder Berlin 2019",
-  "name_original": "CollectibleCoin_Berlin2019_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
   "description": "Dette turneringstrofæ blev tildelt kvartfinalisten ved StarLadder Berlin 2019 CS:GO-mesterskabet.",
   "rarity": {
@@ -1682,7 +1577,6 @@
  {
   "id": "collectible-979",
   "name": "Vinderen af PGL Stockholm 2021",
-  "name_original": "CollectibleCoin_Stockh2021_Champion",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen af PGL Stockholm 2021 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1698,7 +1592,6 @@
  {
   "id": "collectible-980",
   "name": "Finalist ved PGL Stockholm 2021",
-  "name_original": "CollectibleCoin_Stockh2021_Finalist",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved PGL Stockholm 2021 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1714,7 +1607,6 @@
  {
   "id": "collectible-981",
   "name": "Semifinalist ved PGL Stockholm 2021",
-  "name_original": "CollectibleCoin_Stockh2021_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved PGL Stockholm 2021 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1730,7 +1622,6 @@
  {
   "id": "collectible-982",
   "name": "Kvartfinalist ved PGL Stockholm 2021",
-  "name_original": "CollectibleCoin_Stockh2021_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved PGL Stockholm 2021 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1746,7 +1637,6 @@
  {
   "id": "collectible-983",
   "name": "Mester ved PGL Antwerp 2022",
-  "name_original": "CollectibleCoin_Antwerp2022_Champion",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved PGL Antwerp 2022 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1762,7 +1652,6 @@
  {
   "id": "collectible-984",
   "name": "Finalist ved PGL Antwerp 2022",
-  "name_original": "CollectibleCoin_Antwerp2022_Finalist",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved PGL Antwerp 2022 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1778,7 +1667,6 @@
  {
   "id": "collectible-985",
   "name": "Semifinalist ved PGL Antwerp 2022",
-  "name_original": "CollectibleCoin_Antwerp2022_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved PGL Antwerp 2022 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1794,7 +1682,6 @@
  {
   "id": "collectible-986",
   "name": "Kvartfinalist ved PGL Antwerp 2022",
-  "name_original": "CollectibleCoin_Antwerp2022_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved PGL Antwerp 2022 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1810,7 +1697,6 @@
  {
   "id": "collectible-987",
   "name": "10-års fødselsdagsmønt",
-  "name_original": "CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
   "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
   "description": "Fejrede CS:GO's 10-års fødselsdag med CS:GO-fællesskabet.\\n\\n<i>En fejring af 10 år med hovedskud, clutches og fællesskab. Tillykke med 10-årsdagen, CS:GO!</i>",
   "rarity": {
@@ -1826,7 +1712,6 @@
  {
   "id": "collectible-988",
   "name": "Vinder af IEM Rio 2022",
-  "name_original": "CollectibleCoin_Rio2022_Champion",
   "code": "#CSGO_CollectibleCoin_Rio2022_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen af IEM Rio 2022 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1842,7 +1727,6 @@
  {
   "id": "collectible-989",
   "name": "Finalist ved IEM Rio 2022",
-  "name_original": "CollectibleCoin_Rio2022_Finalist",
   "code": "#CSGO_CollectibleCoin_Rio2022_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved IEM Rio 2022 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1858,7 +1742,6 @@
  {
   "id": "collectible-990",
   "name": "Semifinalist ved IEM Rio 2022",
-  "name_original": "CollectibleCoin_Rio2022_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved IEM Rio 2022 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1874,7 +1757,6 @@
  {
   "id": "collectible-991",
   "name": "Kvartfinalist ved IEM Rio 2022",
-  "name_original": "CollectibleCoin_Rio2022_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved IEM Rio 2022 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1890,7 +1772,6 @@
  {
   "id": "collectible-992",
   "name": "Vinder af BLAST.tv Paris 2023",
-  "name_original": "CollectibleCoin_Paris2023_Champion",
   "code": "#CSGO_CollectibleCoin_Paris2023_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen af BLAST.tv Paris 2023 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1906,7 +1787,6 @@
  {
   "id": "collectible-993",
   "name": "Finalist ved Blast.tv Paris 2023",
-  "name_original": "CollectibleCoin_Paris2023_Finalist",
   "code": "#CSGO_CollectibleCoin_Paris2023_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved BLAST.tv Paris 2023 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1922,7 +1802,6 @@
  {
   "id": "collectible-994",
   "name": "Semifinalist ved Blast.tv Paris 2023",
-  "name_original": "CollectibleCoin_Paris2023_Semifinalist",
   "code": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved BLAST.tv Paris 2023 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1938,7 +1817,6 @@
  {
   "id": "collectible-995",
   "name": "Kvartfinalist ved Blast.tv Paris 2023",
-  "name_original": "CollectibleCoin_Paris2023_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved BLAST.tv Paris 2023 CS:GO-majormesterskabet.",
   "rarity": {
@@ -1954,7 +1832,6 @@
  {
   "id": "collectible-996",
   "name": "Emblem: Global Offensive",
-  "name_original": "CollectibleCoin_CoinCsgo",
   "code": "#CSGO_CollectibleCoin_CoinCsgo",
   "description": "Dette emblem fejrer loyalt medlemskab i Counter-Strike: Global Offensive-fællesskabet forud for udgivelsen af Counter-Strike 2.\\n\\n<i>Legender dør aldrig.</i>",
   "rarity": {
@@ -1970,7 +1847,6 @@
  {
   "id": "collectible-1000",
   "name": "Operation Payback-pas",
-  "name_original": "Ticket_CommunitySeasonOneSpring2013",
   "code": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
   "description": "Operation Payback-begivenheden kørte fra 25. april til 2. september 2013 og belønnede fællesskabets baneskabere med over 180.000$. Dette pas giver ikke længere adgang til en operation men kan indløses for en Operation Payback-mønt til minde om den.",
   "rarity": {
@@ -1986,7 +1862,6 @@
  {
   "id": "collectible-1001",
   "name": "Operation Payback-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonOneSpring2013_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
   "description": "Deltog i Operation Payback for at støtte fællesskabets baneskabere.",
   "rarity": {
@@ -2002,7 +1877,6 @@
  {
   "id": "collectible-1002",
   "name": "Sølvmønt | Operation Payback",
-  "name_original": "Collectible_CommunitySeasonOneSpring2013_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
   "description": "Deltog i Operation Payback i 10 timer for at støtte fællesskabets baneskabere.",
   "rarity": {
@@ -2018,7 +1892,6 @@
  {
   "id": "collectible-1003",
   "name": "Guldmønt | Operation Payback",
-  "name_original": "Collectible_CommunitySeasonOneSpring2013_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
   "description": "Deltog i Operation Payback i 50 timer for at støtte fællesskabets baneskabere.",
   "rarity": {
@@ -2034,7 +1907,6 @@
  {
   "id": "collectible-1004",
   "name": "Banemønt: Museum",
-  "name_original": "Collectible_MapTokenMuseum",
   "code": "#CSGO_Collectible_MapTokenMuseum",
   "description": null,
   "rarity": {
@@ -2050,7 +1922,6 @@
  {
   "id": "collectible-1005",
   "name": "Banemønt: Downtown",
-  "name_original": "Collectible_MapTokenDowntown",
   "code": "#CSGO_Collectible_MapTokenDowntown",
   "description": null,
   "rarity": {
@@ -2066,7 +1937,6 @@
  {
   "id": "collectible-1006",
   "name": "Banemønt: Thunder",
-  "name_original": "Collectible_MapTokenThunder",
   "code": "#CSGO_Collectible_MapTokenThunder",
   "description": null,
   "rarity": {
@@ -2082,7 +1952,6 @@
  {
   "id": "collectible-1007",
   "name": "Banemønt: Favela",
-  "name_original": "Collectible_MapTokenFavela",
   "code": "#CSGO_Collectible_MapTokenFavela",
   "description": null,
   "rarity": {
@@ -2098,7 +1967,6 @@
  {
   "id": "collectible-1008",
   "name": "Banemønt: Motel",
-  "name_original": "Collectible_MapTokenMotel",
   "code": "#CSGO_Collectible_MapTokenMotel",
   "description": null,
   "rarity": {
@@ -2114,7 +1982,6 @@
  {
   "id": "collectible-1009",
   "name": "Banemønt: Seaside",
-  "name_original": "Collectible_MapTokenSeaside",
   "code": "#CSGO_Collectible_MapTokenSeaside",
   "description": null,
   "rarity": {
@@ -2130,7 +1997,6 @@
  {
   "id": "collectible-1010",
   "name": "Banemønt: Library",
-  "name_original": "Collectible_MapTokenLibrary",
   "code": "#CSGO_Collectible_MapTokenLibrary",
   "description": null,
   "rarity": {
@@ -2146,7 +2012,6 @@
  {
   "id": "collectible-1012",
   "name": "Operation Bravo-pas",
-  "name_original": "Ticket_CommunitySeasonTwoAutumn2013",
   "code": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
   "description": "Operation Bravo-begivenheden kørte fra d. 19. september 2013 til d. 5. februar 2014. Dette pas giver ikke længere adgang til en operation men kan indløses for en Operation Bravo-mønt til minde om den.",
   "rarity": {
@@ -2162,7 +2027,6 @@
  {
   "id": "collectible-1013",
   "name": "Operation Bravo-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonTwoAutumn2013_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
   "description": "Deltog i Operation Bravo.",
   "rarity": {
@@ -2178,7 +2042,6 @@
  {
   "id": "collectible-1014",
   "name": "Sølvmønt | Operation Bravo",
-  "name_original": "Collectible_CommunitySeasonTwoAutumn2013_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
   "description": "Deltog i Operation Bravo.",
   "rarity": {
@@ -2194,7 +2057,6 @@
  {
   "id": "collectible-1015",
   "name": "Guldmønt | Operation Bravo",
-  "name_original": "Collectible_CommunitySeasonTwoAutumn2013_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
   "description": "Deltog i Operation Bravo.",
   "rarity": {
@@ -2210,7 +2072,6 @@
  {
   "id": "collectible-1016",
   "name": "Banemønt: Agency",
-  "name_original": "Collectible_MapTokenAgency",
   "code": "#CSGO_Collectible_MapTokenAgency",
   "description": null,
   "rarity": {
@@ -2226,7 +2087,6 @@
  {
   "id": "collectible-1017",
   "name": "Banemønt: Ali",
-  "name_original": "Collectible_MapTokenAli",
   "code": "#CSGO_Collectible_MapTokenAli",
   "description": null,
   "rarity": {
@@ -2242,7 +2102,6 @@
  {
   "id": "collectible-1018",
   "name": "Banemønt: Cache",
-  "name_original": "Collectible_MapTokenCache",
   "code": "#CSGO_Collectible_MapTokenCache",
   "description": null,
   "rarity": {
@@ -2258,7 +2117,6 @@
  {
   "id": "collectible-1019",
   "name": "Banemønt: Chinatown",
-  "name_original": "Collectible_MapTokenChinatown",
   "code": "#CSGO_Collectible_MapTokenChinatown",
   "description": null,
   "rarity": {
@@ -2274,7 +2132,6 @@
  {
   "id": "collectible-1020",
   "name": "Banemønt: Gwalior",
-  "name_original": "Collectible_MapTokenGwalior",
   "code": "#CSGO_Collectible_MapTokenGwalior",
   "description": null,
   "rarity": {
@@ -2290,7 +2147,6 @@
  {
   "id": "collectible-1021",
   "name": "Banemønt: Ruins",
-  "name_original": "Collectible_MapTokenRuins",
   "code": "#CSGO_Collectible_MapTokenRuins",
   "description": null,
   "rarity": {
@@ -2306,7 +2162,6 @@
  {
   "id": "collectible-1022",
   "name": "Banemønt: Siege",
-  "name_original": "Collectible_MapTokenSiege",
   "code": "#CSGO_Collectible_MapTokenSiege",
   "description": null,
   "rarity": {
@@ -2322,7 +2177,6 @@
  {
   "id": "collectible-1023",
   "name": "Operation Phoenix-pas",
-  "name_original": "Ticket_CommunitySeasonThreeSpring2014",
   "code": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
   "description": "Operation Phoenix-begivenheden kørte fra d. 20. februar 2014 til d. 11. juni 2014. Dette pas giver ikke længere adgang til en operation men kan indløses for en Operation Phoenix-mønt til minde om den.",
   "rarity": {
@@ -2338,7 +2192,6 @@
  {
   "id": "collectible-1024",
   "name": "Operation Phoenix-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonThreeSpring2014_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
   "description": "Deltog i Operation Phoenix.",
   "rarity": {
@@ -2354,7 +2207,6 @@
  {
   "id": "collectible-1025",
   "name": "Sølvmønt | Operation Phoenix",
-  "name_original": "Collectible_CommunitySeasonThreeSpring2014_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
   "description": "Deltog i Operation Phoenix.",
   "rarity": {
@@ -2370,7 +2222,6 @@
  {
   "id": "collectible-1026",
   "name": "Guldmønt | Operation Phoenix",
-  "name_original": "Collectible_CommunitySeasonThreeSpring2014_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
   "description": "Deltog i Operation Phoenix.",
   "rarity": {
@@ -2386,7 +2237,6 @@
  {
   "id": "collectible-1027",
   "name": "Operation Breakout All Access-pas",
-  "name_original": "Ticket_CommunitySeasonFourSummer2014",
   "code": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
   "description": "Operation Breakout-begivenheden kørte fra d. 2. juli 2014 til d. 2. oktober 2014. Dette pas giver ikke længere adgang til en operation men kan indløses for en Operation Bravo-erindringsmønt.",
   "rarity": {
@@ -2402,7 +2252,6 @@
  {
   "id": "collectible-1028",
   "name": "Operation Breakout-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonFourSummer2014_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
   "description": "Deltog i Operation Breakout.",
   "rarity": {
@@ -2418,7 +2267,6 @@
  {
   "id": "collectible-1029",
   "name": "Sølvmønt | Operation Breakout",
-  "name_original": "Collectible_CommunitySeasonFourSummer2014_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
   "description": "Deltog i Operation Breakout.",
   "rarity": {
@@ -2434,7 +2282,6 @@
  {
   "id": "collectible-1030",
   "name": "Guldmønt | Operation Breakout",
-  "name_original": "Collectible_CommunitySeasonFourSummer2014_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
   "description": "Deltog i Operation Breakout.",
   "rarity": {
@@ -2450,7 +2297,6 @@
  {
   "id": "collectible-1031",
   "name": "Banemønt: Castle",
-  "name_original": "Collectible_MapTokenCastle",
   "code": "#CSGO_Collectible_MapTokenCastle",
   "description": null,
   "rarity": {
@@ -2466,7 +2312,6 @@
  {
   "id": "collectible-1032",
   "name": "Banemønt: Black Gold",
-  "name_original": "Collectible_MapTokenBlackGold",
   "code": "#CSGO_Collectible_MapTokenBlackGold",
   "description": null,
   "rarity": {
@@ -2482,7 +2327,6 @@
  {
   "id": "collectible-1033",
   "name": "Banemønt: Rush",
-  "name_original": "Collectible_MapTokenRush",
   "code": "#CSGO_Collectible_MapTokenRush",
   "description": null,
   "rarity": {
@@ -2498,7 +2342,6 @@
  {
   "id": "collectible-1034",
   "name": "Banemønt: Mist",
-  "name_original": "Collectible_MapTokenMist",
   "code": "#CSGO_Collectible_MapTokenMist",
   "description": null,
   "rarity": {
@@ -2514,7 +2357,6 @@
  {
   "id": "collectible-1035",
   "name": "Banemønt: Insertion",
-  "name_original": "Collectible_MapTokenInsertion",
   "code": "#CSGO_Collectible_MapTokenInsertion",
   "description": null,
   "rarity": {
@@ -2530,7 +2372,6 @@
  {
   "id": "collectible-1036",
   "name": "Banemønt: Overgrown",
-  "name_original": "Collectible_MapTokenOvergrown",
   "code": "#CSGO_Collectible_MapTokenOvergrown",
   "description": null,
   "rarity": {
@@ -2546,7 +2387,6 @@
  {
   "id": "collectible-1037",
   "name": "Banemønt: Marquis",
-  "name_original": "Collectible_MapTokenMarquis",
   "code": "#CSGO_Collectible_MapTokenMarquis",
   "description": null,
   "rarity": {
@@ -2562,7 +2402,6 @@
  {
   "id": "collectible-1038",
   "name": "Banemønt: Workout",
-  "name_original": "Collectible_MapTokenWorkout",
   "code": "#CSGO_Collectible_MapTokenWorkout",
   "description": null,
   "rarity": {
@@ -2578,7 +2417,6 @@
  {
   "id": "collectible-1039",
   "name": "Banemønt: Backalley",
-  "name_original": "Collectible_MapTokenBackalley",
   "code": "#CSGO_Collectible_MapTokenBackalley",
   "description": null,
   "rarity": {
@@ -2594,7 +2432,6 @@
  {
   "id": "collectible-1040",
   "name": "Banemønt: Season",
-  "name_original": "Collectible_MapTokenSeason",
   "code": "#CSGO_Collectible_MapTokenSeason",
   "description": null,
   "rarity": {
@@ -2610,7 +2447,6 @@
  {
   "id": "collectible-1041",
   "name": "Banemønt: Bazaar",
-  "name_original": "Collectible_MapTokenBazaar",
   "code": "#CSGO_Collectible_MapTokenBazaar",
   "description": null,
   "rarity": {
@@ -2626,7 +2462,6 @@
  {
   "id": "collectible-1042",
   "name": "Banemønt: Facade",
-  "name_original": "Collectible_MapTokenFacade",
   "code": "#CSGO_Collectible_MapTokenFacade",
   "description": null,
   "rarity": {
@@ -2642,7 +2477,6 @@
  {
   "id": "collectible-1043",
   "name": "Banemønt: Log",
-  "name_original": "Collectible_MapTokenLog",
   "code": "#CSGO_Collectible_MapTokenLog",
   "description": null,
   "rarity": {
@@ -2658,7 +2492,6 @@
  {
   "id": "collectible-1044",
   "name": "Banemønt: Rails",
-  "name_original": "Collectible_MapTokenRails",
   "code": "#CSGO_Collectible_MapTokenRails",
   "description": null,
   "rarity": {
@@ -2674,7 +2507,6 @@
  {
   "id": "collectible-1045",
   "name": "Banemønt: Resort",
-  "name_original": "Collectible_MapTokenResort",
   "code": "#CSGO_Collectible_MapTokenResort",
   "description": null,
   "rarity": {
@@ -2690,7 +2522,6 @@
  {
   "id": "collectible-1046",
   "name": "Banemønt: Zoo",
-  "name_original": "Collectible_MapTokenZoo",
   "code": "#CSGO_Collectible_MapTokenZoo",
   "description": null,
   "rarity": {
@@ -2706,7 +2537,6 @@
  {
   "id": "collectible-1047",
   "name": "Banemønt: Santorini",
-  "name_original": "Collectible_MapTokenSantorini",
   "code": "#CSGO_Collectible_MapTokenSantorini",
   "description": null,
   "rarity": {
@@ -2722,7 +2552,6 @@
  {
   "id": "collectible-1048",
   "name": "Banemønt: Coast",
-  "name_original": "Collectible_MapTokenCoast",
   "code": "#CSGO_Collectible_MapTokenCoast",
   "description": null,
   "rarity": {
@@ -2738,7 +2567,6 @@
  {
   "id": "collectible-1049",
   "name": "Banemønt: Mikla",
-  "name_original": "Collectible_MapTokenMikla",
   "code": "#CSGO_Collectible_MapTokenMikla",
   "description": null,
   "rarity": {
@@ -2754,7 +2582,6 @@
  {
   "id": "collectible-1050",
   "name": "Banemønt: Royal",
-  "name_original": "Collectible_MapTokenRoyal",
   "code": "#CSGO_Collectible_MapTokenRoyal",
   "description": null,
   "rarity": {
@@ -2770,7 +2597,6 @@
  {
   "id": "collectible-1051",
   "name": "Banemønt: Empire",
-  "name_original": "Collectible_MapTokenEmpire",
   "code": "#CSGO_Collectible_MapTokenEmpire",
   "description": null,
   "rarity": {
@@ -2786,7 +2612,6 @@
  {
   "id": "collectible-1052",
   "name": "Banemønt: Tulip",
-  "name_original": "Collectible_MapTokenTulip",
   "code": "#CSGO_Collectible_MapTokenTulip",
   "description": null,
   "rarity": {
@@ -2802,7 +2627,6 @@
  {
   "id": "collectible-1053",
   "name": "Banemønt: Cruise",
-  "name_original": "Collectible_MapTokenCruise",
   "code": "#CSGO_Collectible_MapTokenCruise",
   "description": null,
   "rarity": {
@@ -2818,7 +2642,6 @@
  {
   "id": "collectible-1054",
   "name": "Banemønt: Subzero",
-  "name_original": "Collectible_MapTokenSubzero",
   "code": "#CSGO_Collectible_MapTokenSubzero",
   "description": null,
   "rarity": {
@@ -2834,7 +2657,6 @@
  {
   "id": "collectible-1055",
   "name": "Banemønt: Biome",
-  "name_original": "Collectible_MapTokenBiome",
   "code": "#CSGO_Collectible_MapTokenBiome",
   "description": null,
   "rarity": {
@@ -2850,7 +2672,6 @@
  {
   "id": "collectible-1056",
   "name": "Banemønt: Abbey",
-  "name_original": "Collectible_MapTokenAbbey",
   "code": "#CSGO_Collectible_MapTokenAbbey",
   "description": null,
   "rarity": {
@@ -2866,7 +2687,6 @@
  {
   "id": "collectible-1057",
   "name": "Banemønt: Ruby",
-  "name_original": "Collectible_MapTokenRuby",
   "code": "#CSGO_Collectible_MapTokenRuby",
   "description": null,
   "rarity": {
@@ -2882,7 +2702,6 @@
  {
   "id": "collectible-1058",
   "name": "Banemønt: Breach",
-  "name_original": "Collectible_MapTokenBreach",
   "code": "#CSGO_Collectible_MapTokenBreach",
   "description": null,
   "rarity": {
@@ -2898,7 +2717,6 @@
  {
   "id": "collectible-1059",
   "name": "Banemønt: Studio",
-  "name_original": "Collectible_MapTokenStudio",
   "code": "#CSGO_Collectible_MapTokenStudio",
   "description": null,
   "rarity": {
@@ -2914,7 +2732,6 @@
  {
   "id": "collectible-1060",
   "name": "Banemønt: Jungle",
-  "name_original": "Collectible_MapTokenJungle",
   "code": "#CSGO_Collectible_MapTokenJungle",
   "description": null,
   "rarity": {
@@ -2930,7 +2747,6 @@
  {
   "id": "collectible-1061",
   "name": "Banemønt: Anubis",
-  "name_original": "Collectible_MapTokenAnubis",
   "code": "#CSGO_Collectible_MapTokenAnubis",
   "description": null,
   "rarity": {
@@ -2946,7 +2762,6 @@
  {
   "id": "collectible-1062",
   "name": "Banemønt: Chlorine",
-  "name_original": "Collectible_MapTokenChlorine",
   "code": "#CSGO_Collectible_MapTokenChlorine",
   "description": null,
   "rarity": {
@@ -2962,7 +2777,6 @@
  {
   "id": "collectible-1063",
   "name": "Banemønt: Mutiny",
-  "name_original": "Collectible_MapTokenMutiny",
   "code": "#CSGO_Collectible_MapTokenMutiny",
   "description": null,
   "rarity": {
@@ -2978,7 +2792,6 @@
  {
   "id": "collectible-1064",
   "name": "Banemønt: Swamp",
-  "name_original": "Collectible_MapTokenSwamp",
   "code": "#CSGO_Collectible_MapTokenSwamp",
   "description": null,
   "rarity": {
@@ -2994,7 +2807,6 @@
  {
   "id": "collectible-1065",
   "name": "Banemønt: Frostbite",
-  "name_original": "Collectible_MapTokenFrostbite",
   "code": "#CSGO_Collectible_MapTokenFrostbite",
   "description": null,
   "rarity": {
@@ -3010,7 +2822,6 @@
  {
   "id": "collectible-1066",
   "name": "Banemønt: Engage",
-  "name_original": "Collectible_MapTokenEngage",
   "code": "#CSGO_Collectible_MapTokenEngage",
   "description": null,
   "rarity": {
@@ -3026,7 +2837,6 @@
  {
   "id": "collectible-1067",
   "name": "Banemønt: Apollo",
-  "name_original": "Collectible_MapTokenApollo",
   "code": "#CSGO_Collectible_MapTokenApollo",
   "description": null,
   "rarity": {
@@ -3042,7 +2852,6 @@
  {
   "id": "collectible-1068",
   "name": "Banemønt: Guard",
-  "name_original": "Collectible_MapTokenGuard",
   "code": "#CSGO_Collectible_MapTokenGuard",
   "description": null,
   "rarity": {
@@ -3058,7 +2867,6 @@
  {
   "id": "collectible-1069",
   "name": "Banemønt: Elysion",
-  "name_original": "Collectible_MapTokenElysion",
   "code": "#CSGO_Collectible_MapTokenElysion",
   "description": null,
   "rarity": {
@@ -3074,7 +2882,6 @@
  {
   "id": "collectible-1070",
   "name": "Banemønt: Grind",
-  "name_original": "Collectible_MapTokenGrind",
   "code": "#CSGO_Collectible_MapTokenGrind",
   "description": null,
   "rarity": {
@@ -3090,7 +2897,6 @@
  {
   "id": "collectible-1071",
   "name": "Banemønt: Mocha",
-  "name_original": "Collectible_MapTokenMocha",
   "code": "#CSGO_Collectible_MapTokenMocha",
   "description": null,
   "rarity": {
@@ -3106,7 +2912,6 @@
  {
   "id": "collectible-1072",
   "name": "Banemønt: Calavera",
-  "name_original": "Collectible_MapTokenCalavera",
   "code": "#CSGO_Collectible_MapTokenCalavera",
   "description": null,
   "rarity": {
@@ -3122,7 +2927,6 @@
  {
   "id": "collectible-1073",
   "name": "Banemønt: Pitstop",
-  "name_original": "Collectible_MapTokenPitstop",
   "code": "#CSGO_Collectible_MapTokenPitstop",
   "description": null,
   "rarity": {
@@ -3138,7 +2942,6 @@
  {
   "id": "collectible-1074",
   "name": "Banemønt: Basalt",
-  "name_original": "Collectible_MapTokenBasalt",
   "code": "#CSGO_Collectible_MapTokenBasalt",
   "description": null,
   "rarity": {
@@ -3154,7 +2957,6 @@
  {
   "id": "collectible-1075",
   "name": "Banemønt: Insertion II",
-  "name_original": "Collectible_MapTokenInsertion2",
   "code": "#CSGO_Collectible_MapTokenInsertion2",
   "description": null,
   "rarity": {
@@ -3170,7 +2972,6 @@
  {
   "id": "collectible-1076",
   "name": "Banemønt: Ravine",
-  "name_original": "Collectible_MapTokenRavine",
   "code": "#CSGO_Collectible_MapTokenRavine",
   "description": null,
   "rarity": {
@@ -3186,7 +2987,6 @@
  {
   "id": "collectible-1077",
   "name": "Banemønt: Extraction",
-  "name_original": "Collectible_MapTokenExtraction",
   "code": "#CSGO_Collectible_MapTokenExtraction",
   "description": null,
   "rarity": {
@@ -3202,7 +3002,6 @@
  {
   "id": "collectible-1078",
   "name": "Banemønt: County",
-  "name_original": "Collectible_MapTokenCounty",
   "code": "#CSGO_Collectible_MapTokenCounty",
   "description": null,
   "rarity": {
@@ -3218,7 +3017,6 @@
  {
   "id": "collectible-1079",
   "name": "Banemønt: Iris",
-  "name_original": "Collectible_MapTokenIris",
   "code": "#CSGO_Collectible_MapTokenIris",
   "description": null,
   "rarity": {
@@ -3234,7 +3032,6 @@
  {
   "id": "collectible-1080",
   "name": "Banemønt: Climb",
-  "name_original": "Collectible_MapTokenClimb",
   "code": "#CSGO_Collectible_MapTokenClimb",
   "description": null,
   "rarity": {
@@ -3250,7 +3047,6 @@
  {
   "id": "collectible-1081",
   "name": "Banemønt: Crete",
-  "name_original": "Collectible_MapTokenCrete",
   "code": "#CSGO_Collectible_MapTokenCrete",
   "description": null,
   "rarity": {
@@ -3266,7 +3062,6 @@
  {
   "id": "collectible-1082",
   "name": "Banemønt: Hive",
-  "name_original": "Collectible_MapTokenHive",
   "code": "#CSGO_Collectible_MapTokenHive",
   "description": null,
   "rarity": {
@@ -3282,7 +3077,6 @@
  {
   "id": "collectible-1083",
   "name": "Banemønt: Vineyard",
-  "name_original": "Collectible_MapTokenVineyard",
   "code": "#CSGO_Collectible_MapTokenVineyard",
   "description": null,
   "rarity": {
@@ -3298,7 +3092,6 @@
  {
   "id": "collectible-1084",
   "name": "Banemønt: Ember",
-  "name_original": "Collectible_MapTokenEmber",
   "code": "#CSGO_Collectible_MapTokenEmber",
   "description": null,
   "rarity": {
@@ -3314,7 +3107,6 @@
  {
   "id": "collectible-1085",
   "name": "Banemønt: Tuscan",
-  "name_original": "Collectible_MapTokenTuscan",
   "code": "#CSGO_Collectible_MapTokenTuscan",
   "description": null,
   "rarity": {
@@ -3330,7 +3122,6 @@
  {
   "id": "collectible-1086",
   "name": "Banemønt: Cascade",
-  "name_original": "Collectible_MapTokenPrime",
   "code": "#CSGO_Collectible_MapTokenPrime",
   "description": null,
   "rarity": {
@@ -3346,7 +3137,6 @@
  {
   "id": "collectible-1087",
   "name": "Banemønt: Blagai",
-  "name_original": "Collectible_MapTokenBlagai",
   "code": "#CSGO_Collectible_MapTokenBlagai",
   "description": null,
   "rarity": {
@@ -3362,7 +3152,6 @@
  {
   "id": "collectible-1088",
   "name": "Banemønt: Boyard",
-  "name_original": "Collectible_MapTokenBoyard",
   "code": "#CSGO_Collectible_MapTokenBoyard",
   "description": null,
   "rarity": {
@@ -3378,7 +3167,6 @@
  {
   "id": "collectible-1089",
   "name": "Banemønt: Chalice",
-  "name_original": "Collectible_MapTokenChalice",
   "code": "#CSGO_Collectible_MapTokenChalice",
   "description": null,
   "rarity": {
@@ -3394,7 +3182,6 @@
  {
   "id": "collectible-1315",
   "name": "Operation Vanguard-adgangspas",
-  "name_original": "Ticket_CommunitySeasonFiveSummer2014",
   "code": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
   "description": "Operation Vanguard-begivenheden kørte fra 11. november 2014 til 31. marts 2015. Dette pas giver ikke længere adgang til en operation men kan indløses for en Operation Vanguard-mønt til minde om den.",
   "rarity": {
@@ -3410,7 +3197,6 @@
  {
   "id": "collectible-1316",
   "name": "Operation Vanguard-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonFiveSummer2014_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
   "description": "Deltog i Operation Vanguard.",
   "rarity": {
@@ -3426,7 +3212,6 @@
  {
   "id": "collectible-1317",
   "name": "Sølvmønt | Operation Vanguard",
-  "name_original": "Collectible_CommunitySeasonFiveSummer2014_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
   "description": "Deltog i Operation Vanguard.",
   "rarity": {
@@ -3442,7 +3227,6 @@
  {
   "id": "collectible-1318",
   "name": "Guldmønt | Operation Vanguard",
-  "name_original": "Collectible_CommunitySeasonFiveSummer2014_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
   "description": "Deltog i Operation Vanguard.",
   "rarity": {
@@ -3458,7 +3242,6 @@
  {
   "id": "collectible-1326",
   "name": "Operation Bloodhound-adgangspas",
-  "name_original": "Ticket_CommunitySeasonSix2015",
   "code": "#CSGO_Ticket_CommunitySeasonSix2015",
   "description": "Operation Bloodhound-begivenheden kørte fra 26. maj 2015 til 1. oktober 2015. Dette pas giver ikke længere adgang til en operation men kan indløses for en Operation Bloodhound-mønt til minde om den.",
   "rarity": {
@@ -3474,7 +3257,6 @@
  {
   "id": "collectible-1327",
   "name": "Operation Bloodhound-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonSix2015_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
   "description": "Deltog i Operation Bloodhound.",
   "rarity": {
@@ -3490,7 +3272,6 @@
  {
   "id": "collectible-1328",
   "name": "Sølvmønt | Operation Bloodhound",
-  "name_original": "Collectible_CommunitySeasonSix2015_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
   "description": "Deltog i Operation Bloodhound.",
   "rarity": {
@@ -3506,7 +3287,6 @@
  {
   "id": "collectible-1329",
   "name": "Guldmønt | Operation Bloodhound",
-  "name_original": "Collectible_CommunitySeasonSix2015_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
   "description": "Deltog i Operation Bloodhound.",
   "rarity": {
@@ -3522,7 +3302,6 @@
  {
   "id": "collectible-1331",
   "name": "Tjenestemedalje 2015",
-  "name_original": "Collectible_GlobalGeneral2015",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Overrakt for enestående tjeneste og præstation i 2015.",
   "rarity": {
@@ -3538,7 +3317,6 @@
  {
   "id": "collectible-1332",
   "name": "Tjenestemedalje 2015",
-  "name_original": "Collectible_GlobalGeneral2015",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Overrakt for enestående tjeneste og præstation i 2015.",
   "rarity": {
@@ -3554,7 +3332,6 @@
  {
   "id": "collectible-1335",
   "name": "Operation Wildfire-adgangspas",
-  "name_original": "Ticket_CommunitySeasonSeven2016",
   "code": "#CSGO_Ticket_CommunitySeasonSeven2016",
   "description": "Operation Wildfire-begivenheden kørte fra 17. februar 2016 til 13. juli 2016. Dette pas giver ikke længere adgang til en operation men kan indløses for en Operation Wildfire-mønt til minde om den.",
   "rarity": {
@@ -3570,7 +3347,6 @@
  {
   "id": "collectible-1336",
   "name": "Operation Wildfire-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonSeven2016_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
   "description": "Deltog i Operation Wildfire.",
   "rarity": {
@@ -3586,7 +3362,6 @@
  {
   "id": "collectible-1337",
   "name": "Sølvmønt | Operation Wildfire",
-  "name_original": "Collectible_CommunitySeasonSeven2016_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
   "description": "Deltog i Operation Wildfire.",
   "rarity": {
@@ -3602,7 +3377,6 @@
  {
   "id": "collectible-1338",
   "name": "Guldmønt | Operation Wildfire",
-  "name_original": "Collectible_CommunitySeasonSeven2016_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
   "description": "Deltog i Operation Wildfire.",
   "rarity": {
@@ -3618,7 +3392,6 @@
  {
   "id": "collectible-1339",
   "name": "Tjenestemedalje 2016",
-  "name_original": "Collectible_GlobalGeneral2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Overrakt for enestående tjeneste og præstation i 2016.",
   "rarity": {
@@ -3634,7 +3407,6 @@
  {
   "id": "collectible-1340",
   "name": "Tjenestemedalje 2016",
-  "name_original": "Collectible_GlobalGeneral2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Overrakt for enestående tjeneste og præstation i 2016.",
   "rarity": {
@@ -3650,7 +3422,6 @@
  {
   "id": "collectible-1341",
   "name": "Tjenestemedalje 2016",
-  "name_original": "Collectible_GlobalGeneral2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Overrakt for enestående tjeneste og præstation i 2016.",
   "rarity": {
@@ -3666,7 +3437,6 @@
  {
   "id": "collectible-1342",
   "name": "Tjenestemedalje 2016",
-  "name_original": "Collectible_GlobalGeneral2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Overrakt for enestående tjeneste og præstation i 2016.",
   "rarity": {
@@ -3682,7 +3452,6 @@
  {
   "id": "collectible-1343",
   "name": "Tjenestemedalje 2016",
-  "name_original": "Collectible_GlobalGeneral2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Overrakt for enestående tjeneste og præstation i 2016.",
   "rarity": {
@@ -3698,7 +3467,6 @@
  {
   "id": "collectible-1344",
   "name": "Tjenestemedalje 2016",
-  "name_original": "Collectible_GlobalGeneral2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Overrakt for enestående tjeneste og præstation i 2016.",
   "rarity": {
@@ -3714,7 +3482,6 @@
  {
   "id": "collectible-1352",
   "name": "Operation Hydra-adgangspas",
-  "name_original": "Ticket_CommunitySeasonEight2017",
   "code": "#CSGO_Ticket_CommunitySeasonEight2017",
   "description": "Operation Hydra-begivenheden kørte fra d. 23. maj 2017 til d. 14. november 2017. Dette pas giver ikke længere adgang til en operation men kan indløses for en Operation Hydra-mønt til minde om den.",
   "rarity": {
@@ -3730,7 +3497,6 @@
  {
   "id": "collectible-1357",
   "name": "Tjenestemedalje 2017",
-  "name_original": "Collectible_GlobalGeneral2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Overrakt for enestående tjeneste og præstation i 2017.",
   "rarity": {
@@ -3746,7 +3512,6 @@
  {
   "id": "collectible-1358",
   "name": "Tjenestemedalje 2017",
-  "name_original": "Collectible_GlobalGeneral2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Overrakt for enestående tjeneste og præstation i 2017.",
   "rarity": {
@@ -3762,7 +3527,6 @@
  {
   "id": "collectible-1359",
   "name": "Tjenestemedalje 2017",
-  "name_original": "Collectible_GlobalGeneral2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Overrakt for enestående tjeneste og præstation i 2017.",
   "rarity": {
@@ -3778,7 +3542,6 @@
  {
   "id": "collectible-1360",
   "name": "Tjenestemedalje 2017",
-  "name_original": "Collectible_GlobalGeneral2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Overrakt for enestående tjeneste og præstation i 2017.",
   "rarity": {
@@ -3794,7 +3557,6 @@
  {
   "id": "collectible-1361",
   "name": "Tjenestemedalje 2017",
-  "name_original": "Collectible_GlobalGeneral2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Overrakt for enestående tjeneste og præstation i 2017.",
   "rarity": {
@@ -3810,7 +3572,6 @@
  {
   "id": "collectible-1362",
   "name": "Tjenestemedalje 2017",
-  "name_original": "Collectible_GlobalGeneral2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Overrakt for enestående tjeneste og præstation i 2017.",
   "rarity": {
@@ -3826,7 +3587,6 @@
  {
   "id": "collectible-1363",
   "name": "Tjenestemedalje 2017",
-  "name_original": "Collectible_GlobalGeneral2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Overrakt for enestående tjeneste og præstation i 2017.",
   "rarity": {
@@ -3842,7 +3602,6 @@
  {
   "id": "collectible-1367",
   "name": "Tjenestemedalje 2018",
-  "name_original": "Collectible_GlobalGeneral2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Overrakt for enestående tjeneste og præstation i 2018.",
   "rarity": {
@@ -3858,7 +3617,6 @@
  {
   "id": "collectible-1368",
   "name": "Tjenestemedalje 2018",
-  "name_original": "Collectible_GlobalGeneral2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Overrakt for enestående tjeneste og præstation i 2018.",
   "rarity": {
@@ -3874,7 +3632,6 @@
  {
   "id": "collectible-1369",
   "name": "Tjenestemedalje 2018",
-  "name_original": "Collectible_GlobalGeneral2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Overrakt for enestående tjeneste og præstation i 2018.",
   "rarity": {
@@ -3890,7 +3647,6 @@
  {
   "id": "collectible-1370",
   "name": "Tjenestemedalje 2018",
-  "name_original": "Collectible_GlobalGeneral2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Overrakt for enestående tjeneste og præstation i 2018.",
   "rarity": {
@@ -3906,7 +3662,6 @@
  {
   "id": "collectible-1371",
   "name": "Tjenestemedalje 2018",
-  "name_original": "Collectible_GlobalGeneral2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Overrakt for enestående tjeneste og præstation i 2018.",
   "rarity": {
@@ -3922,7 +3677,6 @@
  {
   "id": "collectible-1372",
   "name": "Tjenestemedalje 2018",
-  "name_original": "Collectible_GlobalGeneral2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Overrakt for enestående tjeneste og præstation i 2018.",
   "rarity": {
@@ -3938,7 +3692,6 @@
  {
   "id": "collectible-1376",
   "name": "Tjenestemedalje 2019",
-  "name_original": "Collectible_GlobalGeneral2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Overrakt for enestående tjeneste og præstation i 2019.",
   "rarity": {
@@ -3954,7 +3707,6 @@
  {
   "id": "collectible-1377",
   "name": "Tjenestemedalje 2019",
-  "name_original": "Collectible_GlobalGeneral2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Overrakt for enestående tjeneste og præstation i 2019.",
   "rarity": {
@@ -3970,7 +3722,6 @@
  {
   "id": "collectible-1378",
   "name": "Tjenestemedalje 2019",
-  "name_original": "Collectible_GlobalGeneral2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Overrakt for enestående tjeneste og præstation i 2019.",
   "rarity": {
@@ -3986,7 +3737,6 @@
  {
   "id": "collectible-1379",
   "name": "Tjenestemedalje 2019",
-  "name_original": "Collectible_GlobalGeneral2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Overrakt for enestående tjeneste og præstation i 2019.",
   "rarity": {
@@ -4002,7 +3752,6 @@
  {
   "id": "collectible-1380",
   "name": "Tjenestemedalje 2019",
-  "name_original": "Collectible_GlobalGeneral2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Overrakt for enestående tjeneste og præstation i 2019.",
   "rarity": {
@@ -4018,7 +3767,6 @@
  {
   "id": "collectible-1381",
   "name": "Tjenestemedalje 2019",
-  "name_original": "Collectible_GlobalGeneral2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Overrakt for enestående tjeneste og præstation i 2019.",
   "rarity": {
@@ -4034,7 +3782,6 @@
  {
   "id": "collectible-4353",
   "name": "Operation Hydra-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonEight2017_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
   "description": "Deltog i Operation Hydra.",
   "rarity": {
@@ -4050,7 +3797,6 @@
  {
   "id": "collectible-4354",
   "name": "Sølvmønt | Operation Hydra",
-  "name_original": "Collectible_CommunitySeasonEight2017_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
   "description": "Deltog i Operation Hydra.",
   "rarity": {
@@ -4066,7 +3812,6 @@
  {
   "id": "collectible-4355",
   "name": "Guldmønt | Operation Hydra",
-  "name_original": "Collectible_CommunitySeasonEight2017_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
   "description": "Deltog i Operation Hydra.",
   "rarity": {
@@ -4082,7 +3827,6 @@
  {
   "id": "collectible-4356",
   "name": "Diamantmønt | Operation Hydra",
-  "name_original": "Collectible_CommunitySeasonEight2017_Coin4",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
   "description": "Gennemførte Operation Hydra.",
   "rarity": {
@@ -4098,7 +3842,6 @@
  {
   "id": "collectible-4549",
   "name": "Premiumpas til Operation Shattered Web",
-  "name_original": "Ticket_CommunitySeasonNine2019",
   "code": "#CSGO_Ticket_CommunitySeasonNine2019",
   "description": "Operation Shattered Web-begivenheden kørte fra d. 18. november 2019 til d. 31. marts 2020. Dette pas giver ikke længere adgang til en operation, men kan indløses til en Operation Shattered Web-mønt til minde om den.",
   "rarity": {
@@ -4114,7 +3857,6 @@
  {
   "id": "collectible-4550",
   "name": "Operation Shattered Web-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonNine2019_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
   "description": "Deltog i Operation Shattered Web.",
   "rarity": {
@@ -4130,7 +3872,6 @@
  {
   "id": "collectible-4551",
   "name": "Sølvmønt for Operation Shattered Web",
-  "name_original": "Collectible_CommunitySeasonNine2019_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
   "description": "Deltog i Operation Shattered Web.",
   "rarity": {
@@ -4146,7 +3887,6 @@
  {
   "id": "collectible-4552",
   "name": "Guldmønt for Operation Shattered Web",
-  "name_original": "Collectible_CommunitySeasonNine2019_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
   "description": "Deltog i Operation Shattered Web.",
   "rarity": {
@@ -4162,7 +3902,6 @@
  {
   "id": "collectible-4553",
   "name": "Diamantmønt | Operation Shattered Web",
-  "name_original": "Collectible_CommunitySeasonNine2019_Coin4",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
   "description": "Gennemførte Operation Shattered Web.",
   "rarity": {
@@ -4178,7 +3917,6 @@
  {
   "id": "collectible-4554",
   "name": "Katowice 2019-seerpas",
-  "name_original": "TournamentPass_katowice2019",
   "code": "#CSGO_TournamentPass_katowice2019",
   "description": "Dette er et forseglet seerpas fra IEM 2019 Katowice CS:GO Major-mesterskabet. Når forseglingen er brudt, modtager du en Katowice 2019-mønt, som sporer dine fremskridt under begivenheden og giver fuld adgang til Katowice 2019 Pick'Em-udfordringen, eksklusiv adgang til souvenirpakker, chatemblemer på Steam.tv og ubegrænset holdgraffiti under hele begivenheden.\\n\\nDu kan opgradere din Katowice 2019-mønt ved at gennemføre udfordringer. Du kan indløse en souvenirpakke, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -4194,7 +3932,6 @@
  {
   "id": "collectible-4555",
   "name": "Mønt: Katowice 2019",
-  "name_original": "TournamentJournal_katowice2019",
   "code": "#CSGO_TournamentJournal_katowice2019",
   "description": "Dette er en erindringsmønt fra IEM 2019 Katowice CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Katowice 2019 Pick'Em-udfordringen, eksklusiv adgang til souvenirpakker, chatemblemer på Steam.tv og ubegrænset holdgraffiti under hele begivenheden.\\n\\nOpgrader din Katowice 2019-mønt ved at gennemføre møntudfordringer. Du kan indløse en souvenirpakke, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -4210,7 +3947,6 @@
  {
   "id": "collectible-4556",
   "name": "Sølvmønt: Katowice 2019",
-  "name_original": "TournamentJournal_katowice2019_Silver",
   "code": "#CSGO_TournamentJournal_katowice2019_Silver",
   "description": "Dette er en erindringsmønt fra IEM 2019 Katowice CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Katowice 2019 Pick'Em-udfordringen, eksklusiv adgang til souvenirpakker, chatemblemer på Steam.tv og ubegrænset holdgraffiti under hele begivenheden.\\n\\nOpgrader din Katowice 2019-mønt ved at gennemføre møntudfordringer. Du kan indløse en souvenirpakke, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -4226,7 +3962,6 @@
  {
   "id": "collectible-4557",
   "name": "Guldmønt: Katowice 2019",
-  "name_original": "TournamentJournal_katowice2019_Gold",
   "code": "#CSGO_TournamentJournal_katowice2019_Gold",
   "description": "Dette er en erindringsmønt fra IEM 2019 Katowice CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Katowice 2019 Pick'Em-udfordringen, eksklusiv adgang til souvenirpakker, chatemblemer på Steam.tv og ubegrænset holdgraffiti under hele begivenheden.\\n\\nOpgrader din Katowice 2019-mønt ved at gennemføre møntudfordringer. Du kan indløse en souvenirpakke, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -4242,7 +3977,6 @@
  {
   "id": "collectible-4558",
   "name": "Diamantmønt: Katowice 2019",
-  "name_original": "TournamentJournal_katowice2019_Crystal",
   "code": "#CSGO_TournamentJournal_katowice2019_Crystal",
   "description": "Dette er en erindringsmønt fra IEM 2019 Katowice CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Katowice 2019 Pick'Em-udfordringen, eksklusiv adgang til souvenirpakker, chatemblemer på Steam.tv og ubegrænset holdgraffiti under hele begivenheden.\\n\\nOpgrader din Katowice 2019-mønt ved at gennemføre møntudfordringer. Du kan indløse en souvenirpakke, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -4258,7 +3992,6 @@
  {
   "id": "collectible-4622",
   "name": "Berlin 2019-seerpas",
-  "name_original": "TournamentPass_berlin2019",
   "code": "#CSGO_TournamentPass_berlin2019",
   "description": "Dette er et forseglet seerpas til StarLadder 2019 Berlin CS:GO Major-mesterskabet. Når du åbner dette pas, får du en Berlin 2019-mønt, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Berlin 2019 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nOpgrader din Berlin 2019-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer mønten.",
   "rarity": {
@@ -4274,7 +4007,6 @@
  {
   "id": "collectible-4623",
   "name": "Mønt: Berlin 2019",
-  "name_original": "TournamentJournal_berlin2019",
   "code": "#CSGO_TournamentJournal_berlin2019",
   "description": "Dette er en erindringsmønt fra StarLadder 2019 Berlin CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Berlin 2019 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Berlin 2019-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -4290,7 +4022,6 @@
  {
   "id": "collectible-4624",
   "name": "Sølvmønt: Berlin 2019",
-  "name_original": "TournamentJournal_berlin2019_Silver",
   "code": "#CSGO_TournamentJournal_berlin2019_Silver",
   "description": "Dette er en erindringsmønt fra StarLadder 2019 Berlin CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Berlin 2019 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Berlin 2019-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -4306,7 +4037,6 @@
  {
   "id": "collectible-4625",
   "name": "Goldmønt: Berlin 2019",
-  "name_original": "TournamentJournal_berlin2019_Gold",
   "code": "#CSGO_TournamentJournal_berlin2019_Gold",
   "description": "Dette er en erindringsmønt fra StarLadder 2019 Berlin CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Berlin 2019 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Berlin 2019-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -4322,7 +4052,6 @@
  {
   "id": "collectible-4626",
   "name": "Diamantmønt: Berlin 2019",
-  "name_original": "TournamentJournal_berlin2019_Crystal",
   "code": "#CSGO_TournamentJournal_berlin2019_Crystal",
   "description": "Dette er en erindringsmønt fra StarLadder 2019 Berlin CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Berlin 2019 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Berlin 2019-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -4338,7 +4067,6 @@
  {
   "id": "collectible-4627",
   "name": "Berlin 2019-seerpas + 3 souvenirpoletter",
-  "name_original": "TournamentPass_berlin2019_pack",
   "code": "#CSGO_TournamentPass_berlin2019_pack",
   "description": "Dette er et forseglet seerpas til StarLadder 2019 Berlin CS:GO Major-mesterskabet. Når du åbner dette pas, får du en Berlin 2019-mønt, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Berlin 2019 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nOpgrader din Berlin 2019-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\nDette seerpas vil foraktivere din Berlin 2019-mønt med 3 souvenirpoletter.",
   "rarity": {
@@ -4354,7 +4082,6 @@
  {
   "id": "collectible-4628",
   "name": "Berlin 2019-souvenirpolet",
-  "name_original": "TournamentPass_berlin2019_charge",
   "code": "#CSGO_TournamentPass_berlin2019_charge",
   "description": "Dette er en forseglet souvenirpolet fra StarLadder 2019 Berlin CS:GO Major-mesterskabet. Når denne polet åbnes, lægges der en polet til din Berlin 2019-mønt, og du kan indløse en souvenirpakke.\\n\\nPoletter kan kun anvendes til din nuværende Berlin 2019-mønt.",
   "rarity": {
@@ -4370,7 +4097,6 @@
  {
   "id": "collectible-4671",
   "name": "1 stjerne til Operation Shattered Web",
-  "name_original": "Collectible_CommunitySeasonNine2019_PlusStars1",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
   "description": "Denne opgradering, som du kan købe, giver dig <b>1 operationsstjerne</b>, når den aktiveres.\\n\\nOpgraderingen er kun tilgængelig for spillere, som ejer operationsmønten.",
   "rarity": {
@@ -4386,7 +4112,6 @@
  {
   "id": "collectible-4672",
   "name": "10 stjerner til Operation Shattered Web",
-  "name_original": "Collectible_CommunitySeasonNine2019_PlusStars10",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
   "description": "Denne opgradering, som du kan købe, giver dig <b>10 operationsstjerner</b>, når den aktiveres.\\n\\nOpgraderingen er kun tilgængelig for spillere, som ejer operationsmønten.",
   "rarity": {
@@ -4402,7 +4127,6 @@
  {
   "id": "collectible-4673",
   "name": "100 stjerner til Operation Shattered Web",
-  "name_original": "Collectible_CommunitySeasonNine2019_PlusStars100",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
   "description": "Denne opgradering, som du kan købe, giver dig <b>100 operationsstjerner</b>, når den aktiveres.\\n\\nOpgraderingen er kun tilgængelig for spillere, som ejer operationsmønten.",
   "rarity": {
@@ -4418,7 +4142,6 @@
  {
   "id": "collectible-4674",
   "name": "Tjenestemedalje 2020",
-  "name_original": "Collectible_GlobalGeneral2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Overrakt for enestående tjeneste og præstation i 2020.",
   "rarity": {
@@ -4434,7 +4157,6 @@
  {
   "id": "collectible-4675",
   "name": "Tjenestemedalje 2020",
-  "name_original": "Collectible_GlobalGeneral2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Overrakt for enestående tjeneste og præstation i 2020.",
   "rarity": {
@@ -4450,7 +4172,6 @@
  {
   "id": "collectible-4676",
   "name": "Tjenestemedalje 2020",
-  "name_original": "Collectible_GlobalGeneral2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Overrakt for enestående tjeneste og præstation i 2020.",
   "rarity": {
@@ -4466,7 +4187,6 @@
  {
   "id": "collectible-4677",
   "name": "Tjenestemedalje 2020",
-  "name_original": "Collectible_GlobalGeneral2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Overrakt for enestående tjeneste og præstation i 2020.",
   "rarity": {
@@ -4482,7 +4202,6 @@
  {
   "id": "collectible-4678",
   "name": "Tjenestemedalje 2020",
-  "name_original": "Collectible_GlobalGeneral2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Overrakt for enestående tjeneste og præstation i 2020.",
   "rarity": {
@@ -4498,7 +4217,6 @@
  {
   "id": "collectible-4679",
   "name": "Tjenestemedalje 2020",
-  "name_original": "Collectible_GlobalGeneral2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Overrakt for enestående tjeneste og præstation i 2020.",
   "rarity": {
@@ -4514,7 +4232,6 @@
  {
   "id": "collectible-4682",
   "name": "Civil Protection-knappenål",
-  "name_original": "Collectible_Pin_alyx_04",
   "code": "#CSGO_Collectible_Pin_alyx_04",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4530,7 +4247,6 @@
  {
   "id": "collectible-4683",
   "name": "Sustenance!-knappenål",
-  "name_original": "Collectible_Pin_alyx_07",
   "code": "#CSGO_Collectible_Pin_alyx_07",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4546,7 +4262,6 @@
  {
   "id": "collectible-4684",
   "name": "Vortigaunt-knappenål",
-  "name_original": "Collectible_Pin_alyx_09",
   "code": "#CSGO_Collectible_Pin_alyx_09",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4562,7 +4277,6 @@
  {
   "id": "collectible-4685",
   "name": "Headcrab Glyph-knappenål",
-  "name_original": "Collectible_Pin_alyx_05",
   "code": "#CSGO_Collectible_Pin_alyx_05",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4578,7 +4292,6 @@
  {
   "id": "collectible-4686",
   "name": "Health-knappenål",
-  "name_original": "Collectible_Pin_alyx_12",
   "code": "#CSGO_Collectible_Pin_alyx_12",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4594,7 +4307,6 @@
  {
   "id": "collectible-4687",
   "name": "Lambda-knappenål",
-  "name_original": "Collectible_Pin_alyx_01",
   "code": "#CSGO_Collectible_Pin_alyx_01",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4610,7 +4322,6 @@
  {
   "id": "collectible-4688",
   "name": "Copper Lambda-knappenål",
-  "name_original": "Collectible_Pin_alyx_02",
   "code": "#CSGO_Collectible_Pin_alyx_02",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4626,7 +4337,6 @@
  {
   "id": "collectible-4689",
   "name": "CMB-knappenål",
-  "name_original": "Collectible_Pin_alyx_03",
   "code": "#CSGO_Collectible_Pin_alyx_03",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4642,7 +4352,6 @@
  {
   "id": "collectible-4690",
   "name": "Black Mesa-knappenål",
-  "name_original": "Collectible_Pin_alyx_06",
   "code": "#CSGO_Collectible_Pin_alyx_06",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4658,7 +4367,6 @@
  {
   "id": "collectible-4691",
   "name": "Combine Helmet-knappenål",
-  "name_original": "Collectible_Pin_alyx_08",
   "code": "#CSGO_Collectible_Pin_alyx_08",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4674,7 +4382,6 @@
  {
   "id": "collectible-4692",
   "name": "City 17-knappenål",
-  "name_original": "Collectible_Pin_alyx_11",
   "code": "#CSGO_Collectible_Pin_alyx_11",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -4690,7 +4397,6 @@
  {
   "id": "collectible-4699",
   "name": "Premiumpas til Operation Broken Fang",
-  "name_original": "Ticket_CommunitySeasonTen2020",
   "code": "#CSGO_Ticket_CommunitySeasonTen2020",
   "description": "Operation Broken Fang-begivenheden kørte fra d. 3. december 2020 til d. 30. april 2021. Dette pas giver ikke længere adgang til en operation, men kan indløses til en Operation Broken Fang-mønt til minde om den.",
   "rarity": {
@@ -4706,7 +4412,6 @@
  {
   "id": "collectible-4700",
   "name": "Operation Broken Fang-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonTen2020_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
   "description": "Deltog i Operation Broken Fang.",
   "rarity": {
@@ -4722,7 +4427,6 @@
  {
   "id": "collectible-4701",
   "name": "Sølvmønt | Operation Broken Fang",
-  "name_original": "Collectible_CommunitySeasonTen2020_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
   "description": "Deltog i Operation Broken Fang.",
   "rarity": {
@@ -4738,7 +4442,6 @@
  {
   "id": "collectible-4702",
   "name": "Guldmønt | Operation Broken Fang",
-  "name_original": "Collectible_CommunitySeasonTen2020_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
   "description": "Deltog i Operation Broken Fang.",
   "rarity": {
@@ -4754,7 +4457,6 @@
  {
   "id": "collectible-4703",
   "name": "Diamantmønt | Operation Broken Fang",
-  "name_original": "Collectible_CommunitySeasonTen2020_Coin4",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
   "description": "Gennemførte Operation Broken Fang.",
   "rarity": {
@@ -4770,7 +4472,6 @@
  {
   "id": "collectible-4704",
   "name": "1 stjerne til Operation Broken Fang",
-  "name_original": "Collectible_CommunitySeasonTen2020_PlusStars1",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
   "description": "Denne opgradering, som du kan købe, giver dig <b>1 operationsstjerne</b>, når den aktiveres.",
   "rarity": {
@@ -4786,7 +4487,6 @@
  {
   "id": "collectible-4705",
   "name": "10 stjerner til Operation Broken Fang",
-  "name_original": "Collectible_CommunitySeasonTen2020_PlusStars10",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
   "description": "Denne opgradering, som du kan købe, giver dig <b>10 operationsstjerner</b>, når den aktiveres.",
   "rarity": {
@@ -4802,7 +4502,6 @@
  {
   "id": "collectible-4706",
   "name": "100 stjerner til Operation Broken Fang",
-  "name_original": "Collectible_CommunitySeasonTen2020_PlusStars100",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
   "description": "Denne opgradering, som du kan købe, giver dig <b>100 operationsstjerner</b>, når den aktiveres.",
   "rarity": {
@@ -4818,7 +4517,6 @@
  {
   "id": "collectible-4737",
   "name": "Tjenestemedalje 2021",
-  "name_original": "Collectible_GlobalGeneral2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Overrakt for enestående tjeneste og præstation i 2021.",
   "rarity": {
@@ -4834,7 +4532,6 @@
  {
   "id": "collectible-4738",
   "name": "Tjenestemedalje 2021",
-  "name_original": "Collectible_GlobalGeneral2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Overrakt for enestående tjeneste og præstation i 2021.",
   "rarity": {
@@ -4850,7 +4547,6 @@
  {
   "id": "collectible-4739",
   "name": "Tjenestemedalje 2021",
-  "name_original": "Collectible_GlobalGeneral2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Overrakt for enestående tjeneste og præstation i 2021.",
   "rarity": {
@@ -4866,7 +4562,6 @@
  {
   "id": "collectible-4740",
   "name": "Tjenestemedalje 2021",
-  "name_original": "Collectible_GlobalGeneral2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Overrakt for enestående tjeneste og præstation i 2021.",
   "rarity": {
@@ -4882,7 +4577,6 @@
  {
   "id": "collectible-4741",
   "name": "Tjenestemedalje 2021",
-  "name_original": "Collectible_GlobalGeneral2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Overrakt for enestående tjeneste og præstation i 2021.",
   "rarity": {
@@ -4898,7 +4592,6 @@
  {
   "id": "collectible-4742",
   "name": "Tjenestemedalje 2021",
-  "name_original": "Collectible_GlobalGeneral2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Overrakt for enestående tjeneste og præstation i 2021.",
   "rarity": {
@@ -4914,7 +4607,6 @@
  {
   "id": "collectible-4758",
   "name": "Premiumpas til Operation Riptide",
-  "name_original": "Ticket_CommunitySeasonEleven2021",
   "code": "#CSGO_Ticket_CommunitySeasonEleven2021",
   "description": "Premiumpasset til Operation Riptide giver dig en Operation Riptide-mindemønt, som kan opgraderes, ugentlige missioner og adgang til eksklusive genstande i operationsbutikken.",
   "rarity": {
@@ -4930,7 +4622,6 @@
  {
   "id": "collectible-4759",
   "name": "Operation Riptide-udfordringsmønt",
-  "name_original": "Collectible_CommunitySeasonEleven2021_Coin1",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
   "description": "Deltog i Operation Riptide.",
   "rarity": {
@@ -4946,7 +4637,6 @@
  {
   "id": "collectible-4760",
   "name": "Sølvmønt | Operation Riptide",
-  "name_original": "Collectible_CommunitySeasonEleven2021_Coin2",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
   "description": "Deltog i Operation Riptide.",
   "rarity": {
@@ -4962,7 +4652,6 @@
  {
   "id": "collectible-4761",
   "name": "Guldmønt | Operation Riptide",
-  "name_original": "Collectible_CommunitySeasonEleven2021_Coin3",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
   "description": "Deltog i Operation Riptide.",
   "rarity": {
@@ -4978,7 +4667,6 @@
  {
   "id": "collectible-4762",
   "name": "Diamantmønt | Operation Riptide",
-  "name_original": "Collectible_CommunitySeasonEleven2021_Coin4",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
   "description": "Gennemførte Operation Riptide.",
   "rarity": {
@@ -4994,7 +4682,6 @@
  {
   "id": "collectible-4763",
   "name": "1 stjerne til Operation Riptide",
-  "name_original": "Collectible_CommunitySeasonEleven2021_PlusStars1",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
   "description": "Denne opgradering, som du kan købe, giver dig <b>1 operationsstjerne</b>, når den aktiveres.",
   "rarity": {
@@ -5010,7 +4697,6 @@
  {
   "id": "collectible-4764",
   "name": "10 stjerner til Operation Riptide",
-  "name_original": "Collectible_CommunitySeasonEleven2021_PlusStars10",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
   "description": "Denne opgradering, som du kan købe, giver dig <b>10 operationsstjerner</b>, når den aktiveres.",
   "rarity": {
@@ -5026,7 +4712,6 @@
  {
   "id": "collectible-4765",
   "name": "100 stjerner til Operation Riptide",
-  "name_original": "Collectible_CommunitySeasonEleven2021_PlusStars100",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
   "description": "Denne opgradering, som du kan købe, giver dig <b>100 operationsstjerner</b>, når den aktiveres.",
   "rarity": {
@@ -5042,7 +4727,6 @@
  {
   "id": "collectible-4796",
   "name": "Stockholm 2021 – Seerpas",
-  "name_original": "TournamentPass_stockh2021",
   "code": "#CSGO_TournamentPass_stockh2021",
   "description": "Dette er et forseglet seerpas til PGL Stockholm CS:GO Major-mesterskabet 2021. Når du åbner dette pas, modtager du Stockholm 2021-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Stockholm 2021 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nOpgrader din Stockholm 2021-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5058,7 +4742,6 @@
  {
   "id": "collectible-4797",
   "name": "Mønt: Stockholm 2021",
-  "name_original": "TournamentJournal_stockh2021",
   "code": "#CSGO_TournamentJournal_stockh2021",
   "description": "Dette er en erindringsmønt fra PGL 2021 Stockholm CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Stockholm 2021 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset holdgraffiti i spillet under hele begivenheden.\\n\\nOpgrader din Stockholm 2021-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5074,7 +4757,6 @@
  {
   "id": "collectible-4798",
   "name": "Sølvmønt: Stockholm 2021",
-  "name_original": "TournamentJournal_stockh2021_Silver",
   "code": "#CSGO_TournamentJournal_stockh2021_Silver",
   "description": "Dette er en erindringsmønt fra PGL 2021 Stockholm CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Stockholm 2021 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset holdgraffiti i spillet under hele begivenheden.\\n\\nOpgrader din Stockholm 2021-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5090,7 +4772,6 @@
  {
   "id": "collectible-4799",
   "name": "Guldmønt: Stockholm 2021",
-  "name_original": "TournamentJournal_stockh2021_Gold",
   "code": "#CSGO_TournamentJournal_stockh2021_Gold",
   "description": "Dette er en erindringsmønt fra PGL 2021 Stockholm CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Stockholm 2021 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset holdgraffiti i spillet under hele begivenheden.\\n\\nOpgrader din Stockholm 2021-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5106,7 +4787,6 @@
  {
   "id": "collectible-4800",
   "name": "Diamantmønt: Stockholm 2021",
-  "name_original": "TournamentJournal_stockh2021_Crystal",
   "code": "#CSGO_TournamentJournal_stockh2021_Crystal",
   "description": "Dette er en erindringsmønt fra PGL 2021 Stockholm CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Stockholm 2021 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset holdgraffiti i spillet under hele begivenheden.\\n\\nOpgrader din Stockholm 2021-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5122,7 +4802,6 @@
  {
   "id": "collectible-4801",
   "name": "Stockholm 2021 – Seerpas + 3 souvenirpoletter",
-  "name_original": "TournamentPass_stockh2021_pack",
   "code": "#CSGO_TournamentPass_stockh2021_pack",
   "description": "Dette er et forseglet seerpas til PGL Stockholm CS:GO Major-mesterskabet 2021. Når du åbner dette pas, modtager du Stockholm 2021-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Stockholm 2021 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nDu opgraderer din Stockholm 2021-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\nDette seerpas forudaktiverer din Stockholm 2021-mønt med 3 souvenirpoletter.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5138,7 +4817,6 @@
  {
   "id": "collectible-4802",
   "name": "Stockholm 2021-souvenirpolet",
-  "name_original": "TournamentPass_stockh2021_charge",
   "code": "#CSGO_TournamentPass_stockh2021_charge",
   "description": "Dette er en forseglet souvenirpolet fra PGL Stockholm CS:GO Major-mesterskabet 2021. Når denne polet åbnes, føjes der en polet til din Stockholm 2021-mønt, som du kan bruge til at indløse en souvenirpakke.\\n\\nPoletter kan kun føjes til din nuværende Stockholm-mønt.",
   "rarity": {
@@ -5154,7 +4832,6 @@
  {
   "id": "collectible-4819",
   "name": "Tjenestemedalje 2022",
-  "name_original": "Collectible_GlobalGeneral2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Overrakt for enestående tjeneste og præstation i 2022.",
   "rarity": {
@@ -5170,7 +4847,6 @@
  {
   "id": "collectible-4820",
   "name": "Tjenestemedalje 2022",
-  "name_original": "Collectible_GlobalGeneral2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Overrakt for enestående tjeneste og præstation i 2022.",
   "rarity": {
@@ -5186,7 +4862,6 @@
  {
   "id": "collectible-4821",
   "name": "Tjenestemedalje 2022",
-  "name_original": "Collectible_GlobalGeneral2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Overrakt for enestående tjeneste og præstation i 2022.",
   "rarity": {
@@ -5202,7 +4877,6 @@
  {
   "id": "collectible-4822",
   "name": "Tjenestemedalje 2022",
-  "name_original": "Collectible_GlobalGeneral2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Overrakt for enestående tjeneste og præstation i 2022.",
   "rarity": {
@@ -5218,7 +4892,6 @@
  {
   "id": "collectible-4823",
   "name": "Tjenestemedalje 2022",
-  "name_original": "Collectible_GlobalGeneral2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Overrakt for enestående tjeneste og præstation i 2022.",
   "rarity": {
@@ -5234,7 +4907,6 @@
  {
   "id": "collectible-4824",
   "name": "Tjenestemedalje 2022",
-  "name_original": "Collectible_GlobalGeneral2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Overrakt for enestående tjeneste og præstation i 2022.",
   "rarity": {
@@ -5250,7 +4922,6 @@
  {
   "id": "collectible-4825",
   "name": "Antwerp 2022 – Seerpas",
-  "name_original": "TournamentPass_antwerp2022",
   "code": "#CSGO_TournamentPass_antwerp2022",
   "description": "Dette er et forseglet seerpas til PGL Antwerp CS:GO Major-mesterskabet 2022. Når du åbner dette pas, modtager du Antwerp 2022-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Antwerp 2022 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nOpgrader din Antwerp 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5266,7 +4937,6 @@
  {
   "id": "collectible-4826",
   "name": "Mønt: Antwerp 2022",
-  "name_original": "TournamentJournal_antwerp2022",
   "code": "#CSGO_TournamentJournal_antwerp2022",
   "description": "Dette er en mindemønt fra PGL 2022 Antwerp CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Antwerp 2022 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Antwerp 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5282,7 +4952,6 @@
  {
   "id": "collectible-4827",
   "name": "Sølvmønt: Antwerp 2022",
-  "name_original": "TournamentJournal_antwerp2022_Silver",
   "code": "#CSGO_TournamentJournal_antwerp2022_Silver",
   "description": "Dette er en mindemønt fra PGL 2022 Antwerp CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Antwerp 2022 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Antwerp 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5298,7 +4967,6 @@
  {
   "id": "collectible-4828",
   "name": "Guldmønt: Antwerp 2022",
-  "name_original": "TournamentJournal_antwerp2022_Gold",
   "code": "#CSGO_TournamentJournal_antwerp2022_Gold",
   "description": "Dette er en mindemønt fra PGL 2022 Antwerp CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Antwerp 2022 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Antwerp 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5314,7 +4982,6 @@
  {
   "id": "collectible-4829",
   "name": "Diamantmønt: Antwerp 2022",
-  "name_original": "TournamentJournal_antwerp2022_Crystal",
   "code": "#CSGO_TournamentJournal_antwerp2022_Crystal",
   "description": "Dette er en mindemønt fra PGL 2022 Antwerp CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Antwerp 2022 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Antwerp 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5330,7 +4997,6 @@
  {
   "id": "collectible-4830",
   "name": "Seerpas til Antwerp 2022 + 3 souvenirpoletter",
-  "name_original": "TournamentPass_antwerp2022_pack",
   "code": "#CSGO_TournamentPass_antwerp2022_pack",
   "description": "Dette er et forseglet seerpas til PGL Antwerp CS:GO Major-mesterskabet 2022. Når du åbner dette pas, modtager du Antwerp 2022-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Antwerp 2022 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nDu opgraderer din Antwerp 2022-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\nDette seerpas forudaktiverer din Antwerp 2022-mønt med 3 souvenirpoletter.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5346,7 +5012,6 @@
  {
   "id": "collectible-4831",
   "name": "Antwerp 2022-souvenirpolet",
-  "name_original": "TournamentPass_antwerp2022_charge",
   "code": "#CSGO_TournamentPass_antwerp2022_charge",
   "description": "Dette er en forseglet souvenirpolet fra PGL Antwerp CS:GO Major-mesterskabet 2022. Når denne polet åbnes, føjes der en polet til din Antwerp 2022-mønt, som du kan bruge til at indløse en souvenirpakke.\\n\\nPoletter kan kun føjes til din nuværende Antwerp-mønt.",
   "rarity": {
@@ -5362,7 +5027,6 @@
  {
   "id": "collectible-4850",
   "name": "Rio 2022 – Seerpas",
-  "name_original": "TournamentPass_rio2022",
   "code": "#CSGO_TournamentPass_rio2022",
   "description": "Dette er et forseglet seerpas til IEM Rio CS:GO Major-mesterskabet 2022. Når du åbner dette pas, modtager du Rio 2022-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Rio 2022 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nOpgrader din Rio 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5378,7 +5042,6 @@
  {
   "id": "collectible-4851",
   "name": "Mønt: Rio 2022",
-  "name_original": "TournamentJournal_rio2022",
   "code": "#CSGO_TournamentJournal_rio2022",
   "description": "Dette er en mindemønt fra IEM 2022 Rio CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Rio 2022 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Rio 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5394,7 +5057,6 @@
  {
   "id": "collectible-4852",
   "name": "Sølvmønt: Rio 2022",
-  "name_original": "TournamentJournal_rio2022_Silver",
   "code": "#CSGO_TournamentJournal_rio2022_Silver",
   "description": "Dette er en mindemønt fra IEM 2022 Rio CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Rio 2022 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Rio 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5410,7 +5072,6 @@
  {
   "id": "collectible-4853",
   "name": "Guldmønt: Rio 2022",
-  "name_original": "TournamentJournal_rio2022_Gold",
   "code": "#CSGO_TournamentJournal_rio2022_Gold",
   "description": "Dette er en mindemønt fra IEM 2022 Rio CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Rio 2022 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Rio 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5426,7 +5087,6 @@
  {
   "id": "collectible-4854",
   "name": "Diamantmønt: Rio 2022",
-  "name_original": "TournamentJournal_rio2022_Crystal",
   "code": "#CSGO_TournamentJournal_rio2022_Crystal",
   "description": "Dette er en mindemønt fra IEM 2022 Rio CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Rio 2022 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Rio 2022-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5442,7 +5102,6 @@
  {
   "id": "collectible-4855",
   "name": "Rio 2022-seerpas + 3 souvenirpoletter",
-  "name_original": "TournamentPass_rio2022_pack",
   "code": "#CSGO_TournamentPass_rio2022_pack",
   "description": "Dette er et forseglet seerpas til IEM Rio CS:GO Major-mesterskabet 2022. Når du åbner dette pas, modtager du Rio 2022-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Rio 2022 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nDu opgraderer din Rio 2022-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\nDette seerpas forudaktiverer din Rio 2022-mønt med 3 souvenirpoletter.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5458,7 +5117,6 @@
  {
   "id": "collectible-4856",
   "name": "Rio 2022-souvenirpolet",
-  "name_original": "TournamentPass_rio2022_charge",
   "code": "#CSGO_TournamentPass_rio2022_charge",
   "description": "Dette er en forseglet souvenirpolet fra IEM 2022 Rio CS:GO Major-mesterskabet. Når denne polet åbnes, lægges der en polet til din Rio 2022-mønt, og du kan indløse en souvenirpakke.\\n\\nPoletter kan kun anvendes til din nuværende Rio 2022-mønt.",
   "rarity": {
@@ -5474,7 +5132,6 @@
  {
   "id": "collectible-4873",
   "name": "Tjenestemedalje 2023",
-  "name_original": "Collectible_GlobalGeneral2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Overrakt for enestående tjeneste og præstation i 2023.",
   "rarity": {
@@ -5490,7 +5147,6 @@
  {
   "id": "collectible-4874",
   "name": "Tjenestemedalje 2023",
-  "name_original": "Collectible_GlobalGeneral2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Overrakt for enestående tjeneste og præstation i 2023.",
   "rarity": {
@@ -5506,7 +5162,6 @@
  {
   "id": "collectible-4875",
   "name": "Tjenestemedalje 2023",
-  "name_original": "Collectible_GlobalGeneral2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Overrakt for enestående tjeneste og præstation i 2023.",
   "rarity": {
@@ -5522,7 +5177,6 @@
  {
   "id": "collectible-4876",
   "name": "Tjenestemedalje 2023",
-  "name_original": "Collectible_GlobalGeneral2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Overrakt for enestående tjeneste og præstation i 2023.",
   "rarity": {
@@ -5538,7 +5192,6 @@
  {
   "id": "collectible-4877",
   "name": "Tjenestemedalje 2023",
-  "name_original": "Collectible_GlobalGeneral2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Overrakt for enestående tjeneste og præstation i 2023.",
   "rarity": {
@@ -5554,7 +5207,6 @@
  {
   "id": "collectible-4878",
   "name": "Tjenestemedalje 2023",
-  "name_original": "Collectible_GlobalGeneral2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Overrakt for enestående tjeneste og præstation i 2023.",
   "rarity": {
@@ -5570,7 +5222,6 @@
  {
   "id": "collectible-4883",
   "name": "Paris 2023 – Seerpas",
-  "name_original": "TournamentPass_paris2023",
   "code": "#CSGO_TournamentPass_paris2023",
   "description": "Dette er et forseglet seerpas til BLAST.tv Paris CS:GO Major-mesterskabet 2023. Når du åbner dette pas, modtager du Paris 2023-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Paris 2023 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nDu opgraderer din Paris 2023-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5586,7 +5237,6 @@
  {
   "id": "collectible-4884",
   "name": "Mønt: Paris 2023",
-  "name_original": "TournamentJournal_paris2023",
   "code": "#CSGO_TournamentJournal_paris2023",
   "description": "Dette er en mindemønt fra BLAST.tv Paris 2023 CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Paris 2023 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Paris 2023-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5602,7 +5252,6 @@
  {
   "id": "collectible-4885",
   "name": "Sølvmønt: Paris 2023",
-  "name_original": "TournamentJournal_paris2023_Silver",
   "code": "#CSGO_TournamentJournal_paris2023_Silver",
   "description": "Dette er en mindemønt fra BLAST.tv Paris 2023 CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Paris 2023 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Paris 2023-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5618,7 +5267,6 @@
  {
   "id": "collectible-4886",
   "name": "Guldmønt: Paris 2023",
-  "name_original": "TournamentJournal_paris2023_Gold",
   "code": "#CSGO_TournamentJournal_paris2023_Gold",
   "description": "Dette er en mindemønt fra BLAST.tv Paris 2023 CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Paris 2023 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Paris 2023-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5634,7 +5282,6 @@
  {
   "id": "collectible-4887",
   "name": "Diamantmønt: Paris 2023",
-  "name_original": "TournamentJournal_paris2023_Crystal",
   "code": "#CSGO_TournamentJournal_paris2023_Crystal",
   "description": "Dette er en mindemønt fra BLAST.tv Paris 2023 CS:GO Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Paris 2023 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Paris 2023-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5650,7 +5297,6 @@
  {
   "id": "collectible-4888",
   "name": "Paris 2023-seerpas + 3 souvenirpoletter",
-  "name_original": "TournamentPass_paris2023_pack",
   "code": "#CSGO_TournamentPass_paris2023_pack",
   "description": "Dette er et forseglet seerpas til BLAST.tv Paris CS:GO Major-mesterskabet 2023. Når du åbner dette pas, modtager du Paris 2023-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Paris 2023 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nDu opgraderer din Paris 2023-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\nDette seerpas forudaktiverer din Paris 2023-mønt med 3 souvenirpoletter.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5666,7 +5312,6 @@
  {
   "id": "collectible-4889",
   "name": "Paris 2023-souvenirpolet",
-  "name_original": "TournamentPass_paris2023_charge",
   "code": "#CSGO_TournamentPass_paris2023_charge",
   "description": "Dette er en forseglet souvenirpolet fra BLAST.tv Paris 2023 CS:GO Major-mesterskabet. Når denne polet åbnes, lægges der en polet til din Paris 2023-mønt, og du kan indløse en souvenirpakke.\\n\\nPoletter kan kun anvendes til din nuværende Paris 2023-mønt.",
   "rarity": {
@@ -5682,7 +5327,6 @@
  {
   "id": "collectible-4906",
   "name": "Tjenestemedalje 2024",
-  "name_original": "Collectible_GlobalGeneral2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Overrakt for enestående tjeneste og præstation i 2024.",
   "rarity": {
@@ -5698,7 +5342,6 @@
  {
   "id": "collectible-4907",
   "name": "Tjenestemedalje 2024",
-  "name_original": "Collectible_GlobalGeneral2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Overrakt for enestående tjeneste og præstation i 2024.",
   "rarity": {
@@ -5714,7 +5357,6 @@
  {
   "id": "collectible-4908",
   "name": "Tjenestemedalje 2024",
-  "name_original": "Collectible_GlobalGeneral2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Overrakt for enestående tjeneste og præstation i 2024.",
   "rarity": {
@@ -5730,7 +5372,6 @@
  {
   "id": "collectible-4909",
   "name": "Tjenestemedalje 2024",
-  "name_original": "Collectible_GlobalGeneral2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Overrakt for enestående tjeneste og præstation i 2024.",
   "rarity": {
@@ -5746,7 +5387,6 @@
  {
   "id": "collectible-4910",
   "name": "Tjenestemedalje 2024",
-  "name_original": "Collectible_GlobalGeneral2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Overrakt for enestående tjeneste og præstation i 2024.",
   "rarity": {
@@ -5762,7 +5402,6 @@
  {
   "id": "collectible-4911",
   "name": "Tjenestemedalje 2024",
-  "name_original": "Collectible_GlobalGeneral2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Overrakt for enestående tjeneste og præstation i 2024.",
   "rarity": {
@@ -5778,7 +5417,6 @@
  {
   "id": "collectible-4916",
   "name": "Copenhagen 2024-seerpas",
-  "name_original": "TournamentPass_cph2024",
   "code": "#CSGO_TournamentPass_cph2024",
   "description": "Dette er et forseglet seerpas til PGL Copenhagen 2024 CS2 Major-mesterskabet. Når du åbner dette pas, modtager du Copenhagen 2024-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Copenhagen 2024 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nOpgrader din Copenhagen 2024-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5794,7 +5432,6 @@
  {
   "id": "collectible-4917",
   "name": "Mønt: Copenhagen 2024",
-  "name_original": "TournamentJournal_cph2024",
   "code": "#CSGO_TournamentJournal_cph2024",
   "description": "Dette er en mindemønt fra PGL Copenhagen 2024 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Copenhagen 2024 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Copenhagen 2024-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5810,7 +5447,6 @@
  {
   "id": "collectible-4918",
   "name": "Sølvmønt: Copenhagen 2024",
-  "name_original": "TournamentJournal_cph2024_Silver",
   "code": "#CSGO_TournamentJournal_cph2024_Silver",
   "description": "Dette er en mindemønt fra PGL Copenhagen 2024 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Copenhagen 2024 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Copenhagen 2024-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5826,7 +5462,6 @@
  {
   "id": "collectible-4919",
   "name": "Guldmønt: Copenhagen 2024",
-  "name_original": "TournamentJournal_cph2024_Gold",
   "code": "#CSGO_TournamentJournal_cph2024_Gold",
   "description": "Dette er en mindemønt fra PGL Copenhagen 2024 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Copenhagen 2024 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Copenhagen 2024-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5842,7 +5477,6 @@
  {
   "id": "collectible-4920",
   "name": "Diamantmønt: Copenhagen 2024",
-  "name_original": "TournamentJournal_cph2024_Crystal",
   "code": "#CSGO_TournamentJournal_cph2024_Crystal",
   "description": "Dette er en mindemønt fra PGL Copenhagen 2024 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Copenhagen 2024 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Copenhagen 2024-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -5858,7 +5492,6 @@
  {
   "id": "collectible-4921",
   "name": "Copenhagen 2024-seerpas + 3 souvenirpoletter",
-  "name_original": "TournamentPass_cph2024_pack",
   "code": "#CSGO_TournamentPass_cph2024_pack",
   "description": "Dette er et forseglet seerpas til PGL Copenhagen CS2 Major-mesterskabet 2024. Når du åbner dette pas, modtager du Copenhagen 2024-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Copenhagen 2024 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nDu opgraderer din Copenhagen 2024-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\nDette seerpas forudaktiverer din Copenhagen 2024-mønt med 3 souvenirpoletter.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -5874,7 +5507,6 @@
  {
   "id": "collectible-4922",
   "name": "Copenhagen 2024-souvenirpakke",
-  "name_original": "TournamentPass_cph2024_charge",
   "code": "#CSGO_TournamentPass_cph2024_charge",
   "description": "Dette er en forseglet souvenirpakke til PGL Copenhagen 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -5890,7 +5522,6 @@
  {
   "id": "collectible-4933",
   "name": "Mester ved PGL Copenhagen 2024",
-  "name_original": "CollectibleCoin_cph2024_Champion",
   "code": "#CSGO_CollectibleCoin_cph2024_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved PGL Copenhagen 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -5906,7 +5537,6 @@
  {
   "id": "collectible-4934",
   "name": "Finalist ved PGL Copenhagen 2024",
-  "name_original": "CollectibleCoin_cph2024_Finalist",
   "code": "#CSGO_CollectibleCoin_cph2024_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved PGL Copenhagen 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -5922,7 +5552,6 @@
  {
   "id": "collectible-4935",
   "name": "Semifinalist ved PGL Copenhagen 2024",
-  "name_original": "CollectibleCoin_cph2024_Semifinalist",
   "code": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved PGL Copenhagen 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -5938,7 +5567,6 @@
  {
   "id": "collectible-4936",
   "name": "Kvartfinalist ved PGL Copenhagen 2024",
-  "name_original": "CollectibleCoin_cph2024_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved PGL Copenhagen 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -5954,7 +5582,6 @@
  {
   "id": "collectible-4941",
   "name": "Banemønt: Thera",
-  "name_original": "Collectible_MapTokenThera",
   "code": "#CSGO_Collectible_MapTokenThera",
   "description": "Til minde om skabelsen af CS2-banen \\\"Thera\\\"",
   "rarity": {
@@ -5970,7 +5597,6 @@
  {
   "id": "collectible-4942",
   "name": "Banemønt: Mills",
-  "name_original": "Collectible_MapTokenMills",
   "code": "#CSGO_Collectible_MapTokenMills",
   "description": "Til minde om skabelsen af CS2-banen \\\"Mills\\\"",
   "rarity": {
@@ -5986,7 +5612,6 @@
  {
   "id": "collectible-4943",
   "name": "Banemønt: Assembly",
-  "name_original": "Collectible_MapTokenAssembly",
   "code": "#CSGO_Collectible_MapTokenAssembly",
   "description": "Til minde om skabelsen af CS2-banen \\\"Assembly\\\"",
   "rarity": {
@@ -6002,7 +5627,6 @@
  {
   "id": "collectible-4944",
   "name": "Banemønt: Memento",
-  "name_original": "Collectible_MapTokenMemento",
   "code": "#CSGO_Collectible_MapTokenMemento",
   "description": "Til minde om skabelsen af CS2-banen \\\"Memento\\\"",
   "rarity": {
@@ -6018,7 +5642,6 @@
  {
   "id": "collectible-4945",
   "name": "Banemønt: Pool Day",
-  "name_original": "Collectible_MapTokenPoolDay",
   "code": "#CSGO_Collectible_MapTokenPoolDay",
   "description": "Til minde om skabelsen af CS2-banen \\\"Pool Day\\\"",
   "rarity": {
@@ -6034,7 +5657,6 @@
  {
   "id": "collectible-4951",
   "name": "Tjenestemedalje 2025",
-  "name_original": "Collectible_GlobalGeneral2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Overrakt for enestående tjeneste og præstation i 2025.",
   "rarity": {
@@ -6050,7 +5672,6 @@
  {
   "id": "collectible-4952",
   "name": "Tjenestemedalje 2025",
-  "name_original": "Collectible_GlobalGeneral2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Overrakt for enestående tjeneste og præstation i 2025.",
   "rarity": {
@@ -6066,7 +5687,6 @@
  {
   "id": "collectible-4953",
   "name": "Tjenestemedalje 2025",
-  "name_original": "Collectible_GlobalGeneral2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Overrakt for enestående tjeneste og præstation i 2025.",
   "rarity": {
@@ -6082,7 +5702,6 @@
  {
   "id": "collectible-4954",
   "name": "Tjenestemedalje 2025",
-  "name_original": "Collectible_GlobalGeneral2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Overrakt for enestående tjeneste og præstation i 2025.",
   "rarity": {
@@ -6098,7 +5717,6 @@
  {
   "id": "collectible-4955",
   "name": "Tjenestemedalje 2025",
-  "name_original": "Collectible_GlobalGeneral2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Overrakt for enestående tjeneste og præstation i 2025.",
   "rarity": {
@@ -6114,7 +5732,6 @@
  {
   "id": "collectible-4956",
   "name": "Tjenestemedalje 2025",
-  "name_original": "Collectible_GlobalGeneral2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Overrakt for enestående tjeneste og præstation i 2025.",
   "rarity": {
@@ -6130,7 +5747,6 @@
  {
   "id": "collectible-4957",
   "name": "Shanghai 2024-seerpas",
-  "name_original": "TournamentPass_sha2024",
   "code": "#CSGO_TournamentPass_sha2024",
   "description": "Dette er et forseglet seerpas til Perfect World Shanghai 2024 CS2 Major-mesterskabet. Når du åbner dette pas, modtager du Shanghai 2024-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Shanghai 2024 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nOpgrader din Shanghai 2024-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -6146,7 +5762,6 @@
  {
   "id": "collectible-4958",
   "name": "Mønt: Shanghai 2024",
-  "name_original": "TournamentJournal_sha2024",
   "code": "#CSGO_TournamentJournal_sha2024",
   "description": "Dette er en mindemønt fra Perfect World Shanghai 2024 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Shanghai 2024 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Shanghai 2024-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -6162,7 +5777,6 @@
  {
   "id": "collectible-4959",
   "name": "Sølvmønt: Shanghai 2024",
-  "name_original": "TournamentJournal_sha2024_Silver",
   "code": "#CSGO_TournamentJournal_sha2024_Silver",
   "description": "Dette er en mindemønt fra Perfect World Shanghai 2024 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Shanghai 2024 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Shanghai 2024-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -6178,7 +5792,6 @@
  {
   "id": "collectible-4960",
   "name": "Guldmønt: Shanghai 2024",
-  "name_original": "TournamentJournal_sha2024_Gold",
   "code": "#CSGO_TournamentJournal_sha2024_Gold",
   "description": "Dette er en mindemønt fra Perfect World Shanghai 2024 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Shanghai 2024 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Shanghai 2024-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -6194,7 +5807,6 @@
  {
   "id": "collectible-4961",
   "name": "Diamantmønt: Shanghai 2024",
-  "name_original": "TournamentJournal_sha2024_Crystal",
   "code": "#CSGO_TournamentJournal_sha2024_Crystal",
   "description": "Dette er en mindemønt fra Perfect World Shanghai 2024 CS2 Major-mesterskabet, som sporer dine fremskridt under begivenheden og giver fuld adgang til Shanghai 2024 Pick'Em-udfordringen, chatemblemer på Steam.tv, møntudfordringer og mulighed for ubegrænset graffiti under hele begivenheden.\\n\\nOpgrader din Shanghai 2024-mønt ved at gennemføre møntudfordringer. Optjen en souvenirpolet, hver gang du opgraderer din mønt.",
   "rarity": {
@@ -6210,7 +5822,6 @@
  {
   "id": "collectible-4962",
   "name": "Shanghai 2024-seerpas + 3 souvenirpoletter",
-  "name_original": "TournamentPass_sha2024_pack",
   "code": "#CSGO_TournamentPass_sha2024_pack",
   "description": "Dette er et forseglet seerpas til Perfect World Shanghai CS2 Major-mesterskabet 2024. Når du åbner dette pas, modtager du Shanghai 2024-mønten, der sporer dine fremskridt gennem hele begivenheden, fuld adgang til Shanghai 2024 Pick'Em-udfordringen, Steam.tv-chatudsmykning, møntudfordringer og ubegrænsede graffitimuligheder i spillet under begivenheden.\\n\\nDu opgraderer din Shanghai 2024-mønt ved at gennemføre møntudfordringerne. Optjen en souvenirpolet, hver gang du opgraderer mønten.\\n\\nDette seerpas forudaktiverer din Shanghai 2024-mønt med 3 souvenirpoletter.\\n\\n50% af indtægterne fra salget af dette pas støtter de deltagende organisationer.",
   "rarity": {
@@ -6226,7 +5837,6 @@
  {
   "id": "collectible-4963",
   "name": "Shanghai 2024 – Souvenirpakke",
-  "name_original": "TournamentPass_sha2024_charge",
   "code": "#CSGO_TournamentPass_sha2024_charge",
   "description": "Dette er en forseglet souvenirpakke til Perfect World Shanghai 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -6242,7 +5852,6 @@
  {
   "id": "collectible-4974",
   "name": "Mester ved Perfect World Shanghai 2024",
-  "name_original": "CollectibleCoin_sha2024_Champion",
   "code": "#CSGO_CollectibleCoin_sha2024_Champion",
   "description": "Dette mesterskabstrofæ blev overrakt til vinderen ved Perfect World Shanghai 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -6258,7 +5867,6 @@
  {
   "id": "collectible-4975",
   "name": "Finalist ved Perfect World Shanghai 2024",
-  "name_original": "CollectibleCoin_sha2024_Finalist",
   "code": "#CSGO_CollectibleCoin_sha2024_Finalist",
   "description": "Dette mesterskabstrofæ blev overrakt til finalisten ved Perfect World Shanghai 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -6274,7 +5882,6 @@
  {
   "id": "collectible-4976",
   "name": "Semifinalist ved Perfect World Shanghai 2024",
-  "name_original": "CollectibleCoin_sha2024_Semifinalist",
   "code": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til semifinalisten ved Perfect World Shanghai 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -6290,7 +5897,6 @@
  {
   "id": "collectible-4977",
   "name": "Kvartfinalist ved Perfect World Shanghai 2024",
-  "name_original": "CollectibleCoin_sha2024_Quarterfinalist",
   "code": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
   "description": "Dette mesterskabstrofæ blev overrakt til kvartfinalisten ved Perfect World Shanghai 2024 CS2 Major-mesterskabet.",
   "rarity": {
@@ -6306,7 +5912,6 @@
  {
   "id": "collectible-4982",
   "name": "Banemønt: Whistle",
-  "name_original": "Collectible_MapTokenWhistle",
   "code": "#CSGO_Collectible_MapTokenWhistle",
   "description": "Til minde om skabelsen af CS2-banen \\\"Whistle\\\"",
   "rarity": {
@@ -6322,7 +5927,6 @@
  {
   "id": "collectible-4983",
   "name": "Banemønt: Palais",
-  "name_original": "Collectible_MapTokenPalais",
   "code": "#CSGO_Collectible_MapTokenPalais",
   "description": "Til minde om skabelsen af CS2-banen \\\"Palais\\\"",
   "rarity": {
@@ -6338,7 +5942,6 @@
  {
   "id": "collectible-4984",
   "name": "Banemønt: Edin",
-  "name_original": "Collectible_MapTokenEdin",
   "code": "#CSGO_Collectible_MapTokenEdin",
   "description": "Til minde om skabelsen af CS2-banen \\\"Edin\\\"",
   "rarity": {
@@ -6354,7 +5957,6 @@
  {
   "id": "collectible-4985",
   "name": "Banemønt: Basalt",
-  "name_original": "Collectible_MapTokenBasaltCS2",
   "code": "#CSGO_Collectible_MapTokenBasaltCS2",
   "description": "Til minde om skabelsen af CS2-banen \\\"Basalt\\\"",
   "rarity": {
@@ -6370,7 +5972,6 @@
  {
   "id": "collectible-4986",
   "name": "Medalje for første sæson af Premier",
-  "name_original": "Collectible_PremierSeason1Coin",
   "code": "#CSGO_Collectible_PremierSeason1Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i første sæson af Premier.",
   "rarity": {
@@ -6386,7 +5987,6 @@
  {
   "id": "collectible-4987",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6402,7 +6002,6 @@
  {
   "id": "collectible-4988",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6418,7 +6017,6 @@
  {
   "id": "collectible-4989",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6434,7 +6032,6 @@
  {
   "id": "collectible-4990",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6450,7 +6047,6 @@
  {
   "id": "collectible-4991",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6466,7 +6062,6 @@
  {
   "id": "collectible-4992",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6482,7 +6077,6 @@
  {
   "id": "collectible-4993",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6498,7 +6092,6 @@
  {
   "id": "collectible-4994",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6514,7 +6107,6 @@
  {
   "id": "collectible-4995",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6530,7 +6122,6 @@
  {
   "id": "collectible-4996",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6546,7 +6137,6 @@
  {
   "id": "collectible-4997",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6562,7 +6152,6 @@
  {
   "id": "collectible-4998",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6578,7 +6167,6 @@
  {
   "id": "collectible-4999",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6594,7 +6182,6 @@
  {
   "id": "collectible-5000",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6610,7 +6197,6 @@
  {
   "id": "collectible-5001",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6626,7 +6212,6 @@
  {
   "id": "collectible-5002",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6642,7 +6227,6 @@
  {
   "id": "collectible-5003",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6658,7 +6242,6 @@
  {
   "id": "collectible-5004",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6674,7 +6257,6 @@
  {
   "id": "collectible-5005",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6690,7 +6272,6 @@
  {
   "id": "collectible-5006",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6706,7 +6287,6 @@
  {
   "id": "collectible-5007",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6722,7 +6302,6 @@
  {
   "id": "collectible-5008",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6738,7 +6317,6 @@
  {
   "id": "collectible-5009",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6754,7 +6332,6 @@
  {
   "id": "collectible-5010",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6770,7 +6347,6 @@
  {
   "id": "collectible-5011",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6786,7 +6362,6 @@
  {
   "id": "collectible-5012",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6802,7 +6377,6 @@
  {
   "id": "collectible-5013",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6818,7 +6392,6 @@
  {
   "id": "collectible-5014",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6834,7 +6407,6 @@
  {
   "id": "collectible-5015",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6850,7 +6422,6 @@
  {
   "id": "collectible-5016",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6866,7 +6437,6 @@
  {
   "id": "collectible-5017",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6882,7 +6452,6 @@
  {
   "id": "collectible-5018",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6898,7 +6467,6 @@
  {
   "id": "collectible-5019",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6914,7 +6482,6 @@
  {
   "id": "collectible-5020",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6930,7 +6497,6 @@
  {
   "id": "collectible-5021",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6946,7 +6512,6 @@
  {
   "id": "collectible-5022",
   "name": "Medalje for anden sæson af Premier",
-  "name_original": "Collectible_PremierSeason2Coin",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Dette er en Premier-mindemedalje, som du har fået tildelt for din aktive deltagelse i anden sæson af Premier.",
   "rarity": {
@@ -6962,7 +6527,6 @@
  {
   "id": "collectible-6001",
   "name": "Dust II-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_DustII",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -6978,7 +6542,6 @@
  {
   "id": "collectible-6002",
   "name": "Guardian Elite-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_GuardianElite",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -6994,7 +6557,6 @@
  {
   "id": "collectible-6003",
   "name": "Mirage-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_Mirage",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7010,7 +6572,6 @@
  {
   "id": "collectible-6004",
   "name": "Inferno-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_Inferno",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7026,7 +6587,6 @@
  {
   "id": "collectible-6005",
   "name": "Italy-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_Italy",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7042,7 +6602,6 @@
  {
   "id": "collectible-6006",
   "name": "Victory-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_Victory",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7058,7 +6617,6 @@
  {
   "id": "collectible-6007",
   "name": "Militia-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_Militia",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7074,7 +6632,6 @@
  {
   "id": "collectible-6008",
   "name": "Nuke-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_Nuke",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7090,7 +6647,6 @@
  {
   "id": "collectible-6009",
   "name": "Train-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_Train",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7106,7 +6662,6 @@
  {
   "id": "collectible-6010",
   "name": "Guardian-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_Guardian",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7122,7 +6677,6 @@
  {
   "id": "collectible-6011",
   "name": "Tactics-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_Tactics",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7138,7 +6692,6 @@
  {
   "id": "collectible-6012",
   "name": "Guardian 2-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_guardian_2",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7154,7 +6707,6 @@
  {
   "id": "collectible-6013",
   "name": "Bravo-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_bravo",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7170,7 +6722,6 @@
  {
   "id": "collectible-6014",
   "name": "Baggage-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_baggage",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7186,7 +6737,6 @@
  {
   "id": "collectible-6015",
   "name": "Phoenix-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_phoenix",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7202,7 +6752,6 @@
  {
   "id": "collectible-6016",
   "name": "Office-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_office",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7218,7 +6767,6 @@
  {
   "id": "collectible-6017",
   "name": "Cobblestone-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_cobblestone",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7234,7 +6782,6 @@
  {
   "id": "collectible-6018",
   "name": "Overpass-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_overpass",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7250,7 +6797,6 @@
  {
   "id": "collectible-6019",
   "name": "Bloodhound-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_bloodhound",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7266,7 +6812,6 @@
  {
   "id": "collectible-6020",
   "name": "Cache-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_cache",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7282,7 +6827,6 @@
  {
   "id": "collectible-6021",
   "name": "Valeria Phoenix-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_valeria",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7298,7 +6842,6 @@
  {
   "id": "collectible-6022",
   "name": "Chroma-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_chroma",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7314,7 +6857,6 @@
  {
   "id": "collectible-6023",
   "name": "Guardian 3-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_guardian_3",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7330,7 +6872,6 @@
  {
   "id": "collectible-6024",
   "name": "Canals-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_canals",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7346,7 +6887,6 @@
  {
   "id": "collectible-6025",
   "name": "Welcome to the Clutch-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_welcome_to_the_clutch",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7362,7 +6902,6 @@
  {
   "id": "collectible-6026",
   "name": "Death Sentence-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_death_sentence",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7378,7 +6917,6 @@
  {
   "id": "collectible-6027",
   "name": "Inferno 2-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_inferno_2",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7394,7 +6932,6 @@
  {
   "id": "collectible-6028",
   "name": "Wildfire-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_wildfire",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7410,7 +6947,6 @@
  {
   "id": "collectible-6029",
   "name": "Easy Peasy-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_easy_peasy",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7426,7 +6962,6 @@
  {
   "id": "collectible-6030",
   "name": "Aces High-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_aces_high",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7442,7 +6977,6 @@
  {
   "id": "collectible-6031",
   "name": "Hydra-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_hydra",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7458,7 +6992,6 @@
  {
   "id": "collectible-6032",
   "name": "Howl-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_howl",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7474,7 +7007,6 @@
  {
   "id": "collectible-6033",
   "name": "Brigadegeneralsknappenål (Ægte)",
-  "name_original": "Collectible_Pin_brigadier_general",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7490,7 +7022,6 @@
  {
   "id": "collectible-6034",
   "name": "Alyx-knappenål (Ægte)",
-  "name_original": "Collectible_Pin_alyx_10",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
@@ -7506,7 +7037,6 @@
  {
   "id": "collectible-6101",
   "name": "Dust II-knappenål",
-  "name_original": "Collectible_Pin_DustII",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7522,7 +7052,6 @@
  {
   "id": "collectible-6102",
   "name": "Guardian Elite-knappenål",
-  "name_original": "Collectible_Pin_GuardianElite",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7538,7 +7067,6 @@
  {
   "id": "collectible-6103",
   "name": "Mirage-knappenål",
-  "name_original": "Collectible_Pin_Mirage",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7554,7 +7082,6 @@
  {
   "id": "collectible-6104",
   "name": "Inferno-knappenål",
-  "name_original": "Collectible_Pin_Inferno",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7570,7 +7097,6 @@
  {
   "id": "collectible-6105",
   "name": "Italy-knappenål",
-  "name_original": "Collectible_Pin_Italy",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7586,7 +7112,6 @@
  {
   "id": "collectible-6106",
   "name": "Victory-knappenål",
-  "name_original": "Collectible_Pin_Victory",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7602,7 +7127,6 @@
  {
   "id": "collectible-6107",
   "name": "Militia-knappenål",
-  "name_original": "Collectible_Pin_Militia",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7618,7 +7142,6 @@
  {
   "id": "collectible-6108",
   "name": "Nuke-knappenål",
-  "name_original": "Collectible_Pin_Nuke",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7634,7 +7157,6 @@
  {
   "id": "collectible-6109",
   "name": "Train-knappenål",
-  "name_original": "Collectible_Pin_Train",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7650,7 +7172,6 @@
  {
   "id": "collectible-6110",
   "name": "Guardian-knappenål",
-  "name_original": "Collectible_Pin_Guardian",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7666,7 +7187,6 @@
  {
   "id": "collectible-6111",
   "name": "Tactics-knappenål",
-  "name_original": "Collectible_Pin_Tactics",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Dette er en Serie 1-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7682,7 +7202,6 @@
  {
   "id": "collectible-6112",
   "name": "Guardian 2-knappenål",
-  "name_original": "Collectible_Pin_guardian_2",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7698,7 +7217,6 @@
  {
   "id": "collectible-6113",
   "name": "Bravo-knappenål",
-  "name_original": "Collectible_Pin_bravo",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7714,7 +7232,6 @@
  {
   "id": "collectible-6114",
   "name": "Baggage-knappenål",
-  "name_original": "Collectible_Pin_baggage",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7730,7 +7247,6 @@
  {
   "id": "collectible-6115",
   "name": "Phoenix-knappenål",
-  "name_original": "Collectible_Pin_phoenix",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7746,7 +7262,6 @@
  {
   "id": "collectible-6116",
   "name": "Office-knappenål",
-  "name_original": "Collectible_Pin_office",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7762,7 +7277,6 @@
  {
   "id": "collectible-6117",
   "name": "Cobblestone-knappenål",
-  "name_original": "Collectible_Pin_cobblestone",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7778,7 +7292,6 @@
  {
   "id": "collectible-6118",
   "name": "Overpass-knappenål",
-  "name_original": "Collectible_Pin_overpass",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7794,7 +7307,6 @@
  {
   "id": "collectible-6119",
   "name": "Bloodhound-knappenål",
-  "name_original": "Collectible_Pin_bloodhound",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7810,7 +7322,6 @@
  {
   "id": "collectible-6120",
   "name": "Cache-knappenål",
-  "name_original": "Collectible_Pin_cache",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7826,7 +7337,6 @@
  {
   "id": "collectible-6121",
   "name": "Valeria Phoenix-knappenål",
-  "name_original": "Collectible_Pin_valeria",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7842,7 +7352,6 @@
  {
   "id": "collectible-6122",
   "name": "Chroma-knappenål",
-  "name_original": "Collectible_Pin_chroma",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Dette er en Serie 2-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7858,7 +7367,6 @@
  {
   "id": "collectible-6123",
   "name": "Guardian 3-knappenål",
-  "name_original": "Collectible_Pin_guardian_3",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7874,7 +7382,6 @@
  {
   "id": "collectible-6124",
   "name": "Canals-knappenål",
-  "name_original": "Collectible_Pin_canals",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7890,7 +7397,6 @@
  {
   "id": "collectible-6125",
   "name": "Welcome to the Clutch-knappenål",
-  "name_original": "Collectible_Pin_welcome_to_the_clutch",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7906,7 +7412,6 @@
  {
   "id": "collectible-6126",
   "name": "Death Sentence-knappenål",
-  "name_original": "Collectible_Pin_death_sentence",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7922,7 +7427,6 @@
  {
   "id": "collectible-6127",
   "name": "Inferno 2-knappenål",
-  "name_original": "Collectible_Pin_inferno_2",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7938,7 +7442,6 @@
  {
   "id": "collectible-6128",
   "name": "Wildfire-knappenål",
-  "name_original": "Collectible_Pin_wildfire",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7954,7 +7457,6 @@
  {
   "id": "collectible-6129",
   "name": "Easy Peasy-knappenål",
-  "name_original": "Collectible_Pin_easy_peasy",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7970,7 +7472,6 @@
  {
   "id": "collectible-6130",
   "name": "Aces High-knappenål",
-  "name_original": "Collectible_Pin_aces_high",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -7986,7 +7487,6 @@
  {
   "id": "collectible-6131",
   "name": "Hydra-knappenål",
-  "name_original": "Collectible_Pin_hydra",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -8002,7 +7502,6 @@
  {
   "id": "collectible-6132",
   "name": "Howl-knappenål",
-  "name_original": "Collectible_Pin_howl",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -8018,7 +7517,6 @@
  {
   "id": "collectible-6133",
   "name": "Brigadegeneralsknappenål",
-  "name_original": "Collectible_Pin_brigadier_general",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Dette er en Serie 3-samlerknappenål. Den kan fremvises på din profil.",
   "rarity": {
@@ -8034,7 +7532,6 @@
  {
   "id": "collectible-6134",
   "name": "Alyx-knappenål",
-  "name_original": "Collectible_Pin_alyx_10",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Dette er en samlerknappenål til minde om Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Den kan vises på din profil.",
   "rarity": {
