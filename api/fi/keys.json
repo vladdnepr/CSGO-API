@@ -639,13 +639,13 @@
  },
  {
   "id": "key-7008",
-  "name": "Fever Case Key",
+  "name": "Fever-aselaatikon avain",
   "code": "#CSGO_crate_key_community_35",
-  "description": "This key only opens Fever cases",
+  "description": "Tämä avain avaa vain Fever-aselaatikoita",
   "crates": [
    {
     "id": "crate-7007",
-    "name": "Fever Case",
+    "name": "Fever-aselaatikko",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png"
    }
   ],

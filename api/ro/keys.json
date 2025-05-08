@@ -639,13 +639,13 @@
  },
  {
   "id": "key-7008",
-  "name": "Fever Case Key",
+  "name": "Cheie pentru cutia Fever",
   "code": "#CSGO_crate_key_community_35",
-  "description": "This key only opens Fever cases",
+  "description": "Această cheie deschide numai cutii Fever.",
   "crates": [
    {
     "id": "crate-7007",
-    "name": "Fever Case",
+    "name": "Cutie Fever",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png"
    }
   ],

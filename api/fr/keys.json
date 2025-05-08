@@ -625,7 +625,7 @@
   "id": "key-7002",
   "name": "Clé de caisse de Galerie",
   "code": "#CSGO_crate_key_community_34",
-  "description": "Cette clé ouvre seulement les caisses d'armes de Galerie.",
+  "description": "Cette clé ouvre seulement les caisses d'armes de Galerie",
   "crates": [
    {
     "id": "crate-7003",
@@ -639,13 +639,13 @@
  },
  {
   "id": "key-7008",
-  "name": "Fever Case Key",
+  "name": "Clé de caisse Fièvre",
   "code": "#CSGO_crate_key_community_35",
-  "description": "This key only opens Fever cases",
+  "description": "Cette clé ouvre seulement les caisses Fièvre",
   "crates": [
    {
     "id": "crate-7007",
-    "name": "Fever Case",
+    "name": "Caisse Fièvre",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png"
    }
   ],

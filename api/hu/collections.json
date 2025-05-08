@@ -15344,11 +15344,11 @@
  },
  {
   "id": "collection-set-community-35",
-  "name": "The Fever Collection",
+  "name": "A Láz Gyűjtemény",
   "crates": [
    {
     "id": "crate-7007",
-    "name": "Fever Case",
+    "name": "Láz Láda",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png"
    }
   ],
@@ -15356,7 +15356,7 @@
   "contains": [
    {
     "id": "skin-5626422553f8",
-    "name": "M4A4 | Choppa",
+    "name": "M4A4 | Kopter",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15367,7 +15367,7 @@
    },
    {
     "id": "skin-78ea15f33e22",
-    "name": "MAG-7 | Resupply",
+    "name": "MAG-7 | Készletpótlás",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15378,7 +15378,7 @@
    },
    {
     "id": "skin-a8cc985f8710",
-    "name": "SSG 08 | Memorial",
+    "name": "SSG 08 | Emlékmű",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15389,7 +15389,7 @@
    },
    {
     "id": "skin-8bda61ff439a",
-    "name": "P2000 | Sure Grip",
+    "name": "P2000 | Biztos Kézzel",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15400,7 +15400,7 @@
    },
    {
     "id": "skin-0fbe55711fa6",
-    "name": "USP-S | PC-GRN",
+    "name": "USP-S | PC-ZLD",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15422,7 +15422,7 @@
    },
    {
     "id": "skin-e0eec3353ea4",
-    "name": "XM1014 | Mockingbird",
+    "name": "XM1014 | Poszáta",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -15433,7 +15433,7 @@
    },
    {
     "id": "skin-4515a7cdcc74",
-    "name": "Desert Eagle | Serpent Strike",
+    "name": "Desert Eagle | Kígyótámadás",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -15455,7 +15455,7 @@
    },
    {
     "id": "skin-aef077455139",
-    "name": "Nova | Rising Sun",
+    "name": "Nova | Felkelő Nap",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -15466,7 +15466,7 @@
    },
    {
     "id": "skin-f2567cfebfb7",
-    "name": "Galil AR | Control",
+    "name": "Galil AR | Irányítás",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -15477,7 +15477,7 @@
    },
    {
     "id": "skin-ff75c4a68dbd",
-    "name": "P90 | Wave Breaker",
+    "name": "P90 | Hullámtörő",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -15488,7 +15488,7 @@
    },
    {
     "id": "skin-4c2e3face5fd",
-    "name": "AK-47 | Searing Rage",
+    "name": "AK-47 | Perzselő Düh",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Bizalmas",
@@ -15510,7 +15510,7 @@
    },
    {
     "id": "skin-5a6a2858b51d",
-    "name": "UMP-45 | K.O. Factory",
+    "name": "UMP-45 | K. O. Gyár",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Bizalmas",
@@ -16101,13 +16101,13 @@
  },
  {
   "id": "collection-set-timed-drops-cool",
-  "name": "The Ascent Collection",
+  "name": "A Felemelkedés Gyűjtemény",
   "crates": [],
   "code": "#CSGO_set_timed_drops_cool",
   "contains": [
    {
     "id": "skin-f2dd022eab22",
-    "name": "Lefűrészelt csövű sörétes | Runoff",
+    "name": "Lefűrészelt csövű sörétes | Túlfolyás",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16118,7 +16118,7 @@
    },
    {
     "id": "skin-23a748f6b597",
-    "name": "P90 | Blue Tac",
+    "name": "P90 | Kék Taktika",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16129,7 +16129,7 @@
    },
    {
     "id": "skin-4aa647360d8e",
-    "name": "P250 | Plum Netting",
+    "name": "P250 | Szilva Háló",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16140,7 +16140,7 @@
    },
    {
     "id": "skin-e6401ef3f5b7",
-    "name": "MP5-SD | Lime Hex",
+    "name": "MP5-SD | Lime Hatszög",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16151,7 +16151,7 @@
    },
    {
     "id": "skin-53f83414cf17",
-    "name": "MP9 | Buff Blue",
+    "name": "MP9 | Vaskos Kék",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16162,7 +16162,7 @@
    },
    {
     "id": "skin-aa996ba531f1",
-    "name": "SG 553 | Night Camo",
+    "name": "SG 553 | Éjszakai Álca",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16173,7 +16173,7 @@
    },
    {
     "id": "skin-58d507811bd8",
-    "name": "R8 revolver | Cobalt Grip",
+    "name": "R8 revolver | Kobalt Markolat",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16184,7 +16184,7 @@
    },
    {
     "id": "skin-080ca3f34d18",
-    "name": "SSG 08 | Grey Smoke",
+    "name": "SSG 08 | Szürke Füst",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16195,7 +16195,7 @@
    },
    {
     "id": "skin-6d3d5d849392",
-    "name": "Galil AR | Grey Smoke",
+    "name": "Galil AR | Szürke Füst",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16206,7 +16206,7 @@
    },
    {
     "id": "skin-9973f96c93b5",
-    "name": "MAC-10 | Storm Camo",
+    "name": "MAC-10 | Vihar Álca",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16217,7 +16217,7 @@
    },
    {
     "id": "skin-6c86170a7e6d",
-    "name": "Tec-9 | Blue Blast",
+    "name": "Tec-9 | Kék Bumm",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16228,7 +16228,7 @@
    },
    {
     "id": "skin-8f8277af6b54",
-    "name": "XM1014 | Gum Wall Camo",
+    "name": "XM1014 | Gumicukor Álca",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16239,7 +16239,7 @@
    },
    {
     "id": "skin-2891a487ea6c",
-    "name": "Negev | Sour Grapes",
+    "name": "Negev | Savanyú Szőlő",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16250,7 +16250,7 @@
    },
    {
     "id": "skin-7b6d780443fc",
-    "name": "Five-SeveN | Sky Blue",
+    "name": "Five-SeveN | Égszínkék",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16261,7 +16261,7 @@
    },
    {
     "id": "skin-55264b2a150c",
-    "name": "Zeus x27 | Electric Blue",
+    "name": "Zeus x27 | Elektromos Kék",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16272,7 +16272,7 @@
    },
    {
     "id": "skin-69fcaf121180",
-    "name": "Galil AR | Robin's Egg",
+    "name": "Galil AR | Vándorrigó-tojás",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16283,7 +16283,7 @@
    },
    {
     "id": "skin-d219c8f3fe3b",
-    "name": "Nova | Turquoise Pour",
+    "name": "Nova | Öntött Türkiz",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16294,7 +16294,7 @@
    },
    {
     "id": "skin-b6116401828b",
-    "name": "Dupla Beretta | Rose Nacre",
+    "name": "Dupla Beretta | Rózsa Gyöngyház",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16305,7 +16305,7 @@
    },
    {
     "id": "skin-ad93599cbfb9",
-    "name": "Glock-18 | Ocean Topo",
+    "name": "Glock-18 | Óceántérkép",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16316,7 +16316,7 @@
    },
    {
     "id": "skin-c096d50b4039",
-    "name": "M4A4 | Naval Shred Camo",
+    "name": "M4A4 | Tengerészeti Tépett Álca",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16327,7 +16327,7 @@
    },
    {
     "id": "skin-e010a1443ce8",
-    "name": "P2000 | Royal Baroque",
+    "name": "P2000 | Királyi Barokk",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16338,7 +16338,7 @@
    },
    {
     "id": "skin-d58c4622251a",
-    "name": "P90 | Reef Grief",
+    "name": "P90 | Zátonygyász",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16349,7 +16349,7 @@
    },
    {
     "id": "skin-e400418cedad",
-    "name": "MP9 | Cobalt Paisley",
+    "name": "MP9 | Kobalt Kasmír",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16360,7 +16360,7 @@
    },
    {
     "id": "skin-97defdf0ce4c",
-    "name": "FAMAS | Yeti Camo",
+    "name": "FAMAS | Jeti Terepminta",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16371,7 +16371,7 @@
    },
    {
     "id": "skin-96bbc2859318",
-    "name": "Desert Eagle | Mint Fan",
+    "name": "Desert Eagle | Menta Legyező",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16382,7 +16382,7 @@
    },
    {
     "id": "skin-dba8faaa2d7e",
-    "name": "AK-47 | Midnight Laminate",
+    "name": "AK-47 | Éjféli Laminált",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -16393,7 +16393,7 @@
    },
    {
     "id": "skin-b88bf24d8569",
-    "name": "USP-S | Royal Guard",
+    "name": "USP-S | Királyi Gárda",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -16404,7 +16404,7 @@
    },
    {
     "id": "skin-d5c4cc36d66a",
-    "name": "M4A1-S | Stratosphere",
+    "name": "M4A1-S | Sztratoszféra",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Bizalmas",
@@ -16418,13 +16418,13 @@
  },
  {
   "id": "collection-set-timed-drops-neutral",
-  "name": "The Boreal Collection",
+  "name": "Az Északi Gyűjtemény",
   "crates": [],
   "code": "#CSGO_set_timed_drops_neutral",
   "contains": [
    {
     "id": "skin-0581556d2987",
-    "name": "G3SG1 | Green Cell",
+    "name": "G3SG1 | Zöld Sejt",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16435,7 +16435,7 @@
    },
    {
     "id": "skin-bfdabc8fd9fa",
-    "name": "M249 | Sage Camo",
+    "name": "M249 | Zsálya Álca",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16446,7 +16446,7 @@
    },
    {
     "id": "skin-f7171c75986f",
-    "name": "Zeus x27 | Swamp DDPAT",
+    "name": "Zeus x27 | Mocsári DDPAT",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16457,7 +16457,7 @@
    },
    {
     "id": "skin-5dea0b69d286",
-    "name": "AUG | Commando Company",
+    "name": "AUG | Kommandós Század",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16479,7 +16479,7 @@
    },
    {
     "id": "skin-06a89c7cb037",
-    "name": "SSG 08 | Green Ceramic",
+    "name": "SSG 08 | Zöld Kerámia",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16490,7 +16490,7 @@
    },
    {
     "id": "skin-8aaf995160d8",
-    "name": "MP9 | Pine",
+    "name": "MP9 | Fenyő",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16501,7 +16501,7 @@
    },
    {
     "id": "skin-467b73d88989",
-    "name": "Tec-9 | Raw Ceramic",
+    "name": "Tec-9 | Nyers Kerámia",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16512,7 +16512,7 @@
    },
    {
     "id": "skin-1fe65cf7199d",
-    "name": "Negev | Raw Ceramic",
+    "name": "Negev | Nyers Kerámia",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16523,7 +16523,7 @@
    },
    {
     "id": "skin-e523f734a2d9",
-    "name": "MAG-7 | Copper Oxide",
+    "name": "MAG-7 | Réz-oxid",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16534,7 +16534,7 @@
    },
    {
     "id": "skin-9ff7bce8cb4e",
-    "name": "P250 | Copper Oxide",
+    "name": "P250 | Réz-oxid",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16545,7 +16545,7 @@
    },
    {
     "id": "skin-66e54b85c15f",
-    "name": "UMP-45 | Green Swirl",
+    "name": "UMP-45 | Zöld Kavargás",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16556,7 +16556,7 @@
    },
    {
     "id": "skin-6467891391e9",
-    "name": "Dupla Beretta | Polished Malachite",
+    "name": "Dupla Beretta | Csiszolt Malachit",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16567,7 +16567,7 @@
    },
    {
     "id": "skin-cf53e2922c14",
-    "name": "R8 revolver | Leafhopper",
+    "name": "R8 revolver | Lombszöcske",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16578,7 +16578,7 @@
    },
    {
     "id": "skin-1086e586f1bf",
-    "name": "MAC-10 | Acid Hex",
+    "name": "MAC-10 | Savas Hatszög",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16589,7 +16589,7 @@
    },
    {
     "id": "skin-f57cd46a7078",
-    "name": "SSG 08 | Tiger Tear",
+    "name": "SSG 08 | Tigriskönny",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16600,7 +16600,7 @@
    },
    {
     "id": "skin-1caaee847d10",
-    "name": "Galil AR | Acid Dart",
+    "name": "Galil AR | Savtüske",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16611,7 +16611,7 @@
    },
    {
     "id": "skin-566d676ca07d",
-    "name": "P90 | Mustard Gas",
+    "name": "P90 | Mustárgáz",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16622,7 +16622,7 @@
    },
    {
     "id": "skin-cdb08bfe13d3",
-    "name": "AK-47 | VariCamo Grey",
+    "name": "AK-47 | VariCamo Szürke",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16633,7 +16633,7 @@
    },
    {
     "id": "skin-fce2182cb25e",
-    "name": "P2000 | Marsh",
+    "name": "P2000 | Mocsár",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16655,7 +16655,7 @@
    },
    {
     "id": "skin-279e913dd981",
-    "name": "MP5-SD | Gold Leaf",
+    "name": "MP5-SD | Aranyfüst",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16666,7 +16666,7 @@
    },
    {
     "id": "skin-efe243521c5e",
-    "name": "MAC-10 | Poplar Thicket",
+    "name": "MAC-10 | Nyárfaliget",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16677,7 +16677,7 @@
    },
    {
     "id": "skin-17ba4cfaa721",
-    "name": "XM1014 | Copperflage",
+    "name": "XM1014 | Rézálca",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16688,7 +16688,7 @@
    },
    {
     "id": "skin-ea3238e578e7",
-    "name": "USP-S | Tropical Breeze",
+    "name": "USP-S | Trópusi Szellő",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16699,7 +16699,7 @@
    },
    {
     "id": "skin-e027a11f0d46",
-    "name": "AK-47 | Wintergreen",
+    "name": "AK-47 | Téli Zöld",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16710,7 +16710,7 @@
    },
    {
     "id": "skin-25e2a5c0a7df",
-    "name": "M4A4 | Sheet Lightning",
+    "name": "M4A4 | Felhővillám",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -16721,7 +16721,7 @@
    },
    {
     "id": "skin-27a242e44f6b",
-    "name": "Glock-18 | Glockingbird",
+    "name": "Glock-18 | Madárdal",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -16732,7 +16732,7 @@
    },
    {
     "id": "skin-b889cea4b0a8",
-    "name": "AWP | Green Energy",
+    "name": "AWP | Zöld Energia",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Bizalmas",
@@ -16746,13 +16746,13 @@
  },
  {
   "id": "collection-set-timed-drops-warm",
-  "name": "The Radiant Collection",
+  "name": "A Fénylő Gyűjtemény",
   "crates": [],
   "code": "#CSGO_set_timed_drops_warm",
   "contains": [
    {
     "id": "skin-f64e51a70f37",
-    "name": "MP7 | Short Ochre",
+    "name": "MP7 | Rövid Okker",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16763,7 +16763,7 @@
    },
    {
     "id": "skin-2da4350cc477",
-    "name": "SCAR-20 | Short Ochre",
+    "name": "SCAR-20 | Rövid Okker",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16785,7 +16785,7 @@
    },
    {
     "id": "skin-f0c6c7583a15",
-    "name": "Five-SeveN | Autumn Thicket",
+    "name": "Five-SeveN | Őszi Bozót",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16796,7 +16796,7 @@
    },
    {
     "id": "skin-d33e14057f12",
-    "name": "MAC-10 | Bronzer",
+    "name": "MAC-10 | Bronzosító",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16807,7 +16807,7 @@
    },
    {
     "id": "skin-f329fee24fe4",
-    "name": "XM1014 | Canvas Cloud",
+    "name": "XM1014 | Vászonfelhő",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16818,7 +16818,7 @@
    },
    {
     "id": "skin-968b010d42f7",
-    "name": "PP-Bizon | Wood Block Camo",
+    "name": "PP-Bizon | Fablokk Álca",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16829,7 +16829,7 @@
    },
    {
     "id": "skin-80643791f393",
-    "name": "Nova | Marsh Grass",
+    "name": "Nova | Mocsári Fű",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16840,7 +16840,7 @@
    },
    {
     "id": "skin-5b81f5848973",
-    "name": "G3SG1 | Red Jasper",
+    "name": "G3SG1 | Vörös Jáspis",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16851,7 +16851,7 @@
    },
    {
     "id": "skin-948dbf5d933b",
-    "name": "P90 | Desert Halftone",
+    "name": "P90 | Sivatagi Féltónus",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16862,7 +16862,7 @@
    },
    {
     "id": "skin-35313981918b",
-    "name": "CZ75-Auto | Pink Pearl",
+    "name": "CZ75-Auto | Rózsaszín Gyöngy",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16873,7 +16873,7 @@
    },
    {
     "id": "skin-8d8dc6609ae2",
-    "name": "MP9 | Multi-Terrain",
+    "name": "MP9 | Vegyes Terep",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Fogyasztói fokozatú",
@@ -16884,7 +16884,7 @@
    },
    {
     "id": "skin-cee47ac22903",
-    "name": "SG 553 | Basket Halftone",
+    "name": "SG 553 | Kosár Féltónus",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16895,7 +16895,7 @@
    },
    {
     "id": "skin-7efe4d3e7779",
-    "name": "P250 | Sedimentary",
+    "name": "P250 | Üledékes",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16906,7 +16906,7 @@
    },
    {
     "id": "skin-1a08f20b0116",
-    "name": "FAMAS | Grey Ghost",
+    "name": "FAMAS | Szürke Szellem",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16917,7 +16917,7 @@
    },
    {
     "id": "skin-91e671371a10",
-    "name": "Tec-9 | Citric Acid",
+    "name": "Tec-9 | Citromsav",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16928,7 +16928,7 @@
    },
    {
     "id": "skin-41452c191f44",
-    "name": "Galil AR | O-Ranger",
+    "name": "Galil AR | Na-rancs",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16939,7 +16939,7 @@
    },
    {
     "id": "skin-07d3aad223e4",
-    "name": "M4A4 | Steel Work",
+    "name": "M4A4 | Acélművek",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -16950,7 +16950,7 @@
    },
    {
     "id": "skin-d474744b61b7",
-    "name": "M4A1-S | Rose Hex",
+    "name": "M4A1-S | Rózsahatszög",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16961,7 +16961,7 @@
    },
    {
     "id": "skin-bc79778fcc59",
-    "name": "AWP | Arsenic Spill",
+    "name": "AWP | Arzéntócsa",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16972,7 +16972,7 @@
    },
    {
     "id": "skin-0f8b4882d7c6",
-    "name": "SSG 08 | Blush Pour",
+    "name": "SSG 08 | Öntött Piros",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16983,7 +16983,7 @@
    },
    {
     "id": "skin-1244c7faf3ea",
-    "name": "P250 | Red Tide",
+    "name": "P250 | Vörös Dagály",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -16994,7 +16994,7 @@
    },
    {
     "id": "skin-79039995c554",
-    "name": "Glock-18 | Coral Bloom",
+    "name": "Glock-18 | Korallvirágzás",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -17005,7 +17005,7 @@
    },
    {
     "id": "skin-5254ad7ed93d",
-    "name": "MP9 | Shredded",
+    "name": "MP9 | Tépett",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -17016,7 +17016,7 @@
    },
    {
     "id": "skin-2d7d76a0b8b5",
-    "name": "Desert Eagle | Mulberry",
+    "name": "Desert Eagle | Faeper",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -17027,7 +17027,7 @@
    },
    {
     "id": "skin-8e15b1a9e945",
-    "name": "USP-S | Bleeding Edge",
+    "name": "USP-S | Véres Penge",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -17038,7 +17038,7 @@
    },
    {
     "id": "skin-75c237bdd4fc",
-    "name": "M4A1-S | Glitched Paint",
+    "name": "M4A1-S | Elrontott Festés",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -17063,7 +17063,7 @@
  },
  {
   "id": "collection-set-train-2025",
-  "name": "The Train 2025 Collection",
+  "name": "A Train 2025 Gyűjtemény",
   "crates": [],
   "code": "#CSGO_set_train_2025",
   "contains": [
@@ -17080,7 +17080,7 @@
    },
    {
     "id": "skin-324ec12298a8",
-    "name": "P250 | Constructivist",
+    "name": "P250 | Konstruktivista",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -17091,7 +17091,7 @@
    },
    {
     "id": "skin-0c162dc3dadb",
-    "name": "P90 | Straight Dimes",
+    "name": "P90 | Tisztes Ipar",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -17102,7 +17102,7 @@
    },
    {
     "id": "skin-994bf96d44d4",
-    "name": "CZ75-Auto | Copper Fiber",
+    "name": "CZ75-Auto | Rézszál",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -17113,7 +17113,7 @@
    },
    {
     "id": "skin-6305d7d593bd",
-    "name": "AUG | Steel Sentinel",
+    "name": "AUG | Acél Őrszem",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -17124,7 +17124,7 @@
    },
    {
     "id": "skin-1a861a1ce86e",
-    "name": "Nova | Rain Station",
+    "name": "Nova | Esőperon",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Ipari fokozatú",
@@ -17135,7 +17135,7 @@
    },
    {
     "id": "skin-d5765bdffe44",
-    "name": "UMP-45 | Late Night Transit",
+    "name": "UMP-45 | Éjszakai Utazás",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -17146,7 +17146,7 @@
    },
    {
     "id": "skin-96a9aaa2cbe5",
-    "name": "XM1014 | Run Run Run",
+    "name": "XM1014 | Fuss, Fuss, Fuss",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -17157,7 +17157,7 @@
    },
    {
     "id": "skin-7976ca00d006",
-    "name": "Glock-18 | Green Line",
+    "name": "Glock-18 | Zöld Vonal",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Katonai fokozatú",
@@ -17190,7 +17190,7 @@
    },
    {
     "id": "skin-9fc289ff7b61",
-    "name": "MAC-10 | Derailment",
+    "name": "MAC-10 | Kisiklatás",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -17201,7 +17201,7 @@
    },
    {
     "id": "skin-9446ef74272b",
-    "name": "Zeus x27 | Charged Up",
+    "name": "Zeus x27 | Feltöltve",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
@@ -17212,7 +17212,7 @@
    },
    {
     "id": "skin-e7d48237eb0f",
-    "name": "M4A4 | Hellish",
+    "name": "M4A4 | Pokoli",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Bizalmas",
@@ -17223,7 +17223,7 @@
    },
    {
     "id": "skin-9836cfa060f6",
-    "name": "MP9 | Latte Rush",
+    "name": "MP9 | Latte-löket",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Bizalmas",
@@ -17234,7 +17234,7 @@
    },
    {
     "id": "skin-42c6a7e245d3",
-    "name": "AWP | LongDog",
+    "name": "AWP | Pop Dog",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "Fedett",
@@ -17254,7 +17254,7 @@
   "contains": [
    {
     "id": "skin-ddb5a78135bd",
-    "name": "XM1014 | Solitude",
+    "name": "XM1014 | Egyedüllét",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Korlátozott",
