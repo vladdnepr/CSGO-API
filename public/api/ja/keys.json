@@ -639,13 +639,13 @@
  },
  {
   "id": "key-7008",
-  "name": "Fever Case Key",
+  "name": "Fever ケースの鍵",
   "code": "#CSGO_crate_key_community_35",
-  "description": "This key only opens Fever cases",
+  "description": "この鍵は Fever ケースしか開けることができません",
   "crates": [
    {
     "id": "crate-7007",
-    "name": "Fever Case",
+    "name": "Fever ケース",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png"
    }
   ],

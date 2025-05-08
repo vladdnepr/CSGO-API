@@ -639,13 +639,13 @@
  },
  {
   "id": "key-7008",
-  "name": "Fever Case Key",
+  "name": "狂熱武器箱鑰匙",
   "code": "#CSGO_crate_key_community_35",
-  "description": "This key only opens Fever cases",
+  "description": "這把鑰匙只能打開狂熱武器箱",
   "crates": [
    {
     "id": "crate-7007",
-    "name": "Fever Case",
+    "name": "狂熱武器箱",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png"
    }
   ],

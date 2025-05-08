@@ -639,13 +639,13 @@
  },
  {
   "id": "key-7008",
-  "name": "Fever Case Key",
+  "name": "Ключ за сандък „Треска“",
   "code": "#CSGO_crate_key_community_35",
-  "description": "This key only opens Fever cases",
+  "description": "<b><font color='#F2A93E'>Fever Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Треска“.",
   "crates": [
    {
     "id": "crate-7007",
-    "name": "Fever Case",
+    "name": "Сандък „Треска“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png"
    }
   ],
