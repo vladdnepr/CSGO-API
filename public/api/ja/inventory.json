@@ -5046,6 +5046,10 @@
    "1319": {
     "name": "M4A1-S | Rose Hex",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hy_hexagon_light_png.png"
+   },
+   "1338": {
+    "name": "M4A1-S | Solitude",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
    }
   },
   "61": {
@@ -10322,6 +10326,16 @@
    "name": "Warhammer 40,000 Xenos ステッカーカプセル",
    "market_hash_name": "Warhammer 40,000 Xenos Sticker Capsule",
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_warhammer_xenos_capsule_png.png"
+  },
+  "7019": {
+   "name": "Deluge Music Kit Box",
+   "market_hash_name": "Deluge Music Kit Box",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_deluge_capsule_png.png"
+  },
+  "7021": {
+   "name": "StatTrak™ Deluge Music Kit Box",
+   "market_hash_name": "StatTrak™ Deluge Music Kit Box",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_musickit_deluge_stattrak_capsule_png.png"
   }
  },
  "collectibles": {
@@ -67315,6 +67329,56 @@
    "name": "ミュージックキット | Perfect World, Ay Hey",
    "market_hash_name": "Music Kit | Perfect World, Ay Hey",
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/perfectworld_02_png.png"
+  },
+  "87": {
+   "name": "Music Kit | Adam Beyer, Red Room",
+   "market_hash_name": "Music Kit | Adam Beyer, Red Room",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/adambeyer_01_png.png"
+  },
+  "88": {
+   "name": "Music Kit | Ghost, Skeletá",
+   "market_hash_name": "Music Kit | Ghost, Skeletá",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/ghost_01_png.png"
+  },
+  "89": {
+   "name": "Music Kit | HEALTH, RAT WARS",
+   "market_hash_name": "Music Kit | HEALTH, RAT WARS",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/health_01_png.png"
+  },
+  "90": {
+   "name": "Music Kit | James and the Cold Gun, Chewing Glass",
+   "market_hash_name": "Music Kit | James and the Cold Gun, Chewing Glass",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/jamesandthecoldgun_01_png.png"
+  },
+  "91": {
+   "name": "Music Kit | Jonathan Young, Starship Velociraptor",
+   "market_hash_name": "Music Kit | Jonathan Young, Starship Velociraptor",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/jonathanyoung_01_png.png"
+  },
+  "92": {
+   "name": "Music Kit | Juelz, Floorspace",
+   "market_hash_name": "Music Kit | Juelz, Floorspace",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/juelz_02_png.png"
+  },
+  "93": {
+   "name": "Music Kit | Killer Mike, MICHAEL",
+   "market_hash_name": "Music Kit | Killer Mike, MICHAEL",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/killermike_01_png.png"
+  },
+  "94": {
+   "name": "Music Kit | PVRIS, Evergreen",
+   "market_hash_name": "Music Kit | PVRIS, Evergreen",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pvris_01_png.png"
+  },
+  "95": {
+   "name": "Music Kit | Selective Response, No Love Only Pleasure",
+   "market_hash_name": "Music Kit | Selective Response, No Love Only Pleasure",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/selectiveresponse_01_png.png"
+  },
+  "96": {
+   "name": "Music Kit | Tigercub, The Perfume of Decay",
+   "market_hash_name": "Music Kit | Tigercub, The Perfume of Decay",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tigercub_01_png.png"
   }
  }
 }
