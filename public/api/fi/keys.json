@@ -2,6 +2,7 @@
  {
   "id": "key-generic_valve_key",
   "name": "CS2-aselaatikon avain",
+  "code": "#CSGO_Tool_WeaponCase_Key",
   "description": "Tällä avaimella voi avata minkä tahansa Valve-sarjan aselaatikon. Muut kuin Valve-sarjan laatikot (kuten eSports-aselaatikko) vaativat oman avaimen.",
   "crates": [
    {
@@ -32,6 +33,7 @@
  {
   "id": "key-1204",
   "name": "eSports-avain",
+  "code": "#CSGO_esports_crate_key_1",
   "description": "Tämä avain avaa eSports-aselaatikon.\\n\\nOsa sen myyntituloista menee yhteisön järjestämille CS2-turnauksille. Lisätietoja tulee myöhemmin.",
   "crates": [
    {
@@ -57,6 +59,7 @@
  {
   "id": "key-1212",
   "name": "CS2-kapselin avain",
+  "code": "#CSGO_sticker_crate_key_1",
   "description": "Tämä avain avaa minkä tahansa Valve-sarjan kapselin.",
   "crates": [
    {
@@ -77,6 +80,7 @@
  {
   "id": "key-1214",
   "name": "Winter Offensive -aselaatikon avain",
+  "code": "#CSGO_community_crate_key_1",
   "description": "Tämä avain avaa vain Winter Offensive -aselaatikoita",
   "crates": [
    {
@@ -92,6 +96,7 @@
  {
   "id": "key-1303",
   "name": "Operaatio Feeniks -aselaatikon avain",
+  "code": "#CSGO_community_crate_key_2",
   "description": "Tämä avain avaa vain Operaatio Feeniks -aselaatikoita.",
   "crates": [
    {
@@ -107,6 +112,7 @@
  {
   "id": "key-1304",
   "name": "Yhteisön tarrakapseli 1 -avain",
+  "code": "#CSGO_sticker_crate_key_community01",
   "description": "Tämä avain avaa yhteisön 1. tarrakapselin.\\n\\nOsa avaimien tuottamista rahoista menee tarrojen tekijöille.",
   "crates": [
    {
@@ -122,6 +128,7 @@
  {
   "id": "key-1305",
   "name": "Metsämies-aselaatikon avain",
+  "code": "#CSGO_community_crate_key_3",
   "description": "Tämä avain avaa vain Metsämies-aselaatikoita",
   "crates": [
    {
@@ -137,6 +144,7 @@
  {
   "id": "key-1309",
   "name": "Operaatio Läpimurto -aselaatikon avain",
+  "code": "#CSGO_community_crate_key_4",
   "description": "Tämä avain avaa vain Operaatio Läpimurto -aselaatikoita",
   "crates": [
    {
@@ -152,6 +160,7 @@
  {
   "id": "key-1322",
   "name": "Operaatio Eturintama -aselaatikon avain",
+  "code": "#CSGO_community_crate_key_5",
   "description": "Tämä avain avaa vain Operaatio Eturintama -aselaatikon",
   "crates": [
    {
@@ -167,6 +176,7 @@
  {
   "id": "key-1323",
   "name": "Kirjo-aselaatikon avain",
+  "code": "#CSGO_community_crate_key_6",
   "description": "Tämä avain avaa vain Kirjo-aselaatikoita",
   "crates": [
    {
@@ -182,6 +192,7 @@
  {
   "id": "key-1325",
   "name": "Kirjo 2 -aselaatikon avain",
+  "code": "#CSGO_community_crate_key_7",
   "description": "Tämä avain avaa vain Kirjo 2 -aselaatikoita",
   "crates": [
    {
@@ -197,6 +208,7 @@
  {
   "id": "key-1330",
   "name": "Falchion-aselaatikon avain",
+  "code": "#CSGO_community_crate_key_8",
   "description": "Tämä avain avaa vain Falchion-aselaatikoita",
   "crates": [
    {
@@ -212,6 +224,7 @@
  {
   "id": "key-1333",
   "name": "Varjo-aselaatikon avain",
+  "code": "#CSGO_community_crate_key_9",
   "description": "Tämä avain avaa vain Varjo-aselaatikoita",
   "crates": [
    {
@@ -227,6 +240,7 @@
  {
   "id": "key-1334",
   "name": "Revolverilaatikon avain",
+  "code": "#CSGO_crate_community_10_key",
   "description": "Tämä avain avaa vain revolverilaatikoita",
   "crates": [
    {
@@ -242,6 +256,7 @@
  {
   "id": "key-1347",
   "name": "Kirjo 3 -aselaatikon avain",
+  "code": "#CSGO_crate_key_community_12",
   "description": "Tämä avain avaa vain Kirjo 3 -aselaatikoita",
   "crates": [
    {
@@ -257,6 +272,7 @@
  {
   "id": "key-1350",
   "name": "Gamma-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_13",
   "description": "Tämä avain avaa vain Gamma-aselaatikoita",
   "crates": [
    {
@@ -272,6 +288,7 @@
  {
   "id": "key-1351",
   "name": "Gamma 2 -aselaatikon avain",
+  "code": "#CSGO_crate_key_gamma_2",
   "description": "Tämä avain avaa vain Gamma 2 -aselaatikoita",
   "crates": [
    {
@@ -287,6 +304,7 @@
  {
   "id": "key-1356",
   "name": "Hanska-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_15",
   "description": "Tämä avain avaa vain Hanska-aselaatikoita",
   "crates": [
    {
@@ -302,6 +320,7 @@
  {
   "id": "key-1364",
   "name": "Spektri-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_16",
   "description": "Tämä avain avaa vain Spektri-aselaatikoita",
   "crates": [
    {
@@ -317,6 +336,7 @@
  {
   "id": "key-1365",
   "name": "Operaatio Hydra -aselaatikon avain",
+  "code": "#CSGO_crate_key_community_17",
   "description": "Tämä avain avaa vain Operaatio Hydran aselaatikoita",
   "crates": [
    {
@@ -332,6 +352,7 @@
  {
   "id": "key-1366",
   "name": "Spektri 2 -aselaatikon avain",
+  "code": "#CSGO_crate_key_community_18",
   "description": "Tämä avain avaa vain Spektri 2 -aselaatikoita",
   "crates": [
    {
@@ -347,6 +368,7 @@
  {
   "id": "key-1373",
   "name": "Clutch-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_19",
   "description": "Tällä tunnuksella ainoastaan avataan Clutch-salkkuja.",
   "crates": [
    {
@@ -362,6 +384,7 @@
  {
   "id": "key-1374",
   "name": "Horisontti-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_20",
   "description": "Tämä avain avaa vain Horisontti-aselaatikoita",
   "crates": [
    {
@@ -377,6 +400,7 @@
  {
   "id": "key-1375",
   "name": "Vaaravyöhyke-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_21",
   "description": "Tällä avaimella saa auki vain Vaaravyöhyke-aselaukkuja",
   "crates": [
    {
@@ -392,6 +416,7 @@
  {
   "id": "key-1383",
   "name": "Prisma-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_22",
   "description": "Tämä avain käy vain Prisma-aselaatikoihin.",
   "crates": [
    {
@@ -407,6 +432,7 @@
  {
   "id": "key-1384",
   "name": "Pirstaleinen verkko -aselaatikon avain",
+  "code": "#CSGO_crate_key_community_23",
   "description": "Tämä avain avaa vain Pirstaleinen verkko -aselaatikoita",
   "crates": [
    {
@@ -422,6 +448,7 @@
  {
   "id": "key-1385",
   "name": "CS20-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_24",
   "description": "Tällä avaimella saa auki vain CS20-aselaatikoita",
   "crates": [
    {
@@ -437,6 +464,7 @@
  {
   "id": "key-1386",
   "name": "Prisma 2 -aselaatikon avain",
+  "code": "#CSGO_crate_key_community_25",
   "description": "Tämä avain käy vain Prisma 2 -aselaatikoihin.",
   "crates": [
    {
@@ -452,6 +480,7 @@
  {
   "id": "key-1387",
   "name": "Sirpaleisen laatikon avain",
+  "code": "#CSGO_crate_key_community_26",
   "description": "Tämä avain avaa ainoastaan Sirpaleisia laatikoita",
   "crates": [
    {
@@ -467,6 +496,7 @@
  {
   "id": "key-1388",
   "name": "Operaatio Katkennut torahammas -aselaatikon avain",
+  "code": "#CSGO_crate_key_community_27",
   "description": "Tämä avain avaa vain Operaatio Katkenneen torahampaan aselaatikoita",
   "crates": [
    {
@@ -482,6 +512,7 @@
  {
   "id": "key-1389",
   "name": "Käärmeenpisto-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_28",
   "description": "Avain avaa ainoastaan Käärmeenpisto-aselaatikoita",
   "crates": [
    {
@@ -497,6 +528,7 @@
  {
   "id": "key-1390",
   "name": "Operaatio Ristiaallokko -aselaatikon avain",
+  "code": "#CSGO_crate_key_community_29",
   "description": "Tämä avain avaa vain Operaatio Ristiaallokon aselaatikoita",
   "crates": [
    {
@@ -512,6 +544,7 @@
  {
   "id": "key-1391",
   "name": "Unelmia ja painajaisia -aselaatikon avain",
+  "code": "#CSGO_crate_key_community_30",
   "description": "Tämä avain avaa vain Unelmia ja painajaisia -aselaatikoita",
   "crates": [
    {
@@ -527,6 +560,7 @@
  {
   "id": "key-1392",
   "name": "Rekyyli-arkun avain",
+  "code": "#CSGO_crate_key_community_31",
   "description": "Tämä avain avaa vain Rekyyli-aselaatikoita",
   "crates": [
    {
@@ -542,6 +576,7 @@
  {
   "id": "key-1393",
   "name": "Revolution-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_32",
   "description": "Avain käy vain Revolution-aselaatikoihin",
   "crates": [
    {
@@ -557,6 +592,7 @@
  {
   "id": "key-1394",
   "name": "Kilowatt-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_33",
   "description": "Tämä avain avaa vain Kilowatt-aselaatikoita.",
   "crates": [
    {
@@ -572,6 +608,7 @@
  {
   "id": "key-7000",
   "name": "Operaatio Maastopalo -aselaatikon avain",
+  "code": "#CSGO_crate_key_community_11",
   "description": "Tämä avain avaa vain Operaatio Maastopalo -aselaatikoita",
   "crates": [
    {
@@ -587,6 +624,7 @@
  {
   "id": "key-7002",
   "name": "Galleria-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_34",
   "description": "Tämä avain avaa vain Galleria-aselaatikoita",
   "crates": [
    {
@@ -602,6 +640,7 @@
  {
   "id": "key-7008",
   "name": "Fever-aselaatikon avain",
+  "code": "#CSGO_crate_key_community_35",
   "description": "Tämä avain avaa vain Fever-aselaatikoita",
   "crates": [
    {

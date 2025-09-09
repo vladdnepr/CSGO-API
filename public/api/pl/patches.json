@@ -2,6 +2,7 @@
  {
   "id": "patch-4550",
   "name": "Naszywka | Szalony banan",
+  "code": "patch_banana",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Agent dla skali</i>",
   "def_index": "4550",
   "rarity": {
@@ -15,6 +16,7 @@
  {
   "id": "patch-4551",
   "name": "Naszywka | Szef",
+  "code": "patch_boss",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ciężkie jest brzemię gracza noszącego koronę</i>",
   "def_index": "4551",
   "rarity": {
@@ -28,6 +30,7 @@
  {
   "id": "patch-4552",
   "name": "Naszywka | Miłośnik kurczaków",
+  "code": "patch_chickenlover",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Dzięki za oszczędzenie ich</i>",
   "def_index": "4552",
   "rarity": {
@@ -41,6 +44,7 @@
  {
   "id": "patch-4553",
   "name": "Naszywka | Welcome to the Clutch",
+  "code": "patch_clutch",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Agent z tą naszywką wybija 80% wrogiej drużyny na porządku dziennym</i>",
   "def_index": "4553",
   "rarity": {
@@ -54,6 +58,7 @@
  {
   "id": "patch-4554",
   "name": "Naszywka | Smok",
+  "code": "patch_dragon",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Naszywka przedstawia smoka otoczonego z obydwóch stron ikonicznym AK-47</i>",
   "def_index": "4554",
   "rarity": {
@@ -67,6 +72,7 @@
  {
   "id": "patch-4555",
   "name": "Naszywka | Łatwizna",
+  "code": "patch_easypeasy",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Grafika tej naszywki miała wcześniej literówkę i jakimś cudem przeszła kontrolę jakości</i>",
   "def_index": "4555",
   "rarity": {
@@ -80,6 +86,7 @@
  {
   "id": "patch-4556",
   "name": "Naszywka | Szał",
+  "code": "patch_fury",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Naszywka okazująca wściekłość, złość lub furię</i>",
   "def_index": "4556",
   "rarity": {
@@ -93,6 +100,7 @@
  {
   "id": "patch-4557",
   "name": "Naszywka | Ryk",
+  "code": "patch_howl",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka jest warta swojej wagi w czerwieni, oranżu i złocie</i>",
   "def_index": "4557",
   "rarity": {
@@ -106,6 +114,7 @@
  {
   "id": "patch-4558",
   "name": "Naszywka | Koi",
+  "code": "patch_koi",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia dwa karpie koi płynące po wirze niebieskiej wody</i>",
   "def_index": "4558",
   "rarity": {
@@ -119,6 +128,7 @@
  {
   "id": "patch-4559",
   "name": "Naszywka | Długowieczność",
+  "code": "patch_longevity",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta czerwono-biała naszywka przestawia artystyczną wizję logo „CSGO”</i>",
   "def_index": "4559",
   "rarity": {
@@ -132,6 +142,7 @@
  {
   "id": "patch-4560",
   "name": "Naszywka | Wildfire",
+  "code": "patch_wildfire",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię operacji Wildfire, która rozpoczęła się 17 lutego 2016</i>",
   "def_index": "4560",
   "rarity": {
@@ -145,6 +156,7 @@
  {
   "id": "patch-4561",
   "name": "Naszywka | Czujność",
+  "code": "patch_vigilance",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Naszywka dla czającego się; sojusznika, który bacznie stoi na straży</i>",
   "def_index": "4561",
   "rarity": {
@@ -158,6 +170,7 @@
  {
   "id": "patch-4562",
   "name": "Naszywka | Bloodhound",
+  "code": "patch_bloodhound",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię operacji Bloodhound, która rozpoczęła się 26 maja 2015</i>",
   "def_index": "4562",
   "rarity": {
@@ -171,6 +184,7 @@
  {
   "id": "patch-4563",
   "name": "Naszywka | Bravo",
+  "code": "patch_bravo",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię operacji Bravo, która rozpoczęła się 19 września 2013</i>",
   "def_index": "4563",
   "rarity": {
@@ -184,6 +198,7 @@
  {
   "id": "patch-4564",
   "name": "Naszywka | Breakout",
+  "code": "patch_breakout",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię operacji Breakout, która rozpoczęła się 1 lipca 2014</i>",
   "def_index": "4564",
   "rarity": {
@@ -197,6 +212,7 @@
  {
   "id": "patch-4565",
   "name": "Naszywka | Strefa zagrożenia",
+  "code": "patch_dangerzone",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię Strefy zagrożenia, która została wydana 6 grudnia 2018</i>",
   "def_index": "4565",
   "rarity": {
@@ -210,6 +226,7 @@
  {
   "id": "patch-4566",
   "name": "Naszywka | Hydra",
+  "code": "patch_hydra",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię operacji Hydra, która rozpoczęła się 23 maja 2017</i>",
   "def_index": "4566",
   "rarity": {
@@ -223,6 +240,7 @@
  {
   "id": "patch-4567",
   "name": "Naszywka | Payback",
+  "code": "patch_payback",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię operacji Payback, która rozpoczęła się 25 kwietnia 2013</i>",
   "def_index": "4567",
   "rarity": {
@@ -236,6 +254,7 @@
  {
   "id": "patch-4568",
   "name": "Naszywka | Phoenix",
+  "code": "patch_phoenix",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię operacji Phoenix, która rozpoczęła się 20 lutego 2014</i>",
   "def_index": "4568",
   "rarity": {
@@ -249,6 +268,7 @@
  {
   "id": "patch-4569",
   "name": "Naszywka | Shattered Web",
+  "code": "patch_shatteredweb",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię operacji Shattered Web, która rozpoczęła się 18 listopada 2019</i>",
   "def_index": "4569",
   "rarity": {
@@ -262,6 +282,7 @@
  {
   "id": "patch-4570",
   "name": "Naszywka | Vanguard",
+  "code": "patch_vanguard",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka przedstawia ikonografię operacji Vanguard, która rozpoczęła się 11 listopada 2014</i>",
   "def_index": "4570",
   "rarity": {
@@ -275,6 +296,7 @@
  {
   "id": "patch-4571",
   "name": "Naszywka | Metalowe srebro",
+  "code": "patch_silver",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Naszywka dla tych, którzy stawiają pierwsze kroki na swej drodze ku elicie światowej.</i>",
   "def_index": "4571",
   "rarity": {
@@ -288,6 +310,7 @@
  {
   "id": "patch-4572",
   "name": "Naszywka | Metalowy złoty laur I",
+  "code": "patch_goldnova1",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Udało ci się wyjść ze srebra? Wciąż sporo pracy przed tobą.</i>",
   "def_index": "4572",
   "rarity": {
@@ -301,6 +324,7 @@
  {
   "id": "patch-4575",
   "name": "Naszywka | Metalowy mistrzowski złoty laur",
+  "code": "patch_goldnovamaster",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>A wydawało ci się, że to ze srebra ciężko wyjść...</i>",
   "def_index": "4575",
   "rarity": {
@@ -314,6 +338,7 @@
  {
   "id": "patch-4576",
   "name": "Naszywka | Metalowy mistrzowski obrońca I",
+  "code": "patch_masterguardian1",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Uciekłeś ze złotego lauru? Dobrze, uczysz się.</i>",
   "def_index": "4576",
   "rarity": {
@@ -327,6 +352,7 @@
  {
   "id": "patch-4578",
   "name": "Naszywka | Metalowy elitarny mistrzowski obrońca",
+  "code": "patch_masterguardianelite",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Srebrna nić na tej wykonanej z mistrzowską precyzją naszywce elitarnego mistrzowskiego obrońcy wybija się na granatowym tle.</i>",
   "def_index": "4578",
   "rarity": {
@@ -340,6 +366,7 @@
  {
   "id": "patch-4579",
   "name": "Naszywka | Metalowy wybitny mistrzowski obrońca ★",
+  "code": "patch_dmg",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Każdy musi się ugiąć, dostosować i współpracować z innymi, by osiągnąć rangę wybitnego mistrzowskiego obrońcy. Wspinaj się dalej.</i>",
   "def_index": "4579",
   "rarity": {
@@ -353,6 +380,7 @@
  {
   "id": "patch-4581",
   "name": "Naszywka | Metalowy mistrzowski legendarny orzeł ★",
+  "code": "patch_legendaryeaglemaster",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Zbliżasz się ku szczytowi, ale ci, którzy oczekują twojego wyzwania, nie okażą ci żadnej litości.</i>",
   "def_index": "4581",
   "rarity": {
@@ -366,6 +394,7 @@
  {
   "id": "patch-4582",
   "name": "Naszywka | Metalowa mistrzowska pierwsza klasa",
+  "code": "patch_supreme",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka mistrzowskiej pierwszej klasy zawiera symbol globu w kształcie serca oraz jest ozdobiona niebieskimi i czerwonymi szczegółami.</i>",
   "def_index": "4582",
   "rarity": {
@@ -379,6 +408,7 @@
  {
   "id": "patch-4583",
   "name": "Naszywka | Metalowa elita światowa ★",
+  "code": "patch_globalelite",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Gratulacje, udało ci się tu dotrzeć. Teraz rozpoczyna się prawdziwe wyzwanie.</i>",
   "def_index": "4583",
   "rarity": {
@@ -392,6 +422,7 @@
  {
   "id": "patch-4584",
   "name": "Naszywka | Metalowy wybitny mistrzowski obrońca",
+  "code": "patch_dmg2",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Każdy musi się ugiąć, dostosować i współpracować z innymi, by osiągnąć rangę wybitnego mistrzowskiego obrońcy. Wspinaj się dalej.</i>",
   "def_index": "4584",
   "rarity": {
@@ -405,6 +436,7 @@
  {
   "id": "patch-4585",
   "name": "Naszywka | Metalowy legendarny orzeł",
+  "code": "patch_legendaryeagle2",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta naszywka legendarnego orła zawiera parę złotych skrzydeł.</i>",
   "def_index": "4585",
   "rarity": {
@@ -418,6 +450,7 @@
  {
   "id": "patch-4586",
   "name": "Naszywka | Metalowy mistrzowski legendarny orzeł",
+  "code": "patch_legendaryeaglemaster2",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Zbliżasz się ku szczytowi, ale ci, którzy oczekują twojego wyzwania, nie okażą ci żadnej litości.</i>",
   "def_index": "4586",
   "rarity": {
@@ -431,6 +464,7 @@
  {
   "id": "patch-4587",
   "name": "Naszywka | Metalowy demon srebra",
+  "code": "patch_silver_demon",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>„Srebrne piekło” to nie miejsce, to stan umysłu. Możesz je opuścić w każdej chwili.</i>",
   "def_index": "4587",
   "rarity": {
@@ -444,6 +478,7 @@
  {
   "id": "patch-4588",
   "name": "Naszywka | Metalowe mistrzostwo",
+  "code": "patch_suprememaster",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Na tej naszywce mistrzowskiej pierwszej klasy przedstawiono uskrzydlone cążki do rozbrajania otoczone sześcioma gwiazdami.</i>",
   "def_index": "4588",
   "rarity": {
@@ -457,6 +492,7 @@
  {
   "id": "patch-4589",
   "name": "Naszywka | Alyx",
+  "code": "patch_hlalyx_alyx",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4589",
   "rarity": {
@@ -470,6 +506,7 @@
  {
   "id": "patch-4591",
   "name": "Naszywka | Pożywienie",
+  "code": "patch_hlalyx_headcrab_green",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4591",
   "rarity": {
@@ -483,6 +520,7 @@
  {
   "id": "patch-4592",
   "name": "Naszywka | Wortygont",
+  "code": "patch_hlalyx_vort",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4592",
   "rarity": {
@@ -496,6 +534,7 @@
  {
   "id": "patch-4593",
   "name": "Naszywka | Piktogram głowokraba",
+  "code": "patch_hlalyx_headcrab_teal",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4593",
   "rarity": {
@@ -509,6 +548,7 @@
  {
   "id": "patch-4594",
   "name": "Naszywka | Miedziana lambda",
+  "code": "patch_hlalyx_lambda_copper",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4594",
   "rarity": {
@@ -522,6 +562,7 @@
  {
   "id": "patch-4595",
   "name": "Naszywka | Zdrowie",
+  "code": "patch_hlalyx_hearts",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4595",
   "rarity": {
@@ -535,6 +576,7 @@
  {
   "id": "patch-4596",
   "name": "Naszywka | Hełm Kombinatu",
+  "code": "patch_hlalyx_combine_front",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4596",
   "rarity": {
@@ -548,6 +590,7 @@
  {
   "id": "patch-4597",
   "name": "Naszywka | Black Mesa",
+  "code": "patch_hlalyx_blackmesa",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4597",
   "rarity": {
@@ -561,6 +604,7 @@
  {
   "id": "patch-4598",
   "name": "Naszywka | CMB",
+  "code": "patch_hlalyx_cmb",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4598",
   "rarity": {
@@ -574,6 +618,7 @@
  {
   "id": "patch-4599",
   "name": "Naszywka | Lambda",
+  "code": "patch_hlalyx_lambda_orange",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4599",
   "rarity": {
@@ -587,6 +632,7 @@
  {
   "id": "patch-4600",
   "name": "Naszywka | City 17",
+  "code": "patch_hlalyx_c17",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br>Pamiątkowa naszywka Half-Life: Alyx",
   "def_index": "4600",
   "rarity": {
@@ -600,6 +646,7 @@
  {
   "id": "patch-4697",
   "name": "Naszywka | Metalowa elita światowa",
+  "code": "patch_globalelite2",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Gratulacje, udało ci się tu dotrzeć. Teraz rozpoczyna się prawdziwe wyzwanie.</i>",
   "def_index": "4697",
   "rarity": {
@@ -613,6 +660,7 @@
  {
   "id": "patch-4699",
   "name": "Naszywka | Metalowy mistrzowski obrońca",
+  "code": "patch_masterguardian3",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Uciekłeś ze złotego lauru? Dobrze, uczysz się.</i>",
   "def_index": "4699",
   "rarity": {
@@ -626,6 +674,7 @@
  {
   "id": "patch-4700",
   "name": "Naszywka | Metalowy złoty laur",
+  "code": "patch_goldnova4",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Udało ci się wyjść ze srebra? Wciąż sporo pracy przed tobą.</i>",
   "def_index": "4700",
   "rarity": {
@@ -639,6 +688,7 @@
  {
   "id": "patch-4937",
   "name": "Naszywka | Porzućcie nadzieję",
+  "code": "patch_op11_abandon_hope",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Wszyscy, którzy tu wchodzicie...</i>",
   "def_index": "4937",
   "rarity": {
@@ -652,6 +702,7 @@
  {
   "id": "patch-4938",
   "name": "Naszywka | Kotwica w górę",
+  "code": "patch_op11_anchor",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Nieruchome na wzburzonym morzu...</i>",
   "def_index": "4938",
   "rarity": {
@@ -665,6 +716,7 @@
  {
   "id": "patch-4939",
   "name": "Naszywka | Sunąca płaszczka",
+  "code": "patch_op11_cruising",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Płynie pod powierzchnią fal...</i>",
   "def_index": "4939",
   "rarity": {
@@ -678,6 +730,7 @@
  {
   "id": "patch-4940",
   "name": "Naszywka | Żaba na ostro",
+  "code": "patch_op11_frog_skeleton",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ta ewidentnie nie kumała...</i>",
   "def_index": "4940",
   "rarity": {
@@ -691,6 +744,7 @@
  {
   "id": "patch-4941",
   "name": "Naszywka | Wściekłe sushi",
+  "code": "patch_op11_mad_sushi",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Wyroluj wroga!</i>",
   "def_index": "4941",
   "rarity": {
@@ -704,6 +758,7 @@
  {
   "id": "patch-4942",
   "name": "Naszywka | Wielka kałamarnica",
+  "code": "patch_op11_pink_squid",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Wciąga swe ofiary w mroczne głębiny...</i>",
   "def_index": "4942",
   "rarity": {
@@ -717,6 +772,7 @@
  {
   "id": "patch-4943",
   "name": "Naszywka | El pirata",
+  "code": "patch_op11_piranha",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Małe kęsy, praca zespołowa...</i>",
   "def_index": "4943",
   "rarity": {
@@ -730,6 +786,7 @@
  {
   "id": "patch-4944",
   "name": "Naszywka | Śmierć z głębin",
+  "code": "patch_op11_siren",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Nie wsłuchuj się...</i>",
   "def_index": "4944",
   "rarity": {
@@ -743,6 +800,7 @@
  {
   "id": "patch-4945",
   "name": "Naszywka | Trupy",
+  "code": "patch_op11_skull_crossswords",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Uniwersalny symbol zagrożenia...</i>",
   "def_index": "4945",
   "rarity": {
@@ -756,6 +814,7 @@
  {
   "id": "patch-4946",
   "name": "Naszywka | Fala o zachodzie Słońca",
+  "code": "patch_op11_sunset_wave",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Nowy dzień na oceanie...</i>",
   "def_index": "4946",
   "rarity": {
@@ -769,6 +828,7 @@
  {
   "id": "patch-4947",
   "name": "Naszywka | Wodna ofensywa",
+  "code": "patch_op11_fish_go",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Ryba w rynsztunku.</i>",
   "def_index": "4947",
   "rarity": {
@@ -782,6 +842,7 @@
  {
   "id": "patch-4948",
   "name": "Naszywka | Starszy bóg",
+  "code": "patch_op11_cthulhu",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Cthulhu pochwala tych, którzy rozbrajają...</i>",
   "def_index": "4948",
   "rarity": {
@@ -795,6 +856,7 @@
  {
   "id": "patch-4949",
   "name": "Naszywka | Pora posiłku",
+  "code": "patch_op11_meal_time",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.<br><br><i>Głodny zwycięstwa...</i>",
   "def_index": "4949",
   "rarity": {
@@ -808,6 +870,7 @@
  {
   "id": "patch-5079",
   "name": "Naszywka | Ninjas in Pyjamas | Sztokholm 2021",
+  "code": "stockh2021_teampatch_nip",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5079",
   "rarity": {
@@ -821,6 +884,7 @@
  {
   "id": "patch-5080",
   "name": "Naszywka | Ninjas in Pyjamas (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_nip_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5080",
   "rarity": {
@@ -834,6 +898,7 @@
  {
   "id": "patch-5081",
   "name": "Naszywka | FURIA | Sztokholm 2021",
+  "code": "stockh2021_teampatch_furi",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5081",
   "rarity": {
@@ -847,6 +912,7 @@
  {
   "id": "patch-5082",
   "name": "Naszywka | FURIA (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_furi_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5082",
   "rarity": {
@@ -860,6 +926,7 @@
  {
   "id": "patch-5083",
   "name": "Naszywka | Natus Vincere | Sztokholm 2021",
+  "code": "stockh2021_teampatch_navi",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5083",
   "rarity": {
@@ -873,6 +940,7 @@
  {
   "id": "patch-5084",
   "name": "Naszywka | Natus Vincere (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_navi_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5084",
   "rarity": {
@@ -886,6 +954,7 @@
  {
   "id": "patch-5085",
   "name": "Naszywka | Vitality | Sztokholm 2021",
+  "code": "stockh2021_teampatch_vita",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5085",
   "rarity": {
@@ -899,6 +968,7 @@
  {
   "id": "patch-5086",
   "name": "Naszywka | Vitality (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_vita_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5086",
   "rarity": {
@@ -912,6 +982,7 @@
  {
   "id": "patch-5087",
   "name": "Naszywka | Team Liquid | Sztokholm 2021",
+  "code": "stockh2021_teampatch_liq",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5087",
   "rarity": {
@@ -925,6 +996,7 @@
  {
   "id": "patch-5088",
   "name": "Naszywka | Team Liquid (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_liq_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5088",
   "rarity": {
@@ -938,6 +1010,7 @@
  {
   "id": "patch-5089",
   "name": "Naszywka | Gambit Gaming | Sztokholm 2021",
+  "code": "stockh2021_teampatch_gamb",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5089",
   "rarity": {
@@ -951,6 +1024,7 @@
  {
   "id": "patch-5090",
   "name": "Naszywka | Gambit Gaming (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_gamb_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5090",
   "rarity": {
@@ -964,6 +1038,7 @@
  {
   "id": "patch-5091",
   "name": "Naszywka | G2 Esports | Sztokholm 2021",
+  "code": "stockh2021_teampatch_g2",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5091",
   "rarity": {
@@ -977,6 +1052,7 @@
  {
   "id": "patch-5092",
   "name": "Naszywka | G2 Esports (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_g2_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5092",
   "rarity": {
@@ -990,6 +1066,7 @@
  {
   "id": "patch-5093",
   "name": "Naszywka | Evil Geniuses | Sztokholm 2021",
+  "code": "stockh2021_teampatch_evl",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5093",
   "rarity": {
@@ -1003,6 +1080,7 @@
  {
   "id": "patch-5094",
   "name": "Naszywka | Evil Geniuses (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_evl_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5094",
   "rarity": {
@@ -1016,6 +1094,7 @@
  {
   "id": "patch-5095",
   "name": "Naszywka | Team Spirit | Sztokholm 2021",
+  "code": "stockh2021_teampatch_spir",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5095",
   "rarity": {
@@ -1029,6 +1108,7 @@
  {
   "id": "patch-5096",
   "name": "Naszywka | Team Spirit (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_spir_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5096",
   "rarity": {
@@ -1042,6 +1122,7 @@
  {
   "id": "patch-5097",
   "name": "Naszywka | Astralis | Sztokholm 2021",
+  "code": "stockh2021_teampatch_astr",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5097",
   "rarity": {
@@ -1055,6 +1136,7 @@
  {
   "id": "patch-5098",
   "name": "Naszywka | Astralis (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_astr_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5098",
   "rarity": {
@@ -1068,6 +1150,7 @@
  {
   "id": "patch-5099",
   "name": "Naszywka | paiN Gaming | Sztokholm 2021",
+  "code": "stockh2021_teampatch_pain",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5099",
   "rarity": {
@@ -1081,6 +1164,7 @@
  {
   "id": "patch-5100",
   "name": "Naszywka | paiN Gaming (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_pain_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5100",
   "rarity": {
@@ -1094,6 +1178,7 @@
  {
   "id": "patch-5101",
   "name": "Naszywka | ENCE | Sztokholm 2021",
+  "code": "stockh2021_teampatch_ence",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5101",
   "rarity": {
@@ -1107,6 +1192,7 @@
  {
   "id": "patch-5102",
   "name": "Naszywka | ENCE (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_ence_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5102",
   "rarity": {
@@ -1120,6 +1206,7 @@
  {
   "id": "patch-5103",
   "name": "Naszywka | BIG | Sztokholm 2021",
+  "code": "stockh2021_teampatch_big",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5103",
   "rarity": {
@@ -1133,6 +1220,7 @@
  {
   "id": "patch-5104",
   "name": "Naszywka | BIG (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_big_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5104",
   "rarity": {
@@ -1146,6 +1234,7 @@
  {
   "id": "patch-5105",
   "name": "Naszywka | Movistar Riders | Sztokholm 2021",
+  "code": "stockh2021_teampatch_ride",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5105",
   "rarity": {
@@ -1159,6 +1248,7 @@
  {
   "id": "patch-5106",
   "name": "Naszywka | Movistar Riders (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_ride_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5106",
   "rarity": {
@@ -1172,6 +1262,7 @@
  {
   "id": "patch-5107",
   "name": "Naszywka | Heroic | Sztokholm 2021",
+  "code": "stockh2021_teampatch_hero",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5107",
   "rarity": {
@@ -1185,6 +1276,7 @@
  {
   "id": "patch-5108",
   "name": "Naszywka | Heroic (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_hero_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5108",
   "rarity": {
@@ -1198,6 +1290,7 @@
  {
   "id": "patch-5109",
   "name": "Naszywka | MOUZ | Sztokholm 2021",
+  "code": "stockh2021_teampatch_mouz",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5109",
   "rarity": {
@@ -1211,6 +1304,7 @@
  {
   "id": "patch-5110",
   "name": "Naszywka | MOUZ (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_mouz_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5110",
   "rarity": {
@@ -1224,6 +1318,7 @@
  {
   "id": "patch-5111",
   "name": "Naszywka | Sharks Esports | Sztokholm 2021",
+  "code": "stockh2021_teampatch_shrk",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5111",
   "rarity": {
@@ -1237,6 +1332,7 @@
  {
   "id": "patch-5112",
   "name": "Naszywka | Sharks Esports (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_shrk_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5112",
   "rarity": {
@@ -1250,6 +1346,7 @@
  {
   "id": "patch-5113",
   "name": "Naszywka | Tyloo | Sztokholm 2021",
+  "code": "stockh2021_teampatch_tyl",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5113",
   "rarity": {
@@ -1263,6 +1360,7 @@
  {
   "id": "patch-5114",
   "name": "Naszywka | Tyloo (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_tyl_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5114",
   "rarity": {
@@ -1276,6 +1374,7 @@
  {
   "id": "patch-5115",
   "name": "Naszywka | Renegades | Sztokholm 2021",
+  "code": "stockh2021_teampatch_ren",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5115",
   "rarity": {
@@ -1289,6 +1388,7 @@
  {
   "id": "patch-5116",
   "name": "Naszywka | Renegades (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_ren_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5116",
   "rarity": {
@@ -1302,6 +1402,7 @@
  {
   "id": "patch-5117",
   "name": "Naszywka | Entropiq | Sztokholm 2021",
+  "code": "stockh2021_teampatch_ent",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5117",
   "rarity": {
@@ -1315,6 +1416,7 @@
  {
   "id": "patch-5118",
   "name": "Naszywka | Entropiq (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_ent_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5118",
   "rarity": {
@@ -1328,6 +1430,7 @@
  {
   "id": "patch-5119",
   "name": "Naszywka | GODSENT | Sztokholm 2021",
+  "code": "stockh2021_teampatch_god",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5119",
   "rarity": {
@@ -1341,6 +1444,7 @@
  {
   "id": "patch-5120",
   "name": "Naszywka | GODSENT (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_god_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5120",
   "rarity": {
@@ -1354,6 +1458,7 @@
  {
   "id": "patch-5121",
   "name": "Naszywka | Virtus.Pro | Sztokholm 2021",
+  "code": "stockh2021_teampatch_vp",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5121",
   "rarity": {
@@ -1367,6 +1472,7 @@
  {
   "id": "patch-5122",
   "name": "Naszywka | Virtus.Pro (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_vp_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5122",
   "rarity": {
@@ -1380,6 +1486,7 @@
  {
   "id": "patch-5123",
   "name": "Naszywka | Copenhagen Flames | Sztokholm 2021",
+  "code": "stockh2021_teampatch_cope",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5123",
   "rarity": {
@@ -1393,6 +1500,7 @@
  {
   "id": "patch-5124",
   "name": "Naszywka | Copenhagen Flames (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_cope_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5124",
   "rarity": {
@@ -1406,6 +1514,7 @@
  {
   "id": "patch-5125",
   "name": "Naszywka | FaZe Clan | Sztokholm 2021",
+  "code": "stockh2021_teampatch_faze",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5125",
   "rarity": {
@@ -1419,6 +1528,7 @@
  {
   "id": "patch-5126",
   "name": "Naszywka | FaZe Clan (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_faze_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5126",
   "rarity": {
@@ -1432,6 +1542,7 @@
  {
   "id": "patch-5127",
   "name": "Naszywka | PGL | Sztokholm 2021",
+  "code": "stockh2021_teampatch_pgl",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5127",
   "rarity": {
@@ -1445,6 +1556,7 @@
  {
   "id": "patch-5128",
   "name": "Naszywka | PGL (złota) | Sztokholm 2021",
+  "code": "stockh2021_teampatch_pgl_gold",
   "description": "Tej naszywki można użyć na dowolnym posiadanym przez ciebie agencie. Po jej użyciu można ją usunąć, ale nie odzyskać.",
   "def_index": "5128",
   "rarity": {

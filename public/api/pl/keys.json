@@ -2,6 +2,7 @@
  {
   "id": "key-generic_valve_key",
   "name": "Klucz do skrzyni CS:GO",
+  "code": "#CSGO_Tool_WeaponCase_Key",
   "description": "Ten klucz pozwoli otworzyć dowolną skrzynię stworzoną przez Valve. Inne skrzynie (np. walizka e-sportowa) wymagają własnego klucza do otwarcia.",
   "crates": [
    {
@@ -32,6 +33,7 @@
  {
   "id": "key-1204",
   "name": "Klucz do walizek e-sportowych",
+  "code": "#CSGO_esports_crate_key_1",
   "description": "Ten klucz otwiera walizkę e-sportową.\\n\\nCzęść zysków ze sprzedaży zostanie przeznaczona na wsparcie znanych, cyklicznie organizowanych przez społeczność turniejów CS:GO. Więcej informacji już wkrótce.",
   "crates": [
    {
@@ -57,6 +59,7 @@
  {
   "id": "key-1212",
   "name": "Klucz do pojemnika CS:GO",
+  "code": "#CSGO_sticker_crate_key_1",
   "description": "Ten klucz otworzy dowolny pojemnik od Valve.",
   "crates": [
    {
@@ -77,6 +80,7 @@
  {
   "id": "key-1214",
   "name": "Klucz do skrzyni Zimowej ofensywy",
+  "code": "#CSGO_community_crate_key_1",
   "description": "Ten klucz otwiera tylko skrzynie Zimowej ofensywy.",
   "crates": [
    {
@@ -92,6 +96,7 @@
  {
   "id": "key-1303",
   "name": "Klucz do skrzyni operacji Phoenix",
+  "code": "#CSGO_community_crate_key_2",
   "description": "Ten klucz otwiera tylko skrzynie operacji Phoenix.",
   "crates": [
    {
@@ -107,6 +112,7 @@
  {
   "id": "key-1304",
   "name": "Klucz do pojemnika z naklejką społeczności 1",
+  "code": "#CSGO_sticker_crate_key_community01",
   "description": "Klucz ten otwiera Pojemnik z naklejką społeczności 1.\\n\\nCzęść z zysków ze sprzedaży klucza trafi do twórców naklejki.",
   "crates": [
    {
@@ -122,6 +128,7 @@
  {
   "id": "key-1305",
   "name": "Klucz do skrzyni Łowcy",
+  "code": "#CSGO_community_crate_key_3",
   "description": "Ten klucz otwiera tylko skrzynie Łowcy.",
   "crates": [
    {
@@ -137,6 +144,7 @@
  {
   "id": "key-1309",
   "name": "Klucz do skrzyni operacji Breakout",
+  "code": "#CSGO_community_crate_key_4",
   "description": "Ten klucz otwiera tylko skrzynie operacji Breakout.",
   "crates": [
    {
@@ -152,6 +160,7 @@
  {
   "id": "key-1322",
   "name": "Klucz do skrzyni operacji Vanguard",
+  "code": "#CSGO_community_crate_key_5",
   "description": "Ten klucz otwiera tylko skrzynie operacji Vanguard.",
   "crates": [
    {
@@ -167,6 +176,7 @@
  {
   "id": "key-1323",
   "name": "Klucz do skrzyni Chromatyczności",
+  "code": "#CSGO_community_crate_key_6",
   "description": "Ten klucz otwiera tylko skrzynie Chromatyczności.",
   "crates": [
    {
@@ -182,6 +192,7 @@
  {
   "id": "key-1325",
   "name": "Klucz do skrzyni Chromatyczności 2",
+  "code": "#CSGO_community_crate_key_7",
   "description": "Ten klucz otwiera tylko skrzynie Chromatyczności 2.",
   "crates": [
    {
@@ -197,6 +208,7 @@
  {
   "id": "key-1330",
   "name": "Klucz do skrzyni Falcjonu",
+  "code": "#CSGO_community_crate_key_8",
   "description": "Ten klucz otwiera tylko skrzynie Falcjonu.",
   "crates": [
    {
@@ -212,6 +224,7 @@
  {
   "id": "key-1333",
   "name": "Klucz do skrzyni Cienia",
+  "code": "#CSGO_community_crate_key_9",
   "description": "Ten klucz otwiera tylko skrzynie Cienia.",
   "crates": [
    {
@@ -227,6 +240,7 @@
  {
   "id": "key-1334",
   "name": "Klucz do skrzyni Rewolweru",
+  "code": "#CSGO_crate_community_10_key",
   "description": "Ten klucz otwiera tylko skrzynie Rewolweru.",
   "crates": [
    {
@@ -242,6 +256,7 @@
  {
   "id": "key-1347",
   "name": "Klucz do skrzyni Chromatyczności 3",
+  "code": "#CSGO_crate_key_community_12",
   "description": "Ten klucz otwiera tylko skrzynie Chromatyczności 3.",
   "crates": [
    {
@@ -257,6 +272,7 @@
  {
   "id": "key-1350",
   "name": "Klucz do skrzyni Gamma",
+  "code": "#CSGO_crate_key_community_13",
   "description": "Ten klucz otwiera tylko skrzynie Gamma.",
   "crates": [
    {
@@ -272,6 +288,7 @@
  {
   "id": "key-1351",
   "name": "Klucz do skrzyni Gamma 2",
+  "code": "#CSGO_crate_key_gamma_2",
   "description": "Ten klucz otwiera tylko skrzynie Gamma 2.",
   "crates": [
    {
@@ -287,6 +304,7 @@
  {
   "id": "key-1356",
   "name": "Klucz do skrzyni Rękawic",
+  "code": "#CSGO_crate_key_community_15",
   "description": "Ten klucz otwiera tylko skrzynie Rękawic.",
   "crates": [
    {
@@ -302,6 +320,7 @@
  {
   "id": "key-1364",
   "name": "Klucz do skrzyni Spektrum",
+  "code": "#CSGO_crate_key_community_16",
   "description": "Ten klucz otwiera tylko skrzynie Spektrum.",
   "crates": [
    {
@@ -317,6 +336,7 @@
  {
   "id": "key-1365",
   "name": "Klucz do skrzyni operacji Hydra",
+  "code": "#CSGO_crate_key_community_17",
   "description": "Ten klucz otwiera tylko skrzynie operacji Hydra.",
   "crates": [
    {
@@ -332,6 +352,7 @@
  {
   "id": "key-1366",
   "name": "Klucz do skrzyni Spektrum 2",
+  "code": "#CSGO_crate_key_community_18",
   "description": "Ten klucz otwiera tylko skrzynie Spektrum 2.",
   "crates": [
    {
@@ -347,6 +368,7 @@
  {
   "id": "key-1373",
   "name": "Klucz do skrzyni Clutch",
+  "code": "#CSGO_crate_key_community_19",
   "description": "Ten klucz otwiera tylko skrzynie Clutch.",
   "crates": [
    {
@@ -362,6 +384,7 @@
  {
   "id": "key-1374",
   "name": "Klucz do skrzyni Horyzontu",
+  "code": "#CSGO_crate_key_community_20",
   "description": "Ten klucz otwiera tylko skrzynie Horyzontu.",
   "crates": [
    {
@@ -377,6 +400,7 @@
  {
   "id": "key-1375",
   "name": "Klucz do skrzyni Strefy zagrożenia",
+  "code": "#CSGO_crate_key_community_21",
   "description": "Ten klucz otwiera tylko skrzynie Strefy zagrożenia.",
   "crates": [
    {
@@ -392,6 +416,7 @@
  {
   "id": "key-1383",
   "name": "Klucz do skrzyni Pryzmatu",
+  "code": "#CSGO_crate_key_community_22",
   "description": "Ten klucz otwiera tylko skrzynie Pryzmatu.",
   "crates": [
    {
@@ -407,6 +432,7 @@
  {
   "id": "key-1384",
   "name": "Klucz do skrzyni operacji Shattered Web",
+  "code": "#CSGO_crate_key_community_23",
   "description": "Ten klucz otwiera tylko skrzynie operacji Shattered Web.",
   "crates": [
    {
@@ -422,6 +448,7 @@
  {
   "id": "key-1385",
   "name": "Klucz do skrzyni CS20",
+  "code": "#CSGO_crate_key_community_24",
   "description": "Ten klucz otwiera tylko skrzynie CS20.",
   "crates": [
    {
@@ -437,6 +464,7 @@
  {
   "id": "key-1386",
   "name": "Klucz do skrzyni Pryzmatu 2",
+  "code": "#CSGO_crate_key_community_25",
   "description": "Ten klucz otwiera tylko skrzynie Pryzmatu 2.",
   "crates": [
    {
@@ -452,6 +480,7 @@
  {
   "id": "key-1387",
   "name": "Klucz do skrzyni Załamania",
+  "code": "#CSGO_crate_key_community_26",
   "description": "Ten klucz otwiera tylko skrzynie Załamania.",
   "crates": [
    {
@@ -467,6 +496,7 @@
  {
   "id": "key-1388",
   "name": "Klucz do skrzyni operacji Broken Fang",
+  "code": "#CSGO_crate_key_community_27",
   "description": "Ten klucz otwiera tylko skrzynie operacji Broken Fang.",
   "crates": [
    {
@@ -482,6 +512,7 @@
  {
   "id": "key-1389",
   "name": "Klucz do skrzyni Ukąszenia Węża",
+  "code": "#CSGO_crate_key_community_28",
   "description": "Ten klucz otwiera tylko skrzynie Ukąszenia Węża.",
   "crates": [
    {
@@ -497,6 +528,7 @@
  {
   "id": "key-1390",
   "name": "Klucz do skrzyni operacji Riptide",
+  "code": "#CSGO_crate_key_community_29",
   "description": "Ten klucz otwiera tylko skrzynie operacji Riptide.",
   "crates": [
    {
@@ -512,6 +544,7 @@
  {
   "id": "key-1391",
   "name": "Klucz do skrzyni Snów i koszmarów",
+  "code": "#CSGO_crate_key_community_30",
   "description": "Ten klucz otwiera tylko skrzynie Snów i koszmarów.",
   "crates": [
    {
@@ -527,6 +560,7 @@
  {
   "id": "key-1392",
   "name": "Klucz do skrzyni Odrzutu",
+  "code": "#CSGO_crate_key_community_31",
   "description": "Ten klucz otwiera tylko skrzynie Odrzutu.",
   "crates": [
    {
@@ -542,6 +576,7 @@
  {
   "id": "key-1393",
   "name": "Klucz do skrzyni Rewolucji",
+  "code": "#CSGO_crate_key_community_32",
   "description": "Ten klucz otwiera tylko skrzynie Rewolucji.",
   "crates": [
    {
@@ -557,6 +592,7 @@
  {
   "id": "key-1394",
   "name": "Klucz do skrzyni Kilowata",
+  "code": "#CSGO_crate_key_community_33",
   "description": "Ten klucz otwiera tylko skrzynie Kilowata.",
   "crates": [
    {
@@ -572,6 +608,7 @@
  {
   "id": "key-7000",
   "name": "Klucz do skrzyni operacji Wildfire",
+  "code": "#CSGO_crate_key_community_11",
   "description": "Ten klucz otwiera tylko skrzynie operacji Wildfire.",
   "crates": [
    {
@@ -587,6 +624,7 @@
  {
   "id": "key-7002",
   "name": "Klucz do skrzyni Galerii",
+  "code": "#CSGO_crate_key_community_34",
   "description": "Ten klucz otwiera tylko skrzynie Galerii.",
   "crates": [
    {
@@ -602,6 +640,7 @@
  {
   "id": "key-7008",
   "name": "Klucz do skrzyni Gorączki",
+  "code": "#CSGO_crate_key_community_35",
   "description": "Ten klucz otwiera tylko skrzynie Gorączki.",
   "crates": [
    {

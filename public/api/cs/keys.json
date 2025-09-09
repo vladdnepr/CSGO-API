@@ -2,6 +2,7 @@
  {
   "id": "key-generic_valve_key",
   "name": "CS:GO Case Key",
+  "code": "#CSGO_Tool_WeaponCase_Key",
   "description": "Tento klíč lze použít k otevření jakékoli standardní bedny se zbraněmi. Speciální bedny (např. eSports Case) ke svému otevření vyžadují vlastní klíč.",
   "crates": [
    {
@@ -32,6 +33,7 @@
  {
   "id": "key-1204",
   "name": "eSports Key",
+  "code": "#CSGO_esports_crate_key_1",
   "description": "Tento klíč lze použít k otevření jakékoli bedny eSports Case.\\n\\nČást výtěžku z prodeje tohoto klíče bude použita k financování jednoho ze známých komunitních turnajů v CS:GO.",
   "crates": [
    {
@@ -57,6 +59,7 @@
  {
   "id": "key-1212",
   "name": "CS:GO Capsule Key",
+  "code": "#CSGO_sticker_crate_key_1",
   "description": "Tento klíč lze použít k otevření jakékoli kapsle.",
   "crates": [
    {
@@ -77,6 +80,7 @@
  {
   "id": "key-1214",
   "name": "Winter Offensive Case Key",
+  "code": "#CSGO_community_crate_key_1",
   "description": "Tento klíč lze použít pouze k otevření bedny Winter Offensive Case.",
   "crates": [
    {
@@ -92,6 +96,7 @@
  {
   "id": "key-1303",
   "name": "Operation Phoenix Case Key",
+  "code": "#CSGO_community_crate_key_2",
   "description": "Tento klíč lze použít pouze k otevření bedny Operation Phoenix Weapon Case.",
   "crates": [
    {
@@ -107,6 +112,7 @@
  {
   "id": "key-1304",
   "name": "Community Sticker Capsule 1 Key",
+  "code": "#CSGO_sticker_crate_key_community01",
   "description": "Tento klíč lze použít k otevření Community Sticker Capsule 1.\\n\\nČást výtěžku z prodeje tohoto klíče bude poslána tvůrcům samolepek.",
   "crates": [
    {
@@ -122,6 +128,7 @@
  {
   "id": "key-1305",
   "name": "Huntsman Case Key",
+  "code": "#CSGO_community_crate_key_3",
   "description": "Tento klíč lze použít pouze k otevření bedny Huntsman Case.",
   "crates": [
    {
@@ -137,6 +144,7 @@
  {
   "id": "key-1309",
   "name": "Operation Breakout Case Key",
+  "code": "#CSGO_community_crate_key_4",
   "description": "Tento klíč lze použít pouze k otevření bedny Operation Breakout Weapon Case.",
   "crates": [
    {
@@ -152,6 +160,7 @@
  {
   "id": "key-1322",
   "name": "Operation Vanguard Case Key",
+  "code": "#CSGO_community_crate_key_5",
   "description": "Tento klíč lze použít pouze k otevření bedny Operation Vaguard Weapon Case.",
   "crates": [
    {
@@ -167,6 +176,7 @@
  {
   "id": "key-1323",
   "name": "Chroma Case Key",
+  "code": "#CSGO_community_crate_key_6",
   "description": "Tento klíč lze použít pouze k otevření bedny Chroma Case.",
   "crates": [
    {
@@ -182,6 +192,7 @@
  {
   "id": "key-1325",
   "name": "Chroma 2 Case Key",
+  "code": "#CSGO_community_crate_key_7",
   "description": "Tento klíč lze použít pouze k otevření bedny Chroma 2 Case.",
   "crates": [
    {
@@ -197,6 +208,7 @@
  {
   "id": "key-1330",
   "name": "Falchion Case Key",
+  "code": "#CSGO_community_crate_key_8",
   "description": "Tento klíč lze použít pouze k otevření bedny Falchion Case.",
   "crates": [
    {
@@ -212,6 +224,7 @@
  {
   "id": "key-1333",
   "name": "Shadow Case Key",
+  "code": "#CSGO_community_crate_key_9",
   "description": "Tento klíč lze použít pouze k otevření bedny Shadow Case.",
   "crates": [
    {
@@ -227,6 +240,7 @@
  {
   "id": "key-1334",
   "name": "Revolver Case Key",
+  "code": "#CSGO_crate_community_10_key",
   "description": "Tento klíč lze použít pouze k otevření bedny Revolver Case.",
   "crates": [
    {
@@ -242,6 +256,7 @@
  {
   "id": "key-1347",
   "name": "Chroma 3 Case Key",
+  "code": "#CSGO_crate_key_community_12",
   "description": "Tento klíč lze použít pouze k otevření bedny Chroma 3 Case.",
   "crates": [
    {
@@ -257,6 +272,7 @@
  {
   "id": "key-1350",
   "name": "Gamma Case Key",
+  "code": "#CSGO_crate_key_community_13",
   "description": "Tento klíč lze použít pouze k otevření bedny Gamma Case.",
   "crates": [
    {
@@ -272,6 +288,7 @@
  {
   "id": "key-1351",
   "name": "Gamma 2 Case Key",
+  "code": "#CSGO_crate_key_gamma_2",
   "description": "Tento klíč lze použít pouze k otevření bedny Gamma 2 Case.",
   "crates": [
    {
@@ -287,6 +304,7 @@
  {
   "id": "key-1356",
   "name": "Glove Case Key",
+  "code": "#CSGO_crate_key_community_15",
   "description": "Tento klíč lze použít pouze k otevření bedny Glove Case.",
   "crates": [
    {
@@ -302,6 +320,7 @@
  {
   "id": "key-1364",
   "name": "Spectrum Case Key",
+  "code": "#CSGO_crate_key_community_16",
   "description": "Tento klíč lze použít pouze k otevření bedny Spectrum Case.",
   "crates": [
    {
@@ -317,6 +336,7 @@
  {
   "id": "key-1365",
   "name": "Operation Hydra Case Key",
+  "code": "#CSGO_crate_key_community_17",
   "description": "Tento klíč lze použít pouze k otevření bedny Operation Hydra Case.",
   "crates": [
    {
@@ -332,6 +352,7 @@
  {
   "id": "key-1366",
   "name": "Spectrum 2 Case Key",
+  "code": "#CSGO_crate_key_community_18",
   "description": "Tento klíč lze použít pouze k otevření bedny Spectrum 2 Case.",
   "crates": [
    {
@@ -347,6 +368,7 @@
  {
   "id": "key-1373",
   "name": "Clutch Case Key",
+  "code": "#CSGO_crate_key_community_19",
   "description": "Tento klíč lze použít pouze k otevření bedny Clutch Case.",
   "crates": [
    {
@@ -362,6 +384,7 @@
  {
   "id": "key-1374",
   "name": "Horizon Case Key",
+  "code": "#CSGO_crate_key_community_20",
   "description": "Tento klíč lze použít pouze k otevření bedny Horizon Case.",
   "crates": [
    {
@@ -377,6 +400,7 @@
  {
   "id": "key-1375",
   "name": "Danger Zone Case Key",
+  "code": "#CSGO_crate_key_community_21",
   "description": "Tento klíč lze použít pouze k otevření bedny Danger Zone Case.",
   "crates": [
    {
@@ -392,6 +416,7 @@
  {
   "id": "key-1383",
   "name": "Prisma Case Key",
+  "code": "#CSGO_crate_key_community_22",
   "description": "Tento klíč lze použít pouze k otevření bedny Prisma Case.",
   "crates": [
    {
@@ -407,6 +432,7 @@
  {
   "id": "key-1384",
   "name": "Shattered Web Case Key",
+  "code": "#CSGO_crate_key_community_23",
   "description": "Tento klíč lze použít pouze k otevření bedny Shattered Web Case.",
   "crates": [
    {
@@ -422,6 +448,7 @@
  {
   "id": "key-1385",
   "name": "CS20 Case Key",
+  "code": "#CSGO_crate_key_community_24",
   "description": "Tento klíč lze použít pouze k otevření bedny CS20 Case.",
   "crates": [
    {
@@ -437,6 +464,7 @@
  {
   "id": "key-1386",
   "name": "Prisma 2 Case Key",
+  "code": "#CSGO_crate_key_community_25",
   "description": "Tento klíč lze použít pouze k otevření bedny Prisma 2 Case.",
   "crates": [
    {
@@ -452,6 +480,7 @@
  {
   "id": "key-1387",
   "name": "Fracture Case Key",
+  "code": "#CSGO_crate_key_community_26",
   "description": "Tento klíč lze použít pouze k otevření bedny Fracture Case.",
   "crates": [
    {
@@ -467,6 +496,7 @@
  {
   "id": "key-1388",
   "name": "Broken Fang Case Key",
+  "code": "#CSGO_crate_key_community_27",
   "description": "Tento klíč lze použít pouze k otevření bedny Broken Fang Case.",
   "crates": [
    {
@@ -482,6 +512,7 @@
  {
   "id": "key-1389",
   "name": "Snakebite Case Key",
+  "code": "#CSGO_crate_key_community_28",
   "description": "Tento klíč lze použít pouze k otevření bedny Snakebite Case.",
   "crates": [
    {
@@ -497,6 +528,7 @@
  {
   "id": "key-1390",
   "name": "Riptide Case Key",
+  "code": "#CSGO_crate_key_community_29",
   "description": "Tento klíč lze použít pouze k otevření bedny Riptide Case.",
   "crates": [
    {
@@ -512,6 +544,7 @@
  {
   "id": "key-1391",
   "name": "Dreams & Nightmares Case Key",
+  "code": "#CSGO_crate_key_community_30",
   "description": "Tento klíč lze použít pouze k otevření bedny Dreams & Nightmares Case.",
   "crates": [
    {
@@ -527,6 +560,7 @@
  {
   "id": "key-1392",
   "name": "Recoil Case Key",
+  "code": "#CSGO_crate_key_community_31",
   "description": "Tento klíč lze použít pouze k otevření bedny Recoil Case.",
   "crates": [
    {
@@ -542,6 +576,7 @@
  {
   "id": "key-1393",
   "name": "Revolution Case Key",
+  "code": "#CSGO_crate_key_community_32",
   "description": "Tento klíč lze použít pouze k otevření bedny Revolution Case.",
   "crates": [
    {
@@ -557,6 +592,7 @@
  {
   "id": "key-1394",
   "name": "Kilowatt Case Key",
+  "code": "#CSGO_crate_key_community_33",
   "description": "Tento klíč lze použít pouze k otevření bedny Kilowatt Case.",
   "crates": [
    {
@@ -572,6 +608,7 @@
  {
   "id": "key-7000",
   "name": "Operation Wildfire Case Key",
+  "code": "#CSGO_crate_key_community_11",
   "description": "Tento klíč lze použít pouze k otevření bedny Operation Wildfire Case.",
   "crates": [
    {
@@ -587,6 +624,7 @@
  {
   "id": "key-7002",
   "name": "Gallery Case Key",
+  "code": "#CSGO_crate_key_community_34",
   "description": "Tento klíč lze použít pouze k otevření bedny Gallery Case.",
   "crates": [
    {
@@ -602,6 +640,7 @@
  {
   "id": "key-7008",
   "name": "Fever Case Key",
+  "code": "#CSGO_crate_key_community_35",
   "description": "Tento klíč lze použít pouze k otevření bedny Fever Case.",
   "crates": [
    {

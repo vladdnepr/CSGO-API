@@ -2,6 +2,7 @@
  {
   "id": "collectible-874",
   "name": "Монета 5-річного ветерана",
+  "code": "#CSGO_CollectibleCoin_FiveYearService",
   "description": "Учасник спільноти Counter-Strike більше ніж 5 років.",
   "def_index": "874",
   "rarity": {
@@ -17,6 +18,7 @@
  {
   "id": "collectible-875",
   "name": "Чемпіон DreamHack 2013",
+  "code": "#CSGO_CollectibleCoin_DH2013_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO у 2013 на «DreamHack SteelSeries».",
   "def_index": "875",
   "rarity": {
@@ -32,6 +34,7 @@
  {
   "id": "collectible-876",
   "name": "Фіналіст DreamHack 2013",
+  "code": "#CSGO_CollectibleCoin_DH2013_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO у 2013 на «DreamHack SteelSeries».",
   "def_index": "876",
   "rarity": {
@@ -47,6 +50,7 @@
  {
   "id": "collectible-877",
   "name": "Півфіналіст DreamHack 2013",
+  "code": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO у 2013 на «DreamHack SteelSeries».",
   "def_index": "877",
   "rarity": {
@@ -62,6 +66,7 @@
  {
   "id": "collectible-878",
   "name": "Чвертьфіналіст DreamHack 2013",
+  "code": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO у 2013 на «DreamHack SteelSeries».",
   "def_index": "878",
   "rarity": {
@@ -77,6 +82,7 @@
  {
   "id": "collectible-879",
   "name": "Чемпіон EMS One Katowice 2014",
+  "code": "#CSGO_CollectibleCoin_Kat2014_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «EMS One Katowice 2014».",
   "def_index": "879",
   "rarity": {
@@ -92,6 +98,7 @@
  {
   "id": "collectible-880",
   "name": "Фіналіст EMS One Katowice 2014",
+  "code": "#CSGO_CollectibleCoin_Kat2014_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «EMS One Katowice 2014».",
   "def_index": "880",
   "rarity": {
@@ -107,6 +114,7 @@
  {
   "id": "collectible-881",
   "name": "Півфіналіст EMS One Katowice 2014",
+  "code": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «EMS One Katowice 2014».",
   "def_index": "881",
   "rarity": {
@@ -122,6 +130,7 @@
  {
   "id": "collectible-882",
   "name": "Чвертьфіналіст EMS One Katowice 2014",
+  "code": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «EMS One Katowice 2014».",
   "def_index": "882",
   "rarity": {
@@ -137,6 +146,7 @@
  {
   "id": "collectible-883",
   "name": "Переможець «ESL One Cologne 2014»",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «ESL One Cologne 2014».",
   "def_index": "883",
   "rarity": {
@@ -152,6 +162,7 @@
  {
   "id": "collectible-884",
   "name": "Фіналіст «ESL One Cologne 2014»",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «ESL One Cologne 2014».",
   "def_index": "884",
   "rarity": {
@@ -167,6 +178,7 @@
  {
   "id": "collectible-885",
   "name": "Півфіналіст «ESL One Cologne 2014»",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «ESL One Cologne 2014».",
   "def_index": "885",
   "rarity": {
@@ -182,6 +194,7 @@
  {
   "id": "collectible-886",
   "name": "Чвертьфіналіст «ESL One Cologne 2014»",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «ESL One Cologne 2014».",
   "def_index": "886",
   "rarity": {
@@ -197,6 +210,7 @@
  {
   "id": "collectible-887",
   "name": "Бронзова нагорода змагання прогнозів на «Кельн 2014»",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «ESL One Кельн 2014».",
   "def_index": "887",
   "rarity": {
@@ -212,6 +226,7 @@
  {
   "id": "collectible-888",
   "name": "Срібна нагорода змагання прогнозів на «Кельн 2014»",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «ESL One Кельн 2014».",
   "def_index": "888",
   "rarity": {
@@ -227,6 +242,7 @@
  {
   "id": "collectible-889",
   "name": "Золота нагорода змагання прогнозів на «Кельн 2014»",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «ESL One Кельн 2014».",
   "def_index": "889",
   "rarity": {
@@ -242,6 +258,7 @@
  {
   "id": "collectible-890",
   "name": "Чемпіон DreamHack Winter 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «The DreamHack Winter 2014».",
   "def_index": "890",
   "rarity": {
@@ -257,6 +274,7 @@
  {
   "id": "collectible-891",
   "name": "Фіналіст DreamHack Winter 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_Finalist",
   "description": "Цю нагороду вручено переможцю фіналісту з CS:GO на «The DreamHack Winter 2014».",
   "def_index": "891",
   "rarity": {
@@ -272,6 +290,7 @@
  {
   "id": "collectible-892",
   "name": "Півфіналіст DreamHack Winter 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «DreamHack Winter 2014».",
   "def_index": "892",
   "rarity": {
@@ -287,6 +306,7 @@
  {
   "id": "collectible-893",
   "name": "Чвертьфіналіст DreamHack Winter 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «DreamHack Winter 2014».",
   "def_index": "893",
   "rarity": {
@@ -302,6 +322,7 @@
  {
   "id": "collectible-894",
   "name": "Бронзова нагорода змагання прогнозів на «DreamHack 2014»",
+  "code": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «DreamHack Зима 2014».",
   "def_index": "894",
   "rarity": {
@@ -317,6 +338,7 @@
  {
   "id": "collectible-895",
   "name": "Срібна нагорода змагання прогнозів на «DreamHack 2014»",
+  "code": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «DreamHack Зима 2014».",
   "def_index": "895",
   "rarity": {
@@ -332,6 +354,7 @@
  {
   "id": "collectible-896",
   "name": "Золота нагорода змагання прогнозів на «DreamHack 2014»",
+  "code": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «DreamHack Зима 2014».",
   "def_index": "896",
   "rarity": {
@@ -347,6 +370,7 @@
  {
   "id": "collectible-897",
   "name": "Чемпіон ESL One Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «ESL One Katowice 2015».",
   "def_index": "897",
   "rarity": {
@@ -362,6 +386,7 @@
  {
   "id": "collectible-898",
   "name": "Фіналіст ESL One Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «ESL One Katowice 2015».",
   "def_index": "898",
   "rarity": {
@@ -377,6 +402,7 @@
  {
   "id": "collectible-899",
   "name": "Півфіналіст ESL One Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «ESL One Katowice 2015».",
   "def_index": "899",
   "rarity": {
@@ -392,6 +418,7 @@
  {
   "id": "collectible-900",
   "name": "Чвертьфіналіст ESL One Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «ESL One Katowice 2015».",
   "def_index": "900",
   "rarity": {
@@ -407,6 +434,7 @@
  {
   "id": "collectible-901",
   "name": "Бронзова нагорода змагання прогнозів на «Катовіце 2015»",
+  "code": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «ESL One Катовіце 2015».",
   "def_index": "901",
   "rarity": {
@@ -422,6 +450,7 @@
  {
   "id": "collectible-902",
   "name": "Срібна нагорода змагання прогнозів на «Катовіце 2015»",
+  "code": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «ESL One Катовіце 2015».",
   "def_index": "902",
   "rarity": {
@@ -437,6 +466,7 @@
  {
   "id": "collectible-903",
   "name": "Золота нагорода змагання прогнозів на «Катовіце 2015»",
+  "code": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «ESL One Катовіце 2015».",
   "def_index": "903",
   "rarity": {
@@ -452,6 +482,7 @@
  {
   "id": "collectible-904",
   "name": "Переможець ESL One Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_Champion",
   "description": "Цю нагороду вручено переможцю з чемпіонату CS:GO на «ESL One Cologne 2015».",
   "def_index": "904",
   "rarity": {
@@ -467,6 +498,7 @@
  {
   "id": "collectible-905",
   "name": "Фіналіст ESL One Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO у 2015 на «ESL One Cologne».",
   "def_index": "905",
   "rarity": {
@@ -482,6 +514,7 @@
  {
   "id": "collectible-906",
   "name": "Півфіналіст ESL One Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO у 2015 на «ESL One Cologne».",
   "def_index": "906",
   "rarity": {
@@ -497,6 +530,7 @@
  {
   "id": "collectible-907",
   "name": "Чвертьфіналіст ESL One Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO у 2015 на «ESL One Cologne».",
   "def_index": "907",
   "rarity": {
@@ -512,6 +546,7 @@
  {
   "id": "collectible-908",
   "name": "Бронзова нагорода змагання прогнозів на «Кельн 2015»",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «ESL One Кельн 2015».",
   "def_index": "908",
   "rarity": {
@@ -527,6 +562,7 @@
  {
   "id": "collectible-909",
   "name": "Срібна нагорода змагання прогнозів на «Кельн 2015»",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «ESL One Кельн 2015».",
   "def_index": "909",
   "rarity": {
@@ -542,6 +578,7 @@
  {
   "id": "collectible-910",
   "name": "Золота нагорода змагання прогнозів на «Кельн 2015»",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «ESL One Кельн 2015».",
   "def_index": "910",
   "rarity": {
@@ -557,6 +594,7 @@
  {
   "id": "collectible-911",
   "name": "Бронзова нагорода змагання прогнозів на «Клуж-Напоку 2015»",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «DreamHack Клуж-Напока 2015».",
   "def_index": "911",
   "rarity": {
@@ -572,6 +610,7 @@
  {
   "id": "collectible-912",
   "name": "Срібна нагорода змагання прогнозів на «Клуж-Напоку 2015»",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «DreamHack Клуж-Напока 2015».",
   "def_index": "912",
   "rarity": {
@@ -587,6 +626,7 @@
  {
   "id": "collectible-913",
   "name": "Золота нагорода змагання прогнозів на «Клуж-Напоку 2015»",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «DreamHack Клуж-Напока 2015».",
   "def_index": "913",
   "rarity": {
@@ -602,6 +642,7 @@
  {
   "id": "collectible-914",
   "name": "Бронзова нагорода змагання «Fantasy Team» на «DreamHack Клуж-Напока 2015»",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання «Fantasy Team» на «DreamHack Клуж-Напока 2015».",
   "def_index": "914",
   "rarity": {
@@ -617,6 +658,7 @@
  {
   "id": "collectible-915",
   "name": "Срібна нагорода Cluj-Napoca 2015 Fantasy",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
   "description": "Цю срібну нагороду було вручено під час змагання «Fantasy Team» на «DreamHack Клуж-Напока 2015».",
   "def_index": "915",
   "rarity": {
@@ -632,6 +674,7 @@
  {
   "id": "collectible-916",
   "name": "Золота нагорода Cluj-Napoca 2015 Fantasy",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
   "description": "Цю золоту нагороду було вручено під час змагання «Fantasy Team» на «DreamHack Клуж-Напока 2015».",
   "def_index": "916",
   "rarity": {
@@ -647,6 +690,7 @@
  {
   "id": "collectible-917",
   "name": "Переможець «DreamHack Клуж-Напока 2015»",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «DreamHack Клуж-Напока 2015».",
   "def_index": "917",
   "rarity": {
@@ -662,6 +706,7 @@
  {
   "id": "collectible-918",
   "name": "Фіналіст «DreamHack Клуж-Напока 2015»",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «DreamHack Клуж-Напока 2015».",
   "def_index": "918",
   "rarity": {
@@ -677,6 +722,7 @@
  {
   "id": "collectible-919",
   "name": "Півфіналіст «DreamHack Клуж-Напока 2015»",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «DreamHack Клуж-Напока 2015».",
   "def_index": "919",
   "rarity": {
@@ -692,6 +738,7 @@
  {
   "id": "collectible-920",
   "name": "Чвертьфіналіст «DreamHack Клуж-Напока 2015»",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «DreamHack Клуж-Напока 2015».",
   "def_index": "920",
   "rarity": {
@@ -707,6 +754,7 @@
  {
   "id": "collectible-921",
   "name": "Бронзова нагорода змагання прогнозів на «Колумбус 2016»",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «MLG Колумбус 2016».",
   "def_index": "921",
   "rarity": {
@@ -722,6 +770,7 @@
  {
   "id": "collectible-922",
   "name": "Срібна нагорода змагання прогнозів на «Колумбус 2016»",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «MLG Колумбус 2016».",
   "def_index": "922",
   "rarity": {
@@ -737,6 +786,7 @@
  {
   "id": "collectible-923",
   "name": "Золота нагорода змагання прогнозів на «Колумбус 2016»",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «MLG Колумбус 2016».",
   "def_index": "923",
   "rarity": {
@@ -752,6 +802,7 @@
  {
   "id": "collectible-924",
   "name": "Бронзова нагорода змагання «Fantasy Team» на «Columbus 2016»",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання «Fantasy Team» на «MLG Columbus 2016».",
   "def_index": "924",
   "rarity": {
@@ -767,6 +818,7 @@
  {
   "id": "collectible-925",
   "name": "Срібна нагорода змагання «Fantasy Team» на «Columbus 2016»",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
   "description": "Цю срібну нагороду було вручено під час змагання «Fantasy Team» на «MLG Columbus 2016».",
   "def_index": "925",
   "rarity": {
@@ -782,6 +834,7 @@
  {
   "id": "collectible-926",
   "name": "Золота нагорода змагання «Fantasy Team» на «Columbus 2016»",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
   "description": "Цю золоту нагороду було вручено під час змагання «Fantasy Team» на «MLG Columbus 2016».",
   "def_index": "926",
   "rarity": {
@@ -797,6 +850,7 @@
  {
   "id": "collectible-927",
   "name": "Переможець «MLG Columbus 2016»",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «MLG Columbus 2016».",
   "def_index": "927",
   "rarity": {
@@ -812,6 +866,7 @@
  {
   "id": "collectible-928",
   "name": "Фіналіст MLG Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «MLG Columbus 2016».",
   "def_index": "928",
   "rarity": {
@@ -827,6 +882,7 @@
  {
   "id": "collectible-929",
   "name": "Півфіналіст «MLG Колумбус 2016»",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «MLG Columbus 2016».",
   "def_index": "929",
   "rarity": {
@@ -842,6 +898,7 @@
  {
   "id": "collectible-930",
   "name": "Чвертьфіналісти MLG Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «MLG Columbus 2016».",
   "def_index": "930",
   "rarity": {
@@ -857,6 +914,7 @@
  {
   "id": "collectible-931",
   "name": "Переможець «ESL One Cologne 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «ESL One Cologne 2016».",
   "def_index": "931",
   "rarity": {
@@ -872,6 +930,7 @@
  {
   "id": "collectible-932",
   "name": "Фіналіст «ESL One Cologne 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату CS:GO на «ESL One Cologne 2016».",
   "def_index": "932",
   "rarity": {
@@ -887,6 +946,7 @@
  {
   "id": "collectible-933",
   "name": "Півфіналіст «ESL One Cologne 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату CS:GO на «ESL One Cologne 2016».",
   "def_index": "933",
   "rarity": {
@@ -902,6 +962,7 @@
  {
   "id": "collectible-934",
   "name": "Чвертьфіналіст «ESL One Cologne 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату CS:GO на «ESL One Cologne 2016».",
   "def_index": "934",
   "rarity": {
@@ -917,6 +978,7 @@
  {
   "id": "collectible-935",
   "name": "Бронзова нагорода змагання прогнозів на «Кельн 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «ESL One Кельн 2016».",
   "def_index": "935",
   "rarity": {
@@ -932,6 +994,7 @@
  {
   "id": "collectible-936",
   "name": "Срібна нагорода змагання прогнозів на «Кельн 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «ESL One Кельн 2016».",
   "def_index": "936",
   "rarity": {
@@ -947,6 +1010,7 @@
  {
   "id": "collectible-937",
   "name": "Золота нагорода змагання прогнозів на «Кельн 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «ESL One Кельн 2016».",
   "def_index": "937",
   "rarity": {
@@ -962,6 +1026,7 @@
  {
   "id": "collectible-938",
   "name": "Бронзова нагорода змагання «Fantasy Team» на «Coloogne 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання «Fantasy Team» на «ESL One Cologne 2016».",
   "def_index": "938",
   "rarity": {
@@ -977,6 +1042,7 @@
  {
   "id": "collectible-939",
   "name": "Срібна нагорода змагання «Fantasy Team» на «Coloogne 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
   "description": "Цю срібну нагороду було вручено під час змагання «Fantasy Team» на «ESL One Cologne 2016».",
   "def_index": "939",
   "rarity": {
@@ -992,6 +1058,7 @@
  {
   "id": "collectible-940",
   "name": "Золота нагорода змагання «Fantasy Team» на «Coloogne 2016»",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
   "description": "Цю золоту нагороду було вручено під час змагання «Fantasy Team» на «ESL One Cologne 2016».",
   "def_index": "940",
   "rarity": {
@@ -1007,6 +1074,7 @@
  {
   "id": "collectible-941",
   "name": "Переможець «ELEAGUE Atlanta 2017»",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «ELEAGUE Atlanta 2017».",
   "def_index": "941",
   "rarity": {
@@ -1022,6 +1090,7 @@
  {
   "id": "collectible-942",
   "name": "Фіналіст «ELEAGUE Atlanta 2017»",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «ELEAGUE Atlanta 2017».",
   "def_index": "942",
   "rarity": {
@@ -1037,6 +1106,7 @@
  {
   "id": "collectible-943",
   "name": "Півфіналіст «ELEAGUE Atlanta 2017»",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «ELEAGUE Atlanta 2017».",
   "def_index": "943",
   "rarity": {
@@ -1052,6 +1122,7 @@
  {
   "id": "collectible-944",
   "name": "Чвертьфіналіст «ELEAGUE Atlanta 2017»",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «ELEAGUE Atlanta 2017».",
   "def_index": "944",
   "rarity": {
@@ -1067,6 +1138,7 @@
  {
   "id": "collectible-945",
   "name": "Бронзова нагорода змагання прогнозів на «Атланту 2017»",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «ELEAGUE Атланта 2017».",
   "def_index": "945",
   "rarity": {
@@ -1082,6 +1154,7 @@
  {
   "id": "collectible-946",
   "name": "Срібна нагорода змагання прогнозів на «Атланту 2017»",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «ELEAGUE Атланта 2017».",
   "def_index": "946",
   "rarity": {
@@ -1097,6 +1170,7 @@
  {
   "id": "collectible-947",
   "name": "Золота нагорода змагання прогнозів на «Атланту 2017»",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «ELEAGUE Атланта 2017».",
   "def_index": "947",
   "rarity": {
@@ -1112,6 +1186,7 @@
  {
   "id": "collectible-948",
   "name": "Чемпіон «PGL Краків 2017»",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «PGL Krakow 2017».",
   "def_index": "948",
   "rarity": {
@@ -1127,6 +1202,7 @@
  {
   "id": "collectible-949",
   "name": "Фіналіст «PGL Краків 2017»",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «PGL Краків 2017».",
   "def_index": "949",
   "rarity": {
@@ -1142,6 +1218,7 @@
  {
   "id": "collectible-950",
   "name": "Півфіналіст «PGL Краків 2017»",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «PGL Краків 2017».",
   "def_index": "950",
   "rarity": {
@@ -1157,6 +1234,7 @@
  {
   "id": "collectible-951",
   "name": "Чвертьфіналіст «PGL Краків 2017»",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «PGL Краків 2017».",
   "def_index": "951",
   "rarity": {
@@ -1172,6 +1250,7 @@
  {
   "id": "collectible-952",
   "name": "Бронзова нагорода змагання прогнозів на «Краків 2017»",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «PGL Краків 2017».",
   "def_index": "952",
   "rarity": {
@@ -1187,6 +1266,7 @@
  {
   "id": "collectible-953",
   "name": "Срібна нагорода змагання прогнозів на «Краків 2017»",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «PGL Краків 2017».",
   "def_index": "953",
   "rarity": {
@@ -1202,6 +1282,7 @@
  {
   "id": "collectible-954",
   "name": "Золота нагорода змагання прогнозів на «Краків 2017»",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «PGL Краків 2017».",
   "def_index": "954",
   "rarity": {
@@ -1217,6 +1298,7 @@
  {
   "id": "collectible-955",
   "name": "Переможець «ELEAGUE Boston 2018»",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «ELEAGUE Boston 2018».",
   "def_index": "955",
   "rarity": {
@@ -1232,6 +1314,7 @@
  {
   "id": "collectible-956",
   "name": "Фіналіст «ELEAGUE Boston 2018»",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «ELEAGUE Boston 2018».",
   "def_index": "956",
   "rarity": {
@@ -1247,6 +1330,7 @@
  {
   "id": "collectible-957",
   "name": "Півфіналіст «ELEAGUE Boston 2018»",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «ELEAGUE Boston 2018».",
   "def_index": "957",
   "rarity": {
@@ -1262,6 +1346,7 @@
  {
   "id": "collectible-958",
   "name": "Чвертьфіналіст «ELEAGUE Boston 2018»",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «ELEAGUE Boston 2018».",
   "def_index": "958",
   "rarity": {
@@ -1277,6 +1362,7 @@
  {
   "id": "collectible-959",
   "name": "Бронзова нагорода змагання прогнозів на «Бостон 2018»",
+  "code": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «ELEAGUE Бостон 2018».",
   "def_index": "959",
   "rarity": {
@@ -1292,6 +1378,7 @@
  {
   "id": "collectible-960",
   "name": "Срібна нагорода змагання прогнозів на «Бостон 2018»",
+  "code": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «ELEAGUE Бостон 2018».",
   "def_index": "960",
   "rarity": {
@@ -1307,6 +1394,7 @@
  {
   "id": "collectible-961",
   "name": "Золота нагорода змагання прогнозів на «Бостон 2018»",
+  "code": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «ELEAGUE Бостон 2018».",
   "def_index": "961",
   "rarity": {
@@ -1322,6 +1410,7 @@
  {
   "id": "collectible-962",
   "name": "Чемпіон Лондонському турніру від FACEIT 2018 року",
+  "code": "#CSGO_CollectibleCoin_London2018_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «FACEIT London 2018».",
   "def_index": "962",
   "rarity": {
@@ -1337,6 +1426,7 @@
  {
   "id": "collectible-963",
   "name": "Фіналіст Лондонського турніру від FACEIT 2018 року",
+  "code": "#CSGO_CollectibleCoin_London2018_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «FACEIT London 2018».",
   "def_index": "963",
   "rarity": {
@@ -1352,6 +1442,7 @@
  {
   "id": "collectible-964",
   "name": "Півфіналіст Лондонського турніру від FACEIT 2018 року",
+  "code": "#CSGO_CollectibleCoin_London2018_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «FACEIT London 2018».",
   "def_index": "964",
   "rarity": {
@@ -1367,6 +1458,7 @@
  {
   "id": "collectible-965",
   "name": "Чвертьфіналіст Лондонського турніру від FACEIT 2018 року",
+  "code": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «FACEIT London 2018».",
   "def_index": "965",
   "rarity": {
@@ -1382,6 +1474,7 @@
  {
   "id": "collectible-966",
   "name": "Бронзова нагорода змагання прогнозів на «Лондон 2018»",
+  "code": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
   "description": "Цю бронзову нагороду було вручено під час змагання прогнозів на турнір «FACEIT Лондон 2018».",
   "def_index": "966",
   "rarity": {
@@ -1397,6 +1490,7 @@
  {
   "id": "collectible-967",
   "name": "Срібна нагорода змагання прогнозів на «Лондон 2018»",
+  "code": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
   "description": "Цю срібну нагороду було вручено під час змагання прогнозів на турнір «FACEIT Лондон 2018».",
   "def_index": "967",
   "rarity": {
@@ -1412,6 +1506,7 @@
  {
   "id": "collectible-968",
   "name": "Золота нагорода змагання прогнозів на «Лондон 2018»",
+  "code": "#CSGO_CollectibleCoin_London2018_PickEmGold",
   "description": "Цю золоту нагороду було вручено під час змагання прогнозів на турнір «FACEIT Лондон 2018».",
   "def_index": "968",
   "rarity": {
@@ -1427,6 +1522,7 @@
  {
   "id": "collectible-969",
   "name": "Монета 10-річного ветерана",
+  "code": "#CSGO_CollectibleCoin_TenYearService",
   "description": "Учасник спільноти Counter-Strike більше ніж 10 років.",
   "def_index": "969",
   "rarity": {
@@ -1442,6 +1538,7 @@
  {
   "id": "collectible-970",
   "name": "Значок вірності",
+  "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
   "description": "Це значок за вашу відданість спільноті Counter-Strike до виходу оновлення «Небезпечна зона».\\n\\n<i>Сила у вірності.</i>",
   "def_index": "970",
   "rarity": {
@@ -1457,6 +1554,7 @@
  {
   "id": "collectible-971",
   "name": "Чемпіон «IEM Катовіце 2019»",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO на «IEM Катовіце 2019».",
   "def_index": "971",
   "rarity": {
@@ -1472,6 +1570,7 @@
  {
   "id": "collectible-972",
   "name": "Фіналіст «IEM Катовіце 2019»",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO на «IEM Катовіце 2019».",
   "def_index": "972",
   "rarity": {
@@ -1487,6 +1586,7 @@
  {
   "id": "collectible-973",
   "name": "Півфіналіст «IEM Катовіце 2019»",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO на «IEM Катовіце 2019».",
   "def_index": "973",
   "rarity": {
@@ -1502,6 +1602,7 @@
  {
   "id": "collectible-974",
   "name": "Чвертьфіналіст «IEM Катовіце 2019»",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «IEM Катовіце 2019».",
   "def_index": "974",
   "rarity": {
@@ -1517,6 +1618,7 @@
  {
   "id": "collectible-975",
   "name": "Чемпіон «StarLadder Берлін 2019»",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Champion",
   "description": "Цю нагороду вручено переможцю чемпіонату з CS:GO у 2019 на «StarLadder Берлін 2019».",
   "def_index": "975",
   "rarity": {
@@ -1532,6 +1634,7 @@
  {
   "id": "collectible-976",
   "name": "Фіналіст «StarLadder Берлін 2019»",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
   "description": "Цю нагороду вручено фіналісту чемпіонату з CS:GO у 2019 на «StarLadder Берлін 2019».",
   "def_index": "976",
   "rarity": {
@@ -1547,6 +1650,7 @@
  {
   "id": "collectible-977",
   "name": "Півфіналіст «StarLadder Берлін 2019»",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту чемпіонату з CS:GO у 2019 на «StarLadder Берлін 2019».",
   "def_index": "977",
   "rarity": {
@@ -1562,6 +1666,7 @@
  {
   "id": "collectible-978",
   "name": "Чвертьфіналіст «StarLadder Берлін 2019»",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту чемпіонату з CS:GO на «StarLadder Берлін 2019».",
   "def_index": "978",
   "rarity": {
@@ -1577,6 +1682,7 @@
  {
   "id": "collectible-979",
   "name": "Чемпіон «PGL Стокгольм 2021»",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Champion",
   "description": "Цю нагороду вручено переможцю великого турніру з CS:GO «PGL Стокгольм 2021».",
   "def_index": "979",
   "rarity": {
@@ -1592,6 +1698,7 @@
  {
   "id": "collectible-980",
   "name": "Фіналіст «PGL Стокгольм 2021»",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
   "description": "Цю нагороду вручено фіналісту великого турніру з CS:GO «PGL Стокгольм 2021».",
   "def_index": "980",
   "rarity": {
@@ -1607,6 +1714,7 @@
  {
   "id": "collectible-981",
   "name": "Півфіналіст «PGL Стокгольм 2021»",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту великого турніру з CS:GO «PGL Стокгольм 2021».",
   "def_index": "981",
   "rarity": {
@@ -1622,6 +1730,7 @@
  {
   "id": "collectible-982",
   "name": "Чвертьфіналіст «PGL Стокгольм 2021»",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту великого турніру з CS:GO «PGL Стокгольм 2021».",
   "def_index": "982",
   "rarity": {
@@ -1637,6 +1746,7 @@
  {
   "id": "collectible-983",
   "name": "Чемпіон «PGL Антверпен 2022»",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
   "description": "Цю нагороду вручено переможцю великого турніру з CS:GO «PGL Антверпен 2022».",
   "def_index": "983",
   "rarity": {
@@ -1652,6 +1762,7 @@
  {
   "id": "collectible-984",
   "name": "Фіналіст «PGL Антверпен 2022»",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
   "description": "Цю нагороду вручено фіналісту великого турніру з CS:GO «PGL Антверпен 2022».",
   "def_index": "984",
   "rarity": {
@@ -1667,6 +1778,7 @@
  {
   "id": "collectible-985",
   "name": "Півфіналіст «PGL Антверпен 2022»",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту великого турніру з CS:GO «PGL Антверпен 2022».",
   "def_index": "985",
   "rarity": {
@@ -1682,6 +1794,7 @@
  {
   "id": "collectible-986",
   "name": "Чвертьфіналіст «PGL Антверпен 2022»",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту великого турніру з CS:GO «PGL Антверпен 2022».",
   "def_index": "986",
   "rarity": {
@@ -1697,6 +1810,7 @@
  {
   "id": "collectible-987",
   "name": "Монета «Десятиріччя CS:GO»",
+  "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
   "description": "Видано за святкування десятого Дня народження CS:GO разом зі спільнотою.\\n\\n<i>Десять років пострілів у голову, клатчів і спільноти. З Днем народження, CS:GO!</i>",
   "def_index": "987",
   "rarity": {
@@ -1712,6 +1826,7 @@
  {
   "id": "collectible-988",
   "name": "Чемпіон «IEM Ріо 2022»",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Champion",
   "description": "Цю нагороду вручено переможцю великого турніру з CS:GO «IEM Ріо 2022».",
   "def_index": "988",
   "rarity": {
@@ -1727,6 +1842,7 @@
  {
   "id": "collectible-989",
   "name": "Фіналіст «IEM Ріо 2022»",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Finalist",
   "description": "Цю нагороду вручено фіналісту великого турніру з CS:GO «IEM Ріо 2022».",
   "def_index": "989",
   "rarity": {
@@ -1742,6 +1858,7 @@
  {
   "id": "collectible-990",
   "name": "Півфіналіст «IEM Ріо 2022»",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту великого турніру з CS:GO «IEM Ріо 2022».",
   "def_index": "990",
   "rarity": {
@@ -1757,6 +1874,7 @@
  {
   "id": "collectible-991",
   "name": "Чвертьфіналіст «IEM Ріо 2022»",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту великого турніру з CS:GO «IEM Ріо 2022».",
   "def_index": "991",
   "rarity": {
@@ -1772,6 +1890,7 @@
  {
   "id": "collectible-992",
   "name": "Чемпіон «BLAST.tv Париж 2023»",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Champion",
   "description": "Цю нагороду вручено переможцю великого турніру з CS:GO «BLAST.tv Париж 2023».",
   "def_index": "992",
   "rarity": {
@@ -1787,6 +1906,7 @@
  {
   "id": "collectible-993",
   "name": "Фіналіст «BLAST.tv Париж 2023»",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Finalist",
   "description": "Цю нагороду вручено фіналісту великого турніру з CS:GO «BLAST.tv Париж 2023».",
   "def_index": "993",
   "rarity": {
@@ -1802,6 +1922,7 @@
  {
   "id": "collectible-994",
   "name": "Півфіналіст «BLAST.tv Париж 2023»",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту великого турніру з CS:GO «BLAST.tv Париж 2023».",
   "def_index": "994",
   "rarity": {
@@ -1817,6 +1938,7 @@
  {
   "id": "collectible-995",
   "name": "Чвертьфіналіст «BLAST.tv Париж 2023»",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту великого турніру з CS:GO «BLAST.tv Париж 2023».",
   "def_index": "995",
   "rarity": {
@@ -1832,6 +1954,7 @@
  {
   "id": "collectible-996",
   "name": "Значок глобального наступу",
+  "code": "#CSGO_CollectibleCoin_CoinCsgo",
   "description": "Це значок за вашу відданість спільноті Counter-Strike: Global Offensive до виходу Counter-Strike 2. <i>Легенди не помирають.</i>",
   "def_index": "996",
   "rarity": {
@@ -1847,6 +1970,7 @@
  {
   "id": "collectible-1000",
   "name": "Перепустка на операцію «Відплата»",
+  "code": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
   "description": "Операція «Відплата» була доступна з 25 квітня до 2 вересня 2013 року і принесла понад 180 000 доларів США розробникам мап зі спільноти. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "1000",
   "rarity": {
@@ -1862,6 +1986,7 @@
  {
   "id": "collectible-1001",
   "name": "Монета учасника операції «Відплата»",
+  "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
   "description": "За участь в операції «Відплата» для підтримки творців мап зі спільноти.",
   "def_index": "1001",
   "rarity": {
@@ -1877,6 +2002,7 @@
  {
   "id": "collectible-1002",
   "name": "Срібна монета учасника операції «Відплата»",
+  "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
   "description": "За участь в операції «Відплата» протягом 10 годин для підтримки творців мап зі спільноти.",
   "def_index": "1002",
   "rarity": {
@@ -1892,6 +2018,7 @@
  {
   "id": "collectible-1003",
   "name": "Золота монета учасника операції «Відплата»",
+  "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
   "description": "За участь в операції «Відплата» протягом 50 годин для підтримки творців мап зі спільноти.",
   "def_index": "1003",
   "rarity": {
@@ -1907,6 +2034,7 @@
  {
   "id": "collectible-1004",
   "name": "Монета мапи Museum",
+  "code": "#CSGO_Collectible_MapTokenMuseum",
   "description": null,
   "def_index": "1004",
   "rarity": {
@@ -1922,6 +2050,7 @@
  {
   "id": "collectible-1005",
   "name": "Монета мапи Downtown",
+  "code": "#CSGO_Collectible_MapTokenDowntown",
   "description": null,
   "def_index": "1005",
   "rarity": {
@@ -1937,6 +2066,7 @@
  {
   "id": "collectible-1006",
   "name": "Монета мапи Thunder",
+  "code": "#CSGO_Collectible_MapTokenThunder",
   "description": null,
   "def_index": "1006",
   "rarity": {
@@ -1952,6 +2082,7 @@
  {
   "id": "collectible-1007",
   "name": "Монета мапи Favela",
+  "code": "#CSGO_Collectible_MapTokenFavela",
   "description": null,
   "def_index": "1007",
   "rarity": {
@@ -1967,6 +2098,7 @@
  {
   "id": "collectible-1008",
   "name": "Монета мапи Motel",
+  "code": "#CSGO_Collectible_MapTokenMotel",
   "description": null,
   "def_index": "1008",
   "rarity": {
@@ -1982,6 +2114,7 @@
  {
   "id": "collectible-1009",
   "name": "Монета мапи Seaside",
+  "code": "#CSGO_Collectible_MapTokenSeaside",
   "description": null,
   "def_index": "1009",
   "rarity": {
@@ -1997,6 +2130,7 @@
  {
   "id": "collectible-1010",
   "name": "Монета мапи Library",
+  "code": "#CSGO_Collectible_MapTokenLibrary",
   "description": null,
   "def_index": "1010",
   "rarity": {
@@ -2012,6 +2146,7 @@
  {
   "id": "collectible-1012",
   "name": "Перепустка на операцію «Браво»",
+  "code": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
   "description": "Операція «Браво» була доступна з 19 вересня 2013 року до 5 лютого 2014 року. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "1012",
   "rarity": {
@@ -2027,6 +2162,7 @@
  {
   "id": "collectible-1013",
   "name": "Монета учасника операції «Браво»",
+  "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
   "description": "За участь в операції «Браво».",
   "def_index": "1013",
   "rarity": {
@@ -2042,6 +2178,7 @@
  {
   "id": "collectible-1014",
   "name": "Срібна монета учасника операції «Браво»",
+  "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
   "description": "За участь в операції «Браво».",
   "def_index": "1014",
   "rarity": {
@@ -2057,6 +2194,7 @@
  {
   "id": "collectible-1015",
   "name": "Золота монета учасника операції «Браво»",
+  "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
   "description": "За участь в операції «Браво».",
   "def_index": "1015",
   "rarity": {
@@ -2072,6 +2210,7 @@
  {
   "id": "collectible-1016",
   "name": "Монета мапи Agency",
+  "code": "#CSGO_Collectible_MapTokenAgency",
   "description": "<b><font color='#F2A93E'>Agency Map Coin</font></b>",
   "def_index": "1016",
   "rarity": {
@@ -2087,6 +2226,7 @@
  {
   "id": "collectible-1017",
   "name": "Монета мапи Ali",
+  "code": "#CSGO_Collectible_MapTokenAli",
   "description": "<b><font color='#F2A93E'>Ali Map Coin</font></b>",
   "def_index": "1017",
   "rarity": {
@@ -2102,6 +2242,7 @@
  {
   "id": "collectible-1018",
   "name": "Монета мапи Cache",
+  "code": "#CSGO_Collectible_MapTokenCache",
   "description": "<b><font color='#F2A93E'>Cache Map Coin</font></b>",
   "def_index": "1018",
   "rarity": {
@@ -2117,6 +2258,7 @@
  {
   "id": "collectible-1019",
   "name": "Монета мапи Chinatown",
+  "code": "#CSGO_Collectible_MapTokenChinatown",
   "description": "<b><font color='#F2A93E'>Chinatown Map Coin</font></b>",
   "def_index": "1019",
   "rarity": {
@@ -2132,6 +2274,7 @@
  {
   "id": "collectible-1020",
   "name": "Монета мапи Gwalior",
+  "code": "#CSGO_Collectible_MapTokenGwalior",
   "description": "<b><font color='#F2A93E'>Gwalior Map Coin</font></b>",
   "def_index": "1020",
   "rarity": {
@@ -2147,6 +2290,7 @@
  {
   "id": "collectible-1021",
   "name": "Монета мапи Ruins",
+  "code": "#CSGO_Collectible_MapTokenRuins",
   "description": "<b><font color='#F2A93E'>Ruins Map Coin</font></b>",
   "def_index": "1021",
   "rarity": {
@@ -2162,6 +2306,7 @@
  {
   "id": "collectible-1022",
   "name": "Монета мапи Siege",
+  "code": "#CSGO_Collectible_MapTokenSiege",
   "description": "<b><font color='#F2A93E'>Siege Map Coin</font></b>",
   "def_index": "1022",
   "rarity": {
@@ -2177,6 +2322,7 @@
  {
   "id": "collectible-1023",
   "name": "Перепустка на операцію «Фенікс»",
+  "code": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
   "description": "Операція «Фенікс» була доступна з 20 лютого до 11 червня 2014 року. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "1023",
   "rarity": {
@@ -2192,6 +2338,7 @@
  {
   "id": "collectible-1024",
   "name": "Монета учасника операції «Фенікс»",
+  "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
   "description": "За участь в операції «Фенікс».",
   "def_index": "1024",
   "rarity": {
@@ -2207,6 +2354,7 @@
  {
   "id": "collectible-1025",
   "name": "Срібна монета операції «Фенікс»",
+  "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
   "description": "За участь в операції «Фенікс».",
   "def_index": "1025",
   "rarity": {
@@ -2222,6 +2370,7 @@
  {
   "id": "collectible-1026",
   "name": "Золота монета операції «Фенікс»",
+  "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
   "description": "За участь в операції «Фенікс».",
   "def_index": "1026",
   "rarity": {
@@ -2237,6 +2386,7 @@
  {
   "id": "collectible-1027",
   "name": "Повна перепустка на операцію «Прорив»",
+  "code": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
   "description": "Операція «Прорив» була доступна з 2 липня до 2 жовтня 2014 року. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "1027",
   "rarity": {
@@ -2252,6 +2402,7 @@
  {
   "id": "collectible-1028",
   "name": "Монета учасника операції «Прорив»",
+  "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
   "description": "За участь в операції «Прорив».",
   "def_index": "1028",
   "rarity": {
@@ -2267,6 +2418,7 @@
  {
   "id": "collectible-1029",
   "name": "Срібна монета учасника операції «Прорив»",
+  "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
   "description": "За участь в операції «Прорив».",
   "def_index": "1029",
   "rarity": {
@@ -2282,6 +2434,7 @@
  {
   "id": "collectible-1030",
   "name": "Золота монета учасника операції «Прорив»",
+  "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
   "description": "За участь в операції «Прорив».",
   "def_index": "1030",
   "rarity": {
@@ -2297,6 +2450,7 @@
  {
   "id": "collectible-1031",
   "name": "Монета мапи Castle",
+  "code": "#CSGO_Collectible_MapTokenCastle",
   "description": "<b><font color='#F2A93E'>Castle Map Coin</font></b>",
   "def_index": "1031",
   "rarity": {
@@ -2312,6 +2466,7 @@
  {
   "id": "collectible-1032",
   "name": "Монета мапи Black Gold",
+  "code": "#CSGO_Collectible_MapTokenBlackGold",
   "description": "<b><font color='#F2A93E'>Black Gold Map Coin</font></b>",
   "def_index": "1032",
   "rarity": {
@@ -2327,6 +2482,7 @@
  {
   "id": "collectible-1033",
   "name": "Монета мапи Rush",
+  "code": "#CSGO_Collectible_MapTokenRush",
   "description": "<b><font color='#F2A93E'>Rush Map Coin</font></b>",
   "def_index": "1033",
   "rarity": {
@@ -2342,6 +2498,7 @@
  {
   "id": "collectible-1034",
   "name": "Монета мапи Mist",
+  "code": "#CSGO_Collectible_MapTokenMist",
   "description": "<b><font color='#F2A93E'>Mist Map Coin</font></b>",
   "def_index": "1034",
   "rarity": {
@@ -2357,6 +2514,7 @@
  {
   "id": "collectible-1035",
   "name": "Монета мапи Insertion",
+  "code": "#CSGO_Collectible_MapTokenInsertion",
   "description": "<b><font color='#F2A93E'>Insertion Map Coin</font></b>",
   "def_index": "1035",
   "rarity": {
@@ -2372,6 +2530,7 @@
  {
   "id": "collectible-1036",
   "name": "Монета мапи Overgrown",
+  "code": "#CSGO_Collectible_MapTokenOvergrown",
   "description": "<b><font color='#F2A93E'>Overgrown Map Coin</font></b>",
   "def_index": "1036",
   "rarity": {
@@ -2387,6 +2546,7 @@
  {
   "id": "collectible-1037",
   "name": "Монета мапи Marquis",
+  "code": "#CSGO_Collectible_MapTokenMarquis",
   "description": "<b><font color='#F2A93E'>Marquis Map Coin</font></b>",
   "def_index": "1037",
   "rarity": {
@@ -2402,6 +2562,7 @@
  {
   "id": "collectible-1038",
   "name": "Монета мапи Workout",
+  "code": "#CSGO_Collectible_MapTokenWorkout",
   "description": "<b><font color='#F2A93E'>Workout Map Coin</font></b>",
   "def_index": "1038",
   "rarity": {
@@ -2417,6 +2578,7 @@
  {
   "id": "collectible-1039",
   "name": "Монета мапи Backalley",
+  "code": "#CSGO_Collectible_MapTokenBackalley",
   "description": "<b><font color='#F2A93E'>Backalley Map Coin</font></b>",
   "def_index": "1039",
   "rarity": {
@@ -2432,6 +2594,7 @@
  {
   "id": "collectible-1040",
   "name": "Монета мапи Season",
+  "code": "#CSGO_Collectible_MapTokenSeason",
   "description": "<b><font color='#F2A93E'>Season Map Coin</font></b>",
   "def_index": "1040",
   "rarity": {
@@ -2447,6 +2610,7 @@
  {
   "id": "collectible-1041",
   "name": "Монета мапи Bazaar",
+  "code": "#CSGO_Collectible_MapTokenBazaar",
   "description": "<b><font color='#F2A93E'>Bazaar Map Coin</font></b>",
   "def_index": "1041",
   "rarity": {
@@ -2462,6 +2626,7 @@
  {
   "id": "collectible-1042",
   "name": "Монета мапи Facade",
+  "code": "#CSGO_Collectible_MapTokenFacade",
   "description": "<b><font color='#F2A93E'>Facade Map Coin</font></b>",
   "def_index": "1042",
   "rarity": {
@@ -2477,6 +2642,7 @@
  {
   "id": "collectible-1043",
   "name": "Монета мапи Log",
+  "code": "#CSGO_Collectible_MapTokenLog",
   "description": "<b><font color='#F2A93E'>Log Map Coin</font></b>",
   "def_index": "1043",
   "rarity": {
@@ -2492,6 +2658,7 @@
  {
   "id": "collectible-1044",
   "name": "Монета мапи Rails",
+  "code": "#CSGO_Collectible_MapTokenRails",
   "description": "<b><font color='#F2A93E'>Rails Map Coin</font></b>",
   "def_index": "1044",
   "rarity": {
@@ -2507,6 +2674,7 @@
  {
   "id": "collectible-1045",
   "name": "Монета мапи Resort",
+  "code": "#CSGO_Collectible_MapTokenResort",
   "description": "<b><font color='#F2A93E'>Resort Map Coin</font></b>",
   "def_index": "1045",
   "rarity": {
@@ -2522,6 +2690,7 @@
  {
   "id": "collectible-1046",
   "name": "Монета мапи Zoo",
+  "code": "#CSGO_Collectible_MapTokenZoo",
   "description": "<b><font color='#F2A93E'>Zoo Map Coin</font></b>",
   "def_index": "1046",
   "rarity": {
@@ -2537,6 +2706,7 @@
  {
   "id": "collectible-1047",
   "name": "Монета мапи Santorini",
+  "code": "#CSGO_Collectible_MapTokenSantorini",
   "description": "<b><font color='#F2A93E'>Santorini Map Coin</font></b>",
   "def_index": "1047",
   "rarity": {
@@ -2552,6 +2722,7 @@
  {
   "id": "collectible-1048",
   "name": "Монета мапи Coast",
+  "code": "#CSGO_Collectible_MapTokenCoast",
   "description": "<b><font color='#F2A93E'>Coast Map Coin</font></b>",
   "def_index": "1048",
   "rarity": {
@@ -2567,6 +2738,7 @@
  {
   "id": "collectible-1049",
   "name": "Монета мапи Mikla",
+  "code": "#CSGO_Collectible_MapTokenMikla",
   "description": "<b><font color='#F2A93E'>Mikla Map Coin</font></b>",
   "def_index": "1049",
   "rarity": {
@@ -2582,6 +2754,7 @@
  {
   "id": "collectible-1050",
   "name": "Монета мапи Royal",
+  "code": "#CSGO_Collectible_MapTokenRoyal",
   "description": "<b><font color='#F2A93E'>Royal Map Coin</font></b>",
   "def_index": "1050",
   "rarity": {
@@ -2597,6 +2770,7 @@
  {
   "id": "collectible-1051",
   "name": "Монета мапи Empire",
+  "code": "#CSGO_Collectible_MapTokenEmpire",
   "description": "<b><font color='#F2A93E'>Empire Map Coin</font></b>",
   "def_index": "1051",
   "rarity": {
@@ -2612,6 +2786,7 @@
  {
   "id": "collectible-1052",
   "name": "Монета мапи Tulip",
+  "code": "#CSGO_Collectible_MapTokenTulip",
   "description": "<b><font color='#F2A93E'>Tulip Map Coin</font></b>",
   "def_index": "1052",
   "rarity": {
@@ -2627,6 +2802,7 @@
  {
   "id": "collectible-1053",
   "name": "Монета мапи Cruise",
+  "code": "#CSGO_Collectible_MapTokenCruise",
   "description": "<b><font color='#F2A93E'>Cruise Map Coin</font></b>",
   "def_index": "1053",
   "rarity": {
@@ -2642,6 +2818,7 @@
  {
   "id": "collectible-1054",
   "name": "Монета мапи Subzero",
+  "code": "#CSGO_Collectible_MapTokenSubzero",
   "description": null,
   "def_index": "1054",
   "rarity": {
@@ -2657,6 +2834,7 @@
  {
   "id": "collectible-1055",
   "name": "Монета мапи Biome",
+  "code": "#CSGO_Collectible_MapTokenBiome",
   "description": null,
   "def_index": "1055",
   "rarity": {
@@ -2672,6 +2850,7 @@
  {
   "id": "collectible-1056",
   "name": "Монета мапи Abbey",
+  "code": "#CSGO_Collectible_MapTokenAbbey",
   "description": "<b><font color='#F2A93E'>Abbey Map Coin</font></b>",
   "def_index": "1056",
   "rarity": {
@@ -2687,6 +2866,7 @@
  {
   "id": "collectible-1057",
   "name": "Монета мапи Ruby",
+  "code": "#CSGO_Collectible_MapTokenRuby",
   "description": null,
   "def_index": "1057",
   "rarity": {
@@ -2702,6 +2882,7 @@
  {
   "id": "collectible-1058",
   "name": "Монета мапи Breach",
+  "code": "#CSGO_Collectible_MapTokenBreach",
   "description": "<b><font color='#F2A93E'>Breach Map Coin</font></b>",
   "def_index": "1058",
   "rarity": {
@@ -2717,6 +2898,7 @@
  {
   "id": "collectible-1059",
   "name": "Монета мапи Studio",
+  "code": "#CSGO_Collectible_MapTokenStudio",
   "description": null,
   "def_index": "1059",
   "rarity": {
@@ -2732,6 +2914,7 @@
  {
   "id": "collectible-1060",
   "name": "Монета мапи Jungle",
+  "code": "#CSGO_Collectible_MapTokenJungle",
   "description": null,
   "def_index": "1060",
   "rarity": {
@@ -2747,6 +2930,7 @@
  {
   "id": "collectible-1061",
   "name": "Монета мапи Anubis",
+  "code": "#CSGO_Collectible_MapTokenAnubis",
   "description": null,
   "def_index": "1061",
   "rarity": {
@@ -2762,6 +2946,7 @@
  {
   "id": "collectible-1062",
   "name": "Монета мапи Chlorine",
+  "code": "#CSGO_Collectible_MapTokenChlorine",
   "description": null,
   "def_index": "1062",
   "rarity": {
@@ -2777,6 +2962,7 @@
  {
   "id": "collectible-1063",
   "name": "Монета мапи Mutiny",
+  "code": "#CSGO_Collectible_MapTokenMutiny",
   "description": null,
   "def_index": "1063",
   "rarity": {
@@ -2792,6 +2978,7 @@
  {
   "id": "collectible-1064",
   "name": "Монета мапи Swamp",
+  "code": "#CSGO_Collectible_MapTokenSwamp",
   "description": null,
   "def_index": "1064",
   "rarity": {
@@ -2807,6 +2994,7 @@
  {
   "id": "collectible-1065",
   "name": "Монета мапи Frostbite",
+  "code": "#CSGO_Collectible_MapTokenFrostbite",
   "description": null,
   "def_index": "1065",
   "rarity": {
@@ -2822,6 +3010,7 @@
  {
   "id": "collectible-1066",
   "name": "Монета мапи Engage",
+  "code": "#CSGO_Collectible_MapTokenEngage",
   "description": null,
   "def_index": "1066",
   "rarity": {
@@ -2837,6 +3026,7 @@
  {
   "id": "collectible-1067",
   "name": "Монета мапи Apollo",
+  "code": "#CSGO_Collectible_MapTokenApollo",
   "description": null,
   "def_index": "1067",
   "rarity": {
@@ -2852,6 +3042,7 @@
  {
   "id": "collectible-1068",
   "name": "Монета мапи Guard",
+  "code": "#CSGO_Collectible_MapTokenGuard",
   "description": null,
   "def_index": "1068",
   "rarity": {
@@ -2867,6 +3058,7 @@
  {
   "id": "collectible-1069",
   "name": "Монета мапи Elysion",
+  "code": "#CSGO_Collectible_MapTokenElysion",
   "description": null,
   "def_index": "1069",
   "rarity": {
@@ -2882,6 +3074,7 @@
  {
   "id": "collectible-1070",
   "name": "Монета мапи Grind",
+  "code": "#CSGO_Collectible_MapTokenGrind",
   "description": null,
   "def_index": "1070",
   "rarity": {
@@ -2897,6 +3090,7 @@
  {
   "id": "collectible-1071",
   "name": "Монета мапи Mocha",
+  "code": "#CSGO_Collectible_MapTokenMocha",
   "description": null,
   "def_index": "1071",
   "rarity": {
@@ -2912,6 +3106,7 @@
  {
   "id": "collectible-1072",
   "name": "Монета мапи Calavera",
+  "code": "#CSGO_Collectible_MapTokenCalavera",
   "description": null,
   "def_index": "1072",
   "rarity": {
@@ -2927,6 +3122,7 @@
  {
   "id": "collectible-1073",
   "name": "Монета мапи Pitstop",
+  "code": "#CSGO_Collectible_MapTokenPitstop",
   "description": null,
   "def_index": "1073",
   "rarity": {
@@ -2942,6 +3138,7 @@
  {
   "id": "collectible-1074",
   "name": "Монета мапи Basalt",
+  "code": "#CSGO_Collectible_MapTokenBasalt",
   "description": null,
   "def_index": "1074",
   "rarity": {
@@ -2957,6 +3154,7 @@
  {
   "id": "collectible-1075",
   "name": "Монета мапи Insertion II",
+  "code": "#CSGO_Collectible_MapTokenInsertion2",
   "description": null,
   "def_index": "1075",
   "rarity": {
@@ -2972,6 +3170,7 @@
  {
   "id": "collectible-1076",
   "name": "Монета мапи Ravine",
+  "code": "#CSGO_Collectible_MapTokenRavine",
   "description": null,
   "def_index": "1076",
   "rarity": {
@@ -2987,6 +3186,7 @@
  {
   "id": "collectible-1077",
   "name": "Монета мапи Extraction",
+  "code": "#CSGO_Collectible_MapTokenExtraction",
   "description": null,
   "def_index": "1077",
   "rarity": {
@@ -3002,6 +3202,7 @@
  {
   "id": "collectible-1078",
   "name": "Монета мапи County",
+  "code": "#CSGO_Collectible_MapTokenCounty",
   "description": null,
   "def_index": "1078",
   "rarity": {
@@ -3017,6 +3218,7 @@
  {
   "id": "collectible-1079",
   "name": "Монета мапи Iris",
+  "code": "#CSGO_Collectible_MapTokenIris",
   "description": null,
   "def_index": "1079",
   "rarity": {
@@ -3032,6 +3234,7 @@
  {
   "id": "collectible-1080",
   "name": "Монета мапи Climb",
+  "code": "#CSGO_Collectible_MapTokenClimb",
   "description": null,
   "def_index": "1080",
   "rarity": {
@@ -3047,6 +3250,7 @@
  {
   "id": "collectible-1081",
   "name": "Монета мапи Crete",
+  "code": "#CSGO_Collectible_MapTokenCrete",
   "description": null,
   "def_index": "1081",
   "rarity": {
@@ -3062,6 +3266,7 @@
  {
   "id": "collectible-1082",
   "name": "Монета мапи Hive",
+  "code": "#CSGO_Collectible_MapTokenHive",
   "description": null,
   "def_index": "1082",
   "rarity": {
@@ -3077,6 +3282,7 @@
  {
   "id": "collectible-1083",
   "name": "Монета мапи Vineyard",
+  "code": "#CSGO_Collectible_MapTokenVineyard",
   "description": null,
   "def_index": "1083",
   "rarity": {
@@ -3092,6 +3298,7 @@
  {
   "id": "collectible-1084",
   "name": "Монета мапи Ember",
+  "code": "#CSGO_Collectible_MapTokenEmber",
   "description": null,
   "def_index": "1084",
   "rarity": {
@@ -3107,6 +3314,7 @@
  {
   "id": "collectible-1085",
   "name": "Монета мапи Tuscan",
+  "code": "#CSGO_Collectible_MapTokenTuscan",
   "description": null,
   "def_index": "1085",
   "rarity": {
@@ -3122,6 +3330,7 @@
  {
   "id": "collectible-1086",
   "name": "Монета мапи Cascade",
+  "code": "#CSGO_Collectible_MapTokenPrime",
   "description": null,
   "def_index": "1086",
   "rarity": {
@@ -3137,6 +3346,7 @@
  {
   "id": "collectible-1087",
   "name": "Монета мапи Blagai",
+  "code": "#CSGO_Collectible_MapTokenBlagai",
   "description": null,
   "def_index": "1087",
   "rarity": {
@@ -3152,6 +3362,7 @@
  {
   "id": "collectible-1088",
   "name": "Монета мапи Boyard",
+  "code": "#CSGO_Collectible_MapTokenBoyard",
   "description": null,
   "def_index": "1088",
   "rarity": {
@@ -3167,6 +3378,7 @@
  {
   "id": "collectible-1089",
   "name": "Монета мапи Chalice",
+  "code": "#CSGO_Collectible_MapTokenChalice",
   "description": null,
   "def_index": "1089",
   "rarity": {
@@ -3182,6 +3394,7 @@
  {
   "id": "collectible-1315",
   "name": "Перепустка на операцію «Авангард»",
+  "code": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
   "description": "Операція «Авангард» була доступна з 11 листопада 2014 року до 31 березня 2015 року. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "1315",
   "rarity": {
@@ -3197,6 +3410,7 @@
  {
   "id": "collectible-1316",
   "name": "Монета учасника операції «Авангард»",
+  "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
   "description": "За участь в операції «Авангард».",
   "def_index": "1316",
   "rarity": {
@@ -3212,6 +3426,7 @@
  {
   "id": "collectible-1317",
   "name": "Срібна монета учасника операції «Авангард»",
+  "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
   "description": "За участь в операції «Авангард».",
   "def_index": "1317",
   "rarity": {
@@ -3227,6 +3442,7 @@
  {
   "id": "collectible-1318",
   "name": "Золота монета учасника операції «Авангард»",
+  "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
   "description": "За участь в операції «Авангард».",
   "def_index": "1318",
   "rarity": {
@@ -3242,6 +3458,7 @@
  {
   "id": "collectible-1326",
   "name": "Перепустка на операцію «Дойда»",
+  "code": "#CSGO_Ticket_CommunitySeasonSix2015",
   "description": "Операція «Дойда» була доступна з 26 травня до 1 жовтня 2015 року. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "1326",
   "rarity": {
@@ -3257,6 +3474,7 @@
  {
   "id": "collectible-1327",
   "name": "Монета учасника операції «Дойда»",
+  "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
   "description": "За участь в операції «Дойда».",
   "def_index": "1327",
   "rarity": {
@@ -3272,6 +3490,7 @@
  {
   "id": "collectible-1328",
   "name": "Срібна монета учасника операції «Дойда»",
+  "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
   "description": "За участь в операції «Дойда».",
   "def_index": "1328",
   "rarity": {
@@ -3287,6 +3506,7 @@
  {
   "id": "collectible-1329",
   "name": "Золота монета учасника операції «Дойда»",
+  "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
   "description": "За участь в операції «Дойда».",
   "def_index": "1329",
   "rarity": {
@@ -3302,6 +3522,7 @@
  {
   "id": "collectible-1331",
   "name": "Медаль за службу 2015",
+  "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Нагороджено за видатну службу й досягнення у 2015 році.",
   "def_index": "1331",
   "rarity": {
@@ -3317,6 +3538,7 @@
  {
   "id": "collectible-1332",
   "name": "Медаль за службу 2015",
+  "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Нагороджено за видатну службу й досягнення у 2015 році.",
   "def_index": "1332",
   "rarity": {
@@ -3332,6 +3554,7 @@
  {
   "id": "collectible-1335",
   "name": "Перепустка на операцію «Дике полум’я»",
+  "code": "#CSGO_Ticket_CommunitySeasonSeven2016",
   "description": "Операція «Дике полум’я» була доступна з 17 лютого до 13 липня 2016 року. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "1335",
   "rarity": {
@@ -3347,6 +3570,7 @@
  {
   "id": "collectible-1336",
   "name": "Монета учасника операції «Дике полум’я»",
+  "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
   "description": "За участь в операції «Дике полум’я».",
   "def_index": "1336",
   "rarity": {
@@ -3362,6 +3586,7 @@
  {
   "id": "collectible-1337",
   "name": "Срібна монета учасника операції «Дике полум’я»",
+  "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
   "description": "За участь в операції «Дике полум’я».",
   "def_index": "1337",
   "rarity": {
@@ -3377,6 +3602,7 @@
  {
   "id": "collectible-1338",
   "name": "Золота монета учасника операції «Дике полум’я»",
+  "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
   "description": "За участь в операції «Дике полум’я».",
   "def_index": "1338",
   "rarity": {
@@ -3392,6 +3618,7 @@
  {
   "id": "collectible-1339",
   "name": "Медаль за службу 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Нагороджено за видатну службу й досягнення у 2016 році.",
   "def_index": "1339",
   "rarity": {
@@ -3407,6 +3634,7 @@
  {
   "id": "collectible-1340",
   "name": "Медаль за службу 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Нагороджено за видатну службу й досягнення у 2016 році.",
   "def_index": "1340",
   "rarity": {
@@ -3422,6 +3650,7 @@
  {
   "id": "collectible-1341",
   "name": "Медаль за службу 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Нагороджено за видатну службу й досягнення у 2016 році.",
   "def_index": "1341",
   "rarity": {
@@ -3437,6 +3666,7 @@
  {
   "id": "collectible-1342",
   "name": "Медаль за службу 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Нагороджено за видатну службу й досягнення у 2016 році.",
   "def_index": "1342",
   "rarity": {
@@ -3452,6 +3682,7 @@
  {
   "id": "collectible-1343",
   "name": "Медаль за службу 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Нагороджено за видатну службу й досягнення у 2016 році.",
   "def_index": "1343",
   "rarity": {
@@ -3467,6 +3698,7 @@
  {
   "id": "collectible-1344",
   "name": "Медаль за службу 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Нагороджено за видатну службу й досягнення у 2016 році.",
   "def_index": "1344",
   "rarity": {
@@ -3482,6 +3714,7 @@
  {
   "id": "collectible-1352",
   "name": "Перепустка на операцію «Гідра»",
+  "code": "#CSGO_Ticket_CommunitySeasonEight2017",
   "description": "Операція «Гідра» була доступна з 23 травня до 14 листопада 2017 року. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "1352",
   "rarity": {
@@ -3497,6 +3730,7 @@
  {
   "id": "collectible-1357",
   "name": "Медаль за службу 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Нагороджено за видатну службу й досягнення у 2017 році.",
   "def_index": "1357",
   "rarity": {
@@ -3512,6 +3746,7 @@
  {
   "id": "collectible-1358",
   "name": "Медаль за службу 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Нагороджено за видатну службу й досягнення у 2017 році.",
   "def_index": "1358",
   "rarity": {
@@ -3527,6 +3762,7 @@
  {
   "id": "collectible-1359",
   "name": "Медаль за службу 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Нагороджено за видатну службу й досягнення у 2017 році.",
   "def_index": "1359",
   "rarity": {
@@ -3542,6 +3778,7 @@
  {
   "id": "collectible-1360",
   "name": "Медаль за службу 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Нагороджено за видатну службу й досягнення у 2017 році.",
   "def_index": "1360",
   "rarity": {
@@ -3557,6 +3794,7 @@
  {
   "id": "collectible-1361",
   "name": "Медаль за службу 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Нагороджено за видатну службу й досягнення у 2017 році.",
   "def_index": "1361",
   "rarity": {
@@ -3572,6 +3810,7 @@
  {
   "id": "collectible-1362",
   "name": "Медаль за службу 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Нагороджено за видатну службу й досягнення у 2017 році.",
   "def_index": "1362",
   "rarity": {
@@ -3587,6 +3826,7 @@
  {
   "id": "collectible-1363",
   "name": "Медаль за службу 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Нагороджено за видатну службу й досягнення у 2017 році.",
   "def_index": "1363",
   "rarity": {
@@ -3602,6 +3842,7 @@
  {
   "id": "collectible-1367",
   "name": "Медаль за службу 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Нагороджено за видатну службу й досягнення у 2018 році.",
   "def_index": "1367",
   "rarity": {
@@ -3617,6 +3858,7 @@
  {
   "id": "collectible-1368",
   "name": "Медаль за службу 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Нагороджено за видатну службу й досягнення у 2018 році.",
   "def_index": "1368",
   "rarity": {
@@ -3632,6 +3874,7 @@
  {
   "id": "collectible-1369",
   "name": "Медаль за службу 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Нагороджено за видатну службу й досягнення у 2018 році.",
   "def_index": "1369",
   "rarity": {
@@ -3647,6 +3890,7 @@
  {
   "id": "collectible-1370",
   "name": "Медаль за службу 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Нагороджено за видатну службу й досягнення у 2018 році.",
   "def_index": "1370",
   "rarity": {
@@ -3662,6 +3906,7 @@
  {
   "id": "collectible-1371",
   "name": "Медаль за службу 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Нагороджено за видатну службу й досягнення у 2018 році.",
   "def_index": "1371",
   "rarity": {
@@ -3677,6 +3922,7 @@
  {
   "id": "collectible-1372",
   "name": "Медаль за службу 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Нагороджено за видатну службу й досягнення у 2018 році.",
   "def_index": "1372",
   "rarity": {
@@ -3692,6 +3938,7 @@
  {
   "id": "collectible-1376",
   "name": "Медаль за службу 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Нагороджено за видатну службу й досягнення у 2019 році.",
   "def_index": "1376",
   "rarity": {
@@ -3707,6 +3954,7 @@
  {
   "id": "collectible-1377",
   "name": "Медаль за службу 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Нагороджено за видатну службу й досягнення у 2019 році.",
   "def_index": "1377",
   "rarity": {
@@ -3722,6 +3970,7 @@
  {
   "id": "collectible-1378",
   "name": "Медаль за службу 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Нагороджено за видатну службу й досягнення у 2019 році.",
   "def_index": "1378",
   "rarity": {
@@ -3737,6 +3986,7 @@
  {
   "id": "collectible-1379",
   "name": "Медаль за службу 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Нагороджено за видатну службу й досягнення у 2019 році.",
   "def_index": "1379",
   "rarity": {
@@ -3752,6 +4002,7 @@
  {
   "id": "collectible-1380",
   "name": "Медаль за службу 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Нагороджено за видатну службу й досягнення у 2019 році.",
   "def_index": "1380",
   "rarity": {
@@ -3767,6 +4018,7 @@
  {
   "id": "collectible-1381",
   "name": "Медаль за службу 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Нагороджено за видатну службу й досягнення у 2019 році.",
   "def_index": "1381",
   "rarity": {
@@ -3782,6 +4034,7 @@
  {
   "id": "collectible-4353",
   "name": "Монета учасника операції «Гідра»",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
   "description": "За участь в операції «Гідра».",
   "def_index": "4353",
   "rarity": {
@@ -3797,6 +4050,7 @@
  {
   "id": "collectible-4354",
   "name": "Срібна монета учасника операції «Гідра»",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
   "description": "За участь в операції «Гідра».",
   "def_index": "4354",
   "rarity": {
@@ -3812,6 +4066,7 @@
  {
   "id": "collectible-4355",
   "name": "Золота монета учасника операції «Гідра»",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
   "description": "За участь в операції «Гідра».",
   "def_index": "4355",
   "rarity": {
@@ -3827,6 +4082,7 @@
  {
   "id": "collectible-4356",
   "name": "Діамантова монета учасника операції «Гідра»",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
   "description": "За виконання операції «Гідра».",
   "def_index": "4356",
   "rarity": {
@@ -3842,6 +4098,7 @@
  {
   "id": "collectible-4549",
   "name": "Преміальна перепустка на операцію «Розірвана мережа»",
+  "code": "#CSGO_Ticket_CommunitySeasonNine2019",
   "description": "Операція «Розірвана мережа» була доступна з 18 листопада 2019 року до 31 березня 2020 року. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "4549",
   "rarity": {
@@ -3857,6 +4114,7 @@
  {
   "id": "collectible-4550",
   "name": "Монета учасника операції «Розірвана мережа»",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
   "description": "За участь в операції «Розірвана мережа».",
   "def_index": "4550",
   "rarity": {
@@ -3872,6 +4130,7 @@
  {
   "id": "collectible-4551",
   "name": "Срібна монета учасника операції «Розірвана мережа»",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
   "description": "За участь в операції «Розірвана мережа».",
   "def_index": "4551",
   "rarity": {
@@ -3887,6 +4146,7 @@
  {
   "id": "collectible-4552",
   "name": "Золота монета учасника операції «Розірвана мережа»",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
   "description": "За участь в операції «Розірвана мережа».",
   "def_index": "4552",
   "rarity": {
@@ -3902,6 +4162,7 @@
  {
   "id": "collectible-4553",
   "name": "Діамантова монета учасника операції «Розірвана мережа»",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
   "description": "За виконання операції «Розірвана мережа».",
   "def_index": "4553",
   "rarity": {
@@ -3917,6 +4178,7 @@
  {
   "id": "collectible-4554",
   "name": "Глядацька перепустка «Катовіце 2019»",
+  "code": "#CSGO_TournamentPass_katowice2019",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «IEM Катовіце 2019». Якщо її відкрити, то вона дасть монету «Катовіце 2019», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, до сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Катовіце 2019» через виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.",
   "def_index": "4554",
   "rarity": {
@@ -3932,6 +4194,7 @@
  {
   "id": "collectible-4555",
   "name": "Монета «Катовіце 2019»",
+  "code": "#CSGO_TournamentJournal_katowice2019",
   "description": "Це пам’ятна монета великого чемпіонату «IEM Катовіце 2019», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Катовіце 2019» через виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.",
   "def_index": "4555",
   "rarity": {
@@ -3947,6 +4210,7 @@
  {
   "id": "collectible-4556",
   "name": "Срібна монета «Katowice 2019»",
+  "code": "#CSGO_TournamentJournal_katowice2019_Silver",
   "description": "Це пам’ятна монета великого чемпіонату «IEM Катовіце 2019», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Катовіце 2019» через виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.",
   "def_index": "4556",
   "rarity": {
@@ -3962,6 +4226,7 @@
  {
   "id": "collectible-4557",
   "name": "Золота монета «Катовіце 2019»",
+  "code": "#CSGO_TournamentJournal_katowice2019_Gold",
   "description": "Це пам’ятна монета великого чемпіонату «IEM Катовіце 2019», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Катовіце 2019» через виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.",
   "def_index": "4557",
   "rarity": {
@@ -3977,6 +4242,7 @@
  {
   "id": "collectible-4558",
   "name": "Діамантова монета «Катовіце 2019»",
+  "code": "#CSGO_TournamentJournal_katowice2019_Crystal",
   "description": "Це пам’ятна монета великого чемпіонату «IEM Катовіце 2019», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Катовіце 2019» через виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.",
   "def_index": "4558",
   "rarity": {
@@ -3992,6 +4258,7 @@
  {
   "id": "collectible-4622",
   "name": "Глядацька перепустка «Берлін 2019»",
+  "code": "#CSGO_TournamentPass_berlin2019",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «Берлін 2019 від StarLadder». Якщо її відкрити, то вона дасть монету «Берлін 2019», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nВи можете покращити свою монету «Берлін 2019» через виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.",
   "def_index": "4622",
   "rarity": {
@@ -4007,6 +4274,7 @@
  {
   "id": "collectible-4623",
   "name": "Монета «Берлін 2019»",
+  "code": "#CSGO_TournamentJournal_berlin2019",
   "description": "Це пам’ятна монета великого чемпіонату «Берлін 2019 від StarLadder», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Берлін 2019» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4623",
   "rarity": {
@@ -4022,6 +4290,7 @@
  {
   "id": "collectible-4624",
   "name": "Срібна монета «Берлін 2019»",
+  "code": "#CSGO_TournamentJournal_berlin2019_Silver",
   "description": "Це пам’ятна монета великого чемпіонату «Берлін 2019 від StarLadder», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Берлін 2019» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4624",
   "rarity": {
@@ -4037,6 +4306,7 @@
  {
   "id": "collectible-4625",
   "name": "Золота монета «Берлін 2019»",
+  "code": "#CSGO_TournamentJournal_berlin2019_Gold",
   "description": "Це пам’ятна монета великого чемпіонату «Берлін 2019 від StarLadder», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Берлін 2019» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4625",
   "rarity": {
@@ -4052,6 +4322,7 @@
  {
   "id": "collectible-4626",
   "name": "Діамантова монета «Берлін 2019»",
+  "code": "#CSGO_TournamentJournal_berlin2019_Crystal",
   "description": "Це пам’ятна монета великого чемпіонату «Берлін 2019 від StarLadder», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Берлін 2019» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4626",
   "rarity": {
@@ -4067,6 +4338,7 @@
  {
   "id": "collectible-4627",
   "name": "Глядацька перепустка «Берлін 2019» + 3 сувенірні жетони",
+  "code": "#CSGO_TournamentPass_berlin2019_pack",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «Берлін 2019 від StarLadder». Якщо її відкрити, то вона дасть монету «Берлін 2019», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Берлін 2019» шляхом виконання завдань. З кожним покращенням монети ви можете отримати сувенірний набір.\\n\\nЦя перепустка глядача попередньо активує вашу монету «Берлін 2019» і 3 сувенірні жетони.",
   "def_index": "4627",
   "rarity": {
@@ -4082,6 +4354,7 @@
  {
   "id": "collectible-4628",
   "name": "Сувенірний жетон «Берлін 2019»",
+  "code": "#CSGO_TournamentPass_berlin2019_charge",
   "description": "Це запечатаний сувенірний жетон великого чемпіонату «Берлін 2019 від StarLadder». Якщо його відкрити, то він додасть жетон до вашої монети «Берлін 2019» і дозволить вам отримати сувенірний набір.\\n\\nЖетони можна застосувати лише до монети «Берлін 2019».",
   "def_index": "4628",
   "rarity": {
@@ -4097,6 +4370,7 @@
  {
   "id": "collectible-4671",
   "name": "1 зірка для операції «Розірвана мережа»",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
   "description": "Це наявне в продажу покращення дає <b>1 зірку операції</b> після застосування.\\n\\nЦе покращення зірок операції доступне лише для гравців, які володіють монетою операції.",
   "def_index": "4671",
   "rarity": {
@@ -4112,6 +4386,7 @@
  {
   "id": "collectible-4672",
   "name": "10 зірок для операції «Розірвана мережа»",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
   "description": "Це наявне в продажу покращення дає <b>10 зірок операції</b> після застосування.\\n\\nЦе покращення зірок операції доступне лише для гравців, які володіють монетою операції.",
   "def_index": "4672",
   "rarity": {
@@ -4127,6 +4402,7 @@
  {
   "id": "collectible-4673",
   "name": "100 зірок для операції «Розірвана мережа»",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
   "description": "Це наявне в продажу покращення дає <b>100 зірок операції</b> після застосування.\\n\\nЦе покращення зірок операції доступне лише для гравців, які володіють монетою операції.",
   "def_index": "4673",
   "rarity": {
@@ -4142,6 +4418,7 @@
  {
   "id": "collectible-4674",
   "name": "Медаль за службу 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Нагороджено за видатну службу й досягнення у 2020 році.",
   "def_index": "4674",
   "rarity": {
@@ -4157,6 +4434,7 @@
  {
   "id": "collectible-4675",
   "name": "Медаль за службу 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Нагороджено за видатну службу й досягнення у 2020 році.",
   "def_index": "4675",
   "rarity": {
@@ -4172,6 +4450,7 @@
  {
   "id": "collectible-4676",
   "name": "Медаль за службу 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Нагороджено за видатну службу й досягнення у 2020 році.",
   "def_index": "4676",
   "rarity": {
@@ -4187,6 +4466,7 @@
  {
   "id": "collectible-4677",
   "name": "Медаль за службу 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Нагороджено за видатну службу й досягнення у 2020 році.",
   "def_index": "4677",
   "rarity": {
@@ -4202,6 +4482,7 @@
  {
   "id": "collectible-4678",
   "name": "Медаль за службу 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Нагороджено за видатну службу й досягнення у 2020 році.",
   "def_index": "4678",
   "rarity": {
@@ -4217,6 +4498,7 @@
  {
   "id": "collectible-4679",
   "name": "Медаль за службу 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Нагороджено за видатну службу й досягнення у 2020 році.",
   "def_index": "4679",
   "rarity": {
@@ -4232,6 +4514,7 @@
  {
   "id": "collectible-4682",
   "name": "Значок «Цивільна оборона»",
+  "code": "#CSGO_Collectible_Pin_alyx_04",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4682",
   "rarity": {
@@ -4247,6 +4530,7 @@
  {
   "id": "collectible-4683",
   "name": "Значок «Їжа!»",
+  "code": "#CSGO_Collectible_Pin_alyx_07",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4683",
   "rarity": {
@@ -4262,6 +4546,7 @@
  {
   "id": "collectible-4684",
   "name": "Значок «Вортіґонт»",
+  "code": "#CSGO_Collectible_Pin_alyx_09",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4684",
   "rarity": {
@@ -4277,6 +4562,7 @@
  {
   "id": "collectible-4685",
   "name": "Значок «Ієрогліф хедкраба»",
+  "code": "#CSGO_Collectible_Pin_alyx_05",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4685",
   "rarity": {
@@ -4292,6 +4578,7 @@
  {
   "id": "collectible-4686",
   "name": "Значок «Здоров’я»",
+  "code": "#CSGO_Collectible_Pin_alyx_12",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4686",
   "rarity": {
@@ -4307,6 +4594,7 @@
  {
   "id": "collectible-4687",
   "name": "Значок «Лямбда»",
+  "code": "#CSGO_Collectible_Pin_alyx_01",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4687",
   "rarity": {
@@ -4322,6 +4610,7 @@
  {
   "id": "collectible-4688",
   "name": "Значок «Мідна лямбда»",
+  "code": "#CSGO_Collectible_Pin_alyx_02",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4688",
   "rarity": {
@@ -4337,6 +4626,7 @@
  {
   "id": "collectible-4689",
   "name": "Значок «CMB»",
+  "code": "#CSGO_Collectible_Pin_alyx_03",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4689",
   "rarity": {
@@ -4352,6 +4642,7 @@
  {
   "id": "collectible-4690",
   "name": "Значок «Блек-Меса»",
+  "code": "#CSGO_Collectible_Pin_alyx_06",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4690",
   "rarity": {
@@ -4367,6 +4658,7 @@
  {
   "id": "collectible-4691",
   "name": "Значок «Шолом комбінантів»",
+  "code": "#CSGO_Collectible_Pin_alyx_08",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4691",
   "rarity": {
@@ -4382,6 +4674,7 @@
  {
   "id": "collectible-4692",
   "name": "Значок «Сіті-17»",
+  "code": "#CSGO_Collectible_Pin_alyx_11",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "4692",
   "rarity": {
@@ -4397,6 +4690,7 @@
  {
   "id": "collectible-4699",
   "name": "Преміальна перепустка на операцію «Зламане ікло»",
+  "code": "#CSGO_Ticket_CommunitySeasonTen2020",
   "description": "Операція «Зламане ікло» була доступна з 3 грудня 2020 року до 30 квітня 2021 року. Ця перепустка більше не дає доступу до операції, але її можна обміняти на пам’ятну монету.",
   "def_index": "4699",
   "rarity": {
@@ -4412,6 +4706,7 @@
  {
   "id": "collectible-4700",
   "name": "Монета учасника операції «Зламане ікло»",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
   "description": "За участь в операції «Зламане ікло».",
   "def_index": "4700",
   "rarity": {
@@ -4427,6 +4722,7 @@
  {
   "id": "collectible-4701",
   "name": "Срібна монета учасника операції «Зламане ікло»",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
   "description": "За участь в операції «Зламане ікло».",
   "def_index": "4701",
   "rarity": {
@@ -4442,6 +4738,7 @@
  {
   "id": "collectible-4702",
   "name": "Золота монета учасника операції «Зламане ікло»",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
   "description": "За участь в операції «Зламане ікло».",
   "def_index": "4702",
   "rarity": {
@@ -4457,6 +4754,7 @@
  {
   "id": "collectible-4703",
   "name": "Діамантова монета учасника операції «Зламане ікло»",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
   "description": "За виконання операції «Зламане ікло».",
   "def_index": "4703",
   "rarity": {
@@ -4472,6 +4770,7 @@
  {
   "id": "collectible-4704",
   "name": "1 зірка для операції «Зламане ікло»",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
   "description": "Це наявне в продажу покращення дає <b>1 зірку операції</b> після застосування.",
   "def_index": "4704",
   "rarity": {
@@ -4487,6 +4786,7 @@
  {
   "id": "collectible-4705",
   "name": "10 зірок для операції «Зламане ікло»",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
   "description": "Це наявне в продажу покращення дає <b>10 зірок операції</b> після застосування.",
   "def_index": "4705",
   "rarity": {
@@ -4502,6 +4802,7 @@
  {
   "id": "collectible-4706",
   "name": "100 зірок для операції «Зламане ікло»",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
   "description": "Це наявне в продажу покращення дає <b>100 зірок операції</b> після застосування.",
   "def_index": "4706",
   "rarity": {
@@ -4517,6 +4818,7 @@
  {
   "id": "collectible-4737",
   "name": "Медаль за службу 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
   "def_index": "4737",
   "rarity": {
@@ -4532,6 +4834,7 @@
  {
   "id": "collectible-4738",
   "name": "Медаль за службу 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
   "def_index": "4738",
   "rarity": {
@@ -4547,6 +4850,7 @@
  {
   "id": "collectible-4739",
   "name": "Медаль за службу 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
   "def_index": "4739",
   "rarity": {
@@ -4562,6 +4866,7 @@
  {
   "id": "collectible-4740",
   "name": "Медаль за службу 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
   "def_index": "4740",
   "rarity": {
@@ -4577,6 +4882,7 @@
  {
   "id": "collectible-4741",
   "name": "Медаль за службу 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
   "def_index": "4741",
   "rarity": {
@@ -4592,6 +4898,7 @@
  {
   "id": "collectible-4742",
   "name": "Медаль за службу 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
   "def_index": "4742",
   "rarity": {
@@ -4607,6 +4914,7 @@
  {
   "id": "collectible-4758",
   "name": "Преміальна перепустка на операцію «Хижі води»",
+  "code": "#CSGO_Ticket_CommunitySeasonEleven2021",
   "description": "Преміальна перепустка на операцію «Хижі води» гарантує вам пам’ятну монету операції «Хижі води», яку можна покращити, щотижневі завдання та доступ до ексклюзивних предметів у крамниці операції.",
   "def_index": "4758",
   "rarity": {
@@ -4622,6 +4930,7 @@
  {
   "id": "collectible-4759",
   "name": "Монета учасника операції «Хижі води»",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
   "description": "За участь в операції «Хижі води».",
   "def_index": "4759",
   "rarity": {
@@ -4637,6 +4946,7 @@
  {
   "id": "collectible-4760",
   "name": "Срібна монета учасника операції «Хижі води»",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
   "description": "За участь в операції «Хижі води».",
   "def_index": "4760",
   "rarity": {
@@ -4652,6 +4962,7 @@
  {
   "id": "collectible-4761",
   "name": "Золота монета учасника операції «Хижі води»",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
   "description": "За участь в операції «Хижі води».",
   "def_index": "4761",
   "rarity": {
@@ -4667,6 +4978,7 @@
  {
   "id": "collectible-4762",
   "name": "Діамантова монета учасника операції «Хижі води»",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
   "description": "За виконання операції «Хижі води».",
   "def_index": "4762",
   "rarity": {
@@ -4682,6 +4994,7 @@
  {
   "id": "collectible-4763",
   "name": "1 зірка для операції «Хижі води»",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
   "description": "Це наявне в продажу покращення дає <b>1 зірку операції</b> після застосування.",
   "def_index": "4763",
   "rarity": {
@@ -4697,6 +5010,7 @@
  {
   "id": "collectible-4764",
   "name": "10 зірок для операції «Хижі води»",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
   "description": "Це наявне в продажу покращення дає <b>10 зірок операції</b> після застосування.",
   "def_index": "4764",
   "rarity": {
@@ -4712,6 +5026,7 @@
  {
   "id": "collectible-4765",
   "name": "100 зірок для операції «Хижі води»",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
   "description": "Це наявне в продажу покращення дає <b>100 зірок операції</b> після застосування.",
   "def_index": "4765",
   "rarity": {
@@ -4727,6 +5042,7 @@
  {
   "id": "collectible-4796",
   "name": "Глядацька перепустка «Стокгольм 2021»",
+  "code": "#CSGO_TournamentPass_stockh2021",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «PGL Стокгольм 2021». Якщо її відкрити, то вона дасть монету «Стокгольм 2021», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nВи можете покращити свою монету «Стокгольм 2021» через виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "4796",
   "rarity": {
@@ -4742,6 +5058,7 @@
  {
   "id": "collectible-4797",
   "name": "Монета «Стокгольм 2021»",
+  "code": "#CSGO_TournamentJournal_stockh2021",
   "description": "Це пам’ятна монета великого чемпіонату «PGL Стокгольм 2021», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Стокгольм 2021» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4797",
   "rarity": {
@@ -4757,6 +5074,7 @@
  {
   "id": "collectible-4798",
   "name": "Срібна монета «Стокгольм 2021»",
+  "code": "#CSGO_TournamentJournal_stockh2021_Silver",
   "description": "Це пам’ятна монета великого чемпіонату «PGL Стокгольм 2021», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Стокгольм 2021» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4798",
   "rarity": {
@@ -4772,6 +5090,7 @@
  {
   "id": "collectible-4799",
   "name": "Золота монета «Стокгольм 2021»",
+  "code": "#CSGO_TournamentJournal_stockh2021_Gold",
   "description": "Це пам’ятна монета великого чемпіонату «PGL Стокгольм 2021», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Стокгольм 2021» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4799",
   "rarity": {
@@ -4787,6 +5106,7 @@
  {
   "id": "collectible-4800",
   "name": "Діамантова монета «Стокгольм 2021»",
+  "code": "#CSGO_TournamentJournal_stockh2021_Crystal",
   "description": "Це пам’ятна монета великого чемпіонату «PGL Стокгольм 2021», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Стокгольм 2021» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4800",
   "rarity": {
@@ -4802,6 +5122,7 @@
  {
   "id": "collectible-4801",
   "name": "Глядацька перепустка «Стокгольм 2021» + 3 сувенірні жетони",
+  "code": "#CSGO_TournamentPass_stockh2021_pack",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «PGL Стокгольм 2021». Якщо її відкрити, то вона дасть монету «Стокгольм 2021», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nВи можете покращити свою монету «Стокгольм 2021» через виконання завдань. Ця перепустка глядача попередньо активує вашу монету «Стокгольм 2021» і 3 сувенірні жетони.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "4801",
   "rarity": {
@@ -4817,6 +5138,7 @@
  {
   "id": "collectible-4802",
   "name": "Сувенірний жетон «Стокгольм 2021»",
+  "code": "#CSGO_TournamentPass_stockh2021_charge",
   "description": "Це запечатаний сувенірний жетон великого чемпіонату «PGL Стокгольм 2021». Якщо його відкрити, то він додасть жетон до вашої монети «Стокгольм 2021» і дозволить вам отримати сувенірний набір.\\n\\nЖетони можна застосувати лише до монети «Стокгольм 2021».",
   "def_index": "4802",
   "rarity": {
@@ -4832,6 +5154,7 @@
  {
   "id": "collectible-4819",
   "name": "Медаль за службу 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Нагороджено за видатну службу й досягнення у 2022 році.",
   "def_index": "4819",
   "rarity": {
@@ -4847,6 +5170,7 @@
  {
   "id": "collectible-4820",
   "name": "Медаль за службу 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Нагороджено за видатну службу й досягнення у 2022 році.",
   "def_index": "4820",
   "rarity": {
@@ -4862,6 +5186,7 @@
  {
   "id": "collectible-4821",
   "name": "Медаль за службу 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Нагороджено за видатну службу й досягнення у 2022 році.",
   "def_index": "4821",
   "rarity": {
@@ -4877,6 +5202,7 @@
  {
   "id": "collectible-4822",
   "name": "Медаль за службу 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Нагороджено за видатну службу й досягнення у 2022 році.",
   "def_index": "4822",
   "rarity": {
@@ -4892,6 +5218,7 @@
  {
   "id": "collectible-4823",
   "name": "Медаль за службу 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Нагороджено за видатну службу й досягнення у 2022 році.",
   "def_index": "4823",
   "rarity": {
@@ -4907,6 +5234,7 @@
  {
   "id": "collectible-4824",
   "name": "Медаль за службу 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Нагороджено за видатну службу й досягнення у 2022 році.",
   "def_index": "4824",
   "rarity": {
@@ -4922,6 +5250,7 @@
  {
   "id": "collectible-4825",
   "name": "Глядацька перепустка «Антверпен 2022»",
+  "code": "#CSGO_TournamentPass_antwerp2022",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «PGL Антверпен 2022». Якщо її відкрити, то вона дасть монету «Антверпен 2022», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nВи можете покращити свою монету «Антверпен 2022» через виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "4825",
   "rarity": {
@@ -4937,6 +5266,7 @@
  {
   "id": "collectible-4826",
   "name": "Монета «Антверпен 2022»",
+  "code": "#CSGO_TournamentJournal_antwerp2022",
   "description": "Це пам’ятна монета великого чемпіонату «PGL Антверпен 2022», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Антверпен 2022» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4826",
   "rarity": {
@@ -4952,6 +5282,7 @@
  {
   "id": "collectible-4827",
   "name": "Срібна монета «Антверпен 2022»",
+  "code": "#CSGO_TournamentJournal_antwerp2022_Silver",
   "description": "Це пам’ятна монета великого чемпіонату «PGL Антверпен 2022», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Антверпен 2022» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4827",
   "rarity": {
@@ -4967,6 +5298,7 @@
  {
   "id": "collectible-4828",
   "name": "Золота монета «Антверпен 2022»",
+  "code": "#CSGO_TournamentJournal_antwerp2022_Gold",
   "description": "Це пам’ятна монета великого чемпіонату «PGL Антверпен 2022», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Антверпен 2022» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4828",
   "rarity": {
@@ -4982,6 +5314,7 @@
  {
   "id": "collectible-4829",
   "name": "Діамантова монета «Антверпен 2022»",
+  "code": "#CSGO_TournamentJournal_antwerp2022_Crystal",
   "description": "Це пам’ятна монета великого чемпіонату «PGL Антверпен 2022», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Антверпен 2022» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4829",
   "rarity": {
@@ -4997,6 +5330,7 @@
  {
   "id": "collectible-4830",
   "name": "Глядацька перепустка «Антверпен 2022» + 3 сувенірні жетони",
+  "code": "#CSGO_TournamentPass_antwerp2022_pack",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «PGL Антверпен 2022». Якщо її відкрити, то вона дасть монету «Антверпен 2022», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nВи можете покращити свою монету «Антверпен 2022» через виконання завдань.\\n\\nЦя перепустка глядача попередньо активує вашу монету «Антверпен 2022» і 3 сувенірні жетони.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "4830",
   "rarity": {
@@ -5012,6 +5346,7 @@
  {
   "id": "collectible-4831",
   "name": "Сувенірний жетон «Антверпен 2022»",
+  "code": "#CSGO_TournamentPass_antwerp2022_charge",
   "description": "Це запечатаний сувенірний жетон великого чемпіонату «Антверпен 2022 від PGL». Якщо його відкрити, то він додасть жетон до вашої монети «Антверпен 2022» і дозволить вам отримати сувенірний набір.\\n\\nЖетони можна застосувати лише до монети «Антверпен 2022».",
   "def_index": "4831",
   "rarity": {
@@ -5027,6 +5362,7 @@
  {
   "id": "collectible-4850",
   "name": "Глядацька перепустка «Ріо 2022»",
+  "code": "#CSGO_TournamentPass_rio2022",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «IEM Ріо 2022». Якщо її відкрити, то вона дасть монету «IEM Ріо 2022», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nВи можете покращити свою монету «IEM Ріо 2022» через виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "4850",
   "rarity": {
@@ -5042,6 +5378,7 @@
  {
   "id": "collectible-4851",
   "name": "Монета «Ріо 2022»",
+  "code": "#CSGO_TournamentJournal_rio2022",
   "description": "Це пам’ятна монета великого чемпіонату «IEM Ріо 2022», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Ріо 2022» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4851",
   "rarity": {
@@ -5057,6 +5394,7 @@
  {
   "id": "collectible-4852",
   "name": "Срібна монета «Ріо 2022»",
+  "code": "#CSGO_TournamentJournal_rio2022_Silver",
   "description": "Це пам’ятна монета великого чемпіонату «IEM Ріо 2022», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Ріо 2022» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4852",
   "rarity": {
@@ -5072,6 +5410,7 @@
  {
   "id": "collectible-4853",
   "name": "Золота монета «Ріо 2022»",
+  "code": "#CSGO_TournamentJournal_rio2022_Gold",
   "description": "Це пам’ятна монета великого чемпіонату «IEM Ріо 2022», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Ріо 2022» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4853",
   "rarity": {
@@ -5087,6 +5426,7 @@
  {
   "id": "collectible-4854",
   "name": "Діамантова монета «Ріо 2022»",
+  "code": "#CSGO_TournamentJournal_rio2022_Crystal",
   "description": "Це пам’ятна монета великого чемпіонату «IEM Ріо 2022», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Ріо 2022» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4854",
   "rarity": {
@@ -5102,6 +5442,7 @@
  {
   "id": "collectible-4855",
   "name": "Глядацька перепустка «Ріо 2022» + 3 сувенірні жетони",
+  "code": "#CSGO_TournamentPass_rio2022_pack",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «IEM Ріо 2022». Якщо її відкрити, то вона дасть монету «Ріо 2022», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nВи можете покращити свою монету «Ріо 2022» через виконання завдань.\\n\\nЦя перепустка глядача попередньо активує вашу монету «Ріо 2022» і 3 сувенірні жетони.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "4855",
   "rarity": {
@@ -5117,6 +5458,7 @@
  {
   "id": "collectible-4856",
   "name": "Сувенірний жетон «Ріо 2022»",
+  "code": "#CSGO_TournamentPass_rio2022_charge",
   "description": "Це запечатаний сувенірний жетон великого чемпіонату «Ріо 2022» від IEM. Якщо його відкрити, то він додасть жетон до вашої монети «Ріо 2022» і дозволить вам отримати сувенірний набір.\\n\\nЖетони можна застосувати лише до монети «Ріо 2022».",
   "def_index": "4856",
   "rarity": {
@@ -5132,6 +5474,7 @@
  {
   "id": "collectible-4873",
   "name": "Медаль за службу 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Нагороджено за видатну службу й досягнення у 2023 році.",
   "def_index": "4873",
   "rarity": {
@@ -5147,6 +5490,7 @@
  {
   "id": "collectible-4874",
   "name": "Медаль за службу 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Нагороджено за видатну службу й досягнення у 2023 році.",
   "def_index": "4874",
   "rarity": {
@@ -5162,6 +5506,7 @@
  {
   "id": "collectible-4875",
   "name": "Медаль за службу 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Нагороджено за видатну службу й досягнення у 2023 році.",
   "def_index": "4875",
   "rarity": {
@@ -5177,6 +5522,7 @@
  {
   "id": "collectible-4876",
   "name": "Медаль за службу 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Нагороджено за видатну службу й досягнення у 2023 році.",
   "def_index": "4876",
   "rarity": {
@@ -5192,6 +5538,7 @@
  {
   "id": "collectible-4877",
   "name": "Медаль за службу 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Нагороджено за видатну службу й досягнення у 2023 році.",
   "def_index": "4877",
   "rarity": {
@@ -5207,6 +5554,7 @@
  {
   "id": "collectible-4878",
   "name": "Медаль за службу 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Нагороджено за видатну службу й досягнення у 2023 році.",
   "def_index": "4878",
   "rarity": {
@@ -5222,6 +5570,7 @@
  {
   "id": "collectible-4883",
   "name": "Глядацька перепустка «Париж 2023»",
+  "code": "#CSGO_TournamentPass_paris2023",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «BLAST.tv Париж 2023». Якщо її відкрити, то вона дасть монету «Париж 2023», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Париж 2023» шляхом виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "4883",
   "rarity": {
@@ -5237,6 +5586,7 @@
  {
   "id": "collectible-4884",
   "name": "Монета «Париж 2023»",
+  "code": "#CSGO_TournamentJournal_paris2023",
   "description": "Це пам’ятна монета великого чемпіонату «BLAST.tv Париж 2023», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Париж 2023» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4884",
   "rarity": {
@@ -5252,6 +5602,7 @@
  {
   "id": "collectible-4885",
   "name": "Срібна монета «Париж 2023»",
+  "code": "#CSGO_TournamentJournal_paris2023_Silver",
   "description": "Це пам’ятна монета великого чемпіонату «BLAST.tv Париж 2023», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Париж 2023» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4885",
   "rarity": {
@@ -5267,6 +5618,7 @@
  {
   "id": "collectible-4886",
   "name": "Золота монета «Париж 2023»",
+  "code": "#CSGO_TournamentJournal_paris2023_Gold",
   "description": "Це пам’ятна монета великого чемпіонату «BLAST.tv Париж 2023», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Париж 2023» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4886",
   "rarity": {
@@ -5282,6 +5634,7 @@
  {
   "id": "collectible-4887",
   "name": "Діамантова монета «Париж 2023»",
+  "code": "#CSGO_TournamentJournal_paris2023_Crystal",
   "description": "Це пам’ятна монета великого чемпіонату «BLAST.tv Париж 2023», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Париж 2023» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4887",
   "rarity": {
@@ -5297,6 +5650,7 @@
  {
   "id": "collectible-4888",
   "name": "Глядацька перепустка «Париж 2023» + 3 сувенірні жетони",
+  "code": "#CSGO_TournamentPass_paris2023_pack",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «BLAST.tv Париж 2023». Якщо її відкрити, то вона дасть монету «Париж 2023», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Париж 2023» шляхом виконання завдань. Ви можете отримати сувенірний набір щоразу, як покращуєте свою монету.\\n\\nЦя перепустка глядача попередньо активує вашу монету «Париж 2023» і 3 сувенірні жетони.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "4888",
   "rarity": {
@@ -5312,6 +5666,7 @@
  {
   "id": "collectible-4889",
   "name": "Сувенірний жетон «Париж 2023»",
+  "code": "#CSGO_TournamentPass_paris2023_charge",
   "description": "Це запечатаний сувенірний жетон великого чемпіонату «Париж 2023» від BLAST.tv. Якщо його відкрити, то він додасть жетон до вашої монети «Париж 2023» і дозволить вам отримати сувенірний набір.\\n\\nЖетони можна застосувати лише до монети «Париж 2023».",
   "def_index": "4889",
   "rarity": {
@@ -5327,6 +5682,7 @@
  {
   "id": "collectible-4906",
   "name": "Медаль за службу 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Нагороджено за видатну службу й досягнення у 2024 році.",
   "def_index": "4906",
   "rarity": {
@@ -5342,6 +5698,7 @@
  {
   "id": "collectible-4907",
   "name": "Медаль за службу 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Нагороджено за видатну службу й досягнення у 2024 році.",
   "def_index": "4907",
   "rarity": {
@@ -5357,6 +5714,7 @@
  {
   "id": "collectible-4908",
   "name": "Медаль за службу 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Нагороджено за видатну службу й досягнення у 2024 році.",
   "def_index": "4908",
   "rarity": {
@@ -5372,6 +5730,7 @@
  {
   "id": "collectible-4909",
   "name": "Медаль за службу 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Нагороджено за видатну службу й досягнення у 2024 році.",
   "def_index": "4909",
   "rarity": {
@@ -5387,6 +5746,7 @@
  {
   "id": "collectible-4910",
   "name": "Медаль за службу 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Нагороджено за видатну службу й досягнення у 2024 році.",
   "def_index": "4910",
   "rarity": {
@@ -5402,6 +5762,7 @@
  {
   "id": "collectible-4911",
   "name": "Медаль за службу 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Нагороджено за видатну службу й досягнення у 2024 році.",
   "def_index": "4911",
   "rarity": {
@@ -5417,6 +5778,7 @@
  {
   "id": "collectible-4916",
   "name": "Глядацька перепустка «Копенгаген 2024»",
+  "code": "#CSGO_TournamentPass_cph2024",
   "description": "Це запечатана глядацька перепустка великого чемпіонату з CS2 «PGL Копенгаген 2024». Якщо її відкрити, то вона дасть монету «Копенгаген 2024», яка відстежує ваш поступ упродовж події, а також доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nВи можете покращити свою монету «Копенгаген 2024» через виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасникам.",
   "def_index": "4916",
   "rarity": {
@@ -5432,6 +5794,7 @@
  {
   "id": "collectible-4917",
   "name": "Монета «Копенгаген 2024»",
+  "code": "#CSGO_TournamentJournal_cph2024",
   "description": "Це пам’ятна монета великого чемпіонату з CS2 «PGL Копенгаген 2024», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Копенгаген 2024» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4917",
   "rarity": {
@@ -5447,6 +5810,7 @@
  {
   "id": "collectible-4918",
   "name": "Срібна монета «Копенгаген 2024»",
+  "code": "#CSGO_TournamentJournal_cph2024_Silver",
   "description": "Це пам’ятна монета великого чемпіонату з CS2 «PGL Копенгаген 2024», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Копенгаген 2024» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4918",
   "rarity": {
@@ -5462,6 +5826,7 @@
  {
   "id": "collectible-4919",
   "name": "Золота монета «Копенгаген 2024»",
+  "code": "#CSGO_TournamentJournal_cph2024_Gold",
   "description": "Це пам’ятна монета великого чемпіонату з CS2 «PGL Копенгаген 2024», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Копенгаген 2024» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4919",
   "rarity": {
@@ -5477,6 +5842,7 @@
  {
   "id": "collectible-4920",
   "name": "Діамантова монета «Копенгаген 2024»",
+  "code": "#CSGO_TournamentJournal_cph2024_Crystal",
   "description": "Це пам’ятна монета великого чемпіонату з CS2 «PGL Копенгаген 2024», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Копенгаген 2024» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4920",
   "rarity": {
@@ -5492,6 +5858,7 @@
  {
   "id": "collectible-4921",
   "name": "Глядацька перепустка «Копенгаген 2024» + 3 сувенірні жетони",
+  "code": "#CSGO_TournamentPass_cph2024_pack",
   "description": "Це запечатана глядацька перепустка великого чемпіонату «PGL Копенгаген 2024». Якщо її відкрити, то вона дасть монету «Копенгаген 2024», яка відстежує ваш поступ упродовж події, дає доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру. \\n\\nВи можете покращити свою монету «Копенгаген 2024» через виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.\\n\\nЦя перепустка глядача попередньо активує вашу монету «Копенгаген 2024» і 3 сувенірні жетони.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасникам.",
   "def_index": "4921",
   "rarity": {
@@ -5507,6 +5874,7 @@
  {
   "id": "collectible-4922",
   "name": "Сувенірний набір «Копенгаген 2024»",
+  "code": "#CSGO_TournamentPass_cph2024_charge",
   "description": "Це запечатаний сувенірний набір великого турніру з CS2 «PGL Копенгаген 2024».",
   "def_index": "4922",
   "rarity": {
@@ -5522,6 +5890,7 @@
  {
   "id": "collectible-4933",
   "name": "Чемпіон «PGL Копенгаген 2024»",
+  "code": "#CSGO_CollectibleCoin_cph2024_Champion",
   "description": "Цю нагороду вручено переможцю великого турніру з CS2 «PGL Копенгаген 2024».",
   "def_index": "4933",
   "rarity": {
@@ -5537,6 +5906,7 @@
  {
   "id": "collectible-4934",
   "name": "Фіналіст «PGL Копенгаген 2024»",
+  "code": "#CSGO_CollectibleCoin_cph2024_Finalist",
   "description": "Цю нагороду вручено фіналісту великого турніру з CS2 «PGL Копенгаген 2024».",
   "def_index": "4934",
   "rarity": {
@@ -5552,6 +5922,7 @@
  {
   "id": "collectible-4935",
   "name": "Півфіналіст «PGL Копенгаген 2024»",
+  "code": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту великого турніру з CS2 «PGL Копенгаген 2024».",
   "def_index": "4935",
   "rarity": {
@@ -5567,6 +5938,7 @@
  {
   "id": "collectible-4936",
   "name": "Чвертьфіналіст «PGL Копенгаген 2024»",
+  "code": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту великого турніру з CS2 «PGL Копенгаген 2024».",
   "def_index": "4936",
   "rarity": {
@@ -5582,6 +5954,7 @@
  {
   "id": "collectible-4941",
   "name": "Монета мапи Thera",
+  "code": "#CSGO_Collectible_MapTokenThera",
   "description": "Вшановує авторів мапи Thera для CS2.",
   "def_index": "4941",
   "rarity": {
@@ -5597,6 +5970,7 @@
  {
   "id": "collectible-4942",
   "name": "Монета мапи Mills",
+  "code": "#CSGO_Collectible_MapTokenMills",
   "description": "Вшановує авторів мапи Mills для CS2.",
   "def_index": "4942",
   "rarity": {
@@ -5612,6 +5986,7 @@
  {
   "id": "collectible-4943",
   "name": "Монета мапи Assembly",
+  "code": "#CSGO_Collectible_MapTokenAssembly",
   "description": "Вшановує авторів мапи Assembly для CS2.",
   "def_index": "4943",
   "rarity": {
@@ -5627,6 +6002,7 @@
  {
   "id": "collectible-4944",
   "name": "Монета мапи Memento",
+  "code": "#CSGO_Collectible_MapTokenMemento",
   "description": "Вшановує авторів мапи Memento для CS2.",
   "def_index": "4944",
   "rarity": {
@@ -5642,6 +6018,7 @@
  {
   "id": "collectible-4945",
   "name": "Монета мапи Pool Day",
+  "code": "#CSGO_Collectible_MapTokenPoolDay",
   "description": "Вшановує авторів мапи Pool Day для CS2.",
   "def_index": "4945",
   "rarity": {
@@ -5657,6 +6034,7 @@
  {
   "id": "collectible-4951",
   "name": "Медаль за службу 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Нагороджено за видатну службу й досягнення у 2025 році.",
   "def_index": "4951",
   "rarity": {
@@ -5672,6 +6050,7 @@
  {
   "id": "collectible-4952",
   "name": "Медаль за службу 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Нагороджено за видатну службу й досягнення у 2025 році.",
   "def_index": "4952",
   "rarity": {
@@ -5687,6 +6066,7 @@
  {
   "id": "collectible-4953",
   "name": "Медаль за службу 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Нагороджено за видатну службу й досягнення у 2025 році.",
   "def_index": "4953",
   "rarity": {
@@ -5702,6 +6082,7 @@
  {
   "id": "collectible-4954",
   "name": "Медаль за службу 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Нагороджено за видатну службу й досягнення у 2025 році.",
   "def_index": "4954",
   "rarity": {
@@ -5717,6 +6098,7 @@
  {
   "id": "collectible-4955",
   "name": "Медаль за службу 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Нагороджено за видатну службу й досягнення у 2025 році.",
   "def_index": "4955",
   "rarity": {
@@ -5732,6 +6114,7 @@
  {
   "id": "collectible-4956",
   "name": "Медаль за службу 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Нагороджено за видатну службу й досягнення у 2025 році.",
   "def_index": "4956",
   "rarity": {
@@ -5747,6 +6130,7 @@
  {
   "id": "collectible-4957",
   "name": "Глядацька перепустка «Шанхай 2024»",
+  "code": "#CSGO_TournamentPass_sha2024",
   "description": "Це запечатана глядацька перепустка великого чемпіонату з CS2 «Perfect World Шанхай 2024». Якщо її відкрити, то вона дасть монету «Шанхай 2024», яка відстежує ваш поступ упродовж події, а також повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Шанхай 2024» через виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасникам.",
   "def_index": "4957",
   "rarity": {
@@ -5762,6 +6146,7 @@
  {
   "id": "collectible-4958",
   "name": "Монета «Шанхай 2024»",
+  "code": "#CSGO_TournamentJournal_sha2024",
   "description": "Це пам’ятна монета великого чемпіонату з CS2 «Perfect World Шанхай 2024», яка відстежує ваш поступ упродовж події, дає повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Шанхай 2024» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4958",
   "rarity": {
@@ -5777,6 +6162,7 @@
  {
   "id": "collectible-4959",
   "name": "Срібна монета «Шанхай 2024»",
+  "code": "#CSGO_TournamentJournal_sha2024_Silver",
   "description": "Це пам’ятна монета великого чемпіонату з CS2 «Perfect World Шанхай 2024», яка відстежує ваш поступ упродовж події, дає повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Шанхай 2024» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4959",
   "rarity": {
@@ -5792,6 +6178,7 @@
  {
   "id": "collectible-4960",
   "name": "Золота монета «Шанхай 2024»",
+  "code": "#CSGO_TournamentJournal_sha2024_Gold",
   "description": "Це пам’ятна монета великого чемпіонату з CS2 «Perfect World Шанхай 2024», яка відстежує ваш поступ упродовж події, дає повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Шанхай 2024» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4960",
   "rarity": {
@@ -5807,6 +6194,7 @@
  {
   "id": "collectible-4961",
   "name": "Діамантова монета «Шанхай 2024»",
+  "code": "#CSGO_TournamentJournal_sha2024_Crystal",
   "description": "Це пам’ятна монета великого чемпіонату з CS2 «Perfect World Шанхай 2024», яка відстежує ваш поступ упродовж події, дає повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Шанхай 2024» шляхом виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.",
   "def_index": "4961",
   "rarity": {
@@ -5822,6 +6210,7 @@
  {
   "id": "collectible-4962",
   "name": "Глядацька перепустка «Шанхай 2024» + 3 сувенірні жетони",
+  "code": "#CSGO_TournamentPass_sha2024_pack",
   "description": "Це запечатана глядацька перепустка великого чемпіонату з CS2 «Perfect World Шанхай 2024». Якщо її відкрити, то вона дасть монету «Шанхай 2024», яка відстежує ваш поступ упродовж події, а також повний доступ до прогнозів на турнір, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nВи можете покращити свою монету «Шанхай 2024» через виконання завдань. Ви можете отримати сувенірний жетон щоразу, як покращуєте свою монету.\\n\\nЦя перепустка глядача попередньо активує вашу монету «Шанхай 2024» і 3 сувенірні жетони.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасникам.",
   "def_index": "4962",
   "rarity": {
@@ -5837,6 +6226,7 @@
  {
   "id": "collectible-4963",
   "name": "Сувенірний набір «Шанхай 2024»",
+  "code": "#CSGO_TournamentPass_sha2024_charge",
   "description": "Це запечатаний сувенірний набір великого турніру з CS2 «Perfect World Шанхай 2024».",
   "def_index": "4963",
   "rarity": {
@@ -5852,6 +6242,7 @@
  {
   "id": "collectible-4974",
   "name": "Чемпіон «Perfect World Шанхай 2024»",
+  "code": "#CSGO_CollectibleCoin_sha2024_Champion",
   "description": "Цю нагороду вручено переможцю великого турніру з CS2 «Perfect World Шанхай 2024».",
   "def_index": "4974",
   "rarity": {
@@ -5867,6 +6258,7 @@
  {
   "id": "collectible-4975",
   "name": "Фіналіст «Perfect World Шанхай 2024»",
+  "code": "#CSGO_CollectibleCoin_sha2024_Finalist",
   "description": "Цю нагороду вручено фіналісту великого турніру з CS2 «Perfect World Шанхай 2024».",
   "def_index": "4975",
   "rarity": {
@@ -5882,6 +6274,7 @@
  {
   "id": "collectible-4976",
   "name": "Півфіналіст «Perfect World Шанхай 2024»",
+  "code": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту великого турніру з CS2 «Perfect World Шанхай 2024».",
   "def_index": "4976",
   "rarity": {
@@ -5897,6 +6290,7 @@
  {
   "id": "collectible-4977",
   "name": "Чвертьфіналіст «Perfect World Шанхай 2024»",
+  "code": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту великого турніру з CS2 «Perfect World Perfect World 2024».",
   "def_index": "4977",
   "rarity": {
@@ -5912,6 +6306,7 @@
  {
   "id": "collectible-4982",
   "name": "Монета мапи Whistle",
+  "code": "#CSGO_Collectible_MapTokenWhistle",
   "description": "Вшановує авторів мапи Whistle для CS2.",
   "def_index": "4982",
   "rarity": {
@@ -5927,6 +6322,7 @@
  {
   "id": "collectible-4983",
   "name": "Монета мапи Palais",
+  "code": "#CSGO_Collectible_MapTokenPalais",
   "description": "Вшановує авторів мапи Palais для CS2.",
   "def_index": "4983",
   "rarity": {
@@ -5942,6 +6338,7 @@
  {
   "id": "collectible-4984",
   "name": "Монета мапи Edin",
+  "code": "#CSGO_Collectible_MapTokenEdin",
   "description": "Вшановує авторів мапи Edin для CS2.",
   "def_index": "4984",
   "rarity": {
@@ -5957,6 +6354,7 @@
  {
   "id": "collectible-4985",
   "name": "Монета мапи Basalt",
+  "code": "#CSGO_Collectible_MapTokenBasaltCS2",
   "description": "Вшановує авторів мапи Basalt для CS2.",
   "def_index": "4985",
   "rarity": {
@@ -5972,6 +6370,7 @@
  {
   "id": "collectible-4986",
   "name": "Медаль першого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason1Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у першому сезоні.",
   "def_index": "4986",
   "rarity": {
@@ -5987,6 +6386,7 @@
  {
   "id": "collectible-4987",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4987",
   "rarity": {
@@ -6002,6 +6402,7 @@
  {
   "id": "collectible-4988",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4988",
   "rarity": {
@@ -6017,6 +6418,7 @@
  {
   "id": "collectible-4989",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4989",
   "rarity": {
@@ -6032,6 +6434,7 @@
  {
   "id": "collectible-4990",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4990",
   "rarity": {
@@ -6047,6 +6450,7 @@
  {
   "id": "collectible-4991",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4991",
   "rarity": {
@@ -6062,6 +6466,7 @@
  {
   "id": "collectible-4992",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4992",
   "rarity": {
@@ -6077,6 +6482,7 @@
  {
   "id": "collectible-4993",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4993",
   "rarity": {
@@ -6092,6 +6498,7 @@
  {
   "id": "collectible-4994",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4994",
   "rarity": {
@@ -6107,6 +6514,7 @@
  {
   "id": "collectible-4995",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4995",
   "rarity": {
@@ -6122,6 +6530,7 @@
  {
   "id": "collectible-4996",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4996",
   "rarity": {
@@ -6137,6 +6546,7 @@
  {
   "id": "collectible-4997",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4997",
   "rarity": {
@@ -6152,6 +6562,7 @@
  {
   "id": "collectible-4998",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4998",
   "rarity": {
@@ -6167,6 +6578,7 @@
  {
   "id": "collectible-4999",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "4999",
   "rarity": {
@@ -6182,6 +6594,7 @@
  {
   "id": "collectible-5000",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5000",
   "rarity": {
@@ -6197,6 +6610,7 @@
  {
   "id": "collectible-5001",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5001",
   "rarity": {
@@ -6212,6 +6626,7 @@
  {
   "id": "collectible-5002",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5002",
   "rarity": {
@@ -6227,6 +6642,7 @@
  {
   "id": "collectible-5003",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5003",
   "rarity": {
@@ -6242,6 +6658,7 @@
  {
   "id": "collectible-5004",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5004",
   "rarity": {
@@ -6257,6 +6674,7 @@
  {
   "id": "collectible-5005",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5005",
   "rarity": {
@@ -6272,6 +6690,7 @@
  {
   "id": "collectible-5006",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5006",
   "rarity": {
@@ -6287,6 +6706,7 @@
  {
   "id": "collectible-5007",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5007",
   "rarity": {
@@ -6302,6 +6722,7 @@
  {
   "id": "collectible-5008",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5008",
   "rarity": {
@@ -6317,6 +6738,7 @@
  {
   "id": "collectible-5009",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5009",
   "rarity": {
@@ -6332,6 +6754,7 @@
  {
   "id": "collectible-5010",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5010",
   "rarity": {
@@ -6347,6 +6770,7 @@
  {
   "id": "collectible-5011",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5011",
   "rarity": {
@@ -6362,6 +6786,7 @@
  {
   "id": "collectible-5012",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5012",
   "rarity": {
@@ -6377,6 +6802,7 @@
  {
   "id": "collectible-5013",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5013",
   "rarity": {
@@ -6392,6 +6818,7 @@
  {
   "id": "collectible-5014",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5014",
   "rarity": {
@@ -6407,6 +6834,7 @@
  {
   "id": "collectible-5015",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5015",
   "rarity": {
@@ -6422,6 +6850,7 @@
  {
   "id": "collectible-5016",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5016",
   "rarity": {
@@ -6437,6 +6866,7 @@
  {
   "id": "collectible-5017",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5017",
   "rarity": {
@@ -6452,6 +6882,7 @@
  {
   "id": "collectible-5018",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5018",
   "rarity": {
@@ -6467,6 +6898,7 @@
  {
   "id": "collectible-5019",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5019",
   "rarity": {
@@ -6482,6 +6914,7 @@
  {
   "id": "collectible-5020",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5020",
   "rarity": {
@@ -6497,6 +6930,7 @@
  {
   "id": "collectible-5021",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5021",
   "rarity": {
@@ -6512,6 +6946,7 @@
  {
   "id": "collectible-5022",
   "name": "Медаль другого сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у другому сезоні.",
   "def_index": "5022",
   "rarity": {
@@ -6527,6 +6962,7 @@
  {
   "id": "collectible-5110",
   "name": "Глядацька перепустка «Остін 2025»",
+  "code": "#CSGO_TournamentPass_aus2025",
   "description": "Це запечатана глядацька перепустка великого турніру «BLAST.tv Остін 2025». Якщо її відкрити, ви отримаєте монету «Остін 2025», яка відстежує ваш поступ упродовж події, а також надає доступ до прогнозів, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Остін 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "5110",
   "rarity": {
@@ -6542,6 +6978,7 @@
  {
   "id": "collectible-5111",
   "name": "Монета «Остін 2025»",
+  "code": "#CSGO_TournamentJournal_aus2025",
   "description": "Це пам’ятна монета великого турніру «BLAST.tv Остін 2025», яка відстежує ваш поступ упродовж події, надає доступ до прогнозів, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Остін 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.",
   "def_index": "5111",
   "rarity": {
@@ -6557,6 +6994,7 @@
  {
   "id": "collectible-5112",
   "name": "Срібна монета «Остін 2025»",
+  "code": "#CSGO_TournamentJournal_aus2025_Silver",
   "description": "Це пам’ятна монета великого турніру «BLAST.tv Остін 2025», яка відстежує ваш поступ упродовж події, надає доступ до прогнозів, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Остін 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.",
   "def_index": "5112",
   "rarity": {
@@ -6572,6 +7010,7 @@
  {
   "id": "collectible-5113",
   "name": "Золота монета «Остін 2025»",
+  "code": "#CSGO_TournamentJournal_aus2025_Gold",
   "description": "Це пам’ятна монета великого турніру «BLAST.tv Остін 2025», яка відстежує ваш поступ упродовж події, надає доступ до прогнозів, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Остін 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.",
   "def_index": "5113",
   "rarity": {
@@ -6587,6 +7026,7 @@
  {
   "id": "collectible-5114",
   "name": "Діамантова монета «Остін 2025»",
+  "code": "#CSGO_TournamentJournal_aus2025_Crystal",
   "description": "Це пам’ятна монета великого турніру «BLAST.tv Остін 2025», яка відстежує ваш поступ упродовж події, надає доступ до прогнозів, сувенірних наборів, позначок чату Steam.tv та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Остін 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.",
   "def_index": "5114",
   "rarity": {
@@ -6602,6 +7042,7 @@
  {
   "id": "collectible-5115",
   "name": "Глядацька перепустка «Остін 2025» + 3 сувенірні жетони",
+  "code": "#CSGO_TournamentPass_aus2025_pack",
   "description": "Це запечатана глядацька перепустка великого турніру «BLAST.tv Остін 2025». Якщо її відкрити, ви отримаєте монету «Остін 2025», яка відстежує ваш поступ упродовж події, а також надає доступ до прогнозів, позначок чату Steam.tv, виконання завдань та необмежену кількість командних графіті на час турніру.\\n\\nПокращити свою монету «Остін 2025» можна шляхом виконання завдань. Щоразу, коли ви це робитимете, отримуватимете сувенірний жетон.\\n\\nЦя глядацька перепустка одразу активує монету «Остін 2025» та надає три сувенірні жетони.\\n\\n50% коштів, отриманих із продажу цієї перепустки, буде передано організаціям-учасницям.",
   "def_index": "5115",
   "rarity": {
@@ -6617,6 +7058,7 @@
  {
   "id": "collectible-5116",
   "name": "Сувенірний набір «Остін 2025»",
+  "code": "#CSGO_TournamentPass_aus2025_charge",
   "description": "Це запечатаний сувенірний набір великого турніру з CS2 «BLAST.tv Остін 2025».",
   "def_index": "5116",
   "rarity": {
@@ -6632,6 +7074,7 @@
  {
   "id": "collectible-5127",
   "name": "Чемпіон «BLAST.tv Остін 2025»",
+  "code": "#CSGO_CollectibleCoin_aus2025_Champion",
   "description": "Цю нагороду вручено переможцю великого турніру з CS2 «BLAST.tv Остін 2025».",
   "def_index": "5127",
   "rarity": {
@@ -6647,6 +7090,7 @@
  {
   "id": "collectible-5128",
   "name": "Фіналіст «BLAST.tv Остін 2025»",
+  "code": "#CSGO_CollectibleCoin_aus2025_Finalist",
   "description": "Цю нагороду вручено фіналісту великого турніру з CS2 «BLAST.tv Остін 2025».",
   "def_index": "5128",
   "rarity": {
@@ -6662,6 +7106,7 @@
  {
   "id": "collectible-5129",
   "name": "Півфіналіст «BLAST.tv Остін 2025»",
+  "code": "#CSGO_CollectibleCoin_aus2025_Semifinalist",
   "description": "Цю нагороду вручено півфіналісту великого турніру з CS2 «BLAST.tv Остін 2025».",
   "def_index": "5129",
   "rarity": {
@@ -6677,6 +7122,7 @@
  {
   "id": "collectible-5130",
   "name": "Чвертьфіналіст «BLAST.tv Остін 2025»",
+  "code": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist",
   "description": "Цю нагороду вручено чвертьфіналісту великого турніру з CS2 «BLAST.tv Остін 2025».",
   "def_index": "5130",
   "rarity": {
@@ -6692,6 +7138,7 @@
  {
   "id": "collectible-5135",
   "name": "Монета мапи Agency",
+  "code": "#CSGO_Collectible_MapTokenAgencyCS2",
   "description": "Вшановує авторів мапи Agency для CS2.",
   "def_index": "5135",
   "rarity": {
@@ -6707,6 +7154,7 @@
  {
   "id": "collectible-5136",
   "name": "Монета мапи Jura",
+  "code": "#CSGO_Collectible_MapTokenJura",
   "description": "Вшановує авторів мапи Jura для CS2.",
   "def_index": "5136",
   "rarity": {
@@ -6722,6 +7170,7 @@
  {
   "id": "collectible-5137",
   "name": "Монета мапи Grail",
+  "code": "#CSGO_Collectible_MapTokenGrail",
   "description": "Вшановує авторів мапи Grail для CS2.",
   "def_index": "5137",
   "rarity": {
@@ -6737,6 +7186,7 @@
  {
   "id": "collectible-5138",
   "name": "Монета мапи Dogtown",
+  "code": "#CSGO_Collectible_MapTokenDogtown",
   "description": "Вшановує авторів мапи Dogtown для CS2.",
   "def_index": "5138",
   "rarity": {
@@ -6752,6 +7202,7 @@
  {
   "id": "collectible-5139",
   "name": "Монета мапи Brewery",
+  "code": "#CSGO_Collectible_MapTokenBrewery",
   "description": "Вшановує авторів мапи Brewery для CS2.",
   "def_index": "5139",
   "rarity": {
@@ -6767,6 +7218,7 @@
  {
   "id": "collectible-5140",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5140",
   "rarity": {
@@ -6782,6 +7234,7 @@
  {
   "id": "collectible-5141",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5141",
   "rarity": {
@@ -6797,6 +7250,7 @@
  {
   "id": "collectible-5142",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5142",
   "rarity": {
@@ -6812,6 +7266,7 @@
  {
   "id": "collectible-5143",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5143",
   "rarity": {
@@ -6827,6 +7282,7 @@
  {
   "id": "collectible-5144",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5144",
   "rarity": {
@@ -6842,6 +7298,7 @@
  {
   "id": "collectible-5145",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5145",
   "rarity": {
@@ -6857,6 +7314,7 @@
  {
   "id": "collectible-5146",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5146",
   "rarity": {
@@ -6872,6 +7330,7 @@
  {
   "id": "collectible-5147",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5147",
   "rarity": {
@@ -6887,6 +7346,7 @@
  {
   "id": "collectible-5148",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5148",
   "rarity": {
@@ -6902,6 +7362,7 @@
  {
   "id": "collectible-5149",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5149",
   "rarity": {
@@ -6917,6 +7378,7 @@
  {
   "id": "collectible-5150",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5150",
   "rarity": {
@@ -6932,6 +7394,7 @@
  {
   "id": "collectible-5151",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5151",
   "rarity": {
@@ -6947,6 +7410,7 @@
  {
   "id": "collectible-5152",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5152",
   "rarity": {
@@ -6962,6 +7426,7 @@
  {
   "id": "collectible-5153",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5153",
   "rarity": {
@@ -6977,6 +7442,7 @@
  {
   "id": "collectible-5154",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5154",
   "rarity": {
@@ -6992,6 +7458,7 @@
  {
   "id": "collectible-5155",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5155",
   "rarity": {
@@ -7007,6 +7474,7 @@
  {
   "id": "collectible-5156",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5156",
   "rarity": {
@@ -7022,6 +7490,7 @@
  {
   "id": "collectible-5157",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5157",
   "rarity": {
@@ -7037,6 +7506,7 @@
  {
   "id": "collectible-5158",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5158",
   "rarity": {
@@ -7052,6 +7522,7 @@
  {
   "id": "collectible-5159",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5159",
   "rarity": {
@@ -7067,6 +7538,7 @@
  {
   "id": "collectible-5160",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5160",
   "rarity": {
@@ -7082,6 +7554,7 @@
  {
   "id": "collectible-5161",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5161",
   "rarity": {
@@ -7097,6 +7570,7 @@
  {
   "id": "collectible-5162",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5162",
   "rarity": {
@@ -7112,6 +7586,7 @@
  {
   "id": "collectible-5163",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5163",
   "rarity": {
@@ -7127,6 +7602,7 @@
  {
   "id": "collectible-5164",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5164",
   "rarity": {
@@ -7142,6 +7618,7 @@
  {
   "id": "collectible-5165",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5165",
   "rarity": {
@@ -7157,6 +7634,7 @@
  {
   "id": "collectible-5166",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5166",
   "rarity": {
@@ -7172,6 +7650,7 @@
  {
   "id": "collectible-5167",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5167",
   "rarity": {
@@ -7187,6 +7666,7 @@
  {
   "id": "collectible-5168",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5168",
   "rarity": {
@@ -7202,6 +7682,7 @@
  {
   "id": "collectible-5169",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5169",
   "rarity": {
@@ -7217,6 +7698,7 @@
  {
   "id": "collectible-5170",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5170",
   "rarity": {
@@ -7232,6 +7714,7 @@
  {
   "id": "collectible-5171",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5171",
   "rarity": {
@@ -7247,6 +7730,7 @@
  {
   "id": "collectible-5172",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5172",
   "rarity": {
@@ -7262,6 +7746,7 @@
  {
   "id": "collectible-5173",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5173",
   "rarity": {
@@ -7277,6 +7762,7 @@
  {
   "id": "collectible-5174",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5174",
   "rarity": {
@@ -7292,6 +7778,7 @@
  {
   "id": "collectible-5175",
   "name": "Медаль третього сезону прем’єр-режиму",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Це пам’ятна медаль прем’єр-режиму за вашу активну участь у третьому сезоні.",
   "def_index": "5175",
   "rarity": {
@@ -7307,6 +7794,7 @@
  {
   "id": "collectible-6001",
   "name": "Значок «Dust II» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6001",
   "rarity": {
@@ -7322,6 +7810,7 @@
  {
   "id": "collectible-6002",
   "name": "Значок елітного вартового (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6002",
   "rarity": {
@@ -7337,6 +7826,7 @@
  {
   "id": "collectible-6003",
   "name": "Значок «Mirage» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6003",
   "rarity": {
@@ -7352,6 +7842,7 @@
  {
   "id": "collectible-6004",
   "name": "Значок «Inferno» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6004",
   "rarity": {
@@ -7367,6 +7858,7 @@
  {
   "id": "collectible-6005",
   "name": "Значок «Italy» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6005",
   "rarity": {
@@ -7382,6 +7874,7 @@
  {
   "id": "collectible-6006",
   "name": "Значок «Перемога» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6006",
   "rarity": {
@@ -7397,6 +7890,7 @@
  {
   "id": "collectible-6007",
   "name": "Значок «Militia» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6007",
   "rarity": {
@@ -7412,6 +7906,7 @@
  {
   "id": "collectible-6008",
   "name": "Значок «Nuke» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6008",
   "rarity": {
@@ -7427,6 +7922,7 @@
  {
   "id": "collectible-6009",
   "name": "Значок «Train» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_Train",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6009",
   "rarity": {
@@ -7442,6 +7938,7 @@
  {
   "id": "collectible-6010",
   "name": "Значок «Вартовий» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6010",
   "rarity": {
@@ -7457,6 +7954,7 @@
  {
   "id": "collectible-6011",
   "name": "Значок «Тактика» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6011",
   "rarity": {
@@ -7472,6 +7970,7 @@
  {
   "id": "collectible-6012",
   "name": "Значок «Вартовий 2» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6012",
   "rarity": {
@@ -7487,6 +7986,7 @@
  {
   "id": "collectible-6013",
   "name": "Значок «Браво» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6013",
   "rarity": {
@@ -7502,6 +8002,7 @@
  {
   "id": "collectible-6014",
   "name": "Значок «Baggage» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6014",
   "rarity": {
@@ -7517,6 +8018,7 @@
  {
   "id": "collectible-6015",
   "name": "Значок «Фенікс» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6015",
   "rarity": {
@@ -7532,6 +8034,7 @@
  {
   "id": "collectible-6016",
   "name": "Значок «Office» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_office",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6016",
   "rarity": {
@@ -7547,6 +8050,7 @@
  {
   "id": "collectible-6017",
   "name": "Значок «Cobblestone» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6017",
   "rarity": {
@@ -7562,6 +8066,7 @@
  {
   "id": "collectible-6018",
   "name": "Значок «Overpass» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6018",
   "rarity": {
@@ -7577,6 +8082,7 @@
  {
   "id": "collectible-6019",
   "name": "Значок «Дойда» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6019",
   "rarity": {
@@ -7592,6 +8098,7 @@
  {
   "id": "collectible-6020",
   "name": "Значок «Cache» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_cache",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6020",
   "rarity": {
@@ -7607,6 +8114,7 @@
  {
   "id": "collectible-6021",
   "name": "Значок «Валерія Фенікс» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6021",
   "rarity": {
@@ -7622,6 +8130,7 @@
  {
   "id": "collectible-6022",
   "name": "Значок «Хрома» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6022",
   "rarity": {
@@ -7637,6 +8146,7 @@
  {
   "id": "collectible-6023",
   "name": "Значок «Вартовий 3» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6023",
   "rarity": {
@@ -7652,6 +8162,7 @@
  {
   "id": "collectible-6024",
   "name": "Значок «Canals» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_canals",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6024",
   "rarity": {
@@ -7667,6 +8178,7 @@
  {
   "id": "collectible-6025",
   "name": "Значок «Ласкаво просимо до клатчу» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6025",
   "rarity": {
@@ -7682,6 +8194,7 @@
  {
   "id": "collectible-6026",
   "name": "Значок «Смертний вирок» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6026",
   "rarity": {
@@ -7697,6 +8210,7 @@
  {
   "id": "collectible-6027",
   "name": "Значок «Inferno 2» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6027",
   "rarity": {
@@ -7712,6 +8226,7 @@
  {
   "id": "collectible-6028",
   "name": "Значок «Дике полум’я» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6028",
   "rarity": {
@@ -7727,6 +8242,7 @@
  {
   "id": "collectible-6029",
   "name": "Значок «Простіше простого» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6029",
   "rarity": {
@@ -7742,6 +8258,7 @@
  {
   "id": "collectible-6030",
   "name": "Значок «Козирні тузи» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6030",
   "rarity": {
@@ -7757,6 +8274,7 @@
  {
   "id": "collectible-6031",
   "name": "Значок «Гідра» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6031",
   "rarity": {
@@ -7772,6 +8290,7 @@
  {
   "id": "collectible-6032",
   "name": "Значок «Виття» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_howl",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6032",
   "rarity": {
@@ -7787,6 +8306,7 @@
  {
   "id": "collectible-6033",
   "name": "Значок «Бригадний генерал» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6033",
   "rarity": {
@@ -7802,6 +8322,7 @@
  {
   "id": "collectible-6034",
   "name": "Значок «Алікс» (з першої партії)",
+  "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "6034",
   "rarity": {
@@ -7817,6 +8338,7 @@
  {
   "id": "collectible-6101",
   "name": "Значок «Dust II»",
+  "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6101",
   "rarity": {
@@ -7832,6 +8354,7 @@
  {
   "id": "collectible-6102",
   "name": "Значок елітного вартового",
+  "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6102",
   "rarity": {
@@ -7847,6 +8370,7 @@
  {
   "id": "collectible-6103",
   "name": "Значок «Mirage»",
+  "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6103",
   "rarity": {
@@ -7862,6 +8386,7 @@
  {
   "id": "collectible-6104",
   "name": "Значок «Inferno»",
+  "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6104",
   "rarity": {
@@ -7877,6 +8402,7 @@
  {
   "id": "collectible-6105",
   "name": "Значок «Italy»",
+  "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6105",
   "rarity": {
@@ -7892,6 +8418,7 @@
  {
   "id": "collectible-6106",
   "name": "Значок «Перемога»",
+  "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6106",
   "rarity": {
@@ -7907,6 +8434,7 @@
  {
   "id": "collectible-6107",
   "name": "Значок «Militia»",
+  "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6107",
   "rarity": {
@@ -7922,6 +8450,7 @@
  {
   "id": "collectible-6108",
   "name": "Значок «Nuke»",
+  "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6108",
   "rarity": {
@@ -7937,6 +8466,7 @@
  {
   "id": "collectible-6109",
   "name": "Значок «Train»",
+  "code": "#CSGO_Collectible_Pin_Train",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6109",
   "rarity": {
@@ -7952,6 +8482,7 @@
  {
   "id": "collectible-6110",
   "name": "Значок «Вартовий»",
+  "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6110",
   "rarity": {
@@ -7967,6 +8498,7 @@
  {
   "id": "collectible-6111",
   "name": "Значок «Тактика»",
+  "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Це колекційний значок першої серії. Його можна показати у своєму профілі.",
   "def_index": "6111",
   "rarity": {
@@ -7982,6 +8514,7 @@
  {
   "id": "collectible-6112",
   "name": "Значок «Вартовий 2»",
+  "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6112",
   "rarity": {
@@ -7997,6 +8530,7 @@
  {
   "id": "collectible-6113",
   "name": "Значок «Браво»",
+  "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6113",
   "rarity": {
@@ -8012,6 +8546,7 @@
  {
   "id": "collectible-6114",
   "name": "Значок «Baggage»",
+  "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6114",
   "rarity": {
@@ -8027,6 +8562,7 @@
  {
   "id": "collectible-6115",
   "name": "Значок «Фенікс»",
+  "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6115",
   "rarity": {
@@ -8042,6 +8578,7 @@
  {
   "id": "collectible-6116",
   "name": "Значок «Office»",
+  "code": "#CSGO_Collectible_Pin_office",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6116",
   "rarity": {
@@ -8057,6 +8594,7 @@
  {
   "id": "collectible-6117",
   "name": "Значок «Cobblestone»",
+  "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6117",
   "rarity": {
@@ -8072,6 +8610,7 @@
  {
   "id": "collectible-6118",
   "name": "Значок «Overpass»",
+  "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6118",
   "rarity": {
@@ -8087,6 +8626,7 @@
  {
   "id": "collectible-6119",
   "name": "Значок «Дойда»",
+  "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6119",
   "rarity": {
@@ -8102,6 +8642,7 @@
  {
   "id": "collectible-6120",
   "name": "Значок «Cache»",
+  "code": "#CSGO_Collectible_Pin_cache",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6120",
   "rarity": {
@@ -8117,6 +8658,7 @@
  {
   "id": "collectible-6121",
   "name": "Значок «Валерія Фенікс»",
+  "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6121",
   "rarity": {
@@ -8132,6 +8674,7 @@
  {
   "id": "collectible-6122",
   "name": "Значок «Хрома»",
+  "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Це колекційний значок другої серії. Його можна показати у своєму профілі.",
   "def_index": "6122",
   "rarity": {
@@ -8147,6 +8690,7 @@
  {
   "id": "collectible-6123",
   "name": "Значок «Вартовий 3»",
+  "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6123",
   "rarity": {
@@ -8162,6 +8706,7 @@
  {
   "id": "collectible-6124",
   "name": "Значок «Canals»",
+  "code": "#CSGO_Collectible_Pin_canals",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6124",
   "rarity": {
@@ -8177,6 +8722,7 @@
  {
   "id": "collectible-6125",
   "name": "Значок «Ласкаво просимо до клатчу»",
+  "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6125",
   "rarity": {
@@ -8192,6 +8738,7 @@
  {
   "id": "collectible-6126",
   "name": "Значок «Смертний вирок»",
+  "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6126",
   "rarity": {
@@ -8207,6 +8754,7 @@
  {
   "id": "collectible-6127",
   "name": "Значок «Inferno 2»",
+  "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6127",
   "rarity": {
@@ -8222,6 +8770,7 @@
  {
   "id": "collectible-6128",
   "name": "Значок «Дике полум’я»",
+  "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6128",
   "rarity": {
@@ -8237,6 +8786,7 @@
  {
   "id": "collectible-6129",
   "name": "Значок «Простіше простого»",
+  "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6129",
   "rarity": {
@@ -8252,6 +8802,7 @@
  {
   "id": "collectible-6130",
   "name": "Значок «Козирні тузи»",
+  "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6130",
   "rarity": {
@@ -8267,6 +8818,7 @@
  {
   "id": "collectible-6131",
   "name": "Значок «Гідра»",
+  "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6131",
   "rarity": {
@@ -8282,6 +8834,7 @@
  {
   "id": "collectible-6132",
   "name": "Значок «Виття»",
+  "code": "#CSGO_Collectible_Pin_howl",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6132",
   "rarity": {
@@ -8297,6 +8850,7 @@
  {
   "id": "collectible-6133",
   "name": "Значок «Бригадний генерал»",
+  "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Це колекційний значок третьої серії. Його можна показати у своєму профілі.",
   "def_index": "6133",
   "rarity": {
@@ -8312,6 +8866,7 @@
  {
   "id": "collectible-6134",
   "name": "Значок «Алікс»",
+  "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Це колекційний значок на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Його можна показати у своєму профілі.",
   "def_index": "6134",
   "rarity": {

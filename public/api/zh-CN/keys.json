@@ -2,6 +2,7 @@
  {
   "id": "key-generic_valve_key",
   "name": "反恐精英武器箱钥匙",
+  "code": "#CSGO_Tool_WeaponCase_Key",
   "description": "这把钥匙可以打开任一 Valve 系列武器箱。非 Valve 系列的武器箱（如电竞武器箱）需要它们自己专属的钥匙来打开。",
   "crates": [
    {
@@ -32,6 +33,7 @@
  {
   "id": "key-1204",
   "name": "电竞钥匙",
+  "code": "#CSGO_esports_crate_key_1",
   "description": "此钥匙可以打开任一电竞武器箱。\\n\\n销售此钥匙的所得部分款项将用于支持既定的社区举行的CS:GO锦标赛。请持续关注后续公告。",
   "crates": [
    {
@@ -57,6 +59,7 @@
  {
   "id": "key-1212",
   "name": "反恐精英印花胶囊钥匙",
+  "code": "#CSGO_sticker_crate_key_1",
   "description": "这把钥匙可以打开任一 Valve 系列印花胶囊。",
   "crates": [
    {
@@ -77,6 +80,7 @@
  {
   "id": "key-1214",
   "name": "冬季攻势武器箱钥匙",
+  "code": "#CSGO_community_crate_key_1",
   "description": "该钥匙只能打开冬季攻势武器箱",
   "crates": [
    {
@@ -92,6 +96,7 @@
  {
   "id": "key-1303",
   "name": "“凤凰大行动”武器箱钥匙",
+  "code": "#CSGO_community_crate_key_2",
   "description": "该钥匙只能打开“凤凰大行动”武器箱",
   "crates": [
    {
@@ -107,6 +112,7 @@
  {
   "id": "key-1304",
   "name": "1 号社区印花胶囊钥匙",
+  "code": "#CSGO_sticker_crate_key_community01",
   "description": "此钥匙可以打开 1 号社区印花胶囊。\\n\\n销售此钥匙的所得部分款项将用于支持印花作者。",
   "crates": [
    {
@@ -122,6 +128,7 @@
  {
   "id": "key-1305",
   "name": "猎杀者武器箱钥匙",
+  "code": "#CSGO_community_crate_key_3",
   "description": "该钥匙只能打开猎杀者武器箱",
   "crates": [
    {
@@ -137,6 +144,7 @@
  {
   "id": "key-1309",
   "name": "“突围大行动”武器箱钥匙",
+  "code": "#CSGO_community_crate_key_4",
   "description": "该钥匙只能打开“突围大行动”武器箱",
   "crates": [
    {
@@ -152,6 +160,7 @@
  {
   "id": "key-1322",
   "name": "“先锋大行动”武器箱钥匙",
+  "code": "#CSGO_community_crate_key_5",
   "description": "该钥匙只能打开“先锋大行动”武器箱",
   "crates": [
    {
@@ -167,6 +176,7 @@
  {
   "id": "key-1323",
   "name": "幻彩武器箱钥匙",
+  "code": "#CSGO_community_crate_key_6",
   "description": "该钥匙只能打开幻彩武器箱",
   "crates": [
    {
@@ -182,6 +192,7 @@
  {
   "id": "key-1325",
   "name": "幻彩 2 号武器箱钥匙",
+  "code": "#CSGO_community_crate_key_7",
   "description": "该钥匙只能打开幻彩 2 号武器箱",
   "crates": [
    {
@@ -197,6 +208,7 @@
  {
   "id": "key-1330",
   "name": "弯曲猎手武器箱钥匙",
+  "code": "#CSGO_community_crate_key_8",
   "description": "该钥匙只能打开弯曲猎手武器箱",
   "crates": [
    {
@@ -212,6 +224,7 @@
  {
   "id": "key-1333",
   "name": "暗影武器箱钥匙",
+  "code": "#CSGO_community_crate_key_9",
   "description": "该钥匙只能打开暗影武器箱",
   "crates": [
    {
@@ -227,6 +240,7 @@
  {
   "id": "key-1334",
   "name": "左轮武器箱钥匙",
+  "code": "#CSGO_crate_community_10_key",
   "description": "该钥匙只能打开左轮武器箱",
   "crates": [
    {
@@ -242,6 +256,7 @@
  {
   "id": "key-1347",
   "name": "幻彩 3 号武器箱钥匙",
+  "code": "#CSGO_crate_key_community_12",
   "description": "该钥匙只能打开幻彩 3 号武器箱",
   "crates": [
    {
@@ -257,6 +272,7 @@
  {
   "id": "key-1350",
   "name": "伽玛武器箱钥匙",
+  "code": "#CSGO_crate_key_community_13",
   "description": "该钥匙只能打开伽玛武器箱",
   "crates": [
    {
@@ -272,6 +288,7 @@
  {
   "id": "key-1351",
   "name": "伽玛 2 号武器箱钥匙",
+  "code": "#CSGO_crate_key_gamma_2",
   "description": "该钥匙只能打开伽玛 2 号武器箱",
   "crates": [
    {
@@ -287,6 +304,7 @@
  {
   "id": "key-1356",
   "name": "手套武器箱钥匙",
+  "code": "#CSGO_crate_key_community_15",
   "description": "该钥匙只能打开手套武器箱",
   "crates": [
    {
@@ -302,6 +320,7 @@
  {
   "id": "key-1364",
   "name": "光谱武器箱钥匙",
+  "code": "#CSGO_crate_key_community_16",
   "description": "该钥匙只能打开光谱武器箱",
   "crates": [
    {
@@ -317,6 +336,7 @@
  {
   "id": "key-1365",
   "name": "“九头蛇大行动”武器箱钥匙",
+  "code": "#CSGO_crate_key_community_17",
   "description": "该钥匙只能打开“九头蛇大行动”武器箱",
   "crates": [
    {
@@ -332,6 +352,7 @@
  {
   "id": "key-1366",
   "name": "光谱 2 号武器箱钥匙",
+  "code": "#CSGO_crate_key_community_18",
   "description": "该钥匙只能打开光谱 2 号武器箱",
   "crates": [
    {
@@ -347,6 +368,7 @@
  {
   "id": "key-1373",
   "name": "命悬一线武器箱钥匙",
+  "code": "#CSGO_crate_key_community_19",
   "description": "该钥匙只能打开命悬一线武器箱",
   "crates": [
    {
@@ -362,6 +384,7 @@
  {
   "id": "key-1374",
   "name": "地平线武器箱钥匙",
+  "code": "#CSGO_crate_key_community_20",
   "description": "该钥匙只能打开地平线武器箱",
   "crates": [
    {
@@ -377,6 +400,7 @@
  {
   "id": "key-1375",
   "name": "“头号特训”武器箱钥匙",
+  "code": "#CSGO_crate_key_community_21",
   "description": "该钥匙只能打开“头号特训”武器箱",
   "crates": [
    {
@@ -392,6 +416,7 @@
  {
   "id": "key-1383",
   "name": "棱彩武器箱钥匙",
+  "code": "#CSGO_crate_key_community_22",
   "description": "该钥匙只能打开棱彩武器箱",
   "crates": [
    {
@@ -407,6 +432,7 @@
  {
   "id": "key-1384",
   "name": "“裂网大行动”武器箱钥匙",
+  "code": "#CSGO_crate_key_community_23",
   "description": "这把钥匙仅可开启“裂网大行动”武器箱",
   "crates": [
    {
@@ -422,6 +448,7 @@
  {
   "id": "key-1385",
   "name": "反恐精英20周年武器箱钥匙",
+  "code": "#CSGO_crate_key_community_24",
   "description": "该钥匙只能打开反恐精英20周年武器箱",
   "crates": [
    {
@@ -437,6 +464,7 @@
  {
   "id": "key-1386",
   "name": "棱彩2号武器箱钥匙",
+  "code": "#CSGO_crate_key_community_25",
   "description": "该钥匙只能打开棱彩2号武器箱",
   "crates": [
    {
@@ -452,6 +480,7 @@
  {
   "id": "key-1387",
   "name": "裂空武器箱钥匙",
+  "code": "#CSGO_crate_key_community_26",
   "description": "这把钥匙仅可用于打开裂空武器箱",
   "crates": [
    {
@@ -467,6 +496,7 @@
  {
   "id": "key-1388",
   "name": "“狂牙大行动”武器箱钥匙",
+  "code": "#CSGO_crate_key_community_27",
   "description": "该钥匙只能打开“狂牙大行动”武器箱",
   "crates": [
    {
@@ -482,6 +512,7 @@
  {
   "id": "key-1389",
   "name": "蛇噬武器箱钥匙",
+  "code": "#CSGO_crate_key_community_28",
   "description": "该钥匙只能打开蛇噬武器箱",
   "crates": [
    {
@@ -497,6 +528,7 @@
  {
   "id": "key-1390",
   "name": "“激流大行动”武器箱钥匙",
+  "code": "#CSGO_crate_key_community_29",
   "description": "该钥匙只能打开“激流大行动”武器箱",
   "crates": [
    {
@@ -512,6 +544,7 @@
  {
   "id": "key-1391",
   "name": "梦魇武器箱钥匙",
+  "code": "#CSGO_crate_key_community_30",
   "description": "该钥匙只能打开梦魇武器箱",
   "crates": [
    {
@@ -527,6 +560,7 @@
  {
   "id": "key-1392",
   "name": "反冲武器箱钥匙",
+  "code": "#CSGO_crate_key_community_31",
   "description": "该钥匙只能打开反冲武器箱",
   "crates": [
    {
@@ -542,6 +576,7 @@
  {
   "id": "key-1393",
   "name": "变革武器箱钥匙",
+  "code": "#CSGO_crate_key_community_32",
   "description": "该钥匙只能打开变革武器箱",
   "crates": [
    {
@@ -557,6 +592,7 @@
  {
   "id": "key-1394",
   "name": "千瓦武器箱钥匙",
+  "code": "#CSGO_crate_key_community_33",
   "description": "这把钥匙只能开启千瓦武器箱",
   "crates": [
    {
@@ -572,6 +608,7 @@
  {
   "id": "key-7000",
   "name": "“野火大行动”武器箱钥匙",
+  "code": "#CSGO_crate_key_community_11",
   "description": "该钥匙只能打开“野火大行动”武器箱",
   "crates": [
    {
@@ -587,6 +624,7 @@
  {
   "id": "key-7002",
   "name": "画廊武器箱钥匙",
+  "code": "#CSGO_crate_key_community_34",
   "description": "该钥匙只能打开画廊武器箱",
   "crates": [
    {
@@ -602,6 +640,7 @@
  {
   "id": "key-7008",
   "name": "热潮武器箱钥匙",
+  "code": "#CSGO_crate_key_community_35",
   "description": "该钥匙只能打开热潮武器箱",
   "crates": [
    {

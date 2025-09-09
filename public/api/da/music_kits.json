@@ -2,6 +2,7 @@
  {
   "id": "music_kit-1",
   "name": "Valve, Counter-Strike 2",
+  "code": "valve_cs2_01",
   "description": "Det officielle musiksæt i Counter-Strike 2.",
   "def_index": "1",
   "rarity": {
@@ -16,6 +17,7 @@
  {
   "id": "music_kit-2",
   "name": "Valve, CS:GO",
+  "code": "valve_01",
   "description": "Standardmusiksættet i CS:GO, introduceret med udgivelsen i 2012.",
   "def_index": "2",
   "rarity": {
@@ -30,6 +32,7 @@
  {
   "id": "music_kit-3",
   "name": "Musiksæt | Daniel Sadowski, Crimson Assault",
+  "code": "danielsadowski_01",
   "description": "Spilkomponist Daniel Sadowski leverer Edgy Action mikset med CRAZY FAT-beats i denne pulserende, oplivende musikpakke.",
   "def_index": "3",
   "rarity": {
@@ -44,6 +47,7 @@
  {
   "id": "music_kit-3_st",
   "name": "StatTrak™-musiksæt | Daniel Sadowski, Crimson Assault",
+  "code": "danielsadowski_01",
   "description": "Spilkomponist Daniel Sadowski leverer Edgy Action mikset med CRAZY FAT-beats i denne pulserende, oplivende musikpakke.",
   "def_index": "3",
   "rarity": {
@@ -58,6 +62,7 @@
  {
   "id": "music_kit-4",
   "name": "Musiksæt | Noisia, Sharpened",
+  "code": "noisia_01",
   "description": "Den hollandske elektronika-trio Noisia giver en hård, filmisk følelse med en unik blanding af tradition og progression.",
   "def_index": "4",
   "rarity": {
@@ -72,6 +77,7 @@
  {
   "id": "music_kit-4_st",
   "name": "StatTrak™-musiksæt | Noisia, Sharpened",
+  "code": "noisia_01",
   "description": "Den hollandske elektronika-trio Noisia giver en hård, filmisk følelse med en unik blanding af tradition og progression.",
   "def_index": "4",
   "rarity": {
@@ -86,6 +92,7 @@
  {
   "id": "music_kit-5",
   "name": "Musiksæt | Robert Allaire, Insurgency",
+  "code": "robertallaire_01",
   "description": "Musik til at knuse dine fjender. Se dem flygte i din nærværelse fra den prisbelønnede komponist Robert Allaire.",
   "def_index": "5",
   "rarity": {
@@ -100,6 +107,7 @@
  {
   "id": "music_kit-5_st",
   "name": "StatTrak™-musiksæt | Robert Allaire, Insurgency",
+  "code": "robertallaire_01",
   "description": "Musik til at knuse dine fjender. Se dem flygte i din nærværelse fra den prisbelønnede komponist Robert Allaire.",
   "def_index": "5",
   "rarity": {
@@ -114,6 +122,7 @@
  {
   "id": "music_kit-6",
   "name": "Musiksæt | Sean Murray, A*D*8",
+  "code": "seanmurray_01",
   "description": "Fra komponisten af to af verdens største krigsspil kommer en sonisk udstyring, der bringer dine fjender til Helvedes porte!!",
   "def_index": "6",
   "rarity": {
@@ -128,6 +137,7 @@
  {
   "id": "music_kit-6_st",
   "name": "StatTrak™-musiksæt | Sean Murray, A*D*8",
+  "code": "seanmurray_01",
   "description": "Fra komponisten af to af verdens største krigsspil kommer en sonisk udstyring, der bringer dine fjender til Helvedes porte!!",
   "def_index": "6",
   "rarity": {
@@ -142,6 +152,7 @@
  {
   "id": "music_kit-7",
   "name": "Musiksæt | Feed Me, High Noon",
+  "code": "feedme_01",
   "description": "Den berømte elektronik-musiker Feed Me bringer et vestligt hestestaldsopgør ind i et moderne elektronisk rum.",
   "def_index": "7",
   "rarity": {
@@ -156,6 +167,7 @@
  {
   "id": "music_kit-7_st",
   "name": "StatTrak™-musiksæt | Feed Me, High Noon",
+  "code": "feedme_01",
   "description": "Den berømte elektronik-musiker Feed Me bringer et vestligt hestestaldsopgør ind i et moderne elektronisk rum.",
   "def_index": "7",
   "rarity": {
@@ -170,6 +182,7 @@
  {
   "id": "music_kit-8",
   "name": "Musiksæt | Dren, Death's Head Demolition",
+  "code": "dren_01",
   "description": "Fra spilmusikkomponist Dren sætter denne filmiske, superhelte-metalinspirerede musikpakke \\\"ill\\\" i ordet \\\"KILL\\\"!",
   "def_index": "8",
   "rarity": {
@@ -184,6 +197,7 @@
  {
   "id": "music_kit-8_st",
   "name": "StatTrak™-musiksæt | Dren, Death's Head Demolition",
+  "code": "dren_01",
   "description": "Fra spilmusikkomponist Dren sætter denne filmiske, superhelte-metalinspirerede musikpakke \\\"ill\\\" i ordet \\\"KILL\\\"!",
   "def_index": "8",
   "rarity": {
@@ -198,6 +212,7 @@
  {
   "id": "music_kit-9",
   "name": "Musiksæt | Austin Wintory, Desert Fire",
+  "code": "austinwintory_01",
   "description": "Grammy-nomineret spilkomponist Austin Wintory spørger, hvorfor bekymre sig om at jage dine fjender, når du kan lokke dem til med en dødelig, men ganske vist sindssyg, tango?",
   "def_index": "9",
   "rarity": {
@@ -212,6 +227,7 @@
  {
   "id": "music_kit-9_st",
   "name": "StatTrak™-musiksæt | Austin Wintory, Desert Fire",
+  "code": "austinwintory_01",
   "description": "Grammy-nomineret spilkomponist Austin Wintory spørger, hvorfor bekymre sig om at jage dine fjender, når du kan lokke dem til med en dødelig, men ganske vist sindssyg, tango?",
   "def_index": "9",
   "rarity": {
@@ -226,6 +242,7 @@
  {
   "id": "music_kit-10",
   "name": "Musiksæt | Sasha, LNOE",
+  "code": "sasha_01",
   "description": "Fordyb dig selv i dette filmiske soundtrack fuld af skyhøje strenge, pulserende melodier og drivende trommer fra den verdenskendte DJ / producer Sashs.",
   "def_index": "10",
   "rarity": {
@@ -240,6 +257,7 @@
  {
   "id": "music_kit-10_st",
   "name": "StatTrak™-musiksæt | Sasha, LNOE",
+  "code": "sasha_01",
   "description": "Fordyb dig selv i dette filmiske soundtrack fuld af skyhøje strenge, pulserende melodier og drivende trommer fra den verdenskendte DJ / producer Sashs.",
   "def_index": "10",
   "rarity": {
@@ -254,6 +272,7 @@
  {
   "id": "music_kit-11",
   "name": "Musiksæt | Skog, Metal",
+  "code": "skog_01",
   "description": "En lektion i aggression fra metal-producer, Skog.",
   "def_index": "11",
   "rarity": {
@@ -268,6 +287,7 @@
  {
   "id": "music_kit-11_st",
   "name": "StatTrak™-musiksæt | Skog, Metal",
+  "code": "skog_01",
   "description": "En lektion i aggression fra metal-producer, Skog.",
   "def_index": "11",
   "rarity": {
@@ -282,6 +302,7 @@
  {
   "id": "music_kit-12",
   "name": "Musiksæt | Midnight Riders, All I Want for Christmas",
+  "code": "midnightriders_01",
   "description": "\\\"GLÆDELIG JUL, ****ERS!\\\"\\n  -Midnight Riders",
   "def_index": "12",
   "rarity": {
@@ -296,6 +317,7 @@
  {
   "id": "music_kit-12_st",
   "name": "StatTrak™-musiksæt | Midnight Riders, All I Want for Christmas",
+  "code": "midnightriders_01",
   "description": "\\\"GLÆDELIG JUL, ****ERS!\\\"\\n  -Midnight Riders",
   "def_index": "12",
   "rarity": {
@@ -310,6 +332,7 @@
  {
   "id": "music_kit-13",
   "name": "Musiksæt | Matt Lange, IsoRhythm",
+  "code": "mattlange_01",
   "description": "Forkæl dine lydlige sanser i en samling af filmiske, impulsive atmosfærer og hårdtslående dunkende rytmer af elektronikproducent og innovator Matt Lange.",
   "def_index": "13",
   "rarity": {
@@ -324,6 +347,7 @@
  {
   "id": "music_kit-13_st",
   "name": "StatTrak™-musiksæt | Matt Lange, IsoRhythm",
+  "code": "mattlange_01",
   "description": "Forkæl dine lydlige sanser i en samling af filmiske, impulsive atmosfærer og hårdtslående dunkende rytmer af elektronikproducent og innovator Matt Lange.",
   "def_index": "13",
   "rarity": {
@@ -338,6 +362,7 @@
  {
   "id": "music_kit-14",
   "name": "Musiksæt | Mateo Messina, For No Mankind",
+  "code": "mateomessina_01",
   "description": "Own dine fjender. Ren intensitet af Grammy-vindende komponist, Mateo Messina.",
   "def_index": "14",
   "rarity": {
@@ -352,6 +377,7 @@
  {
   "id": "music_kit-14_st",
   "name": "StatTrak™-musiksæt | Mateo Messina, For No Mankind",
+  "code": "mateomessina_01",
   "description": "Own dine fjender. Ren intensitet af Grammy-vindende komponist, Mateo Messina.",
   "def_index": "14",
   "rarity": {
@@ -366,6 +392,7 @@
  {
   "id": "music_kit-15",
   "name": "Musiksæt | Flere kunstnere, Hotline Miami",
+  "code": "hotlinemiami_01",
   "description": "Et væld af elektroniske kunstnere leverer brutale beats i denne spændende musikpakke fra det ikoniske Hotline Miami.",
   "def_index": "15",
   "rarity": {
@@ -380,6 +407,7 @@
  {
   "id": "music_kit-15_st",
   "name": "StatTrak™-musiksæt | Flere kunstnere, Hotline Miami",
+  "code": "hotlinemiami_01",
   "description": "Et væld af elektroniske kunstnere leverer brutale beats i denne spændende musikpakke fra det ikoniske Hotline Miami.",
   "def_index": "15",
   "rarity": {
@@ -394,6 +422,7 @@
  {
   "id": "music_kit-16",
   "name": "Musiksæt | Daniel Sadowski, Total Domination",
+  "code": "danielsadowski_02",
   "description": "Komponisten Daniel Sadowski hæver standarden med aggressive elektroniske rytmer, kreative lydeffekter, og en hjertepumpende, drivende, futuristisk følelse. \\\"Advarsel: Vil medføre stigning i adrenalinniveau!\\\"",
   "def_index": "16",
   "rarity": {
@@ -408,6 +437,7 @@
  {
   "id": "music_kit-16_st",
   "name": "StatTrak™-musiksæt | Daniel Sadowski, Total Domination",
+  "code": "danielsadowski_02",
   "description": "Komponisten Daniel Sadowski hæver standarden med aggressive elektroniske rytmer, kreative lydeffekter, og en hjertepumpende, drivende, futuristisk følelse. \\\"Advarsel: Vil medføre stigning i adrenalinniveau!\\\"",
   "def_index": "16",
   "rarity": {
@@ -422,6 +452,7 @@
  {
   "id": "music_kit-17",
   "name": "Musiksæt | Damjan Mravunac, The Talos Principle",
+  "code": "damjanmravunac_01",
   "description": "Komponist Damjan Mravunac blander energiske filmiske, rytmer med episke kor i denne musikpakke med musik fra Croteams kritikerroste titel \\\"The Talos Principle\\\".",
   "def_index": "17",
   "rarity": {
@@ -436,6 +467,7 @@
  {
   "id": "music_kit-17_st",
   "name": "StatTrak™-musiksæt | Damjan Mravunac, The Talos Principle",
+  "code": "damjanmravunac_01",
   "description": "Komponist Damjan Mravunac blander energiske filmiske, rytmer med episke kor i denne musikpakke med musik fra Croteams kritikerroste titel \\\"The Talos Principle\\\".",
   "def_index": "17",
   "rarity": {
@@ -450,6 +482,7 @@
  {
   "id": "music_kit-18",
   "name": "Musiksæt | Proxy, Battlepack",
+  "code": "proxy_01",
   "description": "Den russiske tungelektronika-kunstner PROXY bringer sit eget unikke tunge artilleri til CS:GO. Hybridlydsvåben fusioneret med den fineste studieteknologi gør denne pakke unik.",
   "def_index": "18",
   "rarity": {
@@ -464,6 +497,7 @@
  {
   "id": "music_kit-18_st",
   "name": "StatTrak™-musiksæt | Proxy, Battlepack",
+  "code": "proxy_01",
   "description": "Den russiske tungelektronika-kunstner PROXY bringer sit eget unikke tunge artilleri til CS:GO. Hybridlydsvåben fusioneret med den fineste studieteknologi gør denne pakke unik.",
   "def_index": "18",
   "rarity": {
@@ -478,6 +512,7 @@
  {
   "id": "music_kit-19",
   "name": "Musiksæt | Ki:Theory, MOLOTOV",
+  "code": "kitheory_01",
   "description": "Musikkunstner og DOTA TI4-performer, Ki:Theory smider BOMBER med dette brændende sæt barberbladsskarp, mørk elektronisk rock.",
   "def_index": "19",
   "rarity": {
@@ -492,6 +527,7 @@
  {
   "id": "music_kit-19_st",
   "name": "StatTrak™-musiksæt | Ki:Theory, MOLOTOV",
+  "code": "kitheory_01",
   "description": "Musikkunstner og DOTA TI4-performer, Ki:Theory smider BOMBER med dette brændende sæt barberbladsskarp, mørk elektronisk rock.",
   "def_index": "19",
   "rarity": {
@@ -506,6 +542,7 @@
  {
   "id": "music_kit-20",
   "name": "Musiksæt | Troels Folmann, Uber Blasto Phone",
+  "code": "troelsfolmann_01",
   "description": "Triumferende blastofoner kombineres med moderne uberpuls i denne eksplosive samling af ultra-prisvindende komponist Troels Folmann.",
   "def_index": "20",
   "rarity": {
@@ -520,6 +557,7 @@
  {
   "id": "music_kit-20_st",
   "name": "StatTrak™-musiksæt | Troels Folmann, Uber Blasto Phone",
+  "code": "troelsfolmann_01",
   "description": "Triumferende blastofoner kombineres med moderne uberpuls i denne eksplosive samling af ultra-prisvindende komponist Troels Folmann.",
   "def_index": "20",
   "rarity": {
@@ -534,6 +572,7 @@
  {
   "id": "music_kit-21",
   "name": "Musiksæt | Kelly Bailey, Hazardous Environments",
+  "code": "kellybailey_01",
   "description": "Kelly Bailey, komponist til Valves Half-Life-serie, skaber et arsenal af apokalyptisk ny musik inspireret af den mørkere side af Half-Life-universet.",
   "def_index": "21",
   "rarity": {
@@ -548,6 +587,7 @@
  {
   "id": "music_kit-21_st",
   "name": "StatTrak™-musiksæt | Kelly Bailey, Hazardous Environments",
+  "code": "kellybailey_01",
   "description": "Kelly Bailey, komponist til Valves Half-Life-serie, skaber et arsenal af apokalyptisk ny musik inspireret af den mørkere side af Half-Life-universet.",
   "def_index": "21",
   "rarity": {
@@ -562,6 +602,7 @@
  {
   "id": "music_kit-22",
   "name": "Musiksæt | Skog, II-Headshot",
+  "code": "skog_02",
   "description": "Metalkomponist og producer Jocke Skog vender tilbage med et helt nyt, hårdtslående metalsæt, der får de andre CS:GO-musiksæt til at virke nuttede, varme og lodne. Så kom i gang og bliv MVP, så alle kan høre hvor sej du er!",
   "def_index": "22",
   "rarity": {
@@ -576,6 +617,7 @@
  {
   "id": "music_kit-22_st",
   "name": "StatTrak™-musiksæt | Skog, II-Headshot",
+  "code": "skog_02",
   "description": "Metalkomponist og producer Jocke Skog vender tilbage med et helt nyt, hårdtslående metalsæt, der får de andre CS:GO-musiksæt til at virke nuttede, varme og lodne. Så kom i gang og bliv MVP, så alle kan høre hvor sej du er!",
   "def_index": "22",
   "rarity": {
@@ -590,6 +632,7 @@
  {
   "id": "music_kit-23",
   "name": "Musiksæt | Daniel Sadowski, The 8-Bit Kit",
+  "code": "danielsadowski_03",
   "description": "Daniel Sadowski skaber det første 8-bitmusiksæt nogensinde til Counter-Strike komplet med autentiske 8-bitlyde.",
   "def_index": "23",
   "rarity": {
@@ -604,6 +647,7 @@
  {
   "id": "music_kit-23_st",
   "name": "StatTrak™-musiksæt | Daniel Sadowski, The 8-Bit Kit",
+  "code": "danielsadowski_03",
   "description": "Daniel Sadowski skaber det første 8-bitmusiksæt nogensinde til Counter-Strike komplet med autentiske 8-bitlyde.",
   "def_index": "23",
   "rarity": {
@@ -618,6 +662,7 @@
  {
   "id": "music_kit-24",
   "name": "Musiksæt | AWOLNATION, I Am",
+  "code": "awolnation_01",
   "description": "AWOLNATION alternativ rocker AWOLNATION giver dig et musiksæt til tiderne. Dette sæt er sprængfyldt med et eklektisk udvalg af melodier og indeholder dele fra singlerne \\\"I Am\\\" og multi-platinhittet \\\"Sail\\\".",
   "def_index": "24",
   "rarity": {
@@ -632,6 +677,7 @@
  {
   "id": "music_kit-24_st",
   "name": "StatTrak™-musiksæt | AWOLNATION, I Am",
+  "code": "awolnation_01",
   "description": "AWOLNATION alternativ rocker AWOLNATION giver dig et musiksæt til tiderne. Dette sæt er sprængfyldt med et eklektisk udvalg af melodier og indeholder dele fra singlerne \\\"I Am\\\" og multi-platinhittet \\\"Sail\\\".",
   "def_index": "24",
   "rarity": {
@@ -646,6 +692,7 @@
  {
   "id": "music_kit-25",
   "name": "Musiksæt | Mord Fustang, Diamonds",
+  "code": "mordfustang_01",
   "description": "Diamanter. De varer for evigt. Dyk ned i arpeggio-havet af Mord Fustang med dette friske sæt af stemninger og atmosfærer.",
   "def_index": "25",
   "rarity": {
@@ -660,6 +707,7 @@
  {
   "id": "music_kit-25_st",
   "name": "StatTrak™-musiksæt | Mord Fustang, Diamonds",
+  "code": "mordfustang_01",
   "description": "Diamanter. De varer for evigt. Dyk ned i arpeggio-havet af Mord Fustang med dette friske sæt af stemninger og atmosfærer.",
   "def_index": "25",
   "rarity": {
@@ -674,6 +722,7 @@
  {
   "id": "music_kit-26",
   "name": "Musiksæt | Michael Bross, Invasion!",
+  "code": "michaelbross_01",
   "description": "Michael Bross fremtryller episk/filmisk techno-grunge for at få dig til at føle som en sand badass i kamp.",
   "def_index": "26",
   "rarity": {
@@ -688,6 +737,7 @@
  {
   "id": "music_kit-26_st",
   "name": "StatTrak™-musiksæt | Michael Bross, Invasion!",
+  "code": "michaelbross_01",
   "description": "Michael Bross fremtryller episk/filmisk techno-grunge for at få dig til at føle som en sand badass i kamp.",
   "def_index": "26",
   "rarity": {
@@ -702,6 +752,7 @@
  {
   "id": "music_kit-27",
   "name": "Musiksæt | Ian Hultquist, Lion's Mouth",
+  "code": "ianhultquist_01",
   "description": "Gør dig selv klar til kamp med dette tordnende soundtrack fra komponist Ian Hultquist, der blander pulserende strenge og synteser med buldrende krigstrommer.",
   "def_index": "27",
   "rarity": {
@@ -716,6 +767,7 @@
  {
   "id": "music_kit-27_st",
   "name": "StatTrak™-musiksæt | Ian Hultquist, Lion's Mouth",
+  "code": "ianhultquist_01",
   "description": "Gør dig selv klar til kamp med dette tordnende soundtrack fra komponist Ian Hultquist, der blander pulserende strenge og synteser med buldrende krigstrommer.",
   "def_index": "27",
   "rarity": {
@@ -730,6 +782,7 @@
  {
   "id": "music_kit-28",
   "name": "Musiksæt | New Beat Fund, Sponge Fingerz",
+  "code": "newbeatfund_01",
   "description": "Solrig surf-rock med elementer af hip-hop, punk og garage-pop. Forbliv realistisk og få hovedskud.",
   "def_index": "28",
   "rarity": {
@@ -744,6 +797,7 @@
  {
   "id": "music_kit-28_st",
   "name": "StatTrak™-musiksæt | New Beat Fund, Sponge Fingerz",
+  "code": "newbeatfund_01",
   "description": "Solrig surf-rock med elementer af hip-hop, punk og garage-pop. Forbliv realistisk og få hovedskud.",
   "def_index": "28",
   "rarity": {
@@ -758,6 +812,7 @@
  {
   "id": "music_kit-29",
   "name": "Musiksæt | Beartooth, Disgusting",
+  "code": "beartooth_01",
   "description": "Beartooth giver dig en aggressiv back-to-basics hardcore nedtrampning, der får gang i publikum og ødelægger ting. Et perfekt soundtrack til dine no-scope scout-drab. Rock til du dør.",
   "def_index": "29",
   "rarity": {
@@ -772,6 +827,7 @@
  {
   "id": "music_kit-29_st",
   "name": "StatTrak™-musiksæt | Beartooth, Disgusting",
+  "code": "beartooth_01",
   "description": "Beartooth giver dig en aggressiv back-to-basics hardcore nedtrampning, der får gang i publikum og ødelægger ting. Et perfekt soundtrack til dine no-scope scout-drab. Rock til du dør.",
   "def_index": "29",
   "rarity": {
@@ -786,6 +842,7 @@
  {
   "id": "music_kit-30",
   "name": "Musiksæt | Lennie Moore, Java Havana Funkaloo",
+  "code": "lenniemoore_01",
   "description": "Spilkomponist Lennie Moore serverer en aromatisk, krydret blanding af jazz-funk. Delikat når serveret kold, ligesom ligene af dine fjender efter du er færdig med dem.",
   "def_index": "30",
   "rarity": {
@@ -800,6 +857,7 @@
  {
   "id": "music_kit-30_st",
   "name": "StatTrak™-musiksæt | Lennie Moore, Java Havana Funkaloo",
+  "code": "lenniemoore_01",
   "description": "Spilkomponist Lennie Moore serverer en aromatisk, krydret blanding af jazz-funk. Delikat når serveret kold, ligesom ligene af dine fjender efter du er færdig med dem.",
   "def_index": "30",
   "rarity": {
@@ -814,6 +872,7 @@
  {
   "id": "music_kit-31",
   "name": "Musiksæt | Darude, Moments CS:GO",
+  "code": "darude_01",
   "description": "Bevæg dig frit i omgivelseslydene fra den finske producer Darudes velkendte musikalske aromaer og toner. Berig dig selv med adgang til denne tunge fusion af progressive overtoner og hober af spændende melodiske strukturer fra en af dansemusikkens mest berømte pionerers lydsamling.",
   "def_index": "31",
   "rarity": {
@@ -828,6 +887,7 @@
  {
   "id": "music_kit-31_st",
   "name": "StatTrak™-musiksæt | Darude, Moments CS:GO",
+  "code": "darude_01",
   "description": "Bevæg dig frit i omgivelseslydene fra den finske producer Darudes velkendte musikalske aromaer og toner. Berig dig selv med adgang til denne tunge fusion af progressive overtoner og hober af spændende melodiske strukturer fra en af dansemusikkens mest berømte pionerers lydsamling.",
   "def_index": "31",
   "rarity": {
@@ -842,6 +902,7 @@
  {
   "id": "music_kit-32_st",
   "name": "StatTrak™-musiksæt | Beartooth, Aggressive",
+  "code": "beartooth_02",
   "description": "Beartooth er tilbage for omgang nummer to. Dette nye musiksæt slår hårdere og er endnu mere aggressivt. Vi har også gjort MVP-slagsangen endnu tungere, så dine modstandere får det virkelig skidt, efter de har tabt mod dig.",
   "def_index": "32",
   "rarity": {
@@ -856,6 +917,7 @@
  {
   "id": "music_kit-33_st",
   "name": "StatTrak™-musiksæt | Blitz Kids, The Good Youth",
+  "code": "blitzkids_01",
   "description": "Det britiske pop-/punk-band Blitz Kids giver dig det perfekte musiksæt til at hasteangribe B, mens du tænker på de natture i bil, du havde med dine venner i gymnasiet. Dette sæt er til fart og at føle sig ung.",
   "def_index": "33",
   "rarity": {
@@ -870,6 +932,7 @@
  {
   "id": "music_kit-34_st",
   "name": "StatTrak™-musiksæt | Hundredth, FREE",
+  "code": "hundredth_01",
   "description": "Hundredth bringer det tunge til verden med deres unikke udgave af melodisk hardcore. Slip fri eller vend tilbage til Dust med dette perfekte soundtrack til drab på de uværdige.",
   "def_index": "34",
   "rarity": {
@@ -884,6 +947,7 @@
  {
   "id": "music_kit-35_st",
   "name": "StatTrak™-musiksæt | Neck Deep, Life's Not Out To Get You",
+  "code": "neckdeep_01",
   "description": "Nogle gange skal du bare have noget pop-punk for at klare dagen. Om det er at håndtere campere eller at dø efter en stor drabsrække, så er Neck Deep her for at bevise, at \\\"Life's Not Out To Get You\\\", men det andet hold er dog stadig.",
   "def_index": "35",
   "rarity": {
@@ -898,6 +962,7 @@
  {
   "id": "music_kit-36_st",
   "name": "StatTrak™-musiksæt | Roam, Backbone",
+  "code": "roam_01",
   "description": "Roam giver hurtig og direkte pop-punk, der får publikum og spillere i bevægelse. Bevis at du har en rygsøjle med dette perfekte soundtrack til at løbe ind og udslette det andet hold, før det overhovedet går op for dem, at de er dødvægt.",
   "def_index": "36",
   "rarity": {
@@ -912,6 +977,7 @@
  {
   "id": "music_kit-37_st",
   "name": "StatTrak™-musiksæt | Twin Atlantic, GLA",
+  "code": "twinatlantic_01",
   "description": "Tungere, livligere og højere end nogensinde før. Twin Atlantic kommer til CS:GO og er klar til at hjælpe med at smelte ansigter med slagkræften fra skotsk rock.",
   "def_index": "37",
   "rarity": {
@@ -926,6 +992,7 @@
  {
   "id": "music_kit-38_st",
   "name": "StatTrak™-musiksæt | Skog, III-Arena",
+  "code": "skog_03",
   "description": "Skog er tilbage med et tredje knusende metalsæt. Denne gang med et elektro-organisk twist i musikken, der kombinerer store guitar-riff med ligeså store drops, loop-elementer og droner.",
   "def_index": "38",
   "rarity": {
@@ -940,6 +1007,7 @@
  {
   "id": "music_kit-39",
   "name": "Musiksæt | The Verkkars, EZ4ENCE",
+  "code": "theverkkars_01",
   "description": "Verkkars stiger gennem de finske hitlister med en hjertebankende hyldest til ENCE. Kan det virkelig være så EZ?",
   "def_index": "39",
   "rarity": {
@@ -954,6 +1022,7 @@
  {
   "id": "music_kit-39_st",
   "name": "StatTrak™ Musiksæt | The Verkkars, EZ4ENCE",
+  "code": "theverkkars_01",
   "description": "Verkkars stiger gennem de finske hitlister med en hjertebankende hyldest til ENCE. Kan det virkelig være så EZ?",
   "def_index": "39",
   "rarity": {
@@ -968,6 +1037,7 @@
  {
   "id": "music_kit-40",
   "name": "Halo, The Master Chief Collection",
+  "code": "halo_01",
   "description": "Giv lydoplevelsen i Counter-Strike en legendarisk makeover med musikpakken Master Chief Collection, der byder på ikoniske musikalske øjeblikke fra Halo-universet. © 2019 343 Industries. Alle rettigheder forbeholdes. Brugt med tilladelse fra 343 Industries. Halo: Master Chief Collection og Halo-logoet er varemærker tilhørende Microsoft-koncernen.",
   "def_index": "40",
   "rarity": {
@@ -982,6 +1052,7 @@
  {
   "id": "music_kit-41",
   "name": "Musiksæt | Scarlxrd: King, Scar",
+  "code": "scarlxrd_01",
   "description": "Scarlxrd blander tunge trap-beats med et flow og levering, der skaber sin egen unikke undergenre. Med denne spændende blanding fanger hans liveshows opmærksomheden hos alle i mængden.",
   "def_index": "41",
   "rarity": {
@@ -996,6 +1067,7 @@
  {
   "id": "music_kit-41_st",
   "name": "StatTrak™-musiksæt | Scarlxrd: King, Scar",
+  "code": "scarlxrd_01",
   "description": "Scarlxrd blander tunge trap-beats med et flow og levering, der skaber sin egen unikke undergenre. Med denne spændende blanding fanger hans liveshows opmærksomheden hos alle i mængden.",
   "def_index": "41",
   "rarity": {
@@ -1010,6 +1082,7 @@
  {
   "id": "music_kit-42",
   "name": "Half-Life: Alyx, Anti-Citizen",
+  "code": "hlalyx_01",
   "description": "Dette musiksæt fejrer Half-Life: Alyx, Valves tilbagevenden til Half-Life-serien i VR. Du er menneskehedens sidste chance for at overleve, og dine opslugende miljøinteraktioner fortsætter i Counter-Strike: Global Offensive.",
   "def_index": "42",
   "rarity": {
@@ -1024,6 +1097,7 @@
  {
   "id": "music_kit-43",
   "name": "Musiksæt | Austin Wintory, Bachram",
+  "code": "austinwintory_02",
   "description": "Austin Wintory blander keltisk fantasy med sydende elektronik og en generøs portion af Peter Hollens' vokal i dette genrebøjende musiksæt.",
   "def_index": "43",
   "rarity": {
@@ -1038,6 +1112,7 @@
  {
   "id": "music_kit-43_st",
   "name": "StatTrak™-musiksæt | Austin Wintory, Bachram",
+  "code": "austinwintory_02",
   "description": "Austin Wintory blander keltisk fantasy med sydende elektronik og en generøs portion af Peter Hollens' vokal i dette genrebøjende musiksæt.",
   "def_index": "43",
   "rarity": {
@@ -1052,6 +1127,7 @@
  {
   "id": "music_kit-44",
   "name": "Musiksæt | Dren, Gunman Taco Truck",
+  "code": "dren_02",
   "description": "Det apokalyptiske mariachisoundtrack fra indiespilhittet Gunman Taco Truck kommer til CS:GO med intense mexicanske melodier som Pollo Diablo og Persecución de Helltain!",
   "def_index": "44",
   "rarity": {
@@ -1066,6 +1142,7 @@
  {
   "id": "music_kit-44_st",
   "name": "StatTrak™-musiksæt | Dren, Gunman Taco Truck",
+  "code": "dren_02",
   "description": "Det apokalyptiske mariachisoundtrack fra indiespilhittet Gunman Taco Truck kommer til CS:GO med intense mexicanske melodier som Pollo Diablo og Persecución de Helltain!",
   "def_index": "44",
   "rarity": {
@@ -1080,6 +1157,7 @@
  {
   "id": "music_kit-45",
   "name": "Musiksæt | Daniel Sadowski, Eye of the Dragon",
+  "code": "danielsadowski_04",
   "description": "Fra komponisten, der bragte dig \\\"Total Domination\\\", \\\"The 8-Bit Kit\\\" og \\\"Crimson Assault\\\", kommer \\\"Eye Of The Dragon\\\". Musikkomponisten Daniel Sadowski blander Ninjas + Guns + Hip-Hop + Techno for at skabe et actionfyldt musiksæt. <i>Ninjaer er kendt for deres hurtige og præcise angreb, men alligevel kan de være usynlige for deres fjende.</i>",
   "def_index": "45",
   "rarity": {
@@ -1094,6 +1172,7 @@
  {
   "id": "music_kit-45_st",
   "name": "StatTrak™-musiksæt | Daniel Sadowski, Eye of the Dragon",
+  "code": "danielsadowski_04",
   "description": "Fra komponisten, der bragte dig \\\"Total Domination\\\", \\\"The 8-Bit Kit\\\" og \\\"Crimson Assault\\\", kommer \\\"Eye Of The Dragon\\\". Musikkomponisten Daniel Sadowski blander Ninjas + Guns + Hip-Hop + Techno for at skabe et actionfyldt musiksæt. <i>Ninjaer er kendt for deres hurtige og præcise angreb, men alligevel kan de være usynlige for deres fjende.</i>",
   "def_index": "45",
   "rarity": {
@@ -1108,6 +1187,7 @@
  {
   "id": "music_kit-46",
   "name": "Musiksæt | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
+  "code": "treeadams_benbromfield_01",
   "description": "Komponisterne Tree Adams og Ben Bromfield – alkymisterne af et stærkt kaos kaldet M.U.D.D FORCE – blander episke kampmotiver og skarp synthesizer i en malstrøm af fuldstændig ødelæggelse.",
   "def_index": "46",
   "rarity": {
@@ -1122,6 +1202,7 @@
  {
   "id": "music_kit-46_st",
   "name": "StatTrak™-musiksæt | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
+  "code": "treeadams_benbromfield_01",
   "description": "Komponisterne Tree Adams og Ben Bromfield – alkymisterne af et stærkt kaos kaldet M.U.D.D FORCE – blander episke kampmotiver og skarp synthesizer i en malstrøm af fuldstændig ødelæggelse.",
   "def_index": "46",
   "rarity": {
@@ -1136,6 +1217,7 @@
  {
   "id": "music_kit-47",
   "name": "Musiksæt | Tim Huling, Neo Noir",
+  "code": "timhuling_01",
   "description": "Komponist Tim Huling leverer klassiske numre i film-noir-stil blandet med moderne grooves og beats.",
   "def_index": "47",
   "rarity": {
@@ -1150,6 +1232,7 @@
  {
   "id": "music_kit-47_st",
   "name": "StatTrak™-musiksæt | Tim Huling, Neo Noir",
+  "code": "timhuling_01",
   "description": "Komponist Tim Huling leverer klassiske numre i film-noir-stil blandet med moderne grooves og beats.",
   "def_index": "47",
   "rarity": {
@@ -1164,6 +1247,7 @@
  {
   "id": "music_kit-48",
   "name": "Musiksæt | Sam Marshall, Bodacious",
+  "code": "sammarshall_01",
   "description": "Komponisten Sam Marshall pisker noget klassisk nostalgi op inspireret af den funky computerspilsmusik fra starten af 90'erne og tilsætter lidt moderne sauce.",
   "def_index": "48",
   "rarity": {
@@ -1178,6 +1262,7 @@
  {
   "id": "music_kit-48_st",
   "name": "StatTrak™-musiksæt | Sam Marshall, Bodacious",
+  "code": "sammarshall_01",
   "description": "Komponisten Sam Marshall pisker noget klassisk nostalgi op inspireret af den funky computerspilsmusik fra starten af 90'erne og tilsætter lidt moderne sauce.",
   "def_index": "48",
   "rarity": {
@@ -1192,6 +1277,7 @@
  {
   "id": "music_kit-49",
   "name": "Musiksæt | Matt Levine, Drifter",
+  "code": "mattlevine_01",
   "description": "Komponisten Matt Levine leverer rå toner i denne realistiske hyldest til spaghettiwestern. Det har aldrig føltes bedre at sige \\\"go ahead, make my day...\\\"",
   "def_index": "49",
   "rarity": {
@@ -1206,6 +1292,7 @@
  {
   "id": "music_kit-49_st",
   "name": "StatTrak™-musiksæt | Matt Levine, Drifter",
+  "code": "mattlevine_01",
   "description": "Komponisten Matt Levine leverer rå toner i denne realistiske hyldest til spaghettiwestern. Det har aldrig føltes bedre at sige \\\"go ahead, make my day...\\\"",
   "def_index": "49",
   "rarity": {
@@ -1220,6 +1307,7 @@
  {
   "id": "music_kit-50",
   "name": "Musiksæt | Amon Tobin, All for Dust",
+  "code": "amontobin_01",
   "description": "Den legendariske producer Amon Tobin låner sin unikke æstetik til CS:GO. Denne gang gennem rørforstærkere.",
   "def_index": "50",
   "rarity": {
@@ -1234,6 +1322,7 @@
  {
   "id": "music_kit-50_st",
   "name": "StatTrak™-musiksæt | Amon Tobin, All for Dust",
+  "code": "amontobin_01",
   "description": "Den legendariske producer Amon Tobin låner sin unikke æstetik til CS:GO. Denne gang gennem rørforstærkere.",
   "def_index": "50",
   "rarity": {
@@ -1248,6 +1337,7 @@
  {
   "id": "music_kit-51",
   "name": "Darren Korb, Hades-musiksæt",
+  "code": "hades_01",
   "description": "Jo, man rammer ved siden af en gang imellem, men noget, der altid er en fuldtræffer, er dette blodpumpende musiksæt fra Hades' underverden – Supergiant's roguelike dungeon crawler.",
   "def_index": "51",
   "rarity": {
@@ -1262,6 +1352,7 @@
  {
   "id": "music_kit-52",
   "name": "Musiksæt | Neck Deep, The Lowlife Pack",
+  "code": "neckdeep_02",
   "description": "Bevis, at du ikke er en normie (og bedre end alle andre på banen) med Neck Deep's nye musiksæt, som inkluderer sange fra bandets album All Distortions Are Intentional.",
   "def_index": "52",
   "rarity": {
@@ -1276,6 +1367,7 @@
  {
   "id": "music_kit-52_st",
   "name": "StatTrak™-musiksæt | Neck Deep, The Lowlife Pack",
+  "code": "neckdeep_02",
   "description": "Bevis, at du ikke er en normie (og bedre end alle andre på banen) med Neck Deep's nye musiksæt, som inkluderer sange fra bandets album All Distortions Are Intentional.",
   "def_index": "52",
   "rarity": {
@@ -1290,6 +1382,7 @@
  {
   "id": "music_kit-53",
   "name": "Musiksæt | Scarlxrd, CHAIN$AW.LXADXUT.",
+  "code": "scarlxrd_02",
   "description": "I CHAIN$AW BYDER SCARLXRD PÅ SIT ALLERBEDSTE MED ET RÅT FLOW OG ET PASSENDE TUNGT NUMMER.",
   "def_index": "53",
   "rarity": {
@@ -1304,6 +1397,7 @@
  {
   "id": "music_kit-53_st",
   "name": "StatTrak™-musiksæt | Scarlxrd, CHAIN$AW.LXADXUT.",
+  "code": "scarlxrd_02",
   "description": "I CHAIN$AW BYDER SCARLXRD PÅ SIT ALLERBEDSTE MED ET RÅT FLOW OG ET PASSENDE TUNGT NUMMER.",
   "def_index": "53",
   "rarity": {
@@ -1318,6 +1412,7 @@
  {
   "id": "music_kit-54",
   "name": "Musiksæt | Austin Wintory, Mocha Petal",
+  "code": "austinwintory_03",
   "description": "Austin Wintory har svaret på menneskehedens store spørgsmål: Hvad sker der, hvis man blander polkamusikken fra en ølfestivalsharmonika med kras heavy metal?",
   "def_index": "54",
   "rarity": {
@@ -1332,6 +1427,7 @@
  {
   "id": "music_kit-54_st",
   "name": "StatTrak™-musiksæt | Austin Wintory, Mocha Petal",
+  "code": "austinwintory_03",
   "description": "Austin Wintory har svaret på menneskehedens store spørgsmål: Hvad sker der, hvis man blander polkamusikken fra en ølfestivalsharmonika med kras heavy metal?",
   "def_index": "54",
   "rarity": {
@@ -1346,6 +1442,7 @@
  {
   "id": "music_kit-55",
   "name": "Musiksæt | Chipzel, ~Yellow Magic~",
+  "code": "chipzel_01",
   "description": "Spilkomponist og chipmusiklegende Chipzel byder på en blanding af hybridstile fuld af sjov, funk og smag med inspiration fra en fejlfyldt elektronisk stavetavle.",
   "def_index": "55",
   "rarity": {
@@ -1360,6 +1457,7 @@
  {
   "id": "music_kit-55_st",
   "name": "StatTrak™-musiksæt | Chipzel, ~Yellow Magic~",
+  "code": "chipzel_01",
   "description": "Spilkomponist og chipmusiklegende Chipzel byder på en blanding af hybridstile fuld af sjov, funk og smag med inspiration fra en fejlfyldt elektronisk stavetavle.",
   "def_index": "55",
   "rarity": {
@@ -1374,6 +1472,7 @@
  {
   "id": "music_kit-56",
   "name": "Musiksæt | Freaky DNA, Vici",
+  "code": "freakydna_01",
   "description": "Opera. 8-bit lyde. Analoge synthesizere. Kan det blive bedre? Sammen laver chipmusikspecialisten Freaky DNA og sopranen Leanne Koch fede beats og gode oplevelser!",
   "def_index": "56",
   "rarity": {
@@ -1388,6 +1487,7 @@
  {
   "id": "music_kit-56_st",
   "name": "StatTrak™-musiksæt | Freaky DNA, Vici",
+  "code": "freakydna_01",
   "description": "Opera. 8-bit lyde. Analoge synthesizere. Kan det blive bedre? Sammen laver chipmusikspecialisten Freaky DNA og sopranen Leanne Koch fede beats og gode oplevelser!",
   "def_index": "56",
   "rarity": {
@@ -1402,6 +1502,7 @@
  {
   "id": "music_kit-57",
   "name": "Musiksæt | Jesse Harlin, Astro Bellum",
+  "code": "jesseharlin_01",
   "description": "Komponisten Jesse Harlin lever bombastisk rumoperadrama inspireret af klassisk sci-fi fra 70'erne, 80'erne og videre frem.",
   "def_index": "57",
   "rarity": {
@@ -1416,6 +1517,7 @@
  {
   "id": "music_kit-57_st",
   "name": "StatTrak™-musiksæt | Jesse Harlin, Astro Bellum",
+  "code": "jesseharlin_01",
   "description": "Komponisten Jesse Harlin lever bombastisk rumoperadrama inspireret af klassisk sci-fi fra 70'erne, 80'erne og videre frem.",
   "def_index": "57",
   "rarity": {
@@ -1430,6 +1532,7 @@
  {
   "id": "music_kit-58",
   "name": "Musiksæt | Laura Shigihara: Work Hard, Play Hard",
+  "code": "laurashigihara_01",
   "description": "Spilkomponisten og -udvikleren Laura Shigihara hjælper dig med højt og stolt at offentliggøre for alle, at du er rundens MVP. Hav det sjovt med denne unikke blanding af dance fra 90'erne, retro-synthesizer fra videospil og et lille strejf af Plants vs. Zombies.",
   "def_index": "58",
   "rarity": {
@@ -1444,6 +1547,7 @@
  {
   "id": "music_kit-58_st",
   "name": "StatTrak™-musiksæt | Laura Shigihara: Work Hard, Play Hard",
+  "code": "laurashigihara_01",
   "description": "Spilkomponisten og -udvikleren Laura Shigihara hjælper dig med højt og stolt at offentliggøre for alle, at du er rundens MVP. Hav det sjovt med denne unikke blanding af dance fra 90'erne, retro-synthesizer fra videospil og et lille strejf af Plants vs. Zombies.",
   "def_index": "58",
   "rarity": {
@@ -1458,6 +1562,7 @@
  {
   "id": "music_kit-59",
   "name": "Musiksæt | Sarah Schachner, KOLIBRI",
+  "code": "sarahschachner_01",
   "description": "Bragt til dig af Sarah Schachner – et dystopisk goth-kor af selvbevidste skandinaviske robotter beslutter sig for, at menneskeheden må udryddes.",
   "def_index": "59",
   "rarity": {
@@ -1472,6 +1577,7 @@
  {
   "id": "music_kit-59_st",
   "name": "StatTrak™-musiksæt | Sarah Schachner, KOLIBRI",
+  "code": "sarahschachner_01",
   "description": "Bragt til dig af Sarah Schachner – et dystopisk goth-kor af selvbevidste skandinaviske robotter beslutter sig for, at menneskeheden må udryddes.",
   "def_index": "59",
   "rarity": {
@@ -1486,6 +1592,7 @@
  {
   "id": "music_kit-60",
   "name": "Musiksæt | bbno$, u mad!",
+  "code": "bbnos_01",
   "description": "bbno$ har formuleret toxic-gamernes kampsang, \\\"u mad! Are u mad? LOL\\\". Forskning viser, at hvis du spiller med dette musiksæt udstyret, går du øjeblikkeligt fra Silver til Global.",
   "def_index": "60",
   "rarity": {
@@ -1500,6 +1607,7 @@
  {
   "id": "music_kit-60_st",
   "name": "StatTrak™-musiksæt | bbno$, u mad!",
+  "code": "bbnos_01",
   "description": "bbno$ har formuleret toxic-gamernes kampsang, \\\"u mad! Are u mad? LOL\\\". Forskning viser, at hvis du spiller med dette musiksæt udstyret, går du øjeblikkeligt fra Silver til Global.",
   "def_index": "60",
   "rarity": {
@@ -1514,6 +1622,7 @@
  {
   "id": "music_kit-61",
   "name": "Musiksæt | The Verkkars & n0thing, Flashbang Dance",
+  "code": "theverkkars_02",
   "description": "Fra det solrige Californien til det kolde Lapland – Counter-Strike-legenden n0thing og The Verkkars slår sig sammen for at lave kæmpehittet Flashbang Dance! 3, 2, 1 – du er blind!",
   "def_index": "61",
   "rarity": {
@@ -1528,6 +1637,7 @@
  {
   "id": "music_kit-61_st",
   "name": "StatTrak™-musiksæt | The Verkkars & n0thing, Flashbang Dance",
+  "code": "theverkkars_02",
   "description": "Fra det solrige Californien til det kolde Lapland – Counter-Strike-legenden n0thing og The Verkkars slår sig sammen for at lave kæmpehittet Flashbang Dance! 3, 2, 1 – du er blind!",
   "def_index": "61",
   "rarity": {
@@ -1542,6 +1652,7 @@
  {
   "id": "music_kit-62",
   "name": "Musiksæt | 3kliksphilip, Heading for the Source",
+  "code": "3kliksphilip_01",
   "description": "På vej til at blive professionel eller på vej ned ad rangstigen ved et uheld? Lad 80'er-synthesizerne og de drømmende melodier i dette musiksæt føre dig tilbage i tiden. Helt, helt, helt tilbage... til de gode gamle dage.",
   "def_index": "62",
   "rarity": {
@@ -1556,6 +1667,7 @@
  {
   "id": "music_kit-62_st",
   "name": "StatTrak™-musiksæt | 3kliksphilip, Heading for the Source",
+  "code": "3kliksphilip_01",
   "description": "På vej til at blive professionel eller på vej ned ad rangstigen ved et uheld? Lad 80'er-synthesizerne og de drømmende melodier i dette musiksæt føre dig tilbage i tiden. Helt, helt, helt tilbage... til de gode gamle dage.",
   "def_index": "62",
   "rarity": {
@@ -1570,6 +1682,7 @@
  {
   "id": "music_kit-63",
   "name": "Musiksæt | Humanity's Last Breath, Void",
+  "code": "hlb_01",
   "description": "Den svenske gruppe Humanity's Last Breath lander tungt med dette musiksæt. \\\"Void\\\" byder på dundrende trommer, kolossale riff og en stemning, der får det til at løbe koldt ned ad ryggen.",
   "def_index": "63",
   "rarity": {
@@ -1584,6 +1697,7 @@
  {
   "id": "music_kit-63_st",
   "name": "StatTrak™-musiksæt | Humanity's Last Breath, Void",
+  "code": "hlb_01",
   "description": "Den svenske gruppe Humanity's Last Breath lander tungt med dette musiksæt. \\\"Void\\\" byder på dundrende trommer, kolossale riff og en stemning, der får det til at løbe koldt ned ad ryggen.",
   "def_index": "63",
   "rarity": {
@@ -1598,6 +1712,7 @@
  {
   "id": "music_kit-64",
   "name": "Musiksæt | Juelz, Shooters",
+  "code": "juelz_01",
   "description": "Neo trap-synthesizere, rå 808, et episk pianoriff og en hel masse lydeffekter med skud. OG trap-sangen \\\"Shooters\\\" fra Juelz gør virkelig dette musiksæt til et af de bedste. Kun egnet for MVP'er.",
   "def_index": "64",
   "rarity": {
@@ -1612,6 +1727,7 @@
  {
   "id": "music_kit-64_st",
   "name": "StatTrak™-musiksæt | Juelz, Shooters",
+  "code": "juelz_01",
   "description": "Neo trap-synthesizere, rå 808, et episk pianoriff og en hel masse lydeffekter med skud. OG trap-sangen \\\"Shooters\\\" fra Juelz gør virkelig dette musiksæt til et af de bedste. Kun egnet for MVP'er.",
   "def_index": "64",
   "rarity": {
@@ -1626,6 +1742,7 @@
  {
   "id": "music_kit-65",
   "name": "Musiksæt | Knock2, dashstar*",
+  "code": "knock2_01",
   "description": "dashstar*, den ikoniske bass house-sang fra Knock2, byder på non-stop energi, der indfanger den unge San Diego-kunstners mantra: \\\"ingen grænser\\\".",
   "def_index": "65",
   "rarity": {
@@ -1640,6 +1757,7 @@
  {
   "id": "music_kit-65_st",
   "name": "StatTrak™-musiksæt | Knock2, dashstar*",
+  "code": "knock2_01",
   "description": "dashstar*, den ikoniske bass house-sang fra Knock2, byder på non-stop energi, der indfanger den unge San Diego-kunstners mantra: \\\"ingen grænser\\\".",
   "def_index": "65",
   "rarity": {
@@ -1654,6 +1772,7 @@
  {
   "id": "music_kit-66",
   "name": "Musiksæt | Meechy Darko, Gothic Luxury",
+  "code": "meechydarko_01",
   "description": "Grib en Glock, og udstyr dette musiksæt for at blive transporteret til midten af New Yorks undergrund hiphop-scene.",
   "def_index": "66",
   "rarity": {
@@ -1668,6 +1787,7 @@
  {
   "id": "music_kit-66_st",
   "name": "StatTrak™-musiksæt | Meechy Darko, Gothic Luxury",
+  "code": "meechydarko_01",
   "description": "Grib en Glock, og udstyr dette musiksæt for at blive transporteret til midten af New Yorks undergrund hiphop-scene.",
   "def_index": "66",
   "rarity": {
@@ -1682,6 +1802,7 @@
  {
   "id": "music_kit-67",
   "name": "Musiksæt | Sullivan King, Lock Me Up",
+  "code": "sullivanking_01",
   "description": "Elsker du forfølgelsen? Elsker du jagten? Hardrock, metal og dubstep kolliderer i Sullivan Kings soundtrack, som gør dig umulig at stoppe.",
   "def_index": "67",
   "rarity": {
@@ -1696,6 +1817,7 @@
  {
   "id": "music_kit-67_st",
   "name": "StatTrak™-musiksæt | Sullivan King, Lock Me Up",
+  "code": "sullivanking_01",
   "description": "Elsker du forfølgelsen? Elsker du jagten? Hardrock, metal og dubstep kolliderer i Sullivan Kings soundtrack, som gør dig umulig at stoppe.",
   "def_index": "67",
   "rarity": {
@@ -1710,6 +1832,7 @@
  {
   "id": "music_kit-68",
   "name": "Musiksæt | Perfect World, 花脸 Hua Lian (Painted Face)",
+  "code": "perfectworld_01",
   "description": "Fejr 5-årsjubilæet for CS:GOs udgivelse i Kina med det unikke musiksæt 花脸 Hua Lian (Painted Face). Sættet kombinerer folkeoperaen Qinqiang (den tidligste form for rock i Kina) og moderne rock'n'roll. Uanset om du er opslugt af røg eller blændet af en flashbang-granat, så bevar fokus og orienteringen!",
   "def_index": "68",
   "rarity": {
@@ -1724,6 +1847,7 @@
  {
   "id": "music_kit-68_st",
   "name": "StatTrak™-musiksæt | Perfect World, 花脸 Hua Lian (Painted Face)",
+  "code": "perfectworld_01",
   "description": "Fejr 5-årsjubilæet for CS:GOs udgivelse i Kina med det unikke musiksæt 花脸 Hua Lian (Painted Face). Sættet kombinerer folkeoperaen Qinqiang (den tidligste form for rock i Kina) og moderne rock'n'roll. Uanset om du er opslugt af røg eller blændet af en flashbang-granat, så bevar fokus og orienteringen!",
   "def_index": "68",
   "rarity": {
@@ -1738,6 +1862,7 @@
  {
   "id": "music_kit-69",
   "name": "Musiksæt | Denzel Curry, ULTIMATE",
+  "code": "denzelcurry_01",
   "description": "Denzel bringer sin sædvanlige energi til CS:GO, imens han rejser gennem beats fra \\\"trap\\\", jazz og rytmer med tromme og bas. Sættet indeholder Denzels hits \\\"Walkin\\\", \\\"ULTIMATE\\\" m.m., så tag dine nikkelbelagte Berettas i krom frem og skru op for intensiteten med det ULTIMATIVE musiksæt.",
   "def_index": "69",
   "rarity": {
@@ -1752,6 +1877,7 @@
  {
   "id": "music_kit-69_st",
   "name": "StatTrak™-musiksæt | Denzel Curry, ULTIMATE",
+  "code": "denzelcurry_01",
   "description": "Denzel bringer sin sædvanlige energi til CS:GO, imens han rejser gennem beats fra \\\"trap\\\", jazz og rytmer med tromme og bas. Sættet indeholder Denzels hits \\\"Walkin\\\", \\\"ULTIMATE\\\" m.m., så tag dine nikkelbelagte Berettas i krom frem og skru op for intensiteten med det ULTIMATIVE musiksæt.",
   "def_index": "69",
   "rarity": {
@@ -1766,6 +1892,7 @@
  {
   "id": "music_kit-70",
   "name": "Valve, CS:GO",
+  "code": "valve_01",
   "description": "Standardmusiksættet i CS:GO, introduceret med udgivelsen i 2012.",
   "def_index": "70",
   "rarity": {
@@ -1780,6 +1907,7 @@
  {
   "id": "music_kit-71",
   "name": "Musiksæt | DRYDEN, Feel The Power",
+  "code": "dryden_01",
   "description": "Behøver vi sige mere? Mærk kraften. Lad energien fra den elektroniske musik i dette sæt fylde dig.",
   "def_index": "71",
   "rarity": {
@@ -1794,6 +1922,7 @@
  {
   "id": "music_kit-71_st",
   "name": "StatTrak™-musiksæt | DRYDEN, Feel The Power",
+  "code": "dryden_01",
   "description": "Behøver vi sige mere? Mærk kraften. Lad energien fra den elektroniske musik i dette sæt fylde dig.",
   "def_index": "71",
   "rarity": {
@@ -1808,6 +1937,7 @@
  {
   "id": "music_kit-72",
   "name": "Musiksæt | ISOxo, inhuman",
+  "code": "isoxo_01",
   "description": "Lavet specielt til de kampe, hvor du føler dig... <i>anderledes</i>. Plag dine fjender runde efter runde med det umenneskelige musiksæt fra ISOxo.",
   "def_index": "72",
   "rarity": {
@@ -1822,6 +1952,7 @@
  {
   "id": "music_kit-72_st",
   "name": "StatTrak™-musiksæt | ISOxo, inhuman",
+  "code": "isoxo_01",
   "description": "Lavet specielt til de kampe, hvor du føler dig... <i>anderledes</i>. Plag dine fjender runde efter runde med det umenneskelige musiksæt fra ISOxo.",
   "def_index": "72",
   "rarity": {
@@ -1836,6 +1967,7 @@
  {
   "id": "music_kit-73",
   "name": "Musiksæt | KILL SCRIPT, All Night",
+  "code": "killscript_01",
   "description": "Er du en elsker eller en kriger? Måske begge dele? Fortæl det til hele lobbyen med musiksættet \\\"All Night\\\" fra KILL SCRIPT.",
   "def_index": "73",
   "rarity": {
@@ -1850,6 +1982,7 @@
  {
   "id": "music_kit-73_st",
   "name": "StatTrak™-musiksæt | KILL SCRIPT, All Night",
+  "code": "killscript_01",
   "description": "Er du en elsker eller en kriger? Måske begge dele? Fortæl det til hele lobbyen med musiksættet \\\"All Night\\\" fra KILL SCRIPT.",
   "def_index": "73",
   "rarity": {
@@ -1864,6 +1997,7 @@
  {
   "id": "music_kit-74",
   "name": "Musiksæt | Knock2, Make U SWEAT!",
+  "code": "knock2_02",
   "description": "For spillere, som behandler hver kamp, som om det er en majorfinale, også når der kun er nogle få hundrede niveaupoint på spil. Bring energi og sejre med Knock2's andet musiksæt, \\\"Make U SWEAT!\\\".",
   "def_index": "74",
   "rarity": {
@@ -1878,6 +2012,7 @@
  {
   "id": "music_kit-74_st",
   "name": "StatTrak™-musiksæt | Knock2, Make U SWEAT!",
+  "code": "knock2_02",
   "description": "For spillere, som behandler hver kamp, som om det er en majorfinale, også når der kun er nogle få hundrede niveaupoint på spil. Bring energi og sejre med Knock2's andet musiksæt, \\\"Make U SWEAT!\\\".",
   "def_index": "74",
   "rarity": {
@@ -1892,6 +2027,7 @@
  {
   "id": "music_kit-75",
   "name": "Musiksæt | Rad Cat, Reason",
+  "code": "radcat_01",
   "description": "Nogle gange er det nok at demontere bomben for at blive rundens MVP. Fejr hvert eneste øjeblik – stort eller lille – med musiksættet \\\"Reason\\\" fra Rad Cat.",
   "def_index": "75",
   "rarity": {
@@ -1906,6 +2042,7 @@
  {
   "id": "music_kit-75_st",
   "name": "StatTrak™-musiksæt | Rad Cat, Reason",
+  "code": "radcat_01",
   "description": "Nogle gange er det nok at demontere bomben for at blive rundens MVP. Fejr hvert eneste øjeblik – stort eller lille – med musiksættet \\\"Reason\\\" fra Rad Cat.",
   "def_index": "75",
   "rarity": {
@@ -1920,6 +2057,7 @@
  {
   "id": "music_kit-76",
   "name": "Musiksæt | TWERL, Ekko & Sidetrack, Under Bright Lights",
+  "code": "twerl_01",
   "description": "Den bedste tid at komme til live er i rampelyset. Lad tromme- og basrytmerne i \\\"Under Bright Lights\\\" af TWERL og Ekko & Sidetrack løfte dig og dit hold til nye højder.",
   "def_index": "76",
   "rarity": {
@@ -1934,6 +2072,7 @@
  {
   "id": "music_kit-76_st",
   "name": "StatTrak™-musiksæt | TWERL og Ekko & Sidetrack, Under Bright Lights",
+  "code": "twerl_01",
   "description": "Den bedste tid at komme til live er i rampelyset. Lad tromme- og basrytmerne i \\\"Under Bright Lights\\\" af TWERL og Ekko & Sidetrack løfte dig og dit hold til nye højder.",
   "def_index": "76",
   "rarity": {
@@ -1948,6 +2087,7 @@
  {
   "id": "music_kit-78",
   "name": "Musiksæt | Austin Wintory, The Devil Went Clubbing In Georgia",
+  "code": "austinwintory_04",
   "description": "Austin Wintory indgår en aftale med Satan og sammensætter djævelsk violinmusik med elektroniske clubvibes.",
   "def_index": "78",
   "rarity": {
@@ -1962,6 +2102,7 @@
  {
   "id": "music_kit-78_st",
   "name": "StatTrak™-musiksæk | Austin Wintory, The Devil Went Clubbing In Georgia",
+  "code": "austinwintory_04",
   "description": "Austin Wintory indgår en aftale med Satan og sammensætter djævelsk violinmusik med elektroniske clubvibes.",
   "def_index": "78",
   "rarity": {
@@ -1976,6 +2117,7 @@
  {
   "id": "music_kit-79",
   "name": "Musiksæt | Ben Bromfield, Rabbit Hole",
+  "code": "benbromfield_01",
   "description": "Du er blevet snydt! Oplev dette intense, jazzinspirerede soundtrack fra film- og TV-komponisten Ben Bromfield, og opdag, hvor dybt kaninhullet er...",
   "def_index": "79",
   "rarity": {
@@ -1990,6 +2132,7 @@
  {
   "id": "music_kit-79_st",
   "name": "StatTrak™-musiksæt | Ben Bromfield, Rabbit Hole",
+  "code": "benbromfield_01",
   "description": "Du er blevet snydt! Oplev dette intense, jazzinspirerede soundtrack fra film- og TV-komponisten Ben Bromfield, og opdag, hvor dybt kaninhullet er...",
   "def_index": "79",
   "rarity": {
@@ -2004,6 +2147,7 @@
  {
   "id": "music_kit-80",
   "name": "Musiksæt | Daniel Sadowski, Dead Shot",
+  "code": "danielsadowski_05",
   "description": "Daniel Sadowski inviterer spillere med ind i Dead Shots verden, en blanding af action, hiphop, orkestral og elektronisk musik, retro, følelser og lyddesign. Undgå, at hjernen går i forrådnelse!",
   "def_index": "80",
   "rarity": {
@@ -2018,6 +2162,7 @@
  {
   "id": "music_kit-80_st",
   "name": "StatTrak™-musiksæt | Daniel Sadowski, Dead Shot",
+  "code": "danielsadowski_05",
   "description": "Daniel Sadowski inviterer spillere med ind i Dead Shots verden, en blanding af action, hiphop, orkestral og elektronisk musik, retro, følelser og lyddesign. Undgå, at hjernen går i forrådnelse!",
   "def_index": "80",
   "rarity": {
@@ -2032,6 +2177,7 @@
  {
   "id": "music_kit-81",
   "name": "Musiksæt | Dren McDonald, Coffee! Kofe! Kahveh!",
+  "code": "dren_03",
   "description": "Koffein er din ven. Det er alles ven, undtagen din fjende! \\\"Coffee! Kofe! Kahveh!\\\" er BalkanBalkanBalkan! gademusik fra Dren Mcdonald (\\\"Gunman Taco Truck\\\" og \\\"Death’s Head Demolition\\\") indspillet live i Balkancisco!",
   "def_index": "81",
   "rarity": {
@@ -2046,6 +2192,7 @@
  {
   "id": "music_kit-81_st",
   "name": "StatTrak™-musiksæt | Dren McDonald, Coffee! Kofe! Kahveh!",
+  "code": "dren_03",
   "description": "Koffein er din ven. Det er alles ven, undtagen din fjende! \\\"Coffee! Kofe! Kahveh!\\\" er BalkanBalkanBalkan! gademusik fra Dren Mcdonald (\\\"Gunman Taco Truck\\\" og \\\"Death’s Head Demolition\\\") indspillet live i Balkancisco!",
   "def_index": "81",
   "rarity": {
@@ -2060,6 +2207,7 @@
  {
   "id": "music_kit-82",
   "name": "Musiksæt | Matt Levine, Agency",
+  "code": "mattlevine_02",
   "description": "Træd ind i spionagens dødsens farlige verden med musiksættet \\\"Agency\\\" lavet af komponisten Matt Levine.",
   "def_index": "82",
   "rarity": {
@@ -2074,6 +2222,7 @@
  {
   "id": "music_kit-82_st",
   "name": "StatTrak™-musiksæt | Matt Levine, Agency",
+  "code": "mattlevine_02",
   "description": "Træd ind i spionagens dødsens farlige verden med musiksættet \\\"Agency\\\" lavet af komponisten Matt Levine.",
   "def_index": "82",
   "rarity": {
@@ -2088,6 +2237,7 @@
  {
   "id": "music_kit-83",
   "name": "Musiksæt | Sam Marshall, Clutch",
+  "code": "sammarshall_02",
   "description": "\\\"Clutch\\\", den uautoriserede efterfølger til \\\"Bodacious\\\", er en feberdrømsagtig cyberfunk-vederstyggelighed, som er genoplivet af Sam Marshall gennem alkymi og mystiske ritualer.",
   "def_index": "83",
   "rarity": {
@@ -2102,6 +2252,7 @@
  {
   "id": "music_kit-83_st",
   "name": "StatTrak™-musiksæt | Sam Marshall, Clutch",
+  "code": "sammarshall_02",
   "description": "\\\"Clutch\\\", den uautoriserede efterfølger til \\\"Bodacious\\\", er en feberdrømsagtig cyberfunk-vederstyggelighed, som er genoplivet af Sam Marshall gennem alkymi og mystiske ritualer.",
   "def_index": "83",
   "rarity": {
@@ -2116,6 +2267,7 @@
  {
   "id": "music_kit-84",
   "name": "Musiksæt | Tim Huling, Devil's Paintbrush",
+  "code": "timhuling_02",
   "description": "Få adrenalinet op at køre med \\\"Devil's Paintbrush\\\" lavet af Tim Huling, en højenergisk groove-metaloplevelse.",
   "def_index": "84",
   "rarity": {
@@ -2130,6 +2282,7 @@
  {
   "id": "music_kit-84_st",
   "name": "StatTrak™-musiksæt | Tim Huling, Devil's Paintbrush",
+  "code": "timhuling_02",
   "description": "Få adrenalinet op at køre med \\\"Devil's Paintbrush\\\" lavet af Tim Huling, en højenergisk groove-metaloplevelse.",
   "def_index": "84",
   "rarity": {
@@ -2144,6 +2297,7 @@
  {
   "id": "music_kit-85",
   "name": "Musiksæt | Tree Adams, Seventh Moon",
+  "code": "treeadams_01",
   "description": "Her på \\\"Seventh Moon\\\" sammensætter Tree Adams en fed blanding af intergalaktisk funk med drivende kampmusik.",
   "def_index": "85",
   "rarity": {
@@ -2158,6 +2312,7 @@
  {
   "id": "music_kit-85_st",
   "name": "StatTrak™-musiksæt | Tree Adams, Seventh Moon",
+  "code": "treeadams_01",
   "description": "Her på \\\"Seventh Moon\\\" sammensætter Tree Adams en fed blanding af intergalaktisk funk med drivende kampmusik.",
   "def_index": "85",
   "rarity": {
@@ -2172,6 +2327,7 @@
  {
   "id": "music_kit-86",
   "name": "Musiksæt | Perfekt World, Ay Hey",
+  "code": "perfectworld_02",
   "description": "\\\"Ay Hey\\\" kombinerer traditionel kinesisk folkemusik og elektronisk musik og byder på en levende historiefortælling og energiske beats for at forene spillere i alle aldre og med forskellige baggrunde. Med sin livlige rytme, der matcher spillernes entusiasme for spillet, fanger \\\"Ay Hey\\\" forskellige komiske og legende optrin i kampen.",
   "def_index": "86",
   "rarity": {
@@ -2186,6 +2342,7 @@
  {
   "id": "music_kit-86_st",
   "name": "StatTrak™-musiksæt | Perfect World, Ay Hey",
+  "code": "perfectworld_02",
   "description": "\\\"Ay Hey\\\" kombinerer traditionel kinesisk folkemusik og elektronisk musik og byder på en levende historiefortælling og energiske beats for at forene spillere i alle aldre og med forskellige baggrunde. Med sin livlige rytme, der matcher spillernes entusiasme for spillet, fanger \\\"Ay Hey\\\" forskellige komiske og legende optrin i kampen.",
   "def_index": "86",
   "rarity": {
@@ -2200,6 +2357,7 @@
  {
   "id": "music_kit-87",
   "name": "Musiksæt | Adam Beyer, Red Room",
+  "code": "adambeyer_01",
   "description": "Den svenske technolegende Adam Beyer bringer dig dette drømmeagtige musiksæt, som hjælper dig med at male fjenderne røde.",
   "def_index": "87",
   "rarity": {
@@ -2214,6 +2372,7 @@
  {
   "id": "music_kit-87_st",
   "name": "StatTrak™-musiksæt | Adam Beyer, Red Room",
+  "code": "adambeyer_01",
   "description": "Den svenske technolegende Adam Beyer bringer dig dette drømmeagtige musiksæt, som hjælper dig med at male fjenderne røde.",
   "def_index": "87",
   "rarity": {
@@ -2228,6 +2387,7 @@
  {
   "id": "music_kit-88",
   "name": "Musiksæt | Ghost, Skeletá",
+  "code": "ghost_01",
   "description": "MESSAGE FROM THE CLERGY: Papa V Perpetua har indtaget Counter-Strike med et glorværdigt heavy metal-skue. Slip væk fra hverdagens slid og slæb, mens du skyder løs og beder til den uhellige stol.",
   "def_index": "88",
   "rarity": {
@@ -2242,6 +2402,7 @@
  {
   "id": "music_kit-88_st",
   "name": "StatTrak™-musiksæt | Ghost, Skeletá",
+  "code": "ghost_01",
   "description": "MESSAGE FROM THE CLERGY: Papa V Perpetua har indtaget Counter-Strike med et glorværdigt heavy metal-skue. Slip væk fra hverdagens slid og slæb, mens du skyder løs og beder til den uhellige stol.",
   "def_index": "88",
   "rarity": {
@@ -2256,6 +2417,7 @@
  {
   "id": "music_kit-89",
   "name": "Musiksæt | HEALTH, RAT WARS",
+  "code": "health_01",
   "description": "Oplev HEALTH i Counter-Strike. Grib til våben, og nyd den brutale, industrielle metallyd i RAT WARS.",
   "def_index": "89",
   "rarity": {
@@ -2270,6 +2432,7 @@
  {
   "id": "music_kit-89_st",
   "name": "StatTrak™-musiksæt | HEALTH, RAT WARS",
+  "code": "health_01",
   "description": "Oplev HEALTH i Counter-Strike. Grib til våben, og nyd den brutale, industrielle metallyd i RAT WARS.",
   "def_index": "89",
   "rarity": {
@@ -2284,6 +2447,7 @@
  {
   "id": "music_kit-90",
   "name": "Musiksæt | James and the Cold Gun, Chewing Glass",
+  "code": "jamesandthecoldgun_01",
   "description": "Den walisiske rockduo James and the Cold Gun slipper ren, ufiltreret energi løs og blander klassisk punkattitude med moderne alternativ rock til et brandvarmt musiksæt.",
   "def_index": "90",
   "rarity": {
@@ -2298,6 +2462,7 @@
  {
   "id": "music_kit-90_st",
   "name": "StatTrak™-musiksæt | James and the Cold Gun, Chewing Glass",
+  "code": "jamesandthecoldgun_01",
   "description": "Den walisiske rockduo James and the Cold Gun slipper ren, ufiltreret energi løs og blander klassisk punkattitude med moderne alternativ rock til et brandvarmt musiksæt.",
   "def_index": "90",
   "rarity": {
@@ -2312,6 +2477,7 @@
  {
   "id": "music_kit-91",
   "name": "Musiksæt | Jonathan Young, Starship Velociraptor",
+  "code": "jonathanyoung_01",
   "description": "Du mangler power metal med rumpirater, når du spiller. Tag en tur på Starship Velociraptor, og lad lydene fra Jonathan Youngs album, som henter inspiration fra anime og computerspil, løfte dine kampe til et helt nyt niveau.",
   "def_index": "91",
   "rarity": {
@@ -2326,6 +2492,7 @@
  {
   "id": "music_kit-91_st",
   "name": "StatTrak™-musiksæt | Jonathan Young, Starship Velociraptor",
+  "code": "jonathanyoung_01",
   "description": "Du mangler power metal med rumpirater, når du spiller. Tag en tur på Starship Velociraptor, og lad lydene fra Jonathan Youngs album, som henter inspiration fra anime og computerspil, løfte dine kampe til et helt nyt niveau.",
   "def_index": "91",
   "rarity": {
@@ -2340,6 +2507,7 @@
  {
   "id": "music_kit-92",
   "name": "Musiksæt | Juelz, Floorspace",
+  "code": "juelz_02",
   "description": "Mangler du gulvplads? Dette massive musiksæt fra Juelz’ debutalbum byder på neo-rave-synths, grynet bas og hårde trommer. Floorspace er blevet gentænkt til Counter-Strike 2, og MVP-sangen \\\"Gossip\\\" får spillere til at ville opsætte – og derefter nedrive – en væg af LED.",
   "def_index": "92",
   "rarity": {
@@ -2354,6 +2522,7 @@
  {
   "id": "music_kit-92_st",
   "name": "StatTrak™-musiksæt | Juelz, Floorspace",
+  "code": "juelz_02",
   "description": "Mangler du gulvplads? Dette massive musiksæt fra Juelz’ debutalbum byder på neo-rave-synths, grynet bas og hårde trommer. Floorspace er blevet gentænkt til Counter-Strike 2, og MVP-sangen \\\"Gossip\\\" får spillere til at ville opsætte – og derefter nedrive – en væg af LED.",
   "def_index": "92",
   "rarity": {
@@ -2368,6 +2537,7 @@
  {
   "id": "music_kit-93",
   "name": "Musiksæt | Killer Mike, MICHAEL",
+  "code": "killermike_01",
   "description": "Nyd en tredobbelt grammyvinder i Counter-Strike. Killer Mikes stemme på dette hiphopalbum er med til at holde dig motiveret, mens du stiger i graderne og forbedrer dine færdigheder.",
   "def_index": "93",
   "rarity": {
@@ -2382,6 +2552,7 @@
  {
   "id": "music_kit-93_st",
   "name": "StatTrak™-musiksæt | Killer Mike, MICHAEL",
+  "code": "killermike_01",
   "description": "Nyd en tredobbelt grammyvinder i Counter-Strike. Killer Mikes stemme på dette hiphopalbum er med til at holde dig motiveret, mens du stiger i graderne og forbedrer dine færdigheder.",
   "def_index": "93",
   "rarity": {
@@ -2396,6 +2567,7 @@
  {
   "id": "music_kit-94",
   "name": "Musiksæt | PVRIS, Evergreen",
+  "code": "pvris_01",
   "description": "Det eneste, vi elsker mere end en god fjende? Et godt soundtrack. Det nye PVRIS-musiksæt hyper dit hold op, så sejrsrækken kan fortsætte.",
   "def_index": "94",
   "rarity": {
@@ -2410,6 +2582,7 @@
  {
   "id": "music_kit-94_st",
   "name": "StatTrak™-musiksæt | PVRIS, Evergreen",
+  "code": "pvris_01",
   "description": "Det eneste, vi elsker mere end en god fjende? Et godt soundtrack. Det nye PVRIS-musiksæt hyper dit hold op, så sejrsrækken kan fortsætte.",
   "def_index": "94",
   "rarity": {
@@ -2424,6 +2597,7 @@
  {
   "id": "music_kit-95",
   "name": "Musiksæt | Selective Response, No Love Only Pleasure",
+  "code": "selectiveresponse_01",
   "description": "Udlev dine drømme med dette dynamiske og energifyldte musiksæt fra det amerikanske technoikon Selective Response. Fuldt opladet og klar til action.",
   "def_index": "95",
   "rarity": {
@@ -2438,6 +2612,7 @@
  {
   "id": "music_kit-95_st",
   "name": "StatTrak™-musiksæt | Selective Response, No Love Only Pleasure",
+  "code": "selectiveresponse_01",
   "description": "Udlev dine drømme med dette dynamiske og energifyldte musiksæt fra det amerikanske technoikon Selective Response. Fuldt opladet og klar til action.",
   "def_index": "95",
   "rarity": {
@@ -2452,6 +2627,7 @@
  {
   "id": "music_kit-96",
   "name": "Musiksæt | Tigercub, The Perfume of Decay",
+  "code": "tigercub_01",
   "description": "Det britiske rockband Tigercub har en grynet, melodisk kraft, som blander rå alternativ rock-intensitet med et tungt moderne touch og giver et dundrende musiksæt.",
   "def_index": "96",
   "rarity": {
@@ -2466,6 +2642,7 @@
  {
   "id": "music_kit-96_st",
   "name": "StatTrak™-musiksæt | Tigercub, The Perfume of Decay",
+  "code": "tigercub_01",
   "description": "Det britiske rockband Tigercub har en grynet, melodisk kraft, som blander rå alternativ rock-intensitet med et tungt moderne touch og giver et dundrende musiksæt.",
   "def_index": "96",
   "rarity": {

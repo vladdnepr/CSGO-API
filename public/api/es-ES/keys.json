@@ -2,6 +2,7 @@
  {
   "id": "key-generic_valve_key",
   "name": "Llave de caja de CS:GO",
+  "code": "#CSGO_Tool_WeaponCase_Key",
   "description": "Esta llave abrirá cualquier caja de armas de Valve. Las que no son de Valve (por ejemplo, el maletín eSports) necesitan su propia llave para abrirlas.",
   "crates": [
    {
@@ -32,6 +33,7 @@
  {
   "id": "key-1204",
   "name": "Llave eSports",
+  "code": "#CSGO_esports_crate_key_1",
   "description": "Esta llave abrirá el maletín eSports.\\n\\nParte de los beneficios por cada venta de esta llave irán destinados a uno de los torneos de CS:GO llevados a cabo por la comunidad. Permaneced atentos a próximos anuncios.",
   "crates": [
    {
@@ -57,6 +59,7 @@
  {
   "id": "key-1212",
   "name": "Llave de cápsula de CS:GO",
+  "code": "#CSGO_sticker_crate_key_1",
   "description": "Esta llave abrirá cualquier cápsula de pegatinas de Valve.",
   "crates": [
    {
@@ -77,6 +80,7 @@
  {
   "id": "key-1214",
   "name": "Llave de caja de la Ofensiva Invernal",
+  "code": "#CSGO_community_crate_key_1",
   "description": "Esta llave solo abre cajas de la Ofensiva Invernal.",
   "crates": [
    {
@@ -92,6 +96,7 @@
  {
   "id": "key-1303",
   "name": "Llave de caja de la Operación Phoenix",
+  "code": "#CSGO_community_crate_key_2",
   "description": "Esta llave solo abre cajas de la Operación Phoenix.",
   "crates": [
    {
@@ -107,6 +112,7 @@
  {
   "id": "key-1304",
   "name": "Llave de cápsula de pegatinas de la comunidad 1",
+  "code": "#CSGO_sticker_crate_key_community01",
   "description": "Esta llave abre la caja de pegatinas de la comunidad 1.\\n\\nParte de los beneficios por cada venta de esta llave irán destinados a los creadores de la pegatina.",
   "crates": [
    {
@@ -122,6 +128,7 @@
  {
   "id": "key-1305",
   "name": "Llave de caja del Cazador",
+  "code": "#CSGO_community_crate_key_3",
   "description": "Esta llave solo abre cajas del Cazador.",
   "crates": [
    {
@@ -137,6 +144,7 @@
  {
   "id": "key-1309",
   "name": "Llave de caja de la Operación Breakout",
+  "code": "#CSGO_community_crate_key_4",
   "description": "Esta llave solo abre cajas de la Operación Breakout.",
   "crates": [
    {
@@ -152,6 +160,7 @@
  {
   "id": "key-1322",
   "name": "Llave de caja de la Operación Vanguard",
+  "code": "#CSGO_community_crate_key_5",
   "description": "Esta llave solo abre cajas de la Operación Vanguard.",
   "crates": [
    {
@@ -167,6 +176,7 @@
  {
   "id": "key-1323",
   "name": "Llave de caja Croma",
+  "code": "#CSGO_community_crate_key_6",
   "description": "Esta llave solo abre cajas Croma.",
   "crates": [
    {
@@ -182,6 +192,7 @@
  {
   "id": "key-1325",
   "name": "Llave de caja Croma 2",
+  "code": "#CSGO_community_crate_key_7",
   "description": "Esta llave solo abre cajas Croma 2.",
   "crates": [
    {
@@ -197,6 +208,7 @@
  {
   "id": "key-1330",
   "name": "Llave de caja Alfanje",
+  "code": "#CSGO_community_crate_key_8",
   "description": "Esta llave solo abre cajas Alfanje.",
   "crates": [
    {
@@ -212,6 +224,7 @@
  {
   "id": "key-1333",
   "name": "Llave de caja Sombría",
+  "code": "#CSGO_community_crate_key_9",
   "description": "Esta llave solo abre cajas Sombrías.",
   "crates": [
    {
@@ -227,6 +240,7 @@
  {
   "id": "key-1334",
   "name": "Llave de caja Revólver",
+  "code": "#CSGO_crate_community_10_key",
   "description": "Esta llave solo abre cajas Revólver.",
   "crates": [
    {
@@ -242,6 +256,7 @@
  {
   "id": "key-1347",
   "name": "Llave de caja Croma 3",
+  "code": "#CSGO_crate_key_community_12",
   "description": "Esta llave solo abre cajas Croma 3.",
   "crates": [
    {
@@ -257,6 +272,7 @@
  {
   "id": "key-1350",
   "name": "Llave de caja Gamma",
+  "code": "#CSGO_crate_key_community_13",
   "description": "Esta llave solo abre cajas Gamma.",
   "crates": [
    {
@@ -272,6 +288,7 @@
  {
   "id": "key-1351",
   "name": "Llave de caja Gamma 2",
+  "code": "#CSGO_crate_key_gamma_2",
   "description": "Esta llave solo abre cajas Gamma 2.",
   "crates": [
    {
@@ -287,6 +304,7 @@
  {
   "id": "key-1356",
   "name": "Llave de caja de Guantes",
+  "code": "#CSGO_crate_key_community_15",
   "description": "Esta llave solo abre cajas de Guantes.",
   "crates": [
    {
@@ -302,6 +320,7 @@
  {
   "id": "key-1364",
   "name": "Llave de caja Espectro",
+  "code": "#CSGO_crate_key_community_16",
   "description": "Esta llave solo abre cajas Espectro.",
   "crates": [
    {
@@ -317,6 +336,7 @@
  {
   "id": "key-1365",
   "name": "Llave de caja de la Operación Hydra",
+  "code": "#CSGO_crate_key_community_17",
   "description": "Esta llave solo abre cajas de la Operación Hydra.",
   "crates": [
    {
@@ -332,6 +352,7 @@
  {
   "id": "key-1366",
   "name": "Llave de caja Espectro 2",
+  "code": "#CSGO_crate_key_community_18",
   "description": "Esta llave solo abre cajas Espectro 2.",
   "crates": [
    {
@@ -347,6 +368,7 @@
  {
   "id": "key-1373",
   "name": "Llave de caja Clutch",
+  "code": "#CSGO_crate_key_community_19",
   "description": "Esta llave solo abre cajas Clutch.",
   "crates": [
    {
@@ -362,6 +384,7 @@
  {
   "id": "key-1374",
   "name": "Llave de caja Horizonte",
+  "code": "#CSGO_crate_key_community_20",
   "description": "Esta llave solo abre cajas Horizonte.",
   "crates": [
    {
@@ -377,6 +400,7 @@
  {
   "id": "key-1375",
   "name": "Llave de caja Danger Zone",
+  "code": "#CSGO_crate_key_community_21",
   "description": "Esta llave solo abre cajas Danger Zone.",
   "crates": [
    {
@@ -392,6 +416,7 @@
  {
   "id": "key-1383",
   "name": "Llave de caja Prisma",
+  "code": "#CSGO_crate_key_community_22",
   "description": "Esta llave solo abre cajas Prisma.",
   "crates": [
    {
@@ -407,6 +432,7 @@
  {
   "id": "key-1384",
   "name": "Llave de caja de Shattered Web",
+  "code": "#CSGO_crate_key_community_23",
   "description": "Esta llave solo abre cajas de Shattered Web.",
   "crates": [
    {
@@ -422,6 +448,7 @@
  {
   "id": "key-1385",
   "name": "Llave de caja CS20",
+  "code": "#CSGO_crate_key_community_24",
   "description": "Esta llave solo abre cajas CS20.",
   "crates": [
    {
@@ -437,6 +464,7 @@
  {
   "id": "key-1386",
   "name": "Llave de caja Prisma 2",
+  "code": "#CSGO_crate_key_community_25",
   "description": "Esta llave solo abre cajas Prisma 2.",
   "crates": [
    {
@@ -452,6 +480,7 @@
  {
   "id": "key-1387",
   "name": "Llave de caja Fractura",
+  "code": "#CSGO_crate_key_community_26",
   "description": "Esta llave solo abre cajas Fractura.",
   "crates": [
    {
@@ -467,6 +496,7 @@
  {
   "id": "key-1388",
   "name": "Llave de caja de la Operación Broken Fang",
+  "code": "#CSGO_crate_key_community_27",
   "description": "Esta llave solo abre cajas de la Operación Broken Fang.",
   "crates": [
    {
@@ -482,6 +512,7 @@
  {
   "id": "key-1389",
   "name": "Llave de caja Picadura",
+  "code": "#CSGO_crate_key_community_28",
   "description": "Esta llave solo abre cajas Picadura.",
   "crates": [
    {
@@ -497,6 +528,7 @@
  {
   "id": "key-1390",
   "name": "Llave de caja de la Operación Riptide",
+  "code": "#CSGO_crate_key_community_29",
   "description": "Esta llave solo abre cajas de la Operación Riptide.",
   "crates": [
    {
@@ -512,6 +544,7 @@
  {
   "id": "key-1391",
   "name": "Llave de caja Sueños y Pesadillas",
+  "code": "#CSGO_crate_key_community_30",
   "description": "Esta llave solo abre cajas Sueños y Pesadillas.",
   "crates": [
    {
@@ -527,6 +560,7 @@
  {
   "id": "key-1392",
   "name": "Llave de caja Retroceso",
+  "code": "#CSGO_crate_key_community_31",
   "description": "Esta llave solo abre cajas Retroceso",
   "crates": [
    {
@@ -542,6 +576,7 @@
  {
   "id": "key-1393",
   "name": "Llave de caja Revolución",
+  "code": "#CSGO_crate_key_community_32",
   "description": "Esta llave solo abre cajas Revolución",
   "crates": [
    {
@@ -557,6 +592,7 @@
  {
   "id": "key-1394",
   "name": "Llave de caja Kilovatio",
+  "code": "#CSGO_crate_key_community_33",
   "description": "Esta llave solo abre cajas Kilovatio.",
   "crates": [
    {
@@ -572,6 +608,7 @@
  {
   "id": "key-7000",
   "name": "Llave de caja de la Operación Wildfire",
+  "code": "#CSGO_crate_key_community_11",
   "description": "Esta llave solo abre cajas de la Operación Wildfire.",
   "crates": [
    {
@@ -587,6 +624,7 @@
  {
   "id": "key-7002",
   "name": "Llave de caja Galería",
+  "code": "#CSGO_crate_key_community_34",
   "description": "Esta llave solo abre cajas Galería",
   "crates": [
    {
@@ -602,6 +640,7 @@
  {
   "id": "key-7008",
   "name": "Llave de caja Fiebre",
+  "code": "#CSGO_crate_key_community_35",
   "description": "Esta llave solo abre cajas Fiebre",
   "crates": [
    {

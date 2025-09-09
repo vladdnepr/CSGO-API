@@ -2,6 +2,7 @@
  {
   "id": "patch-4550",
   "name": "Écusson | Banane folle",
+  "code": "patch_banana",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Agent pour comparaison</i>",
   "def_index": "4550",
   "rarity": {
@@ -15,6 +16,7 @@
  {
   "id": "patch-4551",
   "name": "Écusson | Le Boss",
+  "code": "patch_boss",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Heavy est l´agent qui porte la couronne</i>",
   "def_index": "4551",
   "rarity": {
@@ -28,6 +30,7 @@
  {
   "id": "patch-4552",
   "name": "Écusson | Chicken Lover",
+  "code": "patch_chickenlover",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Merci de ne pas les avoir sacrifiés</i>",
   "def_index": "4552",
   "rarity": {
@@ -41,6 +44,7 @@
  {
   "id": "patch-4553",
   "name": "Écusson | Bienvenue en Enfer",
+  "code": "patch_clutch",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>4 victimes est la norme pour tout agent portant cet écusson</i>",
   "def_index": "4553",
   "rarity": {
@@ -54,6 +58,7 @@
  {
   "id": "patch-4554",
   "name": "Écusson | Dragon",
+  "code": "patch_dragon",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente un dragon de profil avec l'emblématique AK-47</i>",
   "def_index": "4554",
   "rarity": {
@@ -67,6 +72,7 @@
  {
   "id": "patch-4555",
   "name": "Écusson | Facile comme bonjour",
+  "code": "patch_easypeasy",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson a réussi à échapper au contrôle de qualité. La faute « SQEEZY » n'a pas été corrigée</i>",
   "def_index": "4555",
   "rarity": {
@@ -80,6 +86,7 @@
  {
   "id": "patch-4556",
   "name": "Écusson | Rage",
+  "code": "patch_fury",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente la rage, la colère ou la fureur</i>",
   "def_index": "4556",
   "rarity": {
@@ -93,6 +100,7 @@
  {
   "id": "patch-4557",
   "name": "Écusson | Hurlement",
+  "code": "patch_howl",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson vaut son pesant d'or, de rouge et d'orange</i>",
   "def_index": "4557",
   "rarity": {
@@ -106,6 +114,7 @@
  {
   "id": "patch-4558",
   "name": "Écusson | Koï",
+  "code": "patch_koi",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente deux carpes koïs dans une eau bleue tourbillonnante</i>",
   "def_index": "4558",
   "rarity": {
@@ -119,6 +128,7 @@
  {
   "id": "patch-4559",
   "name": "Écusson | Longévité",
+  "code": "patch_longevity",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson rouge et blanc représente une version artistique du logo « CSGO »</i>",
   "def_index": "4559",
   "rarity": {
@@ -132,6 +142,7 @@
  {
   "id": "patch-4560",
   "name": "Écusson | Wildfire",
+  "code": "patch_wildfire",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de l'Opération Wildfire, qui a été dévoilée le 17 février 2016</i>",
   "def_index": "4560",
   "rarity": {
@@ -145,6 +156,7 @@
  {
   "id": "patch-4561",
   "name": "Écusson | Vigilance",
+  "code": "patch_vigilance",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Un écusson pour le lurker ; un coéquipier qui veille au grain</i>",
   "def_index": "4561",
   "rarity": {
@@ -158,6 +170,7 @@
  {
   "id": "patch-4562",
   "name": "Écusson | Bloodhound",
+  "code": "patch_bloodhound",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de l'Opération Bloodhound, qui a été dévoilée le 26 mai 2015</i>",
   "def_index": "4562",
   "rarity": {
@@ -171,6 +184,7 @@
  {
   "id": "patch-4563",
   "name": "Écusson | Bravo",
+  "code": "patch_bravo",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de l'Opération Bravo, qui a été dévoilée le 19 septembre 2013</i>",
   "def_index": "4563",
   "rarity": {
@@ -184,6 +198,7 @@
  {
   "id": "patch-4564",
   "name": "Écusson | Breakout",
+  "code": "patch_breakout",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de l'Opération Breakout, qui a été dévoilée le 1er juillet 2014</i>",
   "def_index": "4564",
   "rarity": {
@@ -197,6 +212,7 @@
  {
   "id": "patch-4565",
   "name": "Écusson | Zone de danger",
+  "code": "patch_dangerzone",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de Zone de Danger, qui a été dévoilée le 6 décembre 2018</i>",
   "def_index": "4565",
   "rarity": {
@@ -210,6 +226,7 @@
  {
   "id": "patch-4566",
   "name": "Écusson | Hydra",
+  "code": "patch_hydra",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de l'Opération Hydra, qui a été dévoilée le 23 mai 2017</i>",
   "def_index": "4566",
   "rarity": {
@@ -223,6 +240,7 @@
  {
   "id": "patch-4567",
   "name": "Écusson | Revanche",
+  "code": "patch_payback",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de l'Opération Payback, qui a été dévoilée le 25 avril 2013</i>",
   "def_index": "4567",
   "rarity": {
@@ -236,6 +254,7 @@
  {
   "id": "patch-4568",
   "name": "Écusson | Phoenix",
+  "code": "patch_phoenix",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de l'Opération Phoenix, qui a été dévoilée le 20 février 2014</i>",
   "def_index": "4568",
   "rarity": {
@@ -249,6 +268,7 @@
  {
   "id": "patch-4569",
   "name": "Écusson | Shattered Web",
+  "code": "patch_shatteredweb",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de l'Opération Shattered Web, qui a été dévoilée le 18 novembre 2019</i>",
   "def_index": "4569",
   "rarity": {
@@ -262,6 +282,7 @@
  {
   "id": "patch-4570",
   "name": "Écusson | Vanguard",
+  "code": "patch_vanguard",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson représente l'iconographie de l'Opération Vanguard, qui a été dévoilée le 11 novembre 2014</i>",
   "def_index": "4570",
   "rarity": {
@@ -275,6 +296,7 @@
  {
   "id": "patch-4571",
   "name": "Écusson | Argent (métal)",
+  "code": "patch_silver",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Pour celles et ceux qui font leurs premiers pas sur la route qui mène à l'élite mondiale.</i>",
   "def_index": "4571",
   "rarity": {
@@ -288,6 +310,7 @@
  {
   "id": "patch-4572",
   "name": "Écusson | Nova d'or I (métal)",
+  "code": "patch_goldnova1",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Vous venez tout juste de sortir de l'infanterie d'argent ? Il y a encore du boulot.</i>",
   "def_index": "4572",
   "rarity": {
@@ -301,6 +324,7 @@
  {
   "id": "patch-4575",
   "name": "Écusson | Maîtrise nova d'or (métal)",
+  "code": "patch_goldnovamaster",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Et tu croyais que dépasser l'argent était difficile…</i>",
   "def_index": "4575",
   "rarity": {
@@ -314,6 +338,7 @@
  {
   "id": "patch-4576",
   "name": "Écusson | Maîtrise sentinelle I (métal)",
+  "code": "patch_masterguardian1",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Tu as échappé à la nova d'or ? C'est bien, tu commences à apprendre.</i>",
   "def_index": "4576",
   "rarity": {
@@ -327,6 +352,7 @@
  {
   "id": "patch-4578",
   "name": "Écusson | Maîtrise sentinelle d'élite (métal)",
+  "code": "patch_masterguardianelite",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Tissé par des mains expertes, le fil d'argent sur cet écusson MGE contraste avec le fond bleu marine.</i>",
   "def_index": "4578",
   "rarity": {
@@ -340,6 +366,7 @@
  {
   "id": "patch-4579",
   "name": "Écusson | Maîtrise sentinelle distinguée ★ (métal)",
+  "code": "patch_dmg",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Pour parvenir au grade de MGD, il faut se surpasser, s'adapter et travailler ensemble. Continue ton ascension.</i>",
   "def_index": "4579",
   "rarity": {
@@ -353,6 +380,7 @@
  {
   "id": "patch-4581",
   "name": "Écusson | Maîtrise aigle légendaire ★ (métal)",
+  "code": "patch_legendaryeaglemaster",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Tu es presque au sommet, mais les adversaires que tu défieras bientôt ne te montreront aucune pitié.</i>",
   "def_index": "4581",
   "rarity": {
@@ -366,6 +394,7 @@
  {
   "id": "patch-4582",
   "name": "Écusson | Maîtrise suprême de première classe (métal)",
+  "code": "patch_supreme",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson suprême met en scène un globe en forme de cœur avec des motifs rouges et bleus.</i>",
   "def_index": "4582",
   "rarity": {
@@ -379,6 +408,7 @@
  {
   "id": "patch-4583",
   "name": "Écusson | L'élite mondiale ★ (métal)",
+  "code": "patch_globalelite",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Félicitations pour le chemin parcouru. Le vrai défi va pouvoir commencer.</i>",
   "def_index": "4583",
   "rarity": {
@@ -392,6 +422,7 @@
  {
   "id": "patch-4584",
   "name": "Écusson | Maîtrise sentinelle distinguée (métal)",
+  "code": "patch_dmg2",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Pour parvenir au grade de MGD, il faut se surpasser, s'adapter et travailler ensemble. Continue ton ascension.</i>",
   "def_index": "4584",
   "rarity": {
@@ -405,6 +436,7 @@
  {
   "id": "patch-4585",
   "name": "Écusson | Aigle légendaire (métal)",
+  "code": "patch_legendaryeagle2",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson de l'aigle légendaire est orné d'une paires d'ailes dorées.</i>",
   "def_index": "4585",
   "rarity": {
@@ -418,6 +450,7 @@
  {
   "id": "patch-4586",
   "name": "Écusson | Maîtrise aigle légendaire (métal)",
+  "code": "patch_legendaryeaglemaster2",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Tu es presque au sommet, mais les adversaires que tu défieras bientôt ne te montreront aucune pitié.</i>",
   "def_index": "4586",
   "rarity": {
@@ -431,6 +464,7 @@
  {
   "id": "patch-4587",
   "name": "Écusson | Démon d'argent (métal)",
+  "code": "patch_silver_demon",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>« L'enfer d'argent » n'est pas un endroit, c'est un état d'esprit, et on peut le quitter n'importe quand.</i>",
   "def_index": "4587",
   "rarity": {
@@ -444,6 +478,7 @@
  {
   "id": "patch-4588",
   "name": "Écusson | Maîtrise suprême (métal)",
+  "code": "patch_suprememaster",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cet écusson MSPC représente une unité antiterroriste ailée flanquée de six étoiles.</i>",
   "def_index": "4588",
   "rarity": {
@@ -457,6 +492,7 @@
  {
   "id": "patch-4589",
   "name": "Écusson | Alyx",
+  "code": "patch_hlalyx_alyx",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4589",
   "rarity": {
@@ -470,6 +506,7 @@
  {
   "id": "patch-4591",
   "name": "Écusson | Subsistance !",
+  "code": "patch_hlalyx_headcrab_green",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4591",
   "rarity": {
@@ -483,6 +520,7 @@
  {
   "id": "patch-4592",
   "name": "Écusson | Vortigaunt",
+  "code": "patch_hlalyx_vort",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4592",
   "rarity": {
@@ -496,6 +534,7 @@
  {
   "id": "patch-4593",
   "name": "Écusson | Glyphe de crabe de tête",
+  "code": "patch_hlalyx_headcrab_teal",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4593",
   "rarity": {
@@ -509,6 +548,7 @@
  {
   "id": "patch-4594",
   "name": "Écusson | Lambda cuivré",
+  "code": "patch_hlalyx_lambda_copper",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4594",
   "rarity": {
@@ -522,6 +562,7 @@
  {
   "id": "patch-4595",
   "name": "Écusson | Santé",
+  "code": "patch_hlalyx_hearts",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4595",
   "rarity": {
@@ -535,6 +576,7 @@
  {
   "id": "patch-4596",
   "name": "Écusson | Masque du Cartel",
+  "code": "patch_hlalyx_combine_front",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4596",
   "rarity": {
@@ -548,6 +590,7 @@
  {
   "id": "patch-4597",
   "name": "Écusson | Black Mesa",
+  "code": "patch_hlalyx_blackmesa",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4597",
   "rarity": {
@@ -561,6 +604,7 @@
  {
   "id": "patch-4598",
   "name": "Écusson | CMB",
+  "code": "patch_hlalyx_cmb",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4598",
   "rarity": {
@@ -574,6 +618,7 @@
  {
   "id": "patch-4599",
   "name": "Écusson | Lambda",
+  "code": "patch_hlalyx_lambda_orange",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4599",
   "rarity": {
@@ -587,6 +632,7 @@
  {
   "id": "patch-4600",
   "name": "Écusson | Cité 17",
+  "code": "patch_hlalyx_c17",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br>Écusson à l'effigie de Half-Life: Alyx",
   "def_index": "4600",
   "rarity": {
@@ -600,6 +646,7 @@
  {
   "id": "patch-4697",
   "name": "Écusson | L'élite mondiale (métal)",
+  "code": "patch_globalelite2",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Félicitations pour le chemin parcouru. Le vrai défi va pouvoir commencer.</i>",
   "def_index": "4697",
   "rarity": {
@@ -613,6 +660,7 @@
  {
   "id": "patch-4699",
   "name": "Écusson | Maîtrise sentinelle I (métal)",
+  "code": "patch_masterguardian3",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Tu as échappé à la nova d'or ? C'est bien, tu commences à apprendre.</i>",
   "def_index": "4699",
   "rarity": {
@@ -626,6 +674,7 @@
  {
   "id": "patch-4700",
   "name": "Écusson | Nova d'or (métal)",
+  "code": "patch_goldnova4",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Vous venez tout juste de sortir de l'infanterie d'argent ? Il y a encore du boulot.</i>",
   "def_index": "4700",
   "rarity": {
@@ -639,6 +688,7 @@
  {
   "id": "patch-4937",
   "name": "Écusson | Espoir envolé",
+  "code": "patch_op11_abandon_hope",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>À toi qui oses entrer…</i>",
   "def_index": "4937",
   "rarity": {
@@ -652,6 +702,7 @@
  {
   "id": "patch-4938",
   "name": "Écusson | Levez les ancres",
+  "code": "patch_op11_anchor",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Immobile sur une mer déchainée…</i>",
   "def_index": "4938",
   "rarity": {
@@ -665,6 +716,7 @@
  {
   "id": "patch-4939",
   "name": "Écusson | Raie voyageuse",
+  "code": "patch_op11_cruising",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Elle glisse sous les ondes…</i>",
   "def_index": "4939",
   "rarity": {
@@ -678,6 +730,7 @@
  {
   "id": "patch-4940",
   "name": "Écusson | Grenouille à baïonnette",
+  "code": "patch_op11_frog_skeleton",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Ça passe ou ça coasse…</i>",
   "def_index": "4940",
   "rarity": {
@@ -691,6 +744,7 @@
  {
   "id": "patch-4941",
   "name": "Écusson | Sushi fou",
+  "code": "patch_op11_mad_sushi",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Emmaillotez vos adversaires !</i>",
   "def_index": "4941",
   "rarity": {
@@ -704,6 +758,7 @@
  {
   "id": "patch-4942",
   "name": "Écusson | Calamar géant",
+  "code": "patch_op11_pink_squid",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Entraine sa proie dans les profondeurs marines…</i>",
   "def_index": "4942",
   "rarity": {
@@ -717,6 +772,7 @@
  {
   "id": "patch-4943",
   "name": "Écusson | El Pirata",
+  "code": "patch_op11_piranha",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Un travail d'équipe, une bouchée à la fois…</i>",
   "def_index": "4943",
   "rarity": {
@@ -730,6 +786,7 @@
  {
   "id": "patch-4944",
   "name": "Écusson | Menace des abysses",
+  "code": "patch_op11_siren",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Levez les yeux…</i>",
   "def_index": "4944",
   "rarity": {
@@ -743,6 +800,7 @@
  {
   "id": "patch-4945",
   "name": "Écusson | Têtes de mort",
+  "code": "patch_op11_skull_crossswords",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Symbole universel du danger…</i>",
   "def_index": "4945",
   "rarity": {
@@ -756,6 +814,7 @@
  {
   "id": "patch-4946",
   "name": "Écusson | Vague crépusculaire",
+  "code": "patch_op11_sunset_wave",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Une nouvelle journée sur l'océan…</i>",
   "def_index": "4946",
   "rarity": {
@@ -769,6 +828,7 @@
  {
   "id": "patch-4947",
   "name": "Écusson | Offensive aquatique",
+  "code": "patch_op11_fish_go",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Poisson à gogo</i>",
   "def_index": "4947",
   "rarity": {
@@ -782,6 +842,7 @@
  {
   "id": "patch-4948",
   "name": "Écusson | Dieu très ancien",
+  "code": "patch_op11_cthulhu",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Cthulhu en appelle au désamorçage…</i>",
   "def_index": "4948",
   "rarity": {
@@ -795,6 +856,7 @@
  {
   "id": "patch-4949",
   "name": "Écusson | L'heure du repas",
+  "code": "patch_op11_meal_time",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.<br><br><i>Affamé de victoire…</i>",
   "def_index": "4949",
   "rarity": {
@@ -808,6 +870,7 @@
  {
   "id": "patch-5079",
   "name": "Écusson | Ninjas in Pyjamas | Stockholm 2021",
+  "code": "stockh2021_teampatch_nip",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5079",
   "rarity": {
@@ -821,6 +884,7 @@
  {
   "id": "patch-5080",
   "name": "Écusson | Ninjas in Pyjamas (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_nip_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5080",
   "rarity": {
@@ -834,6 +898,7 @@
  {
   "id": "patch-5081",
   "name": "Écusson | FURIA | Stockholm 2021",
+  "code": "stockh2021_teampatch_furi",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5081",
   "rarity": {
@@ -847,6 +912,7 @@
  {
   "id": "patch-5082",
   "name": "Écusson | FURIA (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_furi_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5082",
   "rarity": {
@@ -860,6 +926,7 @@
  {
   "id": "patch-5083",
   "name": "Écusson | Natus Vincere | Stockholm 2021",
+  "code": "stockh2021_teampatch_navi",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5083",
   "rarity": {
@@ -873,6 +940,7 @@
  {
   "id": "patch-5084",
   "name": "Écusson | Natus Vincere (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_navi_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5084",
   "rarity": {
@@ -886,6 +954,7 @@
  {
   "id": "patch-5085",
   "name": "Écusson | Team Vitality | Stockholm 2021",
+  "code": "stockh2021_teampatch_vita",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5085",
   "rarity": {
@@ -899,6 +968,7 @@
  {
   "id": "patch-5086",
   "name": "Écusson | Team Vitality (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_vita_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5086",
   "rarity": {
@@ -912,6 +982,7 @@
  {
   "id": "patch-5087",
   "name": "Écusson | Team Liquid | Stockholm 2021",
+  "code": "stockh2021_teampatch_liq",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5087",
   "rarity": {
@@ -925,6 +996,7 @@
  {
   "id": "patch-5088",
   "name": "Écusson | Team Liquid (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_liq_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5088",
   "rarity": {
@@ -938,6 +1010,7 @@
  {
   "id": "patch-5089",
   "name": "Écusson | Gambit Esports | Stockholm 2021",
+  "code": "stockh2021_teampatch_gamb",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5089",
   "rarity": {
@@ -951,6 +1024,7 @@
  {
   "id": "patch-5090",
   "name": "Écusson | Gambit Esports (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_gamb_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5090",
   "rarity": {
@@ -964,6 +1038,7 @@
  {
   "id": "patch-5091",
   "name": "Écusson | G2 Esports | Stockholm 2021",
+  "code": "stockh2021_teampatch_g2",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5091",
   "rarity": {
@@ -977,6 +1052,7 @@
  {
   "id": "patch-5092",
   "name": "Écusson | G2 Esports (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_g2_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5092",
   "rarity": {
@@ -990,6 +1066,7 @@
  {
   "id": "patch-5093",
   "name": "Écusson | Evil Geniuses | Stockholm 2021",
+  "code": "stockh2021_teampatch_evl",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5093",
   "rarity": {
@@ -1003,6 +1080,7 @@
  {
   "id": "patch-5094",
   "name": "Écusson | Evil Geniuses (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_evl_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5094",
   "rarity": {
@@ -1016,6 +1094,7 @@
  {
   "id": "patch-5095",
   "name": "Écusson | Team Spirit | Stockholm 2021",
+  "code": "stockh2021_teampatch_spir",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5095",
   "rarity": {
@@ -1029,6 +1108,7 @@
  {
   "id": "patch-5096",
   "name": "Écusson | Team Spirit (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_spir_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5096",
   "rarity": {
@@ -1042,6 +1122,7 @@
  {
   "id": "patch-5097",
   "name": "Écusson | Astralis | Stockholm 2021",
+  "code": "stockh2021_teampatch_astr",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5097",
   "rarity": {
@@ -1055,6 +1136,7 @@
  {
   "id": "patch-5098",
   "name": "Écusson | Astralis (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_astr_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5098",
   "rarity": {
@@ -1068,6 +1150,7 @@
  {
   "id": "patch-5099",
   "name": "Écusson | paiN Gaming | Stockholm 2021",
+  "code": "stockh2021_teampatch_pain",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5099",
   "rarity": {
@@ -1081,6 +1164,7 @@
  {
   "id": "patch-5100",
   "name": "Écusson | paiN Gaming (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_pain_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5100",
   "rarity": {
@@ -1094,6 +1178,7 @@
  {
   "id": "patch-5101",
   "name": "Écusson | ENCE | Stockholm 2021",
+  "code": "stockh2021_teampatch_ence",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5101",
   "rarity": {
@@ -1107,6 +1192,7 @@
  {
   "id": "patch-5102",
   "name": "Écusson | ENCE (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_ence_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5102",
   "rarity": {
@@ -1120,6 +1206,7 @@
  {
   "id": "patch-5103",
   "name": "Écusson | BIG | Stockholm 2021",
+  "code": "stockh2021_teampatch_big",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5103",
   "rarity": {
@@ -1133,6 +1220,7 @@
  {
   "id": "patch-5104",
   "name": "Écusson | BIG (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_big_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5104",
   "rarity": {
@@ -1146,6 +1234,7 @@
  {
   "id": "patch-5105",
   "name": "Écusson | Movistar Riders | Stockholm 2021",
+  "code": "stockh2021_teampatch_ride",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5105",
   "rarity": {
@@ -1159,6 +1248,7 @@
  {
   "id": "patch-5106",
   "name": "Écusson | Movistar Riders (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_ride_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5106",
   "rarity": {
@@ -1172,6 +1262,7 @@
  {
   "id": "patch-5107",
   "name": "Écusson | Heroic | Stockholm 2021",
+  "code": "stockh2021_teampatch_hero",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5107",
   "rarity": {
@@ -1185,6 +1276,7 @@
  {
   "id": "patch-5108",
   "name": "Écusson | Heroic (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_hero_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5108",
   "rarity": {
@@ -1198,6 +1290,7 @@
  {
   "id": "patch-5109",
   "name": "Écusson | MOUZ | Stockholm 2021",
+  "code": "stockh2021_teampatch_mouz",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5109",
   "rarity": {
@@ -1211,6 +1304,7 @@
  {
   "id": "patch-5110",
   "name": "Écusson | MOUZ (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_mouz_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5110",
   "rarity": {
@@ -1224,6 +1318,7 @@
  {
   "id": "patch-5111",
   "name": "Écusson | Sharks Esports | Stockholm 2021",
+  "code": "stockh2021_teampatch_shrk",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5111",
   "rarity": {
@@ -1237,6 +1332,7 @@
  {
   "id": "patch-5112",
   "name": "Écusson | Sharks Esports (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_shrk_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5112",
   "rarity": {
@@ -1250,6 +1346,7 @@
  {
   "id": "patch-5113",
   "name": "Écusson | TYLOO | Stockholm 2021",
+  "code": "stockh2021_teampatch_tyl",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5113",
   "rarity": {
@@ -1263,6 +1360,7 @@
  {
   "id": "patch-5114",
   "name": "Écusson | TYLOO (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_tyl_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5114",
   "rarity": {
@@ -1276,6 +1374,7 @@
  {
   "id": "patch-5115",
   "name": "Écusson | Renegades | Stockholm 2021",
+  "code": "stockh2021_teampatch_ren",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5115",
   "rarity": {
@@ -1289,6 +1388,7 @@
  {
   "id": "patch-5116",
   "name": "Écusson | Renegades (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_ren_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5116",
   "rarity": {
@@ -1302,6 +1402,7 @@
  {
   "id": "patch-5117",
   "name": "Écusson | Entropiq | Stockholm 2021",
+  "code": "stockh2021_teampatch_ent",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5117",
   "rarity": {
@@ -1315,6 +1416,7 @@
  {
   "id": "patch-5118",
   "name": "Écusson | Entropiq (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_ent_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5118",
   "rarity": {
@@ -1328,6 +1430,7 @@
  {
   "id": "patch-5119",
   "name": "Écusson | GODSENT | Stockholm 2021",
+  "code": "stockh2021_teampatch_god",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5119",
   "rarity": {
@@ -1341,6 +1444,7 @@
  {
   "id": "patch-5120",
   "name": "Écusson | GODSENT (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_god_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5120",
   "rarity": {
@@ -1354,6 +1458,7 @@
  {
   "id": "patch-5121",
   "name": "Écusson | Virtus.pro | Stockholm 2021",
+  "code": "stockh2021_teampatch_vp",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5121",
   "rarity": {
@@ -1367,6 +1472,7 @@
  {
   "id": "patch-5122",
   "name": "Écusson | Virtus.pro (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_vp_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5122",
   "rarity": {
@@ -1380,6 +1486,7 @@
  {
   "id": "patch-5123",
   "name": "Écusson | Copenhagen Flames | Stockholm 2021",
+  "code": "stockh2021_teampatch_cope",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5123",
   "rarity": {
@@ -1393,6 +1500,7 @@
  {
   "id": "patch-5124",
   "name": "Écusson | Copenhagen Flames (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_cope_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5124",
   "rarity": {
@@ -1406,6 +1514,7 @@
  {
   "id": "patch-5125",
   "name": "Écusson | FaZe Clan | Stockholm 2021",
+  "code": "stockh2021_teampatch_faze",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5125",
   "rarity": {
@@ -1419,6 +1528,7 @@
  {
   "id": "patch-5126",
   "name": "Écusson | FaZe Clan (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_faze_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5126",
   "rarity": {
@@ -1432,6 +1542,7 @@
  {
   "id": "patch-5127",
   "name": "Écusson | PGL | Stockholm 2021",
+  "code": "stockh2021_teampatch_pgl",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5127",
   "rarity": {
@@ -1445,6 +1556,7 @@
  {
   "id": "patch-5128",
   "name": "Écusson | PGL (or) | Stockholm 2021",
+  "code": "stockh2021_teampatch_pgl_gold",
   "description": "Cet écusson peut être appliqué à n´importe quel agent que vous possédez. Une fois appliqué, il peut être retiré, mais pas récupéré.",
   "def_index": "5128",
   "rarity": {

@@ -2,6 +2,7 @@
  {
   "id": "collectible-874",
   "name": "Huy chương 5 năm kỳ cựu",
+  "code": "#CSGO_CollectibleCoin_FiveYearService",
   "description": "Đã là thành viên cộng đồng Counter-Strike được hơn 5 năm.",
   "def_index": "874",
   "rarity": {
@@ -17,6 +18,7 @@
  {
   "id": "collectible-875",
   "name": "Nhà vô địch DreamHack 2013",
+  "code": "#CSGO_CollectibleCoin_DH2013_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO DreamHack SteelSeries 2013.",
   "def_index": "875",
   "rarity": {
@@ -32,6 +34,7 @@
  {
   "id": "collectible-876",
   "name": "Lọt vào chung kết tại giải DreamHack 2013",
+  "code": "#CSGO_CollectibleCoin_DH2013_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO DreamHack SteelSeries 2013.",
   "def_index": "876",
   "rarity": {
@@ -47,6 +50,7 @@
  {
   "id": "collectible-877",
   "name": "Lọt vào bán kết tại giải DreamHack 2013",
+  "code": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO 2013 DreamHack SteelSeries.",
   "def_index": "877",
   "rarity": {
@@ -62,6 +66,7 @@
  {
   "id": "collectible-878",
   "name": "Lọt vào tứ kết tại giải DreamHack 2013",
+  "code": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO 2013 DreamHack SteelSeries.",
   "def_index": "878",
   "rarity": {
@@ -77,6 +82,7 @@
  {
   "id": "collectible-879",
   "name": "Nhà vô địch EMS One Katowice 2014",
+  "code": "#CSGO_CollectibleCoin_Kat2014_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải EMS One Katowice 2014.",
   "def_index": "879",
   "rarity": {
@@ -92,6 +98,7 @@
  {
   "id": "collectible-880",
   "name": "Lọt vào chung kết tại giải EMS One Katowice 2014",
+  "code": "#CSGO_CollectibleCoin_Kat2014_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO EMS One Katowice 2014.",
   "def_index": "880",
   "rarity": {
@@ -107,6 +114,7 @@
  {
   "id": "collectible-881",
   "name": "Lọt vào bán kết tại giải EMS One Katowice 2014",
+  "code": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO EMS One Katowice 2014.",
   "def_index": "881",
   "rarity": {
@@ -122,6 +130,7 @@
  {
   "id": "collectible-882",
   "name": "Lọt vào tứ kết tại giải EMS One Katowice 2014",
+  "code": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO 2014 EMS One Katowice.",
   "def_index": "882",
   "rarity": {
@@ -137,6 +146,7 @@
  {
   "id": "collectible-883",
   "name": "Nhà vô địch ESL One Cologne 2014",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ESL One Cologne 2014.",
   "def_index": "883",
   "rarity": {
@@ -152,6 +162,7 @@
  {
   "id": "collectible-884",
   "name": "Lọt vào chung kết tại giải ESL One Cologne 2014",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ESL One Cologne 2014.",
   "def_index": "884",
   "rarity": {
@@ -167,6 +178,7 @@
  {
   "id": "collectible-885",
   "name": "Lọt vào bán kết tại giải ESL One Cologne 2014",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ESL One Cologne 2014.",
   "def_index": "885",
   "rarity": {
@@ -182,6 +194,7 @@
  {
   "id": "collectible-886",
   "name": "Lọt vào tứ kết tại giải ESL One Cologne 2014",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ESL One Cologne 2014.",
   "def_index": "886",
   "rarity": {
@@ -197,6 +210,7 @@
  {
   "id": "collectible-887",
   "name": "Cúp đồng Pick'Em - Cologne 2014",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải ESL One Cologne 2014.",
   "def_index": "887",
   "rarity": {
@@ -212,6 +226,7 @@
  {
   "id": "collectible-888",
   "name": "Cúp bạc Pick'Em - Cologne 2014",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải ESL One Cologne 2014.",
   "def_index": "888",
   "rarity": {
@@ -227,6 +242,7 @@
  {
   "id": "collectible-889",
   "name": "Cúp vàng Pick'Em - Cologne 2014",
+  "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải ESL One Cologne 2014.",
   "def_index": "889",
   "rarity": {
@@ -242,6 +258,7 @@
  {
   "id": "collectible-890",
   "name": "Nhà vô địch DreamHack Winter 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải DreamHack Winter 2014.",
   "def_index": "890",
   "rarity": {
@@ -257,6 +274,7 @@
  {
   "id": "collectible-891",
   "name": "Lọt vào chung kết tại giải DreamHack Winter 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO DreamHack Winter 2014.",
   "def_index": "891",
   "rarity": {
@@ -272,6 +290,7 @@
  {
   "id": "collectible-892",
   "name": "Lọt vào bán kết tại giải DreamHack Winter 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO DreamHack Winter 2014.",
   "def_index": "892",
   "rarity": {
@@ -287,6 +306,7 @@
  {
   "id": "collectible-893",
   "name": "Lọt vào tứ kết tại giải DreamHack Winter 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO DreamHack Winter 2014.",
   "def_index": "893",
   "rarity": {
@@ -302,6 +322,7 @@
  {
   "id": "collectible-894",
   "name": "Cúp đồng Pick'Em - DreamHack 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải DreamHack Winter 2014.",
   "def_index": "894",
   "rarity": {
@@ -317,6 +338,7 @@
  {
   "id": "collectible-895",
   "name": "Cúp bạc Pick'Em - DreamHack 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải DreamHack Winter 2014.",
   "def_index": "895",
   "rarity": {
@@ -332,6 +354,7 @@
  {
   "id": "collectible-896",
   "name": "Cúp vàng Pick'Em - DreamHack 2014",
+  "code": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải DreamHack Winter 2014.",
   "def_index": "896",
   "rarity": {
@@ -347,6 +370,7 @@
  {
   "id": "collectible-897",
   "name": "Nhà vô địch ESL One Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ESL One Katowice 2015.",
   "def_index": "897",
   "rarity": {
@@ -362,6 +386,7 @@
  {
   "id": "collectible-898",
   "name": "Lọt vào chung kết tại giải ESL One Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ESL One Katowice 2015.",
   "def_index": "898",
   "rarity": {
@@ -377,6 +402,7 @@
  {
   "id": "collectible-899",
   "name": "Lọt vào bán kết tại giải ESL One Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ESL One Katowice 2015.",
   "def_index": "899",
   "rarity": {
@@ -392,6 +418,7 @@
  {
   "id": "collectible-900",
   "name": "Lọt vào tứ kết tại giải ESL One Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ESL One Katowice 2015.",
   "def_index": "900",
   "rarity": {
@@ -407,6 +434,7 @@
  {
   "id": "collectible-901",
   "name": "Cúp đồng Pick'Em - Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải ESL One Katowice 2015.",
   "def_index": "901",
   "rarity": {
@@ -422,6 +450,7 @@
  {
   "id": "collectible-902",
   "name": "Cúp bạc Pick'Em - Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải ESL One Katowice 2015.",
   "def_index": "902",
   "rarity": {
@@ -437,6 +466,7 @@
  {
   "id": "collectible-903",
   "name": "Cúp vàng Pick'Em - Katowice 2015",
+  "code": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải ESL One Katowice 2015.",
   "def_index": "903",
   "rarity": {
@@ -452,6 +482,7 @@
  {
   "id": "collectible-904",
   "name": "Nhà vô địch ESL One Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ESL One Cologne 2015.",
   "def_index": "904",
   "rarity": {
@@ -467,6 +498,7 @@
  {
   "id": "collectible-905",
   "name": "Lọt vào chung kết tại giải ESL One Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ESL One Cologne 2015.",
   "def_index": "905",
   "rarity": {
@@ -482,6 +514,7 @@
  {
   "id": "collectible-906",
   "name": "Lọt vào bán kết tại giải ESL One Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ESL One Cologne 2015.",
   "def_index": "906",
   "rarity": {
@@ -497,6 +530,7 @@
  {
   "id": "collectible-907",
   "name": "Lọt vào tứ kết tại giải ESL One Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ESL One Cologne 2015.",
   "def_index": "907",
   "rarity": {
@@ -512,6 +546,7 @@
  {
   "id": "collectible-908",
   "name": "Cúp đồng Pick'Em - Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải ESL One Cologne 2015.",
   "def_index": "908",
   "rarity": {
@@ -527,6 +562,7 @@
  {
   "id": "collectible-909",
   "name": "Cúp bạc Pick'Em - Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải ESL One Cologne 2015.",
   "def_index": "909",
   "rarity": {
@@ -542,6 +578,7 @@
  {
   "id": "collectible-910",
   "name": "Cúp vàng Pick'Em - Cologne 2015",
+  "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải ESL One Cologne 2015.",
   "def_index": "910",
   "rarity": {
@@ -557,6 +594,7 @@
  {
   "id": "collectible-911",
   "name": "Cúp đồng Pick'Em - Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải DreamHack Cluj-Napoca 2015.",
   "def_index": "911",
   "rarity": {
@@ -572,6 +610,7 @@
  {
   "id": "collectible-912",
   "name": "Cúp bạc Pick'Em - Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải DreamHack Cluj-Napoca 2015.",
   "def_index": "912",
   "rarity": {
@@ -587,6 +626,7 @@
  {
   "id": "collectible-913",
   "name": "Cúp vàng Pick'Em - Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải DreamHack Cluj-Napoca 2015.",
   "def_index": "913",
   "rarity": {
@@ -602,6 +642,7 @@
  {
   "id": "collectible-914",
   "name": "Huy hiệu đồng đội tuyển trong mơ - Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách đội tuyển trong mơ giải DreamHack Cluj-Napoca 2015.",
   "def_index": "914",
   "rarity": {
@@ -617,6 +658,7 @@
  {
   "id": "collectible-915",
   "name": "Huy hiệu bạc đội tuyển trong mơ - Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
   "description": "Huy hiệu bạc này được trao trong thử thách đội tuyển trong mơ giải DreamHack Cluj-Napoca 2015.",
   "def_index": "915",
   "rarity": {
@@ -632,6 +674,7 @@
  {
   "id": "collectible-916",
   "name": "Huy hiệu vàng đội tuyển trong mơ - Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
   "description": "Huy hiệu vàng này được trao trong thử thách đội tuyển trong mơ giải DreamHack Cluj-Napoca 2015.",
   "def_index": "916",
   "rarity": {
@@ -647,6 +690,7 @@
  {
   "id": "collectible-917",
   "name": "Nhà vô địch DreamHack Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải DreamHack Cluj-Napoca 2015.",
   "def_index": "917",
   "rarity": {
@@ -662,6 +706,7 @@
  {
   "id": "collectible-918",
   "name": "Lọt vào chung kết tại giải DreamHack Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO DreamHack Cluj-Napoca 2015.",
   "def_index": "918",
   "rarity": {
@@ -677,6 +722,7 @@
  {
   "id": "collectible-919",
   "name": "Lọt vào bán kết tại giải DreamHack Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO DreamHack Cluj-Napoca 2015.",
   "def_index": "919",
   "rarity": {
@@ -692,6 +738,7 @@
  {
   "id": "collectible-920",
   "name": "Lọt vào tứ kết tại giải DreamHack Cluj-Napoca 2015",
+  "code": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO DreamHack Cluj-Napoca 2015.",
   "def_index": "920",
   "rarity": {
@@ -707,6 +754,7 @@
  {
   "id": "collectible-921",
   "name": "Cúp đồng Pick'Em - Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải MLG Columbus 2016.",
   "def_index": "921",
   "rarity": {
@@ -722,6 +770,7 @@
  {
   "id": "collectible-922",
   "name": "Cúp bạc Pick'Em - Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải MLG Columbus 2016.",
   "def_index": "922",
   "rarity": {
@@ -737,6 +786,7 @@
  {
   "id": "collectible-923",
   "name": "Cúp vàng Pick'Em - Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải MLG Columbus 2016.",
   "def_index": "923",
   "rarity": {
@@ -752,6 +802,7 @@
  {
   "id": "collectible-924",
   "name": "Huy hiệu đồng đội tuyển trong mơ - Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách đội tuyển trong mơ giải MLG Columbus 2016.",
   "def_index": "924",
   "rarity": {
@@ -767,6 +818,7 @@
  {
   "id": "collectible-925",
   "name": "Huy hiệu bạc đội tuyển trong mơ - Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
   "description": "Huy hiệu bạc này được trao trong thử thách đội tuyển trong mơ giải MLG Columbus 2016.",
   "def_index": "925",
   "rarity": {
@@ -782,6 +834,7 @@
  {
   "id": "collectible-926",
   "name": "Huy hiệu vàng đội tuyển trong mơ - Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
   "description": "Huy hiệu vàng này được trao trong thử thách đội tuyển trong mơ giải MLG Columbus 2016.",
   "def_index": "926",
   "rarity": {
@@ -797,6 +850,7 @@
  {
   "id": "collectible-927",
   "name": "Nhà vô địch MLG Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải MLG Columbus 2016.",
   "def_index": "927",
   "rarity": {
@@ -812,6 +866,7 @@
  {
   "id": "collectible-928",
   "name": "Lọt vào chung kết tại giải MLG Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO MLG Columbus 2016.",
   "def_index": "928",
   "rarity": {
@@ -827,6 +882,7 @@
  {
   "id": "collectible-929",
   "name": "Lọt vào bán kết tại giải MLG Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO MLG Columbus 2016.",
   "def_index": "929",
   "rarity": {
@@ -842,6 +898,7 @@
  {
   "id": "collectible-930",
   "name": "Lọt vào tứ kết tại giải MLG Columbus 2016",
+  "code": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO MLG Columbus 2016.",
   "def_index": "930",
   "rarity": {
@@ -857,6 +914,7 @@
  {
   "id": "collectible-931",
   "name": "Nhà vô địch ESL One Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ESL One Cologne 2016.",
   "def_index": "931",
   "rarity": {
@@ -872,6 +930,7 @@
  {
   "id": "collectible-932",
   "name": "Lọt vào chung kết tại giải ESL One Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ESL One Cologne 2016.",
   "def_index": "932",
   "rarity": {
@@ -887,6 +946,7 @@
  {
   "id": "collectible-933",
   "name": "Lọt vào bán kết tại giải ESL One Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ESL One Cologne 2016.",
   "def_index": "933",
   "rarity": {
@@ -902,6 +962,7 @@
  {
   "id": "collectible-934",
   "name": "Lọt vào tứ kết tại giải ESL One Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ESL One Cologne 2016.",
   "def_index": "934",
   "rarity": {
@@ -917,6 +978,7 @@
  {
   "id": "collectible-935",
   "name": "Cúp đồng Pick'Em - Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải ESL One Cologne 2016.",
   "def_index": "935",
   "rarity": {
@@ -932,6 +994,7 @@
  {
   "id": "collectible-936",
   "name": "Cúp bạc Pick'Em - Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải ESL One Cologne 2016.",
   "def_index": "936",
   "rarity": {
@@ -947,6 +1010,7 @@
  {
   "id": "collectible-937",
   "name": "Cúp vàng Pick'Em - Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải ESL One Cologne 2016.",
   "def_index": "937",
   "rarity": {
@@ -962,6 +1026,7 @@
  {
   "id": "collectible-938",
   "name": "Huy hiệu đồng đội tuyển trong mơ - Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách đội tuyển trong mơ giải ESL One Cologne 2016.",
   "def_index": "938",
   "rarity": {
@@ -977,6 +1042,7 @@
  {
   "id": "collectible-939",
   "name": "Huy hiệu bạc đội tuyển trong mơ - Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
   "description": "Huy hiệu bạc này được trao trong thử thách đội tuyển trong mơ giải ESL One Cologne 2016.",
   "def_index": "939",
   "rarity": {
@@ -992,6 +1058,7 @@
  {
   "id": "collectible-940",
   "name": "Huy hiệu vàng đội tuyển trong mơ - Cologne 2016",
+  "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
   "description": "Huy hiệu vàng này được trao trong thử thách đội tuyển trong mơ giải ESL One Cologne 2016.",
   "def_index": "940",
   "rarity": {
@@ -1007,6 +1074,7 @@
  {
   "id": "collectible-941",
   "name": "Nhà vô địch ELEAGUE Atlanta 2017",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải ELEAGUE Atlanta 2017.",
   "def_index": "941",
   "rarity": {
@@ -1022,6 +1090,7 @@
  {
   "id": "collectible-942",
   "name": "Lọt vào chung kết tại giải ELEAGUE Atlanta 2017",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ELEAGUE Atlanta 2017.",
   "def_index": "942",
   "rarity": {
@@ -1037,6 +1106,7 @@
  {
   "id": "collectible-943",
   "name": "Lọt vào bán kết tại giải ELEAGUE Atlanta 2017",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ELEAGUE Atlanta 2017.",
   "def_index": "943",
   "rarity": {
@@ -1052,6 +1122,7 @@
  {
   "id": "collectible-944",
   "name": "Lọt vào tứ kết tại giải ELEAGUE Atlanta 2017",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ELEAGUE Atlanta 2017.",
   "def_index": "944",
   "rarity": {
@@ -1067,6 +1138,7 @@
  {
   "id": "collectible-945",
   "name": "Cúp đồng Pick'Em - Atlanta 2017",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải ELEAGUE Atlanta 2017.",
   "def_index": "945",
   "rarity": {
@@ -1082,6 +1154,7 @@
  {
   "id": "collectible-946",
   "name": "Cúp bạc Pick'Em - Atlanta 2017",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải ELEAGUE Atlanta 2017.",
   "def_index": "946",
   "rarity": {
@@ -1097,6 +1170,7 @@
  {
   "id": "collectible-947",
   "name": "Cúp vàng Pick'Em - Atlanta 2017",
+  "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải ELEAGUE Atlanta 2017.",
   "def_index": "947",
   "rarity": {
@@ -1112,6 +1186,7 @@
  {
   "id": "collectible-948",
   "name": "Nhà vô địch PGL Krakow 2017",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải PGL Krakow 2017.",
   "def_index": "948",
   "rarity": {
@@ -1127,6 +1202,7 @@
  {
   "id": "collectible-949",
   "name": "Lọt vào chung kết tại giải PGL Krakow 2017",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO PGL Krakow 2017.",
   "def_index": "949",
   "rarity": {
@@ -1142,6 +1218,7 @@
  {
   "id": "collectible-950",
   "name": "Lọt vào bán kết tại giải PGL Krakow 2017",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO PGL Krakow 2017.",
   "def_index": "950",
   "rarity": {
@@ -1157,6 +1234,7 @@
  {
   "id": "collectible-951",
   "name": "Lọt vào tứ kết tại giải PGL Krakow 2017",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO PGL Krakow 2017.",
   "def_index": "951",
   "rarity": {
@@ -1172,6 +1250,7 @@
  {
   "id": "collectible-952",
   "name": "Cúp đồng Pick'Em - Krakow 2017",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải PGL Krakow 2017.",
   "def_index": "952",
   "rarity": {
@@ -1187,6 +1266,7 @@
  {
   "id": "collectible-953",
   "name": "Cúp bạc Pick'Em - Krakow 2017",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải PGL Krakow 2017.",
   "def_index": "953",
   "rarity": {
@@ -1202,6 +1282,7 @@
  {
   "id": "collectible-954",
   "name": "Cúp vàng Pick'Em - Krakow 2017",
+  "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải PGL Krakow 2017.",
   "def_index": "954",
   "rarity": {
@@ -1217,6 +1298,7 @@
  {
   "id": "collectible-955",
   "name": "Nhà vô địch ELEAGUE Boston 2018",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Champion",
   "description": "Cúp giải đấu này được trao tặng đội vô địch giải CS:GO ELEAGUE Boston 2018.",
   "def_index": "955",
   "rarity": {
@@ -1232,6 +1314,7 @@
  {
   "id": "collectible-956",
   "name": "Lọt vào chung kết tại giải ELEAGUE Boston 2018",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO ELEAGUE Boston 2018.",
   "def_index": "956",
   "rarity": {
@@ -1247,6 +1330,7 @@
  {
   "id": "collectible-957",
   "name": "Lọt vào bán kết tại giải ELEAGUE Boston 2018",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO ELEAGUE Boston 2018.",
   "def_index": "957",
   "rarity": {
@@ -1262,6 +1346,7 @@
  {
   "id": "collectible-958",
   "name": "Lọt vào tứ kết tại giải ELEAGUE Boston 2018",
+  "code": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO ELEAGUE Boston 2018.",
   "def_index": "958",
   "rarity": {
@@ -1277,6 +1362,7 @@
  {
   "id": "collectible-959",
   "name": "Cúp đồng Pick'Em - Boston 2018",
+  "code": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải ELEAGUE Boston 2018.",
   "def_index": "959",
   "rarity": {
@@ -1292,6 +1378,7 @@
  {
   "id": "collectible-960",
   "name": "Cúp bạc Pick'Em - Boston 2018",
+  "code": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải ELEAGUE Boston 2018.",
   "def_index": "960",
   "rarity": {
@@ -1307,6 +1394,7 @@
  {
   "id": "collectible-961",
   "name": "Cúp vàng Pick'Em - Boston 2018",
+  "code": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải ELEAGUE Boston 2018.",
   "def_index": "961",
   "rarity": {
@@ -1322,6 +1410,7 @@
  {
   "id": "collectible-962",
   "name": "Nhà vô địch FACEIT London 2018",
+  "code": "#CSGO_CollectibleCoin_London2018_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải FACEIT London 2018.",
   "def_index": "962",
   "rarity": {
@@ -1337,6 +1426,7 @@
  {
   "id": "collectible-963",
   "name": "Lọt vào chung kết tại giải FACEIT London 2018",
+  "code": "#CSGO_CollectibleCoin_London2018_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO FACEIT London 2018.",
   "def_index": "963",
   "rarity": {
@@ -1352,6 +1442,7 @@
  {
   "id": "collectible-964",
   "name": "Lọt vào bán kết tại giải FACEIT London 2018",
+  "code": "#CSGO_CollectibleCoin_London2018_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải FACEIT London 2018.",
   "def_index": "964",
   "rarity": {
@@ -1367,6 +1458,7 @@
  {
   "id": "collectible-965",
   "name": "Lọt vào tứ kết tại giải FACEIT London 2018",
+  "code": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải FACEIT London 2018.",
   "def_index": "965",
   "rarity": {
@@ -1382,6 +1474,7 @@
  {
   "id": "collectible-966",
   "name": "Cúp đồng Pick'Em - London 2018",
+  "code": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
   "description": "Huy hiệu đồng này được trao trong thử thách Pick'Em giải FACEIT London 2018.",
   "def_index": "966",
   "rarity": {
@@ -1397,6 +1490,7 @@
  {
   "id": "collectible-967",
   "name": "Cúp bạc Pick'Em - London 2018",
+  "code": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
   "description": "Huy hiệu bạc này được trao trong thử thách Pick'Em giải FACEIT London 2018.",
   "def_index": "967",
   "rarity": {
@@ -1412,6 +1506,7 @@
  {
   "id": "collectible-968",
   "name": "Cúp vàng Pick'Em - London 2018",
+  "code": "#CSGO_CollectibleCoin_London2018_PickEmGold",
   "description": "Huy hiệu vàng này được trao trong thử thách Pick'Em giải FACEIT London 2018.",
   "def_index": "968",
   "rarity": {
@@ -1427,6 +1522,7 @@
  {
   "id": "collectible-969",
   "name": "Huy chương 10 năm kỳ cựu",
+  "code": "#CSGO_CollectibleCoin_TenYearService",
   "description": "Đã là thành viên cộng đồng Counter-Strike được hơn 10 năm.",
   "def_index": "969",
   "rarity": {
@@ -1442,6 +1538,7 @@
  {
   "id": "collectible-970",
   "name": "Huy hiệu trung kiên",
+  "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
   "description": "Huy hiệu này vinh danh sự trung thành tận tụy của cộng đồng Counter-Strike trước bản cập nhật Danger Zone.\\n\\n<i>Lấy trung thành làm sức mạnh.</i>",
   "def_index": "970",
   "rarity": {
@@ -1457,6 +1554,7 @@
  {
   "id": "collectible-971",
   "name": "Nhà vô địch IEM Katowice 2019",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO IEM Katowice 2019.",
   "def_index": "971",
   "rarity": {
@@ -1472,6 +1570,7 @@
  {
   "id": "collectible-972",
   "name": "Lọt vào chung kết tại giải IEM Katowice 2019",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO IEM Katowice 2019.",
   "def_index": "972",
   "rarity": {
@@ -1487,6 +1586,7 @@
  {
   "id": "collectible-973",
   "name": "Lọt vào bán kết tại giải IEM Katowice 2019",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO IEM Katowice 2019.",
   "def_index": "973",
   "rarity": {
@@ -1502,6 +1602,7 @@
  {
   "id": "collectible-974",
   "name": "Lọt vào tứ kết tại giải IEM Katowice 2019",
+  "code": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO IEM Katowice 2019.",
   "def_index": "974",
   "rarity": {
@@ -1517,6 +1618,7 @@
  {
   "id": "collectible-975",
   "name": "Vô địch StarLadder Berlin 2019",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Champion",
   "description": "Cúp này được trao tặng cho nhà vô địch giải CS:GO StarLadder Berlin 2019.",
   "def_index": "975",
   "rarity": {
@@ -1532,6 +1634,7 @@
  {
   "id": "collectible-976",
   "name": "Vào chung kết StarLadder Berlin 2019",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
   "description": "Cúp này được trao tặng cho người vào vòng chung kết giải CS:GO StarLadder Berlin 2019.",
   "def_index": "976",
   "rarity": {
@@ -1547,6 +1650,7 @@
  {
   "id": "collectible-977",
   "name": "Vào bán kết StarLadder Berlin 2019",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
   "description": "Cúp này được trao tặng cho người vào vòng bán kết giải CS:GO StarLadder Berlin 2019.",
   "def_index": "977",
   "rarity": {
@@ -1562,6 +1666,7 @@
  {
   "id": "collectible-978",
   "name": "Vào tứ kết StarLadder Berlin 2019",
+  "code": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
   "description": "Cúp này được trao tặng cho người vào vòng tứ kết giải CS:GO StarLadder Berlin 2019.",
   "def_index": "978",
   "rarity": {
@@ -1577,6 +1682,7 @@
  {
   "id": "collectible-979",
   "name": "Nhà vô địch PGL Stockholm 2021",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải đấu Major CS:GO PGL Stockholm 2021.",
   "def_index": "979",
   "rarity": {
@@ -1592,6 +1698,7 @@
  {
   "id": "collectible-980",
   "name": "Lọt vào chung kết tại giải PGL Stockholm 2021",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải đấu Major CS:GO PGL Stockholm 2021.",
   "def_index": "980",
   "rarity": {
@@ -1607,6 +1714,7 @@
  {
   "id": "collectible-981",
   "name": "Lọt vào bán kết tại giải PGL Stockholm 2021",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải đấu Major CS:GO PGL Stockholm 2021.",
   "def_index": "981",
   "rarity": {
@@ -1622,6 +1730,7 @@
  {
   "id": "collectible-982",
   "name": "Lọt vào tứ kết tại giải PGL Stockholm 2021",
+  "code": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải đấu Major CS:GO PGL Stockholm 2021.",
   "def_index": "982",
   "rarity": {
@@ -1637,6 +1746,7 @@
  {
   "id": "collectible-983",
   "name": "Nhà vô địch PGL Antwerp 2022",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO Major PGL Antwerp 2022.",
   "def_index": "983",
   "rarity": {
@@ -1652,6 +1762,7 @@
  {
   "id": "collectible-984",
   "name": "Lọt vào chung kết tại giải PGL Antwerp 2022",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết kết giải CS:GO Major PGL Antwerp 2022.",
   "def_index": "984",
   "rarity": {
@@ -1667,6 +1778,7 @@
  {
   "id": "collectible-985",
   "name": "Lọt vào bán kết tại giải PGL Antwerp 2022",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO Major PGL Antwerp 2022.",
   "def_index": "985",
   "rarity": {
@@ -1682,6 +1794,7 @@
  {
   "id": "collectible-986",
   "name": "Lọt vào tứ kết tại giải PGL Antwerp 2022",
+  "code": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO Major PGL Antwerp 2022.",
   "def_index": "986",
   "rarity": {
@@ -1697,6 +1810,7 @@
  {
   "id": "collectible-987",
   "name": "Huy chương kỷ niệm 10 năm",
+  "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
   "description": "Nhận được khi đã cùng cộng đồng tham gia mừng sinh nhật 10 tuổi của CS:GO.\\n\\n<i>Nâng bánh mừng mười năm của những pha headshot, những lần gánh tạ cùng những khoảnh khắc khó quên từ cộng đồng. Chúc mừng sinh nhật 10 tuổi nhé, CS:GO!</i>",
   "def_index": "987",
   "rarity": {
@@ -1712,6 +1826,7 @@
  {
   "id": "collectible-988",
   "name": "Nhà vô địch IEM Rio 2022",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải CS:GO Major IEM Rio 2022.",
   "def_index": "988",
   "rarity": {
@@ -1727,6 +1842,7 @@
  {
   "id": "collectible-989",
   "name": "Lọt vào chung kết tại giải IEM Rio 2022",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải CS:GO Major IEM Rio 2022.",
   "def_index": "989",
   "rarity": {
@@ -1742,6 +1858,7 @@
  {
   "id": "collectible-990",
   "name": "Lọt vào bán kết tại giải IEM Rio 2022",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải CS:GO Major IEM Rio 2022.",
   "def_index": "990",
   "rarity": {
@@ -1757,6 +1874,7 @@
  {
   "id": "collectible-991",
   "name": "Lọt vào tứ kết tại giải IEM Rio 2022",
+  "code": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải CS:GO Major IEM Rio 2022.",
   "def_index": "991",
   "rarity": {
@@ -1772,6 +1890,7 @@
  {
   "id": "collectible-992",
   "name": "Nhà vô địch giải BLAST.tv Paris 2023",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải Major CS:GO BLAST.tv Paris 2023.",
   "def_index": "992",
   "rarity": {
@@ -1787,6 +1906,7 @@
  {
   "id": "collectible-993",
   "name": "Lọt vào chung kết tại giải BLAST.tv Paris 2023",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải Major CS:GO BLAST.tv Paris 2023.",
   "def_index": "993",
   "rarity": {
@@ -1802,6 +1922,7 @@
  {
   "id": "collectible-994",
   "name": "Lọt vào bán kết tại giải BLAST.tv Paris 2023",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải Major CS:GO BLAST.tv Paris 2023.",
   "def_index": "994",
   "rarity": {
@@ -1817,6 +1938,7 @@
  {
   "id": "collectible-995",
   "name": "Lọt vào tứ kết tại giải BLAST.tv Paris 2023",
+  "code": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải Major CS:GO BLAST.tv Paris 2023.",
   "def_index": "995",
   "rarity": {
@@ -1832,6 +1954,7 @@
  {
   "id": "collectible-996",
   "name": "Huy hiệu Global Offensive",
+  "code": "#CSGO_CollectibleCoin_CoinCsgo",
   "description": "Huy hiệu này vinh danh sự trung thành tận tụy trong cộng đồng Counter-Strike: Global Offensive trước ngày phát hành Counter-Strike 2. \\n\\n<i>Huyền thoại bất tử.</i>",
   "def_index": "996",
   "rarity": {
@@ -1847,6 +1970,7 @@
  {
   "id": "collectible-1000",
   "name": "Vé chiến dịch Payback",
+  "code": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
   "description": "Chiến dịch Payback kéo dài từ ngày 25 tháng 4 cho tới ngày 2 tháng 9 năm 2013 và đã tặng hơn $180,000 cho những thành viên chế tạo bản đồ cộng đồng. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy hiệu kỷ niệm chiến dịch Payback.",
   "def_index": "1000",
   "rarity": {
@@ -1862,6 +1986,7 @@
  {
   "id": "collectible-1001",
   "name": "Huy chương thử thách chiến dịch Payback",
+  "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
   "description": "Đã tham gia chiến dịch Payback để hỗ trợ các tác giả làm bản đồ cộng đồng.",
   "def_index": "1001",
   "rarity": {
@@ -1877,6 +2002,7 @@
  {
   "id": "collectible-1002",
   "name": "Huy chương bạc chiến dịch Payback",
+  "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
   "description": "Đã tham gia chiến dịch Payback trong 10 giờ để hỗ trợ các tác giả làm bản đồ cộng đồng.",
   "def_index": "1002",
   "rarity": {
@@ -1892,6 +2018,7 @@
  {
   "id": "collectible-1003",
   "name": "Huy chương vàng chiến dịch Payback",
+  "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
   "description": "Đã tham gia chiến dịch Payback trong 50 giờ để hỗ trợ các tác giả làm bản đồ cộng đồng.",
   "def_index": "1003",
   "rarity": {
@@ -1907,6 +2034,7 @@
  {
   "id": "collectible-1004",
   "name": "Huy chương bản đồ - Museum",
+  "code": "#CSGO_Collectible_MapTokenMuseum",
   "description": null,
   "def_index": "1004",
   "rarity": {
@@ -1922,6 +2050,7 @@
  {
   "id": "collectible-1005",
   "name": "Huy chương bản đồ - Downtown",
+  "code": "#CSGO_Collectible_MapTokenDowntown",
   "description": null,
   "def_index": "1005",
   "rarity": {
@@ -1937,6 +2066,7 @@
  {
   "id": "collectible-1006",
   "name": "Huy chương bản đồ - Thunder",
+  "code": "#CSGO_Collectible_MapTokenThunder",
   "description": null,
   "def_index": "1006",
   "rarity": {
@@ -1952,6 +2082,7 @@
  {
   "id": "collectible-1007",
   "name": "Huy chương bản đồ - Favela",
+  "code": "#CSGO_Collectible_MapTokenFavela",
   "description": null,
   "def_index": "1007",
   "rarity": {
@@ -1967,6 +2098,7 @@
  {
   "id": "collectible-1008",
   "name": "Huy chương bản đồ - Motel",
+  "code": "#CSGO_Collectible_MapTokenMotel",
   "description": null,
   "def_index": "1008",
   "rarity": {
@@ -1982,6 +2114,7 @@
  {
   "id": "collectible-1009",
   "name": "Huy chương bản đồ - Seaside",
+  "code": "#CSGO_Collectible_MapTokenSeaside",
   "description": null,
   "def_index": "1009",
   "rarity": {
@@ -1997,6 +2130,7 @@
  {
   "id": "collectible-1010",
   "name": "Huy chương bản đồ - Library",
+  "code": "#CSGO_Collectible_MapTokenLibrary",
   "description": null,
   "def_index": "1010",
   "rarity": {
@@ -2012,6 +2146,7 @@
  {
   "id": "collectible-1012",
   "name": "Vé chiến dịch Bravo",
+  "code": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
   "description": "Chiến dịch Bravo kéo dài từ ngày 19 tháng 9 cho tới ngày 5 tháng 2 năm 2014. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy hiệu kỷ niệm chiến dịch Bravo.",
   "def_index": "1012",
   "rarity": {
@@ -2027,6 +2162,7 @@
  {
   "id": "collectible-1013",
   "name": "Huy chương thử thách chiến dịch Bravo",
+  "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
   "description": "Đã tham gia chiến dịch Bravo.",
   "def_index": "1013",
   "rarity": {
@@ -2042,6 +2178,7 @@
  {
   "id": "collectible-1014",
   "name": "Huy chương bạc chiến dịch Bravo",
+  "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
   "description": "Đã tham gia chiến dịch Bravo.",
   "def_index": "1014",
   "rarity": {
@@ -2057,6 +2194,7 @@
  {
   "id": "collectible-1015",
   "name": "Huy chương vàng chiến dịch Bravo",
+  "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
   "description": "Đã tham gia chiến dịch Bravo.",
   "def_index": "1015",
   "rarity": {
@@ -2072,6 +2210,7 @@
  {
   "id": "collectible-1016",
   "name": "Huy chương bản đồ - Agency",
+  "code": "#CSGO_Collectible_MapTokenAgency",
   "description": null,
   "def_index": "1016",
   "rarity": {
@@ -2087,6 +2226,7 @@
  {
   "id": "collectible-1017",
   "name": "Huy chương bản đồ - Ali",
+  "code": "#CSGO_Collectible_MapTokenAli",
   "description": null,
   "def_index": "1017",
   "rarity": {
@@ -2102,6 +2242,7 @@
  {
   "id": "collectible-1018",
   "name": "Huy chương bản đồ - Cache",
+  "code": "#CSGO_Collectible_MapTokenCache",
   "description": null,
   "def_index": "1018",
   "rarity": {
@@ -2117,6 +2258,7 @@
  {
   "id": "collectible-1019",
   "name": "Huy chương bản đồ - Chinatown",
+  "code": "#CSGO_Collectible_MapTokenChinatown",
   "description": null,
   "def_index": "1019",
   "rarity": {
@@ -2132,6 +2274,7 @@
  {
   "id": "collectible-1020",
   "name": "Huy chương bản đồ - Gwalior",
+  "code": "#CSGO_Collectible_MapTokenGwalior",
   "description": null,
   "def_index": "1020",
   "rarity": {
@@ -2147,6 +2290,7 @@
  {
   "id": "collectible-1021",
   "name": "Huy chương bản đồ - Ruins",
+  "code": "#CSGO_Collectible_MapTokenRuins",
   "description": null,
   "def_index": "1021",
   "rarity": {
@@ -2162,6 +2306,7 @@
  {
   "id": "collectible-1022",
   "name": "Huy chương bản đồ - Siege",
+  "code": "#CSGO_Collectible_MapTokenSiege",
   "description": null,
   "def_index": "1022",
   "rarity": {
@@ -2177,6 +2322,7 @@
  {
   "id": "collectible-1023",
   "name": "Vé chiến dịch Phoenix",
+  "code": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
   "description": "Chiến dịch Phoenix kéo dài từ ngày 20 tháng 2 cho tới ngày 11 tháng 7 năm 2014. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy hiệu kỷ niệm chiến dịch Phoenix.",
   "def_index": "1023",
   "rarity": {
@@ -2192,6 +2338,7 @@
  {
   "id": "collectible-1024",
   "name": "Huy chương thử thách chiến dịch Phoenix",
+  "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
   "description": "Đã tham gia chiến dịch Phoenix.",
   "def_index": "1024",
   "rarity": {
@@ -2207,6 +2354,7 @@
  {
   "id": "collectible-1025",
   "name": "Huy chương bạc chiến dịch Phoenix",
+  "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
   "description": "Đã tham gia chiến dịch Phoenix.",
   "def_index": "1025",
   "rarity": {
@@ -2222,6 +2370,7 @@
  {
   "id": "collectible-1026",
   "name": "Huy chương vàng chiến dịch Phoenix",
+  "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
   "description": "Đã tham gia chiến dịch Phoenix.",
   "def_index": "1026",
   "rarity": {
@@ -2237,6 +2386,7 @@
  {
   "id": "collectible-1027",
   "name": "Vé truy cập tất cả chiến dịch Breakout",
+  "code": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
   "description": "Chiến dịch Breakout kéo dài từ ngày 2 tháng 7 cho tới ngày 2 tháng 10 năm 2014. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy hiệu kỷ niệm chiến dịch Breakout.",
   "def_index": "1027",
   "rarity": {
@@ -2252,6 +2402,7 @@
  {
   "id": "collectible-1028",
   "name": "Huy chương thử thách chiến dịch Breakout",
+  "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
   "description": "Đã tham gia chiến dịch Breakout.",
   "def_index": "1028",
   "rarity": {
@@ -2267,6 +2418,7 @@
  {
   "id": "collectible-1029",
   "name": "Huy chương bạc chiến dịch Breakout",
+  "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
   "description": "Đã tham gia chiến dịch Breakout.",
   "def_index": "1029",
   "rarity": {
@@ -2282,6 +2434,7 @@
  {
   "id": "collectible-1030",
   "name": "Huy chương vàng chiến dịch Breakout",
+  "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
   "description": "Đã tham gia chiến dịch Breakout.",
   "def_index": "1030",
   "rarity": {
@@ -2297,6 +2450,7 @@
  {
   "id": "collectible-1031",
   "name": "Huy chương bản đồ - Castle",
+  "code": "#CSGO_Collectible_MapTokenCastle",
   "description": null,
   "def_index": "1031",
   "rarity": {
@@ -2312,6 +2466,7 @@
  {
   "id": "collectible-1032",
   "name": "Huy chương bản đồ - Black Gold",
+  "code": "#CSGO_Collectible_MapTokenBlackGold",
   "description": null,
   "def_index": "1032",
   "rarity": {
@@ -2327,6 +2482,7 @@
  {
   "id": "collectible-1033",
   "name": "Huy chương bản đồ - Rush",
+  "code": "#CSGO_Collectible_MapTokenRush",
   "description": null,
   "def_index": "1033",
   "rarity": {
@@ -2342,6 +2498,7 @@
  {
   "id": "collectible-1034",
   "name": "Huy chương bản đồ - Mist",
+  "code": "#CSGO_Collectible_MapTokenMist",
   "description": null,
   "def_index": "1034",
   "rarity": {
@@ -2357,6 +2514,7 @@
  {
   "id": "collectible-1035",
   "name": "Huy chương bản đồ - Insertion",
+  "code": "#CSGO_Collectible_MapTokenInsertion",
   "description": null,
   "def_index": "1035",
   "rarity": {
@@ -2372,6 +2530,7 @@
  {
   "id": "collectible-1036",
   "name": "Huy chương bản đồ - Overgrown",
+  "code": "#CSGO_Collectible_MapTokenOvergrown",
   "description": null,
   "def_index": "1036",
   "rarity": {
@@ -2387,6 +2546,7 @@
  {
   "id": "collectible-1037",
   "name": "Huy chương bản đồ - Marquis",
+  "code": "#CSGO_Collectible_MapTokenMarquis",
   "description": null,
   "def_index": "1037",
   "rarity": {
@@ -2402,6 +2562,7 @@
  {
   "id": "collectible-1038",
   "name": "Huy chương bản đồ - Workout",
+  "code": "#CSGO_Collectible_MapTokenWorkout",
   "description": null,
   "def_index": "1038",
   "rarity": {
@@ -2417,6 +2578,7 @@
  {
   "id": "collectible-1039",
   "name": "Huy chương bản đồ - Backalley",
+  "code": "#CSGO_Collectible_MapTokenBackalley",
   "description": null,
   "def_index": "1039",
   "rarity": {
@@ -2432,6 +2594,7 @@
  {
   "id": "collectible-1040",
   "name": "Huy chương bản đồ - Season",
+  "code": "#CSGO_Collectible_MapTokenSeason",
   "description": null,
   "def_index": "1040",
   "rarity": {
@@ -2447,6 +2610,7 @@
  {
   "id": "collectible-1041",
   "name": "Huy chương bản đồ - Bazaar",
+  "code": "#CSGO_Collectible_MapTokenBazaar",
   "description": null,
   "def_index": "1041",
   "rarity": {
@@ -2462,6 +2626,7 @@
  {
   "id": "collectible-1042",
   "name": "Huy chương bản đồ - Facade",
+  "code": "#CSGO_Collectible_MapTokenFacade",
   "description": null,
   "def_index": "1042",
   "rarity": {
@@ -2477,6 +2642,7 @@
  {
   "id": "collectible-1043",
   "name": "Huy chương bản đồ - Log",
+  "code": "#CSGO_Collectible_MapTokenLog",
   "description": null,
   "def_index": "1043",
   "rarity": {
@@ -2492,6 +2658,7 @@
  {
   "id": "collectible-1044",
   "name": "Huy chương bản đồ - Rails",
+  "code": "#CSGO_Collectible_MapTokenRails",
   "description": null,
   "def_index": "1044",
   "rarity": {
@@ -2507,6 +2674,7 @@
  {
   "id": "collectible-1045",
   "name": "Huy chương bản đồ - Resort",
+  "code": "#CSGO_Collectible_MapTokenResort",
   "description": null,
   "def_index": "1045",
   "rarity": {
@@ -2522,6 +2690,7 @@
  {
   "id": "collectible-1046",
   "name": "Huy chương bản đồ - Zoo",
+  "code": "#CSGO_Collectible_MapTokenZoo",
   "description": null,
   "def_index": "1046",
   "rarity": {
@@ -2537,6 +2706,7 @@
  {
   "id": "collectible-1047",
   "name": "Huy chương bản đồ - Santorini",
+  "code": "#CSGO_Collectible_MapTokenSantorini",
   "description": null,
   "def_index": "1047",
   "rarity": {
@@ -2552,6 +2722,7 @@
  {
   "id": "collectible-1048",
   "name": "Huy chương bản đồ - Coast",
+  "code": "#CSGO_Collectible_MapTokenCoast",
   "description": null,
   "def_index": "1048",
   "rarity": {
@@ -2567,6 +2738,7 @@
  {
   "id": "collectible-1049",
   "name": "Huy chương bản đồ - Mikla",
+  "code": "#CSGO_Collectible_MapTokenMikla",
   "description": null,
   "def_index": "1049",
   "rarity": {
@@ -2582,6 +2754,7 @@
  {
   "id": "collectible-1050",
   "name": "Huy chương bản đồ - Royal",
+  "code": "#CSGO_Collectible_MapTokenRoyal",
   "description": null,
   "def_index": "1050",
   "rarity": {
@@ -2597,6 +2770,7 @@
  {
   "id": "collectible-1051",
   "name": "Huy chương bản đồ - Empire",
+  "code": "#CSGO_Collectible_MapTokenEmpire",
   "description": null,
   "def_index": "1051",
   "rarity": {
@@ -2612,6 +2786,7 @@
  {
   "id": "collectible-1052",
   "name": "Huy chương bản đồ - Tulip",
+  "code": "#CSGO_Collectible_MapTokenTulip",
   "description": null,
   "def_index": "1052",
   "rarity": {
@@ -2627,6 +2802,7 @@
  {
   "id": "collectible-1053",
   "name": "Huy chương bản đồ - Cruise",
+  "code": "#CSGO_Collectible_MapTokenCruise",
   "description": null,
   "def_index": "1053",
   "rarity": {
@@ -2642,6 +2818,7 @@
  {
   "id": "collectible-1054",
   "name": "Huy chương bản đồ - Subzero",
+  "code": "#CSGO_Collectible_MapTokenSubzero",
   "description": null,
   "def_index": "1054",
   "rarity": {
@@ -2657,6 +2834,7 @@
  {
   "id": "collectible-1055",
   "name": "Huy chương bản đồ - Biome",
+  "code": "#CSGO_Collectible_MapTokenBiome",
   "description": null,
   "def_index": "1055",
   "rarity": {
@@ -2672,6 +2850,7 @@
  {
   "id": "collectible-1056",
   "name": "Huy chương bản đồ - Abbey",
+  "code": "#CSGO_Collectible_MapTokenAbbey",
   "description": null,
   "def_index": "1056",
   "rarity": {
@@ -2687,6 +2866,7 @@
  {
   "id": "collectible-1057",
   "name": "Huy chương bản đồ - Ruby",
+  "code": "#CSGO_Collectible_MapTokenRuby",
   "description": null,
   "def_index": "1057",
   "rarity": {
@@ -2702,6 +2882,7 @@
  {
   "id": "collectible-1058",
   "name": "Huy chương bản đồ - Breach",
+  "code": "#CSGO_Collectible_MapTokenBreach",
   "description": null,
   "def_index": "1058",
   "rarity": {
@@ -2717,6 +2898,7 @@
  {
   "id": "collectible-1059",
   "name": "Huy chương bản đồ - Studio",
+  "code": "#CSGO_Collectible_MapTokenStudio",
   "description": null,
   "def_index": "1059",
   "rarity": {
@@ -2732,6 +2914,7 @@
  {
   "id": "collectible-1060",
   "name": "Huy chương bản đồ - Jungle",
+  "code": "#CSGO_Collectible_MapTokenJungle",
   "description": null,
   "def_index": "1060",
   "rarity": {
@@ -2747,6 +2930,7 @@
  {
   "id": "collectible-1061",
   "name": "Huy chương bản đồ - Anubis",
+  "code": "#CSGO_Collectible_MapTokenAnubis",
   "description": null,
   "def_index": "1061",
   "rarity": {
@@ -2762,6 +2946,7 @@
  {
   "id": "collectible-1062",
   "name": "Huy chương bản đồ - Chlorine",
+  "code": "#CSGO_Collectible_MapTokenChlorine",
   "description": null,
   "def_index": "1062",
   "rarity": {
@@ -2777,6 +2962,7 @@
  {
   "id": "collectible-1063",
   "name": "Huy chương bản đồ - Mutiny",
+  "code": "#CSGO_Collectible_MapTokenMutiny",
   "description": null,
   "def_index": "1063",
   "rarity": {
@@ -2792,6 +2978,7 @@
  {
   "id": "collectible-1064",
   "name": "Huy chương bản đồ - Swamp",
+  "code": "#CSGO_Collectible_MapTokenSwamp",
   "description": null,
   "def_index": "1064",
   "rarity": {
@@ -2807,6 +2994,7 @@
  {
   "id": "collectible-1065",
   "name": "Huy chương bản đồ - Frostbite",
+  "code": "#CSGO_Collectible_MapTokenFrostbite",
   "description": null,
   "def_index": "1065",
   "rarity": {
@@ -2822,6 +3010,7 @@
  {
   "id": "collectible-1066",
   "name": "Huy chương bản đồ - Engage",
+  "code": "#CSGO_Collectible_MapTokenEngage",
   "description": null,
   "def_index": "1066",
   "rarity": {
@@ -2837,6 +3026,7 @@
  {
   "id": "collectible-1067",
   "name": "Huy chương bản đồ - Apollo",
+  "code": "#CSGO_Collectible_MapTokenApollo",
   "description": null,
   "def_index": "1067",
   "rarity": {
@@ -2852,6 +3042,7 @@
  {
   "id": "collectible-1068",
   "name": "Huy chương bản đồ - Guard",
+  "code": "#CSGO_Collectible_MapTokenGuard",
   "description": null,
   "def_index": "1068",
   "rarity": {
@@ -2867,6 +3058,7 @@
  {
   "id": "collectible-1069",
   "name": "Huy chương bản đồ - Elysion",
+  "code": "#CSGO_Collectible_MapTokenElysion",
   "description": null,
   "def_index": "1069",
   "rarity": {
@@ -2882,6 +3074,7 @@
  {
   "id": "collectible-1070",
   "name": "Huy chương bản đồ - Grind",
+  "code": "#CSGO_Collectible_MapTokenGrind",
   "description": null,
   "def_index": "1070",
   "rarity": {
@@ -2897,6 +3090,7 @@
  {
   "id": "collectible-1071",
   "name": "Huy chương bản đồ - Mocha",
+  "code": "#CSGO_Collectible_MapTokenMocha",
   "description": null,
   "def_index": "1071",
   "rarity": {
@@ -2912,6 +3106,7 @@
  {
   "id": "collectible-1072",
   "name": "Huy chương bản đồ - Calavera",
+  "code": "#CSGO_Collectible_MapTokenCalavera",
   "description": null,
   "def_index": "1072",
   "rarity": {
@@ -2927,6 +3122,7 @@
  {
   "id": "collectible-1073",
   "name": "Huy chương bản đồ - Pitstop",
+  "code": "#CSGO_Collectible_MapTokenPitstop",
   "description": null,
   "def_index": "1073",
   "rarity": {
@@ -2942,6 +3138,7 @@
  {
   "id": "collectible-1074",
   "name": "Huy chương bản đồ - Basalt",
+  "code": "#CSGO_Collectible_MapTokenBasalt",
   "description": null,
   "def_index": "1074",
   "rarity": {
@@ -2957,6 +3154,7 @@
  {
   "id": "collectible-1075",
   "name": "Huy chương bản đồ - Insertion II",
+  "code": "#CSGO_Collectible_MapTokenInsertion2",
   "description": null,
   "def_index": "1075",
   "rarity": {
@@ -2972,6 +3170,7 @@
  {
   "id": "collectible-1076",
   "name": "Huy chương bản đồ - Ravine",
+  "code": "#CSGO_Collectible_MapTokenRavine",
   "description": null,
   "def_index": "1076",
   "rarity": {
@@ -2987,6 +3186,7 @@
  {
   "id": "collectible-1077",
   "name": "Huy chương bản đồ - Extraction",
+  "code": "#CSGO_Collectible_MapTokenExtraction",
   "description": null,
   "def_index": "1077",
   "rarity": {
@@ -3002,6 +3202,7 @@
  {
   "id": "collectible-1078",
   "name": "Huy chương bản đồ - County",
+  "code": "#CSGO_Collectible_MapTokenCounty",
   "description": null,
   "def_index": "1078",
   "rarity": {
@@ -3017,6 +3218,7 @@
  {
   "id": "collectible-1079",
   "name": "Huy chương bản đồ - Iris",
+  "code": "#CSGO_Collectible_MapTokenIris",
   "description": null,
   "def_index": "1079",
   "rarity": {
@@ -3032,6 +3234,7 @@
  {
   "id": "collectible-1080",
   "name": "Huy chương bản đồ - Climb",
+  "code": "#CSGO_Collectible_MapTokenClimb",
   "description": null,
   "def_index": "1080",
   "rarity": {
@@ -3047,6 +3250,7 @@
  {
   "id": "collectible-1081",
   "name": "Huy chương bản đồ - Crete",
+  "code": "#CSGO_Collectible_MapTokenCrete",
   "description": null,
   "def_index": "1081",
   "rarity": {
@@ -3062,6 +3266,7 @@
  {
   "id": "collectible-1082",
   "name": "Huy chương bản đồ - Hive",
+  "code": "#CSGO_Collectible_MapTokenHive",
   "description": null,
   "def_index": "1082",
   "rarity": {
@@ -3077,6 +3282,7 @@
  {
   "id": "collectible-1083",
   "name": "Huy chương bản đồ - Vineyard",
+  "code": "#CSGO_Collectible_MapTokenVineyard",
   "description": null,
   "def_index": "1083",
   "rarity": {
@@ -3092,6 +3298,7 @@
  {
   "id": "collectible-1084",
   "name": "Huy chương bản đồ - Ember",
+  "code": "#CSGO_Collectible_MapTokenEmber",
   "description": null,
   "def_index": "1084",
   "rarity": {
@@ -3107,6 +3314,7 @@
  {
   "id": "collectible-1085",
   "name": "Huy chương bản đồ - Tuscan",
+  "code": "#CSGO_Collectible_MapTokenTuscan",
   "description": null,
   "def_index": "1085",
   "rarity": {
@@ -3122,6 +3330,7 @@
  {
   "id": "collectible-1086",
   "name": "Huy chương bản đồ - Cascade",
+  "code": "#CSGO_Collectible_MapTokenPrime",
   "description": null,
   "def_index": "1086",
   "rarity": {
@@ -3137,6 +3346,7 @@
  {
   "id": "collectible-1087",
   "name": "Huy chương bản đồ - Blagai",
+  "code": "#CSGO_Collectible_MapTokenBlagai",
   "description": null,
   "def_index": "1087",
   "rarity": {
@@ -3152,6 +3362,7 @@
  {
   "id": "collectible-1088",
   "name": "Huy chương bản đồ - Boyard",
+  "code": "#CSGO_Collectible_MapTokenBoyard",
   "description": null,
   "def_index": "1088",
   "rarity": {
@@ -3167,6 +3378,7 @@
  {
   "id": "collectible-1089",
   "name": "Huy chương bản đồ - Chalice",
+  "code": "#CSGO_Collectible_MapTokenChalice",
   "description": null,
   "def_index": "1089",
   "rarity": {
@@ -3182,6 +3394,7 @@
  {
   "id": "collectible-1315",
   "name": "Vé chiến dịch Vanguard",
+  "code": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
   "description": "Chiến dịch Vanguard kéo dài từ ngày 11 tháng 11 cho tới ngày 31 tháng 3 năm 2015. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy hiệu kỷ niệm chiến dịch Phoenix.",
   "def_index": "1315",
   "rarity": {
@@ -3197,6 +3410,7 @@
  {
   "id": "collectible-1316",
   "name": "Huy chương thử thách chiến dịch Vanguard",
+  "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
   "description": "Đã tham gia chiến dịch Vanguard.",
   "def_index": "1316",
   "rarity": {
@@ -3212,6 +3426,7 @@
  {
   "id": "collectible-1317",
   "name": "Huy chương bạc chiến dịch Vanguard",
+  "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
   "description": "Đã tham gia chiến dịch Vanguard.",
   "def_index": "1317",
   "rarity": {
@@ -3227,6 +3442,7 @@
  {
   "id": "collectible-1318",
   "name": "Huy chương vàng chiến dịch Vanguard",
+  "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
   "description": "Đã tham gia chiến dịch Vanguard.",
   "def_index": "1318",
   "rarity": {
@@ -3242,6 +3458,7 @@
  {
   "id": "collectible-1326",
   "name": "Vé chiến dịch Bloodhound",
+  "code": "#CSGO_Ticket_CommunitySeasonSix2015",
   "description": "Chiến dịch Bloodhound kéo dài từ ngày 26 tháng 5 cho tới ngày 1 tháng 10 năm 2015. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy hiệu kỷ niệm chiến dịch Bloodhound.",
   "def_index": "1326",
   "rarity": {
@@ -3257,6 +3474,7 @@
  {
   "id": "collectible-1327",
   "name": "Huy chương thử thách chiến dịch Bloodhound",
+  "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
   "description": "Đã tham gia chiến dịch Bloodhound.",
   "def_index": "1327",
   "rarity": {
@@ -3272,6 +3490,7 @@
  {
   "id": "collectible-1328",
   "name": "Huy chương bạc chiến dịch Bloodhound",
+  "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
   "description": "Đã tham gia chiến dịch Bloodhound.",
   "def_index": "1328",
   "rarity": {
@@ -3287,6 +3506,7 @@
  {
   "id": "collectible-1329",
   "name": "Huy chương vàng chiến dịch Bloodhound",
+  "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
   "description": "Đã tham gia chiến dịch Bloodhound.",
   "def_index": "1329",
   "rarity": {
@@ -3302,6 +3522,7 @@
  {
   "id": "collectible-1331",
   "name": "Huy chương phục vụ 2015",
+  "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2015.",
   "def_index": "1331",
   "rarity": {
@@ -3317,6 +3538,7 @@
  {
   "id": "collectible-1332",
   "name": "Huy chương phục vụ 2015",
+  "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2015.",
   "def_index": "1332",
   "rarity": {
@@ -3332,6 +3554,7 @@
  {
   "id": "collectible-1335",
   "name": "Vé chiến dịch Wildfire",
+  "code": "#CSGO_Ticket_CommunitySeasonSeven2016",
   "description": "Chiến dịch Wildfire kéo dài từ ngày 17 tháng 2 cho tới ngày 13 tháng 7 năm 2016. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy hiệu kỷ niệm chiến dịch Wildfire.",
   "def_index": "1335",
   "rarity": {
@@ -3347,6 +3570,7 @@
  {
   "id": "collectible-1336",
   "name": "Huy chương thử thách chiến dịch Wildfire",
+  "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
   "description": "Đã tham gia chiến dịch Wildfire.",
   "def_index": "1336",
   "rarity": {
@@ -3362,6 +3586,7 @@
  {
   "id": "collectible-1337",
   "name": "Huy chương bạc chiến dịch Wildfire",
+  "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
   "description": "Đã tham gia chiến dịch Wildfire.",
   "def_index": "1337",
   "rarity": {
@@ -3377,6 +3602,7 @@
  {
   "id": "collectible-1338",
   "name": "Huy chương vàng chiến dịch Wildfire",
+  "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
   "description": "Đã tham gia chiến dịch Wildfire.",
   "def_index": "1338",
   "rarity": {
@@ -3392,6 +3618,7 @@
  {
   "id": "collectible-1339",
   "name": "Huy chương phục vụ 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2016.",
   "def_index": "1339",
   "rarity": {
@@ -3407,6 +3634,7 @@
  {
   "id": "collectible-1340",
   "name": "Huy chương phục vụ 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2016.",
   "def_index": "1340",
   "rarity": {
@@ -3422,6 +3650,7 @@
  {
   "id": "collectible-1341",
   "name": "Huy chương phục vụ 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2016.",
   "def_index": "1341",
   "rarity": {
@@ -3437,6 +3666,7 @@
  {
   "id": "collectible-1342",
   "name": "Huy chương phục vụ 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2016.",
   "def_index": "1342",
   "rarity": {
@@ -3452,6 +3682,7 @@
  {
   "id": "collectible-1343",
   "name": "Huy chương phục vụ 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2016.",
   "def_index": "1343",
   "rarity": {
@@ -3467,6 +3698,7 @@
  {
   "id": "collectible-1344",
   "name": "Huy chương phục vụ 2016",
+  "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2016.",
   "def_index": "1344",
   "rarity": {
@@ -3482,6 +3714,7 @@
  {
   "id": "collectible-1352",
   "name": "Vé chiến dịch Hydra",
+  "code": "#CSGO_Ticket_CommunitySeasonEight2017",
   "description": "Sự kiện chiến dịch Hydra diễn ra từ 23 tháng 5 đến 14 tháng 11, 2017. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy hiệu kỷ niệm chiến dịch Hydra.",
   "def_index": "1352",
   "rarity": {
@@ -3497,6 +3730,7 @@
  {
   "id": "collectible-1357",
   "name": "Huy chương phục vụ 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2017.",
   "def_index": "1357",
   "rarity": {
@@ -3512,6 +3746,7 @@
  {
   "id": "collectible-1358",
   "name": "Huy chương phục vụ 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2017.",
   "def_index": "1358",
   "rarity": {
@@ -3527,6 +3762,7 @@
  {
   "id": "collectible-1359",
   "name": "Huy chương phục vụ 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2017.",
   "def_index": "1359",
   "rarity": {
@@ -3542,6 +3778,7 @@
  {
   "id": "collectible-1360",
   "name": "Huy chương phục vụ 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2017.",
   "def_index": "1360",
   "rarity": {
@@ -3557,6 +3794,7 @@
  {
   "id": "collectible-1361",
   "name": "Huy chương phục vụ 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2017.",
   "def_index": "1361",
   "rarity": {
@@ -3572,6 +3810,7 @@
  {
   "id": "collectible-1362",
   "name": "Huy chương phục vụ 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2017.",
   "def_index": "1362",
   "rarity": {
@@ -3587,6 +3826,7 @@
  {
   "id": "collectible-1363",
   "name": "Huy chương phục vụ 2017",
+  "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2017.",
   "def_index": "1363",
   "rarity": {
@@ -3602,6 +3842,7 @@
  {
   "id": "collectible-1367",
   "name": "Huy chương phục vụ 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2018.",
   "def_index": "1367",
   "rarity": {
@@ -3617,6 +3858,7 @@
  {
   "id": "collectible-1368",
   "name": "Huy chương phục vụ 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2018.",
   "def_index": "1368",
   "rarity": {
@@ -3632,6 +3874,7 @@
  {
   "id": "collectible-1369",
   "name": "Huy chương phục vụ 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2018.",
   "def_index": "1369",
   "rarity": {
@@ -3647,6 +3890,7 @@
  {
   "id": "collectible-1370",
   "name": "Huy chương phục vụ 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2018.",
   "def_index": "1370",
   "rarity": {
@@ -3662,6 +3906,7 @@
  {
   "id": "collectible-1371",
   "name": "Huy chương phục vụ 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2018.",
   "def_index": "1371",
   "rarity": {
@@ -3677,6 +3922,7 @@
  {
   "id": "collectible-1372",
   "name": "Huy chương phục vụ 2018",
+  "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2018.",
   "def_index": "1372",
   "rarity": {
@@ -3692,6 +3938,7 @@
  {
   "id": "collectible-1376",
   "name": "Huy chương phục vụ 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2019.",
   "def_index": "1376",
   "rarity": {
@@ -3707,6 +3954,7 @@
  {
   "id": "collectible-1377",
   "name": "Huy chương phục vụ 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2019.",
   "def_index": "1377",
   "rarity": {
@@ -3722,6 +3970,7 @@
  {
   "id": "collectible-1378",
   "name": "Huy chương phục vụ 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2019.",
   "def_index": "1378",
   "rarity": {
@@ -3737,6 +3986,7 @@
  {
   "id": "collectible-1379",
   "name": "Huy chương phục vụ 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2019.",
   "def_index": "1379",
   "rarity": {
@@ -3752,6 +4002,7 @@
  {
   "id": "collectible-1380",
   "name": "Huy chương phục vụ 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2019.",
   "def_index": "1380",
   "rarity": {
@@ -3767,6 +4018,7 @@
  {
   "id": "collectible-1381",
   "name": "Huy chương phục vụ 2019",
+  "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2019.",
   "def_index": "1381",
   "rarity": {
@@ -3782,6 +4034,7 @@
  {
   "id": "collectible-4353",
   "name": "Huy chương thử thách chiến dịch Hydra",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
   "description": "Đã tham gia chiến dịch Hydra.",
   "def_index": "4353",
   "rarity": {
@@ -3797,6 +4050,7 @@
  {
   "id": "collectible-4354",
   "name": "Huy chương bạc chiến dịch Hydra",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
   "description": "Đã tham gia chiến dịch Hydra.",
   "def_index": "4354",
   "rarity": {
@@ -3812,6 +4066,7 @@
  {
   "id": "collectible-4355",
   "name": "Huy chương vàng chiến dịch Hydra",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
   "description": "Đã tham gia chiến dịch Hydra.",
   "def_index": "4355",
   "rarity": {
@@ -3827,6 +4082,7 @@
  {
   "id": "collectible-4356",
   "name": "Huy chương kim cương chiến dịch Hydra",
+  "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
   "description": "Đã hoàn thành chiến dịch Hydra.",
   "def_index": "4356",
   "rarity": {
@@ -3842,6 +4098,7 @@
  {
   "id": "collectible-4549",
   "name": "Vé chiến dịch Shattered Web cao cấp",
+  "code": "#CSGO_Ticket_CommunitySeasonNine2019",
   "description": "Sự kiện chiến dịch Shattered Web diễn ra từ 18/11/2019 đến 31/3/2020. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy chương kỷ niệm chiến dịch Shattered Web.",
   "def_index": "4549",
   "rarity": {
@@ -3857,6 +4114,7 @@
  {
   "id": "collectible-4550",
   "name": "Huy hiệu thử thách Chiến dịch Shattered Web",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
   "description": "Đã tham gia chiến dịch Shattered Web.",
   "def_index": "4550",
   "rarity": {
@@ -3872,6 +4130,7 @@
  {
   "id": "collectible-4551",
   "name": "Huy hiệu bạc chiến dịch Shattered Web",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
   "description": "Đã tham gia chiến dịch Shattered Web.",
   "def_index": "4551",
   "rarity": {
@@ -3887,6 +4146,7 @@
  {
   "id": "collectible-4552",
   "name": "Huy hiệu vàng chiến dịch Shattered Web",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
   "description": "Đã tham gia chiến dịch Shattered Web.",
   "def_index": "4552",
   "rarity": {
@@ -3902,6 +4162,7 @@
  {
   "id": "collectible-4553",
   "name": "Huy hiệu kim cương chiến dịch Shattered Web",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
   "description": "Đã hoàn thành chiến dịch Shattered Web.",
   "def_index": "4553",
   "rarity": {
@@ -3917,6 +4178,7 @@
  {
   "id": "collectible-4554",
   "name": "Vé xem Katowice 2019",
+  "code": "#CSGO_TournamentPass_katowice2019",
   "description": "Đây là một vé xem giải CS:GO Major IEM 2019 Katowice chưa được mở. Khi mở chiếc vé này, nó sẽ cho bạn huy chương Katowice 2019, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Katowice 2019, cơ hội độc quyền để có được Gói vật phẩm lưu niệm, ảnh tán gẫu trên Steam.tv và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Katowice 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Gói vật phẩm lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4554",
   "rarity": {
@@ -3932,6 +4194,7 @@
  {
   "id": "collectible-4555",
   "name": "Huy chương Katowice 2019",
+  "code": "#CSGO_TournamentJournal_katowice2019",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major IEM 2019 Katowice, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Katowice 2019, cơ hội độc quyền để có được Gói vật phẩm lưu niệm, ảnh tán gẫu trên Steam.tv và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Katowice 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Gói vật phẩm lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4555",
   "rarity": {
@@ -3947,6 +4210,7 @@
  {
   "id": "collectible-4556",
   "name": "Huy chương Bạc Katowice 2019",
+  "code": "#CSGO_TournamentJournal_katowice2019_Silver",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major IEM 2019 Katowice, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Katowice 2019, cơ hội độc quyền để có được Gói vật phẩm lưu niệm, ảnh tán gẫu trên Steam.tv và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Katowice 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Gói vật phẩm lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4556",
   "rarity": {
@@ -3962,6 +4226,7 @@
  {
   "id": "collectible-4557",
   "name": "Huy chương Vàng Katowice 2019",
+  "code": "#CSGO_TournamentJournal_katowice2019_Gold",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major IEM 2019 Katowice, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Katowice 2019, cơ hội độc quyền để có được Gói vật phẩm lưu niệm, ảnh tán gẫu trên Steam.tv và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Katowice 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Gói vật phẩm lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4557",
   "rarity": {
@@ -3977,6 +4242,7 @@
  {
   "id": "collectible-4558",
   "name": "Huy chương kim cương Katowice 2019",
+  "code": "#CSGO_TournamentJournal_katowice2019_Crystal",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major IEM 2019 Katowice, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Katowice 2019, cơ hội độc quyền để có được Gói vật phẩm lưu niệm, ảnh tán gẫu trên Steam.tv và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Katowice 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một Gói vật phẩm lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4558",
   "rarity": {
@@ -3992,6 +4258,7 @@
  {
   "id": "collectible-4622",
   "name": "Vé xem Berlin 2019",
+  "code": "#CSGO_TournamentPass_berlin2019",
   "description": "Đây là một vé xem giải CS:GO Major 2019 Berlin chưa được mở. Khi mở chiếc vé này, nó sẽ cho bạn huy chương Berlin 2019, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Berlin 2019, ảnh tán gẫu trên Steam.tv và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Berlin 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4622",
   "rarity": {
@@ -4007,6 +4274,7 @@
  {
   "id": "collectible-4623",
   "name": "Huy chương Berlin 2019",
+  "code": "#CSGO_TournamentJournal_berlin2019",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major 2019 Berlin, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Katowice 2019, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Berlin 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4623",
   "rarity": {
@@ -4022,6 +4290,7 @@
  {
   "id": "collectible-4624",
   "name": "Huy chương Bạc Berlin 2019",
+  "code": "#CSGO_TournamentJournal_berlin2019_Silver",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major 2019 Berlin, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Katowice 2019, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Berlin 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4624",
   "rarity": {
@@ -4037,6 +4306,7 @@
  {
   "id": "collectible-4625",
   "name": "Huy chương Vàng Berlin 2019",
+  "code": "#CSGO_TournamentJournal_berlin2019_Gold",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major 2019 Berlin, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Katowice 2019, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Berlin 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4625",
   "rarity": {
@@ -4052,6 +4322,7 @@
  {
   "id": "collectible-4626",
   "name": "Huy chương kim cương Berlin 2019",
+  "code": "#CSGO_TournamentJournal_berlin2019_Crystal",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major 2019 Berlin, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Katowice 2019, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Berlin 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4626",
   "rarity": {
@@ -4067,6 +4338,7 @@
  {
   "id": "collectible-4627",
   "name": "Vé xem Berlin 2019 + 3 token lưu niệm",
+  "code": "#CSGO_TournamentPass_berlin2019_pack",
   "description": "Đây là một vé xem giải CS:GO Major 2019 Berlin chưa được mở. Khi mở chiếc vé này, nó sẽ cho bạn huy chương Berlin 2019, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Berlin 2019, ảnh tán gẫu trên Steam.tv và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Berlin 2019 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.\\n\\nVé xem này sẽ kích hoạt sẵn huy hiệu Berlin 2019 của bạn với 3 token lưu niệm.",
   "def_index": "4627",
   "rarity": {
@@ -4082,6 +4354,7 @@
  {
   "id": "collectible-4628",
   "name": "Token lưu niệm Berlin 2019",
+  "code": "#CSGO_TournamentPass_berlin2019_charge",
   "description": "Đây là một token lưu niệm CS:GO Major 2019 Berlin chưa được mở. Khi mở token này, nó sẽ thêm một token vào Huy chương Berlin 2019 của bạn và cho phép nhận gói quà lưu niệm.\\n\\nToken chỉ có thể áp dụng cho Huy chương Berlin 2019 bạn hiện có.",
   "def_index": "4628",
   "rarity": {
@@ -4097,6 +4370,7 @@
  {
   "id": "collectible-4671",
   "name": "1 sao cho chiến dịch Shattered Web",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
   "description": "Gói nâng cấp sao chiến dịch tặng bạn <b>1 sao chiến dịch</b> khi được kích hoạt.\\n\\nGói này chỉ dành cho người chơi sở hữu huy hiệu chiến dịch.",
   "def_index": "4671",
   "rarity": {
@@ -4112,6 +4386,7 @@
  {
   "id": "collectible-4672",
   "name": "10 sao cho chiến dịch Shattered Web",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
   "description": "Gói nâng cấp sao chiến dịch tặng bạn <b>10 sao chiến dịch</b> khi được kích hoạt.\\n\\nGói này chỉ dành cho người chơi sở hữu huy hiệu chiến dịch.",
   "def_index": "4672",
   "rarity": {
@@ -4127,6 +4402,7 @@
  {
   "id": "collectible-4673",
   "name": "100 sao cho chiến dịch Shattered Web",
+  "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
   "description": "Gói nâng cấp sao chiến dịch tặng bạn <b>100 sao chiến dịch</b> khi được kích hoạt.\\n\\nGói này chỉ dành cho người chơi sở hữu huy hiệu chiến dịch.",
   "def_index": "4673",
   "rarity": {
@@ -4142,6 +4418,7 @@
  {
   "id": "collectible-4674",
   "name": "Huy chương phục vụ 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2020.",
   "def_index": "4674",
   "rarity": {
@@ -4157,6 +4434,7 @@
  {
   "id": "collectible-4675",
   "name": "Huy chương phục vụ 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2020.",
   "def_index": "4675",
   "rarity": {
@@ -4172,6 +4450,7 @@
  {
   "id": "collectible-4676",
   "name": "Huy chương phục vụ 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2020.",
   "def_index": "4676",
   "rarity": {
@@ -4187,6 +4466,7 @@
  {
   "id": "collectible-4677",
   "name": "Huy chương phục vụ 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2020.",
   "def_index": "4677",
   "rarity": {
@@ -4202,6 +4482,7 @@
  {
   "id": "collectible-4678",
   "name": "Huy chương phục vụ 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2020.",
   "def_index": "4678",
   "rarity": {
@@ -4217,6 +4498,7 @@
  {
   "id": "collectible-4679",
   "name": "Huy chương phục vụ 2020",
+  "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2020.",
   "def_index": "4679",
   "rarity": {
@@ -4232,6 +4514,7 @@
  {
   "id": "collectible-4682",
   "name": "Civil Protection Pin",
+  "code": "#CSGO_Collectible_Pin_alyx_04",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4682",
   "rarity": {
@@ -4247,6 +4530,7 @@
  {
   "id": "collectible-4683",
   "name": "Huy hiệu Sustenance!",
+  "code": "#CSGO_Collectible_Pin_alyx_07",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4683",
   "rarity": {
@@ -4262,6 +4546,7 @@
  {
   "id": "collectible-4684",
   "name": "Huy hiệu Vortigaunt",
+  "code": "#CSGO_Collectible_Pin_alyx_09",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4684",
   "rarity": {
@@ -4277,6 +4562,7 @@
  {
   "id": "collectible-4685",
   "name": "Huy hiệu Headcrab Glyph",
+  "code": "#CSGO_Collectible_Pin_alyx_05",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4685",
   "rarity": {
@@ -4292,6 +4578,7 @@
  {
   "id": "collectible-4686",
   "name": "Huy hiệu sức khỏe",
+  "code": "#CSGO_Collectible_Pin_alyx_12",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4686",
   "rarity": {
@@ -4307,6 +4594,7 @@
  {
   "id": "collectible-4687",
   "name": "Huy hiệu Lambda",
+  "code": "#CSGO_Collectible_Pin_alyx_01",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4687",
   "rarity": {
@@ -4322,6 +4610,7 @@
  {
   "id": "collectible-4688",
   "name": "Huy hiệu Lambda Đồng",
+  "code": "#CSGO_Collectible_Pin_alyx_02",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4688",
   "rarity": {
@@ -4337,6 +4626,7 @@
  {
   "id": "collectible-4689",
   "name": "Huy hiệu CMB",
+  "code": "#CSGO_Collectible_Pin_alyx_03",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4689",
   "rarity": {
@@ -4352,6 +4642,7 @@
  {
   "id": "collectible-4690",
   "name": "Huy hiệu Black Mesa",
+  "code": "#CSGO_Collectible_Pin_alyx_06",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4690",
   "rarity": {
@@ -4367,6 +4658,7 @@
  {
   "id": "collectible-4691",
   "name": "Huy hiệu mũ Combine",
+  "code": "#CSGO_Collectible_Pin_alyx_08",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4691",
   "rarity": {
@@ -4382,6 +4674,7 @@
  {
   "id": "collectible-4692",
   "name": "Huy hiệu City 17",
+  "code": "#CSGO_Collectible_Pin_alyx_11",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "4692",
   "rarity": {
@@ -4397,6 +4690,7 @@
  {
   "id": "collectible-4699",
   "name": "Vé chiến dịch Broken Fang cao cấp",
+  "code": "#CSGO_Ticket_CommunitySeasonTen2020",
   "description": "Chiến dịch Broken Fang kéo dài từ ngày 12 tháng 3, 2020 cho tới ngày 30 tháng 4 năm 2021. Chiếc vé này hiện không thể cho bạn quyền tham gia một chiến dịch, nhưng nó có thể được quy đổi thành huy hiệu kỷ niệm chiến dịch Broken Fang.",
   "def_index": "4699",
   "rarity": {
@@ -4412,6 +4706,7 @@
  {
   "id": "collectible-4700",
   "name": "Huy chương thử thách chiến dịch Broken Fang",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
   "description": "Đã tham gia chiến dịch Broken Fang.",
   "def_index": "4700",
   "rarity": {
@@ -4427,6 +4722,7 @@
  {
   "id": "collectible-4701",
   "name": "Huy chương bạc chiến dịch Broken Fang",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
   "description": "Đã tham gia chiến dịch Broken Fang.",
   "def_index": "4701",
   "rarity": {
@@ -4442,6 +4738,7 @@
  {
   "id": "collectible-4702",
   "name": "Huy chương vàng chiến dịch Broken Fang",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
   "description": "Đã tham gia chiến dịch Broken Fang.",
   "def_index": "4702",
   "rarity": {
@@ -4457,6 +4754,7 @@
  {
   "id": "collectible-4703",
   "name": "Huy chương kim cương chiến dịch Broken Fang",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
   "description": "Đã hoàn thành chiến dịch Broken Fang.",
   "def_index": "4703",
   "rarity": {
@@ -4472,6 +4770,7 @@
  {
   "id": "collectible-4704",
   "name": "1 sao cho chiến dịch Broken Fang",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
   "description": "Gói nâng cấp sao chiến dịch tặng bạn <b>1 sao chiến dịch</b> khi được kích hoạt.",
   "def_index": "4704",
   "rarity": {
@@ -4487,6 +4786,7 @@
  {
   "id": "collectible-4705",
   "name": "10 sao cho chiến dịch Broken Fang",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
   "description": "Gói nâng cấp sao chiến dịch tặng bạn <b>10 sao chiến dịch</b> khi được kích hoạt.",
   "def_index": "4705",
   "rarity": {
@@ -4502,6 +4802,7 @@
  {
   "id": "collectible-4706",
   "name": "100 sao cho chiến dịch Broken Fang",
+  "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
   "description": "Gói nâng cấp sao chiến dịch tặng bạn <b>100 sao chiến dịch</b> khi được kích hoạt.",
   "def_index": "4706",
   "rarity": {
@@ -4517,6 +4818,7 @@
  {
   "id": "collectible-4737",
   "name": "Huy chương phục vụ 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2021.",
   "def_index": "4737",
   "rarity": {
@@ -4532,6 +4834,7 @@
  {
   "id": "collectible-4738",
   "name": "Huy chương phục vụ 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2021.",
   "def_index": "4738",
   "rarity": {
@@ -4547,6 +4850,7 @@
  {
   "id": "collectible-4739",
   "name": "Huy chương phục vụ 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2021.",
   "def_index": "4739",
   "rarity": {
@@ -4562,6 +4866,7 @@
  {
   "id": "collectible-4740",
   "name": "Huy chương phục vụ 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2021.",
   "def_index": "4740",
   "rarity": {
@@ -4577,6 +4882,7 @@
  {
   "id": "collectible-4741",
   "name": "Huy chương phục vụ 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2021.",
   "def_index": "4741",
   "rarity": {
@@ -4592,6 +4898,7 @@
  {
   "id": "collectible-4742",
   "name": "Huy chương phục vụ 2021",
+  "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2021.",
   "def_index": "4742",
   "rarity": {
@@ -4607,6 +4914,7 @@
  {
   "id": "collectible-4758",
   "name": "Vé Premium chiến dịch Riptide",
+  "code": "#CSGO_Ticket_CommunitySeasonEleven2021",
   "description": "Vé Premium chiến dịch Riptide cho huy chương kỷ niệm Riptide có thể nâng cấp, nhiệm vụ hàng tuần, và truy cập độc quyền tới các vật phẩm trong cửa hàng chiến dịch.",
   "def_index": "4758",
   "rarity": {
@@ -4622,6 +4930,7 @@
  {
   "id": "collectible-4759",
   "name": "Huy chương thử thách chiến dịch Riptide",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
   "description": "Đã tham dự chiến dịch Riptide.",
   "def_index": "4759",
   "rarity": {
@@ -4637,6 +4946,7 @@
  {
   "id": "collectible-4760",
   "name": "Huy chương bạc chiến dịch Riptide",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
   "description": "Đã tham dự chiến dịch Riptide.",
   "def_index": "4760",
   "rarity": {
@@ -4652,6 +4962,7 @@
  {
   "id": "collectible-4761",
   "name": "Huy chương vàng chiến dịch Riptide",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
   "description": "Đã tham dự chiến dịch Riptide.",
   "def_index": "4761",
   "rarity": {
@@ -4667,6 +4978,7 @@
  {
   "id": "collectible-4762",
   "name": "Huy chương kim cương chiến dịch Riptide",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
   "description": "Hoàn thành chiến dịch Riptide.",
   "def_index": "4762",
   "rarity": {
@@ -4682,6 +4994,7 @@
  {
   "id": "collectible-4763",
   "name": "1 sao cho chiến dịch Riptide",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
   "description": "Gói nâng cấp sao chiến dịch tặng bạn <b>1 sao chiến dịch</b> khi được kích hoạt.",
   "def_index": "4763",
   "rarity": {
@@ -4697,6 +5010,7 @@
  {
   "id": "collectible-4764",
   "name": "10 sao cho chiến dịch Riptide",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
   "description": "Gói nâng cấp sao chiến dịch tặng bạn <b>10 sao chiến dịch</b> khi được kích hoạt.",
   "def_index": "4764",
   "rarity": {
@@ -4712,6 +5026,7 @@
  {
   "id": "collectible-4765",
   "name": "100 sao cho chiến dịch Riptide",
+  "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
   "description": "Gói nâng cấp sao chiến dịch tặng bạn <b>100 sao chiến dịch</b> khi được kích hoạt.",
   "def_index": "4765",
   "rarity": {
@@ -4727,6 +5042,7 @@
  {
   "id": "collectible-4796",
   "name": "Vé xem giải Stockholm 2021",
+  "code": "#CSGO_TournamentPass_stockh2021",
   "description": "Đây là vé xem giải vô địch Major CS:GO PGL Stockholm 2021 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn huy chương Stockholm 2021 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Stockholm 2021 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4796",
   "rarity": {
@@ -4742,6 +5058,7 @@
  {
   "id": "collectible-4797",
   "name": "Huy chương Stockholm 2021",
+  "code": "#CSGO_TournamentJournal_stockh2021",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major PGL Stockholm 2021, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Stockholm 2021 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4797",
   "rarity": {
@@ -4757,6 +5074,7 @@
  {
   "id": "collectible-4798",
   "name": "Huy chương bạc Stockholm 2021",
+  "code": "#CSGO_TournamentJournal_stockh2021_Silver",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major PGL Stockholm 2021, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Stockholm 2021 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4798",
   "rarity": {
@@ -4772,6 +5090,7 @@
  {
   "id": "collectible-4799",
   "name": "Huy chương vàng Stockholm 2021",
+  "code": "#CSGO_TournamentJournal_stockh2021_Gold",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major PGL Stockholm 2021, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Stockholm 2021 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4799",
   "rarity": {
@@ -4787,6 +5106,7 @@
  {
   "id": "collectible-4800",
   "name": "Huy chương kim cương Stockholm 2021",
+  "code": "#CSGO_TournamentJournal_stockh2021_Crystal",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major PGL Stockholm 2021, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Stockholm 2021 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4800",
   "rarity": {
@@ -4802,6 +5122,7 @@
  {
   "id": "collectible-4801",
   "name": "Vé xem giải Stockholm 2021 + 3 token lưu niệm",
+  "code": "#CSGO_TournamentPass_stockh2021_pack",
   "description": "Đây là một vé xem giải vô địch Major CS:GO PGL Stockholm 2021 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn một huy chương Stockholm 2021 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Stockholm 2021, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Stockholm 2021 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem giải này sẽ kèm theo cho bạn 3 token lưu niệm sau khi kích hoạt vé.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4801",
   "rarity": {
@@ -4817,6 +5138,7 @@
  {
   "id": "collectible-4802",
   "name": "Token lưu niệm Stockholm 2021",
+  "code": "#CSGO_TournamentPass_stockh2021_charge",
   "description": "Đây là một token lưu niệm giải vô địch Major CS:GO PGL Stockholm 2021 chưa được mở. Khi mở token này, nó sẽ thêm một token vào huy chương Stockholm 2021 của bạn và cho phép bạn nhận về một gói quà lưu niệm.\\n\\nToken chỉ có thể được áp dụng cho huy chương Stockholm 2021 bạn hiện có.",
   "def_index": "4802",
   "rarity": {
@@ -4832,6 +5154,7 @@
  {
   "id": "collectible-4819",
   "name": "Huy chương phục vụ 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2022.",
   "def_index": "4819",
   "rarity": {
@@ -4847,6 +5170,7 @@
  {
   "id": "collectible-4820",
   "name": "Huy chương phục vụ 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2022.",
   "def_index": "4820",
   "rarity": {
@@ -4862,6 +5186,7 @@
  {
   "id": "collectible-4821",
   "name": "Huy chương phục vụ 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2022.",
   "def_index": "4821",
   "rarity": {
@@ -4877,6 +5202,7 @@
  {
   "id": "collectible-4822",
   "name": "Huy chương phục vụ 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2022.",
   "def_index": "4822",
   "rarity": {
@@ -4892,6 +5218,7 @@
  {
   "id": "collectible-4823",
   "name": "Huy chương phục vụ 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2022.",
   "def_index": "4823",
   "rarity": {
@@ -4907,6 +5234,7 @@
  {
   "id": "collectible-4824",
   "name": "Huy chương phục vụ 2022",
+  "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2022.",
   "def_index": "4824",
   "rarity": {
@@ -4922,6 +5250,7 @@
  {
   "id": "collectible-4825",
   "name": "Vé xem giải Antwerp 2022",
+  "code": "#CSGO_TournamentPass_antwerp2022",
   "description": "Đây là vé xem giải vô địch Major CS:GO PGL Antwerp 2022 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn huy chương Antwerp 2022 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Antwerp 2022, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Antwerp 2022 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4825",
   "rarity": {
@@ -4937,6 +5266,7 @@
  {
   "id": "collectible-4826",
   "name": "Huy chương Antwerp 2022",
+  "code": "#CSGO_TournamentJournal_antwerp2022",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major PGL 2022 Antwerp, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Antwerp 2022, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Antwerp 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4826",
   "rarity": {
@@ -4952,6 +5282,7 @@
  {
   "id": "collectible-4827",
   "name": "Huy chương bạc Antwerp 2022",
+  "code": "#CSGO_TournamentJournal_antwerp2022_Silver",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major PGL 2022 Antwerp, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Antwerp 2022, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Antwerp 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4827",
   "rarity": {
@@ -4967,6 +5298,7 @@
  {
   "id": "collectible-4828",
   "name": "Huy chương vàng Antwerp 2022",
+  "code": "#CSGO_TournamentJournal_antwerp2022_Gold",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major PGL 2022 Antwerp, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Antwerp 2022, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Antwerp 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4828",
   "rarity": {
@@ -4982,6 +5314,7 @@
  {
   "id": "collectible-4829",
   "name": "Huy chương kim cương Antwerp 2022",
+  "code": "#CSGO_TournamentJournal_antwerp2022_Crystal",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major PGL 2022 Antwerp, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, cung cấp đầy đủ quyền tham gia Thử thách Pick'Em Antwerp 2022, ảnh tán gẫu trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Antwerp 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4829",
   "rarity": {
@@ -4997,6 +5330,7 @@
  {
   "id": "collectible-4830",
   "name": "Vé xem giải Antwerp 2022 + 3 token lưu niệm",
+  "code": "#CSGO_TournamentPass_antwerp2022_pack",
   "description": "Đây là một vé xem giải vô địch Major CS:GO PGL Antwerp 2022 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn một huy chương Antwerp 2022 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Antwerp 2022, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Antwerp 2022 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem giải này sẽ kèm theo cho bạn 3 token lưu niệm sau khi kích hoạt vé.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4830",
   "rarity": {
@@ -5012,6 +5346,7 @@
  {
   "id": "collectible-4831",
   "name": "Token lưu niệm Antwerp 2022",
+  "code": "#CSGO_TournamentPass_antwerp2022_charge",
   "description": "Đây là một token lưu niệm CS:GO Major PGL 2022 Antwerp chưa được mở. Khi mở token này, nó sẽ thêm một token vào Huy chương Antwerp 2022 của bạn và cho phép nhận gói quà lưu niệm.\\n\\nToken chỉ có thể áp dụng cho Huy chương Antwerp 2022 bạn hiện có.",
   "def_index": "4831",
   "rarity": {
@@ -5027,6 +5362,7 @@
  {
   "id": "collectible-4850",
   "name": "Vé xem giải Rio 2022",
+  "code": "#CSGO_TournamentPass_rio2022",
   "description": "Đây là vé xem giải vô địch Major CS:GO IEM Rio 2022 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn huy chương Rio 2022 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Rio 2022 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4850",
   "rarity": {
@@ -5042,6 +5378,7 @@
  {
   "id": "collectible-4851",
   "name": "Huy chương Rio 2022",
+  "code": "#CSGO_TournamentJournal_rio2022",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major IEM Rio 2022, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Rio 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4851",
   "rarity": {
@@ -5057,6 +5394,7 @@
  {
   "id": "collectible-4852",
   "name": "Huy chương bạc Rio 2022",
+  "code": "#CSGO_TournamentJournal_rio2022_Silver",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major IEM Rio 2022, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Rio 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4852",
   "rarity": {
@@ -5072,6 +5410,7 @@
  {
   "id": "collectible-4853",
   "name": "Huy chương vàng Rio 2022",
+  "code": "#CSGO_TournamentJournal_rio2022_Gold",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major IEM Rio 2022, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Rio 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4853",
   "rarity": {
@@ -5087,6 +5426,7 @@
  {
   "id": "collectible-4854",
   "name": "Huy chương kim cương Rio 2022",
+  "code": "#CSGO_TournamentJournal_rio2022_Crystal",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major IEM Rio 2022, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Rio 2022 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4854",
   "rarity": {
@@ -5102,6 +5442,7 @@
  {
   "id": "collectible-4855",
   "name": "Vé xem Rio 2022 + 3 token lưu niệm",
+  "code": "#CSGO_TournamentPass_rio2022_pack",
   "description": "Đây là một vé xem giải vô địch Major CS:GO IEM Rio 2022 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn một huy chương Rio 2022 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Rio 2022, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Rio 2022 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem giải này sẽ kèm theo cho bạn 3 token lưu niệm sau khi kích hoạt vé.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4855",
   "rarity": {
@@ -5117,6 +5458,7 @@
  {
   "id": "collectible-4856",
   "name": "Token lưu niệm Rio 2022",
+  "code": "#CSGO_TournamentPass_rio2022_charge",
   "description": "Đây là một token lưu niệm giải vô địch Major CS:GO IEM Rio 2022 chưa được mở. Khi mở token này, nó sẽ thêm một token vào huy chương Rio 2022 của bạn và cho phép bạn nhận về một gói quà lưu niệm.\\n\\nToken chỉ có thể được áp dụng cho huy chương Rio 2022 bạn hiện có.",
   "def_index": "4856",
   "rarity": {
@@ -5132,6 +5474,7 @@
  {
   "id": "collectible-4873",
   "name": "Huy chương phục vụ 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2023.",
   "def_index": "4873",
   "rarity": {
@@ -5147,6 +5490,7 @@
  {
   "id": "collectible-4874",
   "name": "Huy chương phục vụ 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2023.",
   "def_index": "4874",
   "rarity": {
@@ -5162,6 +5506,7 @@
  {
   "id": "collectible-4875",
   "name": "Huy chương phục vụ 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2023.",
   "def_index": "4875",
   "rarity": {
@@ -5177,6 +5522,7 @@
  {
   "id": "collectible-4876",
   "name": "Huy chương phục vụ 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2023.",
   "def_index": "4876",
   "rarity": {
@@ -5192,6 +5538,7 @@
  {
   "id": "collectible-4877",
   "name": "Huy chương phục vụ 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2023.",
   "def_index": "4877",
   "rarity": {
@@ -5207,6 +5554,7 @@
  {
   "id": "collectible-4878",
   "name": "Huy chương phục vụ 2023",
+  "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2023.",
   "def_index": "4878",
   "rarity": {
@@ -5222,6 +5570,7 @@
  {
   "id": "collectible-4883",
   "name": "Vé xem giải Paris 2023",
+  "code": "#CSGO_TournamentPass_paris2023",
   "description": "Đây là vé xem giải vô địch Major CS:GO BLAST.tv Paris 2023 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn huy chương Paris 2023 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Paris 2023, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Paris 2023 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải.",
   "def_index": "4883",
   "rarity": {
@@ -5237,6 +5586,7 @@
  {
   "id": "collectible-4884",
   "name": "Huy chương Paris 2023",
+  "code": "#CSGO_TournamentJournal_paris2023",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major BLAST.tv Paris 2023, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Paris 2023, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Paris 2023 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4884",
   "rarity": {
@@ -5252,6 +5602,7 @@
  {
   "id": "collectible-4885",
   "name": "Huy chương bạc Paris 2023",
+  "code": "#CSGO_TournamentJournal_paris2023_Silver",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major BLAST.tv Paris 2023, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Paris 2023, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Paris 2023 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4885",
   "rarity": {
@@ -5267,6 +5618,7 @@
  {
   "id": "collectible-4886",
   "name": "Huy chương vàng Paris 2023",
+  "code": "#CSGO_TournamentJournal_paris2023_Gold",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major BLAST.tv Paris 2023, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Paris 2023, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Paris 2023 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4886",
   "rarity": {
@@ -5282,6 +5634,7 @@
  {
   "id": "collectible-4887",
   "name": "Huy chương kim cương Paris 2023",
+  "code": "#CSGO_TournamentJournal_paris2023_Crystal",
   "description": "Đây là huy chương kỉ niệm giải CS:GO Major BLAST.tv Paris 2023, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Paris 2023, biểu tượng chat trên Steam.tv, thử thách huy chương và hình graffiti đội không giới hạn trong thời gian diễn ra sự kiện.\\n\\nBạn có thể nâng cấp huy chương Paris 2023 bằng cách hoàn thành những thử thách. Bạn có thể đổi một token lưu niệm mỗi lần nâng cấp huy chương của mình.",
   "def_index": "4887",
   "rarity": {
@@ -5297,6 +5650,7 @@
  {
   "id": "collectible-4888",
   "name": "Vé xem Paris 2023 + 3 token lưu niệm",
+  "code": "#CSGO_TournamentPass_paris2023_pack",
   "description": "Đây là một vé xem giải vô địch Major CS:GO BLAST.tv Paris 2023 còn nguyên niêm phong. Sau khi xé niêm phong, nó sẽ cho bạn một huy chương Paris 2023 để theo dõi tiến trình tham dự sự kiện của bạn, truy cập không hạn chế vào thử thách Pick'Em Paris 2023, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Paris 2023 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem giải này sẽ kèm theo cho bạn 3 token lưu niệm sau khi kích hoạt vé.\\n\\nMột nửa doanh thu từ việc bán vé xem giải này sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải.",
   "def_index": "4888",
   "rarity": {
@@ -5312,6 +5666,7 @@
  {
   "id": "collectible-4889",
   "name": "Token lưu niệm Paris 2023",
+  "code": "#CSGO_TournamentPass_paris2023_charge",
   "description": "Đây là một token lưu niệm giải vô địch Major CS:GO BLAST.tv Paris 2023 chưa được mở. Khi mở token này, nó sẽ thêm một token vào huy chương Paris 2023 của bạn và cho phép bạn nhận về một gói quà lưu niệm.\\n\\nToken chỉ có thể được áp dụng cho huy chương Paris 2023 bạn hiện có.",
   "def_index": "4889",
   "rarity": {
@@ -5327,6 +5682,7 @@
  {
   "id": "collectible-4906",
   "name": "Huy chương phục vụ 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2024.",
   "def_index": "4906",
   "rarity": {
@@ -5342,6 +5698,7 @@
  {
   "id": "collectible-4907",
   "name": "Huy chương phục vụ 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2024.",
   "def_index": "4907",
   "rarity": {
@@ -5357,6 +5714,7 @@
  {
   "id": "collectible-4908",
   "name": "Huy chương phục vụ 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2024.",
   "def_index": "4908",
   "rarity": {
@@ -5372,6 +5730,7 @@
  {
   "id": "collectible-4909",
   "name": "Huy chương phục vụ 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2024.",
   "def_index": "4909",
   "rarity": {
@@ -5387,6 +5746,7 @@
  {
   "id": "collectible-4910",
   "name": "Huy chương phục vụ 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2024.",
   "def_index": "4910",
   "rarity": {
@@ -5402,6 +5762,7 @@
  {
   "id": "collectible-4911",
   "name": "Huy chương phục vụ 2024",
+  "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2024.",
   "def_index": "4911",
   "rarity": {
@@ -5417,6 +5778,7 @@
  {
   "id": "collectible-4916",
   "name": "Vé xem Copenhagen 2024",
+  "code": "#CSGO_TournamentPass_cph2024",
   "description": "Đây là vé xem giải Major CS2 PGL Copenhagen 2024 chưa được mở. Sau khi mở, vé sẽ cho bạn huy chương Copenhagen 2024 để theo dõi tiến trình tham dự sự kiện, truy cập không hạn chế vào thử thách Pick'Em Copenhagen 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Copenhagen 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4916",
   "rarity": {
@@ -5432,6 +5794,7 @@
  {
   "id": "collectible-4917",
   "name": "Huy chương Copenhagen 2024",
+  "code": "#CSGO_TournamentJournal_cph2024",
   "description": "Đây là huy chương kỉ niệm giải Major CS2 PGL Copenhagen 2024, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Copenhagen 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Copenhagen 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "4917",
   "rarity": {
@@ -5447,6 +5810,7 @@
  {
   "id": "collectible-4918",
   "name": "Huy chương bạc Copenhagen 2024",
+  "code": "#CSGO_TournamentJournal_cph2024_Silver",
   "description": "Đây là huy chương kỉ niệm giải Major CS2 PGL Copenhagen 2024, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Copenhagen 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Copenhagen 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "4918",
   "rarity": {
@@ -5462,6 +5826,7 @@
  {
   "id": "collectible-4919",
   "name": "Huy chương vàng Copenhagen 2024",
+  "code": "#CSGO_TournamentJournal_cph2024_Gold",
   "description": "Đây là huy chương kỉ niệm giải Major CS2 PGL Copenhagen 2024, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Copenhagen 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Copenhagen 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "4919",
   "rarity": {
@@ -5477,6 +5842,7 @@
  {
   "id": "collectible-4920",
   "name": "Huy chương kim cương Copenhagen 2024",
+  "code": "#CSGO_TournamentJournal_cph2024_Crystal",
   "description": "Đây là huy chương kỉ niệm giải Major CS2 PGL Copenhagen 2024, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Copenhagen 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Copenhagen 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "4920",
   "rarity": {
@@ -5492,6 +5858,7 @@
  {
   "id": "collectible-4921",
   "name": "Vé xem Copenhagen 2024 + 3 token lưu niệm",
+  "code": "#CSGO_TournamentPass_cph2024_pack",
   "description": "Đây là một vé xem giải Major CS2 PGL Copenhagen 2024 chưa được mở. Sau khi mở, vé sẽ cho bạn một huy chương Copenhagen 2024 để theo dõi tiến trình tham dự sự kiện, truy cập không hạn chế vào thử thách Pick'Em Copenhagen 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Copenhagen 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem giải này sẽ kèm theo cho bạn 3 token lưu niệm sau khi kích hoạt vé.\\n\\nMột nửa doanh thu từ việc bán vé sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4921",
   "rarity": {
@@ -5507,6 +5874,7 @@
  {
   "id": "collectible-4922",
   "name": "Gói lưu niệm Copenhagen 2024",
+  "code": "#CSGO_TournamentPass_cph2024_charge",
   "description": "Đây là gói lưu niệm giải Major CS2 Copenhagen PGL 2024 chưa được mở.",
   "def_index": "4922",
   "rarity": {
@@ -5522,6 +5890,7 @@
  {
   "id": "collectible-4933",
   "name": "Đội vô địch giải PGL Copenhagen 2024",
+  "code": "#CSGO_CollectibleCoin_cph2024_Champion",
   "description": "Cúp giải đấu này được trao tặng đội vô địch giải Major CS2 PGL Copenhagen 2024.",
   "def_index": "4933",
   "rarity": {
@@ -5537,6 +5906,7 @@
  {
   "id": "collectible-4934",
   "name": "Đội vào chung kết giải PGL Copenhagen 2024",
+  "code": "#CSGO_CollectibleCoin_cph2024_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội vào chung kết giải Major CS2 PGL Copenhagen 2024.",
   "def_index": "4934",
   "rarity": {
@@ -5552,6 +5922,7 @@
  {
   "id": "collectible-4935",
   "name": "Đội vào bán kết giải PGL Copenhagen 2024",
+  "code": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội vào bán kết giải Major CS2 PGL Copenhagen 2024.",
   "def_index": "4935",
   "rarity": {
@@ -5567,6 +5938,7 @@
  {
   "id": "collectible-4936",
   "name": "Đội vào tứ kết giải PGL Copenhagen 2024",
+  "code": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội vào tứ kết giải Major CS2 PGL Copenhagen 2024.",
   "def_index": "4936",
   "rarity": {
@@ -5582,6 +5954,7 @@
  {
   "id": "collectible-4941",
   "name": "Huy chương bản đồ - Thera",
+  "code": "#CSGO_Collectible_MapTokenThera",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Thera\\\"",
   "def_index": "4941",
   "rarity": {
@@ -5597,6 +5970,7 @@
  {
   "id": "collectible-4942",
   "name": "Huy chương bản đồ - Mills",
+  "code": "#CSGO_Collectible_MapTokenMills",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Mills\\\"",
   "def_index": "4942",
   "rarity": {
@@ -5612,6 +5986,7 @@
  {
   "id": "collectible-4943",
   "name": "Huy chương bản đồ - Assembly",
+  "code": "#CSGO_Collectible_MapTokenAssembly",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Assembly\\\"",
   "def_index": "4943",
   "rarity": {
@@ -5627,6 +6002,7 @@
  {
   "id": "collectible-4944",
   "name": "Huy chương bản đồ - Memento",
+  "code": "#CSGO_Collectible_MapTokenMemento",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Memento\\\"",
   "def_index": "4944",
   "rarity": {
@@ -5642,6 +6018,7 @@
  {
   "id": "collectible-4945",
   "name": "Huy chương bản đồ - Pool Day",
+  "code": "#CSGO_Collectible_MapTokenPoolDay",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Pool Day\\\"",
   "def_index": "4945",
   "rarity": {
@@ -5657,6 +6034,7 @@
  {
   "id": "collectible-4951",
   "name": "Huy chương phục vụ 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2025.",
   "def_index": "4951",
   "rarity": {
@@ -5672,6 +6050,7 @@
  {
   "id": "collectible-4952",
   "name": "Huy chương phục vụ 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2025.",
   "def_index": "4952",
   "rarity": {
@@ -5687,6 +6066,7 @@
  {
   "id": "collectible-4953",
   "name": "Huy chương phục vụ 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2025.",
   "def_index": "4953",
   "rarity": {
@@ -5702,6 +6082,7 @@
  {
   "id": "collectible-4954",
   "name": "Huy chương phục vụ 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2025.",
   "def_index": "4954",
   "rarity": {
@@ -5717,6 +6098,7 @@
  {
   "id": "collectible-4955",
   "name": "Huy chương phục vụ 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2025.",
   "def_index": "4955",
   "rarity": {
@@ -5732,6 +6114,7 @@
  {
   "id": "collectible-4956",
   "name": "Huy chương phục vụ 2025",
+  "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Thưởng cho thành tích phục vụ nổi bật năm 2025.",
   "def_index": "4956",
   "rarity": {
@@ -5747,6 +6130,7 @@
  {
   "id": "collectible-4957",
   "name": "Vé xem Thượng Hải 2024",
+  "code": "#CSGO_TournamentPass_sha2024",
   "description": "Đây là vé xem giải vô địch Major CS2 Perfect World Thượng Hải 2024 chưa được mở. Sau khi mở, vé sẽ cho bạn huy chương Thượng Hải 2024 để theo dõi tiến trình tham dự sự kiện, truy cập không hạn chế vào thử thách Pick'Em Thượng Hải 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Thượng Hải 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4957",
   "rarity": {
@@ -5762,6 +6146,7 @@
  {
   "id": "collectible-4958",
   "name": "Huy chương Thượng Hải 2024",
+  "code": "#CSGO_TournamentJournal_sha2024",
   "description": "Đây là huy chương kỉ niệm giải vô địch Major CS2 Perfect World Thượng Hải 2024, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Thượng Hải 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Thượng Hải 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "4958",
   "rarity": {
@@ -5777,6 +6162,7 @@
  {
   "id": "collectible-4959",
   "name": "Huy chương bạc Thượng Hải 2024",
+  "code": "#CSGO_TournamentJournal_sha2024_Silver",
   "description": "Đây là huy chương kỉ niệm giải vô địch Major CS2 Perfect World Thượng Hải 2024, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Thượng Hải 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Thượng Hải 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "4959",
   "rarity": {
@@ -5792,6 +6178,7 @@
  {
   "id": "collectible-4960",
   "name": "Huy chương vàng Thượng Hải 2024",
+  "code": "#CSGO_TournamentJournal_sha2024_Gold",
   "description": "Đây là huy chương kỉ niệm giải vô địch Major CS2 Perfect World Thượng Hải 2024, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Thượng Hải 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Thượng Hải 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "4960",
   "rarity": {
@@ -5807,6 +6194,7 @@
  {
   "id": "collectible-4961",
   "name": "Huy chương kim cương Thượng Hải 2024",
+  "code": "#CSGO_TournamentJournal_sha2024_Crystal",
   "description": "Đây là huy chương kỉ niệm giải vô địch Major CS2 Perfect World Thượng Hải 2024, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Thượng Hải 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Thượng Hải 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "4961",
   "rarity": {
@@ -5822,6 +6210,7 @@
  {
   "id": "collectible-4962",
   "name": "Vé xem Thượng Hải 2024 + 3 token lưu niệm",
+  "code": "#CSGO_TournamentPass_sha2024_pack",
   "description": "Đây là một vé xem giải vô địch Major CS2 Perfect World Thượng Hải 2024 chưa được mở. Sau khi mở, vé sẽ cho bạn một huy chương Thượng Hải 2024 để theo dõi tiến trình tham dự sự kiện, truy cập không hạn chế vào thử thách Pick'Em Thượng Hải 2024, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Thượng Hải 2024 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem giải này sẽ kèm theo cho bạn 3 token lưu niệm sau khi kích hoạt vé.\\n\\nMột nửa doanh thu từ việc bán vé sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "4962",
   "rarity": {
@@ -5837,6 +6226,7 @@
  {
   "id": "collectible-4963",
   "name": "Gói lưu niệm Thượng Hải 2024",
+  "code": "#CSGO_TournamentPass_sha2024_charge",
   "description": "Đây là gói lưu niệm giải vô địch Major CS2 Perfect World Thượng Hải 2024 chưa được mở.",
   "def_index": "4963",
   "rarity": {
@@ -5852,6 +6242,7 @@
  {
   "id": "collectible-4974",
   "name": "Đội vô địch giải Perfect World Thượng Hải 2024",
+  "code": "#CSGO_CollectibleCoin_sha2024_Champion",
   "description": "Cúp giải đấu này được trao tặng đội vô địch giải vô địch Major CS2 Perfect World Thượng Hải 2024.",
   "def_index": "4974",
   "rarity": {
@@ -5867,6 +6258,7 @@
  {
   "id": "collectible-4975",
   "name": "Đội vào chung kết giải Perfect World Thượng Hải 2024",
+  "code": "#CSGO_CollectibleCoin_sha2024_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội vào chung kết giải vô địch Major CS2 Perfect World Thượng Hải 2024.",
   "def_index": "4975",
   "rarity": {
@@ -5882,6 +6274,7 @@
  {
   "id": "collectible-4976",
   "name": "Đội vào bán kết giải Perfect World Thượng Hải 2024",
+  "code": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội vào bán kết giải vô địch Major CS2 Perfect World Thượng Hải 2024.",
   "def_index": "4976",
   "rarity": {
@@ -5897,6 +6290,7 @@
  {
   "id": "collectible-4977",
   "name": "Đội vào tứ kết giải Perfect World Thượng Hải 2024",
+  "code": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội vào tứ kết giải vô địch Major CS2 Perfect World Thượng Hải 2024.",
   "def_index": "4977",
   "rarity": {
@@ -5912,6 +6306,7 @@
  {
   "id": "collectible-4982",
   "name": "Huy chương bản đồ - Whistle",
+  "code": "#CSGO_Collectible_MapTokenWhistle",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Whistle\\\"",
   "def_index": "4982",
   "rarity": {
@@ -5927,6 +6322,7 @@
  {
   "id": "collectible-4983",
   "name": "Huy chương bản đồ - Palais",
+  "code": "#CSGO_Collectible_MapTokenPalais",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Palais\\\"",
   "def_index": "4983",
   "rarity": {
@@ -5942,6 +6338,7 @@
  {
   "id": "collectible-4984",
   "name": "Huy chương bản đồ - Edin",
+  "code": "#CSGO_Collectible_MapTokenEdin",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Edin\\\"",
   "def_index": "4984",
   "rarity": {
@@ -5957,6 +6354,7 @@
  {
   "id": "collectible-4985",
   "name": "Huy chương bản đồ - Basalt",
+  "code": "#CSGO_Collectible_MapTokenBasaltCS2",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Basalt\\\"",
   "def_index": "4985",
   "rarity": {
@@ -5972,6 +6370,7 @@
  {
   "id": "collectible-4986",
   "name": "Huy chương Premier mùa 1",
+  "code": "#CSGO_Collectible_PremierSeason1Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 1.",
   "def_index": "4986",
   "rarity": {
@@ -5987,6 +6386,7 @@
  {
   "id": "collectible-4987",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4987",
   "rarity": {
@@ -6002,6 +6402,7 @@
  {
   "id": "collectible-4988",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4988",
   "rarity": {
@@ -6017,6 +6418,7 @@
  {
   "id": "collectible-4989",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4989",
   "rarity": {
@@ -6032,6 +6434,7 @@
  {
   "id": "collectible-4990",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4990",
   "rarity": {
@@ -6047,6 +6450,7 @@
  {
   "id": "collectible-4991",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4991",
   "rarity": {
@@ -6062,6 +6466,7 @@
  {
   "id": "collectible-4992",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4992",
   "rarity": {
@@ -6077,6 +6482,7 @@
  {
   "id": "collectible-4993",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4993",
   "rarity": {
@@ -6092,6 +6498,7 @@
  {
   "id": "collectible-4994",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4994",
   "rarity": {
@@ -6107,6 +6514,7 @@
  {
   "id": "collectible-4995",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4995",
   "rarity": {
@@ -6122,6 +6530,7 @@
  {
   "id": "collectible-4996",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4996",
   "rarity": {
@@ -6137,6 +6546,7 @@
  {
   "id": "collectible-4997",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4997",
   "rarity": {
@@ -6152,6 +6562,7 @@
  {
   "id": "collectible-4998",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4998",
   "rarity": {
@@ -6167,6 +6578,7 @@
  {
   "id": "collectible-4999",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "4999",
   "rarity": {
@@ -6182,6 +6594,7 @@
  {
   "id": "collectible-5000",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5000",
   "rarity": {
@@ -6197,6 +6610,7 @@
  {
   "id": "collectible-5001",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5001",
   "rarity": {
@@ -6212,6 +6626,7 @@
  {
   "id": "collectible-5002",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5002",
   "rarity": {
@@ -6227,6 +6642,7 @@
  {
   "id": "collectible-5003",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5003",
   "rarity": {
@@ -6242,6 +6658,7 @@
  {
   "id": "collectible-5004",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5004",
   "rarity": {
@@ -6257,6 +6674,7 @@
  {
   "id": "collectible-5005",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5005",
   "rarity": {
@@ -6272,6 +6690,7 @@
  {
   "id": "collectible-5006",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5006",
   "rarity": {
@@ -6287,6 +6706,7 @@
  {
   "id": "collectible-5007",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5007",
   "rarity": {
@@ -6302,6 +6722,7 @@
  {
   "id": "collectible-5008",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5008",
   "rarity": {
@@ -6317,6 +6738,7 @@
  {
   "id": "collectible-5009",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5009",
   "rarity": {
@@ -6332,6 +6754,7 @@
  {
   "id": "collectible-5010",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5010",
   "rarity": {
@@ -6347,6 +6770,7 @@
  {
   "id": "collectible-5011",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5011",
   "rarity": {
@@ -6362,6 +6786,7 @@
  {
   "id": "collectible-5012",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5012",
   "rarity": {
@@ -6377,6 +6802,7 @@
  {
   "id": "collectible-5013",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5013",
   "rarity": {
@@ -6392,6 +6818,7 @@
  {
   "id": "collectible-5014",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5014",
   "rarity": {
@@ -6407,6 +6834,7 @@
  {
   "id": "collectible-5015",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5015",
   "rarity": {
@@ -6422,6 +6850,7 @@
  {
   "id": "collectible-5016",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5016",
   "rarity": {
@@ -6437,6 +6866,7 @@
  {
   "id": "collectible-5017",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5017",
   "rarity": {
@@ -6452,6 +6882,7 @@
  {
   "id": "collectible-5018",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5018",
   "rarity": {
@@ -6467,6 +6898,7 @@
  {
   "id": "collectible-5019",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5019",
   "rarity": {
@@ -6482,6 +6914,7 @@
  {
   "id": "collectible-5020",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5020",
   "rarity": {
@@ -6497,6 +6930,7 @@
  {
   "id": "collectible-5021",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5021",
   "rarity": {
@@ -6512,6 +6946,7 @@
  {
   "id": "collectible-5022",
   "name": "Huy chương Premier mùa 2",
+  "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 2.",
   "def_index": "5022",
   "rarity": {
@@ -6527,6 +6962,7 @@
  {
   "id": "collectible-5110",
   "name": "Vé xem Austin 2025",
+  "code": "#CSGO_TournamentPass_aus2025",
   "description": "Đây là vé xem giải vô địch Major CS2 BLAST.tv Austin 2025 chưa được mở. Sau khi mở, vé sẽ cho bạn huy chương Austin 2025 để theo dõi tiến trình tham dự sự kiện, truy cập không hạn chế vào thử thách Pick'Em Austin 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Austin 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nMột nửa doanh thu từ việc bán vé sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "5110",
   "rarity": {
@@ -6542,6 +6978,7 @@
  {
   "id": "collectible-5111",
   "name": "Huy chương Austin 2025",
+  "code": "#CSGO_TournamentJournal_aus2025",
   "description": "Đây là huy chương kỉ niệm giải Major CS2 BLAST.tv Austin 2025, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Austin 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Austin 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "5111",
   "rarity": {
@@ -6557,6 +6994,7 @@
  {
   "id": "collectible-5112",
   "name": "Huy chương bạc Austin 2025",
+  "code": "#CSGO_TournamentJournal_aus2025_Silver",
   "description": "Đây là huy chương kỉ niệm giải Major CS2 BLAST.tv Austin 2025, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Austin 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Austin 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "5112",
   "rarity": {
@@ -6572,6 +7010,7 @@
  {
   "id": "collectible-5113",
   "name": "Huy chương vàng Austin 2025",
+  "code": "#CSGO_TournamentJournal_aus2025_Gold",
   "description": "Đây là huy chương kỉ niệm giải Major CS2 BLAST.tv Austin 2025, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Austin 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Austin 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "5113",
   "rarity": {
@@ -6587,6 +7026,7 @@
  {
   "id": "collectible-5114",
   "name": "Huy chương kim cương Austin 2025",
+  "code": "#CSGO_TournamentJournal_aus2025_Crystal",
   "description": "Đây là huy chương kỉ niệm giải Major CS2 BLAST.tv Austin 2025, có chức năng theo dõi tiến trình của bạn trong suốt sự kiện, truy cập không hạn chế vào thử thách Pick'Em Austin 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Austin 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.",
   "def_index": "5114",
   "rarity": {
@@ -6602,6 +7042,7 @@
  {
   "id": "collectible-5115",
   "name": "Vé xem Austin 2025 + 3 token lưu niệm",
+  "code": "#CSGO_TournamentPass_aus2025_pack",
   "description": "Đây là một vé xem giải vô địch Major CS2 BLAST.tv Austin 2025 chưa được mở. Sau khi mở, vé sẽ cho bạn một huy chương Austin 2025 để theo dõi tiến trình tham dự sự kiện, truy cập không hạn chế vào thử thách Pick'Em Austin 2025, biểu tượng chat trên Steam.tv, các thử thách để nâng hạng huy chương cùng một số lượng không giới hạn graffiti để xịt trong trận đấu trong suốt thời gian diễn ra sự kiện.\\n\\nNâng cấp huy chương Austin 2025 của bạn bằng cách hoàn thành các nhiệm vụ về huy chương. Nhận về một token lưu niệm sau mỗi lần nâng cấp huy chương.\\n\\nVé xem giải này sẽ kèm theo cho bạn 3 token lưu niệm sau khi kích hoạt vé.\\n\\nMột nửa doanh thu từ việc bán vé sẽ được sử dụng để hỗ trợ các tuyển thủ và tổ chức tham dự giải này.",
   "def_index": "5115",
   "rarity": {
@@ -6617,6 +7058,7 @@
  {
   "id": "collectible-5116",
   "name": "Gói lưu niệm Austin 2025",
+  "code": "#CSGO_TournamentPass_aus2025_charge",
   "description": "Đây là gói lưu niệm giải Major CS2 BLAST.tv Austin 2025 chưa được mở.",
   "def_index": "5116",
   "rarity": {
@@ -6632,6 +7074,7 @@
  {
   "id": "collectible-5127",
   "name": "Nhà vô địch giải BLAST.tv Austin 2025",
+  "code": "#CSGO_CollectibleCoin_aus2025_Champion",
   "description": "Cúp giải đấu này được trao tặng nhà vô địch giải Major CS2 BLAST.tv Austin 2025.",
   "def_index": "5127",
   "rarity": {
@@ -6647,6 +7090,7 @@
  {
   "id": "collectible-5128",
   "name": "Lọt vào chung kết giải BLAST.tv Austin 2025",
+  "code": "#CSGO_CollectibleCoin_aus2025_Finalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào chung kết giải Major CS2 BLAST.tv Austin 2025.",
   "def_index": "5128",
   "rarity": {
@@ -6662,6 +7106,7 @@
  {
   "id": "collectible-5129",
   "name": "Lọt vào bán kết giải BLAST.tv Austin 2025",
+  "code": "#CSGO_CollectibleCoin_aus2025_Semifinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào bán kết giải Major CS2 BLAST.tv Austin 2025.",
   "def_index": "5129",
   "rarity": {
@@ -6677,6 +7122,7 @@
  {
   "id": "collectible-5130",
   "name": "Lọt vào tứ kết giải BLAST.tv Austin 2025",
+  "code": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist",
   "description": "Cúp giải đấu này được trao tặng đội đã lọt vào tứ kết giải Major CS2 BLAST.tv Austin 2025.",
   "def_index": "5130",
   "rarity": {
@@ -6692,6 +7138,7 @@
  {
   "id": "collectible-5135",
   "name": "Huy chương bản đồ - Agency",
+  "code": "#CSGO_Collectible_MapTokenAgencyCS2",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Agency\\\"",
   "def_index": "5135",
   "rarity": {
@@ -6707,6 +7154,7 @@
  {
   "id": "collectible-5136",
   "name": "Huy chương bản đồ - Jura",
+  "code": "#CSGO_Collectible_MapTokenJura",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Jura\\\"",
   "def_index": "5136",
   "rarity": {
@@ -6722,6 +7170,7 @@
  {
   "id": "collectible-5137",
   "name": "Huy chương bản đồ - Grail",
+  "code": "#CSGO_Collectible_MapTokenGrail",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Grail\\\"",
   "def_index": "5137",
   "rarity": {
@@ -6737,6 +7186,7 @@
  {
   "id": "collectible-5138",
   "name": "Huy chương bản đồ - Dogtown",
+  "code": "#CSGO_Collectible_MapTokenDogtown",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Dogtown\\\"",
   "def_index": "5138",
   "rarity": {
@@ -6752,6 +7202,7 @@
  {
   "id": "collectible-5139",
   "name": "Huy chương bản đồ - Brewery",
+  "code": "#CSGO_Collectible_MapTokenBrewery",
   "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Brewery\\\"",
   "def_index": "5139",
   "rarity": {
@@ -6767,6 +7218,7 @@
  {
   "id": "collectible-5140",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5140",
   "rarity": {
@@ -6782,6 +7234,7 @@
  {
   "id": "collectible-5141",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5141",
   "rarity": {
@@ -6797,6 +7250,7 @@
  {
   "id": "collectible-5142",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5142",
   "rarity": {
@@ -6812,6 +7266,7 @@
  {
   "id": "collectible-5143",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5143",
   "rarity": {
@@ -6827,6 +7282,7 @@
  {
   "id": "collectible-5144",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5144",
   "rarity": {
@@ -6842,6 +7298,7 @@
  {
   "id": "collectible-5145",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5145",
   "rarity": {
@@ -6857,6 +7314,7 @@
  {
   "id": "collectible-5146",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5146",
   "rarity": {
@@ -6872,6 +7330,7 @@
  {
   "id": "collectible-5147",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5147",
   "rarity": {
@@ -6887,6 +7346,7 @@
  {
   "id": "collectible-5148",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5148",
   "rarity": {
@@ -6902,6 +7362,7 @@
  {
   "id": "collectible-5149",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5149",
   "rarity": {
@@ -6917,6 +7378,7 @@
  {
   "id": "collectible-5150",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5150",
   "rarity": {
@@ -6932,6 +7394,7 @@
  {
   "id": "collectible-5151",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5151",
   "rarity": {
@@ -6947,6 +7410,7 @@
  {
   "id": "collectible-5152",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5152",
   "rarity": {
@@ -6962,6 +7426,7 @@
  {
   "id": "collectible-5153",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5153",
   "rarity": {
@@ -6977,6 +7442,7 @@
  {
   "id": "collectible-5154",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5154",
   "rarity": {
@@ -6992,6 +7458,7 @@
  {
   "id": "collectible-5155",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5155",
   "rarity": {
@@ -7007,6 +7474,7 @@
  {
   "id": "collectible-5156",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5156",
   "rarity": {
@@ -7022,6 +7490,7 @@
  {
   "id": "collectible-5157",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5157",
   "rarity": {
@@ -7037,6 +7506,7 @@
  {
   "id": "collectible-5158",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5158",
   "rarity": {
@@ -7052,6 +7522,7 @@
  {
   "id": "collectible-5159",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5159",
   "rarity": {
@@ -7067,6 +7538,7 @@
  {
   "id": "collectible-5160",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5160",
   "rarity": {
@@ -7082,6 +7554,7 @@
  {
   "id": "collectible-5161",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5161",
   "rarity": {
@@ -7097,6 +7570,7 @@
  {
   "id": "collectible-5162",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5162",
   "rarity": {
@@ -7112,6 +7586,7 @@
  {
   "id": "collectible-5163",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5163",
   "rarity": {
@@ -7127,6 +7602,7 @@
  {
   "id": "collectible-5164",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5164",
   "rarity": {
@@ -7142,6 +7618,7 @@
  {
   "id": "collectible-5165",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5165",
   "rarity": {
@@ -7157,6 +7634,7 @@
  {
   "id": "collectible-5166",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5166",
   "rarity": {
@@ -7172,6 +7650,7 @@
  {
   "id": "collectible-5167",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5167",
   "rarity": {
@@ -7187,6 +7666,7 @@
  {
   "id": "collectible-5168",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5168",
   "rarity": {
@@ -7202,6 +7682,7 @@
  {
   "id": "collectible-5169",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5169",
   "rarity": {
@@ -7217,6 +7698,7 @@
  {
   "id": "collectible-5170",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5170",
   "rarity": {
@@ -7232,6 +7714,7 @@
  {
   "id": "collectible-5171",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5171",
   "rarity": {
@@ -7247,6 +7730,7 @@
  {
   "id": "collectible-5172",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5172",
   "rarity": {
@@ -7262,6 +7746,7 @@
  {
   "id": "collectible-5173",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5173",
   "rarity": {
@@ -7277,6 +7762,7 @@
  {
   "id": "collectible-5174",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5174",
   "rarity": {
@@ -7292,6 +7778,7 @@
  {
   "id": "collectible-5175",
   "name": "Huy chương Premier mùa 3",
+  "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Đây là huy chương kỉ niệm Premier trao cho quá trình bạn tích cực tham gia trong Premier mùa 3.",
   "def_index": "5175",
   "rarity": {
@@ -7307,6 +7794,7 @@
  {
   "id": "collectible-6001",
   "name": "Huy hiệu Dust II (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6001",
   "rarity": {
@@ -7322,6 +7810,7 @@
  {
   "id": "collectible-6002",
   "name": "Huy hiệu hộ vệ cao cấp (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6002",
   "rarity": {
@@ -7337,6 +7826,7 @@
  {
   "id": "collectible-6003",
   "name": "Huy hiệu Mirage (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6003",
   "rarity": {
@@ -7352,6 +7842,7 @@
  {
   "id": "collectible-6004",
   "name": "Huy hiệu Inferno (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6004",
   "rarity": {
@@ -7367,6 +7858,7 @@
  {
   "id": "collectible-6005",
   "name": "Huy hiệu Italy (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6005",
   "rarity": {
@@ -7382,6 +7874,7 @@
  {
   "id": "collectible-6006",
   "name": "Huy hiệu chiến thắng (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6006",
   "rarity": {
@@ -7397,6 +7890,7 @@
  {
   "id": "collectible-6007",
   "name": "Huy hiệu Militia (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6007",
   "rarity": {
@@ -7412,6 +7906,7 @@
  {
   "id": "collectible-6008",
   "name": "Huy hiệu Nuke (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6008",
   "rarity": {
@@ -7427,6 +7922,7 @@
  {
   "id": "collectible-6009",
   "name": "Huy hiệu Train (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_Train",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6009",
   "rarity": {
@@ -7442,6 +7938,7 @@
  {
   "id": "collectible-6010",
   "name": "Huy hiệu hộ vệ (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6010",
   "rarity": {
@@ -7457,6 +7954,7 @@
  {
   "id": "collectible-6011",
   "name": "Huy hiệu chiến thuật (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6011",
   "rarity": {
@@ -7472,6 +7970,7 @@
  {
   "id": "collectible-6012",
   "name": "Huy hiệu hộ vệ 2 (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6012",
   "rarity": {
@@ -7487,6 +7986,7 @@
  {
   "id": "collectible-6013",
   "name": "Huy hiệu Bravo (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6013",
   "rarity": {
@@ -7502,6 +8002,7 @@
  {
   "id": "collectible-6014",
   "name": "Huy hiệu Baggage (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6014",
   "rarity": {
@@ -7517,6 +8018,7 @@
  {
   "id": "collectible-6015",
   "name": "Huy hiệu Phoenix (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6015",
   "rarity": {
@@ -7532,6 +8034,7 @@
  {
   "id": "collectible-6016",
   "name": "Huy hiệu Office (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_office",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6016",
   "rarity": {
@@ -7547,6 +8050,7 @@
  {
   "id": "collectible-6017",
   "name": "Huy hiệu Cobblestone (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6017",
   "rarity": {
@@ -7562,6 +8066,7 @@
  {
   "id": "collectible-6018",
   "name": "Huy hiệu Overpass (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6018",
   "rarity": {
@@ -7577,6 +8082,7 @@
  {
   "id": "collectible-6019",
   "name": "Huy hiệu Bloodhound (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6019",
   "rarity": {
@@ -7592,6 +8098,7 @@
  {
   "id": "collectible-6020",
   "name": "Huy hiệu Cache (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_cache",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6020",
   "rarity": {
@@ -7607,6 +8114,7 @@
  {
   "id": "collectible-6021",
   "name": "Huy hiệu Valeria Phoenix (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6021",
   "rarity": {
@@ -7622,6 +8130,7 @@
  {
   "id": "collectible-6022",
   "name": "Huy hiệu Chroma (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6022",
   "rarity": {
@@ -7637,6 +8146,7 @@
  {
   "id": "collectible-6023",
   "name": "Huy hiệu hộ vệ 3 (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6023",
   "rarity": {
@@ -7652,6 +8162,7 @@
  {
   "id": "collectible-6024",
   "name": "Huy hiệu Canals (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_canals",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6024",
   "rarity": {
@@ -7667,6 +8178,7 @@
  {
   "id": "collectible-6025",
   "name": "Huy hiệu Welcome to the Clutch (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6025",
   "rarity": {
@@ -7682,6 +8194,7 @@
  {
   "id": "collectible-6026",
   "name": "Huy hiệu Án tử hình (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6026",
   "rarity": {
@@ -7697,6 +8210,7 @@
  {
   "id": "collectible-6027",
   "name": "Huy hiệu Inferno 2 (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6027",
   "rarity": {
@@ -7712,6 +8226,7 @@
  {
   "id": "collectible-6028",
   "name": "Huy hiệu Wildfire (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6028",
   "rarity": {
@@ -7727,6 +8242,7 @@
  {
   "id": "collectible-6029",
   "name": "Huy hiệu Easy Peasy (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6029",
   "rarity": {
@@ -7742,6 +8258,7 @@
  {
   "id": "collectible-6030",
   "name": "Huy hiệu Aces High (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6030",
   "rarity": {
@@ -7757,6 +8274,7 @@
  {
   "id": "collectible-6031",
   "name": "Huy hiệu Hydra (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6031",
   "rarity": {
@@ -7772,6 +8290,7 @@
  {
   "id": "collectible-6032",
   "name": "Huy hiệu Howl (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_howl",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6032",
   "rarity": {
@@ -7787,6 +8306,7 @@
  {
   "id": "collectible-6033",
   "name": "Huy hiệu Brigadier General (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6033",
   "rarity": {
@@ -7802,6 +8322,7 @@
  {
   "id": "collectible-6034",
   "name": "Huy hiệu Alyx (Chính hãng)",
+  "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6034",
   "rarity": {
@@ -7817,6 +8338,7 @@
  {
   "id": "collectible-6101",
   "name": "Huy hiệu Dust II",
+  "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6101",
   "rarity": {
@@ -7832,6 +8354,7 @@
  {
   "id": "collectible-6102",
   "name": "Huy hiệu hộ vệ cao cấp",
+  "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6102",
   "rarity": {
@@ -7847,6 +8370,7 @@
  {
   "id": "collectible-6103",
   "name": "Huy hiệu Mirage",
+  "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6103",
   "rarity": {
@@ -7862,6 +8386,7 @@
  {
   "id": "collectible-6104",
   "name": "Huy hiệu Inferno",
+  "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6104",
   "rarity": {
@@ -7877,6 +8402,7 @@
  {
   "id": "collectible-6105",
   "name": "Huy hiệu Italy",
+  "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6105",
   "rarity": {
@@ -7892,6 +8418,7 @@
  {
   "id": "collectible-6106",
   "name": "Huy hiệu chiến thắng",
+  "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6106",
   "rarity": {
@@ -7907,6 +8434,7 @@
  {
   "id": "collectible-6107",
   "name": "Huy hiệu Militia",
+  "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6107",
   "rarity": {
@@ -7922,6 +8450,7 @@
  {
   "id": "collectible-6108",
   "name": "Huy hiệu Nuke",
+  "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6108",
   "rarity": {
@@ -7937,6 +8466,7 @@
  {
   "id": "collectible-6109",
   "name": "Huy hiệu Train",
+  "code": "#CSGO_Collectible_Pin_Train",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6109",
   "rarity": {
@@ -7952,6 +8482,7 @@
  {
   "id": "collectible-6110",
   "name": "Huy hiệu hộ vệ",
+  "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6110",
   "rarity": {
@@ -7967,6 +8498,7 @@
  {
   "id": "collectible-6111",
   "name": "Huy hiệu chiến thuật",
+  "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 1. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6111",
   "rarity": {
@@ -7982,6 +8514,7 @@
  {
   "id": "collectible-6112",
   "name": "Huy hiệu hộ vệ 2",
+  "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6112",
   "rarity": {
@@ -7997,6 +8530,7 @@
  {
   "id": "collectible-6113",
   "name": "Huy hiệu Bravo",
+  "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6113",
   "rarity": {
@@ -8012,6 +8546,7 @@
  {
   "id": "collectible-6114",
   "name": "Huy hiệu Baggage",
+  "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6114",
   "rarity": {
@@ -8027,6 +8562,7 @@
  {
   "id": "collectible-6115",
   "name": "Huy hiệu Phoenix",
+  "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6115",
   "rarity": {
@@ -8042,6 +8578,7 @@
  {
   "id": "collectible-6116",
   "name": "Huy hiệu Office",
+  "code": "#CSGO_Collectible_Pin_office",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6116",
   "rarity": {
@@ -8057,6 +8594,7 @@
  {
   "id": "collectible-6117",
   "name": "Huy hiệu Cobblestone",
+  "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6117",
   "rarity": {
@@ -8072,6 +8610,7 @@
  {
   "id": "collectible-6118",
   "name": "Huy hiệu Overpass",
+  "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6118",
   "rarity": {
@@ -8087,6 +8626,7 @@
  {
   "id": "collectible-6119",
   "name": "Huy hiệu Bloodhound",
+  "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6119",
   "rarity": {
@@ -8102,6 +8642,7 @@
  {
   "id": "collectible-6120",
   "name": "Huy hiệu Cache",
+  "code": "#CSGO_Collectible_Pin_cache",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6120",
   "rarity": {
@@ -8117,6 +8658,7 @@
  {
   "id": "collectible-6121",
   "name": "Huy hiệu Valeria Phoenix",
+  "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6121",
   "rarity": {
@@ -8132,6 +8674,7 @@
  {
   "id": "collectible-6122",
   "name": "Huy hiệu Chroma",
+  "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 2. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6122",
   "rarity": {
@@ -8147,6 +8690,7 @@
  {
   "id": "collectible-6123",
   "name": "Huy hiệu hộ vệ 3",
+  "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6123",
   "rarity": {
@@ -8162,6 +8706,7 @@
  {
   "id": "collectible-6124",
   "name": "Huy hiệu Canals",
+  "code": "#CSGO_Collectible_Pin_canals",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6124",
   "rarity": {
@@ -8177,6 +8722,7 @@
  {
   "id": "collectible-6125",
   "name": "Huy hiệu Welcome to the Clutch",
+  "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6125",
   "rarity": {
@@ -8192,6 +8738,7 @@
  {
   "id": "collectible-6126",
   "name": "Huy hiệu Án tử hình",
+  "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6126",
   "rarity": {
@@ -8207,6 +8754,7 @@
  {
   "id": "collectible-6127",
   "name": "Huy hiệu Inferno 2",
+  "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6127",
   "rarity": {
@@ -8222,6 +8770,7 @@
  {
   "id": "collectible-6128",
   "name": "Huy hiệu Wildfire",
+  "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6128",
   "rarity": {
@@ -8237,6 +8786,7 @@
  {
   "id": "collectible-6129",
   "name": "Huy hiệu Easy Peasy",
+  "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6129",
   "rarity": {
@@ -8252,6 +8802,7 @@
  {
   "id": "collectible-6130",
   "name": "Huy hiệu Aces High",
+  "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6130",
   "rarity": {
@@ -8267,6 +8818,7 @@
  {
   "id": "collectible-6131",
   "name": "Huy hiệu Hydra",
+  "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6131",
   "rarity": {
@@ -8282,6 +8834,7 @@
  {
   "id": "collectible-6132",
   "name": "Huy hiệu Howl",
+  "code": "#CSGO_Collectible_Pin_howl",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6132",
   "rarity": {
@@ -8297,6 +8850,7 @@
  {
   "id": "collectible-6133",
   "name": "Huy hiệu Brigadier General",
+  "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Đây là bộ huy hiệu sưu tầm sê-ri 3. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6133",
   "rarity": {
@@ -8312,6 +8866,7 @@
  {
   "id": "collectible-6134",
   "name": "Huy hiệu Alyx",
+  "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Đây là huy hiệu sưu tầm kỉ niệm Half-Life: Alyx, Valve trở lại thế giới Half-Life thông qua thực tế ảo. Bạn có thể khoe nó trên hồ sơ của mình.",
   "def_index": "6134",
   "rarity": {

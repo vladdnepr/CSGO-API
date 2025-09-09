@@ -2,6 +2,7 @@
  {
   "id": "key-generic_valve_key",
   "name": "CS:GO ключ за сандък",
+  "code": "#CSGO_Tool_WeaponCase_Key",
   "description": "Този ключ ще отвори всеки оръжеен сандък от Valve сериите. Сандъци от други серии (напр. eSports) изискват собствен ключ, за да бъдат отворени.",
   "crates": [
    {
@@ -32,6 +33,7 @@
  {
   "id": "key-1204",
   "name": "Ключ за eSports",
+  "code": "#CSGO_esports_crate_key_1",
   "description": "<b><font color='#F2A93E'>eSports Key</font></b>\\n \\nТози ключ отваря всеки eSports оръжеен сандък.\\n\\nЧаст от приходите при продажбата на този ключ ще се използват в подкрепа на някой утвърден турнир, ръководен от CS:GO общността. Очаквайте по-нататъшни анонси.",
   "crates": [
    {
@@ -57,6 +59,7 @@
  {
   "id": "key-1212",
   "name": "Ключ за CS:GO капсула",
+  "code": "#CSGO_sticker_crate_key_1",
   "description": "<b><font color='#F2A93E'>CS:GO Capsule Key</font></b>\\n \\nТози ключ ще отвори всяка капсула със стикери от Valve сериите.",
   "crates": [
    {
@@ -77,6 +80,7 @@
  {
   "id": "key-1214",
   "name": "Ключ за сандък „Зимна офанзива“",
+  "code": "#CSGO_community_crate_key_1",
   "description": "<b><font color='#F2A93E'>Winter Offensive Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Зимна офанзива“.",
   "crates": [
    {
@@ -92,6 +96,7 @@
  {
   "id": "key-1303",
   "name": "Ключ за сандък от операция „Феникс“",
+  "code": "#CSGO_community_crate_key_2",
   "description": "<b><font color='#F2A93E'>Operation Phoenix Case Key</font></b>\\n \\nТози ключ отваря само сандъци от операция „Феникс“.",
   "crates": [
    {
@@ -107,6 +112,7 @@
  {
   "id": "key-1304",
   "name": "Ключ за обществена капсула със стикери 1",
+  "code": "#CSGO_sticker_crate_key_community01",
   "description": "<b><font color='#F2A93E'>Community Sticker Capsule 1 Key</font></b>\\n \\nТози ключ отваря обществената капсула със стикери 1.\\n\\nЧаст от приходите при продажбата на този ключ ще се използват, за да подкрепят техните творци.",
   "crates": [
    {
@@ -122,6 +128,7 @@
  {
   "id": "key-1305",
   "name": "Ключ за сандък „Ловджия“",
+  "code": "#CSGO_community_crate_key_3",
   "description": "<b><font color='#F2A93E'>Huntsman Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Ловджия“.",
   "crates": [
    {
@@ -137,6 +144,7 @@
  {
   "id": "key-1309",
   "name": "Ключ за сандък от операция „Пробив“",
+  "code": "#CSGO_community_crate_key_4",
   "description": "<b><font color='#F2A93E'>Operation Breakout Case Key</font></b>\\n \\nТози ключ отваря само сандъци от операция „Пробив“.",
   "crates": [
    {
@@ -152,6 +160,7 @@
  {
   "id": "key-1322",
   "name": "Ключ за сандък от операция „Авангард“",
+  "code": "#CSGO_community_crate_key_5",
   "description": "<b><font color='#F2A93E'>Operation Vanguard Case Key</font></b>\\n \\nТози ключ отваря само сандъци от операция „Авангард“.",
   "crates": [
    {
@@ -167,6 +176,7 @@
  {
   "id": "key-1323",
   "name": "Ключ за сандък „Обагряне“",
+  "code": "#CSGO_community_crate_key_6",
   "description": "<b><font color='#F2A93E'>Chroma Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Обагряне“.",
   "crates": [
    {
@@ -182,6 +192,7 @@
  {
   "id": "key-1325",
   "name": "Ключ за сандък „Обагряне 2“",
+  "code": "#CSGO_community_crate_key_7",
   "description": "<b><font color='#F2A93E'>Chroma 2 Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Обагряне 2“.",
   "crates": [
    {
@@ -197,6 +208,7 @@
  {
   "id": "key-1330",
   "name": "Ключ за сандък „Фалчион“",
+  "code": "#CSGO_community_crate_key_8",
   "description": "<b><font color='#F2A93E'>Falchion Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Фалчион“.",
   "crates": [
    {
@@ -212,6 +224,7 @@
  {
   "id": "key-1333",
   "name": "Ключ за сандък „Помрачаване“",
+  "code": "#CSGO_community_crate_key_9",
   "description": "<b><font color='#F2A93E'>Shadow Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Помрачаване“.",
   "crates": [
    {
@@ -227,6 +240,7 @@
  {
   "id": "key-1334",
   "name": "Ключ за сандък „Револвер“",
+  "code": "#CSGO_crate_community_10_key",
   "description": "<b><font color='#F2A93E'>Revolver Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Револвер“.",
   "crates": [
    {
@@ -242,6 +256,7 @@
  {
   "id": "key-1347",
   "name": "Ключ за сандък „Обагряне 3“",
+  "code": "#CSGO_crate_key_community_12",
   "description": "<b><font color='#F2A93E'>Chroma 3 Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Обагряне 3“.",
   "crates": [
    {
@@ -257,6 +272,7 @@
  {
   "id": "key-1350",
   "name": "Ключ за сандък „Гама“",
+  "code": "#CSGO_crate_key_community_13",
   "description": "<b><font color='#F2A93E'>Gamma Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Гама“.",
   "crates": [
    {
@@ -272,6 +288,7 @@
  {
   "id": "key-1351",
   "name": "Ключ за сандък „Гама 2“",
+  "code": "#CSGO_crate_key_gamma_2",
   "description": "<b><font color='#F2A93E'>Gamma 2 Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Гама 2“.",
   "crates": [
    {
@@ -287,6 +304,7 @@
  {
   "id": "key-1356",
   "name": "Ключ за сандък „Ръкавици“",
+  "code": "#CSGO_crate_key_community_15",
   "description": "<b><font color='#F2A93E'>Glove Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Ръкавици“.",
   "crates": [
    {
@@ -302,6 +320,7 @@
  {
   "id": "key-1364",
   "name": "Ключ за сандък „Спектър“",
+  "code": "#CSGO_crate_key_community_16",
   "description": "<b><font color='#F2A93E'>Spectrum Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Спектър“.",
   "crates": [
    {
@@ -317,6 +336,7 @@
  {
   "id": "key-1365",
   "name": "Ключ за сандък от операция „Хидра“",
+  "code": "#CSGO_crate_key_community_17",
   "description": "<b><font color='#F2A93E'>Operation Hydra Case Key</font></b>\\n \\nТози ключ отваря само сандъци от операция „Хидра“.",
   "crates": [
    {
@@ -332,6 +352,7 @@
  {
   "id": "key-1366",
   "name": "Ключ за сандък „Спектър 2“",
+  "code": "#CSGO_crate_key_community_18",
   "description": "<b><font color='#F2A93E'>Spectrum 2 Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Спектър 2“.",
   "crates": [
    {
@@ -347,6 +368,7 @@
  {
   "id": "key-1373",
   "name": "Ключ за сандък „Критична схватка“",
+  "code": "#CSGO_crate_key_community_19",
   "description": "<b><font color='#F2A93E'>Clutch Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Критични схватки“.",
   "crates": [
    {
@@ -362,6 +384,7 @@
  {
   "id": "key-1374",
   "name": "Ключ за сандък „Хоризонт“",
+  "code": "#CSGO_crate_key_community_20",
   "description": "<b><font color='#F2A93E'>Horizon Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Хоризонт“.",
   "crates": [
    {
@@ -377,6 +400,7 @@
  {
   "id": "key-1375",
   "name": "Ключ за сандък „Опасна зона“",
+  "code": "#CSGO_crate_key_community_21",
   "description": "<b><font color='#F2A93E'>Danger Zone Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Опасна зона“.",
   "crates": [
    {
@@ -392,6 +416,7 @@
  {
   "id": "key-1383",
   "name": "Ключ за сандък „Призма“",
+  "code": "#CSGO_crate_key_community_22",
   "description": "<b><font color='#F2A93E'>Prisma Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Призма“.",
   "crates": [
    {
@@ -407,6 +432,7 @@
  {
   "id": "key-1384",
   "name": "Ключ за сандък „Разбита мрежа“",
+  "code": "#CSGO_crate_key_community_23",
   "description": "<b><font color='#F2A93E'>Shattered Web Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Разбита мрежа“.",
   "crates": [
    {
@@ -422,6 +448,7 @@
  {
   "id": "key-1385",
   "name": "Ключ за сандък „CS20“",
+  "code": "#CSGO_crate_key_community_24",
   "description": "<b><font color='#F2A93E'>CS20 Case Key</font></b>\\n \\nТози ключ отваря само сандъци „CS20“.",
   "crates": [
    {
@@ -437,6 +464,7 @@
  {
   "id": "key-1386",
   "name": "Ключ за сандък „Призма 2“",
+  "code": "#CSGO_crate_key_community_25",
   "description": "<b><font color='#F2A93E'>Prisma 2 Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Призма 2“.",
   "crates": [
    {
@@ -452,6 +480,7 @@
  {
   "id": "key-1387",
   "name": "Ключ за сандък „Фрактура“",
+  "code": "#CSGO_crate_key_community_26",
   "description": "<b><font color='#F2A93E'>Fracture Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Фрактура“.",
   "crates": [
    {
@@ -467,6 +496,7 @@
  {
   "id": "key-1388",
   "name": "Ключ за сандък от операция „Счупен зъб“",
+  "code": "#CSGO_crate_key_community_27",
   "description": "<b><font color='#F2A93E'>Operation Broken Fang Case Key</font></b>\\n \\nТози ключ отваря само сандъци от операция „Счупен зъб“.",
   "crates": [
    {
@@ -482,6 +512,7 @@
  {
   "id": "key-1389",
   "name": "Ключ за сандък „Змийско ухапване“",
+  "code": "#CSGO_crate_key_community_28",
   "description": "<b><font color='#F2A93E'>Snakebite Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Змийско ухапване“.",
   "crates": [
    {
@@ -497,6 +528,7 @@
  {
   "id": "key-1390",
   "name": "Ключ за сандък от операция „Коварно течение“",
+  "code": "#CSGO_crate_key_community_29",
   "description": "<b><font color='#F2A93E'>Operation Riptide Case Key</font></b>\\n \\nТози ключ отваря само сандъци от операция „Счупен зъб“.",
   "crates": [
    {
@@ -512,6 +544,7 @@
  {
   "id": "key-1391",
   "name": "Ключ за сандък „Блянове и кошмари“",
+  "code": "#CSGO_crate_key_community_30",
   "description": "<b><font color='#F2A93E'>Dreams & Nightmares Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Блянове и кошмари“.",
   "crates": [
    {
@@ -527,6 +560,7 @@
  {
   "id": "key-1392",
   "name": "Ключ за сандък „Откат“",
+  "code": "#CSGO_crate_key_community_31",
   "description": "<b><font color='#F2A93E'>Recoil Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Откат“.",
   "crates": [
    {
@@ -542,6 +576,7 @@
  {
   "id": "key-1393",
   "name": "Ключ за сандък „Революция“",
+  "code": "#CSGO_crate_key_community_32",
   "description": "<b><font color='#F2A93E'>Revolution Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Революция“.",
   "crates": [
    {
@@ -557,6 +592,7 @@
  {
   "id": "key-1394",
   "name": "Ключ за сандък „Киловат“",
+  "code": "#CSGO_crate_key_community_33",
   "description": "<b><font color='#F2A93E'>Kilowatt Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Киловат“.",
   "crates": [
    {
@@ -572,6 +608,7 @@
  {
   "id": "key-7000",
   "name": "Ключ за сандък от операция „Опустошителен огън“",
+  "code": "#CSGO_crate_key_community_11",
   "description": "<b><font color='#F2A93E'>Operation Wildfire Case Key</font></b>\\n \\nТози ключ отваря само сандъци от операция „Опустошителен огън“.",
   "crates": [
    {
@@ -587,6 +624,7 @@
  {
   "id": "key-7002",
   "name": "Ключ за сандък „Галерия“",
+  "code": "#CSGO_crate_key_community_34",
   "description": "<b><font color='#F2A93E'>Gallery Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Галерия“.",
   "crates": [
    {
@@ -602,6 +640,7 @@
  {
   "id": "key-7008",
   "name": "Ключ за сандък „Треска“",
+  "code": "#CSGO_crate_key_community_35",
   "description": "<b><font color='#F2A93E'>Fever Case Key</font></b>\\n \\nТози ключ отваря само сандъци „Треска“.",
   "crates": [
    {
