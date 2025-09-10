@@ -4,6 +4,7 @@
   "name": "Viiden vuoden veteraanikolikko",
   "code": "#CSGO_CollectibleCoin_FiveYearService",
   "description": "On ollut Counter-Strike-yhteisön jäsen yli viisi vuotta.",
+  "def_index": "874",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -19,6 +20,7 @@
   "name": "DreamHack 2013 -mestari",
   "code": "#CSGO_CollectibleCoin_DH2013_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin 2013 DreamHack SteelSeries -CS2-turnauksen voittajalle.",
+  "def_index": "875",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -34,6 +36,7 @@
   "name": "DreamHack 2013 -finalisti",
   "code": "#CSGO_CollectibleCoin_DH2013_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2013 DreamHack SteelSeries -CS2-turnauksen finalistille.",
+  "def_index": "876",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -49,6 +52,7 @@
   "name": "DreamHack 2013 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2013 DreamHack SteelSeries -CS2-turnauksen semifinalistille.",
+  "def_index": "877",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -64,6 +68,7 @@
   "name": "DreamHack 2013 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2013 DreamHack SteelSeries -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "878",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -79,6 +84,7 @@
   "name": "EMS One Katowice 2014 -mestari",
   "code": "#CSGO_CollectibleCoin_Kat2014_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin 2014 EMS One Katowice -CS2-turnauksen voittajalle.",
+  "def_index": "879",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -94,6 +100,7 @@
   "name": "EMS One Katowice 2014 -finalisti",
   "code": "#CSGO_CollectibleCoin_Kat2014_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2014 EMS One Katowice -CS2-turnauksen finalistille.",
+  "def_index": "880",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -109,6 +116,7 @@
   "name": "EMS One Katowice 2014 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2014 EMS One Katowice -CS2-turnauksen semifinalistille",
+  "def_index": "881",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -124,6 +132,7 @@
   "name": "EMS One Katowice 2014 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2014 EMS One Katowice -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "882",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -139,6 +148,7 @@
   "name": "ESL One Cologne 2014 -mestari",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2014 -CS2-turnauksen voittajalle.",
+  "def_index": "883",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -154,6 +164,7 @@
   "name": "ESL One Cologne 2014 -finalisti",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2014 -CS2-turnauksen finalistille.",
+  "def_index": "884",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -169,6 +180,7 @@
   "name": "ESL One Cologne 2014 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2014 -CS2-turnauksen semifinalistille.",
+  "def_index": "885",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -184,6 +196,7 @@
   "name": "ESL One Cologne 2014 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2014 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "886",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -199,6 +212,7 @@
   "name": "Pronssinen Köln 2014 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin ESL One Cologne 2014 Pick'Em -haasteen aikana.",
+  "def_index": "887",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -214,6 +228,7 @@
   "name": "Hopeinen Cologne 2014 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin ESL One Cologne 2014 Pick'Em -haasteen aikana.",
+  "def_index": "888",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -229,6 +244,7 @@
   "name": "Kultainen Cologne 2014 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin ESL One Cologne 2014 Pick'Em -haasteen aikana.",
+  "def_index": "889",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -244,6 +260,7 @@
   "name": "DreamHack Winter 2014 -mestari",
   "code": "#CSGO_CollectibleCoin_DHW2014_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin 2014 DreamHack Winter -CS2-turnauksen voittajalle.",
+  "def_index": "890",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -259,6 +276,7 @@
   "name": "DreamHack Winter 2014 -finalisti",
   "code": "#CSGO_CollectibleCoin_DHW2014_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2014 DreamHack Winter -CS2-turnauksen finalistille.",
+  "def_index": "891",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -274,6 +292,7 @@
   "name": "DreamHack Winter 2014 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2014 DreamHack Winter -CS2-turnauksen semifinalistille.",
+  "def_index": "892",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -289,6 +308,7 @@
   "name": "DreamHack Winter 2014 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2014 DreamHack Winterin -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "893",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -304,6 +324,7 @@
   "name": "Pronssinen DreamHack 2014 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
   "description": "Tämä pronssinen pokaali myönnettiin vuoden 2014 DreamHack Winterin Pick'Em-haasteessa.",
+  "def_index": "894",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -319,6 +340,7 @@
   "name": "Hopeinen DreamHack 2014 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
   "description": "Tämä hopeinen pokaali myönnettiin vuoden 2014 DreamHack Winterin Pick'Em-haasteessa.",
+  "def_index": "895",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -334,6 +356,7 @@
   "name": "Kultainen DreamHack 2014 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
   "description": "Tämä kultapokaali myönnettiin vuoden 2014 DreamHack Winterin Pick'Em-haasteessa.",
+  "def_index": "896",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -349,6 +372,7 @@
   "name": "ESL One Katowice 2015 -mestari",
   "code": "#CSGO_CollectibleCoin_Kat2015_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin 2015 ESL One Katowice -CS2-turnauksen voittajalle.",
+  "def_index": "897",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -364,6 +388,7 @@
   "name": "ESL One Katowice 2015 -finalisti",
   "code": "#CSGO_CollectibleCoin_Kat2015_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2015 ESL One Katowice -CS2-turnauksen finalistille.",
+  "def_index": "898",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -379,6 +404,7 @@
   "name": "ESL One Katowice 2015 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2015 ESL One Katowice -CS2-turnauksen semifinalistille",
+  "def_index": "899",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -394,6 +420,7 @@
   "name": "ESL One Katowice 2015 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin 2015 ESL One Katowice -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "900",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -409,6 +436,7 @@
   "name": "Pronssinen Katowice 2015 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin ESL One Katowice 2015 Pick'Em -haasteen aikana.",
+  "def_index": "901",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -424,6 +452,7 @@
   "name": "Hopeinen Katowice 2015 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin ESL One Katowice 2015 Pick'Em -haasteen aikana.",
+  "def_index": "902",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -439,6 +468,7 @@
   "name": "Kultainen Katowice 2015 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin ESL One Katowice 2015 Pick'Em -haasteen aikana.",
+  "def_index": "903",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -454,6 +484,7 @@
   "name": "ESL One Cologne 2015 -mestari",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2015 -CS2-turnauksen voittajalle.",
+  "def_index": "904",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -469,6 +500,7 @@
   "name": "ESL One Cologne 2015 -finalisti",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2015 CS2 -turnauksen finalistille.",
+  "def_index": "905",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -484,6 +516,7 @@
   "name": "ESL One Cologne 2015 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2015 CS2 -turnauksen semifinalistille.",
+  "def_index": "906",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -499,6 +532,7 @@
   "name": "ESL One Cologne 2015 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2015 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "907",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -514,6 +548,7 @@
   "name": "Pronssinen Cologne 2015 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin ESL One Cologne 2015 Pick'Em -haasteen aikana.",
+  "def_index": "908",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -529,6 +564,7 @@
   "name": "Hopeinen Cologne 2015 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin ESL One Cologne 2015 Pick'Em -haasteen aikana.",
+  "def_index": "909",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -544,6 +580,7 @@
   "name": "Kultainen Cologne 2015 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin ESL One Cologne 2015 Pick'Em -haasteen aikana.",
+  "def_index": "910",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -559,6 +596,7 @@
   "name": "Pronssinen Cluj-Napoca 2015 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin DreamHack Cluj-Napoca 2015 Pick'Em -haasteen aikana.",
+  "def_index": "911",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -574,6 +612,7 @@
   "name": "Hopeinen Cluj-Napoca 2015 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin DreamHack Cluj-Napoca 2015 Pick'Em -haasteen aikana.",
+  "def_index": "912",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -589,6 +628,7 @@
   "name": "Kultainen Cluj-Napoca 2015 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin DreamHack Cluj-Napoca 2015 Pick'Em -haasteen aikana.",
+  "def_index": "913",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -604,6 +644,7 @@
   "name": "Pronssinen Cluj-Napoca 2015 -fantasiapokaali",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
   "description": "Tämä pronssinen palkinto annettiin DreamHack Cluj-Napoca 2015 -fantasiajoukkuehaasteen aikana.",
+  "def_index": "914",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -619,6 +660,7 @@
   "name": "Hopeinen Cluj-Napoca 2015 -fantasiapokaali",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
   "description": "Tämä hopeinen palkinto annettiin DreamHack Cluj-Napoca 2015 -fantasiajoukkuehaasteen aikana.",
+  "def_index": "915",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -634,6 +676,7 @@
   "name": "Kultainen Cluj-Napoca 2015 -fantasiapokaali",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
   "description": "Tämä kultainen palkinto annettiin DreamHack Cluj-Napoca 2015 -fantasiajoukkuehaasteen aikana.",
+  "def_index": "916",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -649,6 +692,7 @@
   "name": "DreamHack Cluj-Napoca 2015 -mestari",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin DreamHack Cluj-Napoca 2015 -CS2-turnauksen voittajalle.",
+  "def_index": "917",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -664,6 +708,7 @@
   "name": "DreamHack Cluj-Napoca 2015 -finalisti",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin DreamHack Cluj-Napoca 2015 -CS2-turnauksen finalistille.",
+  "def_index": "918",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -679,6 +724,7 @@
   "name": "DreamHack Cluj-Napoca 2015 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
   "description": "Tämä mestaruuspokaali myönnettiin DreamHack Cluj-Napoca 2015 -CS2-turnauksen semifinalistille.",
+  "def_index": "919",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -694,6 +740,7 @@
   "name": "DreamHack Cluj-Napoca 2015 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
   "description": "Tämä mestaruuspokaali myönnettiin DreamHack Cluj-Napoca 2015 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "920",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -709,6 +756,7 @@
   "name": "Pronssinen Columbus 2016 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin MLG Columbus 2016 Pick'Em -haasteen aikana.",
+  "def_index": "921",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -724,6 +772,7 @@
   "name": "Hopeinen Columbus 2016 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin MLG Columbus 2016 Pick'Em-haasteen aikana.",
+  "def_index": "922",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -739,6 +788,7 @@
   "name": "Kultainen Columbus 2016 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin MLG Columbus 2016 Pick'Em -haasteen aikana.",
+  "def_index": "923",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -754,6 +804,7 @@
   "name": "Pronssinen Columbus 2016 -fantasiapokaali",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
   "description": "Tämä pronssinen palkinto annettiin MLG Columbus 2016 -fantasiajoukkuehaasteen aikana.",
+  "def_index": "924",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -769,6 +820,7 @@
   "name": "Hopeinen Columbus 2016 -fantasiapokaali",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
   "description": "Tämä hopeinen palkinto annettiin MLG Columbus 2016 -fantasiajoukkuehaasteen aikana.",
+  "def_index": "925",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -784,6 +836,7 @@
   "name": "Kultainen Columbus 2016 -fantasiapokaali",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
   "description": "Tämä kultainen palkinto annettiin MLG Columbus 2016 -fantasiajoukkuehaasteen aikana.",
+  "def_index": "926",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -799,6 +852,7 @@
   "name": "MLG Columbus 2016 -mestari",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin MLG Columbus 2016 -CS2-turnauksen voittajalle.",
+  "def_index": "927",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -814,6 +868,7 @@
   "name": "MLG Columbus 2016 -finalisti",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin MLG Columbus 2016 -CS2-turnauksen finalistille.",
+  "def_index": "928",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -829,6 +884,7 @@
   "name": "MLG Columbus 2016 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
   "description": "Tämä mestaruuspokaali myönnettiin MLG Columbus 2016 -CS2-turnauksen semifinalistille.",
+  "def_index": "929",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -844,6 +900,7 @@
   "name": "MLG Columbus 2016 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
   "description": "Tämä mestaruuspokaali myönnettiin MLG Columbus 2016 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "930",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -859,6 +916,7 @@
   "name": "ESL One Cologne 2016 -mestari",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2016 -CS2-turnauksen voittajalle.",
+  "def_index": "931",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -874,6 +932,7 @@
   "name": "ESL One Cologne 2016 -finalisti",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2016 -CS2-turnauksen finalistille.",
+  "def_index": "932",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -889,6 +948,7 @@
   "name": "ESL One Cologne 2016 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2016 -CS2-turnauksen semifinalistille.",
+  "def_index": "933",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -904,6 +964,7 @@
   "name": "ESL One Cologne 2016 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ESL One Cologne 2016 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "934",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -919,6 +980,7 @@
   "name": "Pronssinen Cologne 2016 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin ESL One Cologne 2016 Pick'Em -haasteen aikana.",
+  "def_index": "935",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -934,6 +996,7 @@
   "name": "Hopeinen Cologne 2016 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin ESL One Cologne 2016 Pick'Em -haasteen aikana.",
+  "def_index": "936",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -949,6 +1012,7 @@
   "name": "Kultainen Cologne 2016 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin ESL One Cologne 2016 Pick'Em -haasteen aikana.",
+  "def_index": "937",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -964,6 +1028,7 @@
   "name": "Pronssinen Cologne 2016 -fantasiapokaali",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
   "description": "Tämä pronssinen palkinto annettiin ESL One Cologne 2016 -fantasiajoukkuehaasteen aikana.",
+  "def_index": "938",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -979,6 +1044,7 @@
   "name": "Hopeinen Cologne 2016 -fantasiapokaali",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
   "description": "Tämä hopeinen palkinto annettiin ESL One Cologne 2016 -fantasiajoukkuehaasteen aikana.",
+  "def_index": "939",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -994,6 +1060,7 @@
   "name": "Kultainen Cologne 2016 -fantasiapokaali",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
   "description": "Tämä kultainen palkinto annettiin ESL One Cologne 2016 -fantasiajoukkuehaasteen aikana.",
+  "def_index": "940",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1009,6 +1076,7 @@
   "name": "ELEAGUE Atlanta 2017 -mestari",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Atlanta 2017 -CS2-turnauksen voittajalle.",
+  "def_index": "941",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1024,6 +1092,7 @@
   "name": "ELEAGUE Atlanta 2017 -finalisti",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Atlanta 2017 -CS2-turnauksen finalistille.",
+  "def_index": "942",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1039,6 +1108,7 @@
   "name": "ELEAGUE Atlanta 2017 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Atlanta 2017 -CS2-turnauksen semifinalistille.",
+  "def_index": "943",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1054,6 +1124,7 @@
   "name": "ELEAGUE Atlanta 2017 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Atlanta 2017 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "944",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1069,6 +1140,7 @@
   "name": "Pronssinen Atlanta 2017 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin ELEAGUE Atlanta 2017 Pick'Em -haasteen aikana",
+  "def_index": "945",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1084,6 +1156,7 @@
   "name": "Hopeinen Atlanta 2017 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin ELEAGUE Atlanta 2017 Pick'Em -haasteen aikana.",
+  "def_index": "946",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1099,6 +1172,7 @@
   "name": "Kultainen Atlanta 2017 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin ELEAGUE Atlanta 2017 Pick'Em -haasteen aikana.",
+  "def_index": "947",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1114,6 +1188,7 @@
   "name": "PGL Krakova 2017 -mestari",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin PGL Krakova 2017 -CS2-turnauksen voittajalle.",
+  "def_index": "948",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1129,6 +1204,7 @@
   "name": "PGL Krakova 2017 -finalisti",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin PGL Krakow 2017 -CS2-turnauksen finalistille.",
+  "def_index": "949",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1144,6 +1220,7 @@
   "name": "PGL Krakova 2017 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
   "description": "Tämä mestaruuspokaali myönnettiin PGL Krakow 2017 -CS2-turnauksen semifinalistille.",
+  "def_index": "950",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1159,6 +1236,7 @@
   "name": "PGL Krakova 2017 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
   "description": "Tämä mestaruuspokaali myönnettiin PGL Krakow 2017 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "951",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1174,6 +1252,7 @@
   "name": "Pronssinen Krakow 2017 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin PGL Krakow 2017 Pick'Em -haasteen aikana.",
+  "def_index": "952",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1189,6 +1268,7 @@
   "name": "Hopeinen Krakow 2017 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin PGL Krakow 2017 Pick'Em -haasteen aikana.",
+  "def_index": "953",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1204,6 +1284,7 @@
   "name": "Kultainen Krakow 2017 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin PGL Krakow 2017 Pick'Em -haasteen aikana.",
+  "def_index": "954",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1219,6 +1300,7 @@
   "name": "ELEAGUE Boston 2018 -mestari",
   "code": "#CSGO_CollectibleCoin_Boston2018_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Boston 2018 -CS2-turnauksen voittajalle.",
+  "def_index": "955",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1234,6 +1316,7 @@
   "name": "ELEAGUE Boston 2018 -finalisti",
   "code": "#CSGO_CollectibleCoin_Boston2018_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Boston 2018 -CS2-turnauksen finalistille.",
+  "def_index": "956",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1249,6 +1332,7 @@
   "name": "ELEAGUE Boston 2018 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Boston 2018 -CS2-turnauksen semifinalistille.",
+  "def_index": "957",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1264,6 +1348,7 @@
   "name": "ELEAGUE Boston 2018 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
   "description": "Tämä mestaruuspokaali myönnettiin ELEAGUE Boston 2018 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "958",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1279,6 +1364,7 @@
   "name": "Pronssinen Boston 2018 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin ELEAGUE Boston 2018 Pick'Em -haasteen aikana.",
+  "def_index": "959",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1294,6 +1380,7 @@
   "name": "Hopeinen Boston 2018 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin ELEAGUE Boston 2018 Pick'Em -haasteen aikana.",
+  "def_index": "960",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1309,6 +1396,7 @@
   "name": "Kultainen Boston 2018 Pick'Em -palkinto",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin ELEAGUE Boston 2018 Pick'Em -haasteen aikana.",
+  "def_index": "961",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1324,6 +1412,7 @@
   "name": "FACEIT London 2018 -mestari",
   "code": "#CSGO_CollectibleCoin_London2018_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin FACEIT London 2018 -CS2-turnauksen voittajalle.",
+  "def_index": "962",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1339,6 +1428,7 @@
   "name": "FACEIT London 2018 -finalisti",
   "code": "#CSGO_CollectibleCoin_London2018_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin FACEIT London 2018 -CS2-turnauksen finalistille.",
+  "def_index": "963",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1354,6 +1444,7 @@
   "name": "FACEIT London 2018 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_London2018_Semifinalist",
   "description": "Tämä mestaruuspokaali myönnettiin FACEIT London 2018 -CS2-turnauksen semifinalistille.",
+  "def_index": "964",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1369,6 +1460,7 @@
   "name": "FACEIT London 2018 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
   "description": "Tämä mestaruuspokaali myönnettiin FACEIT London 2018 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "965",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1384,6 +1476,7 @@
   "name": "Pronssinen London 2018 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
   "description": "Tämä pronssinen palkinto annettiin FACEIT London 2018 Pick'Em -haasteen aikana.",
+  "def_index": "966",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1399,6 +1492,7 @@
   "name": "Hopeinen London 2018 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
   "description": "Tämä hopeinen palkinto annettiin FACEIT London 2018 Pick'Em -haasteen aikana.",
+  "def_index": "967",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1414,6 +1508,7 @@
   "name": "Kultainen London 2018 Pick'Em -haastepalkinto",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmGold",
   "description": "Tämä kultainen palkinto annettiin FACEIT London 2018 Pick'Em -haasteen aikana.",
+  "def_index": "968",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1429,6 +1524,7 @@
   "name": "Kymmenen vuoden veteraanikolikko",
   "code": "#CSGO_CollectibleCoin_TenYearService",
   "description": "On ollut Counter-Strike-yhteisön jäsen yli 10 vuotta.",
+  "def_index": "969",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1444,6 +1540,7 @@
   "name": "Uskollisuusmerkki",
   "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
   "description": "Merkki juhlistaa Counter-Strike-yhteisön uskollisia jäseniä, jotka olivat mukana jo ennen Vaaravyöhyke-päivitystä.\\n\\n <i>Vahvuus tulee uskollisuuden kautta.</i>",
+  "def_index": "970",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1459,6 +1556,7 @@
   "name": "IEM Katowice 2019 -mestari",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin IEM Katowice 2019 -CS2-turnauksen voittajalle.",
+  "def_index": "971",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1474,6 +1572,7 @@
   "name": "IEM Katowice 2019 -finalisti",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
   "description": "IEM Katowice 2019 CS2-kilpailujen finalistille annettu palkinto.",
+  "def_index": "972",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1489,6 +1588,7 @@
   "name": "IEM Katowice 2019 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
   "description": "IEM Katowice 2019 CS2-kilpailujen semifinalistille annettu palkinto.",
+  "def_index": "973",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1504,6 +1604,7 @@
   "name": "IEM Katowice 2019 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
   "description": "Mestaruuspokaali myönnettiin IEM Katowice 2019 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "974",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1519,6 +1620,7 @@
   "name": "StarLadder Berliini 2019 -mestari",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin StarLadder Berliini 2019 -CS2-turnauksen voittajalle.",
+  "def_index": "975",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1534,6 +1636,7 @@
   "name": "StarLadder Berliini 2019 -finalisti",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin StarLadder Berliini 2019 -CS2-turnauksen finalistille.",
+  "def_index": "976",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1549,6 +1652,7 @@
   "name": "StarLadder Berliini 2019 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
   "description": "Tämä mestaruuspokaali myönnettiin StarLadder Berliini 2019 -CS2-turnauksen semifinalistille.",
+  "def_index": "977",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1564,6 +1668,7 @@
   "name": "StarLadder Berlin 2019 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
   "description": "Tämä mestaruuspokaali myönnettiin StarLadder Berliini 2019 -CS2-turnauksen neljännesfinalistille.",
+  "def_index": "978",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1579,6 +1684,7 @@
   "name": "PGL Tukholma 2021 -turnauksen mestari",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Champion",
   "description": "Tämä mestaruuspokaali myönnettiin PGL Tukholma 2021 CS2 Major -mestaruuskisojen voittajalle.",
+  "def_index": "979",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1594,6 +1700,7 @@
   "name": "PGL Tukholma 2021 -finalisti",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
   "description": "Tämä mestaruuspokaali myönnettiin PGL Tukholma 2021 CS2 Major -mestaruuskisojen finalistille.",
+  "def_index": "980",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1609,6 +1716,7 @@
   "name": "PGL Tukholma 2021 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
   "description": "Tämä mestaruuspokaali myönnettiin PGL Tukholma 2021 CS2 Major -mestaruuskisojen semifinalistille.",
+  "def_index": "981",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1624,6 +1732,7 @@
   "name": "PGL Tukholma 2021 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
   "description": "Tämä mestaruuspokaali myönnettiin PGL Tukholma 2021 CS2 Major -mestaruuskisojen neljännesfinalistille.",
+  "def_index": "982",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1639,6 +1748,7 @@
   "name": "PGL Antwerpen 2022 -mestari",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
   "description": "Tämä mestaruuspalkinto myönnettiin PGL Antwerp 2022 CS2 Major Championship -mestaruuden mestarille.",
+  "def_index": "983",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1654,6 +1764,7 @@
   "name": "PGL Antwerpen 2022 -finalisti",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
   "description": "Tämä mestaruuspalkinto myönnettiin PGL Antwerpen 2022 CS2 Major -mestaruuskilpailun finalistille.",
+  "def_index": "984",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1669,6 +1780,7 @@
   "name": "PGL Antwerpen 2022 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
   "description": "Tämä mestaruuspalkinto myönnettiin PGL Antwerpen 2022 CS2 Major -mestaruuskilpailun semifinalistille.",
+  "def_index": "985",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1684,6 +1796,7 @@
   "name": "PGL Antwerpen 2022 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
   "description": "Tämä mestaruuspalkinto myönnettiin PGL Antwerpen 2022 CS2 Major -mestaruuskilpailun neljännesfinalistille.",
+  "def_index": "986",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1699,6 +1812,7 @@
   "name": "10-vuotispäivän kolikko",
   "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
   "description": "CS2-yhteisö juhlisti pelin 10-vuotispäivää.\\n\\n<i>10 vuotta pääosumia, Clutch-tappoja ja yhteisöä. Onneksi olkoon, CS2!</i>",
+  "def_index": "987",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1714,6 +1828,7 @@
   "name": "IEM Rio 2022 -mestari",
   "code": "#CSGO_CollectibleCoin_Rio2022_Champion",
   "description": "Mestaruuspalkinto myönnettiin IEM Rio 2022 CS2 Majorin mestarille.",
+  "def_index": "988",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1729,6 +1844,7 @@
   "name": "IEM Rio 2022 -finalisti",
   "code": "#CSGO_CollectibleCoin_Rio2022_Finalist",
   "description": "Mestaruuspalkinto myönnettiin IEM Rio 2022 CS2 Majorin finalistille.",
+  "def_index": "989",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1744,6 +1860,7 @@
   "name": "IEM Rio 2022 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
   "description": "Mestaruuspalkinto myönnettiin IEM Rio 2022 CS2 Majorin semifinalistille.",
+  "def_index": "990",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1759,6 +1876,7 @@
   "name": "IEM Rio 2022 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
   "description": "Mestaruuspalkinto myönnettiin IEM Rio 2022 CS2 Majorin neljännesfinalistille.",
+  "def_index": "991",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1774,6 +1892,7 @@
   "name": "BLAST.tv Paris 2023 -mestari",
   "code": "#CSGO_CollectibleCoin_Paris2023_Champion",
   "description": "Mestaruuspalkinto myönnettiin BLAST.tv Paris 2023 CS2 Majorin mestarille.",
+  "def_index": "992",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1789,6 +1908,7 @@
   "name": "BLAST.tv Paris 2023 -finalisti",
   "code": "#CSGO_CollectibleCoin_Paris2023_Finalist",
   "description": "Mestaruuspalkinto myönnettiin BLAST.tv Paris 2023 CS2 Majorin finalistille.",
+  "def_index": "993",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1804,6 +1924,7 @@
   "name": "BLAST.tv Paris 2023 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
   "description": "Mestaruuspalkinto myönnettiin BLAST.tv Paris 2023 CS2 Majorin semifinalistille.",
+  "def_index": "994",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1819,6 +1940,7 @@
   "name": "BLAST.tv Paris 2023 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
   "description": "Mestaruuspalkinto myönnettiin BLAST.tv Paris 2023 CS2 Majorin neljännesfinalistille.",
+  "def_index": "995",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1834,6 +1956,7 @@
   "name": "Global Offensive -merkki",
   "code": "#CSGO_CollectibleCoin_CoinCsgo",
   "description": "Merkki on kunnianosoitus Counter-Strike: Global Offensive -yhteisön uskollisesta jäsenyydestä ennen Counter-Strike 2:n julkaisua. \\n\\n<i>Legendat eivät koskaan kuole</i>",
+  "def_index": "996",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1849,6 +1972,7 @@
   "name": "Operaatio Vastaisku -passi",
   "code": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
   "description": "Operaatio Vastaisku järjestettiin 25.4. - 2.9.2013. Yhteisön kartantekijöitä palkittiin sen kautta yli 180 000 Yhdysvaltain dollarilla. Tällä passilla ei voi enää käyttää operaatiota, mutta sen voi käyttää Operaatio Vastaisku -kolikon lunastamiseen.",
+  "def_index": "1000",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -1864,6 +1988,7 @@
   "name": "Operaatio Vastaiskun haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
   "description": "Osallistui Operaatio Vastaiskuun tukeakseen yhteisön karttatekijöitä.",
+  "def_index": "1001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1879,6 +2004,7 @@
   "name": "Hopeinen Operaatio Vastaiskun kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
   "description": "Osallistui Operaatio Vastaiskuun 10 tunnin ajan yhteisön kartantekijöiden tukemiseksi.",
+  "def_index": "1002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1894,6 +2020,7 @@
   "name": "Kultainen Operaatio Vastaiskun kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
   "description": "Osallistui Operaatio Vastaiskuun 50 tunnin ajan yhteisön kartantekijöiden tukemiseksi.",
+  "def_index": "1003",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1909,6 +2036,7 @@
   "name": "Museum-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenMuseum",
   "description": null,
+  "def_index": "1004",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1924,6 +2052,7 @@
   "name": "Downtown-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenDowntown",
   "description": null,
+  "def_index": "1005",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1939,6 +2068,7 @@
   "name": "Thunder-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenThunder",
   "description": null,
+  "def_index": "1006",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1954,6 +2084,7 @@
   "name": "Favela-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenFavela",
   "description": null,
+  "def_index": "1007",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1969,6 +2100,7 @@
   "name": "Motel-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenMotel",
   "description": null,
+  "def_index": "1008",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1984,6 +2116,7 @@
   "name": "Seaside-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenSeaside",
   "description": null,
+  "def_index": "1009",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -1999,6 +2132,7 @@
   "name": "Library-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenLibrary",
   "description": null,
+  "def_index": "1010",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2014,6 +2148,7 @@
   "name": "Operaatio Bravo -passi",
   "code": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
   "description": "Operaatio Bravo järjestettiin 19.9.2013–5.2.2014. Passilla ei voi enää käyttää operaatiota, mutta sillä voi lunastaa Operaatio Bravo -muistokolikon.",
+  "def_index": "1012",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -2029,6 +2164,7 @@
   "name": "Operaatio Bravo -haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
   "description": "Osallistui Operaatio Bravoon.",
+  "def_index": "1013",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2044,6 +2180,7 @@
   "name": "Hopeinen Operaatio Bravo -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
   "description": "Osallistui Operaatio Bravoon.",
+  "def_index": "1014",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2059,6 +2196,7 @@
   "name": "Kultainen Operaatio Bravo -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
   "description": "Osallistui Operaatio Bravoon.",
+  "def_index": "1015",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2074,6 +2212,7 @@
   "name": "Agency-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenAgency",
   "description": null,
+  "def_index": "1016",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2089,6 +2228,7 @@
   "name": "Ali-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenAli",
   "description": null,
+  "def_index": "1017",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2104,6 +2244,7 @@
   "name": "Cache-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenCache",
   "description": null,
+  "def_index": "1018",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2119,6 +2260,7 @@
   "name": "Chinatown-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenChinatown",
   "description": null,
+  "def_index": "1019",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2134,6 +2276,7 @@
   "name": "Gwalior-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenGwalior",
   "description": null,
+  "def_index": "1020",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2149,6 +2292,7 @@
   "name": "Ruins-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenRuins",
   "description": null,
+  "def_index": "1021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2164,6 +2308,7 @@
   "name": "Siege-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenSiege",
   "description": null,
+  "def_index": "1022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2179,6 +2324,7 @@
   "name": "Operaatio Feeniks -passi",
   "code": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
   "description": "Operaatio Feeniks järjestettiin 20.2.2014 - 11.6.2014. Tällä passilla ei voi enää käyttää operaatiota, mutta sen voi käyttää Operaatio Feeniks -haastekolikon lunastamiseen.",
+  "def_index": "1023",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -2194,6 +2340,7 @@
   "name": "Operaatio Feeniks -haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
   "description": "Osallistui Operaatio Feeniksiin.",
+  "def_index": "1024",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2209,6 +2356,7 @@
   "name": "Hopeinen Operaatio Feeniks -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
   "description": "Osallistui Operaatio Feeniksiin.",
+  "def_index": "1025",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2224,6 +2372,7 @@
   "name": "Kultainen Operaatio Feeniks -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
   "description": "Osallistui Operaatio Feeniksiin.",
+  "def_index": "1026",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2239,6 +2388,7 @@
   "name": "Operaatio Läpimurron täyden pääsyn passi",
   "code": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
   "description": "Operaatio Läpimurto järjestettiin 2.7.-2.10.2014. Tällä passilla ei voi enää käyttää operaatiota, mutta sen voi käyttää Operaatio Läpimurto -kolikon lunastamiseen.",
+  "def_index": "1027",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -2254,6 +2404,7 @@
   "name": "Operaatio Läpimurto -haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
   "description": "Osallistui Operaatio Läpimurtoon.",
+  "def_index": "1028",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2269,6 +2420,7 @@
   "name": "Hopeinen Operaatio Läpimurto -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
   "description": "Osallistui Operaatio Läpimurtoon.",
+  "def_index": "1029",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2284,6 +2436,7 @@
   "name": "Kultainen Operaatio Läpimurto -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
   "description": "Osallistui Operaatio Läpimurtoon.",
+  "def_index": "1030",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2299,6 +2452,7 @@
   "name": "Castle-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenCastle",
   "description": "­",
+  "def_index": "1031",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2314,6 +2468,7 @@
   "name": "Black Gold -karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBlackGold",
   "description": "­",
+  "def_index": "1032",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2329,6 +2484,7 @@
   "name": "Rush-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenRush",
   "description": "­",
+  "def_index": "1033",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2344,6 +2500,7 @@
   "name": "Mist-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenMist",
   "description": "­",
+  "def_index": "1034",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2359,6 +2516,7 @@
   "name": "Insertion-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenInsertion",
   "description": "­",
+  "def_index": "1035",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2374,6 +2532,7 @@
   "name": "Overgrown-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenOvergrown",
   "description": "­",
+  "def_index": "1036",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2389,6 +2548,7 @@
   "name": "Marquis-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenMarquis",
   "description": null,
+  "def_index": "1037",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2404,6 +2564,7 @@
   "name": "Workout-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenWorkout",
   "description": null,
+  "def_index": "1038",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2419,6 +2580,7 @@
   "name": "Backalley-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBackalley",
   "description": null,
+  "def_index": "1039",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2434,6 +2596,7 @@
   "name": "Season-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenSeason",
   "description": null,
+  "def_index": "1040",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2449,6 +2612,7 @@
   "name": "Bazaar-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBazaar",
   "description": null,
+  "def_index": "1041",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2464,6 +2628,7 @@
   "name": "Facade-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenFacade",
   "description": null,
+  "def_index": "1042",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2479,6 +2644,7 @@
   "name": "Log-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenLog",
   "description": null,
+  "def_index": "1043",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2494,6 +2660,7 @@
   "name": "Rails-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenRails",
   "description": null,
+  "def_index": "1044",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2509,6 +2676,7 @@
   "name": "Resort-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenResort",
   "description": null,
+  "def_index": "1045",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2524,6 +2692,7 @@
   "name": "Zoo-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenZoo",
   "description": null,
+  "def_index": "1046",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2539,6 +2708,7 @@
   "name": "Santorini-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenSantorini",
   "description": null,
+  "def_index": "1047",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2554,6 +2724,7 @@
   "name": "Coast-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenCoast",
   "description": null,
+  "def_index": "1048",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2569,6 +2740,7 @@
   "name": "Mikla-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenMikla",
   "description": null,
+  "def_index": "1049",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2584,6 +2756,7 @@
   "name": "Royal-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenRoyal",
   "description": null,
+  "def_index": "1050",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2599,6 +2772,7 @@
   "name": "Empire-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenEmpire",
   "description": null,
+  "def_index": "1051",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2614,6 +2788,7 @@
   "name": "Tulip-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenTulip",
   "description": null,
+  "def_index": "1052",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2629,6 +2804,7 @@
   "name": "Cruise-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenCruise",
   "description": null,
+  "def_index": "1053",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2644,6 +2820,7 @@
   "name": "Subzero-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenSubzero",
   "description": null,
+  "def_index": "1054",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2659,6 +2836,7 @@
   "name": "Biome-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBiome",
   "description": null,
+  "def_index": "1055",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2674,6 +2852,7 @@
   "name": "Abbey-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenAbbey",
   "description": null,
+  "def_index": "1056",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2689,6 +2868,7 @@
   "name": "Ruby-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenRuby",
   "description": null,
+  "def_index": "1057",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2704,6 +2884,7 @@
   "name": "Breach-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBreach",
   "description": null,
+  "def_index": "1058",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2719,6 +2900,7 @@
   "name": "Studio-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenStudio",
   "description": null,
+  "def_index": "1059",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2734,6 +2916,7 @@
   "name": "Jungle-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenJungle",
   "description": null,
+  "def_index": "1060",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2749,6 +2932,7 @@
   "name": "Anubis-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenAnubis",
   "description": null,
+  "def_index": "1061",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2764,6 +2948,7 @@
   "name": "Chlorine-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenChlorine",
   "description": null,
+  "def_index": "1062",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2779,6 +2964,7 @@
   "name": "Mutiny-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenMutiny",
   "description": null,
+  "def_index": "1063",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2794,6 +2980,7 @@
   "name": "Swamp-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenSwamp",
   "description": null,
+  "def_index": "1064",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2809,6 +2996,7 @@
   "name": "Frostbite-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenFrostbite",
   "description": null,
+  "def_index": "1065",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2824,6 +3012,7 @@
   "name": "Engage-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenEngage",
   "description": null,
+  "def_index": "1066",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2839,6 +3028,7 @@
   "name": "Apollo-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenApollo",
   "description": null,
+  "def_index": "1067",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2854,6 +3044,7 @@
   "name": "Guard-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenGuard",
   "description": null,
+  "def_index": "1068",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2869,6 +3060,7 @@
   "name": "Elysion-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenElysion",
   "description": null,
+  "def_index": "1069",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2884,6 +3076,7 @@
   "name": "Grind-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenGrind",
   "description": null,
+  "def_index": "1070",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2899,6 +3092,7 @@
   "name": "Mocha-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenMocha",
   "description": null,
+  "def_index": "1071",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2914,6 +3108,7 @@
   "name": "Calavera-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenCalavera",
   "description": null,
+  "def_index": "1072",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2929,6 +3124,7 @@
   "name": "Pitstop-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenPitstop",
   "description": null,
+  "def_index": "1073",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2944,6 +3140,7 @@
   "name": "Basalt-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBasalt",
   "description": null,
+  "def_index": "1074",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2959,6 +3156,7 @@
   "name": "Insertion II -karttakolikko",
   "code": "#CSGO_Collectible_MapTokenInsertion2",
   "description": null,
+  "def_index": "1075",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2974,6 +3172,7 @@
   "name": "Ravine-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenRavine",
   "description": null,
+  "def_index": "1076",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -2989,6 +3188,7 @@
   "name": "Extraction-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenExtraction",
   "description": null,
+  "def_index": "1077",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3004,6 +3204,7 @@
   "name": "County-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenCounty",
   "description": null,
+  "def_index": "1078",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3019,6 +3220,7 @@
   "name": "Iris-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenIris",
   "description": null,
+  "def_index": "1079",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3034,6 +3236,7 @@
   "name": "Climb-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenClimb",
   "description": null,
+  "def_index": "1080",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3049,6 +3252,7 @@
   "name": "Crete-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenCrete",
   "description": null,
+  "def_index": "1081",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3064,6 +3268,7 @@
   "name": "Hive-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenHive",
   "description": null,
+  "def_index": "1082",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3079,6 +3284,7 @@
   "name": "Vineyard-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenVineyard",
   "description": null,
+  "def_index": "1083",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3094,6 +3300,7 @@
   "name": "Ember-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenEmber",
   "description": null,
+  "def_index": "1084",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3109,6 +3316,7 @@
   "name": "Tuscan-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenTuscan",
   "description": null,
+  "def_index": "1085",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3124,6 +3332,7 @@
   "name": "Cascade-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenPrime",
   "description": null,
+  "def_index": "1086",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3139,6 +3348,7 @@
   "name": "Blagai-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBlagai",
   "description": null,
+  "def_index": "1087",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3154,6 +3364,7 @@
   "name": "Boyard-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBoyard",
   "description": null,
+  "def_index": "1088",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3169,6 +3380,7 @@
   "name": "Chalice-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenChalice",
   "description": null,
+  "def_index": "1089",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3184,6 +3396,7 @@
   "name": "Operaatio Eturintama -pääsypassi",
   "code": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
   "description": "Operaatio Eturintama järjestettiin 11.11.2014 - 31.3.2015. Tällä passilla ei voi enää käyttää operaatiota, mutta sen voi käyttää Operaatio Eturintama -haastekolikon lunastamiseen.",
+  "def_index": "1315",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -3199,6 +3412,7 @@
   "name": "Operaatio Eturintama -haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
   "description": "Osallistui Operaatio Eturintamaan.",
+  "def_index": "1316",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3214,6 +3428,7 @@
   "name": "Hopeinen Operaatio Eturintama -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
   "description": "Osallistui Operaatio Eturintamaan.",
+  "def_index": "1317",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3229,6 +3444,7 @@
   "name": "Kultainen Operaatio Eturintama -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
   "description": "Osallistui Operaatio Eturintamaan.",
+  "def_index": "1318",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3244,6 +3460,7 @@
   "name": "Operaatio Verikoira -pääsypassi",
   "code": "#CSGO_Ticket_CommunitySeasonSix2015",
   "description": "Operaatio Verikoira järjestettiin 26.5.2015 - 1.10.2015. Tällä passilla ei voi enää käyttää operaatiota, mutta sen voi käyttää Operaatio Verikoira -kolikon lunastamiseen.",
+  "def_index": "1326",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -3259,6 +3476,7 @@
   "name": "Operaatio Verikoira -haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
   "description": "Osallistui Operaatio Verikoiraan.",
+  "def_index": "1327",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3274,6 +3492,7 @@
   "name": "Hopeinen Operaatio Verikoira -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
   "description": "Osallistui Operaatio Verikoiraan.",
+  "def_index": "1328",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3289,6 +3508,7 @@
   "name": "Kultainen Operaatio Verikoira -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
   "description": "Osallistui Operaatio Verikoiraan.",
+  "def_index": "1329",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3304,6 +3524,7 @@
   "name": "Palvelusmitali 2015",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2015.",
+  "def_index": "1331",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3319,6 +3540,7 @@
   "name": "Palvelusmitali 2015",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2015.",
+  "def_index": "1332",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3334,6 +3556,7 @@
   "name": "Operaatio Maastopalo -pääsypassi",
   "code": "#CSGO_Ticket_CommunitySeasonSeven2016",
   "description": "Operaatio Maastopalo järjestettiin 17.2. - 13.7.2016. Tällä passilla ei voi enää käyttää operaatiota, mutta sen voi käyttää Operaatio Maastopalo -haastekolikon lunastamiseen.",
+  "def_index": "1335",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -3349,6 +3572,7 @@
   "name": "Maastopalo-operaation haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
   "description": "Osallistui Operaatio Maastopaloon.",
+  "def_index": "1336",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3364,6 +3588,7 @@
   "name": "Hopeinen Operaatio Maastopalo -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
   "description": "Osallistui Operaatio Maastopaloon.",
+  "def_index": "1337",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3379,6 +3604,7 @@
   "name": "Kultainen Operaatio Maastopalo -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
   "description": "Osallistui Operaatio Maastopaloon.",
+  "def_index": "1338",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3394,6 +3620,7 @@
   "name": "Palvelusmitali 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2016.",
+  "def_index": "1339",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3409,6 +3636,7 @@
   "name": "Palvelusmitali 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2016.",
+  "def_index": "1340",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3424,6 +3652,7 @@
   "name": "Palvelusmitali 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2016.",
+  "def_index": "1341",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3439,6 +3668,7 @@
   "name": "Palvelusmitali 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2016.",
+  "def_index": "1342",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3454,6 +3684,7 @@
   "name": "Palvelusmitali 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2016.",
+  "def_index": "1343",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3469,6 +3700,7 @@
   "name": "Palvelusmitali 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2016.",
+  "def_index": "1344",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3484,6 +3716,7 @@
   "name": "Operaatio Hydra -pääsypassi",
   "code": "#CSGO_Ticket_CommunitySeasonEight2017",
   "description": "Operaatio Hydra oli käynnissä 23.5.–14.11.2017. Tällä passilla ei enää pääse mukaan operaatioon, mutta sitä voidaan käyttää Operaatio Hydra -muistokolikon lunastamiseen.",
+  "def_index": "1352",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -3499,6 +3732,7 @@
   "name": "Palvelusmitali 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2017.",
+  "def_index": "1357",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3514,6 +3748,7 @@
   "name": "Palvelusmitali 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2017.",
+  "def_index": "1358",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3529,6 +3764,7 @@
   "name": "Palvelusmitali 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2017.",
+  "def_index": "1359",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3544,6 +3780,7 @@
   "name": "Palvelusmitali 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2017.",
+  "def_index": "1360",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3559,6 +3796,7 @@
   "name": "Palvelusmitali 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2017.",
+  "def_index": "1361",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3574,6 +3812,7 @@
   "name": "Palvelusmitali 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2017.",
+  "def_index": "1362",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3589,6 +3828,7 @@
   "name": "Palvelusmitali 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2017.",
+  "def_index": "1363",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3604,6 +3844,7 @@
   "name": "Palvelusmitali 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2018.",
+  "def_index": "1367",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3619,6 +3860,7 @@
   "name": "Palvelusmitali 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2018.",
+  "def_index": "1368",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3634,6 +3876,7 @@
   "name": "Palvelusmitali 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2018.",
+  "def_index": "1369",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3649,6 +3892,7 @@
   "name": "Palvelusmitali 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2018.",
+  "def_index": "1370",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3664,6 +3908,7 @@
   "name": "Palvelusmitali 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2018.",
+  "def_index": "1371",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3679,6 +3924,7 @@
   "name": "Palvelusmitali 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2018.",
+  "def_index": "1372",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3694,6 +3940,7 @@
   "name": "Palvelusmitali 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2019.",
+  "def_index": "1376",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3709,6 +3956,7 @@
   "name": "Palvelusmitali 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2019.",
+  "def_index": "1377",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3724,6 +3972,7 @@
   "name": "Palvelusmitali 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2019.",
+  "def_index": "1378",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3739,6 +3988,7 @@
   "name": "Palvelusmitali 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2019.",
+  "def_index": "1379",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3754,6 +4004,7 @@
   "name": "Palvelusmitali 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2019.",
+  "def_index": "1380",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3769,6 +4020,7 @@
   "name": "Palvelusmitali 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2019.",
+  "def_index": "1381",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3784,6 +4036,7 @@
   "name": "Operaatio Hydra -haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
   "description": "Osallistui Operaatio Hydraan.",
+  "def_index": "4353",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3799,6 +4052,7 @@
   "name": "Hopeinen Operaatio Hydra -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
   "description": "Osallistui Operaatio Hydraan.",
+  "def_index": "4354",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3814,6 +4068,7 @@
   "name": "Kultainen Operaatio Hydra -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
   "description": "Osallistui Operaatio Hydraan.",
+  "def_index": "4355",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3829,6 +4084,7 @@
   "name": "Timanttinen Operaatio Hydra -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
   "description": "Operaatio Hydra suoritettu.",
+  "def_index": "4356",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3844,6 +4100,7 @@
   "name": "Operaatio Pirstaleisen verkon Premium-passi",
   "code": "#CSGO_Ticket_CommunitySeasonNine2019",
   "description": "Operaatio Pirstalainen verkko oli käynnissä 18.11.2019–31.3.2020. Tällä passilla ei enää pääse mukaan operaatioon, mutta sitä voidaan käyttää Operaatio Pirstaleinen verkko -muistokolikon lunastamiseen.",
+  "def_index": "4549",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -3859,6 +4116,7 @@
   "name": "Operaatio Pirstaleinen verkko -haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
   "description": "Osallistui Operaatio Pirstaleiseen verkkoon.",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3874,6 +4132,7 @@
   "name": "Hopeinen Operaatio Pirstaleinen verkko -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
   "description": "Osallistui Operaatio Pirstaleiseen verkkoon.",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3889,6 +4148,7 @@
   "name": "Kultainen Operaatio Pirstaleinen verkko -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
   "description": "Osallistui Operaatio Pirstaleiseen verkkoon.",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3904,6 +4164,7 @@
   "name": "Timanttinen Operaatio Pirstaleinen verkko -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
   "description": "Operaatio Pirstaleinen verkko suoritettu.",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3919,6 +4180,7 @@
   "name": "Katowice 2019 -katsojapassi",
   "code": "#CSGO_TournamentPass_katowice2019",
   "description": "Saammeko esitellä sinetöidyn 2019 Katowicen CS2 Major -turnauksen katsojapassin? Avaamalla passin saat Katowice 2019 -kolikon, jolla seuraat edistystäsi kisoissa. Passi sisältää pääsyn Katowice 2019 Pick'Em -haasteeseen, tuliaispaketteihin ja Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Katowice 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispaketin.",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -3934,6 +4196,7 @@
   "name": "Katowice 2019 -kolikko",
   "code": "#CSGO_TournamentJournal_katowice2019",
   "description": "Tämä on IEM 2019 Katowicen CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Katowice 2019 Pick'Em -haasteeseen, tuliaispaketteihin ja Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Katowice 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispaketin.",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3949,6 +4212,7 @@
   "name": "Katowice 2019 -hopeakolikko",
   "code": "#CSGO_TournamentJournal_katowice2019_Silver",
   "description": "Tämä on IEM 2019 Katowicen CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Katowice 2019 Pick'Em -haasteeseen, tuliaispaketteihin ja Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Katowice 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispaketin.",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3964,6 +4228,7 @@
   "name": "Katowice 2019 -kultakolikko",
   "code": "#CSGO_TournamentJournal_katowice2019_Gold",
   "description": "Tämä on IEM 2019 Katowicen CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Katowice 2019 Pick'Em -haasteeseen, tuliaispaketteihin ja Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Katowice 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispaketin.",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3979,6 +4244,7 @@
   "name": "Katowice 2019 -timanttikolikko",
   "code": "#CSGO_TournamentJournal_katowice2019_Crystal",
   "description": "Tämä on IEM 2019 Katowicen CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Katowice 2019 Pick'Em -haasteeseen, tuliaispaketteihin ja Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Katowice 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispaketin.",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -3994,6 +4260,7 @@
   "name": "Berliini 2019 -katsojapassi",
   "code": "#CSGO_TournamentPass_berlin2019",
   "description": "Tämä on sinetöity StarLadder 2019 Berliinin CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Berliini 2019 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Berliini 2019 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Berliini 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4622",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4009,6 +4276,7 @@
   "name": "Berliini 2019 -kolikko",
   "code": "#CSGO_TournamentJournal_berlin2019",
   "description": "Tämä on Starladder 2019 Berliinin CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Berliini 2019 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Berliini 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaismerkin.",
+  "def_index": "4623",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4024,6 +4292,7 @@
   "name": "Berliini 2019 -hopeakolikko",
   "code": "#CSGO_TournamentJournal_berlin2019_Silver",
   "description": "Tämä on Starladder 2019 Berliinin CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Berliini 2019 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Berliini 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaismerkin.",
+  "def_index": "4624",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4039,6 +4308,7 @@
   "name": "Berliini 2019 -kultakolikko",
   "code": "#CSGO_TournamentJournal_berlin2019_Gold",
   "description": "Tämä on Starladder 2019 Berliinin CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Berliini 2019 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Berliini 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaismerkin.",
+  "def_index": "4625",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4054,6 +4324,7 @@
   "name": "Berliini 2019 -timanttikolikko",
   "code": "#CSGO_TournamentJournal_berlin2019_Crystal",
   "description": "Tämä on Starladder 2019 Berliinin CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Berliini 2019 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Berliini 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaismerkin.",
+  "def_index": "4626",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4069,6 +4340,7 @@
   "name": "Berliini 2019 -katsojapassi + 3 tuliaispolettia",
   "code": "#CSGO_TournamentPass_berlin2019_pack",
   "description": "Tämä on sinetöity StarLadder 2019 Berliinin CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Berliini 2019 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Berliini 2019 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Berliini 2019 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\nTämä katsojapassi aktivoi Berliini 2019 -kolikkosi kolmella tuliaispoletilla.",
+  "def_index": "4627",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4084,6 +4356,7 @@
   "name": "Berliini 2019 -tuliaispoletti",
   "code": "#CSGO_TournamentPass_berlin2019_charge",
   "description": "Tämä on sinetöity StarLadder 2019 Berliinin CS2 Major -turnauksen tuliaispoletti. Kun poletin sinetti on avattu, se lisää poletin Berliini 2019 -kolikkoosi ja antaa mahdollisuuden lunastaa tuliaispaketin.\\n\\nPoletteja voi käyttää ainoastaan olemassaolevaan Berliini 2019 -kolikkoosi.",
+  "def_index": "4628",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4091,7 +4364,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Berlin 2019 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/starladder_pickem_2019_pass_charge_png.png"
  },
  {
@@ -4099,6 +4372,7 @@
   "name": "1 tähti Operaatio Pirstaleiselle verkolle",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
   "description": "Ostettava operaatiotähtipäivitys antaa aktivoitaessa <b>1 operaation tähden</b>.\\n\\nTämä operaatiotähtipäivitys on saatavilla vain operaatiokolikon omistaville pelaajille.",
+  "def_index": "4671",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4114,6 +4388,7 @@
   "name": "10 tähteä Operaatio Pirstaleiselle verkolle",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
   "description": "Ostettava operaatiotähtipäivitys antaa aktivoitaessa <b>10 operaation tähteä</b>.\\n\\nTämä operaatiotähtipäivitys on saatavilla vain operaatiokolikon omistaville pelaajille.",
+  "def_index": "4672",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4129,6 +4404,7 @@
   "name": "100 tähteä Operaatio Pirstaleiselle verkolle",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
   "description": "Ostettava operaatiotähtipäivitys antaa aktivoitaessa <b>100 operaation tähteä</b>.\\n\\nTämä operaatiotähtipäivitys on saatavilla vain operaatiokolikon omistaville pelaajille.",
+  "def_index": "4673",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4144,6 +4420,7 @@
   "name": "Palvelusmitali 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2020.",
+  "def_index": "4674",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4159,6 +4436,7 @@
   "name": "Palvelusmitali 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2020.",
+  "def_index": "4675",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4174,6 +4452,7 @@
   "name": "Palvelusmitali 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2020.",
+  "def_index": "4676",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4189,6 +4468,7 @@
   "name": "Palvelusmitali 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2020.",
+  "def_index": "4677",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4204,6 +4484,7 @@
   "name": "Palvelusmitali 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2020.",
+  "def_index": "4678",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4219,6 +4500,7 @@
   "name": "Palvelusmitali 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2020.",
+  "def_index": "4679",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4234,6 +4516,7 @@
   "name": "Suojelupalvelu-pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_04",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4682",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4249,6 +4532,7 @@
   "name": "Sapuskaa-pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_07",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4683",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -4264,6 +4548,7 @@
   "name": "Vortigaunt-pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_09",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4684",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -4279,6 +4564,7 @@
   "name": "Päärapusymboli-pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_05",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4685",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -4294,6 +4580,7 @@
   "name": "Terveyspinssi",
   "code": "#CSGO_Collectible_Pin_alyx_12",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4686",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -4309,6 +4596,7 @@
   "name": "Lambda-pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_01",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4687",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -4324,6 +4612,7 @@
   "name": "Kuparinen lambda-pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_02",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4688",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -4339,6 +4628,7 @@
   "name": "CMB-pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_03",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4689",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -4354,6 +4644,7 @@
   "name": "Black Mesa -pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_06",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4690",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -4369,6 +4660,7 @@
   "name": "Combine-kypäräpinssi",
   "code": "#CSGO_Collectible_Pin_alyx_08",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4691",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -4384,6 +4676,7 @@
   "name": "Kaupunki 17 -pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_11",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "4692",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -4399,6 +4692,7 @@
   "name": "Operaatio Katkenneen torahampaan Premium-passi",
   "code": "#CSGO_Ticket_CommunitySeasonTen2020",
   "description": "Operaatio Katkennut torahammas järjestettiin 3.12.2020–30.4.2021. Tällä passilla ei voi enää käyttää operaatiota, mutta sen voi käyttää Operaatio Katkennut torahammas -haastekolikon lunastamiseen.",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4414,6 +4708,7 @@
   "name": "Operaatio Katkennut torahammas -haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
   "description": "Osallistui Operaatio Katkenneeseen torahampaaseen.",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4429,6 +4724,7 @@
   "name": "Hopeinen Operaatio Katkennut torahammas -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
   "description": "Osallistui Operaatio Katkenneeseen torahampaaseen.",
+  "def_index": "4701",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4444,6 +4740,7 @@
   "name": "Kultainen Operaatio Katkennut torahammas -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
   "description": "Osallistui Operaatio Katkenneeseen torahampaaseen.",
+  "def_index": "4702",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4459,6 +4756,7 @@
   "name": "Timanttinen Operaatio Katkennut torahammas -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
   "description": "Suoritti Operaatio Katkenneen torahampaan.",
+  "def_index": "4703",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4474,6 +4772,7 @@
   "name": "1 tähti – Operaatio Katkennut torahammas",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
   "description": "Ostettava operaatiotähtipäivitys antaa aktivoitaessa <b>1 operaation tähden</b>.",
+  "def_index": "4704",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4489,6 +4788,7 @@
   "name": "10 tähteä – Operaatio Katkennut torahammas",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
   "description": "Ostettava operaatiotähtipäivitys antaa aktivoitaessa <b>10 operaation tähteä</b>.",
+  "def_index": "4705",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4504,6 +4804,7 @@
   "name": "100 tähteä – Operaatio Katkennut torahammas",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
   "description": "Ostettava operaatiotähtipäivitys antaa aktivoitaessa <b>100 operaation tähteä</b>.",
+  "def_index": "4706",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4519,6 +4820,7 @@
   "name": "Palvelusmitali 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2021.",
+  "def_index": "4737",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4534,6 +4836,7 @@
   "name": "Palvelusmitali 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2021.",
+  "def_index": "4738",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4549,6 +4852,7 @@
   "name": "Palvelusmitali 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2021.",
+  "def_index": "4739",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4564,6 +4868,7 @@
   "name": "Palvelusmitali 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2021.",
+  "def_index": "4740",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4579,6 +4884,7 @@
   "name": "Palvelusmitali 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2021.",
+  "def_index": "4741",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4594,6 +4900,7 @@
   "name": "Palvelusmitali 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2021.",
+  "def_index": "4742",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4609,6 +4916,7 @@
   "name": "Operaatio Ristiaallokon Premium-passi",
   "code": "#CSGO_Ticket_CommunitySeasonEleven2021",
   "description": "Saat Operaatio Ristiaallokon Premium-passilla saa päivitettävän Operaatio Ristiaallokko -muistokolikon, viikoittaisia tehtäviä ja pääsyn Operaation kaupan ainutlaatuisiin esineisiin.",
+  "def_index": "4758",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4624,6 +4932,7 @@
   "name": "Operaatio Ristiaallokko -haastekolikko",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
   "description": "Osallistui Operaatio Ristiaallokkoon.",
+  "def_index": "4759",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4639,6 +4948,7 @@
   "name": "Hopeinen Operaatio Ristiaallokko -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
   "description": "Osallistui Operaatio Ristiaallokkoon.",
+  "def_index": "4760",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4654,6 +4964,7 @@
   "name": "Kultainen Operaatio Ristiaallokko -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
   "description": "Osallistui Operaatio Ristiaallokkoon.",
+  "def_index": "4761",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4669,6 +4980,7 @@
   "name": "Timanttinen Operaatio Ristiaallokko -kolikko",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
   "description": "Operaatio Ristiaallokko suoritettu.",
+  "def_index": "4762",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4684,6 +4996,7 @@
   "name": "1 tähti – Operaatio Ristiaallokko",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
   "description": "Ostettava operaatiotähtipäivitys antaa aktivoitaessa <b>1 operaation tähden</b>.",
+  "def_index": "4763",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4699,6 +5012,7 @@
   "name": "10 tähteä – Operaatio Ristiaallokko",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
   "description": "Ostettava operaatiotähtipäivitys antaa aktivoitaessa <b>10 operaation tähteä</b>.",
+  "def_index": "4764",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4714,6 +5028,7 @@
   "name": "100 tähteä – Operaatio Ristiaallokko",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
   "description": "Ostettava operaatiotähtipäivitys antaa aktivoitaessa <b>100 operaation tähteä</b>.",
+  "def_index": "4765",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4729,6 +5044,7 @@
   "name": "Tukholma 2021 -katsojapassi",
   "code": "#CSGO_TournamentPass_stockh2021",
   "description": "Tämä on sinetöity PGL 2021 Tukholman CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Tukholma 2021 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Tukholma 2021 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Tukholma 2021 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\n50 % myyntituloista käytetään mukana olleiden järjestöjen tukemiseen.",
+  "def_index": "4796",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4744,6 +5060,7 @@
   "name": "Tukholma 2021 -kolikko",
   "code": "#CSGO_TournamentJournal_stockh2021",
   "description": "Tämä on  PGL 2021 Tukholma CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Tukholma 2021 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajattomaan joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Tukholma 2021 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4797",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4759,6 +5076,7 @@
   "name": "Tukholma 2021 -hopeakolikko",
   "code": "#CSGO_TournamentJournal_stockh2021_Silver",
   "description": "Tämä on  PGL 2021 Tukholma CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Tukholma 2021 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajattomaan joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Tukholma 2021 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4798",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4774,6 +5092,7 @@
   "name": "Tukholma 2021 -kultakolikko",
   "code": "#CSGO_TournamentJournal_stockh2021_Gold",
   "description": "Tämä on  PGL 2021 Tukholma CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Tukholma 2021 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajattomaan joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Tukholma 2021 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4799",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4789,6 +5108,7 @@
   "name": "Tukholma 2021 -timanttikolikko",
   "code": "#CSGO_TournamentJournal_stockh2021_Crystal",
   "description": "Tämä on  PGL 2021 Tukholma CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Tukholma 2021 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajattomaan joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Tukholma 2021 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4800",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4804,6 +5124,7 @@
   "name": "Tukholma 2021 -katsojapassi + 3 tuliaispolettia",
   "code": "#CSGO_TournamentPass_stockh2021_pack",
   "description": "Tämä on sinetöity PGL 2021 Tukholman CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Tukholma 2021 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Tukholma 2021 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Tukholma 2021 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\nTämä katsojapassi aktivoi Tukholma 2021 -kolikkosi kolmella tuliaispoletilla.\\n\\n50 % myyntituloista käytetään mukana olleiden järjestöjen tukemiseen.",
+  "def_index": "4801",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4819,6 +5140,7 @@
   "name": "Tukholma 2021 -tuliaispoletti",
   "code": "#CSGO_TournamentPass_stockh2021_charge",
   "description": "Tämä on sinetöity PGL 2021 Tukholman CS2 Major -turnauksen tuliaispoletti. Kun poletin sinetti on avattu, poletti lisätään Tukholma 2021 -kolikkoosi, ja voit lunastaa tuliaispaketin.\\n\\nPoletteja voi käyttää ainoastaan olemassaolevaan Tuhkolma 2021 -kolikkoosi.",
+  "def_index": "4802",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4826,7 +5148,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Stockholm 2021 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2021_pass_charge_png.png"
  },
  {
@@ -4834,6 +5156,7 @@
   "name": "Palvelusmitali 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2022.",
+  "def_index": "4819",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4849,6 +5172,7 @@
   "name": "Palvelusmitali 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2022.",
+  "def_index": "4820",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4864,6 +5188,7 @@
   "name": "Palvelusmitali 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2022.",
+  "def_index": "4821",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4879,6 +5204,7 @@
   "name": "Palvelusmitali 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2022.",
+  "def_index": "4822",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4894,6 +5220,7 @@
   "name": "Palvelusmitali 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2022.",
+  "def_index": "4823",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4909,6 +5236,7 @@
   "name": "Palvelusmitali 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2022.",
+  "def_index": "4824",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4924,6 +5252,7 @@
   "name": "Antwerpen 2022 -katsojapassi",
   "code": "#CSGO_TournamentPass_antwerp2022",
   "description": "Tämä on sinetöity PGL 2022 Antwerpenin CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Antwerpen 2022 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Antwerpen 2022 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\n50 % myyntituloista käytetään mukana olleiden järjestöjen tukemiseen.",
+  "def_index": "4825",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -4939,6 +5268,7 @@
   "name": "Antwerpen 2022 -kolikko",
   "code": "#CSGO_TournamentJournal_antwerp2022",
   "description": "Tämä on PGL 2022 Antwerpenin CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Antwerpen 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4826",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4954,6 +5284,7 @@
   "name": "Antwerpen 2022 -hopeakolikko",
   "code": "#CSGO_TournamentJournal_antwerp2022_Silver",
   "description": "Tämä on PGL 2022 Antwerpenin CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Antwerpen 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4827",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4969,6 +5300,7 @@
   "name": "Antwerpen 2022 -kultakolikko",
   "code": "#CSGO_TournamentJournal_antwerp2022_Gold",
   "description": "Tämä on PGL 2022 Antwerpenin CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Antwerpen 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4828",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4984,6 +5316,7 @@
   "name": "Antwerpen 2022 -timanttikolikko",
   "code": "#CSGO_TournamentJournal_antwerp2022_Crystal",
   "description": "Tämä on PGL 2022 Antwerpenin CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Antwerpen 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Antwerpen 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4829",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -4999,6 +5332,7 @@
   "name": "Antwerpen 2022 -katsojapassi + 3 tuliaispolettia",
   "code": "#CSGO_TournamentPass_antwerp2022_pack",
   "description": "Tämä on sinetöity PGL 2022 Antwerpenin CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Antwerpen 2022 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Antwerpen 2022 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin, kolikkohaasteisiin ja rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit nostaa Antwerpen 2022 -kolikkosi tasoa suorittamalla tehtäviä. Jokaisesta kolikon tason korotuksesta ansaitset tuliaispoletin.\\n\\nKatsojapassi aktivoi Antwerpen 2022 -kolikkosi ja saat samalla kolme tuliaispolettia.\\n\\n50 % myyntituotosta käytetään tapahtumaan osallistuvien järjestöjen tukemiseen.",
+  "def_index": "4830",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5014,6 +5348,7 @@
   "name": "Antwerpen 2022 -tuliaispoletti",
   "code": "#CSGO_TournamentPass_antwerp2022_charge",
   "description": "Tämä on sinetöity PGL Antwerpen 2022 CS2 Major -turnauksen tuliaispoletti. Avaamalla poletin se lisätään Antwerpen 2022 -kolikkoosi ja saat mahdollisuuden lunastaa tuliaispaketin.\\n\\nPoletteja voi lisätä ainoastaan olemassaolevaan Antwerpen 2022 -kolikkoon.",
+  "def_index": "4831",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5021,7 +5356,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Antwerp 2022 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2022_pass_charge_png.png"
  },
  {
@@ -5029,6 +5364,7 @@
   "name": "Rio 2022 -katsojapassi",
   "code": "#CSGO_TournamentPass_rio2022",
   "description": "Tämä on sinetöity IEM Rio 2022 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Rio 2022 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Rio 2022 Pick'Em-haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Rio 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\nPuolet myyntituloista käytetään mukana olevien järjestöjen tukemiseen.",
+  "def_index": "4850",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5044,6 +5380,7 @@
   "name": "Rio 2022 -kolikko",
   "code": "#CSGO_TournamentJournal_rio2022",
   "description": "Tämä on IEM Rio 2022 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Rio 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Rio 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4851",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5059,6 +5396,7 @@
   "name": "Rio 2022 -hopeakolikko",
   "code": "#CSGO_TournamentJournal_rio2022_Silver",
   "description": "Tämä on IEM Rio 2022 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Rio 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Rio 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4852",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5074,6 +5412,7 @@
   "name": "Rio 2022 -kultakolikko",
   "code": "#CSGO_TournamentJournal_rio2022_Gold",
   "description": "Tämä on IEM Rio 2022 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Rio 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Rio 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4853",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5089,6 +5428,7 @@
   "name": "Rio 2022 -timanttikolikko",
   "code": "#CSGO_TournamentJournal_rio2022_Crystal",
   "description": "Tämä on IEM Rio 2022 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Rio 2022 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Rio 2022 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4854",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5104,6 +5444,7 @@
   "name": "Rio 2022 -katsojapassi + 3 tuliaispolettia",
   "code": "#CSGO_TournamentPass_rio2022_pack",
   "description": "Tämä on sinetöity IEM Rio 2022 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Rio 2022 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Rio 2022 Pick'Em-haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit nostaa Rio 2022 -kolikkosi tasoa suorittamalla tehtäviä. Jokaisesta kolikon tason korotuksesta ansaitset tuliaispoletin.\\n\\nKatsojapassi aktivoi Rio 2022 -kolikkosi ja saat samalla kolme tuliaispolettia.\\n\\n50 % myyntituotosta käytetään tapahtumaan osallistuvien järjestöjen tukemiseen.",
+  "def_index": "4855",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5119,6 +5460,7 @@
   "name": "Rio 2022 -tuliaispoletti",
   "code": "#CSGO_TournamentPass_rio2022_charge",
   "description": "Tämä on sinetöity IEM Rio 2022 CS2 Major -turnauksen tuliaispoletti. Kun poletin sinetti on avattu, se lisää poletin Rio 2022 -kolikkoosi ja antaa mahdollisuuden lunastaa tuliaispaketin.\\n\\nPoletteja voi käyttää ainoastaan olemassa olevaan Rio 2022 -kolikkoon.",
+  "def_index": "4856",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5126,7 +5468,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Rio 2022 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/iem_pickem_2022_pass_charge_png.png"
  },
  {
@@ -5134,6 +5476,7 @@
   "name": "Palvelusmitali 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2023.",
+  "def_index": "4873",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5149,6 +5492,7 @@
   "name": "Palvelusmitali 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2023.",
+  "def_index": "4874",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5164,6 +5508,7 @@
   "name": "Palvelusmitali 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2023.",
+  "def_index": "4875",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5179,6 +5524,7 @@
   "name": "Palvelusmitali 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2023.",
+  "def_index": "4876",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5194,6 +5540,7 @@
   "name": "Palvelusmitali 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2023.",
+  "def_index": "4877",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5209,6 +5556,7 @@
   "name": "Palvelusmitali 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2023.",
+  "def_index": "4878",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5224,6 +5572,7 @@
   "name": "Paris 2023 -katsojapassi",
   "code": "#CSGO_TournamentPass_paris2023",
   "description": "Tämä on sinetöity BLAST.tv Paris 2023 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Paris 2023 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Paris 2023 Pick'Em-haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää  Paris 2023 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\nPuolet myyntituloista käytetään mukana olevien järjestöjen tukemiseen.",
+  "def_index": "4883",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5239,6 +5588,7 @@
   "name": "Paris 2023 -kolikko",
   "code": "#CSGO_TournamentJournal_paris2023",
   "description": "Tämä on BLAST.tv Paris 2023 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Paris 2023 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Paris 2023 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4884",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5254,6 +5604,7 @@
   "name": "Paris 2023 -hopeakolikko",
   "code": "#CSGO_TournamentJournal_paris2023_Silver",
   "description": "Tämä on BLAST.tv Paris 2023 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Paris 2023 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Paris 2023 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4885",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5269,6 +5620,7 @@
   "name": "Paris 2023 -kultakolikko",
   "code": "#CSGO_TournamentJournal_paris2023_Gold",
   "description": "Tämä on BLAST.tv Paris 2023 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Paris 2023 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Paris 2023 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4886",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5284,6 +5636,7 @@
   "name": "Paris 2023 -timanttikolikko",
   "code": "#CSGO_TournamentJournal_paris2023_Crystal",
   "description": "Tämä on BLAST.tv Paris 2023 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Paris 2023 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Paris 2023 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4887",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5299,6 +5652,7 @@
   "name": "Paris 2023 -katsojapassi + 3 tuliaispolettia",
   "code": "#CSGO_TournamentPass_paris2023_pack",
   "description": "Tämä on sinetöity BLAST.tv Paris 2023 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Paris 2023 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Paris 2023 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit nostaa Paris 2023 -kolikkosi tasoa suorittamalla tehtäviä. Jokaisesta kolikon tason korotuksesta ansaitset tuliaispoletin.\\n\\nKatsojapassi aktivoi Paris 2023 -kolikkosi, ja saat samalla kolme tuliaispolettia.\\n\\nPuolet myyntituotoista käytetään tapahtumaan osallistuvien järjestöjen tukemiseen.",
+  "def_index": "4888",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5314,6 +5668,7 @@
   "name": "Paris 2023 -tuliaispoletti",
   "code": "#CSGO_TournamentPass_paris2023_charge",
   "description": "Tämä on sinetöity BLAST.tv Paris 2023 CS2 Major -turnauksen tuliaispoletti. Kun poletin sinetti on avattu, se lisää poletin Paris 2023 -kolikkoosi ja antaa mahdollisuuden lunastaa tuliaispaketin.\\n\\nPoletteja voi käyttää ainoastaan olemassa olevaan Paris 2023 -kolikkoon.",
+  "def_index": "4889",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5321,7 +5676,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Paris 2023 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/blast_pickem_2023_pass_charge_png.png"
  },
  {
@@ -5329,6 +5684,7 @@
   "name": "Palvelusmitali 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2024.",
+  "def_index": "4906",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5344,6 +5700,7 @@
   "name": "Palvelusmitali 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2024.",
+  "def_index": "4907",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5359,6 +5716,7 @@
   "name": "Palvelusmitali 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2024.",
+  "def_index": "4908",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5374,6 +5732,7 @@
   "name": "Palvelusmitali 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2024.",
+  "def_index": "4909",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5389,6 +5748,7 @@
   "name": "Palvelusmitali 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2024.",
+  "def_index": "4910",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5404,6 +5764,7 @@
   "name": "Palvelusmitali 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2024.",
+  "def_index": "4911",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5419,6 +5780,7 @@
   "name": "Kööpenhamina 2024 -katsojapassi",
   "code": "#CSGO_TournamentPass_cph2024",
   "description": "Tämä on sinetöity PGL Kööpenhamina 2024 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Kööpenhamina 2024 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Kööpenhamina 2024 Pick'Em-haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Kööpenhamina 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\nPuolet myyntituloista käytetään joukkueiden ja taustavoimien tukemiseen.",
+  "def_index": "4916",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5434,6 +5796,7 @@
   "name": "Kööpenhamina 2024 -kolikko",
   "code": "#CSGO_TournamentJournal_cph2024",
   "description": "Tämä on PGL Kööpenhamina 2024 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Kööpenhamina 2024 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Kööpenhamina 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4917",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5449,6 +5812,7 @@
   "name": "Kööpenhamina 2024 -hopeakolikko",
   "code": "#CSGO_TournamentJournal_cph2024_Silver",
   "description": "Tämä on PGL Kööpenhamina 2024 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Kööpenhamina 2024 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Kööpenhamina 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4918",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5464,6 +5828,7 @@
   "name": "Kööpenhamina 2024 -kultakolikko",
   "code": "#CSGO_TournamentJournal_cph2024_Gold",
   "description": "Tämä on PGL Kööpenhamina 2024 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Kööpenhamina 2024 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Kööpenhamina 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4919",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5479,6 +5844,7 @@
   "name": "Kööpenhamina 2024 -timanttikolikko",
   "code": "#CSGO_TournamentJournal_cph2024_Crystal",
   "description": "Tämä on PGL Kööpenhamina 2024 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Kööpenhamina 2024 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Kööpenhamina 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4920",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5494,6 +5860,7 @@
   "name": "Kööpenhamina 2024 -katsojapassi + 3 tuliaispolettia",
   "code": "#CSGO_TournamentPass_cph2024_pack",
   "description": "Tämä on sinetöity PGL Kööpenhamina 2024 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Kööpenhamina 2024 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Kööpenhamina 2024 Pick'Em-haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit nostaa Kööpenhamina 2024 -kolikkosi tasoa suorittamalla tehtäviä. Jokaisesta kolikon tason korotuksesta ansaitset tuliaispoletin.\\n\\nKatsojapassi aktivoi Kööpenhamina 2024 -kolikkosi ja saat samalla kolme tuliaispolettia.\\n\\n50 % myyntituotosta käytetään joukkueiden ja taustavoimien tukemiseen.",
+  "def_index": "4921",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5509,6 +5876,7 @@
   "name": "Kööpenhamina 2024 -tuliaispaketti",
   "code": "#CSGO_TournamentPass_cph2024_charge",
   "description": "Tämä on sinetöity PGL Kööpenhamina 2024 CS2 Major -turnauksen tuliaispaketti.",
+  "def_index": "4922",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5516,7 +5884,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Copenhagen 2024 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2024_pass_charge_png.png"
  },
  {
@@ -5524,6 +5892,7 @@
   "name": "PGL Kööpenhamina 2024 -mestari",
   "code": "#CSGO_CollectibleCoin_cph2024_Champion",
   "description": "Tämä mestaruuspalkinto myönnettiin PGL Kööpenhamina 2024 CS2 Major -mestaruusturnauksen voittajalle.",
+  "def_index": "4933",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5539,6 +5908,7 @@
   "name": "PGL Kööpenhamina 2024 -finalisti",
   "code": "#CSGO_CollectibleCoin_cph2024_Finalist",
   "description": "Tämä mestaruuspalkinto myönnettiin PGL Kööpenhamina 2024 CS2 Major -mestaruusturnauksen finalistille.",
+  "def_index": "4934",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5554,6 +5924,7 @@
   "name": "PGL Kööpenhamina 2024 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
   "description": "Tämä mestaruuspalkinto myönnettiin PGL Kööpenhamina 2024 CS2 Major -mestaruusturnauksen semifinalistille.",
+  "def_index": "4935",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5569,6 +5940,7 @@
   "name": "PGL Kööpenhamina 2024 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
   "description": "Tämä mestaruuspalkinto myönnettiin PGL Kööpenhamina 2024 CS2 Major -mestaruusturnauksen neljännesfinalistille.",
+  "def_index": "4936",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5584,6 +5956,7 @@
   "name": "Thera-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenThera",
   "description": "Muistona CS2:n Thera-kartan luomisesta.",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5599,6 +5972,7 @@
   "name": "Mills-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenMills",
   "description": "Muistona CS2:n Mills-kartan luomisesta.",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5614,6 +5988,7 @@
   "name": "Assembly-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenAssembly",
   "description": "Muistona CS2:n Assembly-kartan luomisesta.",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5629,6 +6004,7 @@
   "name": "Memento-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenMemento",
   "description": "Muistona CS2:n Memento-kartan luomisesta.",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5644,6 +6020,7 @@
   "name": "Pool Day -karttakolikko",
   "code": "#CSGO_Collectible_MapTokenPoolDay",
   "description": "Muistona CS2:n Pool Day -kartan luomisesta.",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5659,6 +6036,7 @@
   "name": "Palvelusmitali 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2025.",
+  "def_index": "4951",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5674,6 +6052,7 @@
   "name": "Palvelusmitali 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2025.",
+  "def_index": "4952",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5689,6 +6068,7 @@
   "name": "Palvelusmitali 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2025.",
+  "def_index": "4953",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5704,6 +6084,7 @@
   "name": "Palvelusmitali 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2025.",
+  "def_index": "4954",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5719,6 +6100,7 @@
   "name": "Palvelusmitali 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2025.",
+  "def_index": "4955",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5734,6 +6116,7 @@
   "name": "Palvelusmitali 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Myönnetty loistavasta palveluksesta ja saavutuksista vuonna 2025.",
+  "def_index": "4956",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5749,6 +6132,7 @@
   "name": "Shanghai 2024 -katsojapassi",
   "code": "#CSGO_TournamentPass_sha2024",
   "description": "Tämä on sinetöity Perfect World Shanghai 2024 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Shanghai 2024 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Shanghai 2024 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit päivittää Shanghai 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.\\n\\nPuolet myyntituloista käytetään joukkueiden ja taustavoimien tukemiseen.",
+  "def_index": "4957",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5764,6 +6148,7 @@
   "name": "Shanghai 2024 -kolikko",
   "code": "#CSGO_TournamentJournal_sha2024",
   "description": "Tämä on Perfect World Shanghai 2024 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Shanghai 2024 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Shanghai 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4958",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5779,6 +6164,7 @@
   "name": "Shanghai 2024 -hopeakolikko",
   "code": "#CSGO_TournamentJournal_sha2024_Silver",
   "description": "Tämä on Perfect World Shanghai 2024 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Shanghai 2024 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Shanghai 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4959",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5794,6 +6180,7 @@
   "name": "Shanghai 2024 -kultakolikko",
   "code": "#CSGO_TournamentJournal_sha2024_Gold",
   "description": "Tämä on Perfect World Shanghai 2024 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Shanghai 2024 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Shanghai 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4960",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5809,6 +6196,7 @@
   "name": "Shanghai 2024 -timanttikolikko",
   "code": "#CSGO_TournamentJournal_sha2024_Crystal",
   "description": "Tämä on Perfect World Shanghai 2024 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Shanghai 2024 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit päivittää Shanghai 2024 -kolikkoa suorittamalla tehtäviä. Jokaisesta kolikon päivityksestä saa tuliaispoletin.",
+  "def_index": "4961",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5824,6 +6212,7 @@
   "name": "Shanghai 2024 -katsojapassi + 3 tuliaispolettia",
   "code": "#CSGO_TournamentPass_sha2024_pack",
   "description": "Tämä on sinetöity Perfect World Shanghai 2024 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Shanghai 2024 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Shanghai 2024 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit nostaa Shanghai 2024 -kolikkosi tasoa suorittamalla tehtäviä. Jokaisesta kolikon tason korotuksesta ansaitset tuliaispoletin.\\n\\nKatsojapassi aktivoi Shanghai 2024 -kolikkosi, ja saat samalla kolme tuliaispolettia.\\n\\nPuolet myyntituloista käytetään joukkueiden ja taustavoimien tukemiseen.",
+  "def_index": "4962",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5839,6 +6228,7 @@
   "name": "Shanghai 2024 -tuliaispaketti",
   "code": "#CSGO_TournamentPass_sha2024_charge",
   "description": "Tämä on sinetöity Perfect World Shanghai 2024 CS2 Major -turnauksen tuliaispaketti.",
+  "def_index": "4963",
   "rarity": {
    "id": "rarity_common",
    "name": "Perustason",
@@ -5846,7 +6236,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Shanghai 2024 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pw_pickem_2024_pass_charge_png.png"
  },
  {
@@ -5854,6 +6244,7 @@
   "name": "Perfect World Shanghai 2024 -mestari",
   "code": "#CSGO_CollectibleCoin_sha2024_Champion",
   "description": "Tämä mestaruuspalkinto myönnettiin Perfect World Shanghai 2024 CS2 Major -mestaruusturnauksen voittajalle.",
+  "def_index": "4974",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5869,6 +6260,7 @@
   "name": "Perfect World Shanghai 2024 -finalisti",
   "code": "#CSGO_CollectibleCoin_sha2024_Finalist",
   "description": "Tämä mestaruuspalkinto myönnettiin Perfect World Shanghai 2024 CS2 Major -mestaruusturnauksen finalistille.",
+  "def_index": "4975",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5884,6 +6276,7 @@
   "name": "Perfect World Shanghai 2024 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
   "description": "Tämä mestaruuspalkinto myönnettiin Perfect World Shanghai 2024 CS2 Major -mestaruusturnauksen semifinalistille.",
+  "def_index": "4976",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5899,6 +6292,7 @@
   "name": "Perfect World Shanghai 2024 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
   "description": "Tämä mestaruuspalkinto myönnettiin Perfect World Shanghai 2024 CS2 Major -mestaruusturnauksen neljännesfinalistille.",
+  "def_index": "4977",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5914,6 +6308,7 @@
   "name": "Whistle-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenWhistle",
   "description": "Muistona CS2:n Whistle-kartan luomisesta.",
+  "def_index": "4982",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5929,6 +6324,7 @@
   "name": "Palais-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenPalais",
   "description": "Muistona CS2:n Palais-kartan luomisesta.",
+  "def_index": "4983",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5944,6 +6340,7 @@
   "name": "Edin-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenEdin",
   "description": "Muistona CS2:n Edin-kartan luomisesta.",
+  "def_index": "4984",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5959,6 +6356,7 @@
   "name": "Basalt-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBasaltCS2",
   "description": "Muistona CS2:n Basalt-kartan luomisesta.",
+  "def_index": "4985",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5974,6 +6372,7 @@
   "name": "Premierin ykköskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason1Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin ensimmäiselle kaudelle.",
+  "def_index": "4986",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -5989,6 +6388,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4987",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6004,6 +6404,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4988",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6019,6 +6420,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4989",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6034,6 +6436,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4990",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6049,6 +6452,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4991",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6064,6 +6468,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4992",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6079,6 +6484,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4993",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6094,6 +6500,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4994",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6109,6 +6516,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4995",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6124,6 +6532,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4996",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6139,6 +6548,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4997",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6154,6 +6564,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4998",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6169,6 +6580,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "4999",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6184,6 +6596,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5000",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6199,6 +6612,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6214,6 +6628,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6229,6 +6644,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5003",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6244,6 +6660,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5004",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6259,6 +6676,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5005",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6274,6 +6692,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5006",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6289,6 +6708,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5007",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6304,6 +6724,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5008",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6319,6 +6740,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5009",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6334,6 +6756,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5010",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6349,6 +6772,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5011",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6364,6 +6788,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5012",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6379,6 +6804,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5013",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6394,6 +6820,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5014",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6409,6 +6836,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5015",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6424,6 +6852,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5016",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6439,6 +6868,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5017",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6454,6 +6884,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5018",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6469,6 +6900,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5019",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6484,6 +6916,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5020",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6499,6 +6932,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6514,6 +6948,7 @@
   "name": "Premierin kakkoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin toiselle kaudelle.",
+  "def_index": "5022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6529,10 +6964,11 @@
   "name": "Austin 2025 -katsojapassi",
   "code": "#CSGO_TournamentPass_aus2025",
   "description": "Tämä on sinetöity BLAST.tv Austin 2025 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Austin 2025 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Austin 2025 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit nostaa Austin 2025 -kolikkosi tasoa suorittamalla tehtäviä. Ansaitset tuliaispoletin jokaisesta kolikon tason korotuksesta.\\n\\nPuolet myyntituloista käytetään joukkueiden ja taustavoimien tukemiseen.",
+  "def_index": "5110",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "Perustason",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
@@ -6544,10 +6980,11 @@
   "name": "Austin 2025 -kolikko",
   "code": "#CSGO_TournamentJournal_aus2025",
   "description": "Tämä on BLAST.tv Austin 2025 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Austin 2025 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit nostaa Austin 2025 -kolikkosi tasoa suorittamalla tehtäviä. Ansaitset tuliaispoletin jokaisesta kolikon tason korotuksesta.",
+  "def_index": "5111",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "Merkillinen",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6559,10 +6996,11 @@
   "name": "Austin 2025 -hopeakolikko",
   "code": "#CSGO_TournamentJournal_aus2025_Silver",
   "description": "Tämä on BLAST.tv Austin 2025 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Austin 2025 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit nostaa Austin 2025 -kolikkosi tasoa suorittamalla tehtäviä. Ansaitset tuliaispoletin jokaisesta kolikon tason korotuksesta.",
+  "def_index": "5112",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "Merkillinen",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6574,10 +7012,11 @@
   "name": "Austin 2025 -kultakolikko",
   "code": "#CSGO_TournamentJournal_aus2025_Gold",
   "description": "Tämä on BLAST.tv Austin 2025 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Austin 2025 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit nostaa Austin 2025 -kolikkosi tasoa suorittamalla tehtäviä. Ansaitset tuliaispoletin jokaisesta kolikon tason korotuksesta.",
+  "def_index": "5113",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "Merkillinen",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6589,10 +7028,11 @@
   "name": "Austin 2025 -timanttikolikko",
   "code": "#CSGO_TournamentJournal_aus2025_Crystal",
   "description": "Tämä on BLAST.tv Austin 2025 CS2 Major -turnauksen mestaruuskolikko, jolla seuraat edistystäsi kisoissa. Se sisältää pääsyn Austin 2025 Pick'Em -haasteeseen, kolikkohaasteisiin, Steam.tv-chatin kannustuslogoihin ja joukkuegraffitin käyttöön tapahtuman aikana.\\n\\nVoit nostaa Austin 2025 -kolikkosi tasoa suorittamalla tehtäviä. Ansaitset tuliaispoletin jokaisesta kolikon tason korotuksesta.",
+  "def_index": "5114",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "Merkillinen",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6604,10 +7044,11 @@
   "name": "Austin 2025 -katsojapassi + 3 tuliaispolettia",
   "code": "#CSGO_TournamentPass_aus2025_pack",
   "description": "Tämä on sinetöity BLAST.tv Austin 2025 CS2 Major -turnauksen katsojapassi. Avaamalla passin saat Austin 2025 -kolikon, jolla seuraat edistystäsi tapahtuman ajan. Passi sisältää myös pääsyn Austin 2025 Pick'Em -haasteeseen, Steam.tv-chatin kannustuslogoihin ja kolikkohaasteisiin sekä rajoittamattoman joukkuegraffitin käytön tapahtuman aikana.\\n\\nVoit nostaa Austin 2025 -kolikkosi tasoa suorittamalla tehtäviä. Ansaitset tuliaispoletin jokaisesta kolikon tason korotuksesta.\\n\\nKatsojapassi aktivoi Austin 2025 -kolikkosi, ja saat samalla kolme tuliaispolettia.\\n\\nPuolet myyntituloista käytetään joukkueiden ja taustavoimien tukemiseen.",
+  "def_index": "5115",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "Perustason",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
@@ -6619,14 +7060,15 @@
   "name": "Austin 2025 -tuliaispaketti",
   "code": "#CSGO_TournamentPass_aus2025_charge",
   "description": "Tämä on sinetöity BLAST.tv Austin 2025 CS2 Major -turnauksen tuliaispaketti.",
+  "def_index": "5116",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "Perustason",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Austin 2025 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/aus2025_pass_charge_png.png"
  },
  {
@@ -6634,6 +7076,7 @@
   "name": "BLAST.tv Austin 2025 -mestari",
   "code": "#CSGO_CollectibleCoin_aus2025_Champion",
   "description": "Mestaruuspalkinto annettiin BLAST.tv Austin 2025 CS2 Majorin mestarille.",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6649,6 +7092,7 @@
   "name": "BLAST.tv Austin 2025 -finalisti",
   "code": "#CSGO_CollectibleCoin_aus2025_Finalist",
   "description": "Mestaruuspalkinto annettiin BLAST.tv Austin 2025 CS2 Majorin finalistille.",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6664,6 +7108,7 @@
   "name": "BLAST.tv Austin 2025 -semifinalisti",
   "code": "#CSGO_CollectibleCoin_aus2025_Semifinalist",
   "description": "Mestaruuspalkinto annettiin BLAST.tv Austin 2025 CS2 Majorin semifinalistille.",
+  "def_index": "5129",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6679,6 +7124,7 @@
   "name": "BLAST.tv Austin 2025 -neljännesfinalisti",
   "code": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist",
   "description": "Mestaruuspalkinto annettiin BLAST.tv Austin 2025 CS2 Majorin neljännesfinalistille.",
+  "def_index": "5130",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6694,6 +7140,7 @@
   "name": "Agency-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenAgencyCS2",
   "description": "Muistona CS2:n Agency-kartan luomisesta.",
+  "def_index": "5135",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6709,6 +7156,7 @@
   "name": "Jura-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenJura",
   "description": "Muistona CS2:n Jura-kartan luomisesta.",
+  "def_index": "5136",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6724,6 +7172,7 @@
   "name": "Grail-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenGrail",
   "description": "Muistona CS2:n Grail-kartan luomisesta.",
+  "def_index": "5137",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6739,6 +7188,7 @@
   "name": "Dogtown-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenDogtown",
   "description": "Muistona CS2:n Dogtown-kartan luomisesta.",
+  "def_index": "5138",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6754,6 +7204,7 @@
   "name": "Brewery-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenBrewery",
   "description": "Muistona CS2:n Brewery-kartan luomisesta.",
+  "def_index": "5139",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6769,6 +7220,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5140",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6784,6 +7236,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5141",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6799,6 +7252,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5142",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6814,6 +7268,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5143",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6829,6 +7284,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5144",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6844,6 +7300,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5145",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6859,6 +7316,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5146",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6874,6 +7332,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5147",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6889,6 +7348,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5148",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6904,6 +7364,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5149",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6919,6 +7380,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5150",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6934,6 +7396,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5151",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6949,6 +7412,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5152",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6964,6 +7428,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5153",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6979,6 +7444,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5154",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -6994,6 +7460,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5155",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7009,6 +7476,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5156",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7024,6 +7492,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5157",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7039,6 +7508,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5158",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7054,6 +7524,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5159",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7069,6 +7540,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5160",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7084,6 +7556,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5161",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7099,6 +7572,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5162",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7114,6 +7588,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5163",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7129,6 +7604,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5164",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7144,6 +7620,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5165",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7159,6 +7636,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5166",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7174,6 +7652,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5167",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7189,6 +7668,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5168",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7204,6 +7684,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5169",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7219,6 +7700,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5170",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7234,6 +7716,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5171",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7249,6 +7732,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5172",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7264,6 +7748,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5173",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7279,6 +7764,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5174",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7294,6 +7780,7 @@
   "name": "Premierin kolmoskauden mitali",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Premier-mitali muistoksi. Ansaittu aktiivisesta osallistumisesta Premierin kolmannelle kaudelle.",
+  "def_index": "5175",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7309,6 +7796,7 @@
   "name": "Aito Dust II -pinssi",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7324,6 +7812,7 @@
   "name": "Aito Suojelijaeliitin pinssi",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7339,6 +7828,7 @@
   "name": "Aito Mirage-pinssi",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6003",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -7354,6 +7844,7 @@
   "name": "Aito Inferno-pinssi",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6004",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -7369,6 +7860,7 @@
   "name": "Aito Italy-pinssi",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6005",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7384,6 +7876,7 @@
   "name": "Aito Voittopinssi",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6006",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7399,6 +7892,7 @@
   "name": "Aito Militia-pinssi",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6007",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7414,6 +7908,7 @@
   "name": "Aito Nuke-pinssi",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6008",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7429,6 +7924,7 @@
   "name": "Aito Train-pinssi",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6009",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7444,6 +7940,7 @@
   "name": "Aito Vartijapinssi",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6010",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7459,6 +7956,7 @@
   "name": "Aito Taktiikat-pinssi",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6011",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7474,6 +7972,7 @@
   "name": "Aito Vartija 2 -pinssi",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6012",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7489,6 +7988,7 @@
   "name": "Aito Bravo-pinssi",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6013",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7504,6 +8004,7 @@
   "name": "Aito Baggage-pinssi",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6014",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7519,6 +8020,7 @@
   "name": "Aito Feenix-pinssi",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6015",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7534,6 +8036,7 @@
   "name": "Aito Office-pinssi",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6016",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7549,6 +8052,7 @@
   "name": "Aito Cobblestone-pinssi",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6017",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7564,6 +8068,7 @@
   "name": "Aito Overpass-pinssi",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6018",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7579,6 +8084,7 @@
   "name": "Aito Verikoira-pinssi",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6019",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -7594,6 +8100,7 @@
   "name": "Aito Cache-pinssi",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6020",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -7609,6 +8116,7 @@
   "name": "Aito Valeria Feenix -pinssi",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7624,6 +8132,7 @@
   "name": "Aito Kirjo-pinssi",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7639,6 +8148,7 @@
   "name": "Aito Vartija 3 -pinssi",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6023",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7654,6 +8164,7 @@
   "name": "Aito Canals-pinssi",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6024",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7669,6 +8180,7 @@
   "name": "Aito Viimeinen elossa -pinssi",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6025",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7684,6 +8196,7 @@
   "name": "Aito Kuolemantuomio-pinssi",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6026",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7699,6 +8212,7 @@
   "name": "Aito Inferno 2 -pinssi",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6027",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7714,6 +8228,7 @@
   "name": "Aito Maastopalo-pinssi",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6028",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7729,6 +8244,7 @@
   "name": "Aito Lastenleikkiä-pinssi",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6029",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7744,6 +8260,7 @@
   "name": "Aito Korttitemppu-pinssi",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6030",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -7759,6 +8276,7 @@
   "name": "Aito Hydra-pinssi",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6031",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -7774,6 +8292,7 @@
   "name": "Aito Ulvonta-pinssi",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6032",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7789,6 +8308,7 @@
   "name": "Aito Prikaatikenraali-pinssi",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6033",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7804,6 +8324,7 @@
   "name": "Aito Alyx-pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "6034",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7819,6 +8340,7 @@
   "name": "Dust II -pinssi",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6101",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7834,6 +8356,7 @@
   "name": "Suojelijaeliitin pinssi",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6102",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -7849,6 +8372,7 @@
   "name": "Mirage-pinssi",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6103",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -7864,6 +8388,7 @@
   "name": "Inferno-pinssi",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6104",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -7879,6 +8404,7 @@
   "name": "Italy-pinssi",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6105",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7894,6 +8420,7 @@
   "name": "Voittopinssi",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7909,6 +8436,7 @@
   "name": "Militia-pinssi",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6107",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -7924,6 +8452,7 @@
   "name": "Nuke-pinssi",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6108",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7939,6 +8468,7 @@
   "name": "Train-pinssi",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6109",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7954,6 +8484,7 @@
   "name": "Vartijapinssi",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6110",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7969,6 +8500,7 @@
   "name": "Taktiikat-pinssi",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Tämä on sarjan 1 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6111",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7984,6 +8516,7 @@
   "name": "Vartija 2 -pinssi",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6112",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -7999,6 +8532,7 @@
   "name": "Bravo-pinssi",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6113",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -8014,6 +8548,7 @@
   "name": "Baggage-pinssi",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6114",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -8029,6 +8564,7 @@
   "name": "Feenix-pinssi",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6115",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -8044,6 +8580,7 @@
   "name": "Office-pinssi",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -8059,6 +8596,7 @@
   "name": "Cobblestone-pinssi",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6117",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -8074,6 +8612,7 @@
   "name": "Overpass-pinssi",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -8089,6 +8628,7 @@
   "name": "Verikoira-pinssi",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6119",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -8104,6 +8644,7 @@
   "name": "Cache-pinssi",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6120",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -8119,6 +8660,7 @@
   "name": "Valeria Feenix -pinssi",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6121",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -8134,6 +8676,7 @@
   "name": "Kirjo-pinssi",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Tämä on sarjan 2 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6122",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -8149,6 +8692,7 @@
   "name": "Vartija 3 -pinssi",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6123",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -8164,6 +8708,7 @@
   "name": "Canals-pinssi",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6124",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -8179,6 +8724,7 @@
   "name": "Viimeinen elossa -pinssi",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6125",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -8194,6 +8740,7 @@
   "name": "Kuolemantuomio-pinssi",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6126",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -8209,6 +8756,7 @@
   "name": "Inferno 2 -pinssi",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6127",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -8224,6 +8772,7 @@
   "name": "Maastopalo-pinssi",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -8239,6 +8788,7 @@
   "name": "Lastenleikkiä-pinssi",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6129",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -8254,6 +8804,7 @@
   "name": "Korttitemppu-pinssi",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6130",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -8269,6 +8820,7 @@
   "name": "Hydra-pinssi",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6131",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -8284,6 +8836,7 @@
   "name": "Ulvonta-pinssi",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6132",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -8299,6 +8852,7 @@
   "name": "Prikaatikenraali-pinssi",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Tämä on sarjan 3 keräilymerkki. Voit esitellä sitä profiilissasi.",
+  "def_index": "6133",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",
@@ -8314,6 +8868,7 @@
   "name": "Alyx-pinssi",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Half-Life: Alyx -keräilypinssi juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Voit esitellä pinssiä profiilissasi.",
+  "def_index": "6134",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Merkillinen",

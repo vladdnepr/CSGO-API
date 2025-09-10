@@ -4,6 +4,7 @@
   "name": "5年ベテランコイン",
   "code": "#CSGO_CollectibleCoin_FiveYearService",
   "description": "Counter-Strike のコミュニティメンバー歴が 5 年以上。",
+  "def_index": "874",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -19,6 +20,7 @@
   "name": "DreamHack 2013 優勝",
   "code": "#CSGO_CollectibleCoin_DH2013_Champion",
   "description": "このチャンピオンシップトロフィーは、The 2013 DreamHack SteelSeries CS:GO Championship の優勝チームに贈呈されました。",
+  "def_index": "875",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -34,6 +36,7 @@
   "name": "DreamHack 2013 決勝進出",
   "code": "#CSGO_CollectibleCoin_DH2013_Finalist",
   "description": "このチャンピオンシップのトロフィーは、2013年 DreamHack SteelSeries CS:GO Championship の決勝進出者に贈呈されました。",
+  "def_index": "876",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -49,6 +52,7 @@
   "name": "DreamHack 2013 準決勝進出",
   "code": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
   "description": "このチャンピオンシップのトロフィーは、2013年 DreamHack SteelSeries CS:GO Championship の準決勝出場者に贈呈されました。",
+  "def_index": "877",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -64,6 +68,7 @@
   "name": "DreamHack 2013 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
   "description": "このチャンピオンシップトロフィーは、The 2013 DreamHack SteelSeries CS:GO Championship の準々決勝出場チームに贈呈されました。",
+  "def_index": "878",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -79,6 +84,7 @@
   "name": "EMS One Katowice 2014 優勝",
   "code": "#CSGO_CollectibleCoin_Kat2014_Champion",
   "description": "このチャンピオンシップトロフィーは、The 2014 EMS One Katowice CS:GO Championship の優勝チームに贈呈されました。",
+  "def_index": "879",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -94,6 +100,7 @@
   "name": "EMS One Katowice 2014 決勝進出",
   "code": "#CSGO_CollectibleCoin_Kat2014_Finalist",
   "description": "このチャンピオンシップトロフィーは、 2014 EMS One Katowice CS:GO Championship のファイナリストに授与されました。",
+  "def_index": "880",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -109,6 +116,7 @@
   "name": "EMS One Katowice 2014 の準決勝出場者",
   "code": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
   "description": "このチャンピオンシップトロフィーは、 2014 EMS One Katowice CS:GO Championship の準決勝出場者に授与されました。",
+  "def_index": "881",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -124,6 +132,7 @@
   "name": "EMS One Katowice 2014 の準々決勝出場者",
   "code": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
   "description": "このチャンピオンシップトロフィーは、2014 EMS One Katowice CS:GO Championship の準決勝出場者に授与されました。",
+  "def_index": "882",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -139,6 +148,7 @@
   "name": "ESL One Cologne 2014 優勝",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Champion",
   "description": "このチャンピオンシップトロフィーは ESL One Cologne 2014 CS:GO Championship 優勝者に贈呈されました。",
+  "def_index": "883",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -154,6 +164,7 @@
   "name": "ESL One Cologne 2014 決勝進出",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
   "description": "このチャンピオンシップトロフィーは The ESL One Cologne 2014 CS:GO Championship の決勝進出チームに贈呈されました。",
+  "def_index": "884",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -169,6 +180,7 @@
   "name": "ESL One Cologne 2014 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
   "description": "このチャンピオンシップトロフィーは The ESL One Cologne 2014 CS:GO Championship の準決勝進出チームに贈呈されました。",
+  "def_index": "885",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -184,6 +196,7 @@
   "name": "ESL One Cologne 2014 の準々決勝出場者",
   "code": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
   "description": "この優勝トロフィーはThe ESL One Cologne 2014 CS:GO Championshipの準々決勝出場チームに贈呈されました。",
+  "def_index": "886",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -199,6 +212,7 @@
   "name": "ブロンズ Cologne 2014 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
   "description": "このブロンズトロフィーは ESL One Cologne 2014 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "887",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -214,6 +228,7 @@
   "name": "シルバー Cologne 2014 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
   "description": "このシルバートロフィーは ESL One Cologne 2014 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "888",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -229,6 +244,7 @@
   "name": "ゴールド Cologne 2014 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
   "description": "このゴールドトロフィーは ESL One Cologne 2014 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "889",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -244,6 +260,7 @@
   "name": "DreamHack Winter 2014 優勝",
   "code": "#CSGO_CollectibleCoin_DHW2014_Champion",
   "description": "このチャンピオンシップトロフィーは、The DreamHack Winter 2014 CS:GO Championship のチャンピオンに贈呈されました。",
+  "def_index": "890",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -259,6 +276,7 @@
   "name": "DreamHack Winter 2014 決勝進出",
   "code": "#CSGO_CollectibleCoin_DHW2014_Finalist",
   "description": "このチャンピオンシップトロフィーは The DreamHack Winter 2014 CS:GO Championship の決勝進出チームに贈呈されました。",
+  "def_index": "891",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -274,6 +292,7 @@
   "name": "DreamHack Winter 2014 準決勝進出",
   "code": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
   "description": "このチャンピオンシップトロフィーは The DreamHack Winter 2014 CS:GO Championship の準決勝進出チームに贈呈されました。",
+  "def_index": "892",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -289,6 +308,7 @@
   "name": "DreamHack Winter 2014 の準々決勝出場者",
   "code": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
   "description": "このチャンピオンシップトロフィーは、The DreamHack Winter 2014 CS:GO Championship の準々決勝出場チームに贈呈されました。",
+  "def_index": "893",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -304,6 +324,7 @@
   "name": "ブロンズ DreamHack 2014 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
   "description": "このブロンズトロフィーは DreamHack Winter 2014 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "894",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -319,6 +340,7 @@
   "name": "シルバー DreamHack 2014 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
   "description": "このシルバートロフィーは DreamHack Winter 2014 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "895",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -334,6 +356,7 @@
   "name": "ゴールド DreamHack 2014 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
   "description": "このゴールドトロフィーは DreamHack Winter 2014 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "896",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -349,6 +372,7 @@
   "name": "ESL One Katowice 2015 優勝",
   "code": "#CSGO_CollectibleCoin_Kat2015_Champion",
   "description": "このチャンピオンシップトロフィーは、The ESL One Katowice 2015 CS:GO Championship のチャンピオンに贈呈されました。",
+  "def_index": "897",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -364,6 +388,7 @@
   "name": "ESL One Katowice 2015 決勝進出",
   "code": "#CSGO_CollectibleCoin_Kat2015_Finalist",
   "description": "このチャンピオンシップトロフィーは The ESL One Katowice 2015 CS:GO Championship の決勝進出チームに贈呈されました。",
+  "def_index": "898",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -379,6 +404,7 @@
   "name": "ESL One Katowice 2015 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
   "description": "このチャンピオンシップトロフィーは The ESL One Katowice 2015 CS:GO Championship の準決勝進出チームに贈呈されました。",
+  "def_index": "899",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -394,6 +420,7 @@
   "name": "ESL One Katowice 2015 の準々決勝出場チーム",
   "code": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
   "description": "このチャンピオンシップトロフィーは、The ESL One Katowice 2015 CS:GO Championship の準々決勝出場チームに贈呈されました。",
+  "def_index": "900",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -409,6 +436,7 @@
   "name": "ブロンズ Katowice 2015 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
   "description": "このブロンズトロフィーは ESL One Katowice 2015 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "901",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -424,6 +452,7 @@
   "name": "シルバー Katowice 2015 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
   "description": "このシルバートロフィーは ESL One Katowice 2015 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "902",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -439,6 +468,7 @@
   "name": "ゴールド Katowice 2015 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
   "description": "このゴールドトロフィーは ESL One Katowice 2015 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "903",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -454,6 +484,7 @@
   "name": "ESL One Cologne 2015 優勝",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Champion",
   "description": "このチャンピオンシップトロフィーは、The ESL One Cologne 2015 CS:GO Championship のチャンピオンに贈呈されました。",
+  "def_index": "904",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -469,6 +500,7 @@
   "name": "ESL One Cologne 2015 決勝進出",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
   "description": "このチャンピオンシップトロフィーは The ESL One Cologne 2015 CS:GO Championship の決勝進出チームに贈呈されました。",
+  "def_index": "905",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -484,6 +516,7 @@
   "name": "ESL One Cologne 2015 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
   "description": "このチャンピオンシップトロフィーは The ESL One Cologne 2015 CS:GO Championship の準決勝進出チームに贈呈されました。",
+  "def_index": "906",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -499,6 +532,7 @@
   "name": "ESL One Cologne 2015 の準々決勝出場チーム",
   "code": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
   "description": "このチャンピオンシップトロフィーは、The ESL One Cologne 2015 CS:GO Championship の準々決勝出場チームに贈呈されました。",
+  "def_index": "907",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -514,6 +548,7 @@
   "name": "ブロンズ Cologne 2015 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
   "description": "このブロンズトロフィーは ESL One Cologne 2015 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "908",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -529,6 +564,7 @@
   "name": "シルバー Cologne 2015 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
   "description": "このシルバートロフィーは ESL One Cologne 2015 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "909",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -544,6 +580,7 @@
   "name": "ゴールド Cologne 2015 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
   "description": "このゴールドトロフィーは ESL One Cologne 2015 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "910",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -559,6 +596,7 @@
   "name": "ブロンズ Cluj-Napoca 2015 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
   "description": "このブロンズトロフィーは DreamHack Cluj-Napoca 2015 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "911",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -574,6 +612,7 @@
   "name": "シルバー Cluj-Napoca 2015 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
   "description": "このシルバートロフィーは DreamHack Cluj-Napoca 2015 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "912",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -589,6 +628,7 @@
   "name": "ゴールド Cluj-Napoca 2015 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
   "description": "このゴールドトロフィーは DreamHack Cluj-Napoca 2015 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "913",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -604,6 +644,7 @@
   "name": "ブロンズ Cluj-Napoca 2015 Fantasy トロフィー",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
   "description": "このブロンズトロフィーは DreamHack Cluj-Napoca 2015 Fantasy Team Challenge 開催中に贈呈されました。",
+  "def_index": "914",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -619,6 +660,7 @@
   "name": "シルバー Cluj-Napoca 2015 Fantasy トロフィー",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
   "description": "このシルバートロフィーは DreamHack Cluj-Napoca 2015 Fantasy Team Challenge 開催中に贈呈されました。",
+  "def_index": "915",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -634,6 +676,7 @@
   "name": "ゴールド Cluj-Napoca 2015 Fantasy トロフィー",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
   "description": "このゴールドトロフィーは DreamHack Cluj-Napoca 2015 Fantasy Team Challenge 開催中に贈呈されました。",
+  "def_index": "916",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -649,6 +692,7 @@
   "name": "DreamHack Cluj-Napoca 2015 優勝",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Champion",
   "description": "このチャンピオンシップトロフィーは、DreamHack Cluj-Napoca 2015 CS:GO Championship のチャンピオンに贈呈されました。",
+  "def_index": "917",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -664,6 +708,7 @@
   "name": "DreamHack Cluj-Napoca 2015 決勝進出",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
   "description": "このチャンピオンシップトロフィーは、DreamHack Cluj-Napoca 2015 CS:GO Championship の決勝進出チームに贈呈されました。",
+  "def_index": "918",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -679,6 +724,7 @@
   "name": "DreamHack Cluj-Napoca 2015 の準決勝出場者",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
   "description": "このチャンピオンシップトロフィーは、DreamHack Cluj-Napoca 2015 CS:GO Championship の準決勝進出チームに贈呈されました。",
+  "def_index": "919",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -694,6 +740,7 @@
   "name": "DreamHack Cluj-Napoca 2015 の準々決勝出場者",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは、DreamHack Cluj-Napoca 2015 CS:GO Championship の準々決勝出場チームに贈呈されました。",
+  "def_index": "920",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -709,6 +756,7 @@
   "name": "ブロンズ Columbus 2016 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
   "description": "このブロンズトロフィーは MLG Columbus 2016 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "921",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -724,6 +772,7 @@
   "name": "シルバー Columbus 2016 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
   "description": "このシルバートロフィーは MLG Columbus 2016 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "922",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -739,6 +788,7 @@
   "name": "ゴールド Columbus 2016 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
   "description": "このゴールドトロフィーは MLG Columbus 2016 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "923",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -754,6 +804,7 @@
   "name": "ブロンズ Columbus 2016 Fantasy トロフィー",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
   "description": "このブロンズトロフィーは MLG Columbus 2016 Fantasy Team Challenge 開催中に贈呈されました。",
+  "def_index": "924",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -769,6 +820,7 @@
   "name": "シルバー Columbus 2016 Fantasy トロフィー",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
   "description": "このシルバートロフィーは MLG Columbus 2016 Fantasy Team Challenge 開催中に贈呈されました。",
+  "def_index": "925",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -784,6 +836,7 @@
   "name": "ゴールド Columbus 2016 Fantasy トロフィー",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
   "description": "このゴールドトロフィーは MLG Columbus 2016 Fantasy Team Challenge 開催中に贈呈されました。",
+  "def_index": "926",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -799,6 +852,7 @@
   "name": "MLG Columbus 2016 優勝",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Champion",
   "description": "このチャンピオンシップトロフィーは MLG Columbus 2016 CS:GO Championship 優勝者に贈呈されました。",
+  "def_index": "927",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -814,6 +868,7 @@
   "name": "MLG Columbus 2016 決勝進出",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
   "description": "このチャンピオンシップトロフィーは MLG Columbus 2016 CS:GO 決勝進出者に贈呈されました。",
+  "def_index": "928",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -829,6 +884,7 @@
   "name": "MLG Columbus 2016 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
   "description": "このチャンピオンシップトロフィーは MLG Columbus 2016 CS:GO Championship 準決勝進出者に贈呈されました。",
+  "def_index": "929",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -844,6 +900,7 @@
   "name": "MLG Columbus 2016 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは MLG Columbus 2016 CS:GO Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "930",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -859,6 +916,7 @@
   "name": "ESL One Cologne 2016 優勝",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Champion",
   "description": "このチャンピオンシップトロフィーは、ESL One Cologne 2016 CS:GO Championship のチャンピオンに贈呈されました。",
+  "def_index": "931",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -874,6 +932,7 @@
   "name": "ESL One Cologne 2016 決勝進出",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
   "description": "このチャンピオンシップトロフィーは ESL One Cologne 2016 CS:GO 決勝進出者に贈呈されました。",
+  "def_index": "932",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -889,6 +948,7 @@
   "name": "ESL One Cologne 2016 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
   "description": "このチャンピオンシップトロフィーは ESL One Cologne 2016 CS:GO Championship 準決勝進出者に贈呈されました。",
+  "def_index": "933",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -904,6 +964,7 @@
   "name": "ESL One Cologne 2016 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは ESL One Cologne 2016 CS:GO Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "934",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -919,6 +980,7 @@
   "name": "ブロンズ Cologne 2016 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
   "description": "このブロンズトロフィーは ESL One Cologne 2016 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "935",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -934,6 +996,7 @@
   "name": "シルバー Cologne 2016 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
   "description": "このシルバートロフィーは ESL One Cologne 2016 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "936",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -949,6 +1012,7 @@
   "name": "ゴールド Cologne 2016 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
   "description": "このゴールドトロフィーは ESL One Cologne 2016 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "937",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -964,6 +1028,7 @@
   "name": "ブロンズ Cologne 2016 Fantasy トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
   "description": "このブロンズトロフィーは ESL One Cologne 2016 Fantasy Team Challenge 開催中に贈呈されました。",
+  "def_index": "938",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -979,6 +1044,7 @@
   "name": "シルバー Cologne 2016 Fantasy トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
   "description": "このシルバートロフィーは ESL One Cologne 2016 Fantasy Team Challenge 開催中に贈呈されました。",
+  "def_index": "939",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -994,6 +1060,7 @@
   "name": "ゴールド Cologne 2016 Fantasy トロフィー",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
   "description": "このゴールドトロフィーは ESL One Cologne 2016 Fantasy Team Challenge 開催中に贈呈されました。",
+  "def_index": "940",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1009,6 +1076,7 @@
   "name": "ELEAGUE Atlanta 2017 優勝",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
   "description": "このチャンピオンシップトロフィーは ELEAGUE Atlanta 2017 CS:GO Championship 優勝者に贈呈されました。",
+  "def_index": "941",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1024,6 +1092,7 @@
   "name": "ELEAGUE Atlanta 2017 決勝進出",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
   "description": "このチャンピオンシップトロフィーは ELEAGUE Atlanta 2017 CS:GO 決勝進出者に贈呈されました。",
+  "def_index": "942",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1039,6 +1108,7 @@
   "name": "ELEAGUE Atlanta 2017 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
   "description": "このチャンピオンシップトロフィーは ELEAGUE Atlanta 2017 CS:GO Championship 準決勝進出者に贈呈されました。",
+  "def_index": "943",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1054,6 +1124,7 @@
   "name": "ELEAGUE Atlanta 2017 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは ELEAGUE Atlanta 2017 CS:GO Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "944",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1069,6 +1140,7 @@
   "name": "ブロンズ Atlanta 2017 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
   "description": "このブロンズトロフィーは ELEAGUE Atlanta 2017 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "945",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1084,6 +1156,7 @@
   "name": "シルバー Atlanta 2017 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
   "description": "このシルバートロフィーは ELEAGUE Atlanta 2017 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "946",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1099,6 +1172,7 @@
   "name": "ゴールド Atlanta 2017 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
   "description": "このゴールドトロフィーは ELEAGUE Atlanta 2017 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "947",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1114,6 +1188,7 @@
   "name": "PGL Krakow 2017 優勝",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Champion",
   "description": "このチャンピオンシップトロフィーは PGL Krakow 2017 CS:GO Championship 優勝者に贈呈されました。",
+  "def_index": "948",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1129,6 +1204,7 @@
   "name": "PGL Krakow 2017 決勝進出",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
   "description": "このチャンピオンシップトロフィーは PGL Krakow 2017 CS:GO 決勝進出者に贈呈されました。",
+  "def_index": "949",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1144,6 +1220,7 @@
   "name": "PGL Krakow 2017 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
   "description": "このチャンピオンシップトロフィーは PGL Krakow 2017 CS:GO Championship 準決勝進出者に贈呈されました。",
+  "def_index": "950",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1159,6 +1236,7 @@
   "name": "PGL Krakow 2017 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは at the PGL Krakow 2017 CS:GO Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "951",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1174,6 +1252,7 @@
   "name": "ブロンズ Krakow 2017 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
   "description": "このブロンズトロフィーは PGL Krakow 2017 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "952",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1189,6 +1268,7 @@
   "name": "シルバー Krakow 2017 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
   "description": "このシルバートロフィーは PGL Krakow 2017 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "953",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1204,6 +1284,7 @@
   "name": "ゴールド Krakow 2017 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
   "description": "このゴールドトロフィーは PGL Krakow 2017 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "954",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1219,6 +1300,7 @@
   "name": "ELEAGUE Boston 2018 優勝",
   "code": "#CSGO_CollectibleCoin_Boston2018_Champion",
   "description": "このチャンピオンシップトロフィーは ELEAGUE Boston 2018 CS:GO Championship 優勝者に贈呈されました。",
+  "def_index": "955",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1234,6 +1316,7 @@
   "name": "ELEAGUE Boston 2018 決勝進出",
   "code": "#CSGO_CollectibleCoin_Boston2018_Finalist",
   "description": "このチャンピオンシップトロフィーは ELEAGUE Boston 2018 CS:GO 決勝進出者に贈呈されました。",
+  "def_index": "956",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1249,6 +1332,7 @@
   "name": "ELEAGUE Boston 2018 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
   "description": "このチャンピオンシップトロフィーは ELEAGUE Boston 2018 CS:GO Championship 準決勝進出者に贈呈されました。",
+  "def_index": "957",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1264,6 +1348,7 @@
   "name": "ELEAGUE Boston 2018 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは ELEAGUE Boston 2018 CS:GO Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "958",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1279,6 +1364,7 @@
   "name": "ブロンズ Boston 2018 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
   "description": "このブロンズトロフィーは ELEAGUE Boston 2018 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "959",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1294,6 +1380,7 @@
   "name": "シルバー Boston 2018 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
   "description": "このシルバートロフィーは ELEAGUE Boston 2018 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "960",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1309,6 +1396,7 @@
   "name": "ゴールド Boston 2018 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
   "description": "このゴールドトロフィーは ELEAGUE Boston 2018 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "961",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1324,6 +1412,7 @@
   "name": "FACEIT London 2018 優勝",
   "code": "#CSGO_CollectibleCoin_London2018_Champion",
   "description": "このチャンピオンシップトロフィーは FACEIT London 2018 CS:GO Championship 優勝者に贈呈されました。",
+  "def_index": "962",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1339,6 +1428,7 @@
   "name": "FACEIT London 2018 決勝進出",
   "code": "#CSGO_CollectibleCoin_London2018_Finalist",
   "description": "このチャンピオンシップトロフィーは FACEIT London 2018 CS:GO 決勝進出者に贈呈されました。",
+  "def_index": "963",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1354,6 +1444,7 @@
   "name": "FACEIT London 2018 準決勝進出",
   "code": "#CSGO_CollectibleCoin_London2018_Semifinalist",
   "description": "このチャンピオンシップトロフィーは FACEIT London 2018 CS:GO Championship 準決勝進出者に贈呈されました。",
+  "def_index": "964",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1369,6 +1460,7 @@
   "name": "FACEIT London 2018 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは FACEIT London 2018 CS:GO Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "965",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1384,6 +1476,7 @@
   "name": "ブロンズ London 2018 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
   "description": "このブロンズトロフィーは FACEIT London 2018 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "966",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1399,6 +1492,7 @@
   "name": "シルバー London 2018 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
   "description": "このシルバートロフィーは FACEIT London 2018 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "967",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1414,6 +1508,7 @@
   "name": "ゴールド London 2018 Pick'Em トロフィー",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmGold",
   "description": "このゴールドトロフィーは FACEIT London 2018 Pick'Em Challenge 開催中に贈呈されました。",
+  "def_index": "968",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1429,6 +1524,7 @@
   "name": "10年ベテランコイン",
   "code": "#CSGO_CollectibleCoin_TenYearService",
   "description": "Counter-Strike のコミュニティメンバー歴が 10 年以上。",
+  "def_index": "969",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1444,6 +1540,7 @@
   "name": "ロイヤルティバッジ",
   "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
   "description": "これは Danger Zone アップデート以前から Counter-Strike コミュニティのメンバーだったプレイヤーの忠誠を記念するバッジです。\\n\\n<i>強靭さは忠誠から。</i>",
+  "def_index": "970",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1459,6 +1556,7 @@
   "name": "Champion at IEM Katowice 2019",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Champion",
   "description": "This championship trophy was awarded to the Champion at the IEM Katowice 2019 CS:GO Championship.",
+  "def_index": "971",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1474,6 +1572,7 @@
   "name": "Finalist at IEM Katowice 2019",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
   "description": "This championship trophy was awarded to the Finalist at the IEM Katowice 2019 CS:GO Championship.",
+  "def_index": "972",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1489,6 +1588,7 @@
   "name": "Semifinalist at IEM Katowice 2019",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
   "description": "This championship trophy was awarded to the Semifinalist at the IEM Katowice 2019 CS:GO Championship.",
+  "def_index": "973",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1504,6 +1604,7 @@
   "name": "Quarterfinalist at IEM Katowice 2019",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
   "description": "This championship trophy was awarded to the Quarterfinalist at the IEM Katowice 2019 CS:GO Championship.",
+  "def_index": "974",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1519,6 +1620,7 @@
   "name": "StarLadder Berlin 2019 優勝",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Champion",
   "description": "このチャンピオンシップトロフィーは StarLadder Berlin 2019 CS:GO Championshipの王者に贈呈されました。",
+  "def_index": "975",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1534,6 +1636,7 @@
   "name": "StarLadder Berlin 2019 ファイナリスト",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
   "description": "このチャンピオンシップトロフィーは StarLadder Berlin 2019 CS:GO Championshipのファイナリストに贈呈されました。",
+  "def_index": "976",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1549,6 +1652,7 @@
   "name": "StarLadder Berlin 2019 セミファイナリスト",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
   "description": "このチャンピオンシップトロフィーは StarLadder Berlin 2019 CS:GO Championshipのセミファイナリストに贈呈されました。",
+  "def_index": "977",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1564,6 +1668,7 @@
   "name": "StarLadder Berlin 2019 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは StarLadder Berlin 2019 CS:GO Championshipの準々決勝出場チームに贈呈されました。",
+  "def_index": "978",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1579,6 +1684,7 @@
   "name": "PGL Stockholm 2021 優勝",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Champion",
   "description": "このチャンピオンシップトロフィーは PGL Stockholm 2021 CS:GO Major Championship 優勝者に贈呈されました。",
+  "def_index": "979",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1594,6 +1700,7 @@
   "name": "PGL Stockholm 2021 決勝進出",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
   "description": "このチャンピオンシップトロフィーは PGL Stockholm 2021 CS:GO Major Championship 決勝進出者に贈呈されました。",
+  "def_index": "980",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1609,6 +1716,7 @@
   "name": "PGL Stockholm 2021 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
   "description": "このチャンピオンシップトロフィーは PGL Stockholm 2021 CS:GO Major Championship 準決勝進出者に贈呈されました。",
+  "def_index": "981",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1624,6 +1732,7 @@
   "name": "PGL Stockholm 2021 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは PGL Stockholm 2021 CS:GO Major Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "982",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1639,6 +1748,7 @@
   "name": "PGL Antwerp 2022 優勝",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
   "description": "このチャンピオンシップトロフィーは PGL Antwerp 2022 CS:GO Major Championship 優勝者に贈呈されました。",
+  "def_index": "983",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1654,6 +1764,7 @@
   "name": "PGL Antwerp 2022 決勝進出",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
   "description": "このチャンピオンシップトロフィーは PGL Antwerp 2022 CS:GO Major Championship 決勝進出者に贈呈されました。",
+  "def_index": "984",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1669,6 +1780,7 @@
   "name": "PGL Antwerp 2022 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
   "description": "このチャンピオンシップトロフィーは PGL Antwerp 2022 CS:GO Major Championship 準決勝進出者に贈呈されました。",
+  "def_index": "985",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1684,6 +1796,7 @@
   "name": "PGL Antwerp 2022 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは PGL Antwerp 2022 CS:GO Major Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "986",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1699,6 +1812,7 @@
   "name": "10周年コイン",
   "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
   "description": "CS:GO の生誕10周年をコミュニティと共に祝いました。\\n\\n<i>10年にわたるヘッドショットとクラッチとコミュニティの成長を記念して。CS:GO 10周年おめでとう！</i>",
+  "def_index": "987",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1714,6 +1828,7 @@
   "name": "IEM Rio 2022 優勝",
   "code": "#CSGO_CollectibleCoin_Rio2022_Champion",
   "description": "このチャンピオンシップトロフィーは IEM Rio 2022 CS:GO Major Championship 優勝者に贈呈されました。",
+  "def_index": "988",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1729,6 +1844,7 @@
   "name": "IEM Rio 2022 決勝進出",
   "code": "#CSGO_CollectibleCoin_Rio2022_Finalist",
   "description": "このチャンピオンシップトロフィーは IEM Rio 2022 CS:GO Major Championship 決勝進出者に贈呈されました。",
+  "def_index": "989",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1744,6 +1860,7 @@
   "name": "IEM Rio 2022 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
   "description": "このチャンピオンシップトロフィーは IEM Rio 2022 CS:GO Major Championship 準決勝進出者に贈呈されました。",
+  "def_index": "990",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1759,6 +1876,7 @@
   "name": "IEM Rio 2022 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは IEM Rio 2022 CS:GO Major Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "991",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1774,6 +1892,7 @@
   "name": "BLAST.tv Paris 2023 優勝",
   "code": "#CSGO_CollectibleCoin_Paris2023_Champion",
   "description": "このチャンピオンシップトロフィーは BLAST.tv Paris 2023 CS:GO Major Championship 優勝者に贈呈されました。",
+  "def_index": "992",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1789,6 +1908,7 @@
   "name": "BLAST.tv Paris 2023 決勝進出",
   "code": "#CSGO_CollectibleCoin_Paris2023_Finalist",
   "description": "このチャンピオンシップトロフィーは BLAST.tv Paris 2023 CS:GO Major Championship 決勝進出者に贈呈されました。",
+  "def_index": "993",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1804,6 +1924,7 @@
   "name": "BLAST.tv Paris 2023 準決勝進出",
   "code": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
   "description": "このチャンピオンシップトロフィーは BLAST.tv Paris 2023 CS:GO Major Championship 準決勝進出者に贈呈されました。",
+  "def_index": "994",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1819,6 +1940,7 @@
   "name": "BLAST.tv Paris 2023 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは BLAST.tv Paris 2023 CS:GO Major Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "995",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1834,6 +1956,7 @@
   "name": "Global Offensive バッジ",
   "code": "#CSGO_CollectibleCoin_CoinCsgo",
   "description": "Counter-Strike 2 のリリース以前から Counter-Strike: Global Offensive コミュニティのメンバーだったプレイヤーの忠誠を記念するバッジです。\\n\\n<i>伝説は不滅だ。</i>",
+  "def_index": "996",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1849,6 +1972,7 @@
   "name": "Operation Payback パス",
   "code": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
   "description": "Operation Payback イベントは、2013年の4月25日から9月2日まで催され、コミュニティのマップ製作者に $180,000 以上の報酬を授与しました。このパスではもう Operation にアクセスできませんが、記念となる Operation Payback コインと引き換えることができます。",
+  "def_index": "1000",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -1864,6 +1988,7 @@
   "name": "Operation Payback チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
   "description": "コミュニティのマップ作成者達を支援するために、 Operation Payback に参加した。",
+  "def_index": "1001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1879,6 +2004,7 @@
   "name": "Operation Payback シルバー　チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
   "description": "コミュニティのマップ作成者達を支援するために、10時間Operation Paybackに参加した。",
+  "def_index": "1002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1894,6 +2020,7 @@
   "name": "Operation Payback ゴールドチャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
   "description": "コミュニティのマップ作成者達を支援するために、50時間Operation Paybackに参加した。",
+  "def_index": "1003",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1909,6 +2036,7 @@
   "name": "Museum マップコイン",
   "code": "#CSGO_Collectible_MapTokenMuseum",
   "description": null,
+  "def_index": "1004",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1924,6 +2052,7 @@
   "name": "Downtown マップコイン",
   "code": "#CSGO_Collectible_MapTokenDowntown",
   "description": null,
+  "def_index": "1005",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1939,6 +2068,7 @@
   "name": "Thunder マップコイン",
   "code": "#CSGO_Collectible_MapTokenThunder",
   "description": null,
+  "def_index": "1006",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1954,6 +2084,7 @@
   "name": "Favela マップコイン",
   "code": "#CSGO_Collectible_MapTokenFavela",
   "description": null,
+  "def_index": "1007",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1969,6 +2100,7 @@
   "name": "Motel マップコイン",
   "code": "#CSGO_Collectible_MapTokenMotel",
   "description": null,
+  "def_index": "1008",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1984,6 +2116,7 @@
   "name": "Seaside マップコイン",
   "code": "#CSGO_Collectible_MapTokenSeaside",
   "description": null,
+  "def_index": "1009",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -1999,6 +2132,7 @@
   "name": "Library マップコイン",
   "code": "#CSGO_Collectible_MapTokenLibrary",
   "description": null,
+  "def_index": "1010",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2014,6 +2148,7 @@
   "name": "Operation Bravo パス",
   "code": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
   "description": "Operation Bravo イベントは、2013年の9月19日から2014年1月5日まで催されました。 このパスではもう Operation にアクセスできませんが、記念となる Operation Bravo コインと引き換えることができます。",
+  "def_index": "1012",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -2029,6 +2164,7 @@
   "name": "Operation Bravo チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
   "description": "Operation Bravo に参加した。",
+  "def_index": "1013",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2044,6 +2180,7 @@
   "name": "Operation Bravo シルバー コイン",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
   "description": "Operation Bravo に参加した。",
+  "def_index": "1014",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2059,6 +2196,7 @@
   "name": "Operation Bravo ゴールドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
   "description": "Operation Bravo に参加した。",
+  "def_index": "1015",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2074,6 +2212,7 @@
   "name": "Agency マップコイン",
   "code": "#CSGO_Collectible_MapTokenAgency",
   "description": null,
+  "def_index": "1016",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2089,6 +2228,7 @@
   "name": "Ali マップコイン",
   "code": "#CSGO_Collectible_MapTokenAli",
   "description": null,
+  "def_index": "1017",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2104,6 +2244,7 @@
   "name": "Cache マップコイン",
   "code": "#CSGO_Collectible_MapTokenCache",
   "description": null,
+  "def_index": "1018",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2119,6 +2260,7 @@
   "name": "Chinatown マップコイン",
   "code": "#CSGO_Collectible_MapTokenChinatown",
   "description": null,
+  "def_index": "1019",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2134,6 +2276,7 @@
   "name": "Gwalior マップコイン",
   "code": "#CSGO_Collectible_MapTokenGwalior",
   "description": null,
+  "def_index": "1020",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2149,6 +2292,7 @@
   "name": "Ruins マップコイン",
   "code": "#CSGO_Collectible_MapTokenRuins",
   "description": null,
+  "def_index": "1021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2164,6 +2308,7 @@
   "name": "Siege マップコイン",
   "code": "#CSGO_Collectible_MapTokenSiege",
   "description": null,
+  "def_index": "1022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2179,6 +2324,7 @@
   "name": "Operation Phoenix パス",
   "code": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
   "description": "Operation Phoenix は2014年2月20日から、2014年6月11日にかけて開催されました。このパスでは、もうオペレーションにアクセスすることはできませんが、記念の Operation Phoenix コインと引き換えることができます。",
+  "def_index": "1023",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -2194,6 +2340,7 @@
   "name": "Operation Phoenix チャレンジ コイン",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
   "description": "Operation Phoenix に参加した。",
+  "def_index": "1024",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2209,6 +2356,7 @@
   "name": "Operation Phoenix シルバー コイン",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
   "description": "Operation Phoenix に参加した。",
+  "def_index": "1025",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2224,6 +2372,7 @@
   "name": "Operation Phoenix ゴールド コイン",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
   "description": "Operation Phoenix に参加した。",
+  "def_index": "1026",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2239,6 +2388,7 @@
   "name": "Operation Breakout オールアクセスパス",
   "code": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
   "description": "Operation Breakout イベントは、2014年の7月2日から2014年10月2日まで開催されました。 このパスではもうオペレーションにアクセスできませんが、記念となる Operation Breakout コインと引き換えることができます。",
+  "def_index": "1027",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -2254,6 +2404,7 @@
   "name": "Operation Breakout チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
   "description": "Operation Breakout に参加した。",
+  "def_index": "1028",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2269,6 +2420,7 @@
   "name": "Operation Breakout シルバーコイン",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
   "description": "Operation Breakout に参加した。",
+  "def_index": "1029",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2284,6 +2436,7 @@
   "name": "Operation Breakout ゴールドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
   "description": "Operation Breakout に参加した。",
+  "def_index": "1030",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2299,6 +2452,7 @@
   "name": "Castle マップコイン",
   "code": "#CSGO_Collectible_MapTokenCastle",
   "description": null,
+  "def_index": "1031",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2314,6 +2468,7 @@
   "name": "Black Gold マップコイン",
   "code": "#CSGO_Collectible_MapTokenBlackGold",
   "description": null,
+  "def_index": "1032",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2329,6 +2484,7 @@
   "name": "Rush マップコイン",
   "code": "#CSGO_Collectible_MapTokenRush",
   "description": null,
+  "def_index": "1033",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2344,6 +2500,7 @@
   "name": "Mist マップコイン",
   "code": "#CSGO_Collectible_MapTokenMist",
   "description": null,
+  "def_index": "1034",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2359,6 +2516,7 @@
   "name": "Insertion マップコイン",
   "code": "#CSGO_Collectible_MapTokenInsertion",
   "description": null,
+  "def_index": "1035",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2374,6 +2532,7 @@
   "name": "Overgrown マップコイン",
   "code": "#CSGO_Collectible_MapTokenOvergrown",
   "description": null,
+  "def_index": "1036",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2389,6 +2548,7 @@
   "name": "Marquis マップコイン",
   "code": "#CSGO_Collectible_MapTokenMarquis",
   "description": "&#x0020;",
+  "def_index": "1037",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2404,6 +2564,7 @@
   "name": "Workout マップコイン",
   "code": "#CSGO_Collectible_MapTokenWorkout",
   "description": "&#x0020;",
+  "def_index": "1038",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2419,6 +2580,7 @@
   "name": "Backalley マップコイン",
   "code": "#CSGO_Collectible_MapTokenBackalley",
   "description": "&#x0020;",
+  "def_index": "1039",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2434,6 +2596,7 @@
   "name": "Season マップコイン",
   "code": "#CSGO_Collectible_MapTokenSeason",
   "description": null,
+  "def_index": "1040",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2449,6 +2612,7 @@
   "name": "Bazaar マップコイン",
   "code": "#CSGO_Collectible_MapTokenBazaar",
   "description": "&#x0020;",
+  "def_index": "1041",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2464,6 +2628,7 @@
   "name": "Facade マップコイン",
   "code": "#CSGO_Collectible_MapTokenFacade",
   "description": "&#x0020;",
+  "def_index": "1042",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2479,6 +2644,7 @@
   "name": "Log マップコイン",
   "code": "#CSGO_Collectible_MapTokenLog",
   "description": "&#x0020;",
+  "def_index": "1043",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2494,6 +2660,7 @@
   "name": "Rails マップコイン",
   "code": "#CSGO_Collectible_MapTokenRails",
   "description": "&#x0020;",
+  "def_index": "1044",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2509,6 +2676,7 @@
   "name": "Resort マップコイン",
   "code": "#CSGO_Collectible_MapTokenResort",
   "description": "&#x0020;",
+  "def_index": "1045",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2524,6 +2692,7 @@
   "name": "Zoo マップコイン",
   "code": "#CSGO_Collectible_MapTokenZoo",
   "description": "&#x0020;",
+  "def_index": "1046",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2539,6 +2708,7 @@
   "name": "Santorini マップコイン",
   "code": "#CSGO_Collectible_MapTokenSantorini",
   "description": null,
+  "def_index": "1047",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2554,6 +2724,7 @@
   "name": "Coast マップコイン",
   "code": "#CSGO_Collectible_MapTokenCoast",
   "description": null,
+  "def_index": "1048",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2569,6 +2740,7 @@
   "name": "Mikla マップコイン",
   "code": "#CSGO_Collectible_MapTokenMikla",
   "description": null,
+  "def_index": "1049",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2584,6 +2756,7 @@
   "name": "Royal マップコイン",
   "code": "#CSGO_Collectible_MapTokenRoyal",
   "description": null,
+  "def_index": "1050",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2599,6 +2772,7 @@
   "name": "Empire マップコイン",
   "code": "#CSGO_Collectible_MapTokenEmpire",
   "description": null,
+  "def_index": "1051",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2614,6 +2788,7 @@
   "name": "Tulip マップコイン",
   "code": "#CSGO_Collectible_MapTokenTulip",
   "description": null,
+  "def_index": "1052",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2629,6 +2804,7 @@
   "name": "Cruise マップコイン",
   "code": "#CSGO_Collectible_MapTokenCruise",
   "description": null,
+  "def_index": "1053",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2644,6 +2820,7 @@
   "name": "Subzero マップコイン",
   "code": "#CSGO_Collectible_MapTokenSubzero",
   "description": null,
+  "def_index": "1054",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2659,6 +2836,7 @@
   "name": "Biome マップコイン",
   "code": "#CSGO_Collectible_MapTokenBiome",
   "description": null,
+  "def_index": "1055",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2674,6 +2852,7 @@
   "name": "Abbey マップコイン",
   "code": "#CSGO_Collectible_MapTokenAbbey",
   "description": null,
+  "def_index": "1056",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2689,6 +2868,7 @@
   "name": "Ruby マップコイン",
   "code": "#CSGO_Collectible_MapTokenRuby",
   "description": null,
+  "def_index": "1057",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2704,6 +2884,7 @@
   "name": "Breach マップコイン",
   "code": "#CSGO_Collectible_MapTokenBreach",
   "description": null,
+  "def_index": "1058",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2719,6 +2900,7 @@
   "name": "Studio マップコイン",
   "code": "#CSGO_Collectible_MapTokenStudio",
   "description": null,
+  "def_index": "1059",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2734,6 +2916,7 @@
   "name": "Jungle マップコイン",
   "code": "#CSGO_Collectible_MapTokenJungle",
   "description": null,
+  "def_index": "1060",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2749,6 +2932,7 @@
   "name": "Anubis マップコイン",
   "code": "#CSGO_Collectible_MapTokenAnubis",
   "description": null,
+  "def_index": "1061",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2764,6 +2948,7 @@
   "name": "Chlorine マップコイン",
   "code": "#CSGO_Collectible_MapTokenChlorine",
   "description": null,
+  "def_index": "1062",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2779,6 +2964,7 @@
   "name": "Mutiny マップコイン",
   "code": "#CSGO_Collectible_MapTokenMutiny",
   "description": null,
+  "def_index": "1063",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2794,6 +2980,7 @@
   "name": "Swamp マップコイン",
   "code": "#CSGO_Collectible_MapTokenSwamp",
   "description": null,
+  "def_index": "1064",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2809,6 +2996,7 @@
   "name": "Frostbite マップコイン",
   "code": "#CSGO_Collectible_MapTokenFrostbite",
   "description": null,
+  "def_index": "1065",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2824,6 +3012,7 @@
   "name": "Engage マップコイン",
   "code": "#CSGO_Collectible_MapTokenEngage",
   "description": null,
+  "def_index": "1066",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2839,6 +3028,7 @@
   "name": "Apollo マップコイン",
   "code": "#CSGO_Collectible_MapTokenApollo",
   "description": null,
+  "def_index": "1067",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2854,6 +3044,7 @@
   "name": "Guard マップコイン",
   "code": "#CSGO_Collectible_MapTokenGuard",
   "description": null,
+  "def_index": "1068",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2869,6 +3060,7 @@
   "name": "Elysion マップコイン",
   "code": "#CSGO_Collectible_MapTokenElysion",
   "description": null,
+  "def_index": "1069",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2884,6 +3076,7 @@
   "name": "Grind マップコイン",
   "code": "#CSGO_Collectible_MapTokenGrind",
   "description": null,
+  "def_index": "1070",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2899,6 +3092,7 @@
   "name": "Mocha マップコイン",
   "code": "#CSGO_Collectible_MapTokenMocha",
   "description": null,
+  "def_index": "1071",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2914,6 +3108,7 @@
   "name": "Calavera マップコイン",
   "code": "#CSGO_Collectible_MapTokenCalavera",
   "description": null,
+  "def_index": "1072",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2929,6 +3124,7 @@
   "name": "Pitstop マップコイン",
   "code": "#CSGO_Collectible_MapTokenPitstop",
   "description": null,
+  "def_index": "1073",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2944,6 +3140,7 @@
   "name": "Basalt マップコイン",
   "code": "#CSGO_Collectible_MapTokenBasalt",
   "description": null,
+  "def_index": "1074",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2959,6 +3156,7 @@
   "name": "Insertion II マップコイン",
   "code": "#CSGO_Collectible_MapTokenInsertion2",
   "description": null,
+  "def_index": "1075",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2974,6 +3172,7 @@
   "name": "Ravine マップコイン",
   "code": "#CSGO_Collectible_MapTokenRavine",
   "description": null,
+  "def_index": "1076",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -2989,6 +3188,7 @@
   "name": "Extraction マップコイン",
   "code": "#CSGO_Collectible_MapTokenExtraction",
   "description": null,
+  "def_index": "1077",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3004,6 +3204,7 @@
   "name": "County マップコイン",
   "code": "#CSGO_Collectible_MapTokenCounty",
   "description": null,
+  "def_index": "1078",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3019,6 +3220,7 @@
   "name": "Iris マップコイン",
   "code": "#CSGO_Collectible_MapTokenIris",
   "description": null,
+  "def_index": "1079",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3034,6 +3236,7 @@
   "name": "Climb マップコイン",
   "code": "#CSGO_Collectible_MapTokenClimb",
   "description": null,
+  "def_index": "1080",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3049,6 +3252,7 @@
   "name": "Crete マップコイン",
   "code": "#CSGO_Collectible_MapTokenCrete",
   "description": null,
+  "def_index": "1081",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3064,6 +3268,7 @@
   "name": "Hive マップコイン",
   "code": "#CSGO_Collectible_MapTokenHive",
   "description": null,
+  "def_index": "1082",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3079,6 +3284,7 @@
   "name": "Vineyard マップコイン",
   "code": "#CSGO_Collectible_MapTokenVineyard",
   "description": null,
+  "def_index": "1083",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3094,6 +3300,7 @@
   "name": "Ember マップコイン",
   "code": "#CSGO_Collectible_MapTokenEmber",
   "description": null,
+  "def_index": "1084",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3109,6 +3316,7 @@
   "name": "Tuscan マップコイン",
   "code": "#CSGO_Collectible_MapTokenTuscan",
   "description": null,
+  "def_index": "1085",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3124,6 +3332,7 @@
   "name": "Cascade マップコイン",
   "code": "#CSGO_Collectible_MapTokenPrime",
   "description": null,
+  "def_index": "1086",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3139,6 +3348,7 @@
   "name": "Blagai マップコイン",
   "code": "#CSGO_Collectible_MapTokenBlagai",
   "description": null,
+  "def_index": "1087",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3154,6 +3364,7 @@
   "name": "Boyard マップコイン",
   "code": "#CSGO_Collectible_MapTokenBoyard",
   "description": null,
+  "def_index": "1088",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3169,6 +3380,7 @@
   "name": "Chalice マップコイン",
   "code": "#CSGO_Collectible_MapTokenChalice",
   "description": null,
+  "def_index": "1089",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3184,6 +3396,7 @@
   "name": "Operation Vanguard アクセスパス",
   "code": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
   "description": "Operation Vanguard イベントは、2014年の11月11日から2015年3月31日まで開催されました。 このパスではもうオペレーションにアクセスできませんが、記念となる Operation Vanguard コインと引き換えることができます。",
+  "def_index": "1315",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -3199,6 +3412,7 @@
   "name": "Operation Vanguard チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
   "description": "Operation Vanguard に参加した。",
+  "def_index": "1316",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3214,6 +3428,7 @@
   "name": "Operation Vanguard シルバーコイン",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
   "description": "Operation Vanguard に参加した。",
+  "def_index": "1317",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3229,6 +3444,7 @@
   "name": "Operation Vanguard ゴールドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
   "description": "Operation Vanguard に参加した。",
+  "def_index": "1318",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3244,6 +3460,7 @@
   "name": "Operation Bloodhound アクセスパス",
   "code": "#CSGO_Ticket_CommunitySeasonSix2015",
   "description": "Operation Bloodhound イベントは、2015年の5月26日から2015年10月1日まで開催されました。 このパスではもうオペレーションにアクセスできませんが、記念となる Operation Bloodhound コインと引き換えることができます。",
+  "def_index": "1326",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -3259,6 +3476,7 @@
   "name": "Operation Bloodhound チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
   "description": "Operation Bloodhound に参加した。",
+  "def_index": "1327",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3274,6 +3492,7 @@
   "name": "Operation Bloodhound \bシルバーコイン",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
   "description": "Operation Bloodhound に参加した。",
+  "def_index": "1328",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3289,6 +3508,7 @@
   "name": "Operation Bloodhound ゴールドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
   "description": "Operation Bloodhound に参加した。",
+  "def_index": "1329",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3304,6 +3524,7 @@
   "name": "2015 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "2015 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1331",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3319,6 +3540,7 @@
   "name": "2015 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "2015 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1332",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3334,6 +3556,7 @@
   "name": "Operation Wildfire アクセスパス",
   "code": "#CSGO_Ticket_CommunitySeasonSeven2016",
   "description": "Operation Wildfire は2016年2月17日から、2016年7月13日にかけて開催されました。このパスでは、もうオペレーションにアクセスすることはできませんが、記念の Operation Wildfire コインと引き換えることができます。",
+  "def_index": "1335",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -3349,6 +3572,7 @@
   "name": "Operation Wildfire チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
   "description": "Operation Wildfireに参加しました。",
+  "def_index": "1336",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3364,6 +3588,7 @@
   "name": "Operation Wildfire シルバーコイン",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
   "description": "Operation Wildfireに参加しました。",
+  "def_index": "1337",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3379,6 +3604,7 @@
   "name": "Operation Wildfire ゴールドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
   "description": "Operation Wildfireに参加しました。",
+  "def_index": "1338",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3394,6 +3620,7 @@
   "name": "2016 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1339",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3409,6 +3636,7 @@
   "name": "2016 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1340",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3424,6 +3652,7 @@
   "name": "2016 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1341",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3439,6 +3668,7 @@
   "name": "2016 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1342",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3454,6 +3684,7 @@
   "name": "2016 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1343",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3469,6 +3700,7 @@
   "name": "2016 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1344",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3484,6 +3716,7 @@
   "name": "Operation Hydra アクセスパス",
   "code": "#CSGO_Ticket_CommunitySeasonEight2017",
   "description": "Operation Hydra イベントは、2017年の5月23日から2017年11月14日まで催されました。 このパスではもうオペレーションにアクセスできませんが、記念となる Operation Hydra コインと引き換えることができます。",
+  "def_index": "1352",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -3499,6 +3732,7 @@
   "name": "2017 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1357",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3514,6 +3748,7 @@
   "name": "2017 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1358",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3529,6 +3764,7 @@
   "name": "2017 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1359",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3544,6 +3780,7 @@
   "name": "2017 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1360",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3559,6 +3796,7 @@
   "name": "2017 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1361",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3574,6 +3812,7 @@
   "name": "2017 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1362",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3589,6 +3828,7 @@
   "name": "2017 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1363",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3604,6 +3844,7 @@
   "name": "2018 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1367",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3619,6 +3860,7 @@
   "name": "2018 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1368",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3634,6 +3876,7 @@
   "name": "2018 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1369",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3649,6 +3892,7 @@
   "name": "2018 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1370",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3664,6 +3908,7 @@
   "name": "2018 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1371",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3679,6 +3924,7 @@
   "name": "2018 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1372",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3694,6 +3940,7 @@
   "name": "2019 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1376",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3709,6 +3956,7 @@
   "name": "2019 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1377",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3724,6 +3972,7 @@
   "name": "2019 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1378",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3739,6 +3988,7 @@
   "name": "2019 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1379",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3754,6 +4004,7 @@
   "name": "2019 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1380",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3769,6 +4020,7 @@
   "name": "2019 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "1381",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3784,6 +4036,7 @@
   "name": "Operation Hydra チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
   "description": "Operation Hydraに参加しました。",
+  "def_index": "4353",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3799,6 +4052,7 @@
   "name": "Operation Hydra シルバー コイン",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
   "description": "Operation Hydraに参加しました。",
+  "def_index": "4354",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3814,6 +4068,7 @@
   "name": "Operation Hydra ゴールドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
   "description": "Operation Hydraに参加しました。",
+  "def_index": "4355",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3829,6 +4084,7 @@
   "name": "Operation Hydra ダイヤモンドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
   "description": "Operation Hydra をクリアした。",
+  "def_index": "4356",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3844,6 +4100,7 @@
   "name": "Operation Shattered Web プレミアムパス",
   "code": "#CSGO_Ticket_CommunitySeasonNine2019",
   "description": "Operation Shattered Web イベントは、2019年の11月18日から2020年3月31日まで開催されました。 このパスではもうオペレーションにアクセスできませんが、記念となる Operation Shattered Web コインと引き換えることができます。",
+  "def_index": "4549",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -3859,6 +4116,7 @@
   "name": "Operation Shattered Web チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
   "description": "Operation Shattered Web に参加した。",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3874,6 +4132,7 @@
   "name": "Operation Shattered Web シルバーコイン",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
   "description": "Operation Shattered Web に参加した。",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3889,6 +4148,7 @@
   "name": "Operation Shattered Web ゴールドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
   "description": "Operation Shattered Web に参加した。",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3904,6 +4164,7 @@
   "name": "Operation Shattered Web ダイヤモンドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
   "description": "Operation Shattered Web をクリアした。",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3919,6 +4180,7 @@
   "name": "Katowice 2019 Viewer Pass",
   "code": "#CSGO_TournamentPass_katowice2019",
   "description": "This is a sealed IEM 2019 Katowice CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Katowice 2019 Coin tracking your progress throughout the event, full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flair, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -3934,6 +4196,7 @@
   "name": "Katowice 2019 Coin",
   "code": "#CSGO_TournamentJournal_katowice2019",
   "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3949,6 +4212,7 @@
   "name": "Katowice 2019 Silver Coin",
   "code": "#CSGO_TournamentJournal_katowice2019_Silver",
   "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3964,6 +4228,7 @@
   "name": "Katowice 2019 Gold Coin",
   "code": "#CSGO_TournamentJournal_katowice2019_Gold",
   "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3979,6 +4244,7 @@
   "name": "Katowice 2019 Diamond Coin",
   "code": "#CSGO_TournamentJournal_katowice2019_Crystal",
   "description": "This is a commemorative IEM 2019 Katowice CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Katowice 2019 Pick'Em Challenge, exclusive access to Souvenir Packages, Steam.tv chat flairs, and unlimited team graffiti for the duration of the event.\\n\\nYou can upgrade your Katowice 2019 Coin by completing challenges. You can redeem a Souvenir Package every time you upgrade your Coin.",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -3994,6 +4260,7 @@
   "name": "Berlin 2019 視聴者パス",
   "code": "#CSGO_TournamentPass_berlin2019",
   "description": "これは未開封の StarLadder 2019 Berlin CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Berlin 2019 コイン、Berlin 2019 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして、 Berlin 2019 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4622",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4009,6 +4276,7 @@
   "name": "Berlin 2019 コイン",
   "code": "#CSGO_TournamentJournal_berlin2019",
   "description": "これは StarLadder 2019 Berlin CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Berlin 2019 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Berlin 2019 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4623",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4024,6 +4292,7 @@
   "name": "Berlin 2019 シルバーコイン",
   "code": "#CSGO_TournamentJournal_berlin2019_Silver",
   "description": "これは StarLadder 2019 Berlin CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Berlin 2019 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Berlin 2019 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4624",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4039,6 +4308,7 @@
   "name": "Berlin 2019 ゴールドコイン",
   "code": "#CSGO_TournamentJournal_berlin2019_Gold",
   "description": "これは StarLadder 2019 Berlin CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Berlin 2019 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Berlin 2019 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4625",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4054,6 +4324,7 @@
   "name": "Berlin 2019 ダイヤモンドコイン",
   "code": "#CSGO_TournamentJournal_berlin2019_Crystal",
   "description": "これは StarLadder 2019 Berlin CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Berlin 2019 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Berlin 2019 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4626",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4069,6 +4340,7 @@
   "name": "Berlin 2019 視聴者パス + 記念トークン x 3",
   "code": "#CSGO_TournamentPass_berlin2019_pack",
   "description": "これは未開封の StarLadder 2019 Berlin CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Berlin 2019 コイン、Berlin 2019 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして、 Berlin 2019 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこの視聴者パスは、3つの記念トークンで Berlin 2019 コインを事前に有効化できます。",
+  "def_index": "4627",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4084,6 +4356,7 @@
   "name": "Berlin 2019 記念トークン",
   "code": "#CSGO_TournamentPass_berlin2019_charge",
   "description": "これは未開封の StarLadder 2019 Berlin CS:GO Major Championship 記念トークンです。トークンを開封すると、あなたの Berlin 2019 コインにトークンが追加され、記念パッケージを入手できます。\\n\\nトークンは既に Berlin 2019 コインを所有している場合のみ適用されます。",
+  "def_index": "4628",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4091,7 +4364,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Berlin 2019 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/starladder_pickem_2019_pass_charge_png.png"
  },
  {
@@ -4099,6 +4372,7 @@
   "name": "Operation Shattered Web スター x 1",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
   "description": "このオペレーションスター・アップグレードを購入し有効化すると、<b>オペレーションスター 1個</b>が手に入ります。\\n\\nオペレーションスター・アップグレードを購入できるのは、オペレーションコインを所有しているプレイヤーに限られます。",
+  "def_index": "4671",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4114,6 +4388,7 @@
   "name": "Operation Shattered Web スター x 10",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
   "description": "このオペレーションスター・アップグレードを購入し有効化すると、<b>オペレーションスター 10個</b>が手に入ります。\\n\\nオペレーションスター・アップグレードを購入できるのは、オペレーションコインを所有しているプレイヤーに限られます。",
+  "def_index": "4672",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4129,6 +4404,7 @@
   "name": "Operation Shattered Web スター x 100",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
   "description": "このオペレーションスター・アップグレードを購入し有効化すると、<b>オペレーションスター 100個</b>が手に入ります。\\n\\nオペレーションスター・アップグレードを購入できるのは、オペレーションコインを所有しているプレイヤーに限られます。",
+  "def_index": "4673",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4144,6 +4420,7 @@
   "name": "2020 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4674",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4159,6 +4436,7 @@
   "name": "2020 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4675",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4174,6 +4452,7 @@
   "name": "2020 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4676",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4189,6 +4468,7 @@
   "name": "2020 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4677",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4204,6 +4484,7 @@
   "name": "2020 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4678",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4219,6 +4500,7 @@
   "name": "2020 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4679",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4234,6 +4516,7 @@
   "name": "Civil Protection ピン",
   "code": "#CSGO_Collectible_Pin_alyx_04",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4682",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4249,6 +4532,7 @@
   "name": "Sustenance! ピン",
   "code": "#CSGO_Collectible_Pin_alyx_07",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4683",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -4264,6 +4548,7 @@
   "name": "Vortigaunt ピン",
   "code": "#CSGO_Collectible_Pin_alyx_09",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4684",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -4279,6 +4564,7 @@
   "name": "Headcrab Glyph ピン",
   "code": "#CSGO_Collectible_Pin_alyx_05",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4685",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -4294,6 +4580,7 @@
   "name": "Health ピン",
   "code": "#CSGO_Collectible_Pin_alyx_12",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4686",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -4309,6 +4596,7 @@
   "name": "Lambda ピン",
   "code": "#CSGO_Collectible_Pin_alyx_01",
   "description": "Valveの「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4687",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -4324,6 +4612,7 @@
   "name": "Copper Lambda ピン",
   "code": "#CSGO_Collectible_Pin_alyx_02",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4688",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -4339,6 +4628,7 @@
   "name": "CMB ピン",
   "code": "#CSGO_Collectible_Pin_alyx_03",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4689",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -4354,6 +4644,7 @@
   "name": "Black Mesa ピン",
   "code": "#CSGO_Collectible_Pin_alyx_06",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4690",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -4369,6 +4660,7 @@
   "name": "Combine Helmet ピン",
   "code": "#CSGO_Collectible_Pin_alyx_08",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4691",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -4384,6 +4676,7 @@
   "name": "City 17 ピン",
   "code": "#CSGO_Collectible_Pin_alyx_11",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "4692",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -4399,6 +4692,7 @@
   "name": "Operation Broken Fang プレミアムパス",
   "code": "#CSGO_Ticket_CommunitySeasonTen2020",
   "description": "Operation Broken Fang イベントは、2020年の12月3日から2021年4月30日まで開催されました。 このパスではもうオペレーションにアクセスできませんが、記念となる Operation Broken Fang コインと引き換えることができます。",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4414,6 +4708,7 @@
   "name": "Operation Broken Fang チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
   "description": "Operation Broken Fang に参加した。",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4429,6 +4724,7 @@
   "name": "Operation Broken Fang シルバーコイン",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
   "description": "Operation Broken Fang に参加した。",
+  "def_index": "4701",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4444,6 +4740,7 @@
   "name": "Operation Broken Fang ゴールドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
   "description": "Operation Broken Fang に参加した。",
+  "def_index": "4702",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4459,6 +4756,7 @@
   "name": "Operation Broken Fang ダイヤモンドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
   "description": "Operation Broken Fang をクリアした。",
+  "def_index": "4703",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4474,6 +4772,7 @@
   "name": "Operation Broken Fang スター x 1",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
   "description": "このオペレーションスター・アップグレードを購入し有効化すると、<b>オペレーションスター 1個</b>が手に入ります。",
+  "def_index": "4704",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4489,6 +4788,7 @@
   "name": "Operation Broken Fang スター x 10",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
   "description": "このオペレーションスター・アップグレードを購入し有効化すると、<b>オペレーションスター 10個</b>が手に入ります。",
+  "def_index": "4705",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4504,6 +4804,7 @@
   "name": "Operation Broken Fang スター x 100",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
   "description": "このオペレーションスター・アップグレードを購入し有効化すると、<b>オペレーションスター 100個</b>が手に入ります。",
+  "def_index": "4706",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4519,6 +4820,7 @@
   "name": "2021 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4737",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4534,6 +4836,7 @@
   "name": "2021 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4738",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4549,6 +4852,7 @@
   "name": "2021 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4739",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4564,6 +4868,7 @@
   "name": "2021 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4740",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4579,6 +4884,7 @@
   "name": "2021 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4741",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4594,6 +4900,7 @@
   "name": "2021 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4742",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4609,6 +4916,7 @@
   "name": "Operation Riptide プレミアムパス",
   "code": "#CSGO_Ticket_CommunitySeasonEleven2021",
   "description": "Operation Riptide プレミアムパスには、アップグレード可能な Operation Riptide 記念コイン、ウィークリーミッション、オペレーションショップ限定アイテムへのアクセスが含まれます。",
+  "def_index": "4758",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4624,6 +4932,7 @@
   "name": "Operation Riptide チャレンジコイン",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
   "description": "Operation Riptide に参加した。",
+  "def_index": "4759",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4639,6 +4948,7 @@
   "name": "Operation Riptide シルバーコイン",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
   "description": "Operation Riptide に参加した。",
+  "def_index": "4760",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4654,6 +4964,7 @@
   "name": "Operation Riptide ゴールドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
   "description": "Operation Riptide に参加した。",
+  "def_index": "4761",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4669,6 +4980,7 @@
   "name": "Operation Riptide ダイヤモンドコイン",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
   "description": "Operation Riptide をクリアした。",
+  "def_index": "4762",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4684,6 +4996,7 @@
   "name": "Operation Riptide スター x 1",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
   "description": "このオペレーションスター・アップグレードを購入し有効化すると、<b>オペレーションスター 1個</b>が手に入ります。",
+  "def_index": "4763",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4699,6 +5012,7 @@
   "name": "Operation Riptide スター x 10",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
   "description": "このオペレーションスター・アップグレードを購入し有効化すると、<b>オペレーションスター 10個</b>が手に入ります。",
+  "def_index": "4764",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4714,6 +5028,7 @@
   "name": "Operation Riptide スター x 100",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
   "description": "このオペレーションスター・アップグレードを購入し有効化すると、<b>オペレーションスター 100個</b>が手に入ります。",
+  "def_index": "4765",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4729,6 +5044,7 @@
   "name": "Stockholm 2021 視聴者パス",
   "code": "#CSGO_TournamentPass_stockh2021",
   "description": "これは未開封の PGL 2021 Stockholm CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Stockholm 2021 コイン、Stockholm 2021 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Stockholm 2021 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこのパスの販売による収入の半分は参加組織のサポートとして支払われます。",
+  "def_index": "4796",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4744,6 +5060,7 @@
   "name": "Stockholm 2021 コイン",
   "code": "#CSGO_TournamentJournal_stockh2021",
   "description": "これは PGL 2021 Stockholm CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによってStockholm 2021 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Stockholm 2021 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4797",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4759,6 +5076,7 @@
   "name": "Stockholm 2021 シルバーコイン",
   "code": "#CSGO_TournamentJournal_stockh2021_Silver",
   "description": "これは PGL 2021 Stockholm CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによってStockholm 2021 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Stockholm 2021 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4798",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4774,6 +5092,7 @@
   "name": "Stockholm 2021 ゴールドコイン",
   "code": "#CSGO_TournamentJournal_stockh2021_Gold",
   "description": "これは PGL 2021 Stockholm CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによってStockholm 2021 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Stockholm 2021 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4799",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4789,6 +5108,7 @@
   "name": "Stockholm 2021 ダイヤモンドコイン",
   "code": "#CSGO_TournamentJournal_stockh2021_Crystal",
   "description": "これは PGL 2021 Stockholm CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによってStockholm 2021 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Stockholm 2021 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4800",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4804,6 +5124,7 @@
   "name": "Stockholm 2021 視聴者パス + 記念トークン x 3",
   "code": "#CSGO_TournamentPass_stockh2021_pack",
   "description": "これは未開封の PGL 2021 Stockholm CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Stockholm 2021 コイン、Stockholm 2021 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Stockholm 2021 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこの視聴者パスによって Stockholm 2021 コインと記念トークン3枚が最初から事前に有効化されます。\\n\\nこのパスの販売による収入の半分は参加組織のサポートとして支払われます。",
+  "def_index": "4801",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4819,6 +5140,7 @@
   "name": "Stockholm 2021 記念トークン",
   "code": "#CSGO_TournamentPass_stockh2021_charge",
   "description": "これは未開封の PGL 2021 Stockholm CS:GO Major Championship 記念トークンです。トークンを開封すると、あなたの Stockholm 2021 コインにトークンが追加され、記念パッケージを入手できます。\\n\\nトークンは既に Stockholm 2021 コインを所有している場合のみ適用されます。",
+  "def_index": "4802",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4826,7 +5148,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Stockholm 2021 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2021_pass_charge_png.png"
  },
  {
@@ -4834,6 +5156,7 @@
   "name": "2022 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4819",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4849,6 +5172,7 @@
   "name": "2022 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4820",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4864,6 +5188,7 @@
   "name": "2022 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4821",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4879,6 +5204,7 @@
   "name": "2022 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4822",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4894,6 +5220,7 @@
   "name": "2022 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4823",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4909,6 +5236,7 @@
   "name": "2022 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4824",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4924,6 +5252,7 @@
   "name": "Antwerp 2022 視聴者パス",
   "code": "#CSGO_TournamentPass_antwerp2022",
   "description": "これは未開封の PGL 2022 Antwerp CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Antwerp 2022 コイン、Antwerp 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Antwerp 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこのパスの販売による収入の半分は参加組織のサポートとして支払われます。",
+  "def_index": "4825",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -4939,6 +5268,7 @@
   "name": "Antwerp 2022 コイン",
   "code": "#CSGO_TournamentJournal_antwerp2022",
   "description": "これは PGL 2022 Antwerp CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによってAntwerp 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Antwerp 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4826",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4954,6 +5284,7 @@
   "name": "Antwerp 2022 シルバーコイン",
   "code": "#CSGO_TournamentJournal_antwerp2022_Silver",
   "description": "これは PGL 2022 Antwerp CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによってAntwerp 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Antwerp 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4827",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4969,6 +5300,7 @@
   "name": "Antwerp 2022 ゴールドコイン",
   "code": "#CSGO_TournamentJournal_antwerp2022_Gold",
   "description": "これは PGL 2022 Antwerp CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによってAntwerp 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Antwerp 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4828",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4984,6 +5316,7 @@
   "name": "Antwerp 2022 ダイヤモンドコイン",
   "code": "#CSGO_TournamentJournal_antwerp2022_Crystal",
   "description": "これは PGL 2022 Antwerp CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによってAntwerp 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Antwerp 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4829",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -4999,6 +5332,7 @@
   "name": "Antwerp 2022 視聴者パス + 記念トークン x 3",
   "code": "#CSGO_TournamentPass_antwerp2022_pack",
   "description": "これは未開封の PGL 2022 Antwerp CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Antwerp 2022 コイン、Antwerp 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Antwerp 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこの視聴者パスによって Antwerp 2022 コインと記念トークン3枚が最初から事前に有効化されます。\\n\\nこのパスの販売による収入の半分は参加組織のサポートとして支払われます。",
+  "def_index": "4830",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5014,6 +5348,7 @@
   "name": "Antwerp 2022 記念トークン",
   "code": "#CSGO_TournamentPass_antwerp2022_charge",
   "description": "これは未開封の PGL 2022 Antwerp CS:GO Major Championship 記念トークンです。トークンを開封すると、あなたの Antwerp 2022 コインにトークンが追加され、記念パッケージを入手できます。\\n\\nトークンは既に Antwerp 2022 コインを所有している場合のみ適用されます。",
+  "def_index": "4831",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5021,7 +5356,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Antwerp 2022 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2022_pass_charge_png.png"
  },
  {
@@ -5029,6 +5364,7 @@
   "name": "Rio 2022 視聴者パス",
   "code": "#CSGO_TournamentPass_rio2022",
   "description": "これは未開封の IEM Rio 2022 CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Rio 2022 コイン、Rio 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Rio 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "4850",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5044,6 +5380,7 @@
   "name": "Rio 2022 コイン",
   "code": "#CSGO_TournamentJournal_rio2022",
   "description": "これは IEM Rio 2022 CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Rio 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Rio 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4851",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5059,6 +5396,7 @@
   "name": "Rio 2022 シルバーコイン",
   "code": "#CSGO_TournamentJournal_rio2022_Silver",
   "description": "これは IEM Rio 2022 CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Rio 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Rio 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4852",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5074,6 +5412,7 @@
   "name": "Rio 2022 ゴールド",
   "code": "#CSGO_TournamentJournal_rio2022_Gold",
   "description": "これは IEM Rio 2022 CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Rio 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Rio 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4853",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5089,6 +5428,7 @@
   "name": "Rio 2022 ダイヤモンドコイン",
   "code": "#CSGO_TournamentJournal_rio2022_Crystal",
   "description": "これは IEM Rio 2022 CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Rio 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Rio 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4854",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5104,6 +5444,7 @@
   "name": "Rio 2022 視聴者パス + 記念トークン x 3",
   "code": "#CSGO_TournamentPass_rio2022_pack",
   "description": "これは未開封の IEM Rio 2022 CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Rio 2022 コイン、Rio 2022 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Rio 2022 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこの視聴者パスによって Rio 2022 コインと記念トークン3枚が事前に有効化されます。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "4855",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5119,6 +5460,7 @@
   "name": "Rio 2022 記念トークン",
   "code": "#CSGO_TournamentPass_rio2022_charge",
   "description": "これは未開封の IEM Rio 2022 CS:GO Major Championship 記念トークンです。トークンを開封すると、あなたの Rio 2022 コインにトークンが追加され、記念パッケージを入手できます。\\n\\nトークンは既に Rio 2022 コインを所有している場合のみ適用されます。",
+  "def_index": "4856",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5126,7 +5468,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Rio 2022 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/iem_pickem_2022_pass_charge_png.png"
  },
  {
@@ -5134,6 +5476,7 @@
   "name": "2023 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4873",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5149,6 +5492,7 @@
   "name": "2023 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4874",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5164,6 +5508,7 @@
   "name": "2023 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4875",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5179,6 +5524,7 @@
   "name": "2023 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4876",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5194,6 +5540,7 @@
   "name": "2023 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4877",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5209,6 +5556,7 @@
   "name": "2023 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4878",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5224,6 +5572,7 @@
   "name": "Paris 2023 視聴者パス",
   "code": "#CSGO_TournamentPass_paris2023",
   "description": "これは未開封の BLAST.tv Paris 2023 CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Paris 2023 コイン、Paris 2023 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Paris 2023 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "4883",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5239,6 +5588,7 @@
   "name": "Paris 2023 コイン",
   "code": "#CSGO_TournamentJournal_paris2023",
   "description": "これは BLAST.tv Paris 2023 CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Paris 2023 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Paris 2023 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4884",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5254,6 +5604,7 @@
   "name": "Paris 2023 シルバーコイン",
   "code": "#CSGO_TournamentJournal_paris2023_Silver",
   "description": "これは BLAST.tv Paris 2023 CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Paris 2023 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Paris 2023 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4885",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5269,6 +5620,7 @@
   "name": "Paris 2023 ゴールドコイン",
   "code": "#CSGO_TournamentJournal_paris2023_Gold",
   "description": "これは BLAST.tv Paris 2023 CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Paris 2023 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Paris 2023 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4886",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5284,6 +5636,7 @@
   "name": "Paris 2023 ダイヤモンドコイン",
   "code": "#CSGO_TournamentJournal_paris2023_Crystal",
   "description": "これは BLAST.tv Paris 2023 CS:GO Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Paris 2023 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Paris 2023 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4887",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5299,6 +5652,7 @@
   "name": "Paris 2023 視聴者パス + 記念トークン x 3",
   "code": "#CSGO_TournamentPass_paris2023_pack",
   "description": "これは未開封の BLAST.tv Paris 2023 CS:GO Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Paris 2023 コイン、Paris 2023 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Paris 2023 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこの視聴者パスによって Paris 2023 コインと記念トークン3枚が事前に有効化されます。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "4888",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5314,6 +5668,7 @@
   "name": "Paris 2023 記念トークン",
   "code": "#CSGO_TournamentPass_paris2023_charge",
   "description": "これは未開封の BLAST.tv Paris 2023 CS:GO Major Championship 記念トークンです。トークンを開封すると、あなたの Paris 2023 コインにトークンが追加され、記念パッケージを入手できます。\\n\\nトークンは既に Paris 2023 コインを所有している場合のみ適用されます。",
+  "def_index": "4889",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5321,7 +5676,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Paris 2023 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/blast_pickem_2023_pass_charge_png.png"
  },
  {
@@ -5329,6 +5684,7 @@
   "name": "2024 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4906",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5344,6 +5700,7 @@
   "name": "2024 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4907",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5359,6 +5716,7 @@
   "name": "2024 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4908",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5374,6 +5732,7 @@
   "name": "2024 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4909",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5389,6 +5748,7 @@
   "name": "2024 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4910",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5404,6 +5764,7 @@
   "name": "2024 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4911",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5419,6 +5780,7 @@
   "name": "Copenhagen 2024 視聴者パス",
   "code": "#CSGO_TournamentPass_cph2024",
   "description": "これは未開封の PGL Copenhagen 2024 CS2 Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Copenhagen 2024 コイン、 Copenhagen 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Copenhagen 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "4916",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5434,6 +5796,7 @@
   "name": "Copenhagen 2024 コイン",
   "code": "#CSGO_TournamentJournal_cph2024",
   "description": "これは PGL Copenhagen 2024 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Copenhagen 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Copenhagen 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4917",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5449,6 +5812,7 @@
   "name": "Copenhagen 2024 シルバーコイン",
   "code": "#CSGO_TournamentJournal_cph2024_Silver",
   "description": "これは PGL Copenhagen 2024 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Copenhagen 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Copenhagen 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4918",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5464,6 +5828,7 @@
   "name": "Copenhagen 2024 ゴールドコイン",
   "code": "#CSGO_TournamentJournal_cph2024_Gold",
   "description": "これは PGL Copenhagen 2024 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Copenhagen 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Copenhagen 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4919",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5479,6 +5844,7 @@
   "name": "Copenhagen 2024 ダイヤモンドコイン",
   "code": "#CSGO_TournamentJournal_cph2024_Crystal",
   "description": "これは PGL Copenhagen 2024 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Copenhagen 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Copenhagen 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4920",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5494,6 +5860,7 @@
   "name": "Copenhagen 2024 視聴者パス + 記念トークン x 3",
   "code": "#CSGO_TournamentPass_cph2024_pack",
   "description": "これは未開封の PGL Copenhagen 2024 CS2 Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Copenhagen 2024 コイン、Copenhagen 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Copenhagen 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこの視聴者パスによって Copenhagen 2024 コインと記念トークン3枚が事前に有効化されます。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "4921",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5509,6 +5876,7 @@
   "name": "Copenhagen 2024 記念パッケージ",
   "code": "#CSGO_TournamentPass_cph2024_charge",
   "description": "これは未開封の PGL Copenhagen 2024 CS2 Major Championship 記念パッケージです。",
+  "def_index": "4922",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5516,7 +5884,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Copenhagen 2024 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2024_pass_charge_png.png"
  },
  {
@@ -5524,6 +5892,7 @@
   "name": "PGL Copenhagen 2024 優勝",
   "code": "#CSGO_CollectibleCoin_cph2024_Champion",
   "description": "このチャンピオンシップトロフィーは PGL Copenhagen 2024 CS2 Major Championship 優勝者に贈呈されました。",
+  "def_index": "4933",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5539,6 +5908,7 @@
   "name": "PGL Copenhagen 2024 決勝進出",
   "code": "#CSGO_CollectibleCoin_cph2024_Finalist",
   "description": "このチャンピオンシップトロフィーは PGL Copenhagen 2024 CS2 Major Championship 決勝進出者に贈呈されました。",
+  "def_index": "4934",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5554,6 +5924,7 @@
   "name": "PGL Copenhagen 2024 準決勝進出",
   "code": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
   "description": "このチャンピオンシップトロフィーは PGL Copenhagen 2024 CS2 Major Championship 準決勝進出者に贈呈されました。",
+  "def_index": "4935",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5569,6 +5940,7 @@
   "name": "PGL Copenhagen 2024 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは PGL Copenhagen 2024 CS2 Major Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "4936",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5584,6 +5956,7 @@
   "name": "Thera マップコイン",
   "code": "#CSGO_Collectible_MapTokenThera",
   "description": "CS2 マップ Thera の作成を記念したもの",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5599,6 +5972,7 @@
   "name": "Mills マップコイン",
   "code": "#CSGO_Collectible_MapTokenMills",
   "description": "CS2 マップ Mills の作成を記念したもの",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5614,6 +5988,7 @@
   "name": "Assembly マップコイン",
   "code": "#CSGO_Collectible_MapTokenAssembly",
   "description": "CS2 マップ Assembly の作成を記念したもの",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5629,6 +6004,7 @@
   "name": "Memento マップコイン",
   "code": "#CSGO_Collectible_MapTokenMemento",
   "description": "CS2 マップ Memento の作成を記念したもの",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5644,6 +6020,7 @@
   "name": "Pool Day マップコイン",
   "code": "#CSGO_Collectible_MapTokenPoolDay",
   "description": "CS2 マップ Pool Day の作成を記念したもの",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5659,6 +6036,7 @@
   "name": "2025 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4951",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5674,6 +6052,7 @@
   "name": "2025 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4952",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5689,6 +6068,7 @@
   "name": "2025 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4953",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5704,6 +6084,7 @@
   "name": "2025 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4954",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5719,6 +6100,7 @@
   "name": "2025 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4955",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5734,6 +6116,7 @@
   "name": "2025 従軍メダル",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025 年の素晴らしい戦功と実績に対して授与された。",
+  "def_index": "4956",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5749,6 +6132,7 @@
   "name": "Shanghai 2024 視聴者パス",
   "code": "#CSGO_TournamentPass_sha2024",
   "description": "これは未開封の Perfect World Shanghai 2024 CS2 Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Shanghai 2024 コイン、 Shanghai 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Shanghai 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "4957",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5764,6 +6148,7 @@
   "name": "Shanghai 2024 コイン",
   "code": "#CSGO_TournamentJournal_sha2024",
   "description": "これは Perfect World Shanghai 2024 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Shanghai 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Shanghai 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4958",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5779,6 +6164,7 @@
   "name": "Shanghai 2024 シルバーコイン",
   "code": "#CSGO_TournamentJournal_sha2024_Silver",
   "description": "これは Perfect World Shanghai 2024 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Shanghai 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Shanghai 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4959",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5794,6 +6180,7 @@
   "name": "Shanghai 2024 ゴールドコイン",
   "code": "#CSGO_TournamentJournal_sha2024_Gold",
   "description": "これは Perfect World Shanghai 2024 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Shanghai 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Shanghai 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4960",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5809,6 +6196,7 @@
   "name": "Shanghai 2024 ダイヤモンドコイン",
   "code": "#CSGO_TournamentJournal_sha2024_Crystal",
   "description": "これは Perfect World Shanghai 2024 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Shanghai 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Shanghai 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "4961",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5824,6 +6212,7 @@
   "name": "Shanghai 2024 視聴者パス + 記念トークン x 3",
   "code": "#CSGO_TournamentPass_sha2024_pack",
   "description": "これは未開封の Perfect World Shanghai 2024 CS2 Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Shanghai 2024 コイン、Shanghai 2024 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Shanghai 2024 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこの視聴者パスによって Shanghai 2024 コインと記念トークン 3 枚が事前に有効化されます。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "4962",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5839,6 +6228,7 @@
   "name": "Shanghai 2024 記念パッケージ",
   "code": "#CSGO_TournamentPass_sha2024_charge",
   "description": "これは未開封の Perfect World Shanghai 2024 CS2 Major Championship 記念パッケージです。",
+  "def_index": "4963",
   "rarity": {
    "id": "rarity_common",
    "name": "ベースグレード",
@@ -5846,7 +6236,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Shanghai 2024 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pw_pickem_2024_pass_charge_png.png"
  },
  {
@@ -5854,6 +6244,7 @@
   "name": "Perfect World Shanghai 2024 優勝",
   "code": "#CSGO_CollectibleCoin_sha2024_Champion",
   "description": "このチャンピオンシップトロフィーは Perfect World Shanghai 2024 CS2 Major Championship 優勝者に贈呈されました。",
+  "def_index": "4974",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5869,6 +6260,7 @@
   "name": "Perfect World Shanghai 2024 決勝進出",
   "code": "#CSGO_CollectibleCoin_sha2024_Finalist",
   "description": "このチャンピオンシップトロフィーは Perfect World Shanghai 2024 CS2 Major Championship 決勝進出者に贈呈されました。",
+  "def_index": "4975",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5884,6 +6276,7 @@
   "name": "Perfect World Shanghai 2024 準決勝進出",
   "code": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
   "description": "このチャンピオンシップトロフィーは Perfect World Shanghai 2024 CS2 Major Championship 準決勝進出者に贈呈されました。",
+  "def_index": "4976",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5899,6 +6292,7 @@
   "name": "Perfect World Shanghai 2024 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは Perfect World Shanghai 2024 CS2 Major Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "4977",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5914,6 +6308,7 @@
   "name": "Whistle マップコイン",
   "code": "#CSGO_Collectible_MapTokenWhistle",
   "description": "CS2 マップ Whistle の作成を記念したもの",
+  "def_index": "4982",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5929,6 +6324,7 @@
   "name": "Palais マップコイン",
   "code": "#CSGO_Collectible_MapTokenPalais",
   "description": "CS2 マップ Palais の作成を記念したもの",
+  "def_index": "4983",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5944,6 +6340,7 @@
   "name": "Edin マップコイン",
   "code": "#CSGO_Collectible_MapTokenEdin",
   "description": "CS2 マップ Edin の作成を記念したもの",
+  "def_index": "4984",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5959,6 +6356,7 @@
   "name": "Basalt マップコイン",
   "code": "#CSGO_Collectible_MapTokenBasaltCS2",
   "description": "CS2 マップ Basalt の作成を記念したもの",
+  "def_index": "4985",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5974,6 +6372,7 @@
   "name": "プレミアシーズン 1 メダル",
   "code": "#CSGO_Collectible_PremierSeason1Coin",
   "description": "プレミアシーズン 1 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4986",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -5989,6 +6388,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4987",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6004,6 +6404,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4988",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6019,6 +6420,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4989",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6034,6 +6436,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4990",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6049,6 +6452,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4991",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6064,6 +6468,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4992",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6079,6 +6484,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4993",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6094,6 +6500,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4994",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6109,6 +6516,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4995",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6124,6 +6532,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4996",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6139,6 +6548,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4997",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6154,6 +6564,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4998",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6169,6 +6580,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "4999",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6184,6 +6596,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5000",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6199,6 +6612,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6214,6 +6628,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6229,6 +6644,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5003",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6244,6 +6660,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5004",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6259,6 +6676,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5005",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6274,6 +6692,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5006",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6289,6 +6708,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5007",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6304,6 +6724,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5008",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6319,6 +6740,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5009",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6334,6 +6756,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5010",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6349,6 +6772,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5011",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6364,6 +6788,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5012",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6379,6 +6804,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5013",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6394,6 +6820,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5014",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6409,6 +6836,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5015",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6424,6 +6852,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5016",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6439,6 +6868,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5017",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6454,6 +6884,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5018",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6469,6 +6900,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5019",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6484,6 +6916,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5020",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6499,6 +6932,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6514,6 +6948,7 @@
   "name": "プレミアシーズン 2 メダル",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "プレミアシーズン 2 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6529,10 +6964,11 @@
   "name": "Austin 2025 視聴者パス",
   "code": "#CSGO_TournamentPass_aus2025",
   "description": "これは未開封の BLAST.tv Austin 2025 CS2 Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Austin 2025 コイン、 Austin 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Austin 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "5110",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "ベースグレード",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
@@ -6544,10 +6980,11 @@
   "name": "Austin 2025 コイン",
   "code": "#CSGO_TournamentJournal_aus2025",
   "description": "これは BLAST.tv Austin 2025 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Austin 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Austin 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "5111",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "レア",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6559,10 +6996,11 @@
   "name": "Austin 2025 シルバーコイン",
   "code": "#CSGO_TournamentJournal_aus2025_Silver",
   "description": "これは BLAST.tv Austin 2025 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Austin 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Austin 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "5112",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "レア",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6574,10 +7012,11 @@
   "name": "Austin 2025 ゴールドコイン",
   "code": "#CSGO_TournamentJournal_aus2025_Gold",
   "description": "これは BLAST.tv Austin 2025 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Austin 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Austin 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "5113",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "レア",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6589,10 +7028,11 @@
   "name": "Austin 2025 ダイヤモンドコイン",
   "code": "#CSGO_TournamentJournal_aus2025_Crystal",
   "description": "これは BLAST.tv Austin 2025 CS2 Major Championship の記念コインで、イベント期間中にあなたの進行状況を記録するほか、これによって Austin 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そして無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Austin 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。",
+  "def_index": "5114",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "レア",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6604,10 +7044,11 @@
   "name": "Austin 2025 視聴者パス + 記念トークン x 3",
   "code": "#CSGO_TournamentPass_aus2025_pack",
   "description": "これは未開封の Austin 2025 CS2 Major Championship 視聴者パスです。パスを開封すると、イベント期間中にあなたの進行状況を記録する Austin 2025 コイン、Austin 2025 Pick'Em Challenge へのアクセス、Steam.tv チャットフレア、コインチャレンジ、そしてイベント期間中の無制限ゲーム内グラフィティがアンロックされます。\\n\\nコインチャレンジをクリアして Austin 2025 コインをアップグレードすると、そのつど記念トークンが手に入ります。\\n\\nこの視聴者パスによって Austin 2025 コインと記念トークン 3 枚が事前に有効化されます。\\n\\nこのパスの販売による収入の半分は関連組織に分配されます。",
+  "def_index": "5115",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "ベースグレード",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
@@ -6619,14 +7060,15 @@
   "name": "Austin 2025 記念パッケージ",
   "code": "#CSGO_TournamentPass_aus2025_charge",
   "description": "これは未開封の BLAST.tv Austin 2025 CS2 Major Championship 記念パッケージです。",
+  "def_index": "5116",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "ベースグレード",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Austin 2025 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/aus2025_pass_charge_png.png"
  },
  {
@@ -6634,6 +7076,7 @@
   "name": "BLAST.tv Austin 2025 優勝",
   "code": "#CSGO_CollectibleCoin_aus2025_Champion",
   "description": "このチャンピオンシップトロフィーは BLAST.tv Austin 2025 CS2 Major Championship 優勝者に贈呈されました。",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6649,6 +7092,7 @@
   "name": "BLAST.tv Austin 2025 決勝進出",
   "code": "#CSGO_CollectibleCoin_aus2025_Finalist",
   "description": "このチャンピオンシップトロフィーは BLAST.tv Austin 2025 CS2 Major Championship 決勝進出者に贈呈されました。",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6664,6 +7108,7 @@
   "name": "BLAST.tv Austin 2025 準決勝進出",
   "code": "#CSGO_CollectibleCoin_aus2025_Semifinalist",
   "description": "このチャンピオンシップトロフィーは BLAST.tv Austin 2025 CS2 Major Championship 準決勝進出者に贈呈されました。",
+  "def_index": "5129",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6679,6 +7124,7 @@
   "name": "BLAST.tv Austin 2025 準々決勝進出",
   "code": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist",
   "description": "このチャンピオンシップトロフィーは BLAST.tv Austin 2025 CS2 Major Championship 準々決勝進出者に贈呈されました。",
+  "def_index": "5130",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6694,6 +7140,7 @@
   "name": "Agency マップコイン",
   "code": "#CSGO_Collectible_MapTokenAgencyCS2",
   "description": "CS2 マップ Agency の作成を記念したもの",
+  "def_index": "5135",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6709,6 +7156,7 @@
   "name": "Jura マップコイン",
   "code": "#CSGO_Collectible_MapTokenJura",
   "description": "CS2 マップ Jura の作成を記念したもの",
+  "def_index": "5136",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6724,6 +7172,7 @@
   "name": "Grail マップコイン",
   "code": "#CSGO_Collectible_MapTokenGrail",
   "description": "CS2 マップ Grail の作成を記念したもの",
+  "def_index": "5137",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6739,6 +7188,7 @@
   "name": "Dogtown マップコイン",
   "code": "#CSGO_Collectible_MapTokenDogtown",
   "description": "CS2 マップ Dogtown の作成を記念したもの",
+  "def_index": "5138",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6754,6 +7204,7 @@
   "name": "Brewery マップコイン",
   "code": "#CSGO_Collectible_MapTokenBrewery",
   "description": "CS2 マップ Brewery の作成を記念したもの",
+  "def_index": "5139",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6769,6 +7220,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5140",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6784,6 +7236,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5141",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6799,6 +7252,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5142",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6814,6 +7268,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5143",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6829,6 +7284,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5144",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6844,6 +7300,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5145",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6859,6 +7316,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5146",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6874,6 +7332,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5147",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6889,6 +7348,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5148",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6904,6 +7364,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5149",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6919,6 +7380,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5150",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6934,6 +7396,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5151",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6949,6 +7412,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5152",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6964,6 +7428,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5153",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6979,6 +7444,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5154",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -6994,6 +7460,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5155",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7009,6 +7476,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5156",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7024,6 +7492,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5157",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7039,6 +7508,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5158",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7054,6 +7524,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5159",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7069,6 +7540,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5160",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7084,6 +7556,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5161",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7099,6 +7572,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5162",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7114,6 +7588,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5163",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7129,6 +7604,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5164",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7144,6 +7620,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5165",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7159,6 +7636,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5166",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7174,6 +7652,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5167",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7189,6 +7668,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5168",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7204,6 +7684,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5169",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7219,6 +7700,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5170",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7234,6 +7716,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5171",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7249,6 +7732,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5172",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7264,6 +7748,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5173",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7279,6 +7764,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5174",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7294,6 +7780,7 @@
   "name": "プレミアシーズン 3 メダル",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "プレミアシーズン 3 中にたくさんプレイした方に贈られる記念のプレミアメダルです。",
+  "def_index": "5175",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7309,6 +7796,7 @@
   "name": "ジェニュイン Dust II ピン",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7324,6 +7812,7 @@
   "name": "ジェニュイン Guardian Elite ピン",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7339,6 +7828,7 @@
   "name": "ジェニュイン Mirage ピン",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6003",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -7354,6 +7844,7 @@
   "name": "ジェニュイン Inferno ピン",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6004",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -7369,6 +7860,7 @@
   "name": "ジェニュイン Italy ピン",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6005",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7384,6 +7876,7 @@
   "name": "ジェニュイン Victory ピン",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6006",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7399,6 +7892,7 @@
   "name": "ジェニュイン Militia ピン",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6007",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7414,6 +7908,7 @@
   "name": "ジェニュイン Nuke ピン",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6008",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7429,6 +7924,7 @@
   "name": "ジェニュイン Train ピン",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6009",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7444,6 +7940,7 @@
   "name": "ジェニュイン Guardian ピン",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6010",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7459,6 +7956,7 @@
   "name": "ジェニュイン Tactics ピン",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6011",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7474,6 +7972,7 @@
   "name": "ジェニュイン Guardian 2 ピン",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6012",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7489,6 +7988,7 @@
   "name": "ジェニュイン Bravo ピン",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6013",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7504,6 +8004,7 @@
   "name": "ジェニュイン Baggage ピン",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6014",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7519,6 +8020,7 @@
   "name": "ジェニュイン Phoenix ピン",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6015",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7534,6 +8036,7 @@
   "name": "ジェニュイン Office ピン",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6016",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7549,6 +8052,7 @@
   "name": "ジェニュイン Cobblestone ピン",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6017",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7564,6 +8068,7 @@
   "name": "ジェニュイン Overpass ピン",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6018",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7579,6 +8084,7 @@
   "name": "ジェニュイン Bloodhound ピン",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6019",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -7594,6 +8100,7 @@
   "name": "ジェニュイン Cache ピン",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6020",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -7609,6 +8116,7 @@
   "name": "ジェニュイン Valeria Phoenix ピン",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7624,6 +8132,7 @@
   "name": "ジェニュイン Chroma ピン",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7639,6 +8148,7 @@
   "name": "ジェニュイン Guardian 3 ピン",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6023",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7654,6 +8164,7 @@
   "name": "ジェニュイン Canals ピン",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6024",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7669,6 +8180,7 @@
   "name": "ジェニュイン Welcome to the Clutch ピン",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6025",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7684,6 +8196,7 @@
   "name": "ジェニュイン Death Sentence ピン",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6026",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7699,6 +8212,7 @@
   "name": "ジェニュイン Inferno 2 ピン",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6027",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7714,6 +8228,7 @@
   "name": "ジェニュイン Wildfire ピン",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6028",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7729,6 +8244,7 @@
   "name": "ジェニュイン Easy Peasy ピン",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6029",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7744,6 +8260,7 @@
   "name": "ジェニュイン Aces High ピン",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6030",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -7759,6 +8276,7 @@
   "name": "ジェニュイン Hydra ピン",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6031",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -7774,6 +8292,7 @@
   "name": "ジェニュイン Howl ピン",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6032",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7789,6 +8308,7 @@
   "name": "ジェニュイン Brigadier General ピン",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6033",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7804,6 +8324,7 @@
   "name": "ジェニュイン Alyx ピン",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6034",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7819,6 +8340,7 @@
   "name": "Dust II ピン",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6101",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7834,6 +8356,7 @@
   "name": "Guardian Elite ピン",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6102",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -7849,6 +8372,7 @@
   "name": "Mirage ピン",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6103",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -7864,6 +8388,7 @@
   "name": "Inferno ピン",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6104",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -7879,6 +8404,7 @@
   "name": "Italy ピン",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6105",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7894,6 +8420,7 @@
   "name": "Victory ピン",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7909,6 +8436,7 @@
   "name": "Militia ピン",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6107",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -7924,6 +8452,7 @@
   "name": "Nuke ピン",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6108",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7939,6 +8468,7 @@
   "name": "Train ピン",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6109",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7954,6 +8484,7 @@
   "name": "Guardian ピン",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6110",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7969,6 +8500,7 @@
   "name": "Tactics ピン",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "これはシリーズ 1 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6111",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7984,6 +8516,7 @@
   "name": "Guardian 2 ピン",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6112",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -7999,6 +8532,7 @@
   "name": "Bravo ピン",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6113",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -8014,6 +8548,7 @@
   "name": "Baggage ピン",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6114",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -8029,6 +8564,7 @@
   "name": "Phoenix ピン",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6115",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -8044,6 +8580,7 @@
   "name": "Office ピン",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -8059,6 +8596,7 @@
   "name": "Cobblestone ピン",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6117",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -8074,6 +8612,7 @@
   "name": "Overpass ピン",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -8089,6 +8628,7 @@
   "name": "Bloodhound ピン",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6119",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -8104,6 +8644,7 @@
   "name": "Cache ピン",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6120",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -8119,6 +8660,7 @@
   "name": "Valeria Phoenix ピン",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6121",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -8134,6 +8676,7 @@
   "name": "Chroma ピン",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "これはシリーズ 2 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6122",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -8149,6 +8692,7 @@
   "name": "Guardian 3 ピン",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6123",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -8164,6 +8708,7 @@
   "name": "Canals ピン",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6124",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -8179,6 +8724,7 @@
   "name": "Welcome to the Clutch ピン",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6125",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -8194,6 +8740,7 @@
   "name": "Death Sentence ピン",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6126",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -8209,6 +8756,7 @@
   "name": "Inferno 2 ピン",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6127",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -8224,6 +8772,7 @@
   "name": "Wildfire ピン",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -8239,6 +8788,7 @@
   "name": "Easy Peasy ピン",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6129",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -8254,6 +8804,7 @@
   "name": "Aces High ピン",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6130",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -8269,6 +8820,7 @@
   "name": "Hydra ピン",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6131",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -8284,6 +8836,7 @@
   "name": "Howl ピン",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6132",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -8299,6 +8852,7 @@
   "name": "Brigadier General ピン",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "これはシリーズ 3 のコレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6133",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",
@@ -8314,6 +8868,7 @@
   "name": "Alyx ピン",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Valve の「Half-Life」シリーズが VR で帰ってきたことを記念した『Half-Life: Alyx』の記念コレクティブルピンです。プロフィールに表示できます。",
+  "def_index": "6134",
   "rarity": {
    "id": "rarity_ancient",
    "name": "レア",

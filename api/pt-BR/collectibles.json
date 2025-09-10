@@ -4,6 +4,7 @@
   "name": "Moeda dos 5 Anos de Serviço",
   "code": "#CSGO_CollectibleCoin_FiveYearService",
   "description": "Membro da comunidade do Counter-Strike por mais de cinco anos.",
+  "def_index": "874",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -19,6 +20,7 @@
   "name": "Campeão do DreamHack 2013",
   "code": "#CSGO_CollectibleCoin_DH2013_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato DreamHack SteelSeries de CS:GO de 2013.",
+  "def_index": "875",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -34,6 +36,7 @@
   "name": "Finalista do DreamHack 2013",
   "code": "#CSGO_CollectibleCoin_DH2013_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato DreamHack SteelSeries de CS:GO de 2013.",
+  "def_index": "876",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -49,6 +52,7 @@
   "name": "Semifinalista do DreamHack 2013",
   "code": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato DreamHack SteelSeries de CS:GO de 2013.",
+  "def_index": "877",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -64,6 +68,7 @@
   "name": "Jogador das QF do DreamHack 2013",
   "code": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato DreamHack SteelSeries de CS:GO de 2013.",
+  "def_index": "878",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -79,6 +84,7 @@
   "name": "Campeão do EMS One Katowice 2014",
   "code": "#CSGO_CollectibleCoin_Kat2014_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato EMS One Katowice de CS:GO de 2014.",
+  "def_index": "879",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -94,6 +100,7 @@
   "name": "Finalista do EMS One Katowice 2014",
   "code": "#CSGO_CollectibleCoin_Kat2014_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato EMS One Katowice de CS:GO de 2014.",
+  "def_index": "880",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -109,6 +116,7 @@
   "name": "Semifinalista do EMS One Katowice 2014",
   "code": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato EMS One Katowice de CS:GO de 2014.",
+  "def_index": "881",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -124,6 +132,7 @@
   "name": "Jogador das QF do EMS One Katowice 2014",
   "code": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato EMS One Katowice de CS:GO de 2014.",
+  "def_index": "882",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -139,6 +148,7 @@
   "name": "Campeão do ESL One Colônia 2014",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato ESL One Colônia de CS:GO de 2014.",
+  "def_index": "883",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -154,6 +164,7 @@
   "name": "Finalista do ESL One Colônia 2014",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato ELS One Colônia de CS:GO de 2014.",
+  "def_index": "884",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -169,6 +180,7 @@
   "name": "Semifinalista do ESL One Colônia 2014",
   "code": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato ESL One Colônia de CS:GO de 2014.",
+  "def_index": "885",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -184,6 +196,7 @@
   "name": "Jogador das QF do ESL One Colônia 2014",
   "code": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato ESL One Colônia de CS:GO de 2014.",
+  "def_index": "886",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -199,6 +212,7 @@
   "name": "Troféu de Bronze do Bolão do Colônia 2014",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do ESL One Colônia de 2014.",
+  "def_index": "887",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -214,6 +228,7 @@
   "name": "Troféu de Prata do Bolão do Colônia 2014",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do ESL One Colônia de 2014.",
+  "def_index": "888",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -229,6 +244,7 @@
   "name": "Troféu de Ouro do Bolão do Colônia 2014",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do ESL One Colônia de 2014.",
+  "def_index": "889",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -244,6 +260,7 @@
   "name": "Campeão do DreamHack Winter 2014",
   "code": "#CSGO_CollectibleCoin_DHW2014_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato DreamHack Winter de CS:GO de 2014.",
+  "def_index": "890",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -259,6 +276,7 @@
   "name": "Finalista do DreamHack Winter 2014",
   "code": "#CSGO_CollectibleCoin_DHW2014_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato DreamHack Winter de CS:GO de 2014.",
+  "def_index": "891",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -274,6 +292,7 @@
   "name": "Semifinalista do DreamHack Winter 2014",
   "code": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato DreamHack Winter de CS:GO de 2014.",
+  "def_index": "892",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -289,6 +308,7 @@
   "name": "Jogador das QF do DreamHack Winter 2014",
   "code": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato DreamHack Winter de CS:GO de 2014.",
+  "def_index": "893",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -304,6 +324,7 @@
   "name": "Troféu de Bronze do Bolão do DreamHack 2014",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do DreamHack Winter de 2014.",
+  "def_index": "894",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -319,6 +340,7 @@
   "name": "Troféu de Prata do Bolão do DreamHack 2014",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do DreamHack Winter de 2014.",
+  "def_index": "895",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -334,6 +356,7 @@
   "name": "Troféu de Ouro do Bolão do DreamHack 2014",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do DreamHack Winter de 2014.",
+  "def_index": "896",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -349,6 +372,7 @@
   "name": "Campeão do ESL One Katowice 2015",
   "code": "#CSGO_CollectibleCoin_Kat2015_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato ESL One Katowice de CS:GO de 2015.",
+  "def_index": "897",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -364,6 +388,7 @@
   "name": "Finalista do ESL One Katowice 2015",
   "code": "#CSGO_CollectibleCoin_Kat2015_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato ESL One Katowice de CS:GO de 2015.",
+  "def_index": "898",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -379,6 +404,7 @@
   "name": "Semifinalista do ESL One Katowice 2015",
   "code": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato ESL One Katowice de CS:GO de 2015.",
+  "def_index": "899",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -394,6 +420,7 @@
   "name": "Jogador das QF do ESL One Katowice 2015",
   "code": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato ESL One Katowice de CS:GO de 2015.",
+  "def_index": "900",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -409,6 +436,7 @@
   "name": "Troféu de Bronze do Bolão do Katowice 2015",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do ESL One Katowice de 2015.",
+  "def_index": "901",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -424,6 +452,7 @@
   "name": "Troféu de Prata do Bolão do Katowice 2015",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do ESL One Katowice de 2015.",
+  "def_index": "902",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -439,6 +468,7 @@
   "name": "Troféu de Ouro do Bolão do Katowice 2015",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do ESL One Katowice de 2015.",
+  "def_index": "903",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -454,6 +484,7 @@
   "name": "Campeão do ESL One Colônia 2015",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato ESL One Colônia de CS:GO de 2015.",
+  "def_index": "904",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -469,6 +500,7 @@
   "name": "Finalista do ESL One Colônia 2015",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato ELS One Colônia de CS:GO de 2015.",
+  "def_index": "905",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -484,6 +516,7 @@
   "name": "Semifinalista do ESL One Colônia 2015",
   "code": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato ESL One Colônia de CS:GO de 2015.",
+  "def_index": "906",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -499,6 +532,7 @@
   "name": "Jogador das QF do ESL One Colônia 2015",
   "code": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato ESL One Colônia de CS:GO de 2015.",
+  "def_index": "907",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -514,6 +548,7 @@
   "name": "Troféu de Bronze do Bolão do Colônia 2015",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do ESL One Colônia de 2015.",
+  "def_index": "908",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -529,6 +564,7 @@
   "name": "Troféu de Prata do Bolão do Colônia 2015",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do ESL One Colônia de 2015.",
+  "def_index": "909",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -544,6 +580,7 @@
   "name": "Troféu de Ouro do Bolão do Colônia 2015",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do ESL One Colônia de 2015.",
+  "def_index": "910",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -559,6 +596,7 @@
   "name": "Troféu de Bronze do Bolão do Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do DreamHack Cluj-Napoca 2015.",
+  "def_index": "911",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -574,6 +612,7 @@
   "name": "Troféu de Prata do Bolão do Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do DreamHack Cluj-Napoca 2015.",
+  "def_index": "912",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -589,6 +628,7 @@
   "name": "Troféu de Ouro do Bolão do Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do DreamHack Cluj-Napoca 2015.",
+  "def_index": "913",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -604,6 +644,7 @@
   "name": "Troféu de Bronze da Equipe dos Sonhos do Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
   "description": "Este troféu de bronze foi adquirido durante o Torneio da Equipe dos Sonhos do DreamHack Cluj-Napoca de 2015.",
+  "def_index": "914",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -619,6 +660,7 @@
   "name": "Troféu de Prata da Equipe dos Sonhos do Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
   "description": "Este troféu de prata foi adquirido durante o Torneio da Equipe dos Sonhos do DreamHack Cluj-Napoca de 2015.",
+  "def_index": "915",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -634,6 +676,7 @@
   "name": "Troféu de Ouro da Equipe dos Sonhos do Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
   "description": "Este troféu de ouro foi adquirido durante o Torneio da Equipe dos Sonhos do DreamHack Cluj-Napoca de 2015.",
+  "def_index": "916",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -649,6 +692,7 @@
   "name": "Campeão do DreamHack Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato DreamHack Cluj-Napoca de CS:GO de 2015.",
+  "def_index": "917",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -664,6 +708,7 @@
   "name": "Finalista do DreamHack Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato DreamHack Cluj-Napoca de CS:GO de 2015.",
+  "def_index": "918",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -679,6 +724,7 @@
   "name": "Semifinalista do DreamHack Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato DreamHack Cluj-Napoca de CS:GO de 2015.",
+  "def_index": "919",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -694,6 +740,7 @@
   "name": "Jogador das QF do DreamHack Cluj-Napoca 2015",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato DreamHack Cluj-Napoca de CS:GO de 2015.",
+  "def_index": "920",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -709,6 +756,7 @@
   "name": "Troféu de Bronze do Bolão do Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do MLG Columbus de 2016.",
+  "def_index": "921",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -724,6 +772,7 @@
   "name": "Troféu de Prata do Bolão do Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do MLG Columbus de 2016.",
+  "def_index": "922",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -739,6 +788,7 @@
   "name": "Troféu de Ouro do Bolão do Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do MLG Columbus de 2016.",
+  "def_index": "923",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -754,6 +804,7 @@
   "name": "Troféu de Bronze da Equipe dos Sonhos do Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
   "description": "Este troféu de bronze foi adquirido durante o Torneio da Equipe dos Sonhos do MLG Columbus de 2016.",
+  "def_index": "924",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -769,6 +820,7 @@
   "name": "Troféu de Prata da Equipe dos Sonhos do Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
   "description": "Este troféu de prata foi adquirido durante o Torneio da Equipe dos Sonhos do MLG Columbus de 2016.",
+  "def_index": "925",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -784,6 +836,7 @@
   "name": "Troféu de Ouro da Equipe dos Sonhos do Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
   "description": "Este troféu de ouro foi adquirido durante o Torneio da Equipe dos Sonhos do MLG Columbus de 2016.",
+  "def_index": "926",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -799,6 +852,7 @@
   "name": "Campeão do MLG Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato MLG Columbus de CS:GO de 2016.",
+  "def_index": "927",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -814,6 +868,7 @@
   "name": "Finalista do MLG Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato MLG Columbus de CS:GO de 2016.",
+  "def_index": "928",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -829,6 +884,7 @@
   "name": "Semifinalista do MLG Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato MLG Columbus de CS:GO de 2016.",
+  "def_index": "929",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -844,6 +900,7 @@
   "name": "Jogador das QF do MLG Columbus 2016",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato MLG Columbus de CS:GO de 2016.",
+  "def_index": "930",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -859,6 +916,7 @@
   "name": "Campeão do ESL One Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato ESL One Colônia de CS:GO de 2016.",
+  "def_index": "931",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -874,6 +932,7 @@
   "name": "Finalista do ESL One Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato ESL One Colônia de CS:GO de 2016.",
+  "def_index": "932",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -889,6 +948,7 @@
   "name": "Semifinalista do ESL One Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato ESL One Colônia de CS:GO de 2016.",
+  "def_index": "933",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -904,6 +964,7 @@
   "name": "Jogador das QF do ESL One Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato ESL One Colônia de CS:GO de 2016.",
+  "def_index": "934",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -919,6 +980,7 @@
   "name": "Troféu de Bronze do Bolão do Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do ESL One Colônia de 2016.",
+  "def_index": "935",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -934,6 +996,7 @@
   "name": "Troféu de Prata do Bolão do Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do ESL One Colônia de 2016.",
+  "def_index": "936",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -949,6 +1012,7 @@
   "name": "Troféu de Ouro do Bolão do Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do ESL One Colônia de 2016.",
+  "def_index": "937",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -964,6 +1028,7 @@
   "name": "Troféu de Bronze da Equipe dos Sonhos do Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
   "description": "Este troféu de bronze foi adquirido durante o Torneio da Equipe dos Sonhos do ESL Colônia de 2016.",
+  "def_index": "938",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -979,6 +1044,7 @@
   "name": "Troféu de Prata da Equipe dos Sonhos do Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
   "description": "Este troféu de prata foi adquirido durante o Torneio da Equipe dos Sonhos do ESL Colônia de 2016.",
+  "def_index": "939",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -994,6 +1060,7 @@
   "name": "Troféu de Ouro da Equipe dos Sonhos do Colônia 2016",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
   "description": "Este troféu de ouro foi adquirido durante o Torneio da Equipe dos Sonhos do ESL Colônia de 2016.",
+  "def_index": "940",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1009,6 +1076,7 @@
   "name": "Campeão do ELEAGUE Atlanta 2017",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato ELEAGUE Atlanta de CS:GO de 2017.",
+  "def_index": "941",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1024,6 +1092,7 @@
   "name": "Finalista do ELEAGUE Atlanta 2017",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato ELEAGUE Atlanta de CS:GO de 2017.",
+  "def_index": "942",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1039,6 +1108,7 @@
   "name": "Semifinalista do ELEAGUE Atlanta 2017",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato ELEAGUE Atlanta de CS:GO de 2017.",
+  "def_index": "943",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1054,6 +1124,7 @@
   "name": "Jogador das QF do ELEAGUE Atlanta 2017",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato ELEAGUE Atlanta de CS:GO de 2017.",
+  "def_index": "944",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1069,6 +1140,7 @@
   "name": "Troféu de Bronze do Bolão do Atlanta 2017",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do ELEAGUE Atlanta 2017.",
+  "def_index": "945",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1084,6 +1156,7 @@
   "name": "Troféu de Prata do Bolão do Atlanta 2017",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do ELEAGUE Atlanta 2017.",
+  "def_index": "946",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1099,6 +1172,7 @@
   "name": "Troféu de Ouro do Bolão do Atlanta 2017",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do ELEAGUE Atlanta 2017.",
+  "def_index": "947",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1114,6 +1188,7 @@
   "name": "Campeão do PGL Cracóvia 2017",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato PGL Cracóvia de CS:GO de 2017.",
+  "def_index": "948",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1129,6 +1204,7 @@
   "name": "Finalista do PGL Cracóvia 2017",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato PGL Cracóvia de CS:GO de 2017.",
+  "def_index": "949",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1144,6 +1220,7 @@
   "name": "Semifinalista do PGL Cracóvia 2017",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato PGL Cracóvia de CS:GO de 2017.",
+  "def_index": "950",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1159,6 +1236,7 @@
   "name": "Jogador das QF do PGL Cracóvia 2017",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato PGL Cracóvia de CS:GO de 2017.",
+  "def_index": "951",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1174,6 +1252,7 @@
   "name": "Troféu de Bronze do Bolão do Cracóvia 2017",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do PGL Cracóvia 2017.",
+  "def_index": "952",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1189,6 +1268,7 @@
   "name": "Troféu de Prata do Bolão do Cracóvia 2017",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do PGL Cracóvia 2017.",
+  "def_index": "953",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1204,6 +1284,7 @@
   "name": "Troféu de Ouro do Bolão do Cracóvia 2017",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do PGL Cracóvia 2017.",
+  "def_index": "954",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1219,6 +1300,7 @@
   "name": "Campeão do ELEAGUE Boston 2018",
   "code": "#CSGO_CollectibleCoin_Boston2018_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato ELEAGUE Boston de CS:GO de 2018.",
+  "def_index": "955",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1234,6 +1316,7 @@
   "name": "Finalista do ELEAGUE Boston 2018",
   "code": "#CSGO_CollectibleCoin_Boston2018_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato ELEAGUE Boston de CS:GO de 2018.",
+  "def_index": "956",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1249,6 +1332,7 @@
   "name": "Semifinalista do ELEAGUE Boston 2018",
   "code": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato ELEAGUE Boston de CS:GO de 2018.",
+  "def_index": "957",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1264,6 +1348,7 @@
   "name": "Jogador das QF do ELEAGUE Boston 2018",
   "code": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato ELEAGUE Boston de CS:GO de 2018.",
+  "def_index": "958",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1279,6 +1364,7 @@
   "name": "Troféu de Bronze do Bolão do Boston 2018",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do ELEAGUE Boston 2018.",
+  "def_index": "959",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1294,6 +1380,7 @@
   "name": "Troféu de Prata do Bolão do Boston 2018",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do ELEAGUE Boston 2018.",
+  "def_index": "960",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1309,6 +1396,7 @@
   "name": "Troféu de Ouro do Bolão do Boston 2018",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do ELEAGUE Boston 2018.",
+  "def_index": "961",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1324,6 +1412,7 @@
   "name": "Campeão do FACEIT Londres 2018",
   "code": "#CSGO_CollectibleCoin_London2018_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato FACEIT Londres de CS:GO de 2018.",
+  "def_index": "962",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1339,6 +1428,7 @@
   "name": "Finalista do FACEIT Londres 2018",
   "code": "#CSGO_CollectibleCoin_London2018_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato FACEIT Londres de CS:GO de 2018.",
+  "def_index": "963",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1354,6 +1444,7 @@
   "name": "Semifinalista do FACEIT Londres 2018",
   "code": "#CSGO_CollectibleCoin_London2018_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato FACEIT Londres de CS:GO de 2018.",
+  "def_index": "964",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1369,6 +1460,7 @@
   "name": "Jogador das QF do FACEIT Londres 2018",
   "code": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato FACEIT Londres de CS:GO de 2018.",
+  "def_index": "965",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1384,6 +1476,7 @@
   "name": "Troféu de Bronze do Bolão do Londres 2018",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
   "description": "Este troféu de bronze foi adquirido durante o Bolão do FACEIT Londres de 2018.",
+  "def_index": "966",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1399,6 +1492,7 @@
   "name": "Troféu de Prata do Bolão do Londres 2018",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
   "description": "Este troféu de prata foi adquirido durante o Bolão do FACEIT Londres de 2018.",
+  "def_index": "967",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1414,6 +1508,7 @@
   "name": "Troféu de Ouro do Bolão do Londres 2018",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmGold",
   "description": "Este troféu de ouro foi adquirido durante o Bolão do FACEIT Londres de 2018.",
+  "def_index": "968",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1429,6 +1524,7 @@
   "name": "Moeda dos 10 Anos de Serviço",
   "code": "#CSGO_CollectibleCoin_TenYearService",
   "description": "Membro da comunidade do Counter-Strike por mais de dez anos.",
+  "def_index": "969",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1444,6 +1540,7 @@
   "name": "Insígnia de Lealdade",
   "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
   "description": "Comemora a sua lealdade à comunidade do Counter-Strike antes do lançamento do modo de jogo Zona de Perigo.\\n\\n<i>Da lealdade vem a força.</i>",
+  "def_index": "970",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1459,6 +1556,7 @@
   "name": "Campeão do IEM Katowice 2019",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato IEM Katowice de CS:GO de 2019.",
+  "def_index": "971",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1474,6 +1572,7 @@
   "name": "Finalista do IEM Katowice 2019",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato IEM Katowice de CS:GO de 2019.",
+  "def_index": "972",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1489,6 +1588,7 @@
   "name": "Semifinalista do IEM Katowice 2019",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato IEM Katowice de CS:GO de 2019.",
+  "def_index": "973",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1504,6 +1604,7 @@
   "name": "Jogador das QF do IEM Katowice 2019",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato IEM Katowice de CS:GO de 2019.",
+  "def_index": "974",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1519,6 +1620,7 @@
   "name": "Campeão do StarLadder Berlim 2019",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Champion",
   "description": "Este troféu foi entregue à equipe campeã do Campeonato StarLadder Berlim de CS:GO de 2019.",
+  "def_index": "975",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1534,6 +1636,7 @@
   "name": "Finalista do StarLadder Berlim 2019",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato StarLadder Berlim de CS:GO de 2019.",
+  "def_index": "976",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1549,6 +1652,7 @@
   "name": "Semifinalista do StarLadder Berlim 2019",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato StarLadder Berlim de CS:GO de 2019.",
+  "def_index": "977",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1564,6 +1668,7 @@
   "name": "Jogador das QF do StarLadder Berlim 2019",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato StarLadder Berlim de CS:GO de 2019.",
+  "def_index": "978",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1579,6 +1684,7 @@
   "name": "Campeão do Estocolmo 2021 da PGL",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Champion",
   "description": "Este troféu foi entregue aos campeões do Campeonato Mundial de CS:GO Estocolmo 2021 da PGL.",
+  "def_index": "979",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1594,6 +1700,7 @@
   "name": "Finalista do Estocolmo 2021 da PGL",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato Mundial de CS:GO Estocolmo 2021 da PGL.",
+  "def_index": "980",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1609,6 +1716,7 @@
   "name": "Semifinalista do Estocolmo 2021 da PGL",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato Mundial de CS:GO Estocolmo 2021 da PGL.",
+  "def_index": "981",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1624,6 +1732,7 @@
   "name": "Jogador das QF do Estocolmo 2021 da PGL",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato Mundial de CS:GO Estocolmo 2021 da PGL.",
+  "def_index": "982",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1639,6 +1748,7 @@
   "name": "Campeão do Antuérpia 2022 da PGL",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
   "description": "Este troféu foi entregue aos campeões do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL.",
+  "def_index": "983",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1654,6 +1764,7 @@
   "name": "Finalista do Antuérpia 2022 da PGL",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL.",
+  "def_index": "984",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1669,6 +1780,7 @@
   "name": "Semifinalista do Antuérpia 2022 da PGL",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL.",
+  "def_index": "985",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1684,6 +1796,7 @@
   "name": "Jogador das QF do Antuérpia 2022 da PGL",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL.",
+  "def_index": "986",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1699,6 +1812,7 @@
   "name": "Moeda do Aniversário de 10 Anos",
   "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
   "description": "Comemorou o décimo aniversário do CS:GO com a comunidade do jogo.\\n\\n<i>Em homenagem a dez anos de tiros na cabeça, viradas impossíveis e a comunidade. Feliz 10 anos, CS:GO!</i>",
+  "def_index": "987",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1714,6 +1828,7 @@
   "name": "Campeão do Rio 2022 da IEM",
   "code": "#CSGO_CollectibleCoin_Rio2022_Champion",
   "description": "Este troféu foi entregue aos campeões do Campeonato Mundial de CS:GO Rio 2022 da IEM.",
+  "def_index": "988",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1729,6 +1844,7 @@
   "name": "Finalista do Rio 2022 da IEM",
   "code": "#CSGO_CollectibleCoin_Rio2022_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato Mundial de CS:GO Rio 2022 da IEM.",
+  "def_index": "989",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1744,6 +1860,7 @@
   "name": "Semifinalista do Rio 2022 da IEM",
   "code": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato Mundial de CS:GO Rio 2022 da IEM.",
+  "def_index": "990",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1759,6 +1876,7 @@
   "name": "Jogador das QF do Rio 2022 da IEM",
   "code": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato Mundial de CS:GO Rio 2022 da IEM.",
+  "def_index": "991",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1774,6 +1892,7 @@
   "name": "Campeão do Paris 2023 da BLAST.tv",
   "code": "#CSGO_CollectibleCoin_Paris2023_Champion",
   "description": "Este troféu foi entregue aos campeões do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv.",
+  "def_index": "992",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1789,6 +1908,7 @@
   "name": "Finalista do Paris 2023 da BLAST.tv",
   "code": "#CSGO_CollectibleCoin_Paris2023_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv.",
+  "def_index": "993",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1804,6 +1924,7 @@
   "name": "Semifinalista do Paris 2023 da BLAST.tv",
   "code": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv.",
+  "def_index": "994",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1819,6 +1940,7 @@
   "name": "Jogador das QF do Paris 2023 da BLAST.tv",
   "code": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv.",
+  "def_index": "995",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1834,6 +1956,7 @@
   "name": "Insígnia da Ofensiva Global",
   "code": "#CSGO_CollectibleCoin_CoinCsgo",
   "description": "Comemora a sua lealdade à comunidade do Counter-Strike: Global Offensive antes do lançamento do Counter-Strike 2.\\n\\n<i>Lendas nunca morrem.</i>",
+  "def_index": "996",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1849,6 +1972,7 @@
   "name": "Passe da Operação Acerto de Contas",
   "code": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
   "description": "A Operação Acerto de Contas ocorreu entre os dias 25 de abril e 2 de setembro de 2013, e rendeu a criadores de mapas da comunidade mais de 180 mil dólares. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Acerto de Contas.",
+  "def_index": "1000",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -1864,6 +1988,7 @@
   "name": "Moeda de Desafio da Op. Acerto de Contas",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
   "description": "Participou da Operação Acerto de Contas para apoiar criadores de mapas comunitários.",
+  "def_index": "1001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1879,6 +2004,7 @@
   "name": "Moeda de Prata da Op. Acerto de Contas",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
   "description": "Participou da Operação Acerto de Contas por dez horas para apoiar criadores de mapas comunitários.",
+  "def_index": "1002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1894,6 +2020,7 @@
   "name": "Moeda de Ouro da Op. Acerto de Contas",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
   "description": "Participou da Operação Acerto de Contas por 50 horas para apoiar criadores de mapas comunitários.",
+  "def_index": "1003",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1909,6 +2036,7 @@
   "name": "Moeda do Mapa Museum",
   "code": "#CSGO_Collectible_MapTokenMuseum",
   "description": null,
+  "def_index": "1004",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1924,6 +2052,7 @@
   "name": "Moeda do Mapa Downtown",
   "code": "#CSGO_Collectible_MapTokenDowntown",
   "description": null,
+  "def_index": "1005",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1939,6 +2068,7 @@
   "name": "Moeda do Mapa Thunder",
   "code": "#CSGO_Collectible_MapTokenThunder",
   "description": null,
+  "def_index": "1006",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1954,6 +2084,7 @@
   "name": "Moeda do Mapa Favela",
   "code": "#CSGO_Collectible_MapTokenFavela",
   "description": null,
+  "def_index": "1007",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1969,6 +2100,7 @@
   "name": "Moeda do Mapa Motel",
   "code": "#CSGO_Collectible_MapTokenMotel",
   "description": null,
+  "def_index": "1008",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1984,6 +2116,7 @@
   "name": "Moeda do Mapa Seaside",
   "code": "#CSGO_Collectible_MapTokenSeaside",
   "description": null,
+  "def_index": "1009",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -1999,6 +2132,7 @@
   "name": "Moeda do Mapa Library",
   "code": "#CSGO_Collectible_MapTokenLibrary",
   "description": null,
+  "def_index": "1010",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2014,6 +2148,7 @@
   "name": "Passe da Operação Bravo",
   "code": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
   "description": "A Operação Bravo ocorreu entre os dias 19 de setembro de 2013 e 5 de fevereiro de 2014. Este passe não concede mais acesso a uma Operação, mas pode ser resgatado em troca de uma Moeda da Operação Bravo.",
+  "def_index": "1012",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -2029,6 +2164,7 @@
   "name": "Moeda de Desafio da Op. Bravo",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
   "description": "Participou da Operação Bravo.",
+  "def_index": "1013",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2044,6 +2180,7 @@
   "name": "Moeda de Prata da Op. Bravo",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
   "description": "Participou da Operação Bravo.",
+  "def_index": "1014",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2059,6 +2196,7 @@
   "name": "Moeda de Ouro da Op. Bravo",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
   "description": "Participou da Operação Bravo.",
+  "def_index": "1015",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2074,6 +2212,7 @@
   "name": "Moeda do Mapa Agency",
   "code": "#CSGO_Collectible_MapTokenAgency",
   "description": null,
+  "def_index": "1016",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2089,6 +2228,7 @@
   "name": "Moeda do Mapa Ali",
   "code": "#CSGO_Collectible_MapTokenAli",
   "description": null,
+  "def_index": "1017",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2104,6 +2244,7 @@
   "name": "Moeda do Mapa Cache",
   "code": "#CSGO_Collectible_MapTokenCache",
   "description": null,
+  "def_index": "1018",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2119,6 +2260,7 @@
   "name": "Moeda do Mapa Chinatown",
   "code": "#CSGO_Collectible_MapTokenChinatown",
   "description": null,
+  "def_index": "1019",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2134,6 +2276,7 @@
   "name": "Moeda do Mapa Gwalior",
   "code": "#CSGO_Collectible_MapTokenGwalior",
   "description": null,
+  "def_index": "1020",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2149,6 +2292,7 @@
   "name": "Moeda do Mapa Ruins",
   "code": "#CSGO_Collectible_MapTokenRuins",
   "description": null,
+  "def_index": "1021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2164,6 +2308,7 @@
   "name": "Moeda do Mapa Siege",
   "code": "#CSGO_Collectible_MapTokenSiege",
   "description": null,
+  "def_index": "1022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2179,6 +2324,7 @@
   "name": "Passe da Operação Fênix",
   "code": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
   "description": "A Operação Fênix ocorreu entre os dias 20 de fevereiro e 2 de junho de 2014. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Fênix.",
+  "def_index": "1023",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -2194,6 +2340,7 @@
   "name": "Moeda de Desafio da Op. Fênix",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
   "description": "Participou da Operação Fênix.",
+  "def_index": "1024",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2209,6 +2356,7 @@
   "name": "Moeda de Prata da Op. Fênix",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
   "description": "Participou da Operação Fênix.",
+  "def_index": "1025",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2224,6 +2372,7 @@
   "name": "Moeda de Ouro da Op. Fênix",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
   "description": "Participou da Operação Fênix.",
+  "def_index": "1026",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2239,6 +2388,7 @@
   "name": "Passe Livre da Operação Libertação",
   "code": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
   "description": "A Operação Libertação ocorreu entre os dias 2 de julho e 2 de outubro de 2014. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Libertação.",
+  "def_index": "1027",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -2254,6 +2404,7 @@
   "name": "Moeda de Desafio da Op. Libertação",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
   "description": "Participou da Operação Libertação.",
+  "def_index": "1028",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2269,6 +2420,7 @@
   "name": "Moeda de Prata da Op. Libertação",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
   "description": "Participou da Operação Libertação.",
+  "def_index": "1029",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2284,6 +2436,7 @@
   "name": "Moeda de Ouro da Op. Libertação",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
   "description": "Participou da Operação Libertação.",
+  "def_index": "1030",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2299,6 +2452,7 @@
   "name": "Moeda do Mapa Castle",
   "code": "#CSGO_Collectible_MapTokenCastle",
   "description": null,
+  "def_index": "1031",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2314,6 +2468,7 @@
   "name": "Moeda do Mapa Black Gold",
   "code": "#CSGO_Collectible_MapTokenBlackGold",
   "description": null,
+  "def_index": "1032",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2329,6 +2484,7 @@
   "name": "Moeda do Mapa Rush",
   "code": "#CSGO_Collectible_MapTokenRush",
   "description": null,
+  "def_index": "1033",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2344,6 +2500,7 @@
   "name": "Moeda do Mapa Mist",
   "code": "#CSGO_Collectible_MapTokenMist",
   "description": null,
+  "def_index": "1034",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2359,6 +2516,7 @@
   "name": "Moeda do Mapa Insertion",
   "code": "#CSGO_Collectible_MapTokenInsertion",
   "description": null,
+  "def_index": "1035",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2374,6 +2532,7 @@
   "name": "Moeda do Mapa Overgrown",
   "code": "#CSGO_Collectible_MapTokenOvergrown",
   "description": null,
+  "def_index": "1036",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2389,6 +2548,7 @@
   "name": "Moeda do Mapa Marquis",
   "code": "#CSGO_Collectible_MapTokenMarquis",
   "description": null,
+  "def_index": "1037",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2404,6 +2564,7 @@
   "name": "Moeda do Mapa Workout",
   "code": "#CSGO_Collectible_MapTokenWorkout",
   "description": null,
+  "def_index": "1038",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2419,6 +2580,7 @@
   "name": "Moeda do Mapa Backalley",
   "code": "#CSGO_Collectible_MapTokenBackalley",
   "description": null,
+  "def_index": "1039",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2434,6 +2596,7 @@
   "name": "Moeda do Mapa Season",
   "code": "#CSGO_Collectible_MapTokenSeason",
   "description": null,
+  "def_index": "1040",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2449,6 +2612,7 @@
   "name": "Moeda do Mapa Bazaar",
   "code": "#CSGO_Collectible_MapTokenBazaar",
   "description": null,
+  "def_index": "1041",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2464,6 +2628,7 @@
   "name": "Moeda do Mapa Facade",
   "code": "#CSGO_Collectible_MapTokenFacade",
   "description": null,
+  "def_index": "1042",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2479,6 +2644,7 @@
   "name": "Moeda do Mapa Log",
   "code": "#CSGO_Collectible_MapTokenLog",
   "description": null,
+  "def_index": "1043",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2494,6 +2660,7 @@
   "name": "Moeda do Mapa Rails",
   "code": "#CSGO_Collectible_MapTokenRails",
   "description": null,
+  "def_index": "1044",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2509,6 +2676,7 @@
   "name": "Moeda do Mapa Resort",
   "code": "#CSGO_Collectible_MapTokenResort",
   "description": null,
+  "def_index": "1045",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2524,6 +2692,7 @@
   "name": "Moeda do Mapa Zoo",
   "code": "#CSGO_Collectible_MapTokenZoo",
   "description": null,
+  "def_index": "1046",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2539,6 +2708,7 @@
   "name": "Moeda do Mapa Santorini",
   "code": "#CSGO_Collectible_MapTokenSantorini",
   "description": null,
+  "def_index": "1047",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2554,6 +2724,7 @@
   "name": "Moeda do Mapa Coast",
   "code": "#CSGO_Collectible_MapTokenCoast",
   "description": null,
+  "def_index": "1048",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2569,6 +2740,7 @@
   "name": "Moeda do Mapa Mikla",
   "code": "#CSGO_Collectible_MapTokenMikla",
   "description": null,
+  "def_index": "1049",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2584,6 +2756,7 @@
   "name": "Moeda do Mapa Royal",
   "code": "#CSGO_Collectible_MapTokenRoyal",
   "description": null,
+  "def_index": "1050",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2599,6 +2772,7 @@
   "name": "Moeda do Mapa Empire",
   "code": "#CSGO_Collectible_MapTokenEmpire",
   "description": null,
+  "def_index": "1051",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2614,6 +2788,7 @@
   "name": "Moeda do Mapa Tulip",
   "code": "#CSGO_Collectible_MapTokenTulip",
   "description": null,
+  "def_index": "1052",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2629,6 +2804,7 @@
   "name": "Moeda do Mapa Cruise",
   "code": "#CSGO_Collectible_MapTokenCruise",
   "description": null,
+  "def_index": "1053",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2644,6 +2820,7 @@
   "name": "Moeda do Mapa Subzero",
   "code": "#CSGO_Collectible_MapTokenSubzero",
   "description": null,
+  "def_index": "1054",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2659,6 +2836,7 @@
   "name": "Moeda do Mapa Biome",
   "code": "#CSGO_Collectible_MapTokenBiome",
   "description": null,
+  "def_index": "1055",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2674,6 +2852,7 @@
   "name": "Moeda do Mapa Abbey",
   "code": "#CSGO_Collectible_MapTokenAbbey",
   "description": null,
+  "def_index": "1056",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2689,6 +2868,7 @@
   "name": "Moeda do Mapa Ruby",
   "code": "#CSGO_Collectible_MapTokenRuby",
   "description": null,
+  "def_index": "1057",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2704,6 +2884,7 @@
   "name": "Moeda do Mapa Breach",
   "code": "#CSGO_Collectible_MapTokenBreach",
   "description": null,
+  "def_index": "1058",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2719,6 +2900,7 @@
   "name": "Moeda do Mapa Studio",
   "code": "#CSGO_Collectible_MapTokenStudio",
   "description": null,
+  "def_index": "1059",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2734,6 +2916,7 @@
   "name": "Moeda do Mapa Jungle",
   "code": "#CSGO_Collectible_MapTokenJungle",
   "description": null,
+  "def_index": "1060",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2749,6 +2932,7 @@
   "name": "Moeda do Mapa Anubis",
   "code": "#CSGO_Collectible_MapTokenAnubis",
   "description": null,
+  "def_index": "1061",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2764,6 +2948,7 @@
   "name": "Moeda do Mapa Chlorine",
   "code": "#CSGO_Collectible_MapTokenChlorine",
   "description": null,
+  "def_index": "1062",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2779,6 +2964,7 @@
   "name": "Moeda do Mapa Mutiny",
   "code": "#CSGO_Collectible_MapTokenMutiny",
   "description": null,
+  "def_index": "1063",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2794,6 +2980,7 @@
   "name": "Moeda do Mapa Swamp",
   "code": "#CSGO_Collectible_MapTokenSwamp",
   "description": null,
+  "def_index": "1064",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2809,6 +2996,7 @@
   "name": "Moeda do Mapa Frostbite",
   "code": "#CSGO_Collectible_MapTokenFrostbite",
   "description": null,
+  "def_index": "1065",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2824,6 +3012,7 @@
   "name": "Moeda do Mapa Engage",
   "code": "#CSGO_Collectible_MapTokenEngage",
   "description": null,
+  "def_index": "1066",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2839,6 +3028,7 @@
   "name": "Moeda do Mapa Apollo",
   "code": "#CSGO_Collectible_MapTokenApollo",
   "description": null,
+  "def_index": "1067",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2854,6 +3044,7 @@
   "name": "Moeda do Mapa Guard",
   "code": "#CSGO_Collectible_MapTokenGuard",
   "description": null,
+  "def_index": "1068",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2869,6 +3060,7 @@
   "name": "Moeda do Mapa Elysion",
   "code": "#CSGO_Collectible_MapTokenElysion",
   "description": null,
+  "def_index": "1069",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2884,6 +3076,7 @@
   "name": "Moeda do Mapa Grind",
   "code": "#CSGO_Collectible_MapTokenGrind",
   "description": null,
+  "def_index": "1070",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2899,6 +3092,7 @@
   "name": "Moeda do Mapa Mocha",
   "code": "#CSGO_Collectible_MapTokenMocha",
   "description": null,
+  "def_index": "1071",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2914,6 +3108,7 @@
   "name": "Moeda do Mapa Calavera",
   "code": "#CSGO_Collectible_MapTokenCalavera",
   "description": null,
+  "def_index": "1072",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2929,6 +3124,7 @@
   "name": "Moeda do Mapa Pitstop",
   "code": "#CSGO_Collectible_MapTokenPitstop",
   "description": null,
+  "def_index": "1073",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2944,6 +3140,7 @@
   "name": "Moeda do Mapa Basalt",
   "code": "#CSGO_Collectible_MapTokenBasalt",
   "description": null,
+  "def_index": "1074",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2959,6 +3156,7 @@
   "name": "Moeda do Mapa Insertion II",
   "code": "#CSGO_Collectible_MapTokenInsertion2",
   "description": null,
+  "def_index": "1075",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2974,6 +3172,7 @@
   "name": "Moeda do Mapa Ravine",
   "code": "#CSGO_Collectible_MapTokenRavine",
   "description": null,
+  "def_index": "1076",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -2989,6 +3188,7 @@
   "name": "Moeda do Mapa Extraction",
   "code": "#CSGO_Collectible_MapTokenExtraction",
   "description": null,
+  "def_index": "1077",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3004,6 +3204,7 @@
   "name": "Moeda do Mapa County",
   "code": "#CSGO_Collectible_MapTokenCounty",
   "description": null,
+  "def_index": "1078",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3019,6 +3220,7 @@
   "name": "Moeda do Mapa Iris",
   "code": "#CSGO_Collectible_MapTokenIris",
   "description": null,
+  "def_index": "1079",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3034,6 +3236,7 @@
   "name": "Moeda do Mapa Climb",
   "code": "#CSGO_Collectible_MapTokenClimb",
   "description": null,
+  "def_index": "1080",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3049,6 +3252,7 @@
   "name": "Moeda do Mapa Crete",
   "code": "#CSGO_Collectible_MapTokenCrete",
   "description": null,
+  "def_index": "1081",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3064,6 +3268,7 @@
   "name": "Moeda do Mapa Hive",
   "code": "#CSGO_Collectible_MapTokenHive",
   "description": null,
+  "def_index": "1082",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3079,6 +3284,7 @@
   "name": "Moeda do Mapa Vineyard",
   "code": "#CSGO_Collectible_MapTokenVineyard",
   "description": null,
+  "def_index": "1083",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3094,6 +3300,7 @@
   "name": "Moeda do Mapa Ember",
   "code": "#CSGO_Collectible_MapTokenEmber",
   "description": null,
+  "def_index": "1084",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3109,6 +3316,7 @@
   "name": "Moeda do Mapa Tuscan",
   "code": "#CSGO_Collectible_MapTokenTuscan",
   "description": null,
+  "def_index": "1085",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3124,6 +3332,7 @@
   "name": "Moeda do Mapa Cascade",
   "code": "#CSGO_Collectible_MapTokenPrime",
   "description": null,
+  "def_index": "1086",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3139,6 +3348,7 @@
   "name": "Moeda do Mapa Blagai",
   "code": "#CSGO_Collectible_MapTokenBlagai",
   "description": null,
+  "def_index": "1087",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3154,6 +3364,7 @@
   "name": "Moeda do Mapa Boyard",
   "code": "#CSGO_Collectible_MapTokenBoyard",
   "description": null,
+  "def_index": "1088",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3169,6 +3380,7 @@
   "name": "Moeda do Mapa Chalice",
   "code": "#CSGO_Collectible_MapTokenChalice",
   "description": null,
+  "def_index": "1089",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3184,6 +3396,7 @@
   "name": "Passe da Operação Vanguarda",
   "code": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
   "description": "A Operação Vanguarda ocorreu entre os dias 11 de novembro de 2014 e 31 de março de 2015. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Vanguarda.",
+  "def_index": "1315",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -3199,6 +3412,7 @@
   "name": "Moeda de Desafio da Op. Vanguarda",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
   "description": "Participou da Operação Vanguarda.",
+  "def_index": "1316",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3214,6 +3428,7 @@
   "name": "Moeda de Prata da Op. Vanguarda",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
   "description": "Participou da Operação Vanguarda.",
+  "def_index": "1317",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3229,6 +3444,7 @@
   "name": "Moeda de Ouro da Op. Vanguarda",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
   "description": "Participou da Operação Vanguarda.",
+  "def_index": "1318",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3244,6 +3460,7 @@
   "name": "Passe da Operação Cão de Caça",
   "code": "#CSGO_Ticket_CommunitySeasonSix2015",
   "description": "A Operação Cão de Caça ocorreu entre os dias 26 de maio e 1º de outubro de 2015. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Cão de Caça.",
+  "def_index": "1326",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -3259,6 +3476,7 @@
   "name": "Moeda de Desafio da Op. Cão de Caça",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
   "description": "Participou da Operação Cão de Caça.",
+  "def_index": "1327",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3274,6 +3492,7 @@
   "name": "Moeda de Prata da Op. Cão de Caça",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
   "description": "Participou da Operação Cão de Caça.",
+  "def_index": "1328",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3289,6 +3508,7 @@
   "name": "Moeda de Ouro da Op. Cão de Caça",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
   "description": "Participou da Operação Cão de Caça.",
+  "def_index": "1329",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3304,6 +3524,7 @@
   "name": "Medalha de Serviço de 2015",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Concedida pelo extraordinário serviço e conquista em 2015.",
+  "def_index": "1331",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3319,6 +3540,7 @@
   "name": "Medalha de Serviço de 2015",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "Concedida pelo extraordinário serviço e conquista em 2015.",
+  "def_index": "1332",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3334,6 +3556,7 @@
   "name": "Passe da Operação Fogo Selvagem",
   "code": "#CSGO_Ticket_CommunitySeasonSeven2016",
   "description": "A Operação Fogo Selvagem ocorreu entre os dias 17 de fevereiro e 13 de julho de 2016. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Fogo Selvagem.",
+  "def_index": "1335",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -3349,6 +3572,7 @@
   "name": "Moeda de Desafio da Op. Fogo Selvagem",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
   "description": "Participou da Operação Fogo Selvagem.",
+  "def_index": "1336",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3364,6 +3588,7 @@
   "name": "Moeda de Prata da Op. Fogo Selvagem",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
   "description": "Participou da Operação Fogo Selvagem.",
+  "def_index": "1337",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3379,6 +3604,7 @@
   "name": "Moeda de Ouro da Op. Fogo Selvagem",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
   "description": "Participou da Operação Fogo Selvagem.",
+  "def_index": "1338",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3394,6 +3620,7 @@
   "name": "Medalha de Serviço de 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Concedida pelo extraordinário serviço e conquista em 2016.",
+  "def_index": "1339",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3409,6 +3636,7 @@
   "name": "Medalha de Serviço de 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Concedida pelo extraordinário serviço e conquista em 2016.",
+  "def_index": "1340",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3424,6 +3652,7 @@
   "name": "Medalha de Serviço de 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Concedida pelo extraordinário serviço e conquista em 2016.",
+  "def_index": "1341",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3439,6 +3668,7 @@
   "name": "Medalha de Serviço de 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Concedida pelo extraordinário serviço e conquista em 2016.",
+  "def_index": "1342",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3454,6 +3684,7 @@
   "name": "Medalha de Serviço de 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Concedida pelo extraordinário serviço e conquista em 2016.",
+  "def_index": "1343",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3469,6 +3700,7 @@
   "name": "Medalha de Serviço de 2016",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "Concedida pelo extraordinário serviço e conquista em 2016.",
+  "def_index": "1344",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3484,6 +3716,7 @@
   "name": "Passe da Operação Hidra",
   "code": "#CSGO_Ticket_CommunitySeasonEight2017",
   "description": "A Operação Hidra ocorreu entre os dias 23 de maio e 14 de novembro de 2017. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Hidra.",
+  "def_index": "1352",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -3499,6 +3732,7 @@
   "name": "Medalha de Serviço de 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Concedida pelo extraordinário serviço e conquista em 2017.",
+  "def_index": "1357",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3514,6 +3748,7 @@
   "name": "Medalha de Serviço de 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Concedida pelo extraordinário serviço e conquista em 2017.",
+  "def_index": "1358",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3529,6 +3764,7 @@
   "name": "Medalha de Serviço de 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Concedida pelo extraordinário serviço e conquista em 2017.",
+  "def_index": "1359",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3544,6 +3780,7 @@
   "name": "Medalha de Serviço de 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Concedida pelo extraordinário serviço e conquista em 2017.",
+  "def_index": "1360",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3559,6 +3796,7 @@
   "name": "Medalha de Serviço de 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Concedida pelo extraordinário serviço e conquista em 2017.",
+  "def_index": "1361",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3574,6 +3812,7 @@
   "name": "Medalha de Serviço de 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Concedida pelo extraordinário serviço e conquista em 2017.",
+  "def_index": "1362",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3589,6 +3828,7 @@
   "name": "Medalha de Serviço de 2017",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "Concedida pelo extraordinário serviço e conquista em 2017.",
+  "def_index": "1363",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3604,6 +3844,7 @@
   "name": "Medalha de Serviço de 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Concedida pelo extraordinário serviço e conquista em 2018.",
+  "def_index": "1367",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3619,6 +3860,7 @@
   "name": "Medalha de Serviço de 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Concedida pelo extraordinário serviço e conquista em 2018.",
+  "def_index": "1368",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3634,6 +3876,7 @@
   "name": "Medalha de Serviço de 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Concedida pelo extraordinário serviço e conquista em 2018.",
+  "def_index": "1369",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3649,6 +3892,7 @@
   "name": "Medalha de Serviço de 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Concedida pelo extraordinário serviço e conquista em 2018.",
+  "def_index": "1370",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3664,6 +3908,7 @@
   "name": "Medalha de Serviço de 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Concedida pelo extraordinário serviço e conquista em 2018.",
+  "def_index": "1371",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3679,6 +3924,7 @@
   "name": "Medalha de Serviço de 2018",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "Concedida pelo extraordinário serviço e conquista em 2018.",
+  "def_index": "1372",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3694,6 +3940,7 @@
   "name": "Medalha de Serviço de 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Concedida pelo extraordinário serviço e conquista em 2019.",
+  "def_index": "1376",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3709,6 +3956,7 @@
   "name": "Medalha de Serviço de 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Concedida pelo extraordinário serviço e conquista em 2019.",
+  "def_index": "1377",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3724,6 +3972,7 @@
   "name": "Medalha de Serviço de 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Concedida pelo extraordinário serviço e conquista em 2019.",
+  "def_index": "1378",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3739,6 +3988,7 @@
   "name": "Medalha de Serviço de 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Concedida pelo extraordinário serviço e conquista em 2019.",
+  "def_index": "1379",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3754,6 +4004,7 @@
   "name": "Medalha de Serviço de 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Concedida pelo extraordinário serviço e conquista em 2019.",
+  "def_index": "1380",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3769,6 +4020,7 @@
   "name": "Medalha de Serviço de 2019",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "Concedida pelo extraordinário serviço e conquista em 2019.",
+  "def_index": "1381",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3784,6 +4036,7 @@
   "name": "Moeda de Desafio da Op. Hidra",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
   "description": "Participou da Operação Hidra.",
+  "def_index": "4353",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3799,6 +4052,7 @@
   "name": "Moeda de Prata da Op. Hidra",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
   "description": "Participou da Operação Hidra.",
+  "def_index": "4354",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3814,6 +4068,7 @@
   "name": "Moeda de Ouro da Op. Hidra",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
   "description": "Participou da Operação Hidra.",
+  "def_index": "4355",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3829,6 +4084,7 @@
   "name": "Moeda de Diamante da Op. Hidra",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
   "description": "Concluiu a Operação Hidra.",
+  "def_index": "4356",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3844,6 +4100,7 @@
   "name": "Passe Premium da Operação Teia Fragmentada",
   "code": "#CSGO_Ticket_CommunitySeasonNine2019",
   "description": "A Operação Teia Fragmentada ocorreu entre os dias 18 de novembro de 2019 e 31 de março de 2020. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Teia Fragmentada.",
+  "def_index": "4549",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -3859,6 +4116,7 @@
   "name": "Moeda de Desafio da Op. Teia Fragmentada",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
   "description": "Participou da Operação Teia Fragmentada.",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3874,6 +4132,7 @@
   "name": "Moeda de Prata da Op. Teia Fragmentada",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
   "description": "Participou da Operação Teia Fragmentada.",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3889,6 +4148,7 @@
   "name": "Moeda de Ouro da Op. Teia Fragmentada",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
   "description": "Participou da Operação Teia Fragmentada.",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3904,6 +4164,7 @@
   "name": "Moeda de Diamante da Op. Teia Fragmentada",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
   "description": "Concluiu a Operação Teia Fragmentada.",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3919,6 +4180,7 @@
   "name": "Passe de Espectador do Katowice 2019",
   "code": "#CSGO_TournamentPass_katowice2019",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial IEM Katowice de CS:GO de 2019. Uma vez aberto, você receberá uma moeda do Katowice 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, acesso exclusivo aos pacotes de lembranças, um ícone de torcedor na Steam.tv e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Você pode resgatar um pacote de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -3934,6 +4196,7 @@
   "name": "Moeda do Katowice 2019",
   "code": "#CSGO_TournamentJournal_katowice2019",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial IEM Katowice de CS:GO de 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, acesso exclusivo aos pacotes de lembranças, ícones de torcedor na Steam.tv e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Você pode resgatar um pacote de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3949,6 +4212,7 @@
   "name": "Moeda de Prata do Katowice 2019",
   "code": "#CSGO_TournamentJournal_katowice2019_Silver",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial IEM Katowice de CS:GO de 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, acesso exclusivo aos pacotes de lembranças, ícones de torcedor na Steam.tv e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Você pode resgatar um pacote de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3964,6 +4228,7 @@
   "name": "Moeda de Ouro do Katowice 2019",
   "code": "#CSGO_TournamentJournal_katowice2019_Gold",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial IEM Katowice de CS:GO de 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, acesso exclusivo aos pacotes de lembranças, ícones de torcedor na Steam.tv e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Você pode resgatar um pacote de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3979,6 +4244,7 @@
   "name": "Moeda de Diamante do Katowice 2019",
   "code": "#CSGO_TournamentJournal_katowice2019_Crystal",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial IEM Katowice de CS:GO de 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, acesso exclusivo aos pacotes de lembranças, ícones de torcedor na Steam.tv e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Você pode resgatar um pacote de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -3994,6 +4260,7 @@
   "name": "Passe de Espectador do Berlim 2019",
   "code": "#CSGO_TournamentPass_berlin2019",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial StarLadder Berlim de CS:GO de 2019. Uma vez aberto, você receberá uma moeda do Berlim 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4622",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4009,6 +4276,7 @@
   "name": "Moeda do Berlim 2019",
   "code": "#CSGO_TournamentJournal_berlin2019",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial StarLadder Berlim de CS:GO de 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4623",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4024,6 +4292,7 @@
   "name": "Moeda de Prata do Berlim 2019",
   "code": "#CSGO_TournamentJournal_berlin2019_Silver",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial StarLadder Berlim de CS:GO de 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4624",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4039,6 +4308,7 @@
   "name": "Moeda de Ouro do Berlim 2019",
   "code": "#CSGO_TournamentJournal_berlin2019_Gold",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial StarLadder Berlim de CS:GO de 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4625",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4054,6 +4324,7 @@
   "name": "Moeda de Diamante do Berlim 2019",
   "code": "#CSGO_TournamentJournal_berlin2019_Crystal",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial StarLadder Berlim de CS:GO de 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4626",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4069,6 +4340,7 @@
   "name": "Passe de Espectador do Berlim 2019 + 3 Fichas de Lembrança",
   "code": "#CSGO_TournamentPass_berlin2019_pack",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial StarLadder Berlim de CS:GO de 2019. Uma vez aberto, você receberá uma moeda do Berlim 2019, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\nEste passe ativa a sua moeda com 3 fichas de lembrança.",
+  "def_index": "4627",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4084,6 +4356,7 @@
   "name": "Ficha de lembrança do Berlim 2019",
   "code": "#CSGO_TournamentPass_berlin2019_charge",
   "description": "Esta é uma ficha de lembrança lacrada do Campeonato Mundial StarLadder Berlim de CS:GO de 2019. Uma vez aberta, uma ficha será adicionada à sua moeda do Berlim 2019, permitindo o resgate de um pacote de lembrança.\\n\\nFichas só podem ser adicionadas a moedas do Berlim 2019 já ativadas.",
+  "def_index": "4628",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4091,7 +4364,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Berlin 2019 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/starladder_pickem_2019_pass_charge_png.png"
  },
  {
@@ -4099,6 +4372,7 @@
   "name": "1 estrela da Operação Teia Fragmentada",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
   "description": "Este aprimoramento de estrela da operação concede <b>1 estrela da operação</b> quando ativado.\\n\\nDisponível exclusivamente aos portadores da Moeda da Operação.",
+  "def_index": "4671",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4114,6 +4388,7 @@
   "name": "10 estrelas da Operação Teia Fragmentada",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
   "description": "Este aprimoramento de estrela da operação concede <b>10 estrelas da operação</b> quando ativado.\\n\\nDisponível exclusivamente aos portadores da Moeda da Operação.",
+  "def_index": "4672",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4129,6 +4404,7 @@
   "name": "100 estrelas da Operação Teia Fragmentada",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
   "description": "Este aprimoramento de estrela da operação concede <b>100 estrelas da operação</b> quando ativado.\\n\\nDisponível exclusivamente aos portadores da Moeda da Operação.",
+  "def_index": "4673",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4144,6 +4420,7 @@
   "name": "Medalha de Serviço de 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Concedida pelo extraordinário serviço e conquista em 2020.",
+  "def_index": "4674",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4159,6 +4436,7 @@
   "name": "Medalha de Serviço de 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Concedida pelo extraordinário serviço e conquista em 2020.",
+  "def_index": "4675",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4174,6 +4452,7 @@
   "name": "Medalha de Serviço de 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Concedida pelo extraordinário serviço e conquista em 2020.",
+  "def_index": "4676",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4189,6 +4468,7 @@
   "name": "Medalha de Serviço de 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Concedida pelo extraordinário serviço e conquista em 2020.",
+  "def_index": "4677",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4204,6 +4484,7 @@
   "name": "Medalha de Serviço de 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Concedida pelo extraordinário serviço e conquista em 2020.",
+  "def_index": "4678",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4219,6 +4500,7 @@
   "name": "Medalha de Serviço de 2020",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "Concedida pelo extraordinário serviço e conquista em 2020.",
+  "def_index": "4679",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4234,6 +4516,7 @@
   "name": "Broche | Proteção Civil",
   "code": "#CSGO_Collectible_Pin_alyx_04",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4682",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4249,6 +4532,7 @@
   "name": "Broche | Sustento!",
   "code": "#CSGO_Collectible_Pin_alyx_07",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4683",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -4264,6 +4548,7 @@
   "name": "Broche | Vortilético",
   "code": "#CSGO_Collectible_Pin_alyx_09",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4684",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -4279,6 +4564,7 @@
   "name": "Broche | Glifo do Chupa-crânio",
   "code": "#CSGO_Collectible_Pin_alyx_05",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4685",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -4294,6 +4580,7 @@
   "name": "Broche | Vida",
   "code": "#CSGO_Collectible_Pin_alyx_12",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4686",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -4309,6 +4596,7 @@
   "name": "Broche | Lambda",
   "code": "#CSGO_Collectible_Pin_alyx_01",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4687",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -4324,6 +4612,7 @@
   "name": "Broche | Lambda (Cobre)",
   "code": "#CSGO_Collectible_Pin_alyx_02",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4688",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -4339,6 +4628,7 @@
   "name": "Broche | CMB",
   "code": "#CSGO_Collectible_Pin_alyx_03",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4689",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -4354,6 +4644,7 @@
   "name": "Broche | Black Mesa",
   "code": "#CSGO_Collectible_Pin_alyx_06",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4690",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -4369,6 +4660,7 @@
   "name": "Broche | Capacete da Combine",
   "code": "#CSGO_Collectible_Pin_alyx_08",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4691",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -4384,6 +4676,7 @@
   "name": "Broche | Cidade 17",
   "code": "#CSGO_Collectible_Pin_alyx_11",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "4692",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -4399,6 +4692,7 @@
   "name": "Passe Premium da Operação Presa Quebrada",
   "code": "#CSGO_Ticket_CommunitySeasonTen2020",
   "description": "A Operação Presa Quebrada ocorreu entre os dias 3 de dezembro de 2020 e 30 de abril de 2021. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Presa Quebrada.",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4414,6 +4708,7 @@
   "name": "Moeda de Desafio da Op. Presa Quebrada",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
   "description": "Participou da Operação Presa Quebrada.",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4429,6 +4724,7 @@
   "name": "Moeda de Prata da Op. Presa Quebrada",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
   "description": "Participou da Operação Presa Quebrada.",
+  "def_index": "4701",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4444,6 +4740,7 @@
   "name": "Moeda de Ouro da Op. Presa Quebrada",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
   "description": "Participou da Operação Presa Quebrada.",
+  "def_index": "4702",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4459,6 +4756,7 @@
   "name": "Moeda de Diamante da Op. Presa Quebrada",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
   "description": "Concluiu a Operação Presa Quebrada.",
+  "def_index": "4703",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4474,6 +4772,7 @@
   "name": "1 estrela da Operação Presa Quebrada",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
   "description": "Este aprimoramento de estrela da operação concede <b>1 estrela da operação</b> quando ativado.",
+  "def_index": "4704",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4489,6 +4788,7 @@
   "name": "10 estrelas da Operação Presa Quebrada",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
   "description": "Este aprimoramento de estrela da operação concede <b>10 estrelas da operação</b> quando ativado.",
+  "def_index": "4705",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4504,6 +4804,7 @@
   "name": "100 estrelas da Operação Presa Quebrada",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
   "description": "Este aprimoramento de estrela da operação concede <b>100 estrelas da operação</b> quando ativado.",
+  "def_index": "4706",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4519,6 +4820,7 @@
   "name": "Medalha de Serviço de 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Concedida pelo extraordinário serviço e conquista em 2021.",
+  "def_index": "4737",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4534,6 +4836,7 @@
   "name": "Medalha de Serviço de 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Concedida pelo extraordinário serviço e conquista em 2021.",
+  "def_index": "4738",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4549,6 +4852,7 @@
   "name": "Medalha de Serviço de 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Concedida pelo extraordinário serviço e conquista em 2021.",
+  "def_index": "4739",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4564,6 +4868,7 @@
   "name": "Medalha de Serviço de 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Concedida pelo extraordinário serviço e conquista em 2021.",
+  "def_index": "4740",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4579,6 +4884,7 @@
   "name": "Medalha de Serviço de 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Concedida pelo extraordinário serviço e conquista em 2021.",
+  "def_index": "4741",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4594,6 +4900,7 @@
   "name": "Medalha de Serviço de 2021",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "Concedida pelo extraordinário serviço e conquista em 2021.",
+  "def_index": "4742",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4609,6 +4916,7 @@
   "name": "Passe Premium da Operação Correnteza",
   "code": "#CSGO_Ticket_CommunitySeasonEleven2021",
   "description": "O Passe Premium da Operação Correnteza concede uma moeda aprimorável da Operação Correnteza, missões semanais e acesso a itens exclusivos na loja da operação.",
+  "def_index": "4758",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4624,6 +4932,7 @@
   "name": "Moeda de Desafio da Op. Correnteza",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
   "description": "Participou da Operação Correnteza.",
+  "def_index": "4759",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4639,6 +4948,7 @@
   "name": "Moeda de Prata da Op. Correnteza",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
   "description": "Participou da Operação Correnteza.",
+  "def_index": "4760",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4654,6 +4964,7 @@
   "name": "Moeda de Ouro da Op. Correnteza",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
   "description": "Participou da Operação Correnteza.",
+  "def_index": "4761",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4669,6 +4980,7 @@
   "name": "Moeda de Diamante da Op. Correnteza",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
   "description": "Concluiu a Operação Correnteza.",
+  "def_index": "4762",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4684,6 +4996,7 @@
   "name": "1 estrela da Operação Correnteza",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
   "description": "Este aprimoramento de estrela da operação concede <b>1 estrela da operação</b> quando ativado.",
+  "def_index": "4763",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4699,6 +5012,7 @@
   "name": "10 estrelas da Operação Correnteza",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
   "description": "Este aprimoramento de estrela da operação concede <b>10 estrelas da operação</b> quando ativado.",
+  "def_index": "4764",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4714,6 +5028,7 @@
   "name": "100 estrelas da Operação Correnteza",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
   "description": "Este aprimoramento de estrela da operação concede <b>100 estrelas da operação</b> quando ativado.",
+  "def_index": "4765",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4729,6 +5044,7 @@
   "name": "Passe de Espectador do Estocolmo 2021",
   "code": "#CSGO_TournamentPass_stockh2021",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial PGL Estocolmo 2021 de CS:GO. Uma vez aberto, você receberá uma moeda do Estocolmo 2021, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4796",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4744,6 +5060,7 @@
   "name": "Moeda do Estocolmo 2021",
   "code": "#CSGO_TournamentJournal_stockh2021",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial PGL Estocolmo 2021 de CS:GO, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4797",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4759,6 +5076,7 @@
   "name": "Moeda de Prata do Estocolmo 2021",
   "code": "#CSGO_TournamentJournal_stockh2021_Silver",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial PGL Estocolmo 2021 de CS:GO, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4798",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4774,6 +5092,7 @@
   "name": "Moeda de Ouro do Estocolmo 2021",
   "code": "#CSGO_TournamentJournal_stockh2021_Gold",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial PGL Estocolmo 2021 de CS:GO, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4799",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4789,6 +5108,7 @@
   "name": "Moeda de Diamante do Estocolmo 2021",
   "code": "#CSGO_TournamentJournal_stockh2021_Crystal",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial PGL Estocolmo 2021 de CS:GO, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4800",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4804,6 +5124,7 @@
   "name": "Passe de Espectador do Estocolmo 2021 + 3 Fichas de Lembrança",
   "code": "#CSGO_TournamentPass_stockh2021_pack",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial PGL Estocolmo 2021 de CS:GO. Uma vez aberto, você receberá uma moeda do Estocolmo 2021, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\nEste passe ativa a sua moeda com 3 fichas de lembrança.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4801",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4819,6 +5140,7 @@
   "name": "Ficha de lembrança do Estocolmo 2021",
   "code": "#CSGO_TournamentPass_stockh2021_charge",
   "description": "Esta é uma ficha de lembrança lacrada do Campeonato Mundial PGL Estocolmo 2021 de CS:GO. Uma vez aberta, uma ficha será adicionada à sua moeda do Estocolmo 2021, permitindo o resgate de um pacote de lembrança.\\n\\nFichas só podem ser adicionadas a moedas do Estocolmo 2021 já ativadas.",
+  "def_index": "4802",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4826,7 +5148,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Stockholm 2021 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2021_pass_charge_png.png"
  },
  {
@@ -4834,6 +5156,7 @@
   "name": "Medalha de Serviço de 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Concedida pelo extraordinário serviço e conquista em 2022.",
+  "def_index": "4819",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4849,6 +5172,7 @@
   "name": "Medalha de Serviço de 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Concedida pelo extraordinário serviço e conquista em 2022.",
+  "def_index": "4820",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4864,6 +5188,7 @@
   "name": "Medalha de Serviço de 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Concedida pelo extraordinário serviço e conquista em 2022.",
+  "def_index": "4821",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4879,6 +5204,7 @@
   "name": "Medalha de Serviço de 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Concedida pelo extraordinário serviço e conquista em 2022.",
+  "def_index": "4822",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4894,6 +5220,7 @@
   "name": "Medalha de Serviço de 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Concedida pelo extraordinário serviço e conquista em 2022.",
+  "def_index": "4823",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4909,6 +5236,7 @@
   "name": "Medalha de Serviço de 2022",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "Concedida pelo extraordinário serviço e conquista em 2022.",
+  "def_index": "4824",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4924,6 +5252,7 @@
   "name": "Passe de Espectador do Antuérpia 2022",
   "code": "#CSGO_TournamentPass_antwerp2022",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL. Uma vez aberto, você receberá uma moeda do Antuérpia 2022, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4825",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -4939,6 +5268,7 @@
   "name": "Moeda do Antuérpia 2022",
   "code": "#CSGO_TournamentJournal_antwerp2022",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4826",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4954,6 +5284,7 @@
   "name": "Moeda de Prata do Antuérpia 2022",
   "code": "#CSGO_TournamentJournal_antwerp2022_Silver",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4827",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4969,6 +5300,7 @@
   "name": "Moeda de Ouro do Antuérpia 2022",
   "code": "#CSGO_TournamentJournal_antwerp2022_Gold",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4828",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4984,6 +5316,7 @@
   "name": "Moeda de Diamante do Antuérpia 2022",
   "code": "#CSGO_TournamentJournal_antwerp2022_Crystal",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4829",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -4999,6 +5332,7 @@
   "name": "Passe de Espectador do Antuérpia 2022 + 3 Fichas de Lembrança",
   "code": "#CSGO_TournamentPass_antwerp2022_pack",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL. Uma vez aberto, você receberá uma moeda do Antuérpia 2022, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\nEste passe ativa a sua moeda com 3 fichas de lembrança.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4830",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5014,6 +5348,7 @@
   "name": "Ficha de Lembrança do Antuérpia 2022",
   "code": "#CSGO_TournamentPass_antwerp2022_charge",
   "description": "Esta é uma ficha de lembrança lacrada do Campeonato Mundial de CS:GO Antuérpia 2022 da PGL. Uma vez aberta, uma ficha será adicionada à sua moeda do Antuérpia 2022, permitindo o resgate de um pacote de lembrança.\\n\\nFichas só podem ser adicionadas a moedas do Antuérpia 2022 já ativadas.",
+  "def_index": "4831",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5021,7 +5356,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Antwerp 2022 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2022_pass_charge_png.png"
  },
  {
@@ -5029,6 +5364,7 @@
   "name": "Passe de Espectador do Rio 2022",
   "code": "#CSGO_TournamentPass_rio2022",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS:GO Rio 2022 da IEM. Uma vez aberto, você receberá uma moeda do Rio 2022, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4850",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5044,6 +5380,7 @@
   "name": "Moeda do Rio 2022",
   "code": "#CSGO_TournamentJournal_rio2022",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Rio 2022 da IEM, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4851",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5059,6 +5396,7 @@
   "name": "Moeda de Prata do Rio 2022",
   "code": "#CSGO_TournamentJournal_rio2022_Silver",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Rio 2022 da IEM, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4852",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5074,6 +5412,7 @@
   "name": "Moeda de Ouro do Rio 2022",
   "code": "#CSGO_TournamentJournal_rio2022_Gold",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Rio 2022 da IEM, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4853",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5089,6 +5428,7 @@
   "name": "Moeda de Diamante do Rio 2022",
   "code": "#CSGO_TournamentJournal_rio2022_Crystal",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Rio 2022 da IEM, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4854",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5104,6 +5444,7 @@
   "name": "Passe de Espectador do Rio 2022 + 3 Fichas de Lembrança",
   "code": "#CSGO_TournamentPass_rio2022_pack",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS:GO Rio 2022 da IEM. Uma vez aberto, você receberá uma moeda do Rio 2022, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\nEste passe ativa a sua moeda com 3 fichas de lembrança.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4855",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5119,6 +5460,7 @@
   "name": "Ficha de Lembrança do Rio 2022",
   "code": "#CSGO_TournamentPass_rio2022_charge",
   "description": "Esta é uma ficha de lembrança lacrada do Campeonato Mundial de CS:GO Rio 2022 da IEM. Uma vez aberta, uma ficha será adicionada à sua moeda do Rio 2022, permitindo o resgate de um pacote de lembrança.\\n\\nFichas só podem ser adicionadas a moedas do Rio 2022 já ativadas.",
+  "def_index": "4856",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5126,7 +5468,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Rio 2022 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/iem_pickem_2022_pass_charge_png.png"
  },
  {
@@ -5134,6 +5476,7 @@
   "name": "Medalha de Serviço de 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Concedida pelo extraordinário serviço e conquista em 2023.",
+  "def_index": "4873",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5149,6 +5492,7 @@
   "name": "Medalha de Serviço de 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Concedida pelo extraordinário serviço e conquista em 2023.",
+  "def_index": "4874",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5164,6 +5508,7 @@
   "name": "Medalha de Serviço de 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Concedida pelo extraordinário serviço e conquista em 2023.",
+  "def_index": "4875",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5179,6 +5524,7 @@
   "name": "Medalha de Serviço de 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Concedida pelo extraordinário serviço e conquista em 2023.",
+  "def_index": "4876",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5194,6 +5540,7 @@
   "name": "Medalha de Serviço de 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Concedida pelo extraordinário serviço e conquista em 2023.",
+  "def_index": "4877",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5209,6 +5556,7 @@
   "name": "Medalha de Serviço de 2023",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "Concedida pelo extraordinário serviço e conquista em 2023.",
+  "def_index": "4878",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5224,6 +5572,7 @@
   "name": "Passe de Espectador do Paris 2023",
   "code": "#CSGO_TournamentPass_paris2023",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv. Uma vez aberto, você receberá uma moeda do Paris 2023, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4883",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5239,6 +5588,7 @@
   "name": "Moeda do Paris 2023",
   "code": "#CSGO_TournamentJournal_paris2023",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4884",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5254,6 +5604,7 @@
   "name": "Moeda Prateada do Paris 2023",
   "code": "#CSGO_TournamentJournal_paris2023_Silver",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4885",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5269,6 +5620,7 @@
   "name": "Moeda Dourada do Paris 2023",
   "code": "#CSGO_TournamentJournal_paris2023_Gold",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4886",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5284,6 +5636,7 @@
   "name": "Moeda de Diamante do Paris 2023",
   "code": "#CSGO_TournamentJournal_paris2023_Crystal",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4887",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5299,6 +5652,7 @@
   "name": "Passe de Espectador do Paris 2023 + 3 Fichas de Lembrança",
   "code": "#CSGO_TournamentPass_paris2023_pack",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv. Uma vez aberto, você receberá uma moeda do Paris 2023, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\nEste passe ativa a sua moeda com 3 fichas de lembrança.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4888",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5314,6 +5668,7 @@
   "name": "Ficha de Lembrança do Paris 2023",
   "code": "#CSGO_TournamentPass_paris2023_charge",
   "description": "Esta é uma ficha de lembrança lacrada do Campeonato Mundial de CS:GO Paris 2023 da BLAST.tv. Uma vez aberta, uma ficha será adicionada à sua moeda do Paris 2023, permitindo o resgate de um pacote de lembrança.\\n\\nFichas só podem ser adicionadas a moedas do Paris 2023 já ativadas.",
+  "def_index": "4889",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5321,7 +5676,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Paris 2023 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/blast_pickem_2023_pass_charge_png.png"
  },
  {
@@ -5329,6 +5684,7 @@
   "name": "Medalha de Serviço de 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Concedida pelo extraordinário serviço e conquista em 2024.",
+  "def_index": "4906",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5344,6 +5700,7 @@
   "name": "Medalha de Serviço de 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Concedida pelo extraordinário serviço e conquista em 2024.",
+  "def_index": "4907",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5359,6 +5716,7 @@
   "name": "Medalha de Serviço de 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Concedida pelo extraordinário serviço e conquista em 2024.",
+  "def_index": "4908",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5374,6 +5732,7 @@
   "name": "Medalha de Serviço de 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Concedida pelo extraordinário serviço e conquista em 2024.",
+  "def_index": "4909",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5389,6 +5748,7 @@
   "name": "Medalha de Serviço de 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Concedida pelo extraordinário serviço e conquista em 2024.",
+  "def_index": "4910",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5404,6 +5764,7 @@
   "name": "Medalha de Serviço de 2024",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "Concedida pelo extraordinário serviço e conquista em 2024.",
+  "def_index": "4911",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5419,6 +5780,7 @@
   "name": "Passe de Espectador do Copenhague 2024",
   "code": "#CSGO_TournamentPass_cph2024",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS2 Copenhague 2024 da PGL. Uma vez aberto, você receberá uma moeda do Copenhague 2024, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4916",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5434,6 +5796,7 @@
   "name": "Moeda do Copenhague 2024",
   "code": "#CSGO_TournamentJournal_cph2024",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Copenhague 2024 da PGL, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4917",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5449,6 +5812,7 @@
   "name": "Moeda de Prata do Copenhague 2024",
   "code": "#CSGO_TournamentJournal_cph2024_Silver",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Copenhague 2024 da PGL, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4918",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5464,6 +5828,7 @@
   "name": "Moeda de Ouro do Copenhague 2024",
   "code": "#CSGO_TournamentJournal_cph2024_Gold",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Copenhague 2024 da PGL, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4919",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5479,6 +5844,7 @@
   "name": "Moeda de Diamante do Copenhague 2024",
   "code": "#CSGO_TournamentJournal_cph2024_Crystal",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Copenhague 2024 da PGL, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4920",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5494,6 +5860,7 @@
   "name": "Passe de Espectador do Copenhague 2024 + 3 Fichas de Lembrança",
   "code": "#CSGO_TournamentPass_cph2024_pack",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS2 Copenhague 2024 da PGL. Uma vez aberto, você receberá uma moeda do Copenhague 2024, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\nEste passe ativa a sua moeda com 3 fichas de lembrança.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4921",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5509,6 +5876,7 @@
   "name": "Pacote de Lembrança do Copenhague 2024",
   "code": "#CSGO_TournamentPass_cph2024_charge",
   "description": "Este é um Pacote de Lembrança lacrado do Campeonato Mundial de CS2 Copenhague 2024 da PGL.",
+  "def_index": "4922",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5516,7 +5884,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Copenhagen 2024 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2024_pass_charge_png.png"
  },
  {
@@ -5524,6 +5892,7 @@
   "name": "Campeão do Copenhague 2024 da PGL",
   "code": "#CSGO_CollectibleCoin_cph2024_Champion",
   "description": "Este troféu foi entregue aos campeões do Campeonato Mundial de CS2 Copenhague 2024 da PGL.",
+  "def_index": "4933",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5539,6 +5908,7 @@
   "name": "Finalista do Copenhague 2024 da PGL",
   "code": "#CSGO_CollectibleCoin_cph2024_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato Mundial de CS2 Copenhague 2024 da PGL.",
+  "def_index": "4934",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5554,6 +5924,7 @@
   "name": "Semifinalista do Copenhague 2024 da PGL",
   "code": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato Mundial de CS2 Copenhague 2024 da PGL.",
+  "def_index": "4935",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5569,6 +5940,7 @@
   "name": "Jogador das QF do Copenhague 2024 da PGL",
   "code": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato Mundial de CS2 Copenhague 2024 da PGL.",
+  "def_index": "4936",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5584,6 +5956,7 @@
   "name": "Moeda do Mapa Thera",
   "code": "#CSGO_Collectible_MapTokenThera",
   "description": "Comemora a autoria do mapa \\\"Thera\\\" do CS2.",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5599,6 +5972,7 @@
   "name": "Moeda do Mapa Mills",
   "code": "#CSGO_Collectible_MapTokenMills",
   "description": "Comemora a autoria do mapa \\\"Mills\\\" do CS2.",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5614,6 +5988,7 @@
   "name": "Moeda do Mapa Assembly",
   "code": "#CSGO_Collectible_MapTokenAssembly",
   "description": "Comemora a autoria do mapa \\\"Assembly\\\" do CS2.",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5629,6 +6004,7 @@
   "name": "Moeda do Mapa Memento",
   "code": "#CSGO_Collectible_MapTokenMemento",
   "description": "Comemora a autoria do mapa \\\"Memento\\\" do CS2.",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5644,6 +6020,7 @@
   "name": "Moeda do Mapa Pool Day",
   "code": "#CSGO_Collectible_MapTokenPoolDay",
   "description": "Comemora a autoria do mapa \\\"Pool Day\\\" do CS2.",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5659,6 +6036,7 @@
   "name": "Medalha de Serviço de 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Concedida pelo extraordinário serviço e conquista em 2025.",
+  "def_index": "4951",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5674,6 +6052,7 @@
   "name": "Medalha de Serviço de 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Concedida pelo extraordinário serviço e conquista em 2025.",
+  "def_index": "4952",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5689,6 +6068,7 @@
   "name": "Medalha de Serviço de 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Concedida pelo extraordinário serviço e conquista em 2025.",
+  "def_index": "4953",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5704,6 +6084,7 @@
   "name": "Medalha de Serviço de 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Concedida pelo extraordinário serviço e conquista em 2025.",
+  "def_index": "4954",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5719,6 +6100,7 @@
   "name": "Medalha de Serviço de 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Concedida pelo extraordinário serviço e conquista em 2025.",
+  "def_index": "4955",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5734,6 +6116,7 @@
   "name": "Medalha de Serviço de 2025",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "Concedida pelo extraordinário serviço e conquista em 2025.",
+  "def_index": "4956",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5749,6 +6132,7 @@
   "name": "Passe de Espectador do Xangai 2024",
   "code": "#CSGO_TournamentPass_sha2024",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS2 Xangai 2024 da Perfect World. Uma vez aberto, você receberá uma moeda do Xangai 2024, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4957",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5764,6 +6148,7 @@
   "name": "Moeda do Xangai 2024",
   "code": "#CSGO_TournamentJournal_sha2024",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Xangai 2024 da Perfect World, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4958",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5779,6 +6164,7 @@
   "name": "Moeda de Prata do Xangai 2024",
   "code": "#CSGO_TournamentJournal_sha2024_Silver",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Xangai 2024 da Perfect World, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4959",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5794,6 +6180,7 @@
   "name": "Moeda de Ouro do Xangai 2024",
   "code": "#CSGO_TournamentJournal_sha2024_Gold",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Xangai 2024 da Perfect World, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4960",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5809,6 +6196,7 @@
   "name": "Moeda de Diamante do Xangai 2024",
   "code": "#CSGO_TournamentJournal_sha2024_Crystal",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Xangai 2024 da Perfect World, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "4961",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5824,6 +6212,7 @@
   "name": "Passe de Espectador do Xangai 2024 + 3 Fichas de Lembrança",
   "code": "#CSGO_TournamentPass_sha2024_pack",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS2 Xangai 2024 da Perfect World. Uma vez aberto, você receberá uma moeda do Xangai 2024, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\nEste passe ativa a sua moeda com 3 fichas de lembrança.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "4962",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5839,6 +6228,7 @@
   "name": "Pacote de Lembrança do Xangai 2024",
   "code": "#CSGO_TournamentPass_sha2024_charge",
   "description": "Este é um Pacote de Lembrança lacrado do Campeonato Mundial de CS2 Xangai 2024 da Perfect World.",
+  "def_index": "4963",
   "rarity": {
    "id": "rarity_common",
    "name": "Nível Básico",
@@ -5846,7 +6236,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Shanghai 2024 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pw_pickem_2024_pass_charge_png.png"
  },
  {
@@ -5854,6 +6244,7 @@
   "name": "Campeão do Xangai 2024 da Perfect World",
   "code": "#CSGO_CollectibleCoin_sha2024_Champion",
   "description": "Este troféu foi entregue aos campeões do Campeonato Mundial de CS2 Xangai 2024 da Perfect World.",
+  "def_index": "4974",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5869,6 +6260,7 @@
   "name": "Finalista do Xangai 2024 da Perfect World",
   "code": "#CSGO_CollectibleCoin_sha2024_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato Mundial de CS2 Xangai 2024 da Perfect World.",
+  "def_index": "4975",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5884,6 +6276,7 @@
   "name": "Semifinalista do Xangai 2024 da Perfect World",
   "code": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato Mundial de CS2 Xangai 2024 da Perfect World.",
+  "def_index": "4976",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5899,6 +6292,7 @@
   "name": "Jogador das QF do Xangai 2024 da Perfect World",
   "code": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato Mundial de CS2 Xangai 2024 da Perfect World.",
+  "def_index": "4977",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5914,6 +6308,7 @@
   "name": "Moeda do Mapa Whistle",
   "code": "#CSGO_Collectible_MapTokenWhistle",
   "description": "Comemora a autoria do mapa \\\"Whistle\\\" do CS2.",
+  "def_index": "4982",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5929,6 +6324,7 @@
   "name": "Moeda do Mapa Palais",
   "code": "#CSGO_Collectible_MapTokenPalais",
   "description": "Comemora a autoria do mapa \\\"Palais\\\" do CS2.",
+  "def_index": "4983",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5944,6 +6340,7 @@
   "name": "Moeda do Mapa Edin",
   "code": "#CSGO_Collectible_MapTokenEdin",
   "description": "Comemora a autoria do mapa \\\"Edin\\\" do CS2.",
+  "def_index": "4984",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5959,6 +6356,7 @@
   "name": "Moeda do Mapa Basalt",
   "code": "#CSGO_Collectible_MapTokenBasaltCS2",
   "description": "Comemora a autoria do mapa \\\"Basalt\\\" do CS2.",
+  "def_index": "4985",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5974,6 +6372,7 @@
   "name": "Medalha da Primeira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason1Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Primeira Temporada do modo Competitivo Especial.",
+  "def_index": "4986",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -5989,6 +6388,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4987",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6004,6 +6404,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4988",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6019,6 +6420,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4989",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6034,6 +6436,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4990",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6049,6 +6452,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4991",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6064,6 +6468,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4992",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6079,6 +6484,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4993",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6094,6 +6500,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4994",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6109,6 +6516,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4995",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6124,6 +6532,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4996",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6139,6 +6548,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4997",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6154,6 +6564,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4998",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6169,6 +6580,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "4999",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6184,6 +6596,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5000",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6199,6 +6612,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6214,6 +6628,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6229,6 +6644,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5003",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6244,6 +6660,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5004",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6259,6 +6676,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5005",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6274,6 +6692,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5006",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6289,6 +6708,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5007",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6304,6 +6724,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5008",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6319,6 +6740,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5009",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6334,6 +6756,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5010",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6349,6 +6772,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5011",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6364,6 +6788,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5012",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6379,6 +6804,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5013",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6394,6 +6820,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5014",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6409,6 +6836,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5015",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6424,6 +6852,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5016",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6439,6 +6868,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5017",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6454,6 +6884,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5018",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6469,6 +6900,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5019",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6484,6 +6916,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5020",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6499,6 +6932,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6514,6 +6948,7 @@
   "name": "Medalha da Segunda Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Segunda Temporada do modo Competitivo Especial.",
+  "def_index": "5022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6529,10 +6964,11 @@
   "name": "Passe de Espectador do Austin 2025",
   "code": "#CSGO_TournamentPass_aus2025",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv. Uma vez aberto, você receberá uma moeda do Austin 2025, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "5110",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "Nível Básico",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
@@ -6544,10 +6980,11 @@
   "name": "Moeda do Austin 2025",
   "code": "#CSGO_TournamentJournal_aus2025",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "5111",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6559,10 +6996,11 @@
   "name": "Moeda de Prata do Austin 2025",
   "code": "#CSGO_TournamentJournal_aus2025_Silver",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "5112",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6574,10 +7012,11 @@
   "name": "Moeda de Ouro do Austin 2025",
   "code": "#CSGO_TournamentJournal_aus2025_Gold",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "5113",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6589,10 +7028,11 @@
   "name": "Moeda de Diamante do Austin 2025",
   "code": "#CSGO_TournamentJournal_aus2025_Crystal",
   "description": "Esta é uma moeda comemorativa do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.",
+  "def_index": "5114",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6604,10 +7044,11 @@
   "name": "Passe de Espectador do Austin 2025 + 3 Fichas de Lembrança",
   "code": "#CSGO_TournamentPass_aus2025_pack",
   "description": "Este é um passe de espectador lacrado do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv. Uma vez aberto, você receberá uma moeda do Austin 2025, que acompanha o seu progresso durante o evento e concede acesso irrestrito ao Bolão, ícones de torcedor na Steam.tv, desafios exclusivos e grafites das equipes ilimitados durante o evento.\\n\\nAprimore a moeda ao cumprir desafios. Receba uma ficha de lembrança sempre que a moeda for aprimorada.\\n\\nEste passe ativa a sua moeda com 3 fichas de lembrança.\\n\\n50% da receita obtida com a venda desse passe será destinada às organizações participantes.",
+  "def_index": "5115",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "Nível Básico",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
@@ -6619,14 +7060,15 @@
   "name": "Pacote de Lembrança do Austin 2025",
   "code": "#CSGO_TournamentPass_aus2025_charge",
   "description": "Este é um Pacote de Lembrança lacrado do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv.",
+  "def_index": "5116",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "Nível Básico",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Austin 2025 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/aus2025_pass_charge_png.png"
  },
  {
@@ -6634,6 +7076,7 @@
   "name": "Campeão do Austin 2025 da BLAST.tv",
   "code": "#CSGO_CollectibleCoin_aus2025_Champion",
   "description": "Este troféu foi entregue aos campeões do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv.",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6649,6 +7092,7 @@
   "name": "Finalista do Austin 2025 da BLAST.tv",
   "code": "#CSGO_CollectibleCoin_aus2025_Finalist",
   "description": "Este troféu foi entregue aos finalistas do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv.",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6664,6 +7108,7 @@
   "name": "Semifinalista do Austin 2025 da BLAST.tv",
   "code": "#CSGO_CollectibleCoin_aus2025_Semifinalist",
   "description": "Este troféu foi entregue aos semifinalistas do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv.",
+  "def_index": "5129",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6679,6 +7124,7 @@
   "name": "Jogador das QF do Austin 2025 da BLAST.tv",
   "code": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist",
   "description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato Mundial de CS2 Austin 2025 da BLAST.tv.",
+  "def_index": "5130",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6694,6 +7140,7 @@
   "name": "Moeda do Mapa Agency",
   "code": "#CSGO_Collectible_MapTokenAgencyCS2",
   "description": "Comemora a autoria do mapa \\\"Agency\\\" do CS2.",
+  "def_index": "5135",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6709,6 +7156,7 @@
   "name": "Moeda do Mapa Jura",
   "code": "#CSGO_Collectible_MapTokenJura",
   "description": "Comemora a autoria do mapa \\\"Jura\\\" do CS2.",
+  "def_index": "5136",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6724,6 +7172,7 @@
   "name": "Moeda do Mapa Grail",
   "code": "#CSGO_Collectible_MapTokenGrail",
   "description": "Comemora a autoria do mapa \\\"Grail\\\" do CS2.",
+  "def_index": "5137",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6739,6 +7188,7 @@
   "name": "Moeda do Mapa Dogtown",
   "code": "#CSGO_Collectible_MapTokenDogtown",
   "description": "Comemora a autoria do mapa \\\"Dogtown\\\" do CS2.",
+  "def_index": "5138",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6754,6 +7204,7 @@
   "name": "Moeda do Mapa Brewery",
   "code": "#CSGO_Collectible_MapTokenBrewery",
   "description": "Comemora a autoria do mapa \\\"Brewery\\\" do CS2.",
+  "def_index": "5139",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6769,6 +7220,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5140",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6784,6 +7236,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5141",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6799,6 +7252,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5142",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6814,6 +7268,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5143",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6829,6 +7284,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5144",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6844,6 +7300,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5145",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6859,6 +7316,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5146",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6874,6 +7332,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5147",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6889,6 +7348,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5148",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6904,6 +7364,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5149",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6919,6 +7380,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5150",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6934,6 +7396,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5151",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6949,6 +7412,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5152",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6964,6 +7428,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5153",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6979,6 +7444,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5154",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -6994,6 +7460,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5155",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7009,6 +7476,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5156",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7024,6 +7492,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5157",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7039,6 +7508,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5158",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7054,6 +7524,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5159",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7069,6 +7540,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5160",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7084,6 +7556,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5161",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7099,6 +7572,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5162",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7114,6 +7588,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5163",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7129,6 +7604,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5164",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7144,6 +7620,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5165",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7159,6 +7636,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5166",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7174,6 +7652,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5167",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7189,6 +7668,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5168",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7204,6 +7684,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5169",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7219,6 +7700,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5170",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7234,6 +7716,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5171",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7249,6 +7732,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5172",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7264,6 +7748,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5173",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7279,6 +7764,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5174",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7294,6 +7780,7 @@
   "name": "Medalha da Terceira Temporada Especial",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "Uma medalha comemorativa do modo Especial concedida pela sua participação ativa na Terceira Temporada do modo Competitivo Especial.",
+  "def_index": "5175",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7309,6 +7796,7 @@
   "name": "Broche | Dust II Genuíno",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7324,6 +7812,7 @@
   "name": "Broche | Guardião de Elite Genuíno",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7339,6 +7828,7 @@
   "name": "Broche | Mirage Genuíno",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6003",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -7354,6 +7844,7 @@
   "name": "Broche | Inferno Genuíno",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6004",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -7369,6 +7860,7 @@
   "name": "Broche | Italy Genuíno",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6005",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7384,6 +7876,7 @@
   "name": "Broche | Vitória Genuíno",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6006",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7399,6 +7892,7 @@
   "name": "Broche | Militia Genuíno",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6007",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7414,6 +7908,7 @@
   "name": "Broche | Nuke Genuíno",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6008",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7429,6 +7924,7 @@
   "name": "Broche | Train Genuíno",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6009",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7444,6 +7940,7 @@
   "name": "Broche | Guardião Genuíno",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6010",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7459,6 +7956,7 @@
   "name": "Broche | Táticas Genuíno",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6011",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7474,6 +7972,7 @@
   "name": "Broche | Guardião II Genuíno",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6012",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7489,6 +7988,7 @@
   "name": "Broche | Bravo Genuíno",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6013",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7504,6 +8004,7 @@
   "name": "Broche | Baggage Genuíno",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6014",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7519,6 +8020,7 @@
   "name": "Broche | Fênix Genuíno",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6015",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7534,6 +8036,7 @@
   "name": "Broche | Office Genuíno",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6016",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7549,6 +8052,7 @@
   "name": "Broche | Cobblestone Genuíno",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6017",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7564,6 +8068,7 @@
   "name": "Broche | Overpass Genuíno",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6018",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7579,6 +8084,7 @@
   "name": "Broche | Cão de Caça Genuíno",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6019",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -7594,6 +8100,7 @@
   "name": "Broche | Cache Genuíno",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6020",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -7609,6 +8116,7 @@
   "name": "Broche | Fênix da Valeria Genuíno",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7624,6 +8132,7 @@
   "name": "Broche | Cromático Genuíno",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7639,6 +8148,7 @@
   "name": "Broche | Guardião III Genuíno",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6023",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7654,6 +8164,7 @@
   "name": "Broche | Canals Genuíno",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6024",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7669,6 +8180,7 @@
   "name": "Broche | Welcome to the Clutch Genuíno",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6025",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7684,6 +8196,7 @@
   "name": "Broche | Pena de Morte Genuíno",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6026",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7699,6 +8212,7 @@
   "name": "Broche | Inferno II Genuíno",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6027",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7714,6 +8228,7 @@
   "name": "Broche | Fogo Selvagem Genuíno",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6028",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7729,6 +8244,7 @@
   "name": "Broche | Limonada Genuíno",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6029",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7744,6 +8260,7 @@
   "name": "Broche | Ás de Espadas Genuíno",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6030",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -7759,6 +8276,7 @@
   "name": "Broche | Hidra Genuíno",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6031",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -7774,6 +8292,7 @@
   "name": "Broche | Uivo Genuíno",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6032",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7789,6 +8308,7 @@
   "name": "Broche | Coronel Genuíno",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6033",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7804,6 +8324,7 @@
   "name": "Broche | Alyx Genuíno",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "6034",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7819,6 +8340,7 @@
   "name": "Broche | Dust II",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6101",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7834,6 +8356,7 @@
   "name": "Broche | Guardião de Elite",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6102",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -7849,6 +8372,7 @@
   "name": "Broche | Mirage",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6103",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -7864,6 +8388,7 @@
   "name": "Broche | Inferno",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6104",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -7879,6 +8404,7 @@
   "name": "Broche | Italy",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6105",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7894,6 +8420,7 @@
   "name": "Broche | Vitória",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7909,6 +8436,7 @@
   "name": "Broche | Militia",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6107",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -7924,6 +8452,7 @@
   "name": "Broche | Nuke",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6108",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7939,6 +8468,7 @@
   "name": "Broche | Train",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6109",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7954,6 +8484,7 @@
   "name": "Broche | Guardião",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6110",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7969,6 +8500,7 @@
   "name": "Broche | Táticas",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "Este é um broche colecionável da Série 1 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6111",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7984,6 +8516,7 @@
   "name": "Broche | Guardião II",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6112",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -7999,6 +8532,7 @@
   "name": "Broche | Bravo",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6113",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -8014,6 +8548,7 @@
   "name": "Broche | Baggage",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6114",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -8029,6 +8564,7 @@
   "name": "Broche | Fênix",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6115",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -8044,6 +8580,7 @@
   "name": "Broche | Office",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -8059,6 +8596,7 @@
   "name": "Broche | Cobblestone",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6117",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -8074,6 +8612,7 @@
   "name": "Broche | Overpass",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -8089,6 +8628,7 @@
   "name": "Broche | Cão de Caça",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6119",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -8104,6 +8644,7 @@
   "name": "Broche | Cache",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6120",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -8119,6 +8660,7 @@
   "name": "Broche | Fênix da Valeria",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6121",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -8134,6 +8676,7 @@
   "name": "Broche | Cromático",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "Este é um broche colecionável da Série 2 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6122",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -8149,6 +8692,7 @@
   "name": "Broche | Guardião III",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6123",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -8164,6 +8708,7 @@
   "name": "Broche | Canals",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6124",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -8179,6 +8724,7 @@
   "name": "Broche | Welcome to the Clutch",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6125",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -8194,6 +8740,7 @@
   "name": "Broche | Pena de Morte",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6126",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -8209,6 +8756,7 @@
   "name": "Broche | Inferno II",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6127",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -8224,6 +8772,7 @@
   "name": "Broche | Fogo Selvagem",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -8239,6 +8788,7 @@
   "name": "Broche | Limonada",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6129",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -8254,6 +8804,7 @@
   "name": "Broche | Ás de Espadas",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6130",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -8269,6 +8820,7 @@
   "name": "Broche | Hidra",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6131",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -8284,6 +8836,7 @@
   "name": "Broche | Uivo",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6132",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -8299,6 +8852,7 @@
   "name": "Broche | Coronel",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "Este é um broche colecionável da Série 3 que pode ser usado para decorar o seu perfil.",
+  "def_index": "6133",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",
@@ -8314,6 +8868,7 @@
   "name": "Broche | Alyx",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "Este é um broche colecionável comemorativo do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual, que pode ser usado para decorar o seu perfil.",
+  "def_index": "6134",
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinário",

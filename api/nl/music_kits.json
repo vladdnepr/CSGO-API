@@ -4,6 +4,7 @@
   "name": "Valve, Counter-Strike 2",
   "code": "valve_cs2_01",
   "description": "De officiële muziekset van Counter-Strike 2.",
+  "def_index": "1",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -18,6 +19,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "De standaard CS:GO-muziekset, geïntroduceerd bij de lancering van CS:GO in 2012.",
+  "def_index": "2",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -32,6 +34,7 @@
   "name": "Muziekset | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Videogamecomponist Daniel Sadowski laat gekke Edgy Action gemixt met CRAZY FAT-beats horen in deze pulserende, opwindende muziekset.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -46,6 +49,7 @@
   "name": "StatTrak™-muziekset | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Videogamecomponist Daniel Sadowski laat gekke Edgy Action gemixt met CRAZY FAT-beats horen in deze pulserende, opwindende muziekset.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -60,6 +64,7 @@
   "name": "Muziekset | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "Het Nederlandse elektronische trio Noisia geeft een stoer, filmisch gevoel met een unieke mix van traditie en progressie.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -74,6 +79,7 @@
   "name": "StatTrak™-muziekset | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "Het Nederlandse elektronische trio Noisia geeft een stoer, filmisch gevoel met een unieke mix van traditie en progressie.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -88,6 +94,7 @@
   "name": "Muziekset | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Muziek om je tegenstanders te vermorzelen. Van bekroonde componist Robert Allaire.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -102,6 +109,7 @@
   "name": "StatTrak™-muziekset | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Muziek om je tegenstanders te vermorzelen. Van bekroonde componist Robert Allaire.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -116,6 +124,7 @@
   "name": "Muziekset | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "Van de componist van twee van 's werelds grootste oorlogsspellen komt nu een sonische uitrusting die je vijanden naar de poorten van de hel brengt!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -130,6 +139,7 @@
   "name": "StatTrak™-muziekset | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "Van de componist van twee van 's werelds grootste oorlogsspellen komt nu een sonische uitrusting die je vijanden naar de poorten van de hel brengt!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -144,6 +154,7 @@
   "name": "Muziekset | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "Gerenommeerd elektronisch muzikant Feed Me zet een corral-showdown uit het Wilde Westen in een moderne elektronische ruimte.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -158,6 +169,7 @@
   "name": "StatTrak™-muziekset | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "Gerenommeerd elektronisch muzikant Feed Me zet een corral-showdown uit het Wilde Westen in een moderne elektronische ruimte.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -172,6 +184,7 @@
   "name": "Muziekset | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Dit cinematische muziekpakket van spelmuziekcomponist Dren McDonald is geïnspireerd op superheld-metal en zet de 'ill' op de KILL!",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -186,6 +199,7 @@
   "name": "StatTrak™-muziekset | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Dit cinematische muziekpakket van spelmuziekcomponist Dren McDonald is geïnspireerd op superheld-metal en zet de 'ill' op de KILL!",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -200,6 +214,7 @@
   "name": "Muziekset | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "De voor Grammy's genomineerde spelcomponist Austin Wintory vraagt zich af​ waarom je zou jagen op je vijanden als je ze kunt lokken met een dodelijke, weliswaar krankzinnige tango?",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -214,6 +229,7 @@
   "name": "StatTrak™-muziekset | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "De voor Grammy's genomineerde spelcomponist Austin Wintory vraagt zich af​ waarom je zou jagen op je vijanden als je ze kunt lokken met een dodelijke, weliswaar krankzinnige tango?",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -228,6 +244,7 @@
   "name": "Muziekset | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Dompel jezelf onder in deze filmische soundtrack vol stijgende strijkers, pulserende melodieën en drijvende drums van de wereldberoemde DJ en producer Sasha.",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -242,6 +259,7 @@
   "name": "StatTrak™-muziekset | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Dompel jezelf onder in deze filmische soundtrack vol stijgende strijkers, pulserende melodieën en drijvende drums van de wereldberoemde DJ en producer Sasha.",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -256,6 +274,7 @@
   "name": "Muziekset | Skog, Metal",
   "code": "skog_01",
   "description": "Een les in agressie van metal-producent Skog.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -270,6 +289,7 @@
   "name": "StatTrak™-muziekset | Skog, Metal",
   "code": "skog_01",
   "description": "Een les in agressie van metal-producent Skog.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -284,6 +304,7 @@
   "name": "Muziekset | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "\\\"FIJNE FEESTDAGEN, **KELS!\\\"\\n -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -298,6 +319,7 @@
   "name": "StatTrak™-muziekset | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "\\\"FIJNE FEESTDAGEN, **KELS!\\\"\\n -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -312,6 +334,7 @@
   "name": "Muziekset | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Verwen je auditieve zintuigen met een verzameling van filmische, glitchy sferen en harde, kloppende ritmes van innovator en producent van elektronische muziek Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -326,6 +349,7 @@
   "name": "StatTrak™-muziekset | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Verwen je auditieve zintuigen met een verzameling van filmische, glitchy sferen en harde, kloppende ritmes van innovator en producent van elektronische muziek Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -340,6 +364,7 @@
   "name": "Muziekset | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Hak je vijanden in de pan. Overweldigende intensiteit door de met een Grammy bekroonde componist Mateo Messina.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -354,6 +379,7 @@
   "name": "StatTrak™-muziekset | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Hak je vijanden in de pan. Overweldigende intensiteit door de met een Grammy bekroonde componist Mateo Messina.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -368,6 +394,7 @@
   "name": "Muziekset | Verschillende artiesten, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Een heleboel elektronische kunstenaars leveren brute beats in dit opwindende muziekpakket van het iconische Hotline Miami.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -382,6 +409,7 @@
   "name": "StatTrak™-muziekset | Verschillende artiesten, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Een heleboel elektronische kunstenaars leveren brute beats in dit opwindende muziekpakket van het iconische Hotline Miami.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -396,6 +424,7 @@
   "name": "Muziekset | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "Componist Daniel Sadowski legt de lat een stukje hoger met agressieve elektronische beats, creatieve geluidseffecten en een opwindende, opzwepende, futuristische vibe. \\\"Waarschuwing: zal leiden tot een stijging van de adrenaline!\\\"",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -410,6 +439,7 @@
   "name": "StatTrak™-muziekset | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "Componist Daniel Sadowski legt de lat een stukje hoger met agressieve elektronische beats, creatieve geluidseffecten en een opwindende, opzwepende, futuristische vibe. \\\"Waarschuwing: zal leiden tot een stijging van de adrenaline!\\\"",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -424,6 +454,7 @@
   "name": "Muziekset | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "Componist Damjan Mravunac combineert energieke filmische grooves met epische koren in dit muziekpakket met muziek van Croteams veelgeprezen titel \\\"The Talos Principle\\\".",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -438,6 +469,7 @@
   "name": "StatTrak™-muziekset | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "Componist Damjan Mravunac combineert energieke filmische grooves met epische koren in dit muziekpakket met muziek van Croteams veelgeprezen titel \\\"The Talos Principle\\\".",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -452,6 +484,7 @@
   "name": "Muziekset | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "Russische heavy electronica-artiest PROXY brengt zijn eigen unieke zware artillerie naar CS:GO. Hybride audiobewapening samengevoegd met de beste studiotechnologie maakt deze muziekset uniek.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -466,6 +499,7 @@
   "name": "StatTrak™-muziekset | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "Russische heavy electronica-artiest PROXY brengt zijn eigen unieke zware artillerie naar CS:GO. Hybride audiobewapening samengevoegd met de beste studiotechnologie maakt deze muziekset uniek.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -480,6 +514,7 @@
   "name": "Muziekset | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Artiest en DOTA TI4-performer Ki:Theory dropt BOMMEN met deze verschroeiende set van vlijmscherpe dark electronic rock.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -494,6 +529,7 @@
   "name": "StatTrak™-muziekset | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Artiest en DOTA TI4-performer Ki:Theory dropt BOMMEN met deze verschroeiende set van vlijmscherpe dark electronic rock.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -508,6 +544,7 @@
   "name": "Muziekset | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Triomfantelijke blastophones combineren met hedendaagse Uberpulse in deze explosieve collectie door ultrabekroonde componist Troels Folmann.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -522,6 +559,7 @@
   "name": "StatTrak™-muziekset | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Triomfantelijke blastophones combineren met hedendaagse Uberpulse in deze explosieve collectie door ultrabekroonde componist Troels Folmann.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -536,6 +574,7 @@
   "name": "Muziekset | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Kelly Bailey, componist van Valve's Half-Life-serie, maakt een arsenaal aan apocalyptische muziek geïnspireerd door de donkere kant van het Half-Life-universum.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -550,6 +589,7 @@
   "name": "StatTrak™-muziekset | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Kelly Bailey, componist van Valve's Half-Life-serie, maakt een arsenaal aan apocalyptische muziek geïnspireerd door de donkere kant van het Half-Life-universum.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -564,6 +604,7 @@
   "name": "Muziekset | Skog, II-Headshot",
   "code": "skog_02",
   "description": "Metal-componist en producer Jocke Skog keert terug met een geheel nieuwe, keiharde metal-kit, waardoor de rest van de CS:GO-muzieksets schattig, warm en pluizig klinken. Ga nu, en word MVP zodat iedereen kan horen hoe geweldig je bent!",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -578,6 +619,7 @@
   "name": "StatTrak™-muziekset | Skog, II-Headshot",
   "code": "skog_02",
   "description": "Metal-componist en producer Jocke Skog keert terug met een geheel nieuwe, keiharde metal-kit, waardoor de rest van de CS:GO-muzieksets schattig, warm en pluizig klinken. Ga nu, en word MVP zodat iedereen kan horen hoe geweldig je bent!",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -592,6 +634,7 @@
   "name": "Muziekset | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski heeft de eerste 8-bit-muziekset ooit voor Counter-Strike gemaakt, met authentieke 8-bit-geluiden.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -606,6 +649,7 @@
   "name": "StatTrak™-muziekset | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski heeft de eerste 8-bit-muziekset ooit voor Counter-Strike gemaakt, met authentieke 8-bit-geluiden.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -620,6 +664,7 @@
   "name": "Muziekset | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "AWOLNATION Alternatieve rocker AWOLNATION brengt je een muziekset die de tijd doorstaat. Dit pakket zit boordevol met een eclectische mix van liedjes en bevat delen uit singles 'I Am' en multi-platina hit 'Sail'.",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -634,6 +679,7 @@
   "name": "StatTrak™-muziekset | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "AWOLNATION Alternatieve rocker AWOLNATION brengt je een muziekset die de tijd doorstaat. Dit pakket zit boordevol met een eclectische mix van liedjes en bevat delen uit singles 'I Am' en multi-platina hit 'Sail'.",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -648,6 +694,7 @@
   "name": "Muziekset | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Diamanten. Zijn voor altijd. Duik in de arpeggiotron van Mord Fustang met deze verse set grooves en sferen.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -662,6 +709,7 @@
   "name": "StatTrak™-muziekset | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Diamanten. Zijn voor altijd. Duik in de arpeggiotron van Mord Fustang met deze verse set grooves en sferen.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -676,6 +724,7 @@
   "name": "Muziekset | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross tovert epische / cinematische techno-grunge om je een echte baas te laten voelen in de strijd.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -690,6 +739,7 @@
   "name": "StatTrak™-muziekset | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross tovert epische / cinematische techno-grunge om je een echte baas te laten voelen in de strijd.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -704,6 +754,7 @@
   "name": "Muziekset | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Menging van pulserende strijkers en synths met beukende oorlogsdrums; bereid je voor op de strijd met deze donderende soundtrack van componist Ian Hultquist.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -718,6 +769,7 @@
   "name": "StatTrak™-muziekset | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Menging van pulserende strijkers en synths met beukende oorlogsdrums; bereid je voor op de strijd met deze donderende soundtrack van componist Ian Hultquist.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -732,6 +784,7 @@
   "name": "Muziekset | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Zonnige surfrock met elementen van hiphop, punk en garagepop. Blijf trouw aan jezelf en maak headshots.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -746,6 +799,7 @@
   "name": "StatTrak™-muziekset | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Zonnige surfrock met elementen van hiphop, punk en garagepop. Blijf trouw aan jezelf en maak headshots.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -760,6 +814,7 @@
   "name": "Muziekset | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Beartooth brengt een agressieve back-to-basics hardcore stomp die menigten aan het bewegen krijgt en spullen laat breken. Een perfecte soundtrack voor je no-scope scout frags. Rock tot je dood bent.",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -774,6 +829,7 @@
   "name": "StatTrak™-muziekset | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Beartooth brengt een agressieve back-to-basics hardcore stomp die menigten aan het bewegen krijgt en spullen laat breken. Een perfecte soundtrack voor je no-scope scout frags. Rock tot je dood bent.",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -788,6 +844,7 @@
   "name": "Muziekset | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Gamecomponist Lennie Moore serveert een aromatisch, pikant mengsel van Jazzy Funk. Heerlijk als het koud wordt opgediend, net zoals de lijken van je vijanden als je klaar met ze bent.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -802,6 +859,7 @@
   "name": "StatTrak™-muziekset | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Gamecomponist Lennie Moore serveert een aromatisch, pikant mengsel van Jazzy Funk. Heerlijk als het koud wordt opgediend, net zoals de lijken van je vijanden als je klaar met ze bent.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -816,6 +874,7 @@
   "name": "Muziekset | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "Ga op in het bekende geluid van de Finse producer Darudes bekende muzikale smaken en tonen. Verrijk jezelf met toegang tot een zware mix van progressieve boventonen en scores van tintelende melodische structuur van de geluidsbanken van een van de meest gerenommeerde pioniers van de dancemuziek.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -830,6 +889,7 @@
   "name": "StatTrak™-muziekset | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "Ga op in het bekende geluid van de Finse producer Darudes bekende muzikale smaken en tonen. Verrijk jezelf met toegang tot een zware mix van progressieve boventonen en scores van tintelende melodische structuur van de geluidsbanken van een van de meest gerenommeerde pioniers van de dancemuziek.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -844,6 +904,7 @@
   "name": "StatTrak™-muziekset | Beartooth, Aggressive",
   "code": "beartooth_02",
   "description": "Beartooth is terug voor ronde twee. Deze nieuwe muziekset is nog harder en agressiever. We hebben het liedje voor de beste speler extra hevig gemaakt, zodat je tegenstanders zich heel slecht voelen wanneer ze van je verliezen.",
+  "def_index": "32",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -858,6 +919,7 @@
   "name": "StatTrak™-muziekset | Blitz Kids, The Good Youth",
   "code": "blitzkids_01",
   "description": "De Britse pop-/punkband Blitz Kids brengt je de perfecte muziekset voor het bestormen van B terwijl je terugdenkt aan die nachtritjes die je op de middelbare school met je vrienden maakte. Met deze set voel je je snel en jong.",
+  "def_index": "33",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -872,6 +934,7 @@
   "name": "StatTrak™-muziekset | Hundredth, FREE",
   "code": "hundredth_01",
   "description": "Hundredth brengt heavy naar de wereld met hun unieke draai aan melodic hardcore. Breek los van je ketenen of keer terug naar Dust met deze perfecte soundtrack om de onwaardigen omver te schieten.",
+  "def_index": "34",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -886,6 +949,7 @@
   "name": "StatTrak™-muziekset | Neck Deep, Life's Not Out To Get You",
   "code": "neckdeep_01",
   "description": "Soms heb je wat punkpop nodig om je door de dag heen te helpen. Of je nou met campers afrekent of een enorme killstreak verliest, Neck Deep is er om te bewijzen dat \\\"Life's Not Out To Get You\\\". Het andere team wel.",
+  "def_index": "35",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -900,6 +964,7 @@
   "name": "StatTrak™-muziekset | Roam, Backbone",
   "code": "roam_01",
   "description": "Roam levert snelle, vanzelfsprekende punkpop die zowel het publiek als spelers in beweging krijgt. Bewijs dat je een ruggegraat hebt met deze soundtrack, die perfect is voor snelle aanvallen waarmee je het andere team uitschakelt voordat ze weten wat ze overkomt.",
+  "def_index": "36",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -914,6 +979,7 @@
   "name": "StatTrak™-muziekset | Twin Atlantic, GLA",
   "code": "twinatlantic_01",
   "description": "Heviger, lawaaieriger en luider dan ooit. Twin Atlantic komt naar CS:GO om je te helpen gezichten eraf te knallen met de vuurkracht van Schotse rock.",
+  "def_index": "37",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -928,6 +994,7 @@
   "name": "StatTrak™-muziekset | Skog, III-Arena",
   "code": "skog_03",
   "description": "Skog is terug met een derde verpletterende metalset. Deze keer heeft de muziek een electro-organische twist, waarbij het grote gitaarriffs met net zo grote drops, loops en drones combineert.",
+  "def_index": "38",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -942,6 +1009,7 @@
   "name": "Muziekset | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "The Verkkars schudden de Finse popwereld wakker met een vette ode aan ENCE. Is het echt zo EZ?",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -956,6 +1024,7 @@
   "name": "StatTrak™-muziekset | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "The Verkkars schudden de Finse popwereld wakker met een vette ode aan ENCE. Is het echt zo EZ?",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -970,6 +1039,7 @@
   "name": "Halo, The Master Chief Collection",
   "code": "halo_01",
   "description": "Kies voor een ander geluid in Counter Strike met het Master Chief Collection-muziekpakket, vol onvergetelijke muzikale momenten uit de wereld van Halo. © 2019 343 Industries. Alle rechten voorbehouden. Gebruikt met toestemming van 343 Industries. Halo: The Master Chief Collection en het Halo-logo zijn handelsmerken van de Microsoft-bedrijvengroep.",
+  "def_index": "40",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -984,6 +1054,7 @@
   "name": "Muziekset | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Scarlxrd combineert zieke beats met een flow en delivery die een genre op zich creëren. Met deze vette mix van stijlen krijgt hij bij elk optreden de handen op elkaar.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -998,6 +1069,7 @@
   "name": "StatTrak™-muziekset | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Scarlxrd combineert zieke beats met een flow en delivery die een genre op zich creëren. Met deze vette mix van stijlen krijgt hij bij elk optreden de handen op elkaar.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1012,6 +1084,7 @@
   "name": "Half-Life: Alyx, Anti-Citizen",
   "code": "hlalyx_01",
   "description": "Deze muziekset is een aandenken aan Half-Life: Alyx, waarmee Valve in VR terugkeert naar de Half-Life-serie. Jij bent de enige kans op overleving voor de mensheid en je meeslepende interacties met je omgeving worden vervolgd in Counter-Strike: Global Offensive.",
+  "def_index": "42",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1026,6 +1099,7 @@
   "name": "Muziekset | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintory mixt Keltische fantasy met sissende elektronica en een overvloedige ondersteuning van Peter Hollens' stemgeluid in deze genre-overstijgende muziekset.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1040,6 +1114,7 @@
   "name": "StatTrak™-muziekset | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintory mixt Keltische fantasy met sissende elektronica en een overvloedige ondersteuning van Peter Hollens' stemgeluid in deze genre-overstijgende muziekset.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1054,6 +1129,7 @@
   "name": "Muziekset | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "De apocalyptische mariachisoundtrack van het populaire indiespel Gunman Taco Truck is er nu voor CS:GO met intense Mexicaans gekruide deuntjes zoals Pollo Diablo en Persecución de Helltain!",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1068,6 +1144,7 @@
   "name": "StatTrak™-muziekset | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "De apocalyptische mariachisoundtrack van het populaire indiespel Gunman Taco Truck is er nu voor CS:GO met intense Mexicaans gekruide deuntjes zoals Pollo Diablo en Persecución de Helltain!",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1082,6 +1159,7 @@
   "name": "Muziekset | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "Van de componist die je 'Total Domination', 'The 8-Bit Kit' en 'Crimson Assault' bracht, verschijnt nu 'Eye Of The Dragon'. Componist Daniel Sadowski mixt ninja's plus geweren plus hiphop plus techno om zo een muziekset vol actie te creëren. <i>Ninja's staan erom bekend snel en met precisie toe te kunnen slaan, doch zijn zij onzichtbaar voor hun vijanden.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1096,6 +1174,7 @@
   "name": "StatTrak™-muziekset | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "Van de componist die je 'Total Domination', 'The 8-Bit Kit' en 'Crimson Assault' bracht, verschijnt nu 'Eye Of The Dragon'. Componist Daniel Sadowski mixt ninja's plus geweren plus hiphop plus techno om zo een muziekset vol actie te creëren. <i>Ninja's staan erom bekend snel en met precisie toe te kunnen slaan, doch zijn zij onzichtbaar voor hun vijanden.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1110,6 +1189,7 @@
   "name": "Muziekset | Tree Adams en Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Achter de krachtige chaos van M.U.D.D. FORCE schuilen Tree Adams en Ben Bromfield, die met hun alchemistische aanpak epische motieven en schurende synths samenvoegen tot een orgie van verwoesting.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1124,6 +1204,7 @@
   "name": "StatTrak™-muziekset | Tree Adams en Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Achter de krachtige chaos van M.U.D.D. FORCE schuilen Tree Adams en Ben Bromfield, die met hun alchemistische aanpak epische motieven en schurende synths samenvoegen tot een orgie van verwoesting.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1138,6 +1219,7 @@
   "name": "Muziekset | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "Componist Tim Huling levert tracks in een klassieke film-noirstijl gemengd met hedendaagse grooves en beats.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1152,6 +1234,7 @@
   "name": "StatTrak™-muziekset | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "Componist Tim Huling levert tracks in een klassieke film-noirstijl gemengd met hedendaagse grooves en beats.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1166,6 +1249,7 @@
   "name": "Muziekset | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Geïnspireerd door de funky videogamemuziek van de vroege jaren 90 heeft componist Sam Marshall wat klassieke videospelnostalgie afgetopt met een pittig modern sausje.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1180,6 +1264,7 @@
   "name": "StatTrak™-muziekset | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Geïnspireerd door de funky videogamemuziek van de vroege jaren 90 heeft componist Sam Marshall wat klassieke videospelnostalgie afgetopt met een pittig modern sausje.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1194,6 +1279,7 @@
   "name": "Muziekset | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "Componist Matt Levine levert een ruwe stijl in deze groezelige hommage aan de spaghettiwestern. Er is nog nooit een beter moment geweest om \\\"go ahead, make my day...\\\" te zeggen.",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1208,6 +1294,7 @@
   "name": "StatTrak™-muziekset | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "Componist Matt Levine levert een ruwe stijl in deze groezelige hommage aan de spaghettiwestern. Er is nog nooit een beter moment geweest om \\\"go ahead, make my day...\\\" te zeggen.",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1222,6 +1309,7 @@
   "name": "Muziekset | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "De legendarische muziekproducent Amon Tobin leent zijn unieke esthetiek uit aan CS:GO. Ditmaal met behulp van buizenversterkers.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1236,6 +1324,7 @@
   "name": "StatTrak™-muziekset | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "De legendarische muziekproducent Amon Tobin leent zijn unieke esthetiek uit aan CS:GO. Ditmaal met behulp van buizenversterkers.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1250,6 +1339,7 @@
   "name": "Darren Korb, Hades",
   "code": "hades_01",
   "description": "Natuurlijk, iedereen mist zo nu en dan wel eens een schot, maar wat nooit mis is, is deze muziekset die het bloed doet laten stromen en rechtstreeks afkomstig is uit de onderwereld van Hades, de schurkachtige dungeon-crawler van Supergiant.",
+  "def_index": "51",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1264,6 +1354,7 @@
   "name": "Muziekset | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Bewijs dat je bijzonder bent (en beter dan de rest op de map) met de nieuwe muziekset van Neck Deep, met nummers van het album All Distortions Are Intentional.",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1278,6 +1369,7 @@
   "name": "StatTrak™-muziekset | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Bewijs dat je bijzonder bent (en beter dan de rest op de map) met de nieuwe muziekset van Neck Deep, met nummers van het album All Distortions Are Intentional.",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1292,6 +1384,7 @@
   "name": "Muziekset | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "CHAIN$AW PRESENTEERT SCARLXRD OP ZIJN BEST MET EEN RAUWE FLOW EN EEN VETTE TRACK.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1306,6 +1399,7 @@
   "name": "StatTrak™-muziekset | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "CHAIN$AW PRESENTEERT SCARLXRD OP ZIJN BEST MET EEN RAUWE FLOW EN EEN VETTE TRACK.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1320,6 +1414,7 @@
   "name": "Muziekset | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Austin Wintory geeft antwoord op de vraag die de mens al eeuwenlang bezighoudt: wat gebeurt er als je polka-accordionmuziek uit biergartens combineert met grungy heavy metal?",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1334,6 +1429,7 @@
   "name": "StatTrak™-muziekset | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Austin Wintory geeft antwoord op de vraag die de mens al eeuwenlang bezighoudt: wat gebeurt er als je polka-accordionmuziek uit biergartens combineert met grungy heavy metal?",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1348,6 +1444,7 @@
   "name": "Muziekset | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Componist van gamesoundtracks en chiptunelegende Chipzel presenteert een glitchy, door Speak & Spell geïnspireerde mash-up van hybridestijlen vol fun, funk en flavour.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1362,6 +1459,7 @@
   "name": "StatTrak™-muziekset | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Componist van gamesoundtracks en chiptunelegende Chipzel presenteert een glitchy, door Speak & Spell geïnspireerde mash-up van hybridestijlen vol fun, funk en flavour.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1376,6 +1474,7 @@
   "name": "Muziekset | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Opera. 8-bitgeluiden. Analoge synthesizers. Wat wil je nog meer? Chiptune-specialist Freaky DNA en soprano Leanne Koch slaan de handen ineen voor vette beats en vrolijke noten!",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1390,6 +1489,7 @@
   "name": "StatTrak™-muziekset | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Opera. 8-bitgeluiden. Analoge synthesizers. Wat wil je nog meer? Chiptune-specialist Freaky DNA en soprano Leanne Koch slaan de handen ineen voor vette beats en vrolijke noten!",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1404,6 +1504,7 @@
   "name": "Muziekset | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "Componist Jesse Harlin levert een bombastisch space-operadrama af, geïnspireerd door klassieke sf-films uit de jaren 70, 80 en verder.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1418,6 +1519,7 @@
   "name": "Muziekset StatTrak™ | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "Componist Jesse Harlin levert een bombastisch space-operadrama af, geïnspireerd door klassieke sf-films uit de jaren 70, 80 en verder.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1432,6 +1534,7 @@
   "name": "Muziekset | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Componist van gamesoundtracks en ontwikkelaar Laura Shigihara helpt je luid en duidelijk verkondigen dat jij de MVP bent. Veel plezier met deze unieke mix van dance uit de jaren 90, retrogamemuziek en een vleugje Plants vs. Zombies.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1446,6 +1549,7 @@
   "name": "StatTrak™-muziekset | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Componist van gamesoundtracks en ontwikkelaar Laura Shigihara helpt je luid en duidelijk verkondigen dat jij de MVP bent. Veel plezier met deze unieke mix van dance uit de jaren 90, retrogamemuziek en een vleugje Plants vs. Zombies.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1460,6 +1564,7 @@
   "name": "Muziekset | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Sarah Schachner presenteert een dystopisch koor van zelfbewuste Scandinavische robots die hebben besloten dat de mensheid moet worden uitgeroeid.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1474,6 +1579,7 @@
   "name": "StatTrak™-muziekset | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Sarah Schachner presenteert een dystopisch koor van zelfbewuste Scandinavische robots die hebben besloten dat de mensheid moet worden uitgeroeid.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1488,6 +1594,7 @@
   "name": "Muziekset | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "bbno$ presenteert hét nummer voor toxic gamers: u mad! Ben je niet goed? LOL get good. Uit onderzoek blijkt dat je meteen van zilver naar de mondiale elite stijgt met deze muziekset.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1502,6 +1609,7 @@
   "name": "StatTrak™-muziekset | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "bbno$ presenteert hét nummer voor toxic gamers: u mad! Ben je niet goed? LOL get good. Uit onderzoek blijkt dat je meteen van zilver naar de mondiale elite stijgt met deze muziekset.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1516,6 +1624,7 @@
   "name": "Muziekset | The Verkkars & n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Counter-Strike-legenden n0thing en The Verkkars hebben hun krachten gebundeld om een keiharde knaller te maken, van zonnig Californië tot ijskoud Lapland: Flashbang Dance! 3, 2, 1, wie niet weg is kan niets meer zien!",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1530,6 +1639,7 @@
   "name": "StatTrak™-muziekset | The Verkkars & n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Counter-Strike-legenden n0thing en The Verkkars hebben hun krachten gebundeld om een keiharde knaller te maken, van zonnig Californië tot ijskoud Lapland: Flashbang Dance! 3, 2, 1, wie niet weg is kan niets meer zien!",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1544,6 +1654,7 @@
   "name": "Muziekset | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Kom je nog maar net kijken of doe je het ongewild rustig aan? Deze set bevat het typische synthgeluid van de jaren 80 en neemt je mee op een nostalgische toer naar de goeie ouwe tijd.",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1558,6 +1669,7 @@
   "name": "StatTrak™-muziekset | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Kom je nog maar net kijken of doe je het ongewild rustig aan? Deze set bevat het typische synthgeluid van de jaren 80 en neemt je mee op een nostalgische toer naar de goeie ouwe tijd.",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1572,6 +1684,7 @@
   "name": "Muziekset | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "De Zweedse band Humanity's Last Breath meldt zich met de heftige muziekset Void, vol loodzware drums, kolossale riffs en een huiveringwekkende sfeer.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1586,6 +1699,7 @@
   "name": "StatTrak™-muziekset | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "De Zweedse band Humanity's Last Breath meldt zich met de heftige muziekset Void, vol loodzware drums, kolossale riffs en een huiveringwekkende sfeer.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1600,6 +1714,7 @@
   "name": "Muziekset | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Neo-trap-synths, rauwe 808's, een epische pianomelodie en een eindeloze lading geweerschoteffecten. De OG-trap-hit Shooters van Juelz levert een unieke muziekset op. Alleen geschikt voor MVP's.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1614,6 +1729,7 @@
   "name": "StatTrak™-muziekset | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Neo-trap-synths, rauwe 808's, een epische pianomelodie en een eindeloze lading geweerschoteffecten. De OG-trap-hit Shooters van Juelz levert een unieke muziekset op. Alleen geschikt voor MVP's.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1628,6 +1744,7 @@
   "name": "Muziekset | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "dashstar*, de iconische basshouse-hit van Knock2, geeft je eindeloos veel energie, volledig in lijn met het mantra van de jonge muzikant uit San Diego: 'geen grenzen'.",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1642,6 +1759,7 @@
   "name": "StatTrak™-muziekset | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "dashstar*, de iconische basshouse-hit van Knock2, geeft je eindeloos veel energie, volledig in lijn met het mantra van de jonge muzikant uit San Diego: 'geen grenzen'.",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1656,6 +1774,7 @@
   "name": "Muziekset | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Pak je Glock en gebruik deze muziekset om af te reizen naar het middelpunt van de alternatieve hiphop in New York.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1670,6 +1789,7 @@
   "name": "StatTrak™-muziekset | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Pak je Glock en gebruik deze muziekset om af te reizen naar het middelpunt van de alternatieve hiphop in New York.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1684,6 +1804,7 @@
   "name": "Muziekset | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Gek op achtervolgingen? Gek op de jacht? Hardrock, metal en dubstep komen samen in Sullivan Kings soundtrack voor onoverwinnelijkheid.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1698,6 +1819,7 @@
   "name": "StatTrak™-muziekset | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Gek op achtervolgingen? Gek op de jacht? Hardrock, metal en dubstep komen samen in Sullivan Kings soundtrack voor onoverwinnelijkheid.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1712,6 +1834,7 @@
   "name": "Muziekset | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "Vier de vijfde verjaardag van CS:GO in China met een unieke muziekset: 花脸 Hua Lian (Painted Face). Deze set combineert Jing-opera (de vroegste versie van rock-'n'-roll op z'n Chinees) en moderne rock-'n'-roll. Maar verdwaal niet in de rook of door de flashbangs!",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1726,6 +1849,7 @@
   "name": "StatTrak™-muziekset | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "Vier de vijfde verjaardag van CS:GO in China met een unieke muziekset: 花脸 Hua Lian (Painted Face). Deze set combineert Jing-opera (de vroegste versie van rock-'n'-roll op z'n Chinees) en moderne rock-'n'-roll. Maar verdwaal niet in de rook of door de flashbangs!",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1740,6 +1864,7 @@
   "name": "Muziekset | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Denzel brengt zijn kenmerkende energie naar CS:GO met een mengeling van trap, jazz en drum-'n-bass. Deze set bevat Denzels hits 'Walkin', 'ULTIMATE' en meer, dus haal je verchroomde beretta's uit de kast en zet het volume op elf met de ULTIMATE-muziekset.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1754,6 +1879,7 @@
   "name": "StatTrak™-muziekset | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Denzel brengt zijn kenmerkende energie naar CS:GO met een mengeling van trap, jazz en drum-'n-bass. Deze set bevat Denzels hits 'Walkin', 'ULTIMATE' en meer, dus haal je verchroomde beretta's uit de kast en zet het volume op elf met de ULTIMATE-muziekset.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1768,6 +1894,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "De standaard CS:GO-muziekset, geïntroduceerd bij de lancering van CS:GO in 2012.",
+  "def_index": "70",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1782,6 +1909,7 @@
   "name": "Muziekset | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "Feel the power. Moeten we er meer woorden aan vuilmaken? Laat je wegdragen op deze energierijke electro-muziekset van DRYDEN.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1796,6 +1924,7 @@
   "name": "StatTrak™-muziekset | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "Feel the power. Moeten we er meer woorden aan vuilmaken? Laat je wegdragen op deze energierijke electro-muziekset van DRYDEN.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1810,6 +1939,7 @@
   "name": "Muziekset | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "Speciaal gemaakt voor de potjes waarbij je je ... <i>anders</i> voelt. Verras je vijanden ronde na ronde met de 'onmenselijke' muziekset van ISOxo.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1824,6 +1954,7 @@
   "name": "StatTrak™-muziekset | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "Speciaal gemaakt voor de potjes waarbij je je ... <i>anders</i> voelt. Verras je vijanden ronde na ronde met de 'onmenselijke' muziekset van ISOxo.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1838,6 +1969,7 @@
   "name": "Muziekset | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "Ben je een minnaar of een vechter? Misschien wel allebei? Laat het de hele lobby weten met muziekset All Night van KILL SCRIPT.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1852,6 +1984,7 @@
   "name": "StatTrak™-muziekset | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "Ben je een minnaar of een vechter? Misschien wel allebei? Laat het de hele lobby weten met muziekset All Night van KILL SCRIPT.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1866,6 +1999,7 @@
   "name": "Muziekset | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "Voor spelers die elke wedstrijd behandelen alsof het een grote finale is, zelfs als er maar een paar honderd punten op het spel staan. Haal de energie en de overwinningen binnen met de tweede muziekset van Knock2, 'Make U SWEAT!'",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1880,6 +2014,7 @@
   "name": "StatTrak™-muziekset | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "Voor spelers die elke wedstrijd behandelen alsof het een grote finale is, zelfs als er maar een paar honderd punten op het spel staan. Haal de energie en de overwinningen binnen met de tweede muziekset van Knock2, 'Make U SWEAT!'",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1894,6 +2029,7 @@
   "name": "Muziekset | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "Soms is het onschadelijk maken van de bom voldoende om de beste speler van de ronde te worden. Vier elk moment, groot of klein, met de muziekset 'Reason' van Rad Cat.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1908,6 +2044,7 @@
   "name": "StatTrak™-muziekset | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "Soms is het onschadelijk maken van de bom voldoende om de beste speler van de ronde te worden. Vier elk moment, groot of klein, met de muziekset 'Reason' van Rad Cat.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1922,6 +2059,7 @@
   "name": "Muziekset | TWERL en Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "Er is geen beter moment om te stralen dan wanneer je in de schijnwerpers staat. Laat het drum-and-bass-anthem 'Under Bright Lights' van TWERL en Ekko & Sidetrack jou en je team naar nieuwe hoogten brengen.",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1936,6 +2074,7 @@
   "name": "StatTrak™-muziekset | TWERL en Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "Er is geen beter moment om te stralen dan wanneer je in de schijnwerpers staat. Laat het drum-and-bass-anthem 'Under Bright Lights' van TWERL en Ekko & Sidetrack jou en je team naar nieuwe hoogten brengen.",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1950,6 +2089,7 @@
   "name": "Muziekset | Austin Wintory, The Devil Went Clubbing In Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory sluit een pact met de duivel en combineert helse vioolmuziek met een EDM-clubsfeer.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1964,6 +2104,7 @@
   "name": "StatTrak™-muziekset | Austin Wintory, The Devil Went Clubbing In Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory sluit een pact met de duivel en combineert helse vioolmuziek met een EDM-clubsfeer.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1978,6 +2119,7 @@
   "name": "Muziekset | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Je bent bedrogen! Ervaar deze spannende, broeierig intense, door jazz geïnspireerde soundtrack van film- en tv-componist Ben Bromfield en ontdek waar je dit allemaal naartoe kan leiden ...",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -1992,6 +2134,7 @@
   "name": "StatTrak™-muziekset | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Je bent bedrogen! Ervaar deze spannende, broeierig intense, door jazz geïnspireerde soundtrack van film- en tv-componist Ben Bromfield en ontdek waar je dit allemaal naartoe kan leiden ...",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2006,6 +2149,7 @@
   "name": "Muziekset | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski nodigt spelers uit om de wereld van 'Dead Shot' te betreden, een hybride mix van actie, hiphop, orkestmuziek, electro, retro, emotie en sounddesign. Kun je je hoofd hierbij helder houden?",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2020,6 +2164,7 @@
   "name": "StatTrak™-muziekset | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski nodigt spelers uit om de wereld van 'Dead Shot' te betreden, een hybride mix van actie, hiphop, orkestmuziek, electro, retro, emotie en sounddesign. Kun je je hoofd hierbij helder houden?",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2034,6 +2179,7 @@
   "name": "Muziekset | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "Cafeïne is goed voor je. Het is goed voor iedereen, behalve voor je vijand. 'Coffee! Kofe! Kahveh!' is balkanmuziek, een straatfeest met blaasinstrumenten van Dren McDonald ('Gunman Taco Truck' en 'Death’s Head Demolition'), live opgenomen in Balkancisco!",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2048,6 +2194,7 @@
   "name": "StatTrak™-Muziekset | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "Cafeïne is goed voor je. Het is goed voor iedereen, behalve voor je vijand. 'Coffee! Kofe! Kahveh!' is balkanmuziek, een straatfeest met blaasinstrumenten van Dren McDonald ('Gunman Taco Truck' en 'Death’s Head Demolition'), live opgenomen in Balkancisco!",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2062,6 +2209,7 @@
   "name": "Muziekset | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "Betreed de gevaarlijke wereld van spionage met de 'Agency'-muziekset van componist Matt Levine.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2076,6 +2224,7 @@
   "name": "StatTrak™- Muziekset | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "Betreed de gevaarlijke wereld van spionage met de 'Agency'-muziekset van componist Matt Levine.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2090,6 +2239,7 @@
   "name": "Muziekset | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "'Clutch', het niet-goedgekeurde vervolg op 'Bodacious', is een koortsdroom vol cyberfunk, een gruwel die werd gereanimeerd door Sam Marshall door middel van alchemie en geheimzinnige rituelen.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2104,6 +2254,7 @@
   "name": "StatTrak™-muziekset | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "'Clutch', het niet-goedgekeurde vervolg op 'Bodacious', is een koortsdroom vol cyberfunk, een gruwel die werd gereanimeerd door Sam Marshall door middel van alchemie en geheimzinnige rituelen.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2118,6 +2269,7 @@
   "name": "Muziekset | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Luister voor een extra adrenalinekick naar 'Devil's Paintbrush' van Tim Huling, een groove-metal-ervaring met een hoog energiegehalte.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2132,6 +2284,7 @@
   "name": "StatTrak™-muziekset | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Luister voor een extra adrenalinekick naar 'Devil's Paintbrush' van Tim Huling, een groove-metal-ervaring met een hoog energiegehalte.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2146,6 +2299,7 @@
   "name": "Muziekset | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "Hier op 'Seventh Moon' zorgt Tree Adams voor een vette mix van intergalactische funk en krachtige strijdmuziek.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2160,6 +2314,7 @@
   "name": "StatTrak™-muziekset | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "Hier op 'Seventh Moon' zorgt Tree Adams voor een vette mix van intergalactische funk en krachtige strijdmuziek.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2174,6 +2329,7 @@
   "name": "Muziekset | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "'Ay Hey' combineert traditionele Chinese volksmuziek met elektronische muziek en biedt spelers van verschillende leeftijden en achtergronden zo een meeslepende ervaring vol energieke beats. Het levendige ritme doet niet onder voor het enthousiasme van de spelers en geeft de humor en speelsheid van de verschillende gevechtsscènes goed weer.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2188,6 +2344,7 @@
   "name": "StatTrak™-muziekset | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "'Ay Hey' combineert traditionele Chinese volksmuziek met elektronische muziek en biedt spelers van verschillende leeftijden en achtergronden zo een meeslepende ervaring vol energieke beats. Het levendige ritme doet niet onder voor het enthousiasme van de spelers en geeft de humor en speelsheid van de verschillende gevechtsscènes goed weer.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2202,6 +2359,7 @@
   "name": "Muziekset | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "De Zweedse technolegende Adam Beyer bezorgt je een dromerige muziekset waarmee je de levels op de beat een bloederig rood kunt verven.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2216,6 +2374,7 @@
   "name": "StatTrak™-muziekset | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "De Zweedse technolegende Adam Beyer bezorgt je een dromerige muziekset waarmee je de levels op de beat een bloederig rood kunt verven.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2230,6 +2389,7 @@
   "name": "Muziekset | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "BERICHT UIT DE GEESTELIJKE WERELD — Papa V Perpetua daalt neer in Counter-Strike in een overweldigend heavymetalspektakel. Laat het onheilige vuurtje oplaaien en ontsnap voor even aan je dagelijkse sleur.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2244,6 +2404,7 @@
   "name": "StatTrak™-muziekset | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "BERICHT UIT DE GEESTELIJKE WERELD — Papa V Perpetua daalt neer in Counter-Strike in een overweldigend heavymetalspektakel. Laat het onheilige vuurtje oplaaien en ontsnap voor even aan je dagelijkse sleur.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2258,6 +2419,7 @@
   "name": "Muziekset | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Maak HEALTH mee in Counter-Strike. Laad je wapens en ga hard op de brute, meedogenloze sound van industrial metal op RAT WARS.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2272,6 +2434,7 @@
   "name": "StatTrak™-muziekset | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Maak HEALTH mee in Counter-Strike. Laad je wapens en ga hard op de brute, meedogenloze sound van industrial metal op RAT WARS.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2286,6 +2449,7 @@
   "name": "Muziekset | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "James and the Cold Gun, een rockduo uit Wales, staat garant voor pure, ongefilterde energie. Deze heerlijke muziekset bevat elementen van klassieke punk en moderne altrock.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2300,6 +2464,7 @@
   "name": "StatTrak™-muziekset | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "James and the Cold Gun, een rockduo uit Wales, staat garant voor pure, ongefilterde energie. Deze heerlijke muziekset bevat elementen van klassieke punk en moderne altrock.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2314,6 +2479,7 @@
   "name": "Muziekset | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Powermetal en ruimtepiraten, dat ontbrak er nog aan. Ga aan boord van Starship Velociraptor en laat je meevoeren op het geluid van Jonathan Youngs door anime en games geïnspireerde album om je wedstrijden naar een hoger niveau te tillen.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2328,6 +2494,7 @@
   "name": "StatTrak™-muziekset | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Powermetal en ruimtepiraten, dat ontbrak er nog aan. Ga aan boord van Starship Velociraptor en laat je meevoeren op het geluid van Jonathan Youngs door anime en games geïnspireerde album om je wedstrijden naar een hoger niveau te tillen.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2342,6 +2509,7 @@
   "name": "Muziekset | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Toe aan wat four-to-the-floor? Dan zit je gebakken met deze vette muziekset van Floorspace, het debuutalbum van Juelz vol neo-ravesynths, grimmige baslijnen en snoeiharde kickdrums. Speciaal voor Counter-Strike 2 is Floorspace flink onder handen genomen, en op de MVP-hit Gossip kun je niet anders dan een ledmuur opbouwen — om die vervolgens weer te laten instorten.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2356,6 +2524,7 @@
   "name": "StatTrak™-muziekset | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Toe aan wat four-to-the-floor? Dan zit je gebakken met deze vette muziekset van Floorspace, het debuutalbum van Juelz vol neo-ravesynths, grimmige baslijnen en snoeiharde kickdrums. Speciaal voor Counter-Strike 2 is Floorspace flink onder handen genomen, en op de MVP-hit Gossip kun je niet anders dan een ledmuur opbouwen — om die vervolgens weer te laten instorten.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2370,6 +2539,7 @@
   "name": "Muziekset | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Verrijk de wereld van Counter-Strike met een hiphopalbum dat 3 GRAMMY Awards won. Killer Mike houdt je altijd op koers om beter en beter te worden en de ranglijsten te bestormen.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2384,6 +2554,7 @@
   "name": "StatTrak™-muziekset | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Verrijk de wereld van Counter-Strike met een hiphopalbum dat 3 GRAMMY Awards won. Killer Mike houdt je altijd op koers om beter en beter te worden en de ranglijsten te bestormen.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2398,6 +2569,7 @@
   "name": "Muziekset | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "Wat hebben we nog liever dan een goede vijand? Een goede soundtrack. Met de nieuwe PVRIS-muziekset zet je je team op scherp en reken je met elke vijand af alsof het een groentje is.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2412,6 +2584,7 @@
   "name": "StatTrak™-muziekset | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "Wat hebben we nog liever dan een goede vijand? Een goede soundtrack. Met de nieuwe PVRIS-muziekset zet je je team op scherp en reken je met elke vijand af alsof het een groentje is.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2426,6 +2599,7 @@
   "name": "Muziekset | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Ga helemaal op in deze dynamische, intense muziekset van het Amerikaanse techno-icoon Selective Response. Laad je op, zodat je er weer tegenaan kunt.",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2440,6 +2614,7 @@
   "name": "StatTrak™-muziekset | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Ga helemaal op in deze dynamische, intense muziekset van het Amerikaanse techno-icoon Selective Response. Laad je op, zodat je er weer tegenaan kunt.",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2454,6 +2629,7 @@
   "name": "Muziekset | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "De Britse rockband Tigercub staat bekend om zijn grimmige, maar melodieuze sound. Deze muziekset bevat de intensiteit van altrock met een somber, modern randje.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",
@@ -2468,6 +2644,7 @@
   "name": "StatTrak™-muziekset | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "De Britse rockband Tigercub staat bekend om zijn grimmige, maar melodieuze sound. Deze muziekset bevat de intensiteit van altrock met een somber, modern randje.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "Hoogwaardig",

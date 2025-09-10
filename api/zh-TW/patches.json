@@ -4,6 +4,7 @@
   "name": "布章 | 瘋狂香蕉",
   "code": "patch_banana",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>幹員比例尺</i>",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -17,6 +18,7 @@
   "name": "布章 | 老大",
   "code": "patch_boss",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>要戴上皇冠，必須擔得起其重量</i>",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -30,6 +32,7 @@
   "name": "布章 | 咕咕雞愛好者",
   "code": "patch_chickenlover",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>感謝您饒過牠們</i>",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -43,6 +46,7 @@
   "name": "布章 | 歡迎來倒胃",
   "code": "patch_clutch",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>對配戴上此布章的幹員來說，一打四也不算什麼</i>",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -56,6 +60,7 @@
   "name": "布章 | 龍",
   "code": "patch_dragon",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章呈現了龍雙持經典 AK-47 的圖樣</i>",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -69,6 +74,7 @@
   "name": "布章 | 擠檸檬般簡單",
   "code": "patch_easypeasy",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章不知道怎麼通過品管的，上頭的字拼錯了</i>",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -82,6 +88,7 @@
   "name": "布章 | 狂怒",
   "code": "patch_fury",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>一塊象徵憤怒、氣憤，或狂怒的布章</i>",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -95,6 +102,7 @@
   "name": "布章 | 咆嚎",
   "code": "patch_howl",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章配得起那紅、橙、金的配色</i>",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -108,6 +116,7 @@
   "name": "布章 | 錦鯉",
   "code": "patch_koi",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章呈現了兩隻錦鯉游於藍色漩流之上的圖樣</i>",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -121,6 +130,7 @@
   "name": "布章 | 剪紙GO",
   "code": "patch_longevity",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊紅白配色的布章呈現了將字體藝術化的「CS:GO」標誌</i>",
+  "def_index": "4559",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -134,6 +144,7 @@
   "name": "布章 | 野火",
   "code": "patch_wildfire",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2016 年 2 月 17 日啟動的《野火行動》之標誌</i>",
+  "def_index": "4560",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -147,6 +158,7 @@
   "name": "布章 | 高度警戒",
   "code": "patch_vigilance",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>給潛行者使用的布章；潛行者是時時保持戒備的隊友</i>",
+  "def_index": "4561",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -160,6 +172,7 @@
   "name": "布章 | 獵犬",
   "code": "patch_bloodhound",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2015 年 5 月 26 日啟動的《獵犬行動》之標誌</i>",
+  "def_index": "4562",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -173,6 +186,7 @@
   "name": "布章 | Bravo",
   "code": "patch_bravo",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2013 年 9 月 19 日啟動的《Bravo 行動》之標誌</i>",
+  "def_index": "4563",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -186,6 +200,7 @@
   "name": "布章 | 突圍",
   "code": "patch_breakout",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2014 年 7 月 1 日啟動的《突圍行動》之標誌</i>",
+  "def_index": "4564",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -199,6 +214,7 @@
   "name": "布章 | 危險區域",
   "code": "patch_dangerzone",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2018 年 12 月 6 日啟動的《危險區域》之標誌</i>",
+  "def_index": "4565",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -212,6 +228,7 @@
   "name": "布章 | 九頭蛇",
   "code": "patch_hydra",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2017 年 5 月 23 日啟動的《九頭蛇行動》之標誌</i>",
+  "def_index": "4566",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -225,6 +242,7 @@
   "name": "布章 | 回饋",
   "code": "patch_payback",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2013 年 4 月 25 日啟動的《回饋行動》之標誌</i>",
+  "def_index": "4567",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -238,6 +256,7 @@
   "name": "布章 | 鳳凰",
   "code": "patch_phoenix",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2014 年 2 月 20 日啟動的《鳳凰行動》之標誌</i>",
+  "def_index": "4568",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -251,6 +270,7 @@
   "name": "布章 | 《裂網行動》",
   "code": "patch_shatteredweb",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2019 年 11 月 18 日啟動的《裂網行動》之標誌</i>",
+  "def_index": "4569",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -264,6 +284,7 @@
   "name": "布章 | 先鋒",
   "code": "patch_vanguard",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章繡有於 2014 年 11 月 11 日啟動的《先鋒行動》之標誌</i>",
+  "def_index": "4570",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -277,6 +298,7 @@
   "name": "布章 | 金屬樂團風白銀",
   "code": "patch_silver",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊布章適合剛出發邁向全球菁英之路的人。</i>",
+  "def_index": "4571",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -290,6 +312,7 @@
   "name": "布章 | 金屬樂團風黃金之星 - I",
   "code": "patch_goldnova1",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>成功從白銀晉級了？不過距離終點還很遠。</i>",
+  "def_index": "4572",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -303,6 +326,7 @@
   "name": "布章 | 金屬樂團風黃金之星 - 大師",
   "code": "patch_goldnovamaster",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>以為脫離白銀級別已經夠難了是吧……</i>",
+  "def_index": "4575",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -316,6 +340,7 @@
   "name": "布章 | 金屬樂團風大師守護者 - I",
   "code": "patch_masterguardian1",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>脫離黃金之星了？很好，你在逐漸進步。</i>",
+  "def_index": "4576",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -329,6 +354,7 @@
   "name": "布章 | 金屬樂團風大師守護者 - 菁英",
   "code": "patch_masterguardianelite",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>行家打造，這塊大師守護者 - 菁英布章上的銀色絲線閃耀於海軍藍的底布之上。</i>",
+  "def_index": "4578",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -342,6 +368,7 @@
   "name": "布章 | 金屬樂團風大師守護者 - 卓越 ★",
   "code": "patch_dmg",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>人人都必須放低姿態、順應環境、同心協力才能到達大師守護者 - 卓越技術組的要求。精益求精。</i>",
+  "def_index": "4579",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -355,6 +382,7 @@
   "name": "布章 | 金屬樂團風傳奇之鷹 - 大師 ★",
   "code": "patch_legendaryeaglemaster",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>離頂端已經不遠，但前方等著你的挑戰絕對凶險萬分。</i>",
+  "def_index": "4581",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -368,6 +396,7 @@
   "name": "布章 | 金屬樂團風至高首席大師",
   "code": "patch_supreme",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊首席布章有著以紅藍點綴的心型地球圖案。</i>",
+  "def_index": "4582",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -381,6 +410,7 @@
   "name": "布章 | 金屬樂團風全球菁英 ★",
   "code": "patch_globalelite",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>恭喜你走到了這一步。現在真正的挑戰正要開始。</i>",
+  "def_index": "4583",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -394,6 +424,7 @@
   "name": "布章 | 金屬樂團風大師守護者 - 卓越",
   "code": "patch_dmg2",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>人人都必須放低姿態、順應環境、同心協力才能到達大師守護者 - 卓越技術組的要求。精益求精。</i>",
+  "def_index": "4584",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -407,6 +438,7 @@
   "name": "布章 | 金屬樂團風傳奇之鷹",
   "code": "patch_legendaryeagle2",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>這塊傳奇之鷹布章上有一對黃金之翼。</i>",
+  "def_index": "4585",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -420,6 +452,7 @@
   "name": "布章 | 金屬樂團風傳奇之鷹 - 大師",
   "code": "patch_legendaryeaglemaster2",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>離頂端已經不遠，但前方等著你的挑戰絕對凶險萬分。</i>",
+  "def_index": "4586",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -433,6 +466,7 @@
   "name": "布章 | 金屬樂團風白銀惡魔",
   "code": "patch_silver_demon",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>「銀牌地獄」不是一個位置，而是一種心態，並且隨時都能脫離。</i>",
+  "def_index": "4587",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -446,6 +480,7 @@
   "name": "布章 | 金屬樂團風至高大師",
   "code": "patch_suprememaster",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>一塊有六顆星星圍繞，中間為具羽翼的拆彈工具的至高首席大師布章。</i>",
+  "def_index": "4588",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -459,6 +494,7 @@
   "name": "布章 | 艾莉克絲",
   "code": "patch_hlalyx_alyx",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4589",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -472,6 +508,7 @@
   "name": "布章 | 營養品！",
   "code": "patch_hlalyx_headcrab_green",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4591",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -485,6 +522,7 @@
   "name": "布章 | 弗地崗人",
   "code": "patch_hlalyx_vort",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4592",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -498,6 +536,7 @@
   "name": "布章 | 食腦蟲浮雕",
   "code": "patch_hlalyx_headcrab_teal",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4593",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -511,6 +550,7 @@
   "name": "布章 | 銅 λ 符號",
   "code": "patch_hlalyx_lambda_copper",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4594",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -524,6 +564,7 @@
   "name": "布章 | 生命值",
   "code": "patch_hlalyx_hearts",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4595",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -537,6 +578,7 @@
   "name": "布章 | 合成人頭盔",
   "code": "patch_hlalyx_combine_front",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4596",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -550,6 +592,7 @@
   "name": "布章 | 黑色高地",
   "code": "patch_hlalyx_blackmesa",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4597",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -563,6 +606,7 @@
   "name": "布章 | CMB",
   "code": "patch_hlalyx_cmb",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4598",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -576,6 +620,7 @@
   "name": "布章 | λ 符號",
   "code": "patch_hlalyx_lambda_orange",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4599",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -589,6 +634,7 @@
   "name": "布章 | 17 號城",
   "code": "patch_hlalyx_c17",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br>《戰慄時空：艾莉克絲》紀念布章",
+  "def_index": "4600",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -602,6 +648,7 @@
   "name": "布章 | 金屬樂團風全球菁英",
   "code": "patch_globalelite2",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>恭喜你走到了這一步。現在真正的挑戰正要開始。</i>",
+  "def_index": "4697",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -615,6 +662,7 @@
   "name": "布章 | 金屬樂團風大師守護者",
   "code": "patch_masterguardian3",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>脫離黃金之星了？很好，你在逐漸進步。</i>",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -628,6 +676,7 @@
   "name": "布章 | 金屬樂團風黃金之星",
   "code": "patch_goldnova4",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>成功從白銀晉級了？不過距離終點還很遠。</i>",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -641,6 +690,7 @@
   "name": "布章 | 放棄希望",
   "code": "patch_op11_abandon_hope",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>敢進來的都會...</i>",
+  "def_index": "4937",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -654,6 +704,7 @@
   "name": "布章 | 下錨",
   "code": "patch_op11_anchor",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>在風浪中屹立不搖...</i>",
+  "def_index": "4938",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -667,6 +718,7 @@
   "name": "布章 | 巡弋魟",
   "code": "patch_op11_cruising",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>浪間滑行...</i>",
+  "def_index": "4939",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -680,6 +732,7 @@
   "name": "布章 | 刺刀青蛙",
   "code": "patch_op11_frog_skeleton",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>掛點之前絕不放棄...</i>",
+  "def_index": "4940",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -693,6 +746,7 @@
   "name": "布章 | 瘋狂壽司",
   "code": "patch_op11_mad_sushi",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>殺敵包在我身上！</i>",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -706,6 +760,7 @@
   "name": "布章 | 大王烏賊",
   "code": "patch_op11_pink_squid",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>把獵物拖入深淵...</i>",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -719,6 +774,7 @@
   "name": "布章 | 海盜",
   "code": "patch_op11_piranha",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>一人一口，屍骨無存...</i>",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -732,6 +788,7 @@
   "name": "布章 | 死神來自海底",
   "code": "patch_op11_siren",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>上面的注意了...</i>",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -745,6 +802,7 @@
   "name": "布章 | 死無對證",
   "code": "patch_op11_skull_crossswords",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>世界通行的危險符號...</i>",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -758,6 +816,7 @@
   "name": "布章 | 日落餘波",
   "code": "patch_op11_sunset_wave",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>汪洋中的新一日...</i>",
+  "def_index": "4946",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -771,6 +830,7 @@
   "name": "布章 | 水中攻勢",
   "code": "patch_op11_fish_go",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>魚群出擊</i>",
+  "def_index": "4947",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -784,6 +844,7 @@
   "name": "布章 | 上古之神",
   "code": "patch_op11_cthulhu",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>克蘇魯稱賞能拆除炸彈的人...</i>",
+  "def_index": "4948",
   "rarity": {
    "id": "rarity_legendary",
    "name": "特製",
@@ -797,6 +858,7 @@
   "name": "布章 | 吃飯時間",
   "code": "patch_op11_meal_time",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。<br><br><i>來點勝利當午餐...</i>",
+  "def_index": "4949",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -810,6 +872,7 @@
   "name": "布章 | Ninjas in Pyjamas | Stockholm 2021",
   "code": "stockh2021_teampatch_nip",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5079",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -823,6 +886,7 @@
   "name": "布章 | Ninjas in Pyjamas（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_nip_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5080",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -836,6 +900,7 @@
   "name": "布章 | FURIA | Stockholm 2021",
   "code": "stockh2021_teampatch_furi",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5081",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -849,6 +914,7 @@
   "name": "布章 | FURIA（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_furi_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5082",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -862,6 +928,7 @@
   "name": "布章 | Natus Vincere | Stockholm 2021",
   "code": "stockh2021_teampatch_navi",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5083",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -875,6 +942,7 @@
   "name": "布章 | Natus Vincere（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_navi_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5084",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -888,6 +956,7 @@
   "name": "布章 | Vitality | Stockholm 2021",
   "code": "stockh2021_teampatch_vita",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5085",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -901,6 +970,7 @@
   "name": "布章 | Vitality（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_vita_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5086",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -914,6 +984,7 @@
   "name": "布章 | Team Liquid | Stockholm 2021",
   "code": "stockh2021_teampatch_liq",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5087",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -927,6 +998,7 @@
   "name": "布章 | Team Liquid（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_liq_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5088",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -940,6 +1012,7 @@
   "name": "布章 | Gambit Gaming | Stockholm 2021",
   "code": "stockh2021_teampatch_gamb",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5089",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -953,6 +1026,7 @@
   "name": "布章 | Gambit Gaming（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_gamb_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5090",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -966,6 +1040,7 @@
   "name": "布章 | G2 Esports | Stockholm 2021",
   "code": "stockh2021_teampatch_g2",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5091",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -979,6 +1054,7 @@
   "name": "布章 | G2 Esports（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_g2_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5092",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -992,6 +1068,7 @@
   "name": "布章 | Evil Geniuses | Stockholm 2021",
   "code": "stockh2021_teampatch_evl",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5093",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1005,6 +1082,7 @@
   "name": "布章 | Evil Geniuses（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_evl_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5094",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1018,6 +1096,7 @@
   "name": "布章 | Team Spirit | Stockholm 2021",
   "code": "stockh2021_teampatch_spir",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5095",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1031,6 +1110,7 @@
   "name": "布章 | Team Spirit（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_spir_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5096",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1044,6 +1124,7 @@
   "name": "布章 | Astralis | Stockholm 2021",
   "code": "stockh2021_teampatch_astr",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5097",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1057,6 +1138,7 @@
   "name": "布章 | Astralis（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_astr_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5098",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1070,6 +1152,7 @@
   "name": "布章 | paiN Gaming | Stockholm 2021",
   "code": "stockh2021_teampatch_pain",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5099",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1083,6 +1166,7 @@
   "name": "布章 | paiN Gaming（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_pain_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5100",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1096,6 +1180,7 @@
   "name": "布章 | ENCE | Stockholm 2021",
   "code": "stockh2021_teampatch_ence",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5101",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1109,6 +1194,7 @@
   "name": "布章 | ENCE（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_ence_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5102",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1122,6 +1208,7 @@
   "name": "布章 | BIG | Stockholm 2021",
   "code": "stockh2021_teampatch_big",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5103",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1135,6 +1222,7 @@
   "name": "布章 | BIG（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_big_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5104",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1148,6 +1236,7 @@
   "name": "布章 | Movistar Riders | Stockholm 2021",
   "code": "stockh2021_teampatch_ride",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5105",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1161,6 +1250,7 @@
   "name": "布章 | Movistar Riders（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_ride_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1174,6 +1264,7 @@
   "name": "布章 | Heroic | Stockholm 2021",
   "code": "stockh2021_teampatch_hero",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5107",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1187,6 +1278,7 @@
   "name": "布章 | Heroic（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_hero_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5108",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1200,6 +1292,7 @@
   "name": "布章 | MOUZ | Stockholm 2021",
   "code": "stockh2021_teampatch_mouz",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5109",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1213,6 +1306,7 @@
   "name": "布章 | MOUZ（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_mouz_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5110",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1226,6 +1320,7 @@
   "name": "布章 | Sharks Esports | Stockholm 2021",
   "code": "stockh2021_teampatch_shrk",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5111",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1239,6 +1334,7 @@
   "name": "布章 | Sharks Esports（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_shrk_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5112",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1252,6 +1348,7 @@
   "name": "布章 | Tyloo | Stockholm 2021",
   "code": "stockh2021_teampatch_tyl",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5113",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1265,6 +1362,7 @@
   "name": "布章 | Tyloo（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_tyl_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5114",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1278,6 +1376,7 @@
   "name": "布章 | Renegades | Stockholm 2021",
   "code": "stockh2021_teampatch_ren",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5115",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1291,6 +1390,7 @@
   "name": "布章 | Renegades（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_ren_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1304,6 +1404,7 @@
   "name": "布章 | Entropiq | Stockholm 2021",
   "code": "stockh2021_teampatch_ent",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5117",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1317,6 +1418,7 @@
   "name": "布章 | Entropiq（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_ent_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1330,6 +1432,7 @@
   "name": "布章 | GODSENT | Stockholm 2021",
   "code": "stockh2021_teampatch_god",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5119",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1343,6 +1446,7 @@
   "name": "布章 | GODSENT（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_god_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5120",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1356,6 +1460,7 @@
   "name": "布章 | Virtus.Pro | Stockholm 2021",
   "code": "stockh2021_teampatch_vp",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5121",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1369,6 +1474,7 @@
   "name": "布章 | Virtus.Pro（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_vp_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5122",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1382,6 +1488,7 @@
   "name": "布章 | Copenhagen Flames | Stockholm 2021",
   "code": "stockh2021_teampatch_cope",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5123",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1395,6 +1502,7 @@
   "name": "布章 | Copenhagen Flames（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_cope_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5124",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1408,6 +1516,7 @@
   "name": "布章 | FaZe Clan | Stockholm 2021",
   "code": "stockh2021_teampatch_faze",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5125",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1421,6 +1530,7 @@
   "name": "布章 | FaZe Clan（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_faze_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5126",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",
@@ -1434,6 +1544,7 @@
   "name": "布章 | PGL | Stockholm 2021",
   "code": "stockh2021_teampatch_pgl",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_rare",
    "name": "高級",
@@ -1447,6 +1558,7 @@
   "name": "布章 | PGL（黃金）| Stockholm 2021",
   "code": "stockh2021_teampatch_pgl_gold",
   "description": "此布章可用於任何您持有的幹員。經使用後可移除，但無法回收再用。",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "神話",

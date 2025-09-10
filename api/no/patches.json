@@ -4,6 +4,7 @@
   "name": "Lapp | Crazy Banana",
   "code": "patch_banana",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Agent som målestokk</i>",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -17,6 +18,7 @@
   "name": "Lapp | The Boss",
   "code": "patch_boss",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Kronen på agenten</i>",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -30,6 +32,7 @@
   "name": "Lapp | Chicken Lover",
   "code": "patch_chickenlover",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Takk for at du skåner dem</i>",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -43,6 +46,7 @@
   "name": "Lapp | Welcome to the Clutch",
   "code": "patch_clutch",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>En agent med denne lappen er vant til å fullføre jobben alene</i>",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -56,6 +60,7 @@
   "name": "Lapp | Dragon",
   "code": "patch_dragon",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har en drage flankert av den ikoniske AK-47</i>",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -69,6 +74,7 @@
   "name": "Lapp | Easy Peasy",
   "code": "patch_easypeasy",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Det er ikke så lett å stave «SQEEZY»</i>",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -82,6 +88,7 @@
   "name": "Lapp | Rage",
   "code": "patch_fury",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>En lapp som uttrykker sinne, vrede eller raseri</i>",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -95,6 +102,7 @@
   "name": "Lapp | Howl",
   "code": "patch_howl",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen er rødt, oransje og gull verdt</i>",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -108,6 +116,7 @@
   "name": "Lapp | Koi",
   "code": "patch_koi",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har to koi-fisker virvlende over blått vann</i>",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -121,6 +130,7 @@
   "name": "Lapp | Longevity",
   "code": "patch_longevity",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne røde og hvite lappen inneholder en kunstnerisk tolkning av CSGO-logoen</i>",
+  "def_index": "4559",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -134,6 +144,7 @@
   "name": "Lapp | Wildfire",
   "code": "patch_wildfire",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra Operasjon Wildfire, som begynte 17. februar 2016</i>",
+  "def_index": "4560",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -147,6 +158,7 @@
   "name": "Lapp | Vigilance",
   "code": "patch_vigilance",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>En lapp til de som følger varsomt med</i>",
+  "def_index": "4561",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -160,6 +172,7 @@
   "name": "Lapp | Bloodhound",
   "code": "patch_bloodhound",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra Operasjon Bloodhound, som begynte 26. mai 2015</i>",
+  "def_index": "4562",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -173,6 +186,7 @@
   "name": "Lapp | Bravo",
   "code": "patch_bravo",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra Operasjon Bravo, som begynte 19. september 2013</i>",
+  "def_index": "4563",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -186,6 +200,7 @@
   "name": "Lapp | Breakout",
   "code": "patch_breakout",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra Operasjon Breakout, som begynte 1. juli 2014</i>",
+  "def_index": "4564",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -199,6 +214,7 @@
   "name": "Lapp | Faresone",
   "code": "patch_dangerzone",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra faresone, som begynte 6. desember 2018</i>",
+  "def_index": "4565",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -212,6 +228,7 @@
   "name": "Lapp | Hydra",
   "code": "patch_hydra",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra Operasjon Hydra, som begynte 23. mai 2017</i>",
+  "def_index": "4566",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -225,6 +242,7 @@
   "name": "Lapp | Payback",
   "code": "patch_payback",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra Operasjon Payback, som begynte 25. april 2013</i>",
+  "def_index": "4567",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -238,6 +256,7 @@
   "name": "Lapp | Phoenix",
   "code": "patch_phoenix",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra Operasjon Phoenix, som begynte 20. februar 2014</i>",
+  "def_index": "4568",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -251,6 +270,7 @@
   "name": "Lapp | Shattered Web",
   "code": "patch_shatteredweb",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra Operasjon Shattered Web, som begynte 18. november 2019</i>",
+  "def_index": "4569",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -264,6 +284,7 @@
   "name": "Lapp | Vanguard",
   "code": "patch_vanguard",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne lappen har ikonografi fra Operasjon Vanguard, som begynte 11. november 2014</i>",
+  "def_index": "4570",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -277,6 +298,7 @@
   "name": "Lapp | Metal Silver",
   "code": "patch_silver",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>En lapp for de som tar sitt første steg på veien mot Global.</i>",
+  "def_index": "4571",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -290,6 +312,7 @@
   "name": "Lapp | Metal Gold Nova I",
   "code": "patch_goldnova1",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Kommet deg ut av Silver? Du har fremdeles en jobb å gjøre.</i>",
+  "def_index": "4572",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -303,6 +326,7 @@
   "name": "Lapp | Metal Gold Nova Master",
   "code": "patch_goldnovamaster",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Og du trodde det var vanskelig å komme seg ut av Silver …</i>",
+  "def_index": "4575",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -316,6 +340,7 @@
   "name": "Lapp | Metal Master Guardian I",
   "code": "patch_masterguardian1",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Sluppet ut fra Gold Nova? Bra. Du lærer.</i>",
+  "def_index": "4576",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -329,6 +354,7 @@
   "name": "Lapp | Metal Master Guardian Elite",
   "code": "patch_masterguardianelite",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Sølvtråden i denne mesterlig utførte MGE-lappen stikker seg ut fra den marineblå bakgrunnen.</i>",
+  "def_index": "4578",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -342,6 +368,7 @@
   "name": "Lapp | Metal Distinguished Master Guardian ★",
   "code": "patch_dmg",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Individer må tilpasse seg og jobbe sammen for å oppnå ferdighetsgruppen DMG. Fortsett å klatre.</i>",
+  "def_index": "4579",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -355,6 +382,7 @@
   "name": "Lapp | Metal Legendary Eagle Master ★",
   "code": "patch_legendaryeaglemaster",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Du nærmer deg toppen, men de som venter på utfordringen din viser ingen nåde.</i>",
+  "def_index": "4581",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -368,6 +396,7 @@
   "name": "Lapp | Metal Supreme Master First Class",
   "code": "patch_supreme",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne Supreme-lappen har en hjerteformet globus og røde og blå detaljer.</i>",
+  "def_index": "4582",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -381,6 +410,7 @@
   "name": "Lapp | Metal The Global Elite ★",
   "code": "patch_globalelite",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Gratulerer, du har gjort det godt. Nå begynner den virkelige utfordringen.</i>",
+  "def_index": "4583",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -394,6 +424,7 @@
   "name": "Lapp | Metal Distinguished Master Guardian",
   "code": "patch_dmg2",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Individer må tilpasse seg og jobbe sammen for å oppnå ferdighetsgruppen DMG. Fortsett å klatre.</i>",
+  "def_index": "4584",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -407,6 +438,7 @@
   "name": "Lapp | Metal Legendary Eagle",
   "code": "patch_legendaryeagle2",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Denne Legendary Eagle-lappen kommer med et par gylne vinger.</i>",
+  "def_index": "4585",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -420,6 +452,7 @@
   "name": "Lapp | Metal Legendary Eagle Master",
   "code": "patch_legendaryeaglemaster2",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Du nærmer deg toppen, men de som venter på utfordringen din viser ingen nåde.</i>",
+  "def_index": "4586",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -433,6 +466,7 @@
   "name": "Lapp | Metal Silver Demon",
   "code": "patch_silver_demon",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>«Silver Hell» er ikke et sted, men en sinnstilstand. Du kan forlate den når som helst.</i>",
+  "def_index": "4587",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -446,6 +480,7 @@
   "name": "Lapp | Metal Supreme Master",
   "code": "patch_suprememaster",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>En bevinget tang har tre stjerner på hver side på denne SMFC-lappen.</i>",
+  "def_index": "4588",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -459,6 +494,7 @@
   "name": "Lapp | Alyx",
   "code": "patch_hlalyx_alyx",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4589",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -472,6 +508,7 @@
   "name": "Lapp | Sustenance!",
   "code": "patch_hlalyx_headcrab_green",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4591",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -485,6 +522,7 @@
   "name": "Lapp | Vortigaunt",
   "code": "patch_hlalyx_vort",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4592",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -498,6 +536,7 @@
   "name": "Lapp | Headcrab Glyph",
   "code": "patch_hlalyx_headcrab_teal",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4593",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -511,6 +550,7 @@
   "name": "Lapp | Copper Lambda",
   "code": "patch_hlalyx_lambda_copper",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4594",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -524,6 +564,7 @@
   "name": "Lapp | Health",
   "code": "patch_hlalyx_hearts",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4595",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -537,6 +578,7 @@
   "name": "Lapp | Combine Helmet",
   "code": "patch_hlalyx_combine_front",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4596",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -550,6 +592,7 @@
   "name": "Lapp | Black Mesa",
   "code": "patch_hlalyx_blackmesa",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4597",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -563,6 +606,7 @@
   "name": "Lapp | CMB",
   "code": "patch_hlalyx_cmb",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4598",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -576,6 +620,7 @@
   "name": "Lapp | Lambda",
   "code": "patch_hlalyx_lambda_orange",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4599",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -589,6 +634,7 @@
   "name": "Lapp | City 17",
   "code": "patch_hlalyx_c17",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br>Minnelapp for Half-Life: Alyx.",
+  "def_index": "4600",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -602,6 +648,7 @@
   "name": "Lapp | Metal The Global Elite",
   "code": "patch_globalelite2",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Gratulerer, du har gjort det godt. Nå begynner den virkelige utfordringen.</i>",
+  "def_index": "4697",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -615,6 +662,7 @@
   "name": "Lapp | Metal Master Guardian",
   "code": "patch_masterguardian3",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Sluppet ut fra Gold Nova? Bra. Du lærer.</i>",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -628,6 +676,7 @@
   "name": "Lapp | Metal Gold Nova",
   "code": "patch_goldnova4",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Kommet deg ut av Silver? Du har fremdeles en jobb å gjøre.</i>",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -641,6 +690,7 @@
   "name": "Lapp | Abandon Hope",
   "code": "patch_op11_abandon_hope",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Den som trer inn …</i>",
+  "def_index": "4937",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -654,6 +704,7 @@
   "name": "Lapp | Anchors Aweigh",
   "code": "patch_op11_anchor",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Stille i stormen …</i>",
+  "def_index": "4938",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -667,6 +718,7 @@
   "name": "Lapp | Cruising Ray",
   "code": "patch_op11_cruising",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Danser under bølgene …</i>",
+  "def_index": "4939",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -680,6 +732,7 @@
   "name": "Lapp | Bayonet Frog",
   "code": "patch_op11_frog_skeleton",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Ikke slit deg kvekk i hjel …</i>",
+  "def_index": "4940",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -693,6 +746,7 @@
   "name": "Lapp | Mad Sushi",
   "code": "patch_op11_mad_sushi",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Mye ris å få!</i>",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -706,6 +760,7 @@
   "name": "Lapp | Giant Squid",
   "code": "patch_op11_pink_squid",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Trekker byttet ned i dypet …</i>",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -719,6 +774,7 @@
   "name": "Lapp | El Pirata",
   "code": "patch_op11_piranha",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Med små bitt må det laginnsats til …</i>",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -732,6 +788,7 @@
   "name": "Lapp | Death From Below",
   "code": "patch_op11_siren",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Se opp ovenfor …</i>",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -745,6 +802,7 @@
   "name": "Lapp | Dead Men",
   "code": "patch_op11_skull_crossswords",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Allment kjent faresignal …</i>",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -758,6 +816,7 @@
   "name": "Lapp | Sunset Wave",
   "code": "patch_op11_sunset_wave",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>En ny dag til sjøs …</i>",
+  "def_index": "4946",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -771,6 +830,7 @@
   "name": "Lapp | Aquatic Offensive",
   "code": "patch_op11_fish_go",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Go'fisken!</i>",
+  "def_index": "4947",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -784,6 +844,7 @@
   "name": "Lapp | Elder God",
   "code": "patch_op11_cthulhu",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Cthulhu liker de som snarlig gjør bomben ufarlig …</i>",
+  "def_index": "4948",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksotisk",
@@ -797,6 +858,7 @@
   "name": "Lapp | Meal Time",
   "code": "patch_op11_meal_time",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.<br><br><i>Sulten på seier …</i>",
+  "def_index": "4949",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -810,6 +872,7 @@
   "name": "Lapp | Ninjas in Pyjamas | Stockholm 2021",
   "code": "stockh2021_teampatch_nip",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5079",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -823,6 +886,7 @@
   "name": "Lapp | Ninjas in Pyjamas (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_nip_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5080",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -836,6 +900,7 @@
   "name": "Lapp | FURIA | Stockholm 2021",
   "code": "stockh2021_teampatch_furi",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5081",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -849,6 +914,7 @@
   "name": "Lapp | FURIA (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_furi_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5082",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -862,6 +928,7 @@
   "name": "Lapp | Natus Vincere | Stockholm 2021",
   "code": "stockh2021_teampatch_navi",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5083",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -875,6 +942,7 @@
   "name": "Lapp | Natus Vincere (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_navi_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5084",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -888,6 +956,7 @@
   "name": "Lapp | Vitality | Stockholm 2021",
   "code": "stockh2021_teampatch_vita",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5085",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -901,6 +970,7 @@
   "name": "Lapp | Vitality (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_vita_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5086",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -914,6 +984,7 @@
   "name": "Lapp | Team Liquid | Stockholm 2021",
   "code": "stockh2021_teampatch_liq",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5087",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -927,6 +998,7 @@
   "name": "Lapp | Team Liquid (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_liq_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5088",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -940,6 +1012,7 @@
   "name": "Lapp | Gambit Gaming | Stockholm 2021",
   "code": "stockh2021_teampatch_gamb",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5089",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -953,6 +1026,7 @@
   "name": "Lapp | Gambit Gaming (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_gamb_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5090",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -966,6 +1040,7 @@
   "name": "Lapp | G2 Esports | Stockholm 2021",
   "code": "stockh2021_teampatch_g2",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5091",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -979,6 +1054,7 @@
   "name": "Lapp | G2 Esports (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_g2_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5092",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -992,6 +1068,7 @@
   "name": "Lapp | Evil Geniuses | Stockholm 2021",
   "code": "stockh2021_teampatch_evl",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5093",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1005,6 +1082,7 @@
   "name": "Lapp | Evil Geniuses (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_evl_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5094",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1018,6 +1096,7 @@
   "name": "Lapp | Team Spirit | Stockholm 2021",
   "code": "stockh2021_teampatch_spir",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5095",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1031,6 +1110,7 @@
   "name": "Lapp | Team Spirit (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_spir_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5096",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1044,6 +1124,7 @@
   "name": "Lapp | Astralis | Stockholm 2021",
   "code": "stockh2021_teampatch_astr",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5097",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1057,6 +1138,7 @@
   "name": "Lapp | Astralis (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_astr_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5098",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1070,6 +1152,7 @@
   "name": "Lapp | paiN Gaming | Stockholm 2021",
   "code": "stockh2021_teampatch_pain",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5099",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1083,6 +1166,7 @@
   "name": "Lapp | paiN Gaming (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_pain_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5100",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1096,6 +1180,7 @@
   "name": "Lapp | ENCE | Stockholm 2021",
   "code": "stockh2021_teampatch_ence",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5101",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1109,6 +1194,7 @@
   "name": "Lapp | ENCE (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_ence_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5102",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1122,6 +1208,7 @@
   "name": "Lapp | BIG | Stockholm 2021",
   "code": "stockh2021_teampatch_big",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5103",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1135,6 +1222,7 @@
   "name": "Lapp | BIG (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_big_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5104",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1148,6 +1236,7 @@
   "name": "Lapp | Movistar Riders | Stockholm 2021",
   "code": "stockh2021_teampatch_ride",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5105",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1161,6 +1250,7 @@
   "name": "Lapp | Movistar Riders (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_ride_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1174,6 +1264,7 @@
   "name": "Lapp | Heroic | Stockholm 2021",
   "code": "stockh2021_teampatch_hero",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5107",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1187,6 +1278,7 @@
   "name": "Lapp | Heroic (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_hero_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5108",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1200,6 +1292,7 @@
   "name": "Lapp | MOUZ | Stockholm 2021",
   "code": "stockh2021_teampatch_mouz",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5109",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1213,6 +1306,7 @@
   "name": "Lapp | MOUZ (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_mouz_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5110",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1226,6 +1320,7 @@
   "name": "Lapp | Sharks Esports | Stockholm 2021",
   "code": "stockh2021_teampatch_shrk",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5111",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1239,6 +1334,7 @@
   "name": "Lapp | Sharks Esports (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_shrk_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5112",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1252,6 +1348,7 @@
   "name": "Lapp | Tyloo | Stockholm 2021",
   "code": "stockh2021_teampatch_tyl",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5113",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1265,6 +1362,7 @@
   "name": "Lapp | Tyloo (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_tyl_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5114",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1278,6 +1376,7 @@
   "name": "Lapp | Renegades | Stockholm 2021",
   "code": "stockh2021_teampatch_ren",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5115",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1291,6 +1390,7 @@
   "name": "Lapp | Renegades (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_ren_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1304,6 +1404,7 @@
   "name": "Lapp | Entropiq | Stockholm 2021",
   "code": "stockh2021_teampatch_ent",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5117",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1317,6 +1418,7 @@
   "name": "Lapp | Entropiq (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_ent_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1330,6 +1432,7 @@
   "name": "Lapp | GODSENT | Stockholm 2021",
   "code": "stockh2021_teampatch_god",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5119",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1343,6 +1446,7 @@
   "name": "Lapp | GODSENT (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_god_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5120",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1356,6 +1460,7 @@
   "name": "Lapp | Virtus.Pro | Stockholm 2021",
   "code": "stockh2021_teampatch_vp",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5121",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1369,6 +1474,7 @@
   "name": "Lapp | Virtus.Pro (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_vp_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5122",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1382,6 +1488,7 @@
   "name": "Lapp | Copenhagen Flames | Stockholm 2021",
   "code": "stockh2021_teampatch_cope",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5123",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1395,6 +1502,7 @@
   "name": "Lapp | Copenhagen Flames (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_cope_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5124",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1408,6 +1516,7 @@
   "name": "Lapp | FaZe Clan | Stockholm 2021",
   "code": "stockh2021_teampatch_faze",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5125",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1421,6 +1530,7 @@
   "name": "Lapp | FaZe Clan (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_faze_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5126",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",
@@ -1434,6 +1544,7 @@
   "name": "Lapp | PGL | Stockholm 2021",
   "code": "stockh2021_teampatch_pgl",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_rare",
    "name": "Høy klasse",
@@ -1447,6 +1558,7 @@
   "name": "Lapp | PGL (gull) | Stockholm 2021",
   "code": "stockh2021_teampatch_pgl_gold",
   "description": "Denne lappen kan brukes på alle agenter du eier. Når den er påført, kan den fjernes, men ikke gjenopprettes.",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Spesielt",

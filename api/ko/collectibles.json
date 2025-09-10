@@ -4,6 +4,7 @@
   "name": "5년 차 베테랑 주화",
   "code": "#CSGO_CollectibleCoin_FiveYearService",
   "description": "Counter-Strike 커뮤니티 회원으로 5년 이상 활동했습니다.",
+  "def_index": "874",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -19,6 +20,7 @@
   "name": "DreamHack 2013 대회 우승팀",
   "code": "#CSGO_CollectibleCoin_DH2013_Champion",
   "description": "2013 DreamHack SteelSeries CS:GO 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "875",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -34,6 +36,7 @@
   "name": "DreamHack 2013 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_DH2013_Finalist",
   "description": "DreamHack SteelSeries 2013 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "876",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -49,6 +52,7 @@
   "name": "DreamHack 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
   "description": "DreamHack SteelSeries 2013 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "877",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -64,6 +68,7 @@
   "name": "DreamHack 2013 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
   "description": "DreamHack SteelSeries 2013 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "878",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -79,6 +84,7 @@
   "name": "EMS One 카토비체 2014 우승팀",
   "code": "#CSGO_CollectibleCoin_Kat2014_Champion",
   "description": "2014 EMS One 카토비체 CS:GO 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "879",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -94,6 +100,7 @@
   "name": "EMS One 카토비체 2014 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Kat2014_Finalist",
   "description": "EMS One 카토비체 2014 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "880",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -109,6 +116,7 @@
   "name": "EMS One 카토비체 2014 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
   "description": "EMS One 카토비체 2014 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "881",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -124,6 +132,7 @@
   "name": "EMS One 카토비체 2014 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
   "description": "EMS One 카토비체 2014 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "882",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -139,6 +148,7 @@
   "name": "ESL One 쾰른 2014 우승팀",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Champion",
   "description": "2014 ESL One 쾰른 CS:GO 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "883",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -154,6 +164,7 @@
   "name": "2014 ESL 쾰른 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
   "description": "ESL One 쾰른 2014 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "884",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -169,6 +180,7 @@
   "name": "2014 ESL One 쾰른 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
   "description": "ESL One 쾰른 2014 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "885",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -184,6 +196,7 @@
   "name": "ESL One 쾰른 2014 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
   "description": "ESL One 쾰른 2014 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "886",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -199,6 +212,7 @@
   "name": "쾰른 2014 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
   "description": "ESL One 쾰른 2014 승자 예측 도전에서 수상한 동 트로피입니다.",
+  "def_index": "887",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -214,6 +228,7 @@
   "name": "쾰른 2014 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
   "description": "ESL One 쾰른 2014 승자 예측 도전에서 수상한 은 트로피입니다.",
+  "def_index": "888",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -229,6 +244,7 @@
   "name": "ESL One 쾰른 2014 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
   "description": "ESL One 쾰른 2014 승자 예측 도전에서 수상한 금 트로피입니다.",
+  "def_index": "889",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -244,6 +260,7 @@
   "name": "동계 Dreamhack 2014 우승팀",
   "code": "#CSGO_CollectibleCoin_DHW2014_Champion",
   "description": "동계 DreamHack 2014 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "890",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -259,6 +276,7 @@
   "name": "동계 Dreamhack 2014 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_DHW2014_Finalist",
   "description": "동계 DreamHack 2014 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "891",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -274,6 +292,7 @@
   "name": "동계 Dreamhack 2014 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
   "description": "동계 DreamHack 2014 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "892",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -289,6 +308,7 @@
   "name": "동계 Dreamhack 2014 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
   "description": "동계 DreamHack 2014 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "893",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -304,6 +324,7 @@
   "name": "DreamHack 2014 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
   "description": "동계 DreamHack 2014 승자 예측 도전에서 수상한 동 트로피입니다.",
+  "def_index": "894",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -319,6 +340,7 @@
   "name": "DreamHack 2014 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
   "description": "동계 DreamHack 2014 승자 예측 도전에서 수상한 은 트로피입니다.",
+  "def_index": "895",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -334,6 +356,7 @@
   "name": "DreamHack 2014 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
   "description": "동계 DreamHack 2014 승자 예측 도전에서 수상한 금 트로피입니다.",
+  "def_index": "896",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -349,6 +372,7 @@
   "name": "ESL One 카토비체 2015 우승팀",
   "code": "#CSGO_CollectibleCoin_Kat2015_Champion",
   "description": "ESL One 카토비체 2015 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "897",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -364,6 +388,7 @@
   "name": "ESL One 카토비체 2015 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Kat2015_Finalist",
   "description": "ESL One 카토비체 2015 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "898",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -379,6 +404,7 @@
   "name": "ESL One 카토비체 2015 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
   "description": "ESL One 카토비체 2015 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "899",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -394,6 +420,7 @@
   "name": "ESL One 카토비체 2015 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
   "description": "ESL One 카토비체 2015 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "900",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -409,6 +436,7 @@
   "name": "카토비체 2015 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
   "description": "ESL One 카토비체 2015 승자 예측 도전에서 수상한 동 트로피입니다.",
+  "def_index": "901",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -424,6 +452,7 @@
   "name": "카토비체 2015 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
   "description": "ESL One 카토비체 2015 승자 예측 도전에서 수상한 은 트로피입니다.",
+  "def_index": "902",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -439,6 +468,7 @@
   "name": "카토비체 2015 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
   "description": "ESL One 카토비체 2015 승자 예측 도전에서 수상한 금 트로피입니다.",
+  "def_index": "903",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -454,6 +484,7 @@
   "name": "ESL One 쾰른 2015 우승",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Champion",
   "description": "쾰른에서 개최된 2015년도 ESL One CS:GO 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "904",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -469,6 +500,7 @@
   "name": "ESL One 쾰른 2015 결승 진출",
   "code": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
   "description": "ESL One 퀼른 2015 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "905",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -484,6 +516,7 @@
   "name": "ESL One 쾰른 2015 메이저 대회 4강 진출",
   "code": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
   "description": "ESL One 퀼른 2015 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "906",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -499,6 +532,7 @@
   "name": "ESL One 쾰른 2015 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
   "description": "ESL One 퀼른 2015 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "907",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -514,6 +548,7 @@
   "name": "쾰른 2015 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
   "description": "ESL One 쾰른 2015 승자 예측 도전에서 수상한 동 트로피입니다.",
+  "def_index": "908",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -529,6 +564,7 @@
   "name": "쾰른 2015 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
   "description": "ESL One 쾰른 2015 승자 예측 도전에서 수상한 은 트로피입니다.",
+  "def_index": "909",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -544,6 +580,7 @@
   "name": "쾰른 2015 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
   "description": "ESL One 쾰른 2015 승자 예측 도전에서 수상한 금 트로피입니다.",
+  "def_index": "910",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -559,6 +596,7 @@
   "name": "클루지나포카 2015 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
   "description": "DreamHack 클루지나포카 2015 승자 예측 도전에서 수상한 동 트로피입니다.",
+  "def_index": "911",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -574,6 +612,7 @@
   "name": "클루지나포카 2015 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
   "description": "DreamHack 클루지나포카 2015 승자 예측 도전에서 수상한 은 트로피입니다.",
+  "def_index": "912",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -589,6 +628,7 @@
   "name": "클루지나포카 2015 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
   "description": "DreamHack 클루지나포카 2015 승자 예측 도전에서 수상한 금 트로피입니다.",
+  "def_index": "913",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -604,6 +644,7 @@
   "name": "클루지나포카 2015 환상 대전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
   "description": "DreamHack 클루지나포카 2015 환상 대전에서 수상한 동 트로피입니다.",
+  "def_index": "914",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -619,6 +660,7 @@
   "name": "클루지나포카 2015 환상 대전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
   "description": "DreamHack 클루지나포카 2015 환상 대전에서 수상한 은 트로피입니다.",
+  "def_index": "915",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -634,6 +676,7 @@
   "name": "클루지나포카 2015 환상 대전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
   "description": "DreamHack 클루지나포카 2015 환상 대전에서 수상한 금 트로피입니다.",
+  "def_index": "916",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -649,6 +692,7 @@
   "name": "DreamHack 클루지나포카 2015 우승팀",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Champion",
   "description": "DreamHack 클루지나포카 2015 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "917",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -664,6 +708,7 @@
   "name": "DreamHack 클루지나포카 2015 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
   "description": "DreamHack 클루지나포카 2015 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "918",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -679,6 +724,7 @@
   "name": "DreamHack 클루지나포카 2015 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
   "description": "DreamHack 클루지나포카 2015 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "919",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -694,6 +740,7 @@
   "name": "DreamHack 클루지나포카 2015 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
   "description": "DreamHack 클루지나포카 2015 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "920",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -709,6 +756,7 @@
   "name": "콜럼버스 2016 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
   "description": "MLG 콜럼버스 2016 승자 예측 도전에서 수상한 동 트로피입니다.",
+  "def_index": "921",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -724,6 +772,7 @@
   "name": "콜럼버스 2016 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
   "description": "MLG 콜럼버스 2016 승자 예측 도전에서 수상한 은 트로피입니다.",
+  "def_index": "922",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -739,6 +788,7 @@
   "name": "콜럼버스 2016 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
   "description": "MLG 콜럼버스 2016  승자 예측 도전에서 수상한 금 트로피입니다.",
+  "def_index": "923",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -754,6 +804,7 @@
   "name": "콜럼버스 2016 환상 대전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
   "description": "MLG 콜럼버스 2016 환상 대전에서 수상한 동 트로피입니다.",
+  "def_index": "924",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -769,6 +820,7 @@
   "name": "콜럼버스 2016 환상 대전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
   "description": "MLG 콜럼버스 2016 환상 대전에서 수상한 은 트로피입니다.",
+  "def_index": "925",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -784,6 +836,7 @@
   "name": "콜럼버스 2016 환상 대전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
   "description": "MLG 콜럼버스 2016 환상 대전에서 수상한 금 트로피입니다.",
+  "def_index": "926",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -799,6 +852,7 @@
   "name": "MLG 콜럼버스 2016 우승팀",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Champion",
   "description": "MLG 콜럼버스 2016 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "927",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -814,6 +868,7 @@
   "name": "MLG 콜럼버스 2016 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
   "description": "MLG 콜럼버스 2016 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "928",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -829,6 +884,7 @@
   "name": "MLG 콜럼버스 2016 메이저 대회 4강 진출",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
   "description": "MLG 콜럼버스 2016 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "929",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -844,6 +900,7 @@
   "name": "MLG 콜럼버스 2016 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
   "description": "MLG 콜럼버스 2016 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "930",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -859,6 +916,7 @@
   "name": "ESL One 쾰른 2016 우승팀",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Champion",
   "description": "ESL One 쾰른 2016 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "931",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -874,6 +932,7 @@
   "name": "ESL One 쾰른 2016 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
   "description": "ESL One 쾰른 2016 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "932",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -889,6 +948,7 @@
   "name": "ESL One 쾰른 2016 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
   "description": "ESL One 쾰른 2016 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "933",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -904,6 +964,7 @@
   "name": "ESL One 쾰른 2016 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
   "description": "ESL One 쾰른 2016 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "934",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -919,6 +980,7 @@
   "name": "쾰른 2016 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
   "description": "ESL One 쾰른 2016 승자 예측 도전에서 수상한 동 트로피입니다.",
+  "def_index": "935",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -934,6 +996,7 @@
   "name": "쾰른 2016 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
   "description": "ESL One 쾰른 2016 승자 예측 도전에서 수상한 은 트로피입니다.",
+  "def_index": "936",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -949,6 +1012,7 @@
   "name": "쾰른 2016 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
   "description": "ESL One 쾰른 2016 승자 예측 도전에서 수상한 금 트로피입니다.",
+  "def_index": "937",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -964,6 +1028,7 @@
   "name": "쾰른 2016 환상 대전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
   "description": "ESL One 쾰른 2016 환상 대전에서 수상한 동 트로피입니다.",
+  "def_index": "938",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -979,6 +1044,7 @@
   "name": "쾰른 2016 환상 대전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
   "description": "ESL One 쾰른 2016 환상 대전에서 수상한 은 트로피입니다.",
+  "def_index": "939",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -994,6 +1060,7 @@
   "name": "쾰른 2016 환상 대전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
   "description": "ESL One 쾰른 2016 환상 대전에서 수상한 금 트로피입니다.",
+  "def_index": "940",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1009,6 +1076,7 @@
   "name": "ELEAGUE 애틀랜타 2017 우승팀",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
   "description": "ELEAGUE 애틀랜타 2017 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "941",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1024,6 +1092,7 @@
   "name": "ELEAGUE 애틀랜타 2017 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
   "description": "ELEAGUE 애틀랜타 2017 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "942",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1039,6 +1108,7 @@
   "name": "ELEAGUE 애틀랜타 2017 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
   "description": "ELEAGUE 애틀랜타 2017 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "943",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1054,6 +1124,7 @@
   "name": "ELEAGUE 애틀랜타 2017 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
   "description": "ELEAGUE 애틀랜타 2017 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "944",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1069,6 +1140,7 @@
   "name": "애틀랜타 2017 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
   "description": "ELEAGUE 애틀랜타 2017 승자 예측 도전에서 받은 동 트로피입니다.",
+  "def_index": "945",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1084,6 +1156,7 @@
   "name": "애틀랜타 2017 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
   "description": "ELEAGUE 애틀랜타 2017 승자 예측 도전에서 받은 은 트로피입니다.",
+  "def_index": "946",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1099,6 +1172,7 @@
   "name": "애틀랜타 2017 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
   "description": "ELEAGUE 애틀랜타 2017 승자 예측 도전에서 받은 금 트로피입니다.",
+  "def_index": "947",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1114,6 +1188,7 @@
   "name": "PGL 크라쿠프 2017 우승팀",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Champion",
   "description": "PGL 크라쿠프 2017 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "948",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1129,6 +1204,7 @@
   "name": "PGL 크라쿠프 2017 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
   "description": "PGL 크라쿠프 2017 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "949",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1144,6 +1220,7 @@
   "name": "PGL 크라쿠프 2017 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
   "description": "PGL 크라쿠프 2017 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "950",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1159,6 +1236,7 @@
   "name": "PGL 크라쿠프 2017 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
   "description": "PGL 크라쿠프 2017 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "951",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1174,6 +1252,7 @@
   "name": "크라쿠프 2017 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
   "description": "PGL 크라쿠프 2017 승자 예측 도전에서 받은 동 트로피입니다.",
+  "def_index": "952",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1189,6 +1268,7 @@
   "name": "크라쿠프 2017 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
   "description": "PGL 크라쿠프 2017 승자 예측 도전에서 받은 은 트로피입니다.",
+  "def_index": "953",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1204,6 +1284,7 @@
   "name": "크라쿠프 2017 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
   "description": "PGL 크라쿠프 2017 승자 예측 도전에서 받은 금 트로피입니다.",
+  "def_index": "954",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1219,6 +1300,7 @@
   "name": "ELEAGUE 보스턴 2018 우승팀",
   "code": "#CSGO_CollectibleCoin_Boston2018_Champion",
   "description": "ELEAGUE 보스턴 2018 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "955",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1234,6 +1316,7 @@
   "name": "ELEAGUE 보스턴 2018 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Boston2018_Finalist",
   "description": "ELEAGUE 보스턴 2018 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "956",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1249,6 +1332,7 @@
   "name": "ELEAGUE 보스턴 2018 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
   "description": "ELEAGUE 보스턴 2018 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "957",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1264,6 +1348,7 @@
   "name": "ELEAGUE 보스턴 2018 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
   "description": "ELEAGUE 보스턴 2018 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "958",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1279,6 +1364,7 @@
   "name": "보스턴 2018 메이저 대회 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
   "description": "ELEAGUE 보스턴 2018 메이저 대회 승자 예측 도전에서 받은 동 트로피입니다.",
+  "def_index": "959",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1294,6 +1380,7 @@
   "name": "보스턴 2018 메이저 대회 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
   "description": "ELEAGUE 보스턴 2018 메이저 대회 승자 예측 도전에서 받은 은 트로피입니다.",
+  "def_index": "960",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1309,6 +1396,7 @@
   "name": "보스턴 2018 메이저 대회 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
   "description": "ELEAGUE 보스턴 2018 메이저 대회 승자 예측 도전에서 받은 금 트로피입니다.",
+  "def_index": "961",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1324,6 +1412,7 @@
   "name": "FACEIT 런던 2018의 우승팀",
   "code": "#CSGO_CollectibleCoin_London2018_Champion",
   "description": "FACEIT 런던 2018 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "962",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1339,6 +1428,7 @@
   "name": "FACEIT 런던 2018의 준우승팀",
   "code": "#CSGO_CollectibleCoin_London2018_Finalist",
   "description": "FACEIT 런던 2018 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "963",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1354,6 +1444,7 @@
   "name": "FACEIT 런던 2018 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_London2018_Semifinalist",
   "description": "FACEIT 런던 2018 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "964",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1369,6 +1460,7 @@
   "name": "FACEIT 런던 2018 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
   "description": "FACEIT 런던 2018 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "965",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1384,6 +1476,7 @@
   "name": "런던 2018 승자 예측 도전 동 트로피",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
   "description": "FACEIT 런던 2018 승자 예측 도전에서 받은 동 트로피입니다.",
+  "def_index": "966",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1399,6 +1492,7 @@
   "name": "런던 2018 승자 예측 도전 은 트로피",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
   "description": "FACEIT 런던 2018 승자 예측 도전에서 받은 은 트로피입니다.",
+  "def_index": "967",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1414,6 +1508,7 @@
   "name": "런던 2018 승자 예측 도전 금 트로피",
   "code": "#CSGO_CollectibleCoin_London2018_PickEmGold",
   "description": "FACEIT 런던 2018 승자 예측 도전에서 받은 금 트로피입니다.",
+  "def_index": "968",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1429,6 +1524,7 @@
   "name": "10년 차 베테랑 주화",
   "code": "#CSGO_CollectibleCoin_TenYearService",
   "description": "Counter-Strike 커뮤니티 회원으로 10년 이상 활동했습니다.",
+  "def_index": "969",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1444,6 +1540,7 @@
   "name": "로열티 배지",
   "code": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
   "description": "위험지대 업데이트 이전에 Counter-Strike 커뮤니티에서 충실하게 활동한 플레이어에게 수여된 배지입니다.다.\\n\\n<i>충성이 힘을 만든다.</i>",
+  "def_index": "970",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1459,6 +1556,7 @@
   "name": "IEM 카토비체 2019 우승팀",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Champion",
   "description": "IEM 카토비체 2019 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "971",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1474,6 +1572,7 @@
   "name": "IEM 카토비체 2019 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
   "description": "IEM 카토비체 2019 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "972",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1489,6 +1588,7 @@
   "name": "IEM 카토비체 2019 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
   "description": "IEM 카토비체 2019 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "973",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1504,6 +1604,7 @@
   "name": "IEM 카토비체 2019 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
   "description": "IEM 카토비체 2019 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "974",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1519,6 +1620,7 @@
   "name": "StarLadder 베를린 2019 우승팀",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Champion",
   "description": "StarLadder 베를린 2019 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "975",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1534,6 +1636,7 @@
   "name": "StarLadder 베를린 2019 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
   "description": "StarLadder 베를린 2019 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "976",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1549,6 +1652,7 @@
   "name": "StarLadder 베를린 2019 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
   "description": "StarLadder 베를린 2019 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "977",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1564,6 +1668,7 @@
   "name": "StarLadder 베를린 2019 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
   "description": "StarLadder 베를린 2019 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "978",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1579,6 +1684,7 @@
   "name": "PGL 스톡홀름 2021 우승팀",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Champion",
   "description": "PGL 스톡홀름 2021 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "979",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1594,6 +1700,7 @@
   "name": "PGL 스톡홀름 2021 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
   "description": "PGL 스톡홀름 2021 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "980",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1609,6 +1716,7 @@
   "name": "PGL 스톡홀름 2021 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
   "description": "PGL 스톡홀름 2021 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "981",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1624,6 +1732,7 @@
   "name": "PGL 스톡홀름 2021 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
   "description": "PGL 스톡홀름 2021 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "982",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1639,6 +1748,7 @@
   "name": "PGL 안트베르펜 2022 우승팀",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
   "description": "PGL 안트베르펜 2022 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "983",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1654,6 +1764,7 @@
   "name": "PGL 안트베르펜 2022 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
   "description": "PGL 안트베르펜 2022 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "984",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1669,6 +1780,7 @@
   "name": "PGL 안트베르펜 2022 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
   "description": "PGL 안트베르펜 2022 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "985",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1684,6 +1796,7 @@
   "name": "PGL 안트베르펜 2022 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
   "description": "PGL 안트베르펜 2022 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "986",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1699,6 +1812,7 @@
   "name": "10주년 주화",
   "code": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
   "description": "CS:GO 커뮤니티와 함께 CS:GO의 10주년을 축하하기 위해 제작되었습니다.\\n\\n<i>10년 동안 이루어진 헤드샷, 클러치 및 커뮤니티를 기념하면서, 다시 한번 CS:GO의 10주년을 축하합니다!</i>",
+  "def_index": "987",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1714,6 +1828,7 @@
   "name": "IEM 리우데자네이루 2022 챔피언",
   "code": "#CSGO_CollectibleCoin_Rio2022_Champion",
   "description": "IEM 리우데자네이루 2022 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "988",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1729,6 +1844,7 @@
   "name": "IEM 리우데자네이루 2022 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Rio2022_Finalist",
   "description": "IEM 리우데자네이루 2022 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "989",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1744,6 +1860,7 @@
   "name": "IEM 리우데자네이루 2022 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
   "description": "IEM 리우데자네이루 2022 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "990",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1759,6 +1876,7 @@
   "name": "IEM 리우데자네이루 2022 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
   "description": "IEM 리우데자네이루 2022 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "991",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1774,6 +1892,7 @@
   "name": "BLAST.tv 파리 2023 우승팀",
   "code": "#CSGO_CollectibleCoin_Paris2023_Champion",
   "description": "BLAST.tv 파리 2023 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "992",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1789,6 +1908,7 @@
   "name": "BLAST.tv 파리 2023 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_Paris2023_Finalist",
   "description": "BLAST.tv 파리 2023 CS:GO 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "993",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1804,6 +1924,7 @@
   "name": "BLAST.tv 파리 2023 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
   "description": "BLAST.tv 파리 2023 CS:GO 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "994",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1819,6 +1940,7 @@
   "name": "BLAST.tv 파리 2023 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
   "description": "BLAST.tv 파리 2023 CS:GO 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "995",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1834,6 +1956,7 @@
   "name": "Global Offensive 배지",
   "code": "#CSGO_CollectibleCoin_CoinCsgo",
   "description": "Counter-Strike 2가 출시되기 전 Counter-Strike: Global Offensive 커뮤니티에서 충실하게 활동한 플레이어에게 수여된 배지입니다.\\n\\n<i>전설은 절대 죽지 않습니다.</i>",
+  "def_index": "996",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1849,6 +1972,7 @@
   "name": "보상 작전 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
   "description": "2013년 4월 25일부터 9월 2일까지 총 131일 동안 진행된 보상 작전을 통해 커뮤니티 맵 제작자들에게 18만 달러 이상을 지급했습니다. 이제는 이 참가권을 통해 작전에 참여할 수 없게 되었지만, 여전히 작전 도전 주화를 받을 수 있습니다.",
+  "def_index": "1000",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -1864,6 +1988,7 @@
   "name": "보상 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
   "description": "보상 작전에 참가하여 커뮤니티 맵 제작자들에게 기여했습니다.",
+  "def_index": "1001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1879,6 +2004,7 @@
   "name": "보상 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
   "description": "보상 작전에 10시간 이상을 참가하여 커뮤니티 맵 제작자들에게 기여했습니다.",
+  "def_index": "1002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1894,6 +2020,7 @@
   "name": "보상 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
   "description": "보상 작전의 맵들에서 50시간을 플레이하여 커뮤니티 맵 제작자들에게 기여했습니다.",
+  "def_index": "1003",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1909,6 +2036,7 @@
   "name": "박물관 맵 주화",
   "code": "#CSGO_Collectible_MapTokenMuseum",
   "description": null,
+  "def_index": "1004",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1924,6 +2052,7 @@
   "name": "도심 맵 주화",
   "code": "#CSGO_Collectible_MapTokenDowntown",
   "description": null,
+  "def_index": "1005",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1939,6 +2068,7 @@
   "name": "썬더 맵 주화",
   "code": "#CSGO_Collectible_MapTokenThunder",
   "description": null,
+  "def_index": "1006",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1954,6 +2084,7 @@
   "name": "빈민가 맵 주화",
   "code": "#CSGO_Collectible_MapTokenFavela",
   "description": null,
+  "def_index": "1007",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1969,6 +2100,7 @@
   "name": "모텔 맵 주화",
   "code": "#CSGO_Collectible_MapTokenMotel",
   "description": null,
+  "def_index": "1008",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1984,6 +2116,7 @@
   "name": "해변 맵 주화",
   "code": "#CSGO_Collectible_MapTokenSeaside",
   "description": null,
+  "def_index": "1009",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -1999,6 +2132,7 @@
   "name": "도서관 맵 주화",
   "code": "#CSGO_Collectible_MapTokenLibrary",
   "description": null,
+  "def_index": "1010",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2014,6 +2148,7 @@
   "name": "브라보 작전 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
   "description": "브라보 작전은 2013년 9월 19일부터 2014년 2월 5일까지 진행되었습니다. 작전이 종료되어 이 참가권을 사용할 수는 없지만 브라보 작전 주화로 교환할 수는 있습니다.",
+  "def_index": "1012",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -2029,6 +2164,7 @@
   "name": "브라보 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
   "description": "브라보 작전에 참가했다는 증표입니다.",
+  "def_index": "1013",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2044,6 +2180,7 @@
   "name": "브라보 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
   "description": "브라보 작전에 참가했다는 증표입니다.",
+  "def_index": "1014",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2059,6 +2196,7 @@
   "name": "브라보 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
   "description": "브라보 작전에 참가했다는 증표입니다.",
+  "def_index": "1015",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2074,6 +2212,7 @@
   "name": "에이전시 맵 주화",
   "code": "#CSGO_Collectible_MapTokenAgency",
   "description": null,
+  "def_index": "1016",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2089,6 +2228,7 @@
   "name": "알리 맵 주화",
   "code": "#CSGO_Collectible_MapTokenAli",
   "description": null,
+  "def_index": "1017",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2104,6 +2244,7 @@
   "name": "무기창고 맵 주화",
   "code": "#CSGO_Collectible_MapTokenCache",
   "description": null,
+  "def_index": "1018",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2119,6 +2260,7 @@
   "name": "차이나타운 맵 주화",
   "code": "#CSGO_Collectible_MapTokenChinatown",
   "description": null,
+  "def_index": "1019",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2134,6 +2276,7 @@
   "name": "괄리오르 맵 주화",
   "code": "#CSGO_Collectible_MapTokenGwalior",
   "description": null,
+  "def_index": "1020",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2149,6 +2292,7 @@
   "name": "폐허 맵 주화",
   "code": "#CSGO_Collectible_MapTokenRuins",
   "description": null,
+  "def_index": "1021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2164,6 +2308,7 @@
   "name": "시즈 맵 주화",
   "code": "#CSGO_Collectible_MapTokenSiege",
   "description": null,
+  "def_index": "1022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2179,6 +2324,7 @@
   "name": "피닉스 작전 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
   "description": "피닉스 작전은 2014년 2월 20일부터 6월 11일까지 진행되었습니다. 작전이 종료되어 이 참가권을 사용할 수는 없지만 피닉스 작전 주화로 교환할 수는 있습니다.",
+  "def_index": "1023",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -2194,6 +2340,7 @@
   "name": "피닉스 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
   "description": "피닉스 작전에 참가했다는 증표입니다.",
+  "def_index": "1024",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2209,6 +2356,7 @@
   "name": "피닉스 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
   "description": "피닉스 작전에 참가했다는 증표입니다.",
+  "def_index": "1025",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2224,6 +2372,7 @@
   "name": "피닉스 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
   "description": "피닉스 작전에 참가했다는 증표입니다.",
+  "def_index": "1026",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2239,6 +2388,7 @@
   "name": "돌파 작전 무제한 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
   "description": "돌파 작전은 2014년 6월 2일부터 10월 2일까지 진행되었습니다. 작전이 종료되어 이 참가권을 사용할 수는 없지만 돌파 작전 주화로 교환할 수는 있습니다.",
+  "def_index": "1027",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -2254,6 +2404,7 @@
   "name": "돌파 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
   "description": "돌파 작전에 참가했다는 증표입니다.",
+  "def_index": "1028",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2269,6 +2420,7 @@
   "name": "돌파 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
   "description": "돌파 작전에 참가했다는 증표입니다.",
+  "def_index": "1029",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2284,6 +2436,7 @@
   "name": "돌파 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
   "description": "돌파 작전에 참가했다는 증표입니다.",
+  "def_index": "1030",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2299,6 +2452,7 @@
   "name": "성곽 맵 주화",
   "code": "#CSGO_Collectible_MapTokenCastle",
   "description": null,
+  "def_index": "1031",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2314,6 +2468,7 @@
   "name": "검은 황금 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBlackGold",
   "description": null,
+  "def_index": "1032",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2329,6 +2484,7 @@
   "name": "습격 맵 주화",
   "code": "#CSGO_Collectible_MapTokenRush",
   "description": null,
+  "def_index": "1033",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2344,6 +2500,7 @@
   "name": "안개 맵 주화",
   "code": "#CSGO_Collectible_MapTokenMist",
   "description": null,
+  "def_index": "1034",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2359,6 +2516,7 @@
   "name": "침입 맵 주화",
   "code": "#CSGO_Collectible_MapTokenInsertion",
   "description": null,
+  "def_index": "1035",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2374,6 +2532,7 @@
   "name": "과대 성장 맵 주화",
   "code": "#CSGO_Collectible_MapTokenOvergrown",
   "description": null,
+  "def_index": "1036",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2389,6 +2548,7 @@
   "name": "마르퀴스 맵 주화",
   "code": "#CSGO_Collectible_MapTokenMarquis",
   "description": null,
+  "def_index": "1037",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2404,6 +2564,7 @@
   "name": "실내 운동장 맵 주화",
   "code": "#CSGO_Collectible_MapTokenWorkout",
   "description": null,
+  "def_index": "1038",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2419,6 +2580,7 @@
   "name": "뒷골목 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBackalley",
   "description": null,
+  "def_index": "1039",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2434,6 +2596,7 @@
   "name": "시즌 맵 주화",
   "code": "#CSGO_Collectible_MapTokenSeason",
   "description": null,
+  "def_index": "1040",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2449,6 +2612,7 @@
   "name": "시장 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBazaar",
   "description": null,
+  "def_index": "1041",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2464,6 +2628,7 @@
   "name": "파사드 맵 주화",
   "code": "#CSGO_Collectible_MapTokenFacade",
   "description": null,
+  "def_index": "1042",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2479,6 +2644,7 @@
   "name": "통나무 맵 주화",
   "code": "#CSGO_Collectible_MapTokenLog",
   "description": null,
+  "def_index": "1043",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2494,6 +2660,7 @@
   "name": "철로 맵 주화",
   "code": "#CSGO_Collectible_MapTokenRails",
   "description": null,
+  "def_index": "1044",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2509,6 +2676,7 @@
   "name": "휴양지 맵 주화",
   "code": "#CSGO_Collectible_MapTokenResort",
   "description": null,
+  "def_index": "1045",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2524,6 +2692,7 @@
   "name": "동물원 맵 주화",
   "code": "#CSGO_Collectible_MapTokenZoo",
   "description": null,
+  "def_index": "1046",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2539,6 +2708,7 @@
   "name": "산토리니 맵 주화",
   "code": "#CSGO_Collectible_MapTokenSantorini",
   "description": null,
+  "def_index": "1047",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2554,6 +2724,7 @@
   "name": "해변 맵 주화",
   "code": "#CSGO_Collectible_MapTokenCoast",
   "description": null,
+  "def_index": "1048",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2569,6 +2740,7 @@
   "name": "미클라 맵 주화",
   "code": "#CSGO_Collectible_MapTokenMikla",
   "description": null,
+  "def_index": "1049",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2584,6 +2756,7 @@
   "name": "왕실 맵 주화",
   "code": "#CSGO_Collectible_MapTokenRoyal",
   "description": null,
+  "def_index": "1050",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2599,6 +2772,7 @@
   "name": "제국 맵 주화",
   "code": "#CSGO_Collectible_MapTokenEmpire",
   "description": null,
+  "def_index": "1051",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2614,6 +2788,7 @@
   "name": "튤립 맵 주화",
   "code": "#CSGO_Collectible_MapTokenTulip",
   "description": null,
+  "def_index": "1052",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2629,6 +2804,7 @@
   "name": "유람선 맵 주화",
   "code": "#CSGO_Collectible_MapTokenCruise",
   "description": null,
+  "def_index": "1053",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2644,6 +2820,7 @@
   "name": "서브제로 맵 주화",
   "code": "#CSGO_Collectible_MapTokenSubzero",
   "description": null,
+  "def_index": "1054",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2659,6 +2836,7 @@
   "name": "바이옴 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBiome",
   "description": null,
+  "def_index": "1055",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2674,6 +2852,7 @@
   "name": "수도원 맵 주화",
   "code": "#CSGO_Collectible_MapTokenAbbey",
   "description": null,
+  "def_index": "1056",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2689,6 +2868,7 @@
   "name": "루비 맵 주화",
   "code": "#CSGO_Collectible_MapTokenRuby",
   "description": null,
+  "def_index": "1057",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2704,6 +2884,7 @@
   "name": "브리치 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBreach",
   "description": null,
+  "def_index": "1058",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2719,6 +2900,7 @@
   "name": "스튜디오 맵 주화",
   "code": "#CSGO_Collectible_MapTokenStudio",
   "description": null,
+  "def_index": "1059",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2734,6 +2916,7 @@
   "name": "정글 맵 주화",
   "code": "#CSGO_Collectible_MapTokenJungle",
   "description": null,
+  "def_index": "1060",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2749,6 +2932,7 @@
   "name": "아누비스 맵 주화",
   "code": "#CSGO_Collectible_MapTokenAnubis",
   "description": null,
+  "def_index": "1061",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2764,6 +2948,7 @@
   "name": "클로린 맵 주화",
   "code": "#CSGO_Collectible_MapTokenChlorine",
   "description": null,
+  "def_index": "1062",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2779,6 +2964,7 @@
   "name": "반란 맵 주화",
   "code": "#CSGO_Collectible_MapTokenMutiny",
   "description": null,
+  "def_index": "1063",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2794,6 +2980,7 @@
   "name": "늪지대 맵 주화",
   "code": "#CSGO_Collectible_MapTokenSwamp",
   "description": null,
+  "def_index": "1064",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2809,6 +2996,7 @@
   "name": "프로스트바이트 맵 주화",
   "code": "#CSGO_Collectible_MapTokenFrostbite",
   "description": null,
+  "def_index": "1065",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2824,6 +3012,7 @@
   "name": "교전 맵 주화",
   "code": "#CSGO_Collectible_MapTokenEngage",
   "description": null,
+  "def_index": "1066",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2839,6 +3028,7 @@
   "name": "아폴로 맵 주화",
   "code": "#CSGO_Collectible_MapTokenApollo",
   "description": null,
+  "def_index": "1067",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2854,6 +3044,7 @@
   "name": "가드 맵 주화",
   "code": "#CSGO_Collectible_MapTokenGuard",
   "description": null,
+  "def_index": "1068",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2869,6 +3060,7 @@
   "name": "엘리시온 맵 주화",
   "code": "#CSGO_Collectible_MapTokenElysion",
   "description": null,
+  "def_index": "1069",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2884,6 +3076,7 @@
   "name": "그라인드 맵 주화",
   "code": "#CSGO_Collectible_MapTokenGrind",
   "description": null,
+  "def_index": "1070",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2899,6 +3092,7 @@
   "name": "모카 맵 주화",
   "code": "#CSGO_Collectible_MapTokenMocha",
   "description": null,
+  "def_index": "1071",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2914,6 +3108,7 @@
   "name": "칼라베라 맵 주화",
   "code": "#CSGO_Collectible_MapTokenCalavera",
   "description": null,
+  "def_index": "1072",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2929,6 +3124,7 @@
   "name": "피트스톱 맵 주화",
   "code": "#CSGO_Collectible_MapTokenPitstop",
   "description": null,
+  "def_index": "1073",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2944,6 +3140,7 @@
   "name": "바살트 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBasalt",
   "description": null,
+  "def_index": "1074",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2959,6 +3156,7 @@
   "name": "침입 2 맵 주화",
   "code": "#CSGO_Collectible_MapTokenInsertion2",
   "description": null,
+  "def_index": "1075",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2974,6 +3172,7 @@
   "name": "성채 맵 주화",
   "code": "#CSGO_Collectible_MapTokenRavine",
   "description": null,
+  "def_index": "1076",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -2989,6 +3188,7 @@
   "name": "추출 맵 주화",
   "code": "#CSGO_Collectible_MapTokenExtraction",
   "description": null,
+  "def_index": "1077",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3004,6 +3204,7 @@
   "name": "카운티 맵 주화",
   "code": "#CSGO_Collectible_MapTokenCounty",
   "description": null,
+  "def_index": "1078",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3019,6 +3220,7 @@
   "name": "아이리스 맵 주화",
   "code": "#CSGO_Collectible_MapTokenIris",
   "description": null,
+  "def_index": "1079",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3034,6 +3236,7 @@
   "name": "등반 맵 주화",
   "code": "#CSGO_Collectible_MapTokenClimb",
   "description": null,
+  "def_index": "1080",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3049,6 +3252,7 @@
   "name": "크레타 맵 주화",
   "code": "#CSGO_Collectible_MapTokenCrete",
   "description": null,
+  "def_index": "1081",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3064,6 +3268,7 @@
   "name": "하이브 맵 주화",
   "code": "#CSGO_Collectible_MapTokenHive",
   "description": null,
+  "def_index": "1082",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3079,6 +3284,7 @@
   "name": "포도원 맵 주화",
   "code": "#CSGO_Collectible_MapTokenVineyard",
   "description": null,
+  "def_index": "1083",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3094,6 +3300,7 @@
   "name": "엠버 맵 주화",
   "code": "#CSGO_Collectible_MapTokenEmber",
   "description": null,
+  "def_index": "1084",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3109,6 +3316,7 @@
   "name": "토스카나 맵 주화",
   "code": "#CSGO_Collectible_MapTokenTuscan",
   "description": null,
+  "def_index": "1085",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3124,6 +3332,7 @@
   "name": "폭포 맵 주화",
   "code": "#CSGO_Collectible_MapTokenPrime",
   "description": null,
+  "def_index": "1086",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3139,6 +3348,7 @@
   "name": "블라가이 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBlagai",
   "description": null,
+  "def_index": "1087",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3154,6 +3364,7 @@
   "name": "보야르 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBoyard",
   "description": null,
+  "def_index": "1088",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3169,6 +3380,7 @@
   "name": "성배 맵 주화",
   "code": "#CSGO_Collectible_MapTokenChalice",
   "description": null,
+  "def_index": "1089",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3184,6 +3396,7 @@
   "name": "선봉 작전 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
   "description": "선봉 작전은 2014년 11월 11일부터 2015년 3월 31일까지 진행됐습니다. 이 참가권으로는 작전에 참가할 수 없지만 작전 주화로 교환할 수는 있습니다.",
+  "def_index": "1315",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -3199,6 +3412,7 @@
   "name": "선봉 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
   "description": "선봉 작전에 참가했다는 증표입니다.",
+  "def_index": "1316",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3214,6 +3428,7 @@
   "name": "선봉 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
   "description": "선봉 작전에 참가했다는 증표입니다.",
+  "def_index": "1317",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3229,6 +3444,7 @@
   "name": "선봉 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
   "description": "선봉 작전에 참가했다는 증표입니다.",
+  "def_index": "1318",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3244,6 +3460,7 @@
   "name": "블러드하운드 작전 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonSix2015",
   "description": "블러드하운드 작전은 2015년 5월 26일부터 10월 1일까지 진행되었습니다. 작전이 종료되어 이 참가권을 사용할 수는 없지만 블러드하운드 작전 주화로 교환할 수는 있습니다.",
+  "def_index": "1326",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -3259,6 +3476,7 @@
   "name": "블러드하운드 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
   "description": "블러드하운드 작전에 참가했다는 증표입니다.",
+  "def_index": "1327",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3274,6 +3492,7 @@
   "name": "블러드하운드 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
   "description": "블러드하운드 작전에 참가했다는 증표입니다.",
+  "def_index": "1328",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3289,6 +3508,7 @@
   "name": "블러드하운드 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
   "description": "블러드하운드 작전에 참가했다는 증표입니다.",
+  "def_index": "1329",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3304,6 +3524,7 @@
   "name": "2015년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "2015년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1331",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3319,6 +3540,7 @@
   "name": "2015년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2015",
   "description": "2015년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1332",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3334,6 +3556,7 @@
   "name": "들불 작전 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonSeven2016",
   "description": "들불 작전은 2016년 2월 17일부터 2016년 7월 13일까지 진행되었습니다. 작전이 종료되어 이 참가권을 사용할 수는 없지만 들불 작전 주화로 교환할 수는 있습니다.",
+  "def_index": "1335",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -3349,6 +3572,7 @@
   "name": "들불 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
   "description": "들불 작전에 참여했습니다.",
+  "def_index": "1336",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3364,6 +3588,7 @@
   "name": "들불 작전 은색 주화",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
   "description": "들불 작전에 참여했습니다.",
+  "def_index": "1337",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3379,6 +3604,7 @@
   "name": "들불 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
   "description": "들불 작전에 참여했습니다.",
+  "def_index": "1338",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3394,6 +3620,7 @@
   "name": "2016년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1339",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3409,6 +3636,7 @@
   "name": "2016년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1340",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3424,6 +3652,7 @@
   "name": "2016년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1341",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3439,6 +3668,7 @@
   "name": "2016년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1342",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3454,6 +3684,7 @@
   "name": "2016년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1343",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3469,6 +3700,7 @@
   "name": "2016년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2016",
   "description": "2016년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1344",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3484,6 +3716,7 @@
   "name": "히드라 작전 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonEight2017",
   "description": "히드라 작전은 2017년 5월 23일부터 2017년 11월 14일까지 진행되었습니다. 작전이 종료되어 이 참가권을 사용할 수는 없지만 히드라 작전 주화로 교환할 수는 있습니다.",
+  "def_index": "1352",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -3499,6 +3732,7 @@
   "name": "2017년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1357",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3514,6 +3748,7 @@
   "name": "2017년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1358",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3529,6 +3764,7 @@
   "name": "2017년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1359",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3544,6 +3780,7 @@
   "name": "2017년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1360",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3559,6 +3796,7 @@
   "name": "2017년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1361",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3574,6 +3812,7 @@
   "name": "2017년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1362",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3589,6 +3828,7 @@
   "name": "2017년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2017",
   "description": "2017년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1363",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3604,6 +3844,7 @@
   "name": "2018년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1367",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3619,6 +3860,7 @@
   "name": "2018년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1368",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3634,6 +3876,7 @@
   "name": "2018년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1369",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3649,6 +3892,7 @@
   "name": "2018년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1370",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3664,6 +3908,7 @@
   "name": "2018년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1371",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3679,6 +3924,7 @@
   "name": "2018년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2018",
   "description": "2018년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1372",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3694,6 +3940,7 @@
   "name": "2019년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1376",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3709,6 +3956,7 @@
   "name": "2019년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1377",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3724,6 +3972,7 @@
   "name": "2019년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1378",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3739,6 +3988,7 @@
   "name": "2019년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1379",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3754,6 +4004,7 @@
   "name": "2019년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1380",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3769,6 +4020,7 @@
   "name": "2019년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2019",
   "description": "2019년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "1381",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3784,6 +4036,7 @@
   "name": "히드라 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
   "description": "히드라 작전 주화입니다.\\n주화를 업그레이드하려면 공식 매치메이킹 서버에서 작전 경험치를 쌓으세요.",
+  "def_index": "4353",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3799,6 +4052,7 @@
   "name": "히드라 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
   "description": "히드라 작전 주화입니다.\\n주화를 업그레이드하려면 공식 매치메이킹 서버에서 작전 경험치를 쌓으세요.",
+  "def_index": "4354",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3814,6 +4068,7 @@
   "name": "히드라 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
   "description": "히드라 작전 주화입니다.\\n주화를 업그레이드하려면 공식 매치메이킹 서버에서 작전 경험치를 쌓으세요.",
+  "def_index": "4355",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3829,6 +4084,7 @@
   "name": "히드라 작전 다이아몬드 주화",
   "code": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
   "description": "히드라 작전을 완료하셨습니다.",
+  "def_index": "4356",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3844,6 +4100,7 @@
   "name": "파괴 망 작전 프리미엄 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonNine2019",
   "description": "파괴 망 작전은 2019년 11월 18일부터 2020년 3월 31일까지 진행되었습니다. 작전이 종료되어 이 참가권을 사용할 수는 없지만 파괴 망 작전 주화로 교환할 수는 있습니다.",
+  "def_index": "4549",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -3859,6 +4116,7 @@
   "name": "파괴 망 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
   "description": "파괴 망 작전에 참가했습니다.",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3874,6 +4132,7 @@
   "name": "파괴 망 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
   "description": "파괴 망 작전에 참가했습니다.",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3889,6 +4148,7 @@
   "name": "파괴 망 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
   "description": "파괴 망 작전에 참가했습니다.",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3904,6 +4164,7 @@
   "name": "파괴 망 작전 다이아몬드 주화",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
   "description": "파괴 망 작전을 완료했습니다.",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3919,6 +4180,7 @@
   "name": "카토비체 2019 관전자 패스",
   "code": "#CSGO_TournamentPass_katowice2019",
   "description": "개봉 안 한 IEM 카토비체 2019 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 카토비체 2019 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다..\\n\\n승자 예측 도전을 완료하여 카토비체 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -3934,6 +4196,7 @@
   "name": "카토비체 2019 주화",
   "code": "#CSGO_TournamentJournal_katowice2019",
   "description": "IEM 카토비체 2019 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 카토비체 2019 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 카토비체 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3949,6 +4212,7 @@
   "name": "카토비체 2019 은 주화",
   "code": "#CSGO_TournamentJournal_katowice2019_Silver",
   "description": "IEM 카토비체 2019 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 카토비체 2019 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 카토비체 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3964,6 +4228,7 @@
   "name": "카토비체 2019 금 주화",
   "code": "#CSGO_TournamentJournal_katowice2019_Gold",
   "description": "IEM 카토비체 2019 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 카토비체 2019 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 카토비체 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3979,6 +4244,7 @@
   "name": "카토비체 2019 다이아몬드 주화",
   "code": "#CSGO_TournamentJournal_katowice2019_Crystal",
   "description": "IEM 카토비체 2019 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 카토비체 2019 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 카토비체 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -3994,6 +4260,7 @@
   "name": "베를린 2019 관전자 패스",
   "code": "#CSGO_TournamentPass_berlin2019",
   "description": "개봉 안 한 StarLadder 베를린 2019 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 베를린 2019 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 베를린 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4622",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4009,6 +4276,7 @@
   "name": "베를린 2019 주화",
   "code": "#CSGO_TournamentJournal_berlin2019",
   "description": "StarLadder 베를린 2019 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 베를린 2019 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 베를린 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4623",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4024,6 +4292,7 @@
   "name": "베를린 2019 은 주화",
   "code": "#CSGO_TournamentJournal_berlin2019_Silver",
   "description": "StarLadder 베를린 2019 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 베를린 2019 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 베를린 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4624",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4039,6 +4308,7 @@
   "name": "베를린 2019 금 주화",
   "code": "#CSGO_TournamentJournal_berlin2019_Gold",
   "description": "StarLadder 베를린 2019 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 베를린 2019 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 베를린 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4625",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4054,6 +4324,7 @@
   "name": "베를린 2019 다이아몬드 주화",
   "code": "#CSGO_TournamentJournal_berlin2019_Crystal",
   "description": "StarLadder 베를린 2019 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 베를린 2019 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 베를린 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4626",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4069,6 +4340,7 @@
   "name": "베를린 2019 관전자 패스 + 기념품 토큰 3개",
   "code": "#CSGO_TournamentPass_berlin2019_pack",
   "description": "개봉 안 한 StarLadder 베를린 2019 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 베를린 2019 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 베를린 2019 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n관전자 패스는 베를린 2019 주화 및 기념품 토큰 3개를 사전에 활성화합니다.",
+  "def_index": "4627",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4084,6 +4356,7 @@
   "name": "베를린 2019 기념품 토큰",
   "code": "#CSGO_TournamentPass_berlin2019_charge",
   "description": "개봉 안 한 StarLadder 베를린 2019 메이저 대회 기념품 토큰입니다. 한 번 개봉하면, 내 베를린 2019 주화에 토큰이 추가되며 기념품 패키지를 요청할 수 있습니다.\\n\\n토큰은 소지하고 있는 베를린 2019 주화에만 사용할 수 있습니다.",
+  "def_index": "4628",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4091,7 +4364,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Berlin 2019 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/starladder_pickem_2019_pass_charge_png.png"
  },
  {
@@ -4099,6 +4372,7 @@
   "name": "파괴 망 작전 별 1개",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
   "description": "구매 가능한 작전 별 업그레이드는 <b>작전 별 1개</b>가 활성화 되었을때 지급됩니다.\\n\\n 이 작전 별 업그레이드는 작전 주화를 가지고 있는 플레이어에만 한해 가능합니다.",
+  "def_index": "4671",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4114,6 +4388,7 @@
   "name": "파괴 망 작전 별 10개",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
   "description": "구매 가능한 작전 별 업그레이드는 <b>작전 별 10개</b>가 활성화 되었을때 지급됩니다.\\n\\n 이 작전 별 업그레이드는 작전 주화를 가지고 있는 플레이어에만 한해 가능합니다.",
+  "def_index": "4672",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4129,6 +4404,7 @@
   "name": "파괴 망 작전 별 100개",
   "code": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
   "description": "구매 가능한 작전 별 업그레이드는 <b>작전 별 100개</b>가 활성화 되었을때 지급됩니다.\\n\\n 이 작전 별 업그레이드는 작전 주화를 가지고 있는 플레이어에만 한해 가능합니다.",
+  "def_index": "4673",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4144,6 +4420,7 @@
   "name": "2020년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4674",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4159,6 +4436,7 @@
   "name": "2020년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4675",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4174,6 +4452,7 @@
   "name": "2020년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4676",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4189,6 +4468,7 @@
   "name": "2020년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4677",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4204,6 +4484,7 @@
   "name": "2020년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4678",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4219,6 +4500,7 @@
   "name": "2020년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2020",
   "description": "2020년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4679",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4234,6 +4516,7 @@
   "name": "시민 보호 기동대 핀",
   "code": "#CSGO_Collectible_Pin_alyx_04",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4682",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4249,6 +4532,7 @@
   "name": "자양물이오! 핀",
   "code": "#CSGO_Collectible_Pin_alyx_07",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4683",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -4264,6 +4548,7 @@
   "name": "보르티곤트 핀",
   "code": "#CSGO_Collectible_Pin_alyx_09",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4684",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -4279,6 +4564,7 @@
   "name": "헤드크랩 문양 핀",
   "code": "#CSGO_Collectible_Pin_alyx_05",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4685",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -4294,6 +4580,7 @@
   "name": "체력 핀",
   "code": "#CSGO_Collectible_Pin_alyx_12",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4686",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -4309,6 +4596,7 @@
   "name": "람다 핀",
   "code": "#CSGO_Collectible_Pin_alyx_01",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4687",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -4324,6 +4612,7 @@
   "name": "구리 람다 핀",
   "code": "#CSGO_Collectible_Pin_alyx_02",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4688",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -4339,6 +4628,7 @@
   "name": "콤바인 핀",
   "code": "#CSGO_Collectible_Pin_alyx_03",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4689",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -4354,6 +4644,7 @@
   "name": "블랙 메사 핀",
   "code": "#CSGO_Collectible_Pin_alyx_06",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4690",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -4369,6 +4660,7 @@
   "name": "콤바인 헬멧 핀",
   "code": "#CSGO_Collectible_Pin_alyx_08",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4691",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -4384,6 +4676,7 @@
   "name": "17번 지구 핀",
   "code": "#CSGO_Collectible_Pin_alyx_11",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "4692",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -4399,6 +4692,7 @@
   "name": "브로큰 팽 작전 프리미엄 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonTen2020",
   "description": "브로큰 팽 작전은 2020년 12월 3일부터 2021년 4월 30일까지 진행되었습니다. 작전이 종료되어 이 참가권을 사용할 수는 없지만 브로큰 팽 작전 주화로 교환할 수는 있습니다.",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4414,6 +4708,7 @@
   "name": "브로큰 팽 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
   "description": "브로큰 팽 작전에 참가했습니다.",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4429,6 +4724,7 @@
   "name": "브로큰 팽 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
   "description": "브로큰 팽 작전에 참가했습니다.",
+  "def_index": "4701",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4444,6 +4740,7 @@
   "name": "브로큰 팽 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
   "description": "브로큰 팽 작전에 참가했습니다.",
+  "def_index": "4702",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4459,6 +4756,7 @@
   "name": "브로큰 팽 작전 다이아몬드 주화",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
   "description": "브로큰 팽 작전을 완료했습니다.",
+  "def_index": "4703",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4474,6 +4772,7 @@
   "name": "브로큰 팽 작전 별 1개",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
   "description": "구매할 수 있는 작전 별 업그레이드는 활성화 시 <b>작전 별 1개</b>가 지급됩니다.",
+  "def_index": "4704",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4489,6 +4788,7 @@
   "name": "브로큰 팽 작전 별 10개",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
   "description": "구매할 수 있는 작전 별 업그레이드는 활성화 시 <b>작전 별 10개</b>가 지급됩니다.",
+  "def_index": "4705",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4504,6 +4804,7 @@
   "name": "브로큰 팽 작전 별 100개",
   "code": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
   "description": "구매할 수 있는 작전 별 업그레이드는 활성화 시 <b>작전 별 100개</b>이 지급됩니다.",
+  "def_index": "4706",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4519,6 +4820,7 @@
   "name": "2021년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4737",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4534,6 +4836,7 @@
   "name": "2021년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4738",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4549,6 +4852,7 @@
   "name": "2021년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4739",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4564,6 +4868,7 @@
   "name": "2021년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4740",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4579,6 +4884,7 @@
   "name": "2021년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4741",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4594,6 +4900,7 @@
   "name": "2021년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2021",
   "description": "2021년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4742",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4609,6 +4916,7 @@
   "name": "립타이드 작전 프리미엄 참가권",
   "code": "#CSGO_Ticket_CommunitySeasonEleven2021",
   "description": "립타이드 작전 프리미엄 참가권은 기념으로 업그레이드 가능한 립타이드 작전 주화, 주간 임무, 운영 상점 내 독점 물품에 대한 접근을 허용합니다.",
+  "def_index": "4758",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4624,6 +4932,7 @@
   "name": "립타이드 작전 도전 주화",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
   "description": "립타이드 작전에 참가했습니다.",
+  "def_index": "4759",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4639,6 +4948,7 @@
   "name": "립타이드 작전 은 주화",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
   "description": "립타이드 작전에 참가했습니다.",
+  "def_index": "4760",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4654,6 +4964,7 @@
   "name": "립타이드 작전 금 주화",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
   "description": "립타이드 작전에 참가했습니다.",
+  "def_index": "4761",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4669,6 +4980,7 @@
   "name": "립타이드 작전 다이아몬드 주화",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
   "description": "립타이드 작전을 완료했습니다.",
+  "def_index": "4762",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4684,6 +4996,7 @@
   "name": "립타이드 작전 별 1개",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
   "description": "구매할 수 있는 작전 별 업그레이드는 활성화 시 <b>작전 별 1개</b>가 지급됩니다.",
+  "def_index": "4763",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4699,6 +5012,7 @@
   "name": "립타이드 작전 별 10개",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
   "description": "구매할 수 있는 작전 별 업그레이드는 활성화 시 <b>작전 별 10개</b>가 지급됩니다.",
+  "def_index": "4764",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4714,6 +5028,7 @@
   "name": "립타이드 작전 별 100개",
   "code": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
   "description": "구매할 수 있는 작전 별 업그레이드는 활성화 시 <b>작전 별 100개</b>가 지급됩니다.",
+  "def_index": "4765",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4729,6 +5044,7 @@
   "name": "스톡홀름 2021 관전자 패스",
   "code": "#CSGO_TournamentPass_stockh2021",
   "description": "개봉 안 한 PGL 안트베르펜 2021 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 스톡홀름 2021 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다. \\n\\n승자 예측 도전을 완료하여 스톡홀름 2021 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4796",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4744,6 +5060,7 @@
   "name": "스톡홀름 2021 주화",
   "code": "#CSGO_TournamentJournal_stockh2021",
   "description": "PGL 스톡홀름 2021 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 스톡홀름 2021 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 스톡홀름 2021 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4797",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4759,6 +5076,7 @@
   "name": "스톡홀름 2021 은 주화",
   "code": "#CSGO_TournamentJournal_stockh2021_Silver",
   "description": "PGL 스톡홀름 2021 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 스톡홀름 2021 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 스톡홀름 2021 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4798",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4774,6 +5092,7 @@
   "name": "스톡홀름 2021 금 주화",
   "code": "#CSGO_TournamentJournal_stockh2021_Gold",
   "description": "PGL 스톡홀름 2021 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 스톡홀름 2021 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 스톡홀름 2021 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4799",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4789,6 +5108,7 @@
   "name": "스톡홀름 2021 다이아몬드 주화",
   "code": "#CSGO_TournamentJournal_stockh2021_Crystal",
   "description": "PGL 스톡홀름 2021 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 스톡홀름 2021 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 스톡홀름 2021 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4800",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4804,6 +5124,7 @@
   "name": "스톡홀름 2021 관전자 패스 + 기념품 토큰 3개",
   "code": "#CSGO_TournamentPass_stockh2021_pack",
   "description": "개봉 안 한 PGL 스톡홀름 2021 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 스톡홀름 2021 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 스톡홀름 2021 주화를 업그레이드할 수 있습니다. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n관전자 패스는 스톡홀름 2021 주화 및 기념품 토큰 3개를 사전에 활성화합니다.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4801",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4819,6 +5140,7 @@
   "name": "스톡홀름 2021 기념품 토큰",
   "code": "#CSGO_TournamentPass_stockh2021_charge",
   "description": "개봉 안 한 PGL 스톡홀름 2021 메이저 대회 기념품 토큰입니다. 한 번 개봉하면, 내 스톡홀름 2021 주화에 토큰이 추가되며 기념품 패키지를 요청할 수 있습니다.\\n\\n토큰은 소지하고 있는 스톡홀름 2021 주화에만 사용할 수 있습니다.",
+  "def_index": "4802",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4826,7 +5148,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Stockholm 2021 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2021_pass_charge_png.png"
  },
  {
@@ -4834,6 +5156,7 @@
   "name": "2022년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4819",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4849,6 +5172,7 @@
   "name": "2022년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4820",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4864,6 +5188,7 @@
   "name": "2022년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4821",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4879,6 +5204,7 @@
   "name": "2022년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4822",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4894,6 +5220,7 @@
   "name": "2022년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4823",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4909,6 +5236,7 @@
   "name": "2022년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2022",
   "description": "2022년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4824",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4924,6 +5252,7 @@
   "name": "안트베르펜 2022 관전자 패스",
   "code": "#CSGO_TournamentPass_antwerp2022",
   "description": "개봉 안 한 PGL 안트베르펜 2022 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 안트베르펜 2022 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 안트베르펜 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4825",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -4939,6 +5268,7 @@
   "name": "안트베르펜 2022 주화",
   "code": "#CSGO_TournamentJournal_antwerp2022",
   "description": "PGL 안트베르펜 2022 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 안트베르펜 2022 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 안트베르펜 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4826",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4954,6 +5284,7 @@
   "name": "안트베르펜 2022 은 주화",
   "code": "#CSGO_TournamentJournal_antwerp2022_Silver",
   "description": "PGL 안트베르펜 2022 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 안트베르펜 2022 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 안트베르펜 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4827",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4969,6 +5300,7 @@
   "name": "안트베르펜 2022 금 주화",
   "code": "#CSGO_TournamentJournal_antwerp2022_Gold",
   "description": "PGL 안트베르펜 2022 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 안트베르펜 2022 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 안트베르펜 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4828",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4984,6 +5316,7 @@
   "name": "안트베르펜 2022 다이아몬드 주화",
   "code": "#CSGO_TournamentJournal_antwerp2022_Crystal",
   "description": "PGL 안트베르펜 2022 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 안트베르펜 2022 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 안트베르펜 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4829",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -4999,6 +5332,7 @@
   "name": "안트베르펜 2022 관전자 패스 + 기념품 토큰 3개",
   "code": "#CSGO_TournamentPass_antwerp2022_pack",
   "description": "개봉 안 한 PGL 안트베르펜 2022 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 안트베르펜 2022 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 안트베르펜 2022 주화를 업그레이드할 수 있습니다. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n관전자 패스는 안트베르펜 2022 주화 및 기념품 토큰 3개를 사전에 활성화합니다.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4830",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5014,6 +5348,7 @@
   "name": "안트베르펜 2022 기념품 토큰",
   "code": "#CSGO_TournamentPass_antwerp2022_charge",
   "description": "개봉 안 한 PGL 안트베르펜 2022 메이저 대회 기념품 토큰입니다. 한 번 개봉하면, 내 안트베르펜 2022 주화에 토큰이 추가되며 기념품 패키지를 요청할 수 있습니다.\\n\\n토큰은 소지하고 있는 안트베르펜 2022 주화에만 사용할 수 있습니다.",
+  "def_index": "4831",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5021,7 +5356,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Antwerp 2022 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2022_pass_charge_png.png"
  },
  {
@@ -5029,6 +5364,7 @@
   "name": "리우데자네이루 2022 관전자 패스",
   "code": "#CSGO_TournamentPass_rio2022",
   "description": "개봉 안 한 IEM 리우데자네이루 2022 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 리우데자네이루 2022 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 리우데자네이루 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4850",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5044,6 +5380,7 @@
   "name": "리우데자네이루 2022 주화",
   "code": "#CSGO_TournamentJournal_rio2022",
   "description": "IEM 리우데자네이루 2022 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 리우데자네이루 2022 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 리우데자네이루 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4851",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5059,6 +5396,7 @@
   "name": "리우데자네이루 2022 은 주화",
   "code": "#CSGO_TournamentJournal_rio2022_Silver",
   "description": "IEM 리우데자네이루 2022 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 리우데자네이루 2022 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 리우데자네이루 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4852",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5074,6 +5412,7 @@
   "name": "리우데자네이루 2022 금 주화",
   "code": "#CSGO_TournamentJournal_rio2022_Gold",
   "description": "IEM 리우데자네이루 2022 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 리우데자네이루 2022 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 리우데자네이루 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4853",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5089,6 +5428,7 @@
   "name": "리우데자네이루 2022 다이아몬드 주화",
   "code": "#CSGO_TournamentJournal_rio2022_Crystal",
   "description": "IEM 리우데자네이루 2022 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 리우데자네이루 2022 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 리우데자네이루 2022 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4854",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5104,6 +5444,7 @@
   "name": "리우데자네이루 2022 관전자 패스 + 기념품 토큰 3개",
   "code": "#CSGO_TournamentPass_rio2022_pack",
   "description": "개봉 안 한 IEM 리우데자네이루 2022 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 리우데자네이루 2022 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 리우데자네이루 2022 주화를 업그레이드할 수 있습니다. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n관전자 패스는 리우데자네이루 2022 주화 및 기념품 토큰 3개를 사전에 활성화합니다.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4855",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5119,6 +5460,7 @@
   "name": "리우데자네이루 2022 기념품 토큰",
   "code": "#CSGO_TournamentPass_rio2022_charge",
   "description": "개봉 안 한 IEM 리우데자네이루 2022 메이저 대회 기념품 토큰입니다. 한 번 개봉하면, 내 리우데자네이루 2022 주화에 토큰이 추가되며 기념품 패키지를 요청할 수 있습니다.\\n\\n토큰은 소지하고 있는 리우데자네이루 2022 주화에만 사용할 수 있습니다.",
+  "def_index": "4856",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5126,7 +5468,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Rio 2022 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/iem_pickem_2022_pass_charge_png.png"
  },
  {
@@ -5134,6 +5476,7 @@
   "name": "2023년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4873",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5149,6 +5492,7 @@
   "name": "2023년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4874",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5164,6 +5508,7 @@
   "name": "2023년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4875",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5179,6 +5524,7 @@
   "name": "2023년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4876",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5194,6 +5540,7 @@
   "name": "2023년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4877",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5209,6 +5556,7 @@
   "name": "2023년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2023",
   "description": "2023년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4878",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5224,6 +5572,7 @@
   "name": "파리 2023 관전자 패스",
   "code": "#CSGO_TournamentPass_paris2023",
   "description": "개봉 안 한 BLAST.tv 파리 2023 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 파리 2023 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 파리 2023 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4883",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5239,6 +5588,7 @@
   "name": "파리 2023 주화",
   "code": "#CSGO_TournamentJournal_paris2023",
   "description": "BLAST.tv 파리 2023 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 파리 2023 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 파리 2023 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4884",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5254,6 +5604,7 @@
   "name": "파리 2023 은 주화",
   "code": "#CSGO_TournamentJournal_paris2023_Silver",
   "description": "BLAST.tv 파리 2023 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 파리 2023 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 파리 2023 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4885",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5269,6 +5620,7 @@
   "name": "파리 2023 금 주화",
   "code": "#CSGO_TournamentJournal_paris2023_Gold",
   "description": "BLAST.tv 파리 2023 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 파리 2023 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 파리 2023 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4886",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5284,6 +5636,7 @@
   "name": "파리 2023 다이아몬드 주화",
   "code": "#CSGO_TournamentJournal_paris2023_Crystal",
   "description": "BLAST.tv 파리 2023 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 파리 2023 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 파리 2023 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4887",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5299,6 +5652,7 @@
   "name": "파리 2023 관전자 패스 + 기념품 토큰 3개",
   "code": "#CSGO_TournamentPass_paris2023_pack",
   "description": "개봉 안 한 BLAST.tv 파리 2023 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 파리 2023 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 파리 2023 주화를 업그레이드할 수 있습니다. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n관전자 패스는 파리 2023 주화 및 기념품 토큰 3개를 사전에 활성화합니다.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4888",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5314,6 +5668,7 @@
   "name": "파리 2023 기념품 토큰",
   "code": "#CSGO_TournamentPass_paris2023_charge",
   "description": "개봉 안 한 BLAST.tv 파리 2023 메이저 대회 기념품 토큰입니다. 한 번 개봉하면, 내 파리 2023 주화에 토큰이 추가되며 기념품 패키지를 요청할 수 있습니다.\\n\\n토큰은 소지하고 있는 파리 2023 주화에만 사용할 수 있습니다.",
+  "def_index": "4889",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5321,7 +5676,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Paris 2023 Souvenir Token",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/blast_pickem_2023_pass_charge_png.png"
  },
  {
@@ -5329,6 +5684,7 @@
   "name": "2024년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4906",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5344,6 +5700,7 @@
   "name": "2024년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4907",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5359,6 +5716,7 @@
   "name": "2024년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4908",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5374,6 +5732,7 @@
   "name": "2024년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4909",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5389,6 +5748,7 @@
   "name": "2024년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4910",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5404,6 +5764,7 @@
   "name": "2024년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2024",
   "description": "2024년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4911",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5419,6 +5780,7 @@
   "name": "코펜하겐 2024 관전자 패스",
   "code": "#CSGO_TournamentPass_cph2024",
   "description": "개봉 안 한 PGL 코펜하겐 2024 CS2 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 코펜하겐 2024 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 코펜하겐 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4916",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5434,6 +5796,7 @@
   "name": "코펜하겐 2024 주화",
   "code": "#CSGO_TournamentJournal_cph2024",
   "description": "PGL 코펜하겐 2024 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 코펜하겐 2024 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 코펜하겐 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4917",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5449,6 +5812,7 @@
   "name": "코펜하겐 2024 은 주화",
   "code": "#CSGO_TournamentJournal_cph2024_Silver",
   "description": "PGL 코펜하겐 2024 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 코펜하겐 2024 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 코펜하겐 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4918",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5464,6 +5828,7 @@
   "name": "코펜하겐 2024 금 주화",
   "code": "#CSGO_TournamentJournal_cph2024_Gold",
   "description": "PGL 코펜하겐 2024 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 코펜하겐 2024 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 코펜하겐 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4919",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5479,6 +5844,7 @@
   "name": "코펜하겐 2024 다이아몬드 주화",
   "code": "#CSGO_TournamentJournal_cph2024_Crystal",
   "description": "PGL 코펜하겐 2024 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 코펜하겐 2024 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 코펜하겐 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4920",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5494,6 +5860,7 @@
   "name": "코펜하겐 2024 관전자 패스 + 기념품 토큰 3개",
   "code": "#CSGO_TournamentPass_cph2024_pack",
   "description": "개봉 안 한 PGL 코펜하겐 2024 CS2 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 코펜하겐 2024 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 코펜하겐 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n관전자 패스는 코펜하겐 2024 주화 및 기념품 토큰 3개를 사전에 활성화합니다.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4921",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5509,6 +5876,7 @@
   "name": "코펜하겐 2024 기념품 패키지",
   "code": "#CSGO_TournamentPass_cph2024_charge",
   "description": "이 PGL 코펜하겐 2024 CS2 메이저 대회 기념품 패키지는 개봉되지 않은 상태입니다.",
+  "def_index": "4922",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5516,7 +5884,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Copenhagen 2024 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2024_pass_charge_png.png"
  },
  {
@@ -5524,6 +5892,7 @@
   "name": "PGL 코펜하겐 2024 우승팀",
   "code": "#CSGO_CollectibleCoin_cph2024_Champion",
   "description": "PGL 코펜하겐 2024 CS2 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "4933",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5539,6 +5908,7 @@
   "name": "PGL 코펜하겐 2024 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_cph2024_Finalist",
   "description": "PGL 코펜하겐 2024 CS2 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "4934",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5554,6 +5924,7 @@
   "name": "PGL 코펜하겐 2024 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
   "description": "PGL 코펜하겐 2024 CS2 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "4935",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5569,6 +5940,7 @@
   "name": "PGL 코펜하겐 2024 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
   "description": "PGL 코펜하겐 2024 CS2 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "4936",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5584,6 +5956,7 @@
   "name": "테라 맵 주화",
   "code": "#CSGO_Collectible_MapTokenThera",
   "description": "CS2 '테라' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5599,6 +5972,7 @@
   "name": "밀스 맵 주화",
   "code": "#CSGO_Collectible_MapTokenMills",
   "description": "CS2 '밀스' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5614,6 +5988,7 @@
   "name": "어셈블리 맵 주화",
   "code": "#CSGO_Collectible_MapTokenAssembly",
   "description": "CS2 '어셈블리' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5629,6 +6004,7 @@
   "name": "메멘토 맵 주화",
   "code": "#CSGO_Collectible_MapTokenMemento",
   "description": "CS2 '메멘토' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5644,6 +6020,7 @@
   "name": "풀 데이 맵 주화",
   "code": "#CSGO_Collectible_MapTokenPoolDay",
   "description": "CS2 '풀 데이' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5659,6 +6036,7 @@
   "name": "2025년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4951",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5674,6 +6052,7 @@
   "name": "2025년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4952",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5689,6 +6068,7 @@
   "name": "2025년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4953",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5704,6 +6084,7 @@
   "name": "2025년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4954",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5719,6 +6100,7 @@
   "name": "2025년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4955",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5734,6 +6116,7 @@
   "name": "2025년 무공 훈장",
   "code": "#CSGO_Collectible_GlobalGeneral2025",
   "description": "2025년에 뛰어난 무공과 업적을 남겼기에 수여합니다.",
+  "def_index": "4956",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5749,6 +6132,7 @@
   "name": "상하이 2024 관전자 패스",
   "code": "#CSGO_TournamentPass_sha2024",
   "description": "개봉 안 한 Perfect World 상하이 2024 CS2 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 상하이 2024 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 상하이 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4957",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5764,6 +6148,7 @@
   "name": "상하이 2024 주화",
   "code": "#CSGO_TournamentJournal_sha2024",
   "description": "Perfect World 상하이 2024 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 상하이 2024 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 상하이 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4958",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5779,6 +6164,7 @@
   "name": "상하이 2024 은 주화",
   "code": "#CSGO_TournamentJournal_sha2024_Silver",
   "description": "Perfect World 상하이 2024 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 상하이 2024 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 상하이 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4959",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5794,6 +6180,7 @@
   "name": "상하이 2024 금 주화",
   "code": "#CSGO_TournamentJournal_sha2024_Gold",
   "description": "Perfect World 상하이 2024 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 상하이 2024 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 상하이 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4960",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5809,6 +6196,7 @@
   "name": "상하이 2024 다이아몬드 주화",
   "code": "#CSGO_TournamentJournal_sha2024_Crystal",
   "description": "Perfect World 상하이 2024 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 상하이 2024 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 상하이 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "4961",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5824,6 +6212,7 @@
   "name": "상하이 2024 관전자 패스 + 기념품 토큰 3개",
   "code": "#CSGO_TournamentPass_sha2024_pack",
   "description": "개봉 안 한  Perfect World 상하이 2024 CS2 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 상하이 2024 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 상하이 2024 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n관전자 패스는 상하이 2024 주화 및 기념품 토큰 3개를 사전에 활성화합니다.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "4962",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5839,6 +6228,7 @@
   "name": "상하이 2024 기념품 패키지",
   "code": "#CSGO_TournamentPass_sha2024_charge",
   "description": "이 Perfect World 상하이 2024 CS2 메이저 대회 기념품 패키지는 개봉되지 않은 상태입니다.",
+  "def_index": "4963",
   "rarity": {
    "id": "rarity_common",
    "name": "일반",
@@ -5846,7 +6236,7 @@
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Shanghai 2024 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pw_pickem_2024_pass_charge_png.png"
  },
  {
@@ -5854,6 +6244,7 @@
   "name": "Perfect World 상하이 2024 우승팀",
   "code": "#CSGO_CollectibleCoin_sha2024_Champion",
   "description": "Perfect World 상하이 2024 CS2 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "4974",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5869,6 +6260,7 @@
   "name": "Perfect World 상하이 2024 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_sha2024_Finalist",
   "description": "Perfect World 상하이 2024 CS2 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "4975",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5884,6 +6276,7 @@
   "name": "Perfect World 상하이 2024 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
   "description": "Perfect World 상하이 2024 CS2 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "4976",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5899,6 +6292,7 @@
   "name": "Perfect World 상하이 2024 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
   "description": "Perfect World 상하이 2024 CS2 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "4977",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5914,6 +6308,7 @@
   "name": "휘슬 맵 주화",
   "code": "#CSGO_Collectible_MapTokenWhistle",
   "description": "CS2 '휘슬' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "4982",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5929,6 +6324,7 @@
   "name": "팔레 맵 주화",
   "code": "#CSGO_Collectible_MapTokenPalais",
   "description": "CS2 '팔레' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "4983",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5944,6 +6340,7 @@
   "name": "에딘 맵 주화",
   "code": "#CSGO_Collectible_MapTokenEdin",
   "description": "CS2 '에딘' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "4984",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5959,6 +6356,7 @@
   "name": "바살트 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBasaltCS2",
   "description": "CS2 '바살트' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "4985",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5974,6 +6372,7 @@
   "name": "프리미어 시즌 1 훈장",
   "code": "#CSGO_Collectible_PremierSeason1Coin",
   "description": "프리미어 시즌 1 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4986",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -5989,6 +6388,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4987",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6004,6 +6404,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4988",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6019,6 +6420,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4989",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6034,6 +6436,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4990",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6049,6 +6452,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4991",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6064,6 +6468,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4992",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6079,6 +6484,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4993",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6094,6 +6500,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4994",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6109,6 +6516,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4995",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6124,6 +6532,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4996",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6139,6 +6548,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4997",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6154,6 +6564,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4998",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6169,6 +6580,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "4999",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6184,6 +6596,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5000",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6199,6 +6612,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6214,6 +6628,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6229,6 +6644,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5003",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6244,6 +6660,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5004",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6259,6 +6676,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5005",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6274,6 +6692,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5006",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6289,6 +6708,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5007",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6304,6 +6724,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5008",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6319,6 +6740,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5009",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6334,6 +6756,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5010",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6349,6 +6772,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5011",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6364,6 +6788,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5012",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6379,6 +6804,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5013",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6394,6 +6820,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5014",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6409,6 +6836,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5015",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6424,6 +6852,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5016",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6439,6 +6868,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5017",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6454,6 +6884,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5018",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6469,6 +6900,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5019",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6484,6 +6916,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5020",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6499,6 +6932,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6514,6 +6948,7 @@
   "name": "프리미어 시즌 2 훈장",
   "code": "#CSGO_Collectible_PremierSeason2Coin",
   "description": "프리미어 시즌 2 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6529,10 +6964,11 @@
   "name": "오스틴 2025 관전자 패스",
   "code": "#CSGO_TournamentPass_aus2025",
   "description": "개봉 안 한 BLAST.tv 오스틴 2025 CS2 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 오스틴 2025 CS2 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 오스틴 2025 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "5110",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "일반",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
@@ -6544,10 +6980,11 @@
   "name": "오스틴 2025 주화",
   "code": "#CSGO_TournamentJournal_aus2025",
   "description": "BLAST.tv 오스틴 2025 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 오스틴 2025 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 오스틴 2025 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "5111",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "희귀",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6559,10 +6996,11 @@
   "name": "오스틴 2025 은 주화",
   "code": "#CSGO_TournamentJournal_aus2025_Silver",
   "description": "BLAST.tv 오스틴 2025 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 오스틴 2025 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 오스틴 2025 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "5112",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "희귀",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6574,10 +7012,11 @@
   "name": "오스틴 2025 금 주화",
   "code": "#CSGO_TournamentJournal_aus2025_Gold",
   "description": "BLAST.tv 오스틴 2025 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 오스틴 2025 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 오스틴 2025 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "5113",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "희귀",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6589,10 +7028,11 @@
   "name": "오스틴 2025 다이아몬드 주화",
   "code": "#CSGO_TournamentJournal_aus2025_Crystal",
   "description": "BLAST.tv 오스틴 2025 CS2 메이저 대회를 기념하는 주화입니다. 승자 예측 도전 진행 상황을 확인하고, 모든 오스틴 2025 승자 예측 도전과 주화 업그레이드 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식과 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 오스틴 2025 주화를 업그레이드하세요. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.",
+  "def_index": "5114",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_ancient",
+   "name": "희귀",
+   "color": "#eb4b4b"
   },
   "type": "Pick'Em Coin",
   "genuine": false,
@@ -6604,10 +7044,11 @@
   "name": "오스틴 2025 관전자 패스 + 기념품 토큰 3개",
   "code": "#CSGO_TournamentPass_aus2025_pack",
   "description": "개봉 안 한 BLAST.tv 오스틴 2025 CS2 메이저 대회 관전자 패스입니다. 한 번 개봉하면, 오스틴 2025 CS2 메이저 대회 승자 예측 도전 진행 상황을 확인하고 승자 예측 도전에 참여할 수 있습니다. 또한 이벤트 진행 기간 중 사용 가능한 Steam.tv 채팅 장식, 주화 도전, 무제한 그래피티가 제공됩니다.\\n\\n승자 예측 도전을 완료하여 오스틴 2025 주화를 업그레이드할 수 있습니다. 주화를 업그레이드할 때마다 기념품 토큰도 획득하세요.\\n\\n관전자 패스는 오스틴 2025 주화 및 기념품 토큰 3개를 사전에 활성화합니다.\\n\\n판매 수익의 50%는 대회에 참가한 관련 단체를 지원하는 데 사용됩니다.",
+  "def_index": "5115",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "일반",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
@@ -6619,14 +7060,15 @@
   "name": "오스틴 2025 기념품 패키지",
   "code": "#CSGO_TournamentPass_aus2025_charge",
   "description": "이 BLAST.tv 오스틴 2025 CS2 메이저 대회 기념품 패키지는 개봉되지 않은 상태입니다.",
+  "def_index": "5116",
   "rarity": {
-   "id": null,
-   "name": null,
-   "color": null
+   "id": "rarity_common",
+   "name": "일반",
+   "color": "#b0c3d9"
   },
   "type": "Pass",
   "genuine": false,
-  "market_hash_name": "Austin 2025 Souvenir Package",
+  "market_hash_name": null,
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/aus2025/aus2025_pass_charge_png.png"
  },
  {
@@ -6634,6 +7076,7 @@
   "name": "BLAST.tv 오스틴 2025 CS2 메이저 대회 우승팀",
   "code": "#CSGO_CollectibleCoin_aus2025_Champion",
   "description": "BLAST.tv 오스틴 2025 CS2 메이저 대회 우승팀에 수여된 트로피입니다.",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6649,6 +7092,7 @@
   "name": "BLAST.tv 오스틴 2025 결승 진출팀",
   "code": "#CSGO_CollectibleCoin_aus2025_Finalist",
   "description": "BLAST.tv 오스틴 2025 CS2 메이저 대회의 결승 진출팀에 수여된 트로피입니다.",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6664,6 +7108,7 @@
   "name": "BLAST.tv 오스틴 2025 CS2 메이저 대회 4강 진출팀",
   "code": "#CSGO_CollectibleCoin_aus2025_Semifinalist",
   "description": "BLAST.tv 오스틴 2025 CS2 메이저 대회의 4강 진출팀에 수여된 트로피입니다.",
+  "def_index": "5129",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6679,6 +7124,7 @@
   "name": "BLAST.tv 오스틴 2025 CS2 메이저 대회 8강 진출팀",
   "code": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist",
   "description": "BLAST.tv 오스틴 2025 CS2 메이저 대회의 8강 진출팀에 수여된 트로피입니다.",
+  "def_index": "5130",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6694,6 +7140,7 @@
   "name": "에이전시 맵 주화",
   "code": "#CSGO_Collectible_MapTokenAgencyCS2",
   "description": "CS2 '에이전시' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "5135",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6709,6 +7156,7 @@
   "name": "쥐라 맵 주화",
   "code": "#CSGO_Collectible_MapTokenJura",
   "description": "CS2 '쥐라' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "5136",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6724,6 +7172,7 @@
   "name": "그레일 맵 주화",
   "code": "#CSGO_Collectible_MapTokenGrail",
   "description": "CS2 '그레일' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "5137",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6739,6 +7188,7 @@
   "name": "도그타운 맵 주화",
   "code": "#CSGO_Collectible_MapTokenDogtown",
   "description": "CS2 '도그타운' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "5138",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6754,6 +7204,7 @@
   "name": "브루어리 맵 주화",
   "code": "#CSGO_Collectible_MapTokenBrewery",
   "description": "CS2 '브루어리' 맵 제작자에게 수여되는 주화입니다.",
+  "def_index": "5139",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6769,6 +7220,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5140",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6784,6 +7236,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5141",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6799,6 +7252,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5142",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6814,6 +7268,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5143",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6829,6 +7284,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5144",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6844,6 +7300,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5145",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6859,6 +7316,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5146",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6874,6 +7332,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5147",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6889,6 +7348,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5148",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6904,6 +7364,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5149",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6919,6 +7380,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5150",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6934,6 +7396,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5151",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6949,6 +7412,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5152",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6964,6 +7428,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5153",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6979,6 +7444,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5154",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -6994,6 +7460,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5155",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7009,6 +7476,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5156",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7024,6 +7492,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5157",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7039,6 +7508,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5158",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7054,6 +7524,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5159",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7069,6 +7540,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5160",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7084,6 +7556,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5161",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7099,6 +7572,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5162",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7114,6 +7588,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5163",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7129,6 +7604,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5164",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7144,6 +7620,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5165",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7159,6 +7636,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5166",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7174,6 +7652,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5167",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7189,6 +7668,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5168",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7204,6 +7684,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5169",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7219,6 +7700,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5170",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7234,6 +7716,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5171",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7249,6 +7732,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5172",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7264,6 +7748,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5173",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7279,6 +7764,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5174",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7294,6 +7780,7 @@
   "name": "프리미어 시즌 3 훈장",
   "code": "#CSGO_Collectible_PremierSeason3Coin",
   "description": "프리미어 시즌 3 기간에 적극적으로 활동한 플레이어에게 수여하는 프리미어 훈장입니다.",
+  "def_index": "5175",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7309,6 +7796,7 @@
   "name": "진품 더스트 2 핀",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6001",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7324,6 +7812,7 @@
   "name": "진품 수호 대장 핀",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6002",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7339,6 +7828,7 @@
   "name": "진품 신기루 핀",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6003",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -7354,6 +7844,7 @@
   "name": "진품 인페르노 핀",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6004",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -7369,6 +7860,7 @@
   "name": "진품 이탈리아 핀",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6005",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7384,6 +7876,7 @@
   "name": "진품 승리 핀",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6006",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7399,6 +7892,7 @@
   "name": "진품 밀리샤 핀",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6007",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7414,6 +7908,7 @@
   "name": "진품 뉴크 핀",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6008",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7429,6 +7924,7 @@
   "name": "진품 열차 핀",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6009",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7444,6 +7940,7 @@
   "name": "진품 수호자 핀",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6010",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7459,6 +7956,7 @@
   "name": "진품 전략 핀",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6011",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7474,6 +7972,7 @@
   "name": "진품 수호자 2 핀",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6012",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7489,6 +7988,7 @@
   "name": "진품 브라보 핀",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6013",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7504,6 +8004,7 @@
   "name": "진품 수하물 핀",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6014",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7519,6 +8020,7 @@
   "name": "진품 피닉스 핀",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6015",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7534,6 +8036,7 @@
   "name": "진품 사무실 핀",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6016",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7549,6 +8052,7 @@
   "name": "진품 코블 핀",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6017",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7564,6 +8068,7 @@
   "name": "진품 오버패스 핀",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6018",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7579,6 +8084,7 @@
   "name": "진품 블러드하운드 핀",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6019",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -7594,6 +8100,7 @@
   "name": "진품 무기창고 핀",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6020",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -7609,6 +8116,7 @@
   "name": "진품 발레리아 피닉스 핀",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6021",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7624,6 +8132,7 @@
   "name": "진품 크로마 핀",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6022",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7639,6 +8148,7 @@
   "name": "진품 수호자 3 핀",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6023",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7654,6 +8164,7 @@
   "name": "진품 운하 핀",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6024",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7669,6 +8180,7 @@
   "name": "진품 어서 와 클러치는 처음이지 핀",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6025",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7684,6 +8196,7 @@
   "name": "진품 사형 선고 핀",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6026",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7699,6 +8212,7 @@
   "name": "진품 인페르노 2 핀",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6027",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7714,6 +8228,7 @@
   "name": "진품 들불 핀",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6028",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7729,6 +8244,7 @@
   "name": "진품 식은 죽 먹기 핀",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6029",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7744,6 +8260,7 @@
   "name": "진품 에이스 핀",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6030",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -7759,6 +8276,7 @@
   "name": "진품 히드라 핀",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6031",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -7774,6 +8292,7 @@
   "name": "진품 포효 핀",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6032",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7789,6 +8308,7 @@
   "name": "진품 준장 핀",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6033",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7804,6 +8324,7 @@
   "name": "진품 알릭스 핀",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "6034",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7819,6 +8340,7 @@
   "name": "더스트 2 핀",
   "code": "#CSGO_Collectible_Pin_DustII",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6101",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7834,6 +8356,7 @@
   "name": "수호 대장 핀",
   "code": "#CSGO_Collectible_Pin_GuardianElite",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6102",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -7849,6 +8372,7 @@
   "name": "신기루 핀",
   "code": "#CSGO_Collectible_Pin_Mirage",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6103",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -7864,6 +8388,7 @@
   "name": "인페르노 핀",
   "code": "#CSGO_Collectible_Pin_Inferno",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6104",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -7879,6 +8404,7 @@
   "name": "이탈리아 핀",
   "code": "#CSGO_Collectible_Pin_Italy",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6105",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7894,6 +8420,7 @@
   "name": "승리 핀",
   "code": "#CSGO_Collectible_Pin_Victory",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7909,6 +8436,7 @@
   "name": "밀리샤 핀",
   "code": "#CSGO_Collectible_Pin_Militia",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6107",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -7924,6 +8452,7 @@
   "name": "뉴크 핀",
   "code": "#CSGO_Collectible_Pin_Nuke",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6108",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7939,6 +8468,7 @@
   "name": "열차 핀",
   "code": "#CSGO_Collectible_Pin_Train",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6109",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7954,6 +8484,7 @@
   "name": "수호자 핀",
   "code": "#CSGO_Collectible_Pin_Guardian",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6110",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7969,6 +8500,7 @@
   "name": "전략 핀",
   "code": "#CSGO_Collectible_Pin_Tactics",
   "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
+  "def_index": "6111",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7984,6 +8516,7 @@
   "name": "수호자 2 핀",
   "code": "#CSGO_Collectible_Pin_guardian_2",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6112",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -7999,6 +8532,7 @@
   "name": "브라보 핀",
   "code": "#CSGO_Collectible_Pin_bravo",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6113",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -8014,6 +8548,7 @@
   "name": "수하물 핀",
   "code": "#CSGO_Collectible_Pin_baggage",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6114",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -8029,6 +8564,7 @@
   "name": "피닉스 핀",
   "code": "#CSGO_Collectible_Pin_phoenix",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6115",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -8044,6 +8580,7 @@
   "name": "사무실 핀",
   "code": "#CSGO_Collectible_Pin_office",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -8059,6 +8596,7 @@
   "name": "코블 핀",
   "code": "#CSGO_Collectible_Pin_cobblestone",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6117",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -8074,6 +8612,7 @@
   "name": "오버패스 핀",
   "code": "#CSGO_Collectible_Pin_overpass",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -8089,6 +8628,7 @@
   "name": "블러드하운드 핀",
   "code": "#CSGO_Collectible_Pin_bloodhound",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6119",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -8104,6 +8644,7 @@
   "name": "무기창고 핀",
   "code": "#CSGO_Collectible_Pin_cache",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6120",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -8119,6 +8660,7 @@
   "name": "발레리아 피닉스 핀",
   "code": "#CSGO_Collectible_Pin_valeria",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6121",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -8134,6 +8676,7 @@
   "name": "크로마 핀",
   "code": "#CSGO_Collectible_Pin_chroma",
   "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
+  "def_index": "6122",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -8149,6 +8692,7 @@
   "name": "수호자 3 핀",
   "code": "#CSGO_Collectible_Pin_guardian_3",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6123",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -8164,6 +8708,7 @@
   "name": "운하 핀",
   "code": "#CSGO_Collectible_Pin_canals",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6124",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -8179,6 +8724,7 @@
   "name": "어서 와 클러치는 처음이지 핀",
   "code": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6125",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -8194,6 +8740,7 @@
   "name": "사형 선고 핀",
   "code": "#CSGO_Collectible_Pin_death_sentence",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6126",
   "rarity": {
    "id": "rarity_rare",
    "name": "고급",
@@ -8209,6 +8756,7 @@
   "name": "인페르노 2 핀",
   "code": "#CSGO_Collectible_Pin_inferno_2",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6127",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -8224,6 +8772,7 @@
   "name": "들불 핀",
   "code": "#CSGO_Collectible_Pin_wildfire",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -8239,6 +8788,7 @@
   "name": "식은 죽 먹기 핀",
   "code": "#CSGO_Collectible_Pin_easy_peasy",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6129",
   "rarity": {
    "id": "rarity_mythical",
    "name": "최고급",
@@ -8254,6 +8804,7 @@
   "name": "에이스 핀",
   "code": "#CSGO_Collectible_Pin_aces_high",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6130",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -8269,6 +8820,7 @@
   "name": "히드라 핀",
   "code": "#CSGO_Collectible_Pin_hydra",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6131",
   "rarity": {
    "id": "rarity_legendary",
    "name": "특급",
@@ -8284,6 +8836,7 @@
   "name": "포효 핀",
   "code": "#CSGO_Collectible_Pin_howl",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6132",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -8299,6 +8852,7 @@
   "name": "준장 핀",
   "code": "#CSGO_Collectible_Pin_brigadier_general",
   "description": "프로필에 전시할 수 있는 제3시리즈 수집 가능한 핀입니다.",
+  "def_index": "6133",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",
@@ -8314,6 +8868,7 @@
   "name": "알릭스 핀",
   "code": "#CSGO_Collectible_Pin_alyx_10",
   "description": "이 수집 가능한 핀은 Valve의 하프 라이프 시리즈 중 VR로 출시된 Half-Life: Alyx를 기념합니다. 이 핀은 프로필에 전시할 수 있습니다.",
+  "def_index": "6134",
   "rarity": {
    "id": "rarity_ancient",
    "name": "희귀",

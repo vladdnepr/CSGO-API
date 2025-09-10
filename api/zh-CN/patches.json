@@ -4,6 +4,7 @@
   "name": "布章 | 疯狂香蕉人",
   "code": "patch_banana",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>探员计量单位</i>",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -17,6 +18,7 @@
   "name": "布章 | 皇冠",
   "code": "patch_boss",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>欲戴王冠，必承其重</i>",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -30,6 +32,7 @@
   "name": "布章 | 爱鸡人士",
   "code": "patch_chickenlover",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>谢谢你的陪伴</i>",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -43,6 +46,7 @@
   "name": "布章 | 命悬一线",
   "code": "patch_clutch",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>通常佩戴此布章的探员的四名队友已经去世</i>",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -56,6 +60,7 @@
   "name": "布章 | 龙的传人",
   "code": "patch_dragon",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为标志性的双持AK-47的巨龙</i>",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -69,6 +74,7 @@
   "name": "布章 | 柠檬汁",
   "code": "patch_easypeasy",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章将挤压印成了齐压却稀里糊涂的通过了质检</i>",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -82,6 +88,7 @@
   "name": "布章 | 怒",
   "code": "patch_fury",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>表示愤怒、愤怒以及愤怒的布章</i>",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -95,6 +102,7 @@
   "name": "布章 | 咆哮",
   "code": "patch_howl",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章配得上它的红底橙龙金光</i>",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -108,6 +116,7 @@
   "name": "布章 | 年年有鱼",
   "code": "patch_koi",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为两只锦鲤于碧水中首尾相衔</i>",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -121,6 +130,7 @@
   "name": "布章 | 剪纸GO",
   "code": "patch_longevity",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此红白相间的布章为CSGO图样的剪纸造型</i>",
+  "def_index": "4559",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -134,6 +144,7 @@
   "name": "布章 | 野火",
   "code": "patch_wildfire",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为2016年2月17日推出的野火大行动图标</i>",
+  "def_index": "4560",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -147,6 +158,7 @@
   "name": "布章 | 警戒者",
   "code": "patch_vigilance",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>幸运儿专用；多一双眼睛，多一份洞察</i>",
+  "def_index": "4561",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -160,6 +172,7 @@
   "name": "布章 | 血猎",
   "code": "patch_bloodhound",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为2015年5月26日推出的血猎大行动的图标</i>",
+  "def_index": "4562",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -173,6 +186,7 @@
   "name": "布章 | 英勇",
   "code": "patch_bravo",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为2013年9月19日推出的英勇大行动图标</i>",
+  "def_index": "4563",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -186,6 +200,7 @@
   "name": "布章 | 突围",
   "code": "patch_breakout",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章为2014年7月1日推出的突围大行动图标</i>",
+  "def_index": "4564",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -199,6 +214,7 @@
   "name": "布章 | 头号特训",
   "code": "patch_dangerzone",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为2018年12月6日推出的头号特训图标</i>",
+  "def_index": "4565",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -212,6 +228,7 @@
   "name": "布章 | 九头蛇",
   "code": "patch_hydra",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为2017年5月23日推出的九头蛇大行动图标</i>",
+  "def_index": "4566",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -225,6 +242,7 @@
   "name": "布章 | 回赠",
   "code": "patch_payback",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为2013年4月25日推出的回赠大行动图标</i>",
+  "def_index": "4567",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -238,6 +256,7 @@
   "name": "布章 | 凤凰",
   "code": "patch_phoenix",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为2014年2月20日推出的凤凰大行动图标</i>",
+  "def_index": "4568",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -251,6 +270,7 @@
   "name": "布章 | 裂网大行动",
   "code": "patch_shatteredweb",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为2019年11月18日推出的裂网大行动图标</i>",
+  "def_index": "4569",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -264,6 +284,7 @@
   "name": "布章 | 先锋",
   "code": "patch_vanguard",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>此布章图案为2014年11月11日推出的先锋大行动图标</i>",
+  "def_index": "4570",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -277,6 +298,7 @@
   "name": "布章 | 金·白银",
   "code": "patch_silver",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>想要成为全球精英，获得该布章只是第一步。</i>",
+  "def_index": "4571",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -290,6 +312,7 @@
   "name": "布章 | 金·黄金新星 ー I",
   "code": "patch_goldnova1",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>从金·白银中脱颖而出了？还有很长的路要走。</i>",
+  "def_index": "4572",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -303,6 +326,7 @@
   "name": "布章 | 金·黄金新星 ー 大师级",
   "code": "patch_goldnovamaster",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>你以为从金·白银中脱颖而出有点难是吧……</i>",
+  "def_index": "4575",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -316,6 +340,7 @@
   "name": "布章 | 金·大师级守护者 ー I",
   "code": "patch_masterguardian1",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>脱离金·黄金新星了？好样的，你在逐步成长。</i>",
+  "def_index": "4576",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -329,6 +354,7 @@
   "name": "布章 | 金·大师级守护者 ー 精英",
   "code": "patch_masterguardianelite",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>由行家手作。这个MGE布章上的银色丝线有着浓浓的海军风。</i>",
+  "def_index": "4578",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -342,6 +368,7 @@
   "name": "布章 | 金·大师级守护者 ー 卓越 ★",
   "code": "patch_dmg",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>再有个性的人也得服从上级、适应环境、同心协力，才能达到该段位的要求。继续努力晋升。</i>",
+  "def_index": "4579",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -355,6 +382,7 @@
   "name": "布章 | 金·传奇之鹰 ー 大师级 ★",
   "code": "patch_legendaryeaglemaster",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>虽然离登顶不远了，不过在即将来临的挑战中，你所遇到的对手将对你毫不怜悯。</i>",
+  "def_index": "4581",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -368,6 +396,7 @@
   "name": "布章 | 金·无上之首席大师",
   "code": "patch_supreme",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>该布章上有着心形地球图案，以及红色蓝色的点缀。</i>",
+  "def_index": "4582",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -381,6 +410,7 @@
   "name": "布章 | 金·全球精英 ★",
   "code": "patch_globalelite",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>恭喜你，成为了全球精英！然而，真正的挑战才刚刚开始。</i>",
+  "def_index": "4583",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -394,6 +424,7 @@
   "name": "布章 | 金·大师级守护者 ー 卓越",
   "code": "patch_dmg2",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>再有个性的人也得服从上级、适应环境、同心协力，才能达到该段位的要求。继续努力晋升。</i>",
+  "def_index": "4584",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -407,6 +438,7 @@
   "name": "布章 | 金·传奇之鹰",
   "code": "patch_legendaryeagle2",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>该传奇之鹰布章上缝制了一对金色的羽翼。</i>",
+  "def_index": "4585",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -420,6 +452,7 @@
   "name": "布章 | 金·传奇之鹰 ー 大师级",
   "code": "patch_legendaryeaglemaster2",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>虽然离登顶不远了，不过在即将来临的挑战中，你所遇到的对手将对你毫不怜悯。</i>",
+  "def_index": "4586",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -433,6 +466,7 @@
   "name": "布章 | 金·白银恶魔",
   "code": "patch_silver_demon",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>“白银地狱”不是一个地方，而是一种心态。任何时候你都可以摆脱这个状态。</i>",
+  "def_index": "4587",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -446,6 +480,7 @@
   "name": "布章 | 金·无上大师",
   "code": "patch_suprememaster",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>该布章上分布着6颗星星形成了侧翼，寓意展翅翱翔。</i>",
+  "def_index": "4588",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -459,6 +494,7 @@
   "name": "布章 | 爱莉克斯",
   "code": "patch_hlalyx_alyx",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4589",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -472,6 +508,7 @@
   "name": "布章 | 养料！",
   "code": "patch_hlalyx_headcrab_green",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4591",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -485,6 +522,7 @@
   "name": "布章 | 弗地岗人",
   "code": "patch_hlalyx_vort",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4592",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -498,6 +536,7 @@
   "name": "布章 | 猎头蟹符文",
   "code": "patch_hlalyx_headcrab_teal",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4593",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -511,6 +550,7 @@
   "name": "布章 | 铜质 λ",
   "code": "patch_hlalyx_lambda_copper",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4594",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -524,6 +564,7 @@
   "name": "布章 | 生命值",
   "code": "patch_hlalyx_hearts",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4595",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -537,6 +578,7 @@
   "name": "布章 | 联合军头盔",
   "code": "patch_hlalyx_combine_front",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4596",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -550,6 +592,7 @@
   "name": "布章 | 黑山基地",
   "code": "patch_hlalyx_blackmesa",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4597",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -563,6 +606,7 @@
   "name": "布章 | 联合军",
   "code": "patch_hlalyx_cmb",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4598",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -576,6 +620,7 @@
   "name": "布章 | λ",
   "code": "patch_hlalyx_lambda_orange",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4599",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -589,6 +634,7 @@
   "name": "布章 | 17号城市",
   "code": "patch_hlalyx_c17",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br>《半衰期：爱莉克斯》布章包",
+  "def_index": "4600",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -602,6 +648,7 @@
   "name": "布章 | 金·全球精英",
   "code": "patch_globalelite2",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>恭喜你，成为了全球精英！然而，真正的挑战才刚刚开始。</i>",
+  "def_index": "4697",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -615,6 +662,7 @@
   "name": "布章 | 金·大师级守护者",
   "code": "patch_masterguardian3",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>脱离金·黄金新星了？好样的，你在逐步成长。</i>",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -628,6 +676,7 @@
   "name": "布章 | 金·黄金新星",
   "code": "patch_goldnova4",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>从金·白银中脱颖而出了？还有很长的路要走。</i>",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -641,6 +690,7 @@
   "name": "布章 | 抛弃希望",
   "code": "patch_op11_abandon_hope",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>你们中谁敢进来……</i>",
+  "def_index": "4937",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -654,6 +704,7 @@
   "name": "布章 | 起锚",
   "code": "patch_op11_anchor",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>历经大风大浪，终能保持淡定……</i>",
+  "def_index": "4938",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -667,6 +718,7 @@
   "name": "布章 | 巡航之光",
   "code": "patch_op11_cruising",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>在波浪中穿梭自如……</i>",
+  "def_index": "4939",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -680,6 +732,7 @@
   "name": "布章 | 刺刀青蛙",
   "code": "patch_op11_frog_skeleton",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>直到发出呱呱叫，否则绝不认输……</i>",
+  "def_index": "4940",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -693,6 +746,7 @@
   "name": "布章 | 疯狂寿司",
   "code": "patch_op11_mad_sushi",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>让敌人卷铺盖跑路！</i>",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -706,6 +760,7 @@
   "name": "布章 | 大王乌贼",
   "code": "patch_op11_pink_squid",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>吸引猎物自投罗网……</i>",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -719,6 +774,7 @@
   "name": "布章 | 海盗",
   "code": "patch_op11_piranha",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>一口下去，全功尽气……</i>",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -732,6 +788,7 @@
   "name": "布章 | 危自身下",
   "code": "patch_op11_siren",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>注意上方，有情况……</i>",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -745,6 +802,7 @@
   "name": "布章 | 死无对证",
   "code": "patch_op11_skull_crossswords",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>通用印记，危险来袭……</i>",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -758,6 +816,7 @@
   "name": "布章 | 落日余波",
   "code": "patch_op11_sunset_wave",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>海上新的一天即将来临……</i>",
+  "def_index": "4946",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -771,6 +830,7 @@
   "name": "布章 | 水中攻势",
   "code": "patch_op11_fish_go",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>鱼儿们都活跃起来了</i>",
+  "def_index": "4947",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -784,6 +844,7 @@
   "name": "布章 | 上古之神",
   "code": "patch_op11_cthulhu",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>就连克苏鲁都对缓和危局之人赞誉有加……</i>",
+  "def_index": "4948",
   "rarity": {
    "id": "rarity_legendary",
    "name": "奇异",
@@ -797,6 +858,7 @@
   "name": "布章 | 干饭时间",
   "code": "patch_op11_meal_time",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。<br><br><i>渴望成功……</i>",
+  "def_index": "4949",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -810,6 +872,7 @@
   "name": "布章 | Ninjas in Pyjamas | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_nip",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5079",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -823,6 +886,7 @@
   "name": "布章 | Ninjas in Pyjamas （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_nip_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5080",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -836,6 +900,7 @@
   "name": "布章 | FURIA | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_furi",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5081",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -849,6 +914,7 @@
   "name": "布章 | FURIA （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_furi_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5082",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -862,6 +928,7 @@
   "name": "布章 | Natus Vincere | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_navi",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5083",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -875,6 +942,7 @@
   "name": "布章 | Natus Vincere （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_navi_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5084",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -888,6 +956,7 @@
   "name": "布章 | Vitality | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_vita",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5085",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -901,6 +970,7 @@
   "name": "布章 | Vitality （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_vita_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5086",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -914,6 +984,7 @@
   "name": "布章 | Team Liquid | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_liq",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5087",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -927,6 +998,7 @@
   "name": "布章 | Team Liquid （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_liq_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5088",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -940,6 +1012,7 @@
   "name": "布章 | Gambit Gaming | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_gamb",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5089",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -953,6 +1026,7 @@
   "name": "布章 | Gambit Gaming （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_gamb_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5090",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -966,6 +1040,7 @@
   "name": "布章 | G2 Esports | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_g2",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5091",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -979,6 +1054,7 @@
   "name": "布章 | G2 Esports （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_g2_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5092",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -992,6 +1068,7 @@
   "name": "布章 | Evil Geniuses | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_evl",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5093",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1005,6 +1082,7 @@
   "name": "布章 | Evil Geniuses （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_evl_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5094",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1018,6 +1096,7 @@
   "name": "布章 | Team Spirit | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_spir",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5095",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1031,6 +1110,7 @@
   "name": "布章 | Team Spirit （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_spir_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5096",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1044,6 +1124,7 @@
   "name": "布章 | Astralis | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_astr",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5097",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1057,6 +1138,7 @@
   "name": "布章 | Astralis （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_astr_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5098",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1070,6 +1152,7 @@
   "name": "布章 | paiN Gaming | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_pain",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5099",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1083,6 +1166,7 @@
   "name": "布章 | paiN Gaming （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_pain_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5100",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1096,6 +1180,7 @@
   "name": "布章 | ENCE | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_ence",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5101",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1109,6 +1194,7 @@
   "name": "布章 | ENCE （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_ence_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5102",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1122,6 +1208,7 @@
   "name": "布章 | BIG | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_big",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5103",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1135,6 +1222,7 @@
   "name": "布章 | BIG （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_big_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5104",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1148,6 +1236,7 @@
   "name": "布章 | Movistar Riders | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_ride",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5105",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1161,6 +1250,7 @@
   "name": "布章 | Movistar Riders （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_ride_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1174,6 +1264,7 @@
   "name": "布章 | Heroic | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_hero",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5107",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1187,6 +1278,7 @@
   "name": "布章 | Heroic （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_hero_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5108",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1200,6 +1292,7 @@
   "name": "布章 | MOUZ | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_mouz",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5109",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1213,6 +1306,7 @@
   "name": "布章 | MOUZ （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_mouz_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5110",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1226,6 +1320,7 @@
   "name": "布章 | Sharks Esports | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_shrk",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5111",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1239,6 +1334,7 @@
   "name": "布章 | Sharks Esports （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_shrk_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5112",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1252,6 +1348,7 @@
   "name": "布章 | Tyloo | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_tyl",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5113",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1265,6 +1362,7 @@
   "name": "布章 | Tyloo （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_tyl_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5114",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1278,6 +1376,7 @@
   "name": "布章 | Renegades | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_ren",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5115",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1291,6 +1390,7 @@
   "name": "布章 | Renegades （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_ren_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1304,6 +1404,7 @@
   "name": "布章 | Entropiq | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_ent",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5117",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1317,6 +1418,7 @@
   "name": "布章 | Entropiq （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_ent_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1330,6 +1432,7 @@
   "name": "布章 | GODSENT | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_god",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5119",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1343,6 +1446,7 @@
   "name": "布章 | GODSENT （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_god_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5120",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1356,6 +1460,7 @@
   "name": "布章 | Virtus.Pro | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_vp",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5121",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1369,6 +1474,7 @@
   "name": "布章 | Virtus.Pro （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_vp_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5122",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1382,6 +1488,7 @@
   "name": "布章 | Copenhagen Flames | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_cope",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5123",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1395,6 +1502,7 @@
   "name": "布章 | Copenhagen Flames （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_cope_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5124",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1408,6 +1516,7 @@
   "name": "布章 | FaZe Clan | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_faze",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5125",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1421,6 +1530,7 @@
   "name": "布章 | FaZe Clan （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_faze_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5126",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",
@@ -1434,6 +1544,7 @@
   "name": "布章 | PGL | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_pgl",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_rare",
    "name": "高级",
@@ -1447,6 +1558,7 @@
   "name": "布章 | PGL （金色） | 2021年斯德哥尔摩锦标赛",
   "code": "stockh2021_teampatch_pgl_gold",
   "description": "此布章可以应用到您拥有的任意探员身上。一旦应用，此布章可以被移除但不能被复原。",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "卓越",

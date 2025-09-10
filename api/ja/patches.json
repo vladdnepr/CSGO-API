@@ -4,6 +4,7 @@
   "name": "パッチ | Crazy Banana",
   "code": "patch_banana",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>最低賃金のエージェント</i>",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -17,6 +18,7 @@
   "name": "パッチ | The Boss",
   "code": "patch_boss",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>王冠を戴くエージェントは、その重さを知る</i>",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -30,6 +32,7 @@
   "name": "パッチ | Chicken Lover",
   "code": "patch_chickenlover",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>助けていただきありがとうございます</i>",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -43,6 +46,7 @@
   "name": "パッチ | Welcome to the Clutch",
   "code": "patch_clutch",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>このパッチを着けたエージェントは、4連続キルが当たり前に</i>",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -56,6 +60,7 @@
   "name": "パッチ | Dragon",
   "code": "patch_dragon",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>両側にアイコニックな AK-47 が配置されたドラゴンが特徴的</i>",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -69,6 +74,7 @@
   "name": "パッチ | Easy Peasy",
   "code": "patch_easypeasy",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>\\\"SQEEZY\\\" （スクイージー） のスペルミスがなぜか品質検査をクリアしてしまったもの</i>",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -82,6 +88,7 @@
   "name": "パッチ | Rage",
   "code": "patch_fury",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>激怒、憤怒、狂怒を表すパッチ</i>",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -95,6 +102,7 @@
   "name": "パッチ | Howl",
   "code": "patch_howl",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>このパッチは同じ重さのレッド、オレンジ、ゴールドと等しい価値がある</i>",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -108,6 +116,7 @@
   "name": "パッチ | Koi",
   "code": "patch_koi",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>渦巻く青い水面の上を泳ぐ 2 匹のコイが特徴</i>",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -121,6 +130,7 @@
   "name": "パッチ | Longevity",
   "code": "patch_longevity",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>\\\"CSGO\\\" のロゴに、趣のあるアレンジを施した赤色と白色のパッチ</i>",
+  "def_index": "4559",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -134,6 +144,7 @@
   "name": "パッチ | Wildfire",
   "code": "patch_wildfire",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2016年2月17日にスタートした Operation Wildfire のアイコンが特徴的</i>",
+  "def_index": "4560",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -147,6 +158,7 @@
   "name": "パッチ | Vigilance",
   "code": "patch_vigilance",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>用心深く見守る仲間である潜伏者向けのパッチ</i>",
+  "def_index": "4561",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -160,6 +172,7 @@
   "name": "パッチ | Bloodhound",
   "code": "patch_bloodhound",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2015年5月26日にスタートした Operation Bloodhound のアイコンが特徴的</i>",
+  "def_index": "4562",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -173,6 +186,7 @@
   "name": "パッチ | Bravo",
   "code": "patch_bravo",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2013年9月19日にスタートした Operation Bravo のアイコンが特徴的</i>",
+  "def_index": "4563",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -186,6 +200,7 @@
   "name": "パッチ | Breakout",
   "code": "patch_breakout",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2014年7月1日にスタートした Operation Breakout のアイコンが特徴的</i>",
+  "def_index": "4564",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -199,6 +214,7 @@
   "name": "パッチ | Danger Zone",
   "code": "patch_dangerzone",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2018年12月6日にスタートした Danger Zone のアイコンが特徴的</i>",
+  "def_index": "4565",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -212,6 +228,7 @@
   "name": "パッチ | Hydra",
   "code": "patch_hydra",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2017年5月23日にスタートした Operation Hydra のアイコンが特徴的</i>",
+  "def_index": "4566",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -225,6 +242,7 @@
   "name": "パッチ | Payback",
   "code": "patch_payback",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2013年4月25日にスタートした Operation Payback のアイコンが特徴的</i>",
+  "def_index": "4567",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -238,6 +256,7 @@
   "name": "パッチ | Phoenix",
   "code": "patch_phoenix",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2014年2月20日にスタートした Operation Phoenix のアイコンが特徴的</i>",
+  "def_index": "4568",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -251,6 +270,7 @@
   "name": "パッチ | Shattered Web",
   "code": "patch_shatteredweb",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2019年11月18日にスタートした Operation Shattered Web のアイコンが特徴的</i>",
+  "def_index": "4569",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -264,6 +284,7 @@
   "name": "パッチ | Vanguard",
   "code": "patch_vanguard",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>2014年11月11日にスタートした Operation Vanguard のアイコンが特徴的</i>",
+  "def_index": "4570",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -277,6 +298,7 @@
   "name": "パッチ | Metal Silver",
   "code": "patch_silver",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>世界レベルへの道を歩みはじめたあなたへ。</i>",
+  "def_index": "4571",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -290,6 +312,7 @@
   "name": "パッチ | Metal Gold Nova I",
   "code": "patch_goldnova1",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>Silver に到達しましたか？でも、やるべきことはまだあります。</i>",
+  "def_index": "4572",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -303,6 +326,7 @@
   "name": "パッチ | Metal Gold Nova Master",
   "code": "patch_goldnovamaster",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>Silver から抜け出すのは大変だったでしょうけど…</i>",
+  "def_index": "4575",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -316,6 +340,7 @@
   "name": "パッチ | Metal Master Guardian I",
   "code": "patch_masterguardian1",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>Gold Nova から抜けましたか？ナイス！上達していますね。</i>",
+  "def_index": "4576",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -329,6 +354,7 @@
   "name": "パッチ | Metal Master Guardian Elite",
   "code": "patch_masterguardianelite",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>熟練の技で製作された MGE パッチのシルバーの糸が紺色の背景に映える</i>",
+  "def_index": "4578",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -342,6 +368,7 @@
   "name": "パッチ | Metal Distinguished Master Guardian ★",
   "code": "patch_dmg",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>DMGのスキルグループに到達するためには、一人一人が努力と順応、そして団結しなければならない。高みを目指して。</i>",
+  "def_index": "4579",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -355,6 +382,7 @@
   "name": "パッチ | Metal Legendary Eagle Master ★",
   "code": "patch_legendaryeaglemaster",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>頂上まであと少し。でも、あなたの挑戦を待つ者は容赦しません</i>",
+  "def_index": "4581",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -368,6 +396,7 @@
   "name": "パッチ | Metal Supreme Master First Class",
   "code": "patch_supreme",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>ハート型の地球と細部にある赤色と青色が特徴的。</i>",
+  "def_index": "4582",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -381,6 +410,7 @@
   "name": "パッチ | Metal The Global Elite ★",
   "code": "patch_globalelite",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>おめでとうございます！ついにたどり着きましたね。本当の挑戦が今、はじまります。</i>",
+  "def_index": "4583",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -394,6 +424,7 @@
   "name": "パッチ | Metal Distinguished Master Guardian",
   "code": "patch_dmg2",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>DMGのスキルグループに到達するためには、一人一人が努力と順応、そして団結しなければならない。高みを目指して。</i>",
+  "def_index": "4584",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -407,6 +438,7 @@
   "name": "パッチ | Metal Legendary Eagle",
   "code": "patch_legendaryeagle2",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>一対の金色の翼がデザインされた Legendary Eagle パッチ。</i>",
+  "def_index": "4585",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -420,6 +452,7 @@
   "name": "パッチ | Metal Legendary Eagle Master",
   "code": "patch_legendaryeaglemaster2",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>頂上まであと少し。でも、あなたの挑戦を待つ者は容赦しません</i>",
+  "def_index": "4586",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -433,6 +466,7 @@
   "name": "パッチ | Metal Silver Demon",
   "code": "patch_silver_demon",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>\\\"Silver Hell\\\" は場所ではなく精神状態のこと。いつでも抜け出すことは可能だ。</i>",
+  "def_index": "4587",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -446,6 +480,7 @@
   "name": "パッチ | Metal Supreme Master",
   "code": "patch_suprememaster",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>翼を持つディフューザーの横に6つの星が配置された SMFC パッチ。</i>",
+  "def_index": "4588",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -459,6 +494,7 @@
   "name": "パッチ | Alyx",
   "code": "patch_hlalyx_alyx",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4589",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -472,6 +508,7 @@
   "name": "パッチ | Sustenance!",
   "code": "patch_hlalyx_headcrab_green",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4591",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -485,6 +522,7 @@
   "name": "パッチ | Vortigaunt",
   "code": "patch_hlalyx_vort",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4592",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -498,6 +536,7 @@
   "name": "パッチ | Headcrab Glyph",
   "code": "patch_hlalyx_headcrab_teal",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4593",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -511,6 +550,7 @@
   "name": "パッチ | Copper Lambda",
   "code": "patch_hlalyx_lambda_copper",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4594",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -524,6 +564,7 @@
   "name": "パッチ | Health",
   "code": "patch_hlalyx_hearts",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4595",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -537,6 +578,7 @@
   "name": "パッチ | Combine Helmet",
   "code": "patch_hlalyx_combine_front",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4596",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -550,6 +592,7 @@
   "name": "パッチ | Black Mesa",
   "code": "patch_hlalyx_blackmesa",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4597",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -563,6 +606,7 @@
   "name": "パッチ | CMB",
   "code": "patch_hlalyx_cmb",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4598",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -576,6 +620,7 @@
   "name": "パッチ | Lambda",
   "code": "patch_hlalyx_lambda_orange",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4599",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -589,6 +634,7 @@
   "name": "パッチ | City 17",
   "code": "patch_hlalyx_c17",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br>Half-Life: Alyx 記念パッチ",
+  "def_index": "4600",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -602,6 +648,7 @@
   "name": "パッチ | Metal The Global Elite",
   "code": "patch_globalelite2",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>おめでとうございます！ついにたどり着きましたね。本当の挑戦が今、はじまります。</i>",
+  "def_index": "4697",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -615,6 +662,7 @@
   "name": "パッチ | Metal Master Guardian",
   "code": "patch_masterguardian3",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>Gold Nova から抜けましたか？ナイス！上達していますね。</i>",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -628,6 +676,7 @@
   "name": "パッチ | Metal Gold Nova",
   "code": "patch_goldnova4",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>Silver に到達しましたか？でも、やるべきことはまだあります。</i>",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -641,6 +690,7 @@
   "name": "パッチ | Abandon Hope",
   "code": "patch_op11_abandon_hope",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>ここから入らんとする者は…</i>",
+  "def_index": "4937",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -654,6 +704,7 @@
   "name": "パッチ | Anchors Aweigh",
   "code": "patch_op11_anchor",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>荒れる海に身を任せて…</i>",
+  "def_index": "4938",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -667,6 +718,7 @@
   "name": "パッチ | Cruising Ray",
   "code": "patch_op11_cruising",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>波の下を滑るように…</i>",
+  "def_index": "4939",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -680,6 +732,7 @@
   "name": "パッチ | Bayonet Frog",
   "code": "patch_op11_frog_skeleton",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>最期の「ケロ」まで諦めない…</i>",
+  "def_index": "4940",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -693,6 +746,7 @@
   "name": "パッチ | Mad Sushi",
   "code": "patch_op11_mad_sushi",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>敵を転がせ！</i>",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -706,6 +760,7 @@
   "name": "パッチ | Giant Squid",
   "code": "patch_op11_pink_squid",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>獲物を海の奥底に引きずり込んで…</i>",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -719,6 +774,7 @@
   "name": "パッチ | El Pirata",
   "code": "patch_op11_piranha",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>ほんの一口、チームの努力…</i>",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -732,6 +788,7 @@
   "name": "パッチ | Death From Below",
   "code": "patch_op11_siren",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>頭上に注意…</i>",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -745,6 +802,7 @@
   "name": "パッチ | Dead Men",
   "code": "patch_op11_skull_crossswords",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>万国共通の危険なサイン…</i>",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -758,6 +816,7 @@
   "name": "パッチ | Sunset Wave",
   "code": "patch_op11_sunset_wave",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>海の新しい一日…</i>",
+  "def_index": "4946",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -771,6 +830,7 @@
   "name": "パッチ | Aquatic Offensive",
   "code": "patch_op11_fish_go",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>動き回る魚</i>",
+  "def_index": "4947",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -784,6 +844,7 @@
   "name": "パッチ | Elder God",
   "code": "patch_op11_cthulhu",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>クトゥルフは解除する者を認める…</i>",
+  "def_index": "4948",
   "rarity": {
    "id": "rarity_legendary",
    "name": "エキゾチック",
@@ -797,6 +858,7 @@
   "name": "パッチ | Meal Time",
   "code": "patch_op11_meal_time",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。<br><br><i>勝利に飢えて…</i>",
+  "def_index": "4949",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -810,6 +872,7 @@
   "name": "パッチ | Ninjas in Pyjamas | Stockholm 2021",
   "code": "stockh2021_teampatch_nip",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5079",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -823,6 +886,7 @@
   "name": "パッチ | Ninjas in Pyjamas (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_nip_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5080",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -836,6 +900,7 @@
   "name": "パッチ | FURIA | Stockholm 2021",
   "code": "stockh2021_teampatch_furi",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5081",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -849,6 +914,7 @@
   "name": "パッチ | FURIA (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_furi_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5082",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -862,6 +928,7 @@
   "name": "パッチ | Natus Vincere | Stockholm 2021",
   "code": "stockh2021_teampatch_navi",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5083",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -875,6 +942,7 @@
   "name": "パッチ | Natus Vincere (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_navi_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5084",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -888,6 +956,7 @@
   "name": "パッチ | Vitality | Stockholm 2021",
   "code": "stockh2021_teampatch_vita",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5085",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -901,6 +970,7 @@
   "name": "パッチ | Vitality (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_vita_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5086",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -914,6 +984,7 @@
   "name": "パッチ | Team Liquid | Stockholm 2021",
   "code": "stockh2021_teampatch_liq",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5087",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -927,6 +998,7 @@
   "name": "パッチ | Team Liquid (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_liq_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5088",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -940,6 +1012,7 @@
   "name": "パッチ | Gambit Gaming | Stockholm 2021",
   "code": "stockh2021_teampatch_gamb",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5089",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -953,6 +1026,7 @@
   "name": "パッチ | Gambit Gaming (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_gamb_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5090",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -966,6 +1040,7 @@
   "name": "パッチ | G2 Esports | Stockholm 2021",
   "code": "stockh2021_teampatch_g2",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5091",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -979,6 +1054,7 @@
   "name": "パッチ | G2 Esports (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_g2_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5092",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -992,6 +1068,7 @@
   "name": "パッチ | Evil Geniuses | Stockholm 2021",
   "code": "stockh2021_teampatch_evl",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5093",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1005,6 +1082,7 @@
   "name": "パッチ | Evil Geniuses (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_evl_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5094",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1018,6 +1096,7 @@
   "name": "パッチ | Team Spirit | Stockholm 2021",
   "code": "stockh2021_teampatch_spir",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5095",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1031,6 +1110,7 @@
   "name": "パッチ | Team Spirit (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_spir_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5096",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1044,6 +1124,7 @@
   "name": "パッチ | Astralis | Stockholm 2021",
   "code": "stockh2021_teampatch_astr",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5097",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1057,6 +1138,7 @@
   "name": "パッチ | Astralis (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_astr_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5098",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1070,6 +1152,7 @@
   "name": "パッチ | paiN Gaming | Stockholm 2021",
   "code": "stockh2021_teampatch_pain",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5099",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1083,6 +1166,7 @@
   "name": "パッチ | paiN Gaming (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_pain_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5100",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1096,6 +1180,7 @@
   "name": "パッチ | ENCE | Stockholm 2021",
   "code": "stockh2021_teampatch_ence",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5101",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1109,6 +1194,7 @@
   "name": "パッチ | ENCE (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_ence_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5102",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1122,6 +1208,7 @@
   "name": "パッチ | BIG | Stockholm 2021",
   "code": "stockh2021_teampatch_big",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5103",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1135,6 +1222,7 @@
   "name": "パッチ | BIG (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_big_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5104",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1148,6 +1236,7 @@
   "name": "パッチ | Movistar Riders | Stockholm 2021",
   "code": "stockh2021_teampatch_ride",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5105",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1161,6 +1250,7 @@
   "name": "パッチ | Movistar Riders (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_ride_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1174,6 +1264,7 @@
   "name": "パッチ | Heroic | Stockholm 2021",
   "code": "stockh2021_teampatch_hero",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5107",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1187,6 +1278,7 @@
   "name": "パッチ | Heroic (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_hero_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5108",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1200,6 +1292,7 @@
   "name": "パッチ | MOUZ | Stockholm 2021",
   "code": "stockh2021_teampatch_mouz",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5109",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1213,6 +1306,7 @@
   "name": "パッチ | MOUZ (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_mouz_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5110",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1226,6 +1320,7 @@
   "name": "パッチ | Sharks Esports | Stockholm 2021",
   "code": "stockh2021_teampatch_shrk",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5111",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1239,6 +1334,7 @@
   "name": "パッチ | Sharks Esports (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_shrk_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5112",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1252,6 +1348,7 @@
   "name": "パッチ | Tyloo | Stockholm 2021",
   "code": "stockh2021_teampatch_tyl",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5113",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1265,6 +1362,7 @@
   "name": "パッチ | Tyloo (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_tyl_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5114",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1278,6 +1376,7 @@
   "name": "パッチ | Renegades | Stockholm 2021",
   "code": "stockh2021_teampatch_ren",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5115",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1291,6 +1390,7 @@
   "name": "パッチ | Renegades (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_ren_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1304,6 +1404,7 @@
   "name": "パッチ | Entropiq | Stockholm 2021",
   "code": "stockh2021_teampatch_ent",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5117",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1317,6 +1418,7 @@
   "name": "パッチ | Entropiq (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_ent_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1330,6 +1432,7 @@
   "name": "パッチ | GODSENT | Stockholm 2021",
   "code": "stockh2021_teampatch_god",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5119",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1343,6 +1446,7 @@
   "name": "パッチ | GODSENT (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_god_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5120",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1356,6 +1460,7 @@
   "name": "パッチ | Virtus.Pro | Stockholm 2021",
   "code": "stockh2021_teampatch_vp",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5121",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1369,6 +1474,7 @@
   "name": "パッチ | Virtus.Pro (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_vp_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5122",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1382,6 +1488,7 @@
   "name": "パッチ | Copenhagen Flames | Stockholm 2021",
   "code": "stockh2021_teampatch_cope",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5123",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1395,6 +1502,7 @@
   "name": "パッチ | Copenhagen Flames (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_cope_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5124",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1408,6 +1516,7 @@
   "name": "パッチ | FaZe Clan | Stockholm 2021",
   "code": "stockh2021_teampatch_faze",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5125",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1421,6 +1530,7 @@
   "name": "パッチ | FaZe Clan (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_faze_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5126",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",
@@ -1434,6 +1544,7 @@
   "name": "パッチ | PGL | Stockholm 2021",
   "code": "stockh2021_teampatch_pgl",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1447,6 +1558,7 @@
   "name": "パッチ | PGL (ゴールド) | Stockholm 2021",
   "code": "stockh2021_teampatch_pgl_gold",
   "description": "パッチは所有しているどのエージェントにも適用できます。適用したパッチは削除できますが、そのパッチは失われます。",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "リマーカブル",

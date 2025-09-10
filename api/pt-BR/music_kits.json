@@ -4,6 +4,7 @@
   "name": "Valve, Counter-Strike 2",
   "code": "valve_cs2_01",
   "description": "A trilha sonora oficial do Counter-Strike 2.",
+  "def_index": "1",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -18,6 +19,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "A trilha sonora padrão do CS:GO, lançada junto do jogo, em 2012.",
+  "def_index": "2",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -32,6 +34,7 @@
   "name": "Trilha Sonora | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Compositor de trilhas de jogos Daniel Sadowski traz Edgy Action misturado com ritmo CRAZY FAT nesta trilha sonora animada.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -46,6 +49,7 @@
   "name": "Trilha Sonora StatTrak™ | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Compositor de trilhas de jogos Daniel Sadowski traz Edgy Action misturado com ritmo CRAZY FAT nesta trilha sonora animada.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -60,6 +64,7 @@
   "name": "Trilha Sonora | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "O trio holandês de música eletrônica Noisia traz uma sensação cinematográfica misturada com uma combinação única de tradição e progressão.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -74,6 +79,7 @@
   "name": "Trilha Sonora StatTrak™ | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "O trio holandês de música eletrônica Noisia traz uma sensação cinematográfica misturada com uma combinação única de tradição e progressão.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -88,6 +94,7 @@
   "name": "Trilha Sonora | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Música para esmagar os seus inimigos composta pelo premiado Robert Allaire.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -102,6 +109,7 @@
   "name": "Trilha Sonora StatTrak™ | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Música para esmagar os seus inimigos composta pelo premiado Robert Allaire.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -116,6 +124,7 @@
   "name": "Trilha Sonora | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "O compositor de dois dos maiores jogos de guerra do mundo traz uma trilha sônica que levará os seus inimigos aos portões do inferno!!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -130,6 +139,7 @@
   "name": "Trilha Sonora StatTrak™ | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "O compositor de dois dos maiores jogos de guerra do mundo traz uma trilha sônica que levará os seus inimigos aos portões do inferno!!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -144,6 +154,7 @@
   "name": "Trilha Sonora | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "O renomado compositor de música eletrônica Feed Me traz um duelo do Velho Oeste para um espaço eletrônico moderno.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -158,6 +169,7 @@
   "name": "Trilha Sonora StatTrak™ | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "O renomado compositor de música eletrônica Feed Me traz um duelo do Velho Oeste para um espaço eletrônico moderno.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -172,6 +184,7 @@
   "name": "Trilha Sonora | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Do compositor de trilhas de jogos Dren, este pacote musical cinemático super-heroico estilo metal é de matar!",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -186,6 +199,7 @@
   "name": "Trilha Sonora StatTrak™ | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Do compositor de trilhas de jogos Dren, este pacote musical cinemático super-heroico estilo metal é de matar!",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -200,6 +214,7 @@
   "name": "Trilha Sonora | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "Austin Wintory, compositor de trilhas de jogos indicado ao Grammy, indaga: por que se importar em caçar os seus inimigos quando se pode atraí-los com um tango mortal e certamente insano?",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -214,6 +229,7 @@
   "name": "Trilha Sonora StatTrak™ | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "Austin Wintory, compositor de trilhas de jogos indicado ao Grammy, indaga: por que se importar em caçar os seus inimigos quando se pode atraí-los com um tango mortal e certamente insano?",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -228,6 +244,7 @@
   "name": "Trilha Sonora | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Mergulhe nesta trilha sonora cinemática repleta de cordas crescentes, melodias pulsantes e tambores poderosos de Sasha, DJ e produtor renomado mundialmente.",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -242,6 +259,7 @@
   "name": "Trilha Sonora StatTrak™ | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Mergulhe nesta trilha sonora cinemática repleta de cordas crescentes, melodias pulsantes e tambores poderosos de Sasha, DJ e produtor renomado mundialmente.",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -256,6 +274,7 @@
   "name": "Trilha Sonora | Skog, Metal",
   "code": "skog_01",
   "description": "Uma lição de agressão de Skog, produtor de Metal.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -270,6 +289,7 @@
   "name": "Trilha Sonora StatTrak™ | Skog, Metal",
   "code": "skog_01",
   "description": "Uma lição de agressão de Skog, produtor de Metal.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -284,6 +304,7 @@
   "name": "Trilha Sonora | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "\\\"BOAS FESTAS, OTÁRIOS!\\\"\\n— Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -298,6 +319,7 @@
   "name": "Trilha Sonora StatTrak™ | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "\\\"BOAS FESTAS, OTÁRIOS!\\\"\\n— Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -312,6 +334,7 @@
   "name": "Trilha Sonora | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Mergulhe os seus sentidos auditivos em uma coleção de atmosferas cinemáticas e irregulares e fortes ritmos pulsantes criada pelo produtor e inovador eletrônico Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -326,6 +349,7 @@
   "name": "Trilha Sonora StatTrak™ | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Mergulhe os seus sentidos auditivos em uma coleção de atmosferas cinemáticas e irregulares e fortes ritmos pulsantes criada pelo produtor e inovador eletrônico Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -340,6 +364,7 @@
   "name": "Trilha Sonora | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Domine os seus inimigos. Intensidade pura pelo compositor Mateo Messina, vencedor do Grammy.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -354,6 +379,7 @@
   "name": "Trilha Sonora StatTrak™ | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Domine os seus inimigos. Intensidade pura pelo compositor Mateo Messina, vencedor do Grammy.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -368,6 +394,7 @@
   "name": "Trilha Sonora | Vários Artistas, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Uma multidão de artistas eletrônicos fazem batidas brutais nesta trilha sonora de tirar o fôlego do renomado jogo Hotline Miami.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -382,6 +409,7 @@
   "name": "Trilha Sonora StatTrak™ | Vários Artistas, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Uma multidão de artistas eletrônicos fazem batidas brutais nesta trilha sonora de tirar o fôlego do renomado jogo Hotline Miami.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -396,6 +424,7 @@
   "name": "Trilha Sonora | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "O compositor Daniel Sadowski eleva o nível com batidas eletrônicas agressivas, efeitos sonoros criativos e uma poderosa \\\"vibe\\\" futurística estimulante. \\\"O Ministério do CS adverte: o uso pode elevar o nível de adrenalina!\\\"",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -410,6 +439,7 @@
   "name": "Trilha Sonora StatTrak™ | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "O compositor Daniel Sadowski eleva o nível com batidas eletrônicas agressivas, efeitos sonoros criativos e uma poderosa \\\"vibe\\\" futurística estimulante. \\\"O Ministério do CS adverte: o uso pode elevar o nível de adrenalina!\\\"",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -424,6 +454,7 @@
   "name": "Trilha Sonora | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "O compositor Damjan Mravunac mistura sons cinemáticos energéticos com coros épicos nesta trilha sonora composta por músicas do aclamado título \\\"The Talos Principle\\\" da Croteam.",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -438,6 +469,7 @@
   "name": "Trilha Sonora StatTrak™ | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "O compositor Damjan Mravunac mistura sons cinemáticos energéticos com coros épicos nesta trilha sonora composta por músicas do aclamado título \\\"The Talos Principle\\\" da Croteam.",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -452,6 +484,7 @@
   "name": "Trilha Sonora | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "O artista russo de eletrônica pesada PROXY traz a sua própria artilharia pesada a CS:GO. Um armamento de áudio híbrido misturado com a melhor tecnologia de estúdio torna este pacote único.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -466,6 +499,7 @@
   "name": "Trilha Sonora StatTrak™ | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "O artista russo de eletrônica pesada PROXY traz a sua própria artilharia pesada a CS:GO. Um armamento de áudio híbrido misturado com a melhor tecnologia de estúdio torna este pacote único.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -480,6 +514,7 @@
   "name": "Trilha Sonora | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Artista profissional e que tocou no TI4 de Dota, Ki:Theory solta BOMBAS com esta trilha sonora de rock eletrônico afiado.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -494,6 +529,7 @@
   "name": "Trilha Sonora StatTrak™ | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Artista profissional e que tocou no TI4 de Dota, Ki:Theory solta BOMBAS com esta trilha sonora de rock eletrônico afiado.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -508,6 +544,7 @@
   "name": "Trilha Sonora | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Blastophones Triunfantes se combinam com um Uberpulse contemporâneo nesta coleção explosiva criada pelo ultra compositor premiado Troels Folmann.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -522,6 +559,7 @@
   "name": "Trilha Sonora StatTrak™ | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Blastophones Triunfantes se combinam com um Uberpulse contemporâneo nesta coleção explosiva criada pelo ultra compositor premiado Troels Folmann.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -536,6 +574,7 @@
   "name": "Trilha Sonora | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Kelly Bailey, compositor da série Half-Life da Valve, cria um arsenal de novas músicas apocalípticas inspiradas pelo lado mais sombrio do universo de Half-Life.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -550,6 +589,7 @@
   "name": "Trilha Sonora StatTrak™ | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Kelly Bailey, compositor da série Half-Life da Valve, cria um arsenal de novas músicas apocalípticas inspiradas pelo lado mais sombrio do universo de Half-Life.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -564,6 +604,7 @@
   "name": "Trilha Sonora | Skog, II-Headshot",
   "code": "skog_02",
   "description": "O compositor e produtor de metal Jocke Skog retorna com uma trilha sonora de metal nova e forte, tornando as outras Trilhas Sonoras de CS:GO fofas e inofensivas. Agora vá ser o destaque para que todos ouçam o seu incrível hino!",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -578,6 +619,7 @@
   "name": "Trilha Sonora StatTrak™ | Skog, II-Headshot",
   "code": "skog_02",
   "description": "O compositor e produtor de metal Jocke Skog retorna com uma trilha sonora de metal nova e forte, tornando as outras Trilhas Sonoras de CS:GO fofas e inofensivas. Agora vá ser o destaque para que todos ouçam o seu incrível hino!",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -592,6 +634,7 @@
   "name": "Trilha Sonora | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski cria a primeira Trilha Sonora 8-bit para Counter-Strike, usando sons autênticos de máquinas 8-bit.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -606,6 +649,7 @@
   "name": "Trilha Sonora StatTrak™ | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski cria a primeira Trilha Sonora 8-bit para Counter-Strike, usando sons autênticos de máquinas 8-bit.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -620,6 +664,7 @@
   "name": "Trilha Sonora | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "O roqueiro alternativo AWOLNATION traz a você uma trilha sonora de marcar gerações, recheada com uma seleção eclética de sons e inclui cortes dos singles \\\"I Am\\\" e o disco de platina \\\"Sail\\\".",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -634,6 +679,7 @@
   "name": "Trilha Sonora StatTrak™ | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "O roqueiro alternativo AWOLNATION traz a você uma trilha sonora de marcar gerações, recheada com uma seleção eclética de sons e inclui cortes dos singles \\\"I Am\\\" e o disco de platina \\\"Sail\\\".",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -648,6 +694,7 @@
   "name": "Trilha Sonora | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Diamantes. Eles são para sempre. Mergulhe no arpeggiotron de Mord Fustang com este novo conjunto de ritmos e atmosferas.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -662,6 +709,7 @@
   "name": "Trilha Sonora StatTrak™ | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Diamantes. Eles são para sempre. Mergulhe no arpeggiotron de Mord Fustang com este novo conjunto de ritmos e atmosferas.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -676,6 +724,7 @@
   "name": "Trilha Sonora | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross conjura um techno-grunge épico e cinemático para que se fortaleça na batalha.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -690,6 +739,7 @@
   "name": "Trilha Sonora StatTrak™ | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross conjura um techno-grunge épico e cinemático para que se fortaleça na batalha.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -704,6 +754,7 @@
   "name": "Trilha Sonora | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Misturando cordas pulsantes e sintonizadores com tambores de guerra, prepare-se para a batalha com esta trilha sonora poderosa do compositor Ian Hultquist.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -718,6 +769,7 @@
   "name": "Trilha Sonora StatTrak™ | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Misturando cordas pulsantes e sintonizadores com tambores de guerra, prepare-se para a batalha com esta trilha sonora poderosa do compositor Ian Hultquist.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -732,6 +784,7 @@
   "name": "Trilha Sonora | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Rock de surfe com elementos de hip-hop, punk e pop de garagem. Mantenha-se focado e atire na cabeça.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -746,6 +799,7 @@
   "name": "Trilha Sonora StatTrak™ | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Rock de surfe com elementos de hip-hop, punk e pop de garagem. Mantenha-se focado e atire na cabeça.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -760,6 +814,7 @@
   "name": "Trilha Sonora | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Beartooth traz uma batida forte e agressiva que faz com que a plateia se mexa e quebre coisas. Uma trilha sonora perfeita para matar com a Scout sem usar a luneta. Rock até morrer.",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -774,6 +829,7 @@
   "name": "Trilha Sonora StatTrak™ | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Beartooth traz uma batida forte e agressiva que faz com que a plateia se mexa e quebre coisas. Uma trilha sonora perfeita para matar com a Scout sem usar a luneta. Rock até morrer.",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -788,6 +844,7 @@
   "name": "Trilha Sonora | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Lennie Moore, compositor de jogos, serve uma mistura aromática e picante de Jazzy Funk. Deliciosa quando servida fria, assim como os cadáveres dos seus inimigos após matá-los.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -802,6 +859,7 @@
   "name": "Trilha Sonora StatTrak™ | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Lennie Moore, compositor de jogos, serve uma mistura aromática e picante de Jazzy Funk. Deliciosa quando servida fria, assim como os cadáveres dos seus inimigos após matá-los.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -816,6 +874,7 @@
   "name": "Trilha Sonora | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "Liberte-se nos tons musicais familiares do compositor finlandês Darude. Enriqueça com acesso a uma fusão pesada de sobretons progressivos e estrutura melódica dos bancos de sons de um dos pioneiros mais renomados da música dance.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -830,6 +889,7 @@
   "name": "Trilha Sonora StatTrak™ | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "Liberte-se nos tons musicais familiares do compositor finlandês Darude. Enriqueça com acesso a uma fusão pesada de sobretons progressivos e estrutura melódica dos bancos de sons de um dos pioneiros mais renomados da música dance.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -844,6 +904,7 @@
   "name": "Trilha Sonora StatTrak™ | Beartooth, Aggressive",
   "code": "beartooth_02",
   "description": "Beartooth está de volta para uma segunda rodada. Esta nova trilha sonora é ainda mais agressiva que a anterior. Fizemos um hino de destaque extra forte, para que os seus adversários se sintam super mal depois de perderem para você.",
+  "def_index": "32",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -858,6 +919,7 @@
   "name": "Trilha Sonora StatTrak™ | Blitz Kids, The Good Youth",
   "code": "blitzkids_01",
   "description": "A banda pop/punk britânica Blitz Kids traz a você a trilha sonora perfeita para rushar B enquanto se lembra daquelas viagens de carro que fez com amigos no ensino médio. Esta trilha é para voar baixo e se sentir jovem.",
+  "def_index": "33",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -872,6 +934,7 @@
   "name": "Trilha Sonora StatTrak™ | Hundredth, FREE",
   "code": "hundredth_01",
   "description": "Hundredth deixa o mundo mais pesado com a sua pegada única no hardcore melódico. Liberte-se ou retorne à areia com essa trilha sonora perfeita para destruir os indignos.",
+  "def_index": "34",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -886,6 +949,7 @@
   "name": "Trilha Sonora StatTrak™ | Neck Deep, Life's Not Out To Get You",
   "code": "neckdeep_01",
   "description": "Às vezes você só precisa de um Pop Punk para levar o dia adiante. Seja lidando com campers ou morrendo depois de matar tantos que nem dá para contar nos dedos, Neck Deep chegou para provar que a vida não quer acabar com você, mas a outra equipe quer.",
+  "def_index": "35",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -900,6 +964,7 @@
   "name": "Trilha Sonora StatTrak™ | Roam, Backbone",
   "code": "roam_01",
   "description": "Roam entrega um Pop Punk rápido e direto que mantém tanto a plateia quanto os jogadores em movimento. Prove que tem uma coluna vertebral com essa trilha sonora perfeita para rushar e obliterar a equipe inimiga antes mesmo de perceberem que são peso morto.",
+  "def_index": "36",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -914,6 +979,7 @@
   "name": "Trilha Sonora StatTrak™ | Twin Atlantic, GLA",
   "code": "twinatlantic_01",
   "description": "Mais pesados, barulhentos e altos do que nunca, Twin Atlantic vem ao CS:GO prontos para ajudar você a derreter rostos com o poder de fogo do rock escocês.",
+  "def_index": "37",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -928,6 +994,7 @@
   "name": "Trilha Sonora StatTrak™ | Skog, III-Arena",
   "code": "skog_03",
   "description": "Skog está de volta com uma terceira trilha sonora de metal. Dessa vez com um padrão eletro-orgânico para a música, combinando riffs de guitarra e batidas massivas, além de drones e elementos em repetição.",
+  "def_index": "38",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -942,6 +1009,7 @@
   "name": "Trilha Sonora | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "The Verkkars sobe nas paradas de sucesso da Finlândia com uma homenagem para ENCE. É tão EZ mesmo?",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -956,6 +1024,7 @@
   "name": "Trilha Sonora StatTrak™ | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "The Verkkars sobe nas paradas de sucesso da Finlândia com uma homenagem para ENCE. É tão EZ mesmo?",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -970,6 +1039,7 @@
   "name": "Halo, The Master Chief Collection",
   "code": "halo_01",
   "description": "Faça uma renovação lendária à sua experiência auditiva no CS:GO com a Trilha Sonora da Master Chief Collection, que contém momentos musicais icônicos do universo Halo. © 2019 343 Industries. Todos os direitos reservados. Usado com permissão da 343 Industries. Halo: The Master Chief Collection e o logo Halo são marcas do grupo de empresas da Microsoft.",
+  "def_index": "40",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -984,6 +1054,7 @@
   "name": "Trilha Sonora | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Scarlxrd mistura batidas intesas de trap com uma cadência e uma execução que acabam criando o seu próprio subgênero. Com esta mistura estimulante, os seus espetáculos ao vivo capturam a atenção da plateia inteira.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -998,6 +1069,7 @@
   "name": "Trilha Sonora StatTrak™ | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Scarlxrd mistura batidas intesas de trap com uma cadência e uma execução que acabam criando o seu próprio subgênero. Com esta mistura estimulante, os seus espetáculos ao vivo capturam a atenção da plateia inteira.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1012,6 +1084,7 @@
   "name": "Half-Life: Alyx, Anti-Citizen",
   "code": "hlalyx_01",
   "description": "Trilha sonora comemorativa do jogo Half-Life: Alyx, marcando a volta da Valve à série Half-Life em realidade virtual. Você representa a única chance de sobrevivência da humanidade, e as suas interações imersivas com o ambiente continuam no Counter-Strike: Global Offensive.",
+  "def_index": "42",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1026,6 +1099,7 @@
   "name": "Trilha Sonora | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintory mistura a fantasia celta com a música eletrônica fervilhante e conta com a ajuda dos vocais de Peter Hollens nesta trilha sonora eclética.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1040,6 +1114,7 @@
   "name": "Trilha Sonora StatTrak™ | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintory mistura a fantasia celta com a música eletrônica fervilhante e conta com a ajuda dos vocais de Peter Hollens nesta trilha sonora eclética.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1054,6 +1129,7 @@
   "name": "Trilha Sonora | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "A trilha sonora mariachi e apocalíptica do renomado jogo indie Gunman Taco Truck chega ao CS:GO com intensas músicas mexicanas como \\\"Pollo Diablo\\\" e \\\"Persecución de Helltain\\\"!",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1068,6 +1144,7 @@
   "name": "Trilha Sonora StatTrak™ | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "A trilha sonora mariachi e apocalíptica do renomado jogo indie Gunman Taco Truck chega ao CS:GO com intensas músicas mexicanas como \\\"Pollo Diablo\\\" e \\\"Persecución de Helltain\\\"!",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1082,6 +1159,7 @@
   "name": "Trilha Sonora | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "O compositor de \\\"Total Domination\\\", \\\"The 8-Bit Kit\\\" e \\\"Crimson Assault\\\" agora lança \\\"Eye Of The Dragon\\\". Daniel Sadowski, compositor musical, mistura ninjas, armas, hip hop e techno para criar uma trilha sonora cheia de ação. <i>Ninjas são conhecidos pelos seus ataques rápidos e precisos. Mesmo assim, são invisíveis aos olhos dos inimigos.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1096,6 +1174,7 @@
   "name": "Trilha Sonora StatTrak™ | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "O compositor de \\\"Total Domination\\\", \\\"The 8-Bit Kit\\\" e \\\"Crimson Assault\\\" agora lança \\\"Eye Of The Dragon\\\". Daniel Sadowski, compositor musical, mistura ninjas, armas, hip hop e techno para criar uma trilha sonora cheia de ação. <i>Ninjas são conhecidos pelos seus ataques rápidos e precisos. Mesmo assim, são invisíveis aos olhos dos inimigos.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1110,6 +1189,7 @@
   "name": "Trilha Sonora | Tree Adams e Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Tree Adams e Ben Bromfield, alquimistas do poderoso caos que é M.U.D.D. FORCE, unem batalhas épicas e sintetizadores estridentes em um redemoinho de destruição total.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1124,6 +1204,7 @@
   "name": "Trilha Sonora StatTrak™ | Tree Adams e Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Tree Adams e Ben Bromfield, alquimistas do poderoso caos que é M.U.D.D. FORCE, unem batalhas épicas e sintetizadores estridentes em um redemoinho de destruição total.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1138,6 +1219,7 @@
   "name": "Trilha Sonora | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "O compositor Tim Huling oferece trilhas clássicas de filmes noir misturadas com batidas e ritmos contemporâneos.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1152,6 +1234,7 @@
   "name": "Trilha Sonora StatTrak™ | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "O compositor Tim Huling oferece trilhas clássicas de filmes noir misturadas com batidas e ritmos contemporâneos.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1166,6 +1249,7 @@
   "name": "Trilha Sonora | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Inspirado pelas divertidas músicas de jogos do começo dos anos 90, o compositor Sam Marshall traz uma nostalgia de jogos clássicos com um toque moderno.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1180,6 +1264,7 @@
   "name": "Trilha Sonora StatTrak™ | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Inspirado pelas divertidas músicas de jogos do começo dos anos 90, o compositor Sam Marshall traz uma nostalgia de jogos clássicos com um toque moderno.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1194,6 +1279,7 @@
   "name": "Trilha Sonora | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "O compositor Matt Levine esbanja puro estilo nesta homenagem corajosa ao faroeste espaguete. Nunca foi tão bom dizer: \\\"Vá em frente, faça o meu dia valer a pena...\\\"",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1208,6 +1294,7 @@
   "name": "Trilha Sonora StatTrak™ | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "O compositor Matt Levine esbanja puro estilo nesta homenagem corajosa ao faroeste espaguete. Nunca foi tão bom dizer: \\\"Vá em frente, faça o meu dia valer a pena...\\\"",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1222,6 +1309,7 @@
   "name": "Trilha Sonora | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "O lendário produtor Amon Tobin empresta a sua estética única ao CS:GO. Desta vez, por amplificadores de tubo.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1236,6 +1324,7 @@
   "name": "Trilha Sonora StatTrak™ | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "O lendário produtor Amon Tobin empresta a sua estética única ao CS:GO. Desta vez, por amplificadores de tubo.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1250,6 +1339,7 @@
   "name": "Darren Korb, Trilha Sonora de Hades",
   "code": "hades_01",
   "description": "Claro, você até pode fazer escolhas erradas de vez em quando, mas sabe o que sempre é uma escolha acertada? Colocar para tocar a Trilha Sonora energética que veio diretamente do submundo de Hades, explorador de calabouços roguelike da Supergiant.",
+  "def_index": "51",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1264,6 +1354,7 @@
   "name": "Trilha Sonora | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Prove que você não é um normie (e melhor que todos no mapa) com a nova trilha sonora da banda Neck Deep, que inclui faixas do álbum \\\"All Distortions Are Intentional\\\".",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1278,6 +1369,7 @@
   "name": "Trilha Sonora StatTrak™ | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Prove que você não é um normie (e melhor que todos no mapa) com a nova trilha sonora da banda Neck Deep, que inclui faixas do álbum \\\"All Distortions Are Intentional\\\".",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1292,6 +1384,7 @@
   "name": "Trilha Sonora | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "CHAIN$AW LEVA SCARLXRD AO SEU INIGUALÁVEL MELHOR COM UM FLUXO BRUTO E UMA BASE PESADA PARA ACOMPANHAR.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1306,6 +1399,7 @@
   "name": "Trilha Sonora StatTrak™ | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "CHAIN$AW LEVA SCARLXRD AO SEU INIGUALÁVEL MELHOR COM UM FLUXO BRUTO E UMA BASE PESADA PARA ACOMPANHAR.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1320,6 +1414,7 @@
   "name": "Trilha Sonora | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Austin Wintory responde a pergunta que há muito atormenta a humanidade: o que acontece se você combinar música polca e acordeões com grunge e heavy metal?",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1334,6 +1429,7 @@
   "name": "Trilha Sonora StatTrak™ | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Austin Wintory responde a pergunta que há muito atormenta a humanidade: o que acontece se você combinar música polca e acordeões com grunge e heavy metal?",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1348,6 +1444,7 @@
   "name": "Trilha Sonora | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Chipzel, compositor de trilhas sonoras de jogos e lenda do gênero chiptune, apresenta uma mistura de estilos híbridos repleta de diversão, funk e personalidade — inspirada por um brinquedo \\\"Speak & Spell\\\" defeituoso.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1362,6 +1459,7 @@
   "name": "Trilha Sonora StatTrak™ | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Chipzel, compositor de trilhas sonoras de jogos e lenda do gênero chiptune, apresenta uma mistura de estilos híbridos repleta de diversão, funk e personalidade — inspirada por um brinquedo \\\"Speak & Spell\\\" defeituoso.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1376,6 +1474,7 @@
   "name": "Trilha Sonora | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Ópera. Sons de 8 bits. Sintetizadores analógicos. Tem como não amar? Freaky DNA, especialista do gênero chiptune, e a soprano Leanne Koch se juntam para fazer batidas pesadas e se divertir!",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1390,6 +1489,7 @@
   "name": "Trilha Sonora StatTrak™ | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Ópera. Sons de 8 bits. Sintetizadores analógicos. Tem como não amar? Freaky DNA, especialista do gênero chiptune, e a soprano Leanne Koch se juntam para fazer batidas pesadas e se divertir!",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1404,6 +1504,7 @@
   "name": "Trilha Sonora | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "O compositor Jesse Harlin apresenta um suspense de ópera espacial bombástico inspirado nos clássicos de ficção científica dos anos 70, 80 em diante.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1418,6 +1519,7 @@
   "name": "Trilha Sonora StatTrak™ | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "O compositor Jesse Harlin apresenta um suspense de ópera espacial bombástico inspirado nos clássicos de ficção científica dos anos 70, 80 em diante.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1432,6 +1534,7 @@
   "name": "Trilha Sonora | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Laura Shigihara, compositora e desenvolvedora de jogos, ajudará você a exibir com orgulho a sua estrela de destaque da rodada. Divirta-se com esta mistura única de \\\"Dance music\\\" dos anos 90, sintetizadores de jogos retrô e um toque de Plants vs. Zombies.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1446,6 +1549,7 @@
   "name": "Trilha Sonora StatTrak™ | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Laura Shigihara, compositora e desenvolvedora de jogos, ajudará você a exibir com orgulho a sua estrela de destaque da rodada. Divirta-se com esta mistura única de \\\"Dance music\\\" dos anos 90, sintetizadores de jogos retrô e um toque de Plants vs. Zombies.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1460,6 +1564,7 @@
   "name": "Trilha Sonora | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Sarah Schachner apresenta um coral gótico e distópico de robôs escandinavos conscientes que decide que a humanidade precisa ser eliminada.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1474,6 +1579,7 @@
   "name": "Trilha Sonora StatTrak™ | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Sarah Schachner apresenta um coral gótico e distópico de robôs escandinavos conscientes que decide que a humanidade precisa ser eliminada.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1488,6 +1594,7 @@
   "name": "Trilha Sonora | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "bbno$ formulou \\\"o\\\" hino para jogadores tóxicos: \\\"u mad!\\\", cujo nome pode ser traduzido como um \\\"TÁ EM SHOKKK?!\\\" Estudos indicam que, jogando com essa trilha sonora, você pulará imediatamente do pratinha para o global.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1502,6 +1609,7 @@
   "name": "Trilha Sonora StatTrak™ | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "bbno$ formulou \\\"o\\\" hino para jogadores tóxicos: \\\"u mad!\\\", cujo nome pode ser traduzido como um \\\"TÁ EM SHOKKK?!\\\" Estudos indicam que, jogando com essa trilha sonora, você pulará imediatamente do pratinha para o global.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1516,6 +1624,7 @@
   "name": "Trilha Sonora | The Verkkars e n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Da ensolarada Califórnia ao frio da Lapônia, a lenda do Counter-Strike n0thing e o grupo The Verkkars juntaram-se para criar o sucesso Flashbang Dance! Três, dois, um — olha a granada!",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1530,6 +1639,7 @@
   "name": "Trilha Sonora StatTrak™ | The Verkkars & n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Da ensolarada Califórnia ao frio da Lapônia, a lenda do Counter-Strike n0thing e o grupo The Verkkars juntaram-se para criar o sucesso Flashbang Dance! Três, dois, um — olha a granada!",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1544,6 +1654,7 @@
   "name": "Trilha Sonora | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Está em uma jornada para virar profissa ou pelo menos tentando deixar o pratinha? Deixe esta trilha com melodias sintetizadoras e sonhadoras levá-lo de volta. De volta, de volta, de volta... aos bons velhos tempos.",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1558,6 +1669,7 @@
   "name": "Trilha Sonora StatTrak™ | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Está em uma jornada para virar profissa ou pelo menos tentando deixar o pratinha? Deixe esta trilha com melodias sintetizadoras e sonhadoras levá-lo de volta. De volta, de volta, de volta... aos bons velhos tempos.",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1572,6 +1684,7 @@
   "name": "Trilha Sonora | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "A banda sueca \\\"Humanity's Last Breath\\\" entra com tudo com a sua trilha sonora \\\"Void\\\". Baterias retumbantes, riffs colossais e uma atmosfera de arrepiar.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1586,6 +1699,7 @@
   "name": "Trilha Sonora StatTrak™ | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "A banda sueca \\\"Humanity's Last Breath\\\" entra com tudo com a sua trilha sonora \\\"Void\\\". Baterias retumbantes, riffs colossais e uma atmosfera de arrepiar.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1600,6 +1714,7 @@
   "name": "Trilha Sonora | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Sintetizadores neo trap, 808s enérgicos, um riff épico de piano e uma infinidade de efeitos sonoros de tiros. O hino de trap original \\\"Shooters\\\" feito por Juelz cria uma trilha sonora verdadeiramente de elite. Disponível apenas para destaques.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1614,6 +1729,7 @@
   "name": "Trilha Sonora StatTrak™ | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Sintetizadores neo trap, 808s enérgicos, um riff épico de piano e uma infinidade de efeitos sonoros de tiros. O hino de trap original \\\"Shooters\\\" feito por Juelz cria uma trilha sonora verdadeiramente de elite. Disponível apenas para destaques.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1628,6 +1744,7 @@
   "name": "Trilha Sonora | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "dashstar*, o icônico hino de bass house feito por Knock2, proporciona uma energia infinita que captura o mantra do jovem de San Diego: \\\"sem limites\\\".",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1642,6 +1759,7 @@
   "name": "Trilha Sonora StatTrak™ | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "dashstar*, o icônico hino de bass house feito por Knock2, proporciona uma energia infinita que captura o mantra do jovem de San Diego: \\\"sem limites\\\".",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1656,6 +1774,7 @@
   "name": "Trilha Sonora | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Pegue uma Glock e equipe esta trilha sonora para ser transportado ao centro do cenário underground de hip-hop de Nova Iorque.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1670,6 +1789,7 @@
   "name": "Trilha Sonora StatTrak™ | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Pegue uma Glock e equipe esta trilha sonora para ser transportado ao centro do cenário underground de hip-hop de Nova Iorque.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1684,6 +1804,7 @@
   "name": "Trilha Sonora | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Curte uma perseguição? E uma boa caça? Hard rock, metal e dubstep colidem na trilha sonora de Sullivan King para tornar-se invencível.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1698,6 +1819,7 @@
   "name": "Trilha Sonora StatTrak™ | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Curte uma perseguição? E uma boa caça? Hard rock, metal e dubstep colidem na trilha sonora de Sullivan King para tornar-se invencível.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1712,6 +1834,7 @@
   "name": "Trilha Sonora | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "Comemore o quinto aniversário do lançamento do CS:GO na China com uma trilha sonora única: \\\"花脸 Hua Lian (Painted Face)\\\". Ela combina a ópera folclórica de Qinqiang (o mais antigo estilo chinês de rock) com o rock 'n' roll moderno. Esteja você no meio da fumaça ou com a visão turva após uma granada de luz, não se perca!",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1726,6 +1849,7 @@
   "name": "Trilha Sonora StatTrak™ | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "Comemore o quinto aniversário do lançamento do CS:GO na China com uma trilha sonora única: \\\"花脸 Hua Lian (Painted Face)\\\". Ela combina a ópera folclórica de Qinqiang (o mais antigo estilo chinês de rock) com o rock 'n' roll moderno. Esteja você no meio da fumaça ou com a visão turva após uma granada de luz, não se perca!",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1740,6 +1864,7 @@
   "name": "Trilha Sonora | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Denzel traz a sua energia característica ao CS:GO, misturando trap, jazz, tambor e acordes de baixo. Esta trilha sonora contém os sucessos \\\"Walkin\\\", \\\"ULTIMATE\\\" e outras músicas de Denzel, então quebre as Berettas cromadas com placas de níquel e eleve a intensidade com a trilha ULTIMATE.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1754,6 +1879,7 @@
   "name": "Trilha Sonora StatTrak™ | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Denzel traz a sua energia característica ao CS:GO, misturando trap, jazz, tambor e acordes de baixo. Esta trilha sonora contém os sucessos \\\"Walkin\\\", \\\"ULTIMATE\\\" e outras músicas de Denzel, então quebre as Berettas cromadas com placas de níquel e eleve a intensidade com a trilha ULTIMATE.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1768,6 +1894,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "A trilha sonora padrão do CS:GO, lançada junto do jogo, em 2012.",
+  "def_index": "70",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1782,6 +1909,7 @@
   "name": "Trilha Sonora | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "O que mais precisa ser dito? Sinta o poder. Curta esta trilha sonora eletrônica altamente energética criada por DRYDEN.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1796,6 +1924,7 @@
   "name": "Trilha Sonora (StatTrak™) | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "O que mais precisa ser dito? Sinta o poder. Curta esta trilha sonora eletrônica altamente energética criada por DRYDEN.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1810,6 +1939,7 @@
   "name": "Trilha Sonora | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "Criada especialmente para aquelas partidas em que você se sente... <I>diferente</i>. Assombre os seus inimigos rodada após rodada com a trilha sonora \\\"inhuman\\\", de ISOxo.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1824,6 +1954,7 @@
   "name": "Trilha Sonora (StatTrak™) | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "Criada especialmente para aquelas partidas em que você se sente... <I>diferente</i>. Assombre os seus inimigos rodada após rodada com a trilha sonora \\\"inhuman\\\", de ISOxo.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1838,6 +1969,7 @@
   "name": "Trilha Sonora | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "Você prefere amar ou lutar? Ou os dois? Deixe que todo mundo saiba com a trilha sonora \\\"All Night\\\", de KILL SCRIPT.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1852,6 +1984,7 @@
   "name": "Trilha Sonora (StatTrak™) | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "Você prefere amar ou lutar? Ou os dois? Deixe que todo mundo saiba com a trilha sonora \\\"All Night\\\", de KILL SCRIPT.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1866,6 +1999,7 @@
   "name": "Trilha Sonora | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "Para jogadores que tratam cada partida como se fosse a Grande Final de um Mundial, mesmo quando há somente algumas centenas de pontos da CSficação na reta. Traga a energia e as vitórias com a segunda trilha sonora de Knock2: \\\"Make U SWEAT!\\\".",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1880,6 +2014,7 @@
   "name": "Trilha Sonora (StatTrak™) | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "Para jogadores que tratam cada partida como se fosse a Grande Final de um Mundial, mesmo quando há somente algumas centenas de pontos da CSficação na reta. Traga a energia e as vitórias com a segunda trilha sonora de Knock2: \\\"Make U SWEAT!\\\".",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1894,6 +2029,7 @@
   "name": "Trilha Sonora | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "Às vezes, desarmar a bomba é o suficiente para ser o destaque da partida. Comemore cada momento — grande ou pequeno — com a trilha sonora \\\"Reason\\\", de Rad Cat.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1908,6 +2044,7 @@
   "name": "Trilha Sonora (StatTrak™) | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "Às vezes, desarmar a bomba é o suficiente para ser o destaque da partida. Comemore cada momento — grande ou pequeno — com a trilha sonora \\\"Reason\\\", de Rad Cat.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1922,6 +2059,7 @@
   "name": "Trilha Sonora | TWERL + Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "Não há hora melhor para brilhar do que sob a luz dos holofotes. Deixe a bateria e o baixo de \\\"Under Bright Lights\\\", uma colaboração entre TWERL e a dupla Ekko & Sidetrack, levarem você e a sua equipe a novos lugares.",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1936,6 +2074,7 @@
   "name": "Trilha Sonora (StatTrak™) | TWERL + Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "Não há hora melhor para brilhar do que sob a luz dos holofotes. Deixe a bateria e o baixo de \\\"Under Bright Lights\\\", uma colaboração entre TWERL e a dupla Ekko & Sidetrack, levarem você e a sua equipe a novos lugares.",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1950,6 +2089,7 @@
   "name": "Trilha Sonora | Austin Wintory, The Devil Went Clubbing In Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory faz um trato com Satanás, combinando um violino diabólico com uma vibe eletrônica.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1964,6 +2104,7 @@
   "name": "Trilha Sonora StatTrak™ | Austin Wintory, The Devil Went Clubbing In Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory faz um trato com Satanás, combinando um violino diabólico com uma vibe eletrônica.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1978,6 +2119,7 @@
   "name": "Trilha Sonora | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Você sofreu uma traição! Experimente esta trilha sonora eletrizante, tensa e inspirada no jazz de Ben Bromfield, compositor de filmes e séries de TV, enquanto desenrola este mistério...",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1992,6 +2134,7 @@
   "name": "Trilha Sonora StatTrak™ | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Você sofreu uma traição! Experimente esta trilha sonora eletrizante, tensa e inspirada no jazz de Ben Bromfield, compositor de filmes e séries de TV, enquanto desenrola este mistério...",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2006,6 +2149,7 @@
   "name": "Trilha Sonora | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski convida os jogadores a entrarem no mundo de \\\"Dead Shot\\\", uma mistura híbrida de ação, hip-hop, orquestra, eletrônica, retrô, emoções e design de som. Evite o Head Rot!",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2020,6 +2164,7 @@
   "name": "Trilha Sonora StatTrak™ | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski convida os jogadores a entrarem no mundo de \\\"Dead Shot\\\", uma mistura híbrida de ação, hip-hop, orquestra, eletrônica, retrô, emoções e design de som. Evite o Head Rot!",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2034,6 +2179,7 @@
   "name": "Trilha Sonora | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "A cafeína é a sua amiga. É amiga de todos, exceto dos seus inimigos! \\\"Coffee! Kofe! Kahveh!\\\" inclui músicas de rua dos Bálcãs compostas por Dren McDonald (\\\"Gunman Taco Truck\\\" e \\\"Death’s Head Demolition\\\"), gravada ao vivo em Bálcãncisco!",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2048,6 +2194,7 @@
   "name": "Trilha Sonora StatTrak™ | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "A cafeína é a sua amiga. É amiga de todos, exceto dos seus inimigos! \\\"Coffee! Kofe! Kahveh!\\\" inclui músicas de rua dos Bálcãs compostas por Dren McDonald (\\\"Gunman Taco Truck\\\" e \\\"Death’s Head Demolition\\\"), gravada ao vivo em Bálcãncisco!",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2062,6 +2209,7 @@
   "name": "Trilha Sonora | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "Entre no perigoso mundo da espionagem com a trilha sonora \\\"Agency\\\", do compositor Matt Levine.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2076,6 +2224,7 @@
   "name": "Trilha Sonora StatTrak™ | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "Entre no perigoso mundo da espionagem com a trilha sonora \\\"Agency\\\", do compositor Matt Levine.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2090,6 +2239,7 @@
   "name": "Trilha Sonora | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "\\\"Clutch\\\", a sequência não autorizada de \\\"Bodacious\\\", é uma abominação psicodélica em estilo cyberfunk reanimada por Sam Marshall com o uso de alquimia e rituais arcanos.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2104,6 +2254,7 @@
   "name": "Trilha Sonora StatTrak™ | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "\\\"Clutch\\\", a sequência não autorizada de \\\"Bodacious\\\", é uma abominação psicodélica em estilo cyberfunk reanimada por Sam Marshall com o uso de alquimia e rituais arcanos.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2118,6 +2269,7 @@
   "name": "Trilha Sonora | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Aumente a sua adrenalina com \\\"Devil's Paintbrush\\\", uma experiência groove-metal de alta energia composta por Tim Huling.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2132,6 +2284,7 @@
   "name": "Trilha Sonora StatTrak™ | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Aumente a sua adrenalina com \\\"Devil's Paintbrush\\\", uma experiência groove-metal de alta energia composta por Tim Huling.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2146,6 +2299,7 @@
   "name": "Trilha Sonora | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "Em \\\"Seventh Moon\\\", Tree Adams prepara uma mistura de funk intergalático com uma trilha de batalha.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2160,6 +2314,7 @@
   "name": "Trilha Sonora StatTrak™ | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "Em \\\"Seventh Moon\\\", Tree Adams prepara uma mistura de funk intergalático com uma trilha de batalha.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2174,6 +2329,7 @@
   "name": "Trilha Sonora | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "Combinando música tradicional chinesa com eletrônica, \\\"Ay Hey\\\" oferece uma narrativa vívida e batidas enérgicas para conectar jogadores de diferentes idades e origens. Com o seu ritmo animado combinado com o entusiasmo dos jogadores pelo jogo, \\\"Ay Hey\\\" captura intensamente várias cenas de batalha engraçadas e divertidas.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2188,6 +2344,7 @@
   "name": "Trilha Sonora StatTrak™ | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "Combinando música tradicional chinesa com eletrônica, \\\"Ay Hey\\\" oferece uma narrativa vívida e batidas enérgicas para conectar jogadores de diferentes idades e origens. Com o seu ritmo animado combinado com o entusiasmo dos jogadores pelo jogo, \\\"Ay Hey\\\" captura intensamente várias cenas de batalha engraçadas e divertidas.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2202,6 +2359,7 @@
   "name": "Trilha Sonora | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "A lenda sueca do techno Adam Beyer trouxe a trilha sonora dos sonhos para ajudar a pintar os seus inimigos de vermelho.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2216,6 +2374,7 @@
   "name": "Trilha Sonora StatTrak™ | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "A lenda sueca do techno Adam Beyer trouxe a trilha sonora dos sonhos para ajudar a pintar os seus inimigos de vermelho.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2230,6 +2389,7 @@
   "name": "Trilha Sonora | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "MESSAGE FROM THE CLERGY – Papa Perpétuo V aterrissou no Counter-Strike em um espetáculo glorioso de heavy metal. Fuja das dificuldades do cotidiano enquanto corre e atira ao som do Vaticatar.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2244,6 +2404,7 @@
   "name": "Trilha Sonora StatTrak™ | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "MESSAGE FROM THE CLERGY – Papa Perpétuo V aterrissou no Counter-Strike em um espetáculo glorioso de heavy metal. Fuja das dificuldades do cotidiano enquanto corre e atira ao som do Vaticatar.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2258,6 +2419,7 @@
   "name": "Trilha Sonora | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Experimente HEALTH no Counter-Strike. Coloque as mãos nas armas e aproveite o som industrial brutal e punitivo do álbum de metal RAT WARS.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2272,6 +2434,7 @@
   "name": "Trilha Sonora StatTrak™ | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Experimente HEALTH no Counter-Strike. Coloque as mãos nas armas e aproveite o som industrial brutal e punitivo do álbum de metal RAT WARS.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2286,6 +2449,7 @@
   "name": "Trilha Sonora | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "A dupla galesa do rock James and the Cold Gun liberta uma energia pura e sem filtros, juntando a atitude clássica do punk ao calor do rock alternativo moderno para criar uma trilha sonora explosiva.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2300,6 +2464,7 @@
   "name": "Trilha Sonora StatTrak™ | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "A dupla galesa do rock James and the Cold Gun liberta uma energia pura e sem filtros, juntando a atitude clássica do punk ao calor do rock alternativo moderno para criar uma trilha sonora explosiva.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2314,6 +2479,7 @@
   "name": "Trilha Sonora | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Power metal de piratas espaciais é o que faltava no seu jogo. Dê um passeio no Starship Velociraptor e deixe os sons deste álbum de Jonathan Young, inspirados em animes e jogos, elevarem as suas partidas a um novo nível.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2328,6 +2494,7 @@
   "name": "Trilha Sonora StatTrak™ | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Power metal de piratas espaciais é o que faltava no seu jogo. Dê um passeio no Starship Velociraptor e deixe os sons deste álbum de Jonathan Young, inspirados em animes e jogos, elevarem as suas partidas a um novo nível.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2342,6 +2509,7 @@
   "name": "Trilha Sonora | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Precisando de um espacinho? Pois ele se chama Floorspace. Essa grande trilha sonora do álbum de estreia de Juelz inclui sintetizadores estilo neorrave, acordes de baixo corajosos e percussões de trap afiadas. Floorspace foi reimaginado para o Counter-Strike 2, e o hino de destaque \\\"Gossip\\\" faz os jogadores desejarem montar — e depois destruir — uma parede de LEDs.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2356,6 +2524,7 @@
   "name": "Trilha Sonora StatTrak™ | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Precisando de um espacinho? Pois ele se chama Floorspace. Essa grande trilha sonora do álbum de estreia de Juelz inclui sintetizadores estilo neorrave, acordes de baixo corajosos e percussões de trap afiadas. Floorspace foi reimaginado para o Counter-Strike 2, e o hino de destaque \\\"Gossip\\\" faz os jogadores desejarem montar — e depois destruir — uma parede de LEDs.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2370,6 +2539,7 @@
   "name": "Trilha Sonora | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Curta o álbum de hip-hop vencedor de três GRAMMYs dentro do mundo do Counter-Strike. A voz de Killer Mike ajudará você a manter a motivação enquanto sobe nas classificações e aprimora as suas habilidades.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2384,6 +2554,7 @@
   "name": "Trilha Sonora StatTrak™ | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Curta o álbum de hip-hop vencedor de três GRAMMYs dentro do mundo do Counter-Strike. A voz de Killer Mike ajudará você a manter a motivação enquanto sobe nas classificações e aprimora as suas habilidades.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2398,6 +2569,7 @@
   "name": "Trilha Sonora | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "A única coisa que amamos mais do que um bom inimigo? Uma boa trilha sonora. Deixe a música de PVRIS em Evergreen animar a sua equipe e manter o resultado das suas partidas no verde.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2412,6 +2584,7 @@
   "name": "Trilha Sonora StatTrak™ | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "A única coisa que amamos mais do que um bom inimigo? Uma boa trilha sonora. Deixe a música de PVRIS em Evergreen animar a sua equipe e manter o resultado das suas partidas no verde.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2426,6 +2599,7 @@
   "name": "Trilha Sonora | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Conduza os seus desejos com esta trilha sonora dinâmica e de alta energia, criada pelo ícone americano do techno Selective Response. Eletrizada e pronta para a ação!",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2440,6 +2614,7 @@
   "name": "Trilha Sonora StatTrak™ | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Conduza os seus desejos com esta trilha sonora dinâmica e de alta energia, criada pelo ícone americano do techno Selective Response. Eletrizada e pronta para a ação!",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2454,6 +2629,7 @@
   "name": "Trilha Sonora | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "Os roqueiros britânicos do Tigercub entregam um soco melódico corajoso, fundindo a intensidade crua do rock alternativo com um toque moderno contemplativo para criar uma trilha sonora esmagadora.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -2468,6 +2644,7 @@
   "name": "Trilha Sonora StatTrak™ | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "Os roqueiros britânicos do Tigercub entregam um soco melódico corajoso, fundindo a intensidade crua do rock alternativo com um toque moderno contemplativo para criar uma trilha sonora esmagadora.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",

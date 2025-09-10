@@ -4,6 +4,7 @@
   "name": "Valve, Counter-Strike 2",
   "code": "valve_cs2_01",
   "description": "Το επίσημο μουσικό κουτί του Counter-Strike 2.",
+  "def_index": "1",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -18,6 +19,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "Το προεπιλεγμένο μουσικό κουτί του CS:GO, που παρουσιάστηκε με την κυκλοφορία του CS:GO το 2012.",
+  "def_index": "2",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -32,6 +34,7 @@
   "name": "Μουσικό κουτί | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Ο συνθέτης βιντεοπαιχνιδιών Daniel Sadowski προσφέρει δράση μειξαρισμένη με τρελά ηχητικά στο καταπληκτικό Μουσικό πακέτο.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -46,6 +49,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Ο συνθέτης βιντεοπαιχνιδιών Daniel Sadowski προσφέρει δράση μειξαρισμένη με τρελά ηχητικά στο καταπληκτικό Μουσικό πακέτο.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -60,6 +64,7 @@
   "name": "Μουσικό κουτί | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "Ένα Ολλανδικό τρίο Electronic, οι Noisia, φέρνουν μια σκληρή, κινηματογραφική αίσθηση με έναν μοναδικό συνδυασμό παράδοσης και εξέλιξης.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -74,6 +79,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "Ένα Ολλανδικό τρίο Electronic, οι Noisia, φέρνουν μια σκληρή, κινηματογραφική αίσθηση με έναν μοναδικό συνδυασμό παράδοσης και εξέλιξης.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -88,6 +94,7 @@
   "name": "Μουσικό κουτί | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Μουσική για να συνθλίψετε τους εχθρούς σας. Δείτε τους να πέφτουν στα πόδια σας από τον βραβευμένο μουσικοσυνθέτη Robert Allaire.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -102,6 +109,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Μουσική για να συνθλίψετε τους εχθρούς σας. Δείτε τους να πέφτουν στα πόδια σας από τον βραβευμένο μουσικοσυνθέτη Robert Allaire.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -116,6 +124,7 @@
   "name": "Μουσικό κουτί | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "Από τον συνθέτη των δύο μεγαλύτερων παιχνιδιών πολέμου του κόσμου, έρχεται ένα ηχητικό αποτέλεσμα που θα φέρει τους εχθρούς σας στην πύλη της κόλασης!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -130,6 +139,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "Από τον συνθέτη των δύο μεγαλύτερων παιχνιδιών πολέμου του κόσμου, έρχεται ένα ηχητικό αποτέλεσμα που θα φέρει τους εχθρούς σας στην πύλη της κόλασης!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -144,6 +154,7 @@
   "name": "Μουσικό κουτί | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "Ο καταξιωμένος μουσικός Feed Me, φέρνει το δυτικό μουσικό στυλ σε μοντέρνο ηλεκτρονικό διάστημα.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -158,6 +169,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "Ο καταξιωμένος μουσικός Feed Me, φέρνει το δυτικό μουσικό στυλ σε μοντέρνο ηλεκτρονικό διάστημα.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -172,6 +184,7 @@
   "name": "Μουσικό κουτί | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Από το συνθέτη βιντεοπαιχνιδιών Dren, αυτή η σινεματική, μεταλλική μουσική υπερηρώων σας βάζει σε φονικό πνεύμα!",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -186,6 +199,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Από το συνθέτη βιντεοπαιχνιδιών Dren, αυτή η σινεματική, μεταλλική μουσική υπερηρώων σας βάζει σε φονικό πνεύμα!",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -200,6 +214,7 @@
   "name": "Μουσικό κουτί | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "O βραβευμένος με Grammy συνθέτης παιχνιδιών Austin Wintory αναρωτιέται, γιατί να κυνηγήσετε τους εχθρούς σας ενώ μπορείτε να τους παρασύρετε με ένα θανατηφόρο, ομολογουμένως παράφρον, τανγκό;",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -214,6 +229,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "O βραβευμένος με Grammy συνθέτης παιχνιδιών Austin Wintory αναρωτιέται, γιατί να κυνηγήσετε τους εχθρούς σας ενώ μπορείτε να τους παρασύρετε με ένα θανατηφόρο, ομολογουμένως παράφρον, τανγκό;",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -228,6 +244,7 @@
   "name": "Μουσικό κουτί | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Βυθιστείτε με αυτό το κινηματογραφικό soundtrack γεμάτο χορδές, παλλόμενες μελωδίες και τυμπάνων από τον παγκοσμίου φήμης DJ / παραγωγό Sasha",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -242,6 +259,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Βυθιστείτε με αυτό το κινηματογραφικό soundtrack γεμάτο χορδές, παλλόμενες μελωδίες και τυμπάνων από τον παγκοσμίου φήμης DJ / παραγωγό Sasha",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -256,6 +274,7 @@
   "name": "Μουσικό κουτί | Skog, Metal",
   "code": "skog_01",
   "description": "Ένα μάθημα επιδρομών από τον παραγωγό της Metal, Skog.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -270,6 +289,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Skog, Metal",
   "code": "skog_01",
   "description": "Ένα μάθημα επιδρομών από τον παραγωγό της Metal, Skog.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -284,6 +304,7 @@
   "name": "Μουσικό κουτί | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "«ΚΑΛΕΣ ΔΙΑΚΟΠΕΣ, ****ΟΛΗΔΕΣ!»\\n -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -298,6 +319,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "«ΚΑΛΕΣ ΔΙΑΚΟΠΕΣ, ****ΟΛΗΔΕΣ!»\\n -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -312,6 +334,7 @@
   "name": "Μουσικό κουτί | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Ικανοποιήστε την ακοή σας με αυτή τη συλλογή κινηματογραφικών ατμοσφαιρικών κομματιών και σκληροτράχηλων ρυθμών από τον παραγωγό και πρωτοπόρο Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -326,6 +349,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Ικανοποιήστε την ακοή σας με αυτή τη συλλογή κινηματογραφικών ατμοσφαιρικών κομματιών και σκληροτράχηλων ρυθμών από τον παραγωγό και πρωτοπόρο Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -340,6 +364,7 @@
   "name": "Μουσικό κουτί | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Κατατροπώστε τους εχθρούς σας. Καθαρή ένταση από τον νικητή Grammy και συνθέτη, Mateo Messina.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -354,6 +379,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Κατατροπώστε τους εχθρούς σας. Καθαρή ένταση από τον νικητή Grammy και συνθέτη, Mateo Messina.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -368,6 +394,7 @@
   "name": "Μουσικό κουτί | Various Artists, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Μια πληθώρα από καλλιτέχνες ηλεκτρονικής μουσικής προσφέρουν σκληρά μπιτ σε αυτό το απολαυστικό μουσικό πακέτο από το θρυλικό Hotline Miami.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -382,6 +409,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Various Artists, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Μια πληθώρα από καλλιτέχνες ηλεκτρονικής μουσικής προσφέρουν σκληρά μπιτ σε αυτό το απολαυστικό μουσικό πακέτο από το θρυλικό Hotline Miami.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -396,6 +424,7 @@
   "name": "Μουσικό κουτί | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "Ο συνθέτης Daniel Sadowski ανεβάζει τον πήχη με επιθετικά ηλεκτρονικά beat, δημιουργικά ηχητικά εφέ και έναν συναρπαστικό φουτουριστικό παλμό. «Προσοχή: Θα προκαλέσει αύξηση αδρεναλίνης!»",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -410,6 +439,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "Ο συνθέτης Daniel Sadowski ανεβάζει τον πήχη με επιθετικά ηλεκτρονικά beat, δημιουργικά ηχητικά εφέ και έναν συναρπαστικό φουτουριστικό παλμό. «Προσοχή: Θα προκαλέσει αύξηση αδρεναλίνης!»",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -424,6 +454,7 @@
   "name": "Μουσικό κουτί | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "Ο συνθέτης Damjan Mravunac συνδυάζει δυναμικούς κινηματογραφικούς ήχους με επικές χορωδίες σε αυτό το μουσικό πακέτο που περιλαμβάνει μουσική από τον εξαιρετικό τίτλο της Croteam «The Talos Principle».",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -438,6 +469,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "Ο συνθέτης Damjan Mravunac συνδυάζει δυναμικούς κινηματογραφικούς ήχους με επικές χορωδίες σε αυτό το μουσικό πακέτο που περιλαμβάνει μουσική από τον εξαιρετικό τίτλο της Croteam «The Talos Principle».",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -452,6 +484,7 @@
   "name": "Μουσικό κουτί | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "Ο Ρώσος καλλιτέχνης Heavy Electronica PROXY φέρνει το δικό του βαρύ πυροβολικό στο Counter-Strike. Υβριδικοί ήχοι όπλων ενωμένοι με την καλύτερη τεχνολογία στούντιο κάνουν αυτό το πακέτο μοναδικό.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -466,6 +499,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "Ο Ρώσος καλλιτέχνης Heavy Electronica PROXY φέρνει το δικό του βαρύ πυροβολικό στο Counter-Strike. Υβριδικοί ήχοι όπλων ενωμένοι με την καλύτερη τεχνολογία στούντιο κάνουν αυτό το πακέτο μοναδικό.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -480,6 +514,7 @@
   "name": "Μουσικό κουτί | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Ο καλλιτέχνης και εκτελεστής του DOTA TI4, Ki:Theory ρίχνει ΒΟΜΒΕΣ με αυτό το καυτό σετ της ηλεκτρονικής ροκ.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -494,6 +529,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Ο καλλιτέχνης και εκτελεστής του DOTA TI4, Ki:Theory ρίχνει ΒΟΜΒΕΣ με αυτό το καυτό σετ της ηλεκτρονικής ροκ.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -508,6 +544,7 @@
   "name": "Μουσικό κουτί | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Θριαμβευτική μουσική συνδυασμένη με δυνατό ρυθμό σε αυτήν την εκρηκτική συλλογή από τον υπέρ βραβευμένο συνθέτη Troels Folmann.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -522,6 +559,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Θριαμβευτική μουσική συνδυασμένη με δυνατό ρυθμό σε αυτήν την εκρηκτική συλλογή από τον υπέρ βραβευμένο συνθέτη Troels Folmann.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -536,6 +574,7 @@
   "name": "Μουσικό κουτί | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Ο Kelly Bailey, ο συνθέτης της σειράς Half-Life της Valve, δημιουργεί ένα οπλοστάσιο νέας αποκαλυπτικής μουσικής, εμπνευσμένης από τη σκοτεινή πλευρά του κόσμου του Half-Life.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -550,6 +589,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Ο Kelly Bailey, ο συνθέτης της σειράς Half-Life της Valve, δημιουργεί ένα οπλοστάσιο νέας αποκαλυπτικής μουσικής, εμπνευσμένης από τη σκοτεινή πλευρά του κόσμου του Half-Life.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -564,6 +604,7 @@
   "name": "Μουσικό κουτί | Skog, II-Headshot",
   "code": "skog_02",
   "description": "Ο συνθέτης metal και παραγωγός Jocke Skog επιστρέφει με ένα ολοκαίνουριο πακέτο metal, μετατρέποντας τα υπόλοιπα μουσικά πακέτα του CS:GO σε κάτι γλυκούλι, ζεστό και χνουδωτό. Γίνετε τώρα MVP για να ακούσουν όλοι την υπεροχή σας!",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -578,6 +619,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Skog, II-Headshot",
   "code": "skog_02",
   "description": "Ο συνθέτης metal και παραγωγός Jocke Skog επιστρέφει με ένα ολοκαίνουριο πακέτο metal, μετατρέποντας τα υπόλοιπα μουσικά πακέτα του CS:GO σε κάτι γλυκούλι, ζεστό και χνουδωτό. Γίνετε τώρα MVP για να ακούσουν όλοι την υπεροχή σας!",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -592,6 +634,7 @@
   "name": "Μουσικό κουτί | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Ο Daniel Sadowski δημιουργεί το πρώτο μουσικό κουτί 8-bit για το Counter-Strike, γεμάτο με αυθεντικούς ήχους 8-bit.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -606,6 +649,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Ο Daniel Sadowski δημιουργεί το πρώτο μουσικό κουτί 8-bit για το Counter-Strike, γεμάτο με αυθεντικούς ήχους 8-bit.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -620,6 +664,7 @@
   "name": "Μουσικό κουτί | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "Ο εναλλακτικός ροκάς AWOLNATION φέρνει ένα μουσικό πακέτο για πάντα. Περιέχει μια προσεγμένη επιλογή κομματιών και περιέχει τμήματα τραγουδιών από το «I Am» και το hit «Sail».",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -634,6 +679,7 @@
   "name": "Μουσικό κουτί StatTrak™ | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "Ο εναλλακτικός ροκάς AWOLNATION φέρνει ένα μουσικό πακέτο για πάντα. Περιέχει μια προσεγμένη επιλογή κομματιών και περιέχει τμήματα τραγουδιών από το «I Am» και το hit «Sail».",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -648,6 +694,7 @@
   "name": "Μουσικό κουτί | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Διαμάντια. Είναι παντοτινά. Βυθιστείτε στο αρπέτζιο του Mord Fustang με αυτό το νέο σετ ρυθμού και ατμόσφαιρας.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -662,6 +709,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Διαμάντια. Είναι παντοτινά. Βυθιστείτε στο αρπέτζιο του Mord Fustang με αυτό το νέο σετ ρυθμού και ατμόσφαιρας.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -676,6 +724,7 @@
   "name": "Μουσικό κουτί | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Ο Michael Bross παράγει επικό / κινηματογραφικό techno-grunge για να σας κάνει να νιώσετε σαν πραγματικός θεός μέσα στη μάχη.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -690,6 +739,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Ο Michael Bross παράγει επικό / κινηματογραφικό techno-grunge για να σας κάνει να νιώσετε σαν πραγματικός θεός μέσα στη μάχη.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -704,6 +754,7 @@
   "name": "Μουσικό κουτί | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Συνδυάζοντας παλλόμενες χορδές και συνθεσάιζερ με το χτύπημα τυμπάνων του πολέμου, προετοιμαστείτε για πόλεμο με αυτό το εκκωφαντικό κομμάτι από τον συνθέτη Ian Hultquist.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -718,6 +769,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Συνδυάζοντας παλλόμενες χορδές και συνθεσάιζερ με το χτύπημα τυμπάνων του πολέμου, προετοιμαστείτε για πόλεμο με αυτό το εκκωφαντικό κομμάτι από τον συνθέτη Ian Hultquist.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -732,6 +784,7 @@
   "name": "Μουσικό κουτί | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Ηλιόλουστο rock με στοιχεία hip-hop, punk και garage pop. Κρατήστε το πραγματικό και πάρτε κεφαλίδια.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -746,6 +799,7 @@
   "name": "Μουσικό κουτί StatTrak™ | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Ηλιόλουστο rock με στοιχεία hip-hop, punk και garage pop. Κρατήστε το πραγματικό και πάρτε κεφαλίδια.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -760,6 +814,7 @@
   "name": "Μουσικό κουτί | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Οι Beartooth φέρνουν έναν επιθετικό κλασικό σκληροπυρηνικό ρυθμό που κινεί το πλήθος και τα σπάει. Ένα τέλειο soundtrack για να ακούτε ενώ σκοτώνετε χωρίς εστίαση με το scout. Ροκ μέχρι θανάτου.",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -774,6 +829,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Οι Beartooth φέρνουν έναν επιθετικό κλασικό σκληροπυρηνικό ρυθμό που κινεί το πλήθος και τα σπάει. Ένα τέλειο soundtrack για να ακούτε ενώ σκοτώνετε χωρίς εστίαση με το scout. Ροκ μέχρι θανάτου.",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -788,6 +844,7 @@
   "name": "Μουσικό κουτί | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Ο συνθέτης μουσικής παιχνιδιών Lennie Moore σερβίρει μια αρωματική, πικάντικη μίξη από jazz και funk. Νόστιμη σερβιρισμένη κρύα, όπως τα πτώματα των εχθρών σας μόλις τελειώσετε με αυτά.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -802,6 +859,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Ο συνθέτης μουσικής παιχνιδιών Lennie Moore σερβίρει μια αρωματική, πικάντικη μίξη από jazz και funk. Νόστιμη σερβιρισμένη κρύα, όπως τα πτώματα των εχθρών σας μόλις τελειώσετε με αυτά.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -816,6 +874,7 @@
   "name": "Μουσικό κουτί | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "Υποκύψτε ελεύθερα στα ηχοτοπία των οικείων μουσικών αρωμάτων και τόνων του Φινλανδού παραγωγού Darude. Εμπλουτίζοντας τον εαυτό σας με πρόσβαση σε μια βαριά μίξη προοδευτικών χροιών και θεμάτων ανατριχιαστικής μελωδικής δομής από τις τράπεζες ήχου ενός από τους πιο γνωστούς πρωτοπόρους στη χορευτική μουσική.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -830,6 +889,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "Υποκύψτε ελεύθερα στα ηχοτοπία των οικείων μουσικών αρωμάτων και τόνων του Φινλανδού παραγωγού Darude. Εμπλουτίζοντας τον εαυτό σας με πρόσβαση σε μια βαριά μίξη προοδευτικών χροιών και θεμάτων ανατριχιαστικής μελωδικής δομής από τις τράπεζες ήχου ενός από τους πιο γνωστούς πρωτοπόρους στη χορευτική μουσική.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -844,6 +904,7 @@
   "name": "StatTrak™ Μουσικό κουτί | Beartooth, Aggressive",
   "code": "beartooth_02",
   "description": "O Beartooth επιστρέφει για τον δεύτερο γύρο. Αυτό το μουσικό κιτ βαράει δυνατά και είναι ακόμα πιο επιθετικό. Έχουμε κάνει επίσης τον ύμνο του MVP ιδιαίτερα βαρύ, για να νιώθουν ακόμα πιο άσχημα οι αντίπαλοί σας όταν τους νικάτε.",
+  "def_index": "32",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -858,6 +919,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Blitz Kids, The Good Youth",
   "code": "blitzkids_01",
   "description": "Το βρετανικό ποπ/πανκ συγκρότημα «Blitz Kids» σας φέρνει το τέλειο μουσικό κιτ για να κάνετε «rush B» όσο σκέφτεστε τις νυχτερινές κούρσες με τους φίλους σας στο λύκειο. Αυτό το κιτ είναι για να τρέχετε γρήγορα και να νιώθετε νέοι.",
+  "def_index": "33",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -872,6 +934,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Hundredth, FREE",
   "code": "hundredth_01",
   "description": "Οι Hundredth φέρνουν τη βαριά μουσική στον κόσμο με μοναδικό τρόπο μέσω του μελωδικού hardcore τους. Απελευθερωθείτε ή επιστρέψτε στην Dust με αυτούς τους τέλειους ήχους για το σκότωμα των ανάξιων.",
+  "def_index": "34",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -886,6 +949,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Neck Deep, Life's Not Out To Get You",
   "code": "neckdeep_01",
   "description": "Μερικές φορές χρειάζεστε λίγο ποπ πανκ για να βγάλετε τη μέρα. Είτε αντιμετωπίζετε εχθρούς που έχουν στήσει ενέδρα είτε έχετε ένα σερί από ήττες, ο Neck Deep σας ηρεμεί με το Life's Not Out To Get You, αν και η αντίπαλη ομάδα προσπαθεί για το αντίθετο.",
+  "def_index": "35",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -900,6 +964,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Roam, Backbone",
   "code": "roam_01",
   "description": "Οι Roam παρέχουν γρήγορο και ευθύ Pop Punk που κάνει το πλήθος και τους παίκτες να κινούνται. Αποδείξτε ότι έχετε θράσος με αυτούς τους τέλειους ήχους καθώς εφορμάτε και εξαλείφετε την αντίπαλη ομάδα πριν καν συνειδητοποιήσει ότι είναι χαμένη από χέρι.",
+  "def_index": "36",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -914,6 +979,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Twin Atlantic, GLA",
   "code": "twinatlantic_01",
   "description": "Βαρύτεροι, δυνατότεροι και πιο άγριοι από ποτέ, οι Twin Atlantic έρχονται στο CS:GO έτοιμοι να σας βοηθήσουν να τα χάσετε με τη δύναμη του σκοτσέζικου ροκ.",
+  "def_index": "37",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -928,6 +994,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Skog, III-Arena",
   "code": "skog_03",
   "description": "Οι Skog επέστρεψαν με το τρίτο κιτ metal που συνθλίβει. Αυτή τη φορά με μια ηλεκτροργανική προσέγγιση στη μουσική, που συνδυάζει τεράστια κιθαριστικά riff με εξίσου μαζικά βαριά σημεία, στοιχεία loop και drone.",
+  "def_index": "38",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -942,6 +1009,7 @@
   "name": "Μουσικό κουτί | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "Οι Verkkars ανεβαίνουν στα Φινλανδικά τσαρτ με ένα εγκάρδιο αφιέρωμα στους ENCE. Μπορεί πραγματικά να είναι τόσο EZ;",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -956,6 +1024,7 @@
   "name": "Μουσικό κουτί StatTrak™ | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "Οι Verkkars ανεβαίνουν στα Φινλανδικά τσαρτ με ένα εγκάρδιο αφιέρωμα στους ENCE. Μπορεί πραγματικά να είναι τόσο EZ;",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -970,6 +1039,7 @@
   "name": "Συλλογή Halo, The Master Chief",
   "code": "halo_01",
   "description": "Δώστε στην ακουστική εμπειρία του Counter-Strike σας μια επική ανανέωση με το Μουσικό πακέτο συλλογής Master Chief, που διαθέτει εικονικές μουσικές στιγμές από το σύμπαν του Halo. © 2019 343 Industries. Με επιφύλαξη κάθε δικαιώματος. Χρησιμοποιείται με άδεια από 343 Industries. Το λογότυπο Halo: The Master Chief Collection και το λογότυπο Halo logo είναι εμπορικά σήματα της ομάδας εταιρειών Microsoft.",
+  "def_index": "40",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -984,6 +1054,7 @@
   "name": "Μουσικό κουτί | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Ο Scarlxrd αναμειγνύει βαριά μπιτάκια trap με μια ροή και απόδοση που δημιουργεί το δικό του μοναδικό υπογένος. Με αυτή την θαυμάσια ανάμειξη τα ζωντανά σόου του αιχμαλωτίζει την προσοχή όλων στο κοινό.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -998,6 +1069,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Ο Scarlxrd αναμειγνύει βαριά μπιτάκια trap με μια ροή και απόδοση που δημιουργεί το δικό του μοναδικό υπογένος. Με αυτή την θαυμάσια ανάμειξη τα ζωντανά σόου του αιχμαλωτίζει την προσοχή όλων στο κοινό.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1012,6 +1084,7 @@
   "name": "Anti-Citizen – Half-Life: Alyx",
   "code": "hlalyx_01",
   "description": "Αυτό το μουσικό κουτί τιμά το Half-Life: Alyx, την VR επιστροφή της Valve στη σειρά του Half-Life. Είστε η μοναδική ελπίδα της ανθρωπότητας για επιβίωση. Οι βαθιές περιβαλλοντικές σας αλληλεπιδράσεις συνεχίζονται στο Counter-Strike: Global Offensive.",
+  "def_index": "42",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1026,6 +1099,7 @@
   "name": "Μουσικό κουτί | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Ο Austin Wintory αναμειγνύει κελτική φαντασία με σφυριχτά ηλεκρονικά και τη γενναιόδωρη βοήθεια των φωνητικών του Peter Hollens σε αυτό το μουσικό κουτί που σπάει τα είδη μουσικής.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1040,6 +1114,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Ο Austin Wintory αναμειγνύει κελτική φαντασία με σφυριχτά ηλεκρονικά και τη γενναιόδωρη βοήθεια των φωνητικών του Peter Hollens σε αυτό το μουσικό κουτί που σπάει τα είδη μουσικής.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1054,6 +1129,7 @@
   "name": "Μουσικό κουτί | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "Αυτό το soundtrack αποκαλυπτικού μαριάτσι από το επιτυχημένο indie παιχνίδι, Gunman Taco Truck, έρχεται στο CS:GO με έντονα μεξικάνικα τραγούδια όπως το Pollo Diablo και το Persecución de Helltain!",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1068,6 +1144,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "Αυτό το soundtrack αποκαλυπτικού μαριάτσι από το επιτυχημένο indie παιχνίδι, Gunman Taco Truck, έρχεται στο CS:GO με έντονα μεξικάνικα τραγούδια όπως το Pollo Diablo και το Persecución de Helltain!",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1082,6 +1159,7 @@
   "name": "Μουσικό κουτί | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "Από τον συνθέτη που σας έφερε το «Total Domination», «The 8-Bit Kit» και το «Crimson Assault», έρχεται το «Eye Of The Dragon». Ο μουσικός συνθέτης Daniel Sadowski αναμιγνύει Νίντζα + Όπλα + Χιπ-χοπ + Τέκνο για να δημιουργήσει ένα μουσικό πακέτο γεμάτο δράση. <i>Οι Νίντζα είναι γνωστοί για τις γρήγορες και ακριβείς επιθέσεις τους, ωστόσο μπορούν να είναι αόρατοι στον εχθρό τους.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1096,6 +1174,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "Από τον συνθέτη που σας έφερε το «Total Domination», «The 8-Bit Kit» και το «Crimson Assault», έρχεται το «Eye Of The Dragon». Ο μουσικός συνθέτης Daniel Sadowski αναμιγνύει Νίντζα + Όπλα + Χιπ-χοπ + Τέκνο για να δημιουργήσει ένα μουσικό πακέτο γεμάτο δράση. <i>Οι Νίντζα είναι γνωστοί για τις γρήγορες και ακριβείς επιθέσεις τους, ωστόσο μπορούν να είναι αόρατοι στον εχθρό τους.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1110,6 +1189,7 @@
   "name": "Μουσικό κουτί | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Αλχημιστές του ισχυρού χάους που είναι το M.U.D.D. FORCE - οι συνθέτες Tree Adams και Ben Bromfield κρατούν επικά μοτίβα μάχης και αλεσμένους συνθετικούς ήχους σε ένα τυφώνα καταστροφής με τέρμα τα γκάζια.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1124,6 +1204,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Αλχημιστές του ισχυρού χάους που είναι το M.U.D.D. FORCE - οι συνθέτες Tree Adams και Ben Bromfield κρατούν επικά μοτίβα μάχης και αλεσμένους συνθετικούς ήχους σε ένα τυφώνα καταστροφής με τέρμα τα γκάζια.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1138,6 +1219,7 @@
   "name": "Μουσικό κουτί | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "Ο συνθέτης Tim Huling παραδίνει κλασικά φιλμ νουάρ κομμάτια αναμειγμένα με σύγχρονα μπιτ και grooves.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1152,6 +1234,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "Ο συνθέτης Tim Huling παραδίνει κλασικά φιλμ νουάρ κομμάτια αναμειγμένα με σύγχρονα μπιτ και grooves.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1166,6 +1249,7 @@
   "name": "Μουσικό κουτί | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Εμπνευσμένος από τη φάνκι μουσική βιντεοπαιχνιδιών στις αρχές των 90s, ο συνθέτης Sam Marshall αναμειγνυέι λίγη νοσταλγία κλασικών παιχνιδιών με μια πικάντικη μοντέρνα σως.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1180,6 +1264,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Εμπνευσμένος από τη φάνκι μουσική βιντεοπαιχνιδιών στις αρχές των 90s, ο συνθέτης Sam Marshall αναμειγνυέι λίγη νοσταλγία κλασικών παιχνιδιών με μια πικάντικη μοντέρνα σως.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1194,6 +1279,7 @@
   "name": "Μουσικό κουτί | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "Ο συνθέτης Matt Levine παραδίδει ωμή μαγκιά σε αυτό το αλανιάρικο φόρο τιμής σε ταινίες άγριας Δύσης. Ποτέ δεν είχε καλύτερη αίσθηση το «έλα λοιπόν, φτιάξε μου τη μέρα...»",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1208,6 +1294,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "Ο συνθέτης Matt Levine παραδίδει ωμή μαγκιά σε αυτό το αλανιάρικο φόρο τιμής σε ταινίες άγριας Δύσης. Ποτέ δεν είχε καλύτερη αίσθηση το «έλα λοιπόν, φτιάξε μου τη μέρα...»",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1222,6 +1309,7 @@
   "name": "Μουσικό κουτί | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "Ο θρυλικός παραγωγός Amon Tobin δανείζει τη μοναδική αισθητική του στο CS:GO. Αυτή τη φορά μέσω ενισχυτών σωλήνων.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1236,6 +1324,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "Ο θρυλικός παραγωγός Amon Tobin δανείζει τη μοναδική αισθητική του στο CS:GO. Αυτή τη φορά μέσω ενισχυτών σωλήνων.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1250,6 +1339,7 @@
   "name": "Darren Korb, Μουσικό κουτί Hades",
   "code": "hades_01",
   "description": "Σίγουρα, μπορεί να αστοχείτε πού και πού, αλλά αυτό που δεν αστοχεί ποτέ είναι το μουσικό κουτί που ρουφάει το αίμα κατ' ευθείαν από τον Κάτω Κόσμο του Hades, το παιχνίδι εξερεύνησης μπουντρουμιών τύπου rogue.",
+  "def_index": "51",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1264,6 +1354,7 @@
   "name": "Μουσικό κουτί | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Αποδείξτε ότι δεν είστε σαν όλους τους άλλους (και ότι είστε ο καλύτερος στον χάρτη) με το νέο μουσικό κουτί του Neck Deep, που περιλαμβάνει τραγούδια από το άλμπουμ του συγκροτήματος με τίτλο «All Distortions Are Intentional».",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1278,6 +1369,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Αποδείξτε ότι δεν είστε σαν όλους τους άλλους (και ότι είστε ο καλύτερος στον χάρτη) με το νέο μουσικό κουτί του Neck Deep, που περιλαμβάνει τραγούδια από το άλμπουμ του συγκροτήματος με τίτλο «All Distortions Are Intentional».",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1292,6 +1384,7 @@
   "name": "Μουσικό Κουτί | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "ΣΤΟ CHAIN$AW Ο SCARLXRD ΦΤΑΝΕΙ ΣΤΟ ΑΝΕΥ ΠΡΟΗΓΟΥΜΕΝΟΥ ΑΠΟΓΕΙΟ ΤΟΥ ΜΕ ΩΜΗ ΡΟΗ ΣΥΝΔΥΑΣΜΕΝΗ ΜΕ ΒΑΡΙΑ ΜΟΥΣΙΚΑ ΚΟΜΜΑΤΙΑ.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1306,6 +1399,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "ΣΤΟ CHAIN$AW Ο SCARLXRD ΦΤΑΝΕΙ ΣΤΟ ΑΝΕΥ ΠΡΟΗΓΟΥΜΕΝΟΥ ΑΠΟΓΕΙΟ ΤΟΥ ΜΕ ΩΜΗ ΡΟΗ ΣΥΝΔΥΑΣΜΕΝΗ ΜΕ ΒΑΡΙΑ ΜΟΥΣΙΚΑ ΚΟΜΜΑΤΙΑ.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1320,6 +1414,7 @@
   "name": "Μουσικό κουτί | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Ο Austin Wintory απαντά την ερώτηση που η ανθρωπότητα είχε για χρόνια: τι συμβαίνει αν ενώσεις μουσική μπυραρίας, πόλκα με ακορντεόν, με γκραντζοειδή χέβι μέταλ;",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1334,6 +1429,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Ο Austin Wintory απαντά την ερώτηση που η ανθρωπότητα είχε για χρόνια: τι συμβαίνει αν ενώσεις μουσική μπυραρίας, πόλκα με ακορντεόν, με γκραντζοειδή χέβι μέταλ;",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1348,6 +1444,7 @@
   "name": "Μουσικό κουτί | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Ο συνθέτης βιντεοπαιχνιδιών και θρύλος της chiptune μουσικής, Chipzel, φέρνει έναν συνδυασμό υβριδικών στιλ εμπνευσμένων από το παιχνίδι Speak & Spell, γεμάτο διασκέδαση, φανκ και χαρακτήρα.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1362,6 +1459,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Ο συνθέτης βιντεοπαιχνιδιών και θρύλος της chiptune μουσικής, Chipzel, φέρνει έναν συνδυασμό υβριδικών στιλ εμπνευσμένων από το παιχνίδι Speak & Spell, γεμάτο διασκέδαση, φανκ και χαρακτήρα.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1376,6 +1474,7 @@
   "name": "Μουσικό κουτί | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Όπερα. Ήχοι 8-bit. Αναλογικά συνθεσάιζερ. Υπάρχει κάτι που να μην αρέσει; Ο εξπέρ της chiptune μουσικής Freaky DNA και η σοπράνο Leanne Koch ενώνουν τις δυνάμεις τους για μεγάλα μπιτ και όμορφες στιγμές!",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1390,6 +1489,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Όπερα. Ήχοι 8-bit. Αναλογικά συνθεσάιζερ. Υπάρχει κάτι που να μην αρέσει; Ο εξπέρ της chiptune μουσικής Freaky DNA και η σοπράνο Leanne Koch ενώνουν τις δυνάμεις τους για μεγάλα μπιτ και όμορφες στιγμές!",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1404,6 +1504,7 @@
   "name": "Μουσικό κουτί | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "Ο συνθέτης Jesse Harlin παραδίδει πομπώδες δράμα διαστημικής όπερας εμπνευσμένο από την κλασική επιστημονική φαντασία των δεκαετιών του 70, 80 και μετέπειτα.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1418,6 +1519,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "Ο συνθέτης Jesse Harlin παραδίδει πομπώδες δράμα διαστημικής όπερας εμπνευσμένο από την κλασική επιστημονική φαντασία των δεκαετιών του 70, 80 και μετέπειτα.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1432,6 +1534,7 @@
   "name": "Μουσικό κουτί | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Η συνθέτις και προγραμματίστρια βιντεοπαιχνιδιών Laura Shigihara θα σας βοηθήσει να πείτε σε όλους δυνατά και περήφανα ότι είστε οι MVP. Διασκεδάστε με αυτή τη μοναδική μίξη μουσικής dance των 90s, ρετρό συνθεσάιζερ βιντεοπαιχνιδιών και ένα ίχνος Plants vs. Zombies.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1446,6 +1549,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Η συνθέτις και προγραμματίστρια βιντεοπαιχνιδιών Laura Shigihara θα σας βοηθήσει να πείτε σε όλους δυνατά και περήφανα ότι είστε οι MVP. Διασκεδάστε με αυτή τη μοναδική μίξη μουσικής dance των 90s, ρετρό συνθεσάιζερ βιντεοπαιχνιδιών και ένα ίχνος Plants vs. Zombies.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1460,6 +1564,7 @@
   "name": "Μουσικό κουτί | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Από τη Sarah Schachner, μία δυστοπική γκοθ χορωδία σκανδιναβικών ρομπότ με αυτεπίγνωση αποφασίζουν ότι η ανθρωπότητα πρέπει να εξαλειφθεί.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1474,6 +1579,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Από τη Sarah Schachner, μία δυστοπική γκοθ χορωδία σκανδιναβικών ρομπότ με αυτεπίγνωση αποφασίζουν ότι η ανθρωπότητα πρέπει να εξαλειφθεί.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1488,6 +1594,7 @@
   "name": "Μουσικό Κουτί | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "Ο bbno$ διατυπώνει τον τοξικό ύμνο των gamer «u mad! Are u mad? LOL get good scrub». Η έρευνα δείχνει ότι αν παίζετε με αυτό το Μουσικό Κουτί εξοπλισμένο θα μεταβείτε απευθείας από Silver σε Global.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1502,6 +1609,7 @@
   "name": "Μουσικό Κουτί StatTrak™ | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "Ο bbno$ διατυπώνει τον τοξικό ύμνο των gamer «u mad! Are u mad? LOL get good scrub». Η έρευνα δείχνει ότι αν παίζετε με αυτό το Μουσικό Κουτί εξοπλισμένο θα μεταβείτε απευθείας από Silver σε Global.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1516,6 +1624,7 @@
   "name": "Μουσικό κουτί | The Verkkars & n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Από την ηλιόλουστη Καλιφόρνια μέχρι την ψυχρή Λαπωνία, ο θρύλος του Counter-Strike n0thing και οι The Verkkars ενώνουν τις δυνάμεις τους για να δημιουργήσουν το χιτ κομμάτι, Flashbang Dance! 3, 2, 1 you’re blind!",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1530,6 +1639,7 @@
   "name": "Μουσικό κουτί StatTrak™ | The Verkkars & n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Από την ηλιόλουστη Καλιφόρνια μέχρι την ψυχρή Λαπωνία, ο θρύλος του Counter-Strike n0thing και οι The Verkkars ενώνουν τις δυνάμεις τους για να δημιουργήσουν το χιτ κομμάτι, Flashbang Dance! 3, 2, 1 you’re blind!",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1544,6 +1654,7 @@
   "name": "Μουσικό κουτί | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Στο δρόμο για τη κορυφή ή για το γκρεμό; Αφήστε τους συνθετικούς ήχους και τις ονειρικές μελωδίες της δεκαετίας του 80 αυτού του μουσικού κιτ να σας πάνε πίσω. Πίσω, πίσω, πίσω… στις παλιές καλές εποχές.",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1558,6 +1669,7 @@
   "name": "Μουσικό κουτί StatTrak™ | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Στο δρόμο για τη κορυφή ή για το γκρεμό; Αφήστε τους συνθετικούς ήχους και τις ονειρικές μελωδίες της δεκαετίας του 80 αυτού του μουσικού κιτ να σας πάνε πίσω. Πίσω, πίσω, πίσω… στις παλιές καλές εποχές.",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1572,6 +1684,7 @@
   "name": "Μουσικό κουτί | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "Το σουηδικό συγκρότημα Humanity's Last Breath έρχεται δυνατά με το μουσικό κιτ του, Void. Τύμπανα που χτυπούν, τεράστια ριφ και μια ατμόσφαιρα που προκαλεί ρίγος.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1586,6 +1699,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "Το σουηδικό συγκρότημα Humanity's Last Breath έρχεται δυνατά με το μουσικό κιτ του, Void. Τύμπανα που χτυπούν, τεράστια ριφ και μια ατμόσφαιρα που προκαλεί ρίγος.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1600,6 +1714,7 @@
   "name": "Μουσικό κουτί | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Neo trap συνθετικοί ήχοι, σκληρά 808, ένα επικό riff στο πιάνο και μια πληθώρα ηχητικών εφέ πυροβολισμών. Ο πρωτότυπος τραπ ύμνος «Shooters» από τον Juelz δημιουργεί ένα πραγματικό ξεχωριστό μουσικό κουτί. Κατάλληλο μόνο για MVP.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1614,6 +1729,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Neo trap συνθετικοί ήχοι, σκληρά 808, ένα επικό riff στο πιάνο και μια πληθώρα ηχητικών εφέ πυροβολισμών. Ο πρωτότυπος τραπ ύμνος «Shooters» από τον Juelz δημιουργεί ένα πραγματικό ξεχωριστό μουσικό κουτί. Κατάλληλο μόνο για MVP.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1628,6 +1744,7 @@
   "name": "Μουσικό κουτί | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "dashstar*, ο εικονικός χάουζ ύμνος μπάσων από τον Knock2, παρέχει ασταμάτητη ενέργεια που ακολουθεί το μάντρα «άνευ ορίων» του νεαρού από το Σαν Ντιέγκο.",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1642,6 +1759,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "dashstar*, ο εικονικός χάουζ ύμνος μπάσων από τον Knock2, παρέχει ασταμάτητη ενέργεια που ακολουθεί το μάντρα «άνευ ορίων» του νεαρού από το Σαν Ντιέγκο.",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1656,6 +1774,7 @@
   "name": "Μουσικό κουτί | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Αρπάξτε ένα Glock και εξοπλίστε αυτό το μουσικό κιτ για να μεταφερθείτε στο κέντρο της υπόγειας σκηνής χιπ χοπ της Νέας Υόρκης.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1670,6 +1789,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Αρπάξτε ένα Glock και εξοπλίστε αυτό το μουσικό κιτ για να μεταφερθείτε στο κέντρο της υπόγειας σκηνής χιπ χοπ της Νέας Υόρκης.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1684,6 +1804,7 @@
   "name": "Μουσικό κουτί | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Σας αρέσει το κυνηγητό; Σκληρό ροκ, μέταλ και dubstep συγκρούονται στη μουσική υπόκρουση του Sullivan King για να γίνετε ασταμάτητοι.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1698,6 +1819,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Σας αρέσει το κυνηγητό; Σκληρό ροκ, μέταλ και dubstep συγκρούονται στη μουσική υπόκρουση του Sullivan King για να γίνετε ασταμάτητοι.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1712,6 +1834,7 @@
   "name": "Μουσικό κουτί | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "Γιορτάστε την 5η επέτειο της κυκλοφορίας του CS:GO στην Κίνα με ένα ξεχωριστό μουσικό κουτί, το 花脸 Hua Lian (Painted Face). Αυτό το κουτί συνδυάζει λαΐκή όπερα Qinqiang (το παλαιότερο ροκ εντ ρολ κινεζικού στιλ) και μοντέρνο ροκ εντ ρολ. Είτε είτε τυλιγμένοι σε καπνό είτε τυφλωμένοι από μια χειροβομβίδα κρότου λάμψης, δεν θα χαθείτε!",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1726,6 +1849,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "Γιορτάστε την 5η επέτειο της κυκλοφορίας του CS:GO στην Κίνα με ένα ξεχωριστό μουσικό κουτί, το 花脸 Hua Lian (Painted Face). Αυτό το κουτί συνδυάζει λαΐκή όπερα Qinqiang (το παλαιότερο ροκ εντ ρολ κινεζικού στιλ) και μοντέρνο ροκ εντ ρολ. Είτε είτε τυλιγμένοι σε καπνό είτε τυφλωμένοι από μια χειροβομβίδα κρότου λάμψης, δεν θα χαθείτε!",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1740,6 +1864,7 @@
   "name": "Μουσικό κουτί | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Ο Denzel φέρνει την ξεχωριστή του ενέργεια στο Counter-Strike, καθώς ενώνει τραπ, τζαζ και μπιτ από ντραμς και μπάσο. Αυτό το μουσικό κουτί διαθέτει τις επιτυχίες του Denzel, «Walkin», «ULTIMATE» και άλλες, οπότε βγάλτε τις επιμεταλλωμένες με νικέλιο Berettas χρώμιού σας και ανεβάστε την ένταση με το ΑΠΟΛΥΤΟ μουσικό κουτί.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1754,6 +1879,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Ο Denzel φέρνει την ξεχωριστή του ενέργεια στο Counter-Strike, καθώς ενώνει τραπ, τζαζ και μπιτ από ντραμς και μπάσο. Αυτό το μουσικό κουτί διαθέτει τις επιτυχίες του Denzel, «Walkin», «ULTIMATE» και άλλες, οπότε βγάλτε τις επιμεταλλωμένες με νικέλιο Berettas χρώμιού σας και ανεβάστε την ένταση με το ΑΠΟΛΥΤΟ μουσικό κουτί.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1768,6 +1894,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "Το προεπιλεγμένο μουσικό κουτί του CS:GO, που παρουσιάστηκε με την κυκλοφορία του CS:GO το 2012.",
+  "def_index": "70",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1782,6 +1909,7 @@
   "name": "Μουσικό κουτί | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "Τι άλλο να πούμε δηλαδή; Νιώστε τη δύναμη. Λοκάρετε τον στόχο σας με αυτό το δυναμικό electro μουσικό κουτί από DRYDEN.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1796,6 +1924,7 @@
   "name": "Μουσικό κουτί StatTrak™ | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "Τι άλλο να πούμε δηλαδή; Νιώστε τη δύναμη. Λοκάρετε τον στόχο σας με αυτό το δυναμικό electro μουσικό κουτί από DRYDEN.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1810,6 +1939,7 @@
   "name": "Μουσικό κουτί | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "Φτιαγμένο ειδικά για τα παιχνίδια όπου νιώθετε… <i>διαφορετικά</i>. Στοιχειώστε τους εχθρούς σας σε κάθε γύρο, με αυτό το «απάνθρωπο» μουσικό κουτί από ISOxo.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1824,6 +1954,7 @@
   "name": "Μουσικό κουτί StatTrak™ | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "Φτιαγμένο ειδικά για τα παιχνίδια όπου νιώθετε… <i>διαφορετικά</i>. Στοιχειώστε τους εχθρούς σας σε κάθε γύρο, με αυτό το «απάνθρωπο» μουσικό κουτί από ISOxo.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1838,6 +1969,7 @@
   "name": "Μουσικό κουτί | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "Είστε εραστής ή μαχητής; Ίσως και τα δύο; Δείξτε το σε όλο το λόμπι με το νέο μουσικό κουτί All Night από KILL SCRIPT.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1852,6 +1984,7 @@
   "name": "Μουσικό κουτί StatTrak™ | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "Είστε εραστής ή μαχητής; Ίσως και τα δύο; Δείξτε το σε όλο το λόμπι με το νέο μουσικό κουτί All Night από KILL SCRIPT.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1866,6 +1999,7 @@
   "name": "Μουσικό κουτί | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "Για τους παίκτες που αντιμετωπίζουν κάθε παιχνίδι σαν να είναι ο Μεγάλος Τελικός κάποιου Major, ακόμα και όταν διακυβεύονται μόνο μερικοί πόντοι κατάταξης CS. Δώστε τα όλα και κερδίστε με το δεύτερο μουσικό κουτί από Knock2, το Make U SWEAT!.",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1880,6 +2014,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "Για τους παίκτες που αντιμετωπίζουν κάθε παιχνίδι σαν να είναι ο Μεγάλος Τελικός κάποιου Major, ακόμα και όταν διακυβεύονται μόνο μερικοί πόντοι κατάταξης CS. Δώστε τα όλα και κερδίστε με το δεύτερο μουσικό κουτί από Knock2, το Make U SWEAT!.",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1894,6 +2029,7 @@
   "name": "Μουσικό κουτί | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "Μερικές φορές, δεν αρκεί ο αφοπλισμός της βόμβας για να γίνει κανείς ο MVP του γύρου. Γιορτάστε κάθε στιγμή, μικρή και μεγάλη, με το μουσικό κουτί Reason από Rad Cat.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1908,6 +2044,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "Μερικές φορές, δεν αρκεί ο αφοπλισμός της βόμβας για να γίνει κανείς ο MVP του γύρου. Γιορτάστε κάθε στιγμή, μικρή και μεγάλη, με το μουσικό κουτί Reason από Rad Cat.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1922,6 +2059,7 @@
   "name": "Μουσικό κουτί | TWERL, Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "Η καλύτερη στιγμή για να τα δώσετε όλα, είναι όταν οι προβολείς είναι πάνω σας. Αφήστε τα τύμπανα και το μπάσο του ύμνου Under Bright Lights από TWERL και Ekko & Sidetrack να συνεπάρουν εσάς και την ομάδα σας.",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1936,6 +2074,7 @@
   "name": "Μουσικό κουτί StatTrak™ | TWERL and Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "Η καλύτερη στιγμή για να τα δώσετε όλα, είναι όταν οι προβολείς είναι πάνω σας. Αφήστε τα τύμπανα και το μπάσο του ύμνου Under Bright Lights από TWERL και Ekko & Sidetrack να συνεπάρουν εσάς και την ομάδα σας.",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1950,6 +2089,7 @@
   "name": "Μουσικό κουτί | Austin Wintory, The Devil Went Clubbing In Georgia",
   "code": "austinwintory_04",
   "description": "Ο Austin Wintory πουλάει την ψυχή του στον Διάβολο, δημιουργώντας σατανικούς συνδυασμούς βιολιού και κλαμπ EDM.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1964,6 +2104,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Austin Wintory, The Devil Went Clubbing In Georgia",
   "code": "austinwintory_04",
   "description": "Ο Austin Wintory πουλάει την ψυχή του στον Διάβολο, δημιουργώντας σατανικούς συνδυασμούς βιολιού και κλαμπ EDM.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1978,6 +2119,7 @@
   "name": "Μουσικό κουτί | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Σας πρόδωσαν! Απολαύστε αυτήν τη δυνατή, μελαγχολική και έντονη μουσική υπόκρουση με αέρα τζαζ, από τον συνθέτη ταινιών και σειρών Ben Bromfield, καθώς ανακαλύπτετε μέχρι πού φτάνει αυτή η υπόθεση…",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -1992,6 +2134,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Σας πρόδωσαν! Απολαύστε αυτήν τη δυνατή, μελαγχολική και έντονη μουσική υπόκρουση με αέρα τζαζ, από τον συνθέτη ταινιών και σειρών Ben Bromfield, καθώς ανακαλύπτετε μέχρι πού φτάνει αυτή η υπόθεση…",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2006,6 +2149,7 @@
   "name": "Μουσικό κουτί | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Ο Daniel Sadowski προσκαλεί τους παίκτες να μπουν στον κόσμο του «Dead Shot», που συνδυάζει μουσική δράσης, χιπ χοπ, κλασική, ηλεκτρονική, ρετρό και συναισθηματική με ηχητικό σχεδιασμό. Για να μην ζαβλακωθείτε!",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2020,6 +2164,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Ο Daniel Sadowski προσκαλεί τους παίκτες να μπουν στον κόσμο του «Dead Shot», που συνδυάζει μουσική δράσης, χιπ χοπ, κλασική, ηλεκτρονική, ρετρό και συναισθηματική με ηχητικό σχεδιασμό. Για να μην ζαβλακωθείτε!",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2034,6 +2179,7 @@
   "name": "Μουσικό κουτί | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "Η καφεΐνη είναι στο πλευρό σας. Στο πλευρό όλων μας, δηλαδή, εκτός από το πλευρό των εχθρών σας! Το «Coffee! Kofe! Kahveh!» είναι βαλκανική μουσική χάλκινων οργάνων για γλέντια στους δρόμους, από τον Dren McDonald («Gunman Taco Truck» και «Death’s Head Demolition»), που ηχογραφήθηκε ζωντανά στο Balkancisco!",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2048,6 +2194,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "Η καφεΐνη είναι στο πλευρό σας. Στο πλευρό όλων μας, δηλαδή, εκτός από το πλευρό των εχθρών σας! Το «Coffee! Kofe! Kahveh!» είναι βαλκανική μουσική χάλκινων οργάνων για γλέντια στους δρόμους, από τον Dren McDonald («Gunman Taco Truck» και «Death’s Head Demolition»), που ηχογραφήθηκε ζωντανά στο Balkancisco!",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2062,6 +2209,7 @@
   "name": "Μουσικό κουτί | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "Μπείτε στον επικίνδυνο κόσμο της κατασκοπείας με το μουσικό κουτί «Agency», από τον συνθέτη Matt Levine.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2076,6 +2224,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "Μπείτε στον επικίνδυνο κόσμο της κατασκοπείας με το μουσικό κουτί «Agency», από τον συνθέτη Matt Levine.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2090,6 +2239,7 @@
   "name": "Μουσικό κουτί | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "Το «Clutch», η άτυπη συνέχεια του «Bodacious», είναι ένα εφιαλτικό τερατούργημα cyber-funk, που ανέστησε ο Sam Marshall με αλχημείες και μυστικιστικές τελετές.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2104,6 +2254,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "Το «Clutch», η άτυπη συνέχεια του «Bodacious», είναι ένα εφιαλτικό τερατούργημα cyber-funk, που ανέστησε ο Sam Marshall με αλχημείες και μυστικιστικές τελετές.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2118,6 +2269,7 @@
   "name": "Μουσικό κουτί | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Ανεβάστε την αδρεναλίνη σας με το «Devil's Paintbrush» από τον Tim Huling, μια ξέφρενη εμπειρία groove-metal.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2132,6 +2284,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Ανεβάστε την αδρεναλίνη σας με το «Devil's Paintbrush» από τον Tim Huling, μια ξέφρενη εμπειρία groove-metal.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2146,6 +2299,7 @@
   "name": "Μουσικό κουτί | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "Εδώ στο «Seventh Moon», ο Tree Adams στρίβει ένα βρόμικο χαρμάνι από διαγαλαξιακή funk, με μια μουσική υπόκρουση για κόντρες αυτοκινήτων.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2160,6 +2314,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "Εδώ στο «Seventh Moon», ο Tree Adams στρίβει ένα βρόμικο χαρμάνι από διαγαλαξιακή funk, με μια μουσική υπόκρουση για κόντρες αυτοκινήτων.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2174,6 +2329,7 @@
   "name": "Μουσικό κουτί | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "Συνδυάζοντας παραδοσιακή κινεζική λαϊκή και ηλεκτρονική μουσική, το «Ay Hey» προσφέρει παραστατική αφήγηση και μπιτάκια γεμάτα ενέργεια, για να φέρει κοντά παίκτες διαφορετικών ηλικιών και καταβολών. Με τον ζωηρό του ρυθμό να ακολουθεί τον ενθουσιασμό των παικτών για το παιχνίδι, το «Ay Hey» αποτυπώνει με γλαφυρό τρόπο διάφορες χιουμοριστικές και παιχνιδιάρικες σκηνές μάχης.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2188,6 +2344,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "Συνδυάζοντας παραδοσιακή κινεζική λαϊκή και ηλεκτρονική μουσική, το «Ay Hey» προσφέρει παραστατική αφήγηση και μπιτάκια γεμάτα ενέργεια, για να φέρει κοντά παίκτες διαφορετικών ηλικιών και καταβολών. Με τον ζωηρό του ρυθμό να ακολουθεί τον ενθουσιασμό των παικτών για το παιχνίδι, το «Ay Hey» αποτυπώνει με γλαφυρό τρόπο διάφορες χιουμοριστικές και παιχνιδιάρικες σκηνές μάχης.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2202,6 +2359,7 @@
   "name": "Μουσικό κουτί | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "Ο Σουηδός θρύλος της τέκνο Adam Beyer σάς φέρνει αυτό το ονειρικό μουσικό κουτί για να σας βοηθήσει να βάψετε τους εχθρούς σας κόκκινους.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2216,6 +2374,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "Ο Σουηδός θρύλος της τέκνο Adam Beyer σάς φέρνει αυτό το ονειρικό μουσικό κουτί για να σας βοηθήσει να βάψετε τους εχθρούς σας κόκκινους.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2230,6 +2389,7 @@
   "name": "Μουσικό κουτί | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "MESSAGE FROM THE CLERGY—Ο Papa V Perpetua κατήλθε στο Counter-Strike σε ένα λαμπρό υπερθέαμα heavy metal. Ξεφύγετε από τα επίγεια βάσανα καθώς πυροβολείτε και προσεύχεστε στο Unholy See.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2244,6 +2404,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "MESSAGE FROM THE CLERGY—Ο Papa V Perpetua κατήλθε στο Counter-Strike σε ένα λαμπρό υπερθέαμα heavy metal. Ξεφύγετε από τα επίγεια βάσανα καθώς πυροβολείτε και προσεύχεστε στο Unholy See.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2258,6 +2419,7 @@
   "name": "Μουσικό κουτί | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Νιώστε τι θα πει HEALTH στο Counter-Strike. Πάρτε τα όπλα και απολαύστε τον σκληρό και βασανιστικό βιομηχανικό μέταλ ήχο του RAT WARS.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2272,6 +2434,7 @@
   "name": "Μουσικό κουτί StatTrak™ | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Νιώστε τι θα πει HEALTH στο Counter-Strike. Πάρτε τα όπλα και απολαύστε τον σκληρό και βασανιστικό βιομηχανικό μέταλ ήχο του RAT WARS.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2286,6 +2449,7 @@
   "name": "Μουσικό κουτί | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "Το ουαλικό ροκ ντουέτο James and the Cold Gun απελευθερώνει καθαρή, αφιλτράριστη ενέργεια, συνδυάζοντας το κλασικό πανκ ύφος με τη φωτιά της σύγχρονης, εναλλακτικής ροκ για να δημιουργήσει ένα εκπληκτικό μουσικό κουτί.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2300,6 +2464,7 @@
   "name": "Μουσικό κουτί StatTrak™ | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "Το ουαλικό ροκ ντουέτο James and the Cold Gun απελευθερώνει καθαρή, αφιλτράριστη ενέργεια, συνδυάζοντας το κλασικό πανκ ύφος με τη φωτιά της σύγχρονης, εναλλακτικής ροκ για να δημιουργήσει ένα εκπληκτικό μουσικό κουτί.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2314,6 +2479,7 @@
   "name": "Μουσικό κουτί | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Αυτό που λείπει από το παιχνίδι σας είναι η power metal διαστημικών πειρατών. Ταξιδέψτε με το Starship Velociraptor και αφήστε τους ήχους από το άλμπουμ του Jonathan Young, με επιρροές από άνιμε και βιντεοπαιχνίδια, να πάει τους αγώνες σας σε άλλο επίπεδο.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2328,6 +2494,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Αυτό που λείπει από το παιχνίδι σας είναι η power metal διαστημικών πειρατών. Ταξιδέψτε με το Starship Velociraptor και αφήστε τους ήχους από το άλμπουμ του Jonathan Young, με επιρροές από άνιμε και βιντεοπαιχνίδια, να πάει τους αγώνες σας σε άλλο επίπεδο.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2342,6 +2509,7 @@
   "name": "Μουσικό κουτί | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Χρειάζεστε χώρο; Έχουμε Floorspace! Αυτό το τεράστιο μουσικό κουτί από το πρώτο άλμπουμ του Juelz περιέχει neo-rave συνθεσάιζερ, σκληρά μπάσα και δυνατά trap drums. Το Floorspace έχει επανασχεδιαστεί για το Counter-Strike 2 και ο ύμνος MVP «Gossip» κάνει τους παίκτες να θέλουν να στήσουν έναν τοίχο με LED και έπειτα να «ρίξουν» το μπιτ.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2356,6 +2524,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Χρειάζεστε χώρο; Έχουμε Floorspace! Αυτό το τεράστιο μουσικό κουτί από το πρώτο άλμπουμ του Juelz περιέχει neo-rave συνθεσάιζερ, σκληρά μπάσα και δυνατά trap drums. Το Floorspace έχει επανασχεδιαστεί για το Counter-Strike 2 και ο ύμνος MVP «Gossip» κάνει τους παίκτες να θέλουν να στήσουν έναν τοίχο με LED και έπειτα να «ρίξουν» το μπιτ.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2370,6 +2539,7 @@
   "name": "Μουσικό κουτί | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Απολαύστε αυτό το άλμπουμ χιπ χοπ που έχει βραβευτεί 3 φορές με GRAMMY, στον κόσμο του Counter-Strike. Η φωνή του Killer Mike θα κρατήσει το ηθικό σας ψηλά ενώ ανεβαίνετε βαθμίδες και βελτιώνετε τις ικανότητές σας.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2384,6 +2554,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Απολαύστε αυτό το άλμπουμ χιπ χοπ που έχει βραβευτεί 3 φορές με GRAMMY, στον κόσμο του Counter-Strike. Η φωνή του Killer Mike θα κρατήσει το ηθικό σας ψηλά ενώ ανεβαίνετε βαθμίδες και βελτιώνετε τις ικανότητές σας.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2398,6 +2569,7 @@
   "name": "Μουσικό κουτί | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "Ποιο είναι το μόνο πράγμα που αγαπάμε περισσότερο από έναν καλό εχθρό; Μια καλή μουσική υπόκρουση. Αφήστε το νέο μουσικό κουτί των PVRIS να ανεβάσει το ηθικό της ομάδας σας και να κάνει το σερί νικών σας διαχρονικό, σαν το Evergreen.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2412,6 +2584,7 @@
   "name": "Μουσικό κουτί StatTrak™ | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "Ποιο είναι το μόνο πράγμα που αγαπάμε περισσότερο από έναν καλό εχθρό; Μια καλή μουσική υπόκρουση. Αφήστε το νέο μουσικό κουτί των PVRIS να ανεβάσει το ηθικό της ομάδας σας και να κάνει το σερί νικών σας διαχρονικό, σαν το Evergreen.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2426,6 +2599,7 @@
   "name": "Μουσικό κουτί | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Ικανοποιήστε τις επιθυμίες σας με αυτό το δυναμικό μουσικό κουτί υψηλής ενέργειας από το αμερικανικό είδωλο της techno, τον Selective Response. Φορτισμένος και έτοιμος για δράση.",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2440,6 +2614,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Ικανοποιήστε τις επιθυμίες σας με αυτό το δυναμικό μουσικό κουτί υψηλής ενέργειας από το αμερικανικό είδωλο της techno, τον Selective Response. Φορτισμένος και έτοιμος για δράση.",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2454,6 +2629,7 @@
   "name": "Μουσικό κουτί | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "Το βρετανικό ροκ συγκρότημα Tigercub φέρνει σκληρές μελωδίες, που συνδυάζουν την ακατέργαστη ένταση του εναλλακτικού ροκ με μια μελαγχολική σύγχρονη πινελιά, δημιουργώντας ένα συγκλονιστικό μουσικό κουτί.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",
@@ -2468,6 +2644,7 @@
   "name": "Μουσικό κουτί StatTrak™ | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "Το βρετανικό ροκ συγκρότημα Tigercub φέρνει σκληρές μελωδίες, που συνδυάζουν την ακατέργαστη ένταση του εναλλακτικού ροκ με μια μελαγχολική σύγχρονη πινελιά, δημιουργώντας ένα συγκλονιστικό μουσικό κουτί.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "High Grade",

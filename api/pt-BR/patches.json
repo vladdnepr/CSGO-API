@@ -4,6 +4,7 @@
   "name": "Emblema | Banana Maluca",
   "code": "patch_banana",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>O agente serve para comparar o tamanho</i>",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -17,6 +18,7 @@
   "name": "Emblema | O Chefe",
   "code": "patch_boss",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Pesado é o agente que veste a coroa</i>",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -30,6 +32,7 @@
   "name": "Emblema | Amante de Galinhas",
   "code": "patch_chickenlover",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Obrigado por poupá-las</i>",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -43,6 +46,7 @@
   "name": "Emblema | Welcome to the Clutch",
   "code": "patch_clutch",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Quatro vítimas na rodada é rotina para um agente que veste este emblema</i>",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -56,6 +60,7 @@
   "name": "Emblema | Dragão",
   "code": "patch_dragon",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema conta com um dragão e uma AK-47 de cada lado</i>",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -69,6 +74,7 @@
   "name": "Emblema | Limonada",
   "code": "patch_easypeasy",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema chegou às suas mãos sem estar espremido</i>",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -82,6 +88,7 @@
   "name": "Emblema | Fúria",
   "code": "patch_fury",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Um emblema que significa fúria, ira ou raiva</i>",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -95,6 +102,7 @@
   "name": "Emblema | Uivo",
   "code": "patch_howl",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema vale o seu peso em vermelho, laranja e ouro</i>",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -108,6 +116,7 @@
   "name": "Emblema | Koi",
   "code": "patch_koi",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema conta com duas carpas na superfície agitada de uma água cristalina</i>",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -121,6 +130,7 @@
   "name": "Emblema | Longevidade",
   "code": "patch_longevity",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema vermelho e branco conta com uma visão artística do logo do \\\"CS:GO\\\"</i>",
+  "def_index": "4559",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -134,6 +144,7 @@
   "name": "Emblema | Fogo Selvagem",
   "code": "patch_wildfire",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Operação Fogo Selvagem, lançada em 17 de fevereiro de 2016</i>",
+  "def_index": "4560",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -147,6 +158,7 @@
   "name": "Emblema | Vigilância",
   "code": "patch_vigilance",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Um emblema para o espreitador; um aliado que vigia cuidadosamente</i>",
+  "def_index": "4561",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -160,6 +172,7 @@
   "name": "Emblema | Cão de Caça",
   "code": "patch_bloodhound",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Operação Cão de Caça, lançada em 26 de maio de 2015</i>",
+  "def_index": "4562",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -173,6 +186,7 @@
   "name": "Emblema | Bravo",
   "code": "patch_bravo",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Operação Bravo, lançada em 19 de setembro de 2013</i>",
+  "def_index": "4563",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -186,6 +200,7 @@
   "name": "Emblema | Libertação",
   "code": "patch_breakout",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Operação Libertação, lançada em 1º de julho de 2014</i>",
+  "def_index": "4564",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -199,6 +214,7 @@
   "name": "Emblema | Zona de Perigo",
   "code": "patch_dangerzone",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Zona de Perigo, lançada em 6 de dezembro de 2018</i>",
+  "def_index": "4565",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -212,6 +228,7 @@
   "name": "Emblema | Hidra",
   "code": "patch_hydra",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Operação Hidra, lançada em 23 de maio de 2017</i>",
+  "def_index": "4566",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -225,6 +242,7 @@
   "name": "Emblema | Acerto de Contas",
   "code": "patch_payback",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Operação Acerto de Contas, lançada em 25 de abril de 2013</i>",
+  "def_index": "4567",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -238,6 +256,7 @@
   "name": "Emblema | Fênix",
   "code": "patch_phoenix",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Operação Fênix, lançada em 20 de fevereiro de 2014</i>",
+  "def_index": "4568",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -251,6 +270,7 @@
   "name": "Emblema | Teia Fragmentada",
   "code": "patch_shatteredweb",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Operação Teia Fragmentada, lançada em 18 de novembro de 2019</i>",
+  "def_index": "4569",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -264,6 +284,7 @@
   "name": "Emblema | Vanguarda",
   "code": "patch_vanguard",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema apresenta a iconografia da Operação Vanguarda, lançada em 11 de novembro de 2014</i>",
+  "def_index": "4570",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -277,6 +298,7 @@
   "name": "Emblema | Prata (Metal)",
   "code": "patch_silver",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Um emblema para aqueles que estão dando o primeiro passo na sua jornada para fazer parte da Elite Global.</i>",
+  "def_index": "4571",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -290,6 +312,7 @@
   "name": "Emblema | Ouro I (Metal)",
   "code": "patch_goldnova1",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Saiu do Pratinha? Ainda há muito trabalho pela frente.</i>",
+  "def_index": "4572",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -303,6 +326,7 @@
   "name": "Emblema | Ouro Mestre (Metal)",
   "code": "patch_goldnovamaster",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Você vai sentir saudades de quando era Pratinha...</i>",
+  "def_index": "4575",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -316,6 +340,7 @@
   "name": "Emblema | Guardião Mestre I (Metal)",
   "code": "patch_masterguardian1",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Deixou o Ouro para trás? Muito bem, você está aprendendo.</i>",
+  "def_index": "4576",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -329,6 +354,7 @@
   "name": "Emblema | Guardião Mestre de Elite (Metal)",
   "code": "patch_masterguardianelite",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Bordados cautelosamente, os fios prateados deste emblema de Guardião Mestre de Elite se destacam do fundo azul-marinho.</i>",
+  "def_index": "4578",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -342,6 +368,7 @@
   "name": "Emblema | Exímio Mestre Guardião (Metal) ★",
   "code": "patch_dmg",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Alcançar o Grupo de Habilidade de Exímio Mestre Guardião exige contorcionismo, adaptação e trabalho em equipe. Continue subindo.</i>",
+  "def_index": "4579",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -355,6 +382,7 @@
   "name": "Emblema | Águia Lendária Mestra (Metal) ★",
   "code": "patch_legendaryeaglemaster",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Você está quase no topo, mas aqueles à espera do seu desafio não terão piedade.</i>",
+  "def_index": "4581",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -368,6 +396,7 @@
   "name": "Emblema | Mestre Supremo de Primeira Classe (Metal)",
   "code": "patch_supreme",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema de Mestre Supremo conta com um globo em formato de coração e detalhes em vermelho e azul.</i>",
+  "def_index": "4582",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -381,6 +410,7 @@
   "name": "Emblema | A Elite Global (Metal) ★",
   "code": "patch_globalelite",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Parabéns, você chegou ao destino. Agora, o verdadeiro desafio começa.</i>",
+  "def_index": "4583",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -394,6 +424,7 @@
   "name": "Emblema | Exímio Mestre Guardião (Metal)",
   "code": "patch_dmg2",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Alcançar o Grupo de Habilidade de Exímio Mestre Guardião exige contorcionismo, adaptação e trabalho em equipe. Continue subindo.</i>",
+  "def_index": "4584",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -407,6 +438,7 @@
   "name": "Emblema | Águia Lendária (Metal)",
   "code": "patch_legendaryeagle2",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Este emblema de Água Lendária vem com um par de asas douradas.</i>",
+  "def_index": "4585",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -420,6 +452,7 @@
   "name": "Emblema | Águia Lendária Mestra (Metal)",
   "code": "patch_legendaryeaglemaster2",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Você está quase no topo, mas aqueles à espera do seu desafio não terão piedade.</i>",
+  "def_index": "4586",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -433,6 +466,7 @@
   "name": "Emblema | Demônio Prateado (Metal)",
   "code": "patch_silver_demon",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>O \\\"Inferno Pratinha\\\" não é um lugar, mas um estado de espírito, e você pode deixá-lo para trás. É só querer.</i>",
+  "def_index": "4587",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -446,6 +480,7 @@
   "name": "Emblema | Mestre Supremo (Metal)",
   "code": "patch_suprememaster",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Um kit de desarme alado é circundado por seis estrelas neste emblema de Mestre Supremo de Primeira Classe.</i>",
+  "def_index": "4588",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -459,6 +494,7 @@
   "name": "Emblema | Alyx",
   "code": "patch_hlalyx_alyx",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4589",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -472,6 +508,7 @@
   "name": "Emblema | Sustento!",
   "code": "patch_hlalyx_headcrab_green",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4591",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -485,6 +522,7 @@
   "name": "Emblema | Vortilético",
   "code": "patch_hlalyx_vort",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4592",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -498,6 +536,7 @@
   "name": "Emblema | Glifo do Chupa-crânio",
   "code": "patch_hlalyx_headcrab_teal",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4593",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -511,6 +550,7 @@
   "name": "Emblema | Lambda (Cobre)",
   "code": "patch_hlalyx_lambda_copper",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4594",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -524,6 +564,7 @@
   "name": "Emblema | Vida",
   "code": "patch_hlalyx_hearts",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4595",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -537,6 +578,7 @@
   "name": "Emblema | Capacete da Combine",
   "code": "patch_hlalyx_combine_front",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4596",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -550,6 +592,7 @@
   "name": "Emblema | Black Mesa",
   "code": "patch_hlalyx_blackmesa",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4597",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -563,6 +606,7 @@
   "name": "Emblema | CMB",
   "code": "patch_hlalyx_cmb",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4598",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -576,6 +620,7 @@
   "name": "Emblema | Lambda",
   "code": "patch_hlalyx_lambda_orange",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4599",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -589,6 +634,7 @@
   "name": "Emblema | Cidade 17",
   "code": "patch_hlalyx_c17",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br>Emblema comemorativo do jogo Half-Life: Alyx.",
+  "def_index": "4600",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -602,6 +648,7 @@
   "name": "Emblema | A Elite Global (Metal)",
   "code": "patch_globalelite2",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Parabéns, você chegou ao destino. Agora, o verdadeiro desafio começa.</i>",
+  "def_index": "4697",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -615,6 +662,7 @@
   "name": "Emblema | Guardião Mestre (Metal)",
   "code": "patch_masterguardian3",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Deixou o Ouro para trás? Muito bem, você está aprendendo.</i>",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -628,6 +676,7 @@
   "name": "Emblema | Ouro (Metal)",
   "code": "patch_goldnova4",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Saiu do Pratinha? Ainda há muito trabalho pela frente.</i>",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -641,6 +690,7 @@
   "name": "Emblema | Fim da Esperança",
   "code": "patch_op11_abandon_hope",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>A todos que ousarem entrar...</i>",
+  "def_index": "4937",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -654,6 +704,7 @@
   "name": "Emblema | Ancorado",
   "code": "patch_op11_anchor",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Mantendo-se firme em mares turbulentos...</i>",
+  "def_index": "4938",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -667,6 +718,7 @@
   "name": "Emblema | Arraia Viajante",
   "code": "patch_op11_cruising",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Planando sob as ondas...</i>",
+  "def_index": "4939",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -680,6 +732,7 @@
   "name": "Emblema | Sapo com Baioneta",
   "code": "patch_op11_frog_skeleton",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Vire um príncipe na força bruta...</i>",
+  "def_index": "4940",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -693,6 +746,7 @@
   "name": "Emblema | Sushi Louco",
   "code": "patch_op11_mad_sushi",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Você não vai me enrolar!</i>",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -706,6 +760,7 @@
   "name": "Emblema | Lula Gigante",
   "code": "patch_op11_pink_squid",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Leva as suas vítimas para as profundezas...</i>",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -719,6 +774,7 @@
   "name": "Emblema | O Pirata",
   "code": "patch_op11_piranha",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Pequenas mordidas; trabalho em equipe...</i>",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -732,6 +788,7 @@
   "name": "Emblema | Morte Vinda de Baixo",
   "code": "patch_op11_siren",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Cuidado aí em cima...</i>",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -745,6 +802,7 @@
   "name": "Emblema | Homens Mortos",
   "code": "patch_op11_skull_crossswords",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Símbolo universal de perigo...</i>",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -758,6 +816,7 @@
   "name": "Emblema | Onda ao Pôr do Sol",
   "code": "patch_op11_sunset_wave",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Um novo dia no oceano...</i>",
+  "def_index": "4946",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -771,6 +830,7 @@
   "name": "Emblema | Ofensiva Aquática",
   "code": "patch_op11_fish_go",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Com o novo mapa Glub 2</i>",
+  "def_index": "4947",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -784,6 +844,7 @@
   "name": "Emblema | Deus Ancestral",
   "code": "patch_op11_cthulhu",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Cthulhu aprova aqueles que desarmam...</i>",
+  "def_index": "4948",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Exótico",
@@ -797,6 +858,7 @@
   "name": "Emblema | Hora do Lanche",
   "code": "patch_op11_meal_time",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.<br><br><i>Fome de vitória...</i>",
+  "def_index": "4949",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -810,6 +872,7 @@
   "name": "Emblema | Ninjas in Pyjamas | Estocolmo 2021",
   "code": "stockh2021_teampatch_nip",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5079",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -823,6 +886,7 @@
   "name": "Emblema | Ninjas in Pyjamas (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_nip_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5080",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -836,6 +900,7 @@
   "name": "Emblema | FURIA | Estocolmo 2021",
   "code": "stockh2021_teampatch_furi",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5081",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -849,6 +914,7 @@
   "name": "Emblema | FURIA (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_furi_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5082",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -862,6 +928,7 @@
   "name": "Emblema | Natus Vincere | Estocolmo 2021",
   "code": "stockh2021_teampatch_navi",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5083",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -875,6 +942,7 @@
   "name": "Emblema | Natus Vincere (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_navi_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5084",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -888,6 +956,7 @@
   "name": "Emblema | Vitality | Estocolmo 2021",
   "code": "stockh2021_teampatch_vita",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5085",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -901,6 +970,7 @@
   "name": "Emblema | Vitality (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_vita_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5086",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -914,6 +984,7 @@
   "name": "Emblema | Team Liquid | Estocolmo 2021",
   "code": "stockh2021_teampatch_liq",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5087",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -927,6 +998,7 @@
   "name": "Emblema | Team Liquid (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_liq_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5088",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -940,6 +1012,7 @@
   "name": "Emblema | Gambit Gaming | Estocolmo 2021",
   "code": "stockh2021_teampatch_gamb",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5089",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -953,6 +1026,7 @@
   "name": "Emblema | Gambit Gaming (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_gamb_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5090",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -966,6 +1040,7 @@
   "name": "Emblema | G2 Esports | Estocolmo 2021",
   "code": "stockh2021_teampatch_g2",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5091",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -979,6 +1054,7 @@
   "name": "Emblema | G2 Esports (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_g2_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5092",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -992,6 +1068,7 @@
   "name": "Emblema | Evil Geniuses | Estocolmo 2021",
   "code": "stockh2021_teampatch_evl",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5093",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1005,6 +1082,7 @@
   "name": "Emblema | Evil Geniuses (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_evl_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5094",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1018,6 +1096,7 @@
   "name": "Emblema | Team Spirit | Estocolmo 2021",
   "code": "stockh2021_teampatch_spir",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5095",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1031,6 +1110,7 @@
   "name": "Emblema | Team Spirit (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_spir_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5096",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1044,6 +1124,7 @@
   "name": "Emblema | Astralis | Estocolmo 2021",
   "code": "stockh2021_teampatch_astr",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5097",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1057,6 +1138,7 @@
   "name": "Emblema | Astralis (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_astr_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5098",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1070,6 +1152,7 @@
   "name": "Emblema | paiN Gaming | Estocolmo 2021",
   "code": "stockh2021_teampatch_pain",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5099",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1083,6 +1166,7 @@
   "name": "Emblema | paiN Gaming (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_pain_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5100",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1096,6 +1180,7 @@
   "name": "Emblema | ENCE | Estocolmo 2021",
   "code": "stockh2021_teampatch_ence",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5101",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1109,6 +1194,7 @@
   "name": "Emblema | ENCE (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_ence_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5102",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1122,6 +1208,7 @@
   "name": "Emblema | BIG | Estocolmo 2021",
   "code": "stockh2021_teampatch_big",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5103",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1135,6 +1222,7 @@
   "name": "Emblema | BIG (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_big_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5104",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1148,6 +1236,7 @@
   "name": "Emblema | Movistar Riders | Estocolmo 2021",
   "code": "stockh2021_teampatch_ride",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5105",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1161,6 +1250,7 @@
   "name": "Emblema | Movistar Riders (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_ride_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1174,6 +1264,7 @@
   "name": "Emblema | Heroic | Estocolmo 2021",
   "code": "stockh2021_teampatch_hero",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5107",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1187,6 +1278,7 @@
   "name": "Emblema | Heroic (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_hero_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5108",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1200,6 +1292,7 @@
   "name": "Emblema | MOUZ | Estocolmo 2021",
   "code": "stockh2021_teampatch_mouz",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5109",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1213,6 +1306,7 @@
   "name": "Emblema | MOUZ (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_mouz_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5110",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1226,6 +1320,7 @@
   "name": "Emblema | Sharks Esports | Estocolmo 2021",
   "code": "stockh2021_teampatch_shrk",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5111",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1239,6 +1334,7 @@
   "name": "Emblema | Sharks Esports (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_shrk_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5112",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1252,6 +1348,7 @@
   "name": "Emblema | Tyloo | Estocolmo 2021",
   "code": "stockh2021_teampatch_tyl",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5113",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1265,6 +1362,7 @@
   "name": "Emblema | Tyloo (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_tyl_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5114",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1278,6 +1376,7 @@
   "name": "Emblema | Renegades | Estocolmo 2021",
   "code": "stockh2021_teampatch_ren",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5115",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1291,6 +1390,7 @@
   "name": "Emblema | Renegades (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_ren_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1304,6 +1404,7 @@
   "name": "Emblema | Entropiq | Estocolmo 2021",
   "code": "stockh2021_teampatch_ent",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5117",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1317,6 +1418,7 @@
   "name": "Emblema | Entropiq (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_ent_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1330,6 +1432,7 @@
   "name": "Emblema | GODSENT | Estocolmo 2021",
   "code": "stockh2021_teampatch_god",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5119",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1343,6 +1446,7 @@
   "name": "Emblema | GODSENT (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_god_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5120",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1356,6 +1460,7 @@
   "name": "Emblema | Virtus.pro | Estocolmo 2021",
   "code": "stockh2021_teampatch_vp",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5121",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1369,6 +1474,7 @@
   "name": "Emblema | Virtus.pro (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_vp_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5122",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1382,6 +1488,7 @@
   "name": "Emblema | Copenhagen Flames | Estocolmo 2021",
   "code": "stockh2021_teampatch_cope",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5123",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1395,6 +1502,7 @@
   "name": "Emblema | Copenhagen Flames (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_cope_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5124",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1408,6 +1516,7 @@
   "name": "Emblema | FaZe Clan | Estocolmo 2021",
   "code": "stockh2021_teampatch_faze",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5125",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1421,6 +1530,7 @@
   "name": "Emblema | FaZe Clan (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_faze_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5126",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",
@@ -1434,6 +1544,7 @@
   "name": "Emblema | PGL | Estocolmo 2021",
   "code": "stockh2021_teampatch_pgl",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_rare",
    "name": "Alta Qualidade",
@@ -1447,6 +1558,7 @@
   "name": "Emblema | PGL (Dourado) | Estocolmo 2021",
   "code": "stockh2021_teampatch_pgl_gold",
   "description": "Este emblema pode ser aplicado a qualquer agente que possua. Uma vez aplicado, ele pode ser removido, mas não recuperado.",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Notável",

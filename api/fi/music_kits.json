@@ -4,6 +4,7 @@
   "name": "Valve – Counter-Strike 2",
   "code": "valve_cs2_01",
   "description": "Counter-Strike 2:n virallinen musiikkipakkaus.",
+  "def_index": "1",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -18,6 +19,7 @@
   "name": "Valve – CS:GO",
   "code": "valve_01",
   "description": "CS:GO-oletusmusiikkipakkaus, joka esiteltiin CS:GO-pelin julkaisun yhteydessä 2012.",
+  "def_index": "2",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -32,6 +34,7 @@
   "name": "Musiikkipakkaus | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Videopelimusiikin säveltäjä Daniel Sadowski tarjoaa veitsenterävää toimintaa hullujen taustabiittien tahtiin tässä sykkivässä, kiihkeässä musiikkipaketissa.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -46,6 +49,7 @@
   "name": "StatTrak™-musiikkipakkaus | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Videopelimusiikin säveltäjä Daniel Sadowski tarjoaa veitsenterävää toimintaa hullujen taustabiittien tahtiin tässä sykkivässä, kiihkeässä musiikkipaketissa.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -60,6 +64,7 @@
   "name": "Musiikkipakkaus | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "Hollantilainen elektronista musiikkia tekevä kolmikko Noisia on tehnyt vahvan ja jopa elokuvamaisen tuntuman ainutlaatuisella perinteisen ja kokeellisen musiikin yhdistelmällä.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -74,6 +79,7 @@
   "name": "StatTrak™-musiikkipakkaus | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "Hollantilainen elektronista musiikkia tekevä kolmikko Noisia on tehnyt vahvan ja jopa elokuvamaisen tuntuman ainutlaatuisella perinteisen ja kokeellisen musiikin yhdistelmällä.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -88,6 +94,7 @@
   "name": "Musiikkipakkaus | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Musiikkia vihollisesi murskaamiseen. Jyrää heidän ylitseen palkintoja voittaneen säveltäjän, Robert Allairen kanssa.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -102,6 +109,7 @@
   "name": "StatTrak™-musiikkipakkaus | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Musiikkia vihollisesi murskaamiseen. Jyrää heidän ylitseen palkintoja voittaneen säveltäjän, Robert Allairen kanssa.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -116,6 +124,7 @@
   "name": "Musiikkipakkaus | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "Kahden maailman suurimman sotapelin säveltäjältä tykitystä, joka lähettää vihollisesi Helvetin porteille!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -130,6 +139,7 @@
   "name": "StatTrak™-musiikkipakkaus | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "Kahden maailman suurimman sotapelin säveltäjältä tykitystä, joka lähettää vihollisesi Helvetin porteille!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -144,6 +154,7 @@
   "name": "Musiikkipakkaus | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "Kuuluisa elektronisen musiikin tekijä Feed Me yhdistää villin lännen ammuskelun moderniin avaruusteemaiseen musiikkiin.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -158,6 +169,7 @@
   "name": "StatTrak™-musiikkipakkaus | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "Kuuluisa elektronisen musiikin tekijä Feed Me yhdistää villin lännen ammuskelun moderniin avaruusteemaiseen musiikkiin.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -172,6 +184,7 @@
   "name": "Musiikkipakkaus | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Tämä pelimusiikkisäveltäjä Dren McDonaldin elokuvamainen, supresankari- ja metallivaikutteinen musiikkipaketti laittaa nupit kaakkoon ja napit otsaan!",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -186,6 +199,7 @@
   "name": "StatTrak™-musiikkipakkaus | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Tämä pelimusiikkisäveltäjä Dren McDonaldin elokuvamainen, supresankari- ja metallivaikutteinen musiikkipaketti laittaa nupit kaakkoon ja napit otsaan!",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -200,6 +214,7 @@
   "name": "Musiikkipakkaus | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "Pelimusiikin säveltäjä ja Grammy-ehdokas Austin Wintory kysyy, miksi vaivautua metsästämään vihollisia kun voit houkutella heidät esiin kuolettavalla ja mielipuolisella tangolla?",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -214,6 +229,7 @@
   "name": "StatTrak™-musiikkipakkaus | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "Pelimusiikin säveltäjä ja Grammy-ehdokas Austin Wintory kysyy, miksi vaivautua metsästämään vihollisia kun voit houkutella heidät esiin kuolettavalla ja mielipuolisella tangolla?",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -228,6 +244,7 @@
   "name": "Musiikkipakkaus | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Uppoudu elokuvallisen äänimaailman pariin täynnä leijuvaa jousisoittoa, sykkiviä melodioita ja kiihkeitä rumpuja, joita maailmankuulu DJ / tuottaja Sasha tarjoaa",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -242,6 +259,7 @@
   "name": "StatTrak™-musiikkipakkaus | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Uppoudu elokuvallisen äänimaailman pariin täynnä leijuvaa jousisoittoa, sykkiviä melodioita ja kiihkeitä rumpuja, joita maailmankuulu DJ / tuottaja Sasha tarjoaa",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -256,6 +274,7 @@
   "name": "Musiikkipakkaus | Skog, Metal",
   "code": "skog_01",
   "description": "Oppitunti aggressiosta metallimusiikin tuottajalta, Skogilta.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -270,6 +289,7 @@
   "name": "StatTrak™-musiikkipakkaus | Skog, Metal",
   "code": "skog_01",
   "description": "Oppitunti aggressiosta metallimusiikin tuottajalta, Skogilta.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -284,6 +304,7 @@
   "name": "Musiikkipakkaus | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "\\\"HYVIÄ PYHIÄ, ****KARIT!\\\"\\n -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -298,6 +319,7 @@
   "name": "StatTrak™-musiikkipakkaus | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "\\\"HYVIÄ PYHIÄ, ****KARIT!\\\"\\n -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -312,6 +334,7 @@
   "name": "Musiikkipakkaus | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Hemmottele kuudetta aistiasi jännittävällä tunnelmalla ja sykkivillä rytmeillä, jotka on säveltänyt elektronisen musiikin tuottaja ja innovaattori Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -326,6 +349,7 @@
   "name": "StatTrak™-musiikkipakkaus | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Hemmottele kuudetta aistiasi jännittävällä tunnelmalla ja sykkivillä rytmeillä, jotka on säveltänyt elektronisen musiikin tuottaja ja innovaattori Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -340,6 +364,7 @@
   "name": "Musiikkipakkaus | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Päihitä vihollisesi. Puhdasta intensiteettiä Grammyn voittaneelta säveltäjä Mateo Messinalta.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -354,6 +379,7 @@
   "name": "StatTrak™-musiikkipakkaus | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Päihitä vihollisesi. Puhdasta intensiteettiä Grammyn voittaneelta säveltäjä Mateo Messinalta.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -368,6 +394,7 @@
   "name": "Musiikkipakkaus | Eri esittäjiä, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Joukko elektronisen musiikin artisteja tuo brutaaleja biittejä tällä mukaansatempaavalla musiikkipakkauksella ikonisesta Hotline Miamista.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -382,6 +409,7 @@
   "name": "StatTrak™-musiikkipakkaus | Various Artists, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Joukko elektronisen musiikin artisteja tuo brutaaleja biittejä tällä mukaansatempaavalla musiikkipakkauksella ikonisesta Hotline Miamista.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -396,6 +424,7 @@
   "name": "Musiikkipakkaus | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "Säveltäjä Daniel Sadowski nostaa riman aggressiivisilla, elektronisilla rytmeillä, mielikuvituksellisilla äänitehosteilla ja henkeäsalpaavalla futuristisella tunnelmalla. \\\"Varoitus: adrenaliinitasoa nostava!\\\"",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -410,6 +439,7 @@
   "name": "StatTrak™-musiikkipakkaus | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "Säveltäjä Daniel Sadowski nostaa riman aggressiivisilla, elektronisilla rytmeillä, mielikuvituksellisilla äänitehosteilla ja henkeäsalpaavalla futuristisella tunnelmalla. \\\"Varoitus: adrenaliinitasoa nostava!\\\"",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -424,6 +454,7 @@
   "name": "Musiikkipakkaus | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "Säveltäjä Damjan Mravunac yhdistää energeettistä groovea eeppisiin kuoroihin tässä musiikkipaketissa, jossa on musiikkia Croteamin arvostetusta pelistä \\\"The Talos Principle\\\".",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -438,6 +469,7 @@
   "name": "StatTrak™-musiikkipakkaus | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "Säveltäjä Damjan Mravunac yhdistää energeettistä groovea eeppisiin kuoroihin tässä musiikkipaketissa, jossa on musiikkia Croteamin arvostetusta pelistä \\\"The Talos Principle\\\".",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -452,6 +484,7 @@
   "name": "Musiikkipakkaus | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "Venäläinen raskaan elektronisen musiikin tekijä PROXY tuo ainutlaatuisen raskaan tykistönsä taistelukentälle. Sarjatulta takova ääniraita ja mitä laadukkain studioteknologia tekevät tästä pakkauksesta ainutlaatuisen.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -466,6 +499,7 @@
   "name": "StatTrak™-musiikkipakkaus | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "Venäläinen raskaan elektronisen musiikin tekijä PROXY tuo ainutlaatuisen raskaan tykistönsä taistelukentälle. Sarjatulta takova ääniraita ja mitä laadukkain studioteknologia tekevät tästä pakkauksesta ainutlaatuisen.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -480,6 +514,7 @@
   "name": "Musiikkipakkaus | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Ki:Theory, levyttävä artisti ja esiintyjä DOTAn TI4-tapahtumassa, pudottaa pommeja taistelukentälle tällä veitsenterävällä elektronisella dark rockilla.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -494,6 +529,7 @@
   "name": "StatTrak™-musiikkipakkaus | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Ki:Theory, levyttävä artisti ja esiintyjä DOTAn TI4-tapahtumassa, pudottaa pommeja taistelukentälle tällä veitsenterävällä elektronisella dark rockilla.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -508,6 +544,7 @@
   "name": "Musiikkipakkaus | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Jykevät Blastophonet yhdistyvät modernin Uberpulsen kanssa tässä moninkertaisesti palkitun Troels Folmannin räjähtävässä kokoelmassa.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -522,6 +559,7 @@
   "name": "StatTrak™-musiikkipakkaus | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Jykevät Blastophonet yhdistyvät modernin Uberpulsen kanssa tässä moninkertaisesti palkitun Troels Folmannin räjähtävässä kokoelmassa.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -536,6 +574,7 @@
   "name": "Musiikkipakkaus | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Valven Half-Life-sarjan säveltäjä Kelly Baileyn luoma apokalyptinen musiikkipakkaus on Half-Life-maailman pimeämmän puolen inspiroima.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -550,6 +589,7 @@
   "name": "StatTrak™-musiikkipakkaus | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Valven Half-Life-sarjan säveltäjä Kelly Baileyn luoma apokalyptinen musiikkipakkaus on Half-Life-maailman pimeämmän puolen inspiroima.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -564,6 +604,7 @@
   "name": "Musiikkipakkaus | Skog, II-Headshot",
   "code": "skog_02",
   "description": "Metallisäveltäjä ja -tuottaja Jocke Skog palaa täysin uudella kovatempoisella metallipaketilla, joiden rinnalla muut CS2:n musiikkipaketit ovat söpöjä ja pörröisiä kissanpentuja. Tee siis itsestäsi tähtipelaaja, niin kaikki kuulevat mahtavuutesi!",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -578,6 +619,7 @@
   "name": "StatTrak™-musiikkipakkaus | Skog, II-Headshot",
   "code": "skog_02",
   "description": "Metallisäveltäjä ja -tuottaja Jocke Skog palaa täysin uudella kovatempoisella metallipaketilla, joiden rinnalla muut CS2:n musiikkipaketit ovat söpöjä ja pörröisiä kissanpentuja. Tee siis itsestäsi tähtipelaaja, niin kaikki kuulevat mahtavuutesi!",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -592,6 +634,7 @@
   "name": "Musiikkipakkaus | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski luo ensimmäisen 8-bittisen musiikkipakkauksen Counter-Strikeen käyttäen aitoja 8-bittisiä ääniä.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -606,6 +649,7 @@
   "name": "StatTrak™-musiikkipakkaus | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski luo ensimmäisen 8-bittisen musiikkipakkauksen Counter-Strikeen käyttäen aitoja 8-bittisiä ääniä.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -620,6 +664,7 @@
   "name": "Musiikkipakkaus | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "Vaihtoehtorock-yhtye AWOLNATION on luonut musiikkipakkauksen, jota ei vain kyllästy kuuntelemaan. Vivahteikas melodia ja pätkät singlestä 'I Am' sekä moninkertaista platinaa myyneestä hitistä 'Sail' takaavat tiukkaa settiä.",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -634,6 +679,7 @@
   "name": "StatTrak™-musiikkipakkaus | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "Vaihtoehtorock-yhtye AWOLNATION on luonut musiikkipakkauksen, jota ei vain kyllästy kuuntelemaan. Vivahteikas melodia ja pätkät singlestä 'I Am' sekä moninkertaista platinaa myyneestä hitistä 'Sail' takaavat tiukkaa settiä.",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -648,6 +694,7 @@
   "name": "Musiikkipakkaus | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Timantit. Ne ovat ikuisia. Sukella murtosointujen maailmaan tämän Mord Fustangin luoman rytmikkään pakkauksen kanssa.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -662,6 +709,7 @@
   "name": "StatTrak™-musiikkipakkaus | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Timantit. Ne ovat ikuisia. Sukella murtosointujen maailmaan tämän Mord Fustangin luoman rytmikkään pakkauksen kanssa.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -676,6 +724,7 @@
   "name": "Musiikkipakkaus | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross luo eeppistä ja näyttävää tekno-grungea, jotta tuntisit itsesi taistelun todelliseksi pahikseksi.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -690,6 +739,7 @@
   "name": "StatTrak™-musiikkipakkaus | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross luo eeppistä ja näyttävää tekno-grungea, jotta tuntisit itsesi taistelun todelliseksi pahikseksi.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -704,6 +754,7 @@
   "name": "Musiikkipakkaus | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Valmistaudu taisteluun tällä säveltäjä Ian Hultquistin luomalla jyrähtelevällä musiikkipakkauksella, jossa yhdistyvät värähtelevät jousisoittimet ja syntikat sekä takovat sotarummut.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -718,6 +769,7 @@
   "name": "StatTrak™-musiikkipakkaus | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Valmistaudu taisteluun tällä säveltäjä Ian Hultquistin luomalla jyrähtelevällä musiikkipakkauksella, jossa yhdistyvät värähtelevät jousisoittimet ja syntikat sekä takovat sotarummut.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -732,6 +784,7 @@
   "name": "Musiikkipakkaus | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Aurinkoista surffarirokkia ja vähän hip-hoppia, punkkia and garage-poppia. Ole itsesi ja napsi pääosumia.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -746,6 +799,7 @@
   "name": "StatTrak™-musiikkipakkaus | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Aurinkoista surffarirokkia ja vähän hip-hoppia, punkkia and garage-poppia. Ole itsesi ja napsi pääosumia.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -760,6 +814,7 @@
   "name": "Musiikkipakkaus | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Beartooth tuo aggressiivista perusjyskytystä, joka saa massat liikkeelle ja rikkomaan paikkoja. Täydellinen ääniraita räiskintään ilman kiikaria. Rokkaa kunnes olet kuollut.",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -774,6 +829,7 @@
   "name": "StatTrak™-musiikkipakkaus | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Beartooth tuo aggressiivista perusjyskytystä, joka saa massat liikkeelle ja rikkomaan paikkoja. Täydellinen ääniraita räiskintään ilman kiikaria. Rokkaa kunnes olet kuollut.",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -788,6 +844,7 @@
   "name": "Musiikkipakkaus | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Pelisäveltäjä Lennie Moore tarjoilee mausteisen kattauksen jatsahtavaa funkia. Herkullista kylmänä nautittuna, kuten vastustajiesi ruumiit.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -802,6 +859,7 @@
   "name": "StatTrak™-musiikkipakkaus | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Pelisäveltäjä Lennie Moore tarjoilee mausteisen kattauksen jatsahtavaa funkia. Herkullista kylmänä nautittuna, kuten vastustajiesi ruumiit.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -816,6 +874,7 @@
   "name": "Musiikkipakkaus | Darude, Moments CS2",
   "code": "darude_01",
   "description": "Uppoudu vapaasti suomalaistuottaja Daruden tuttuihin äänimaisemiin. Tämä dance-musiikin tunnetuimman pioneerin progressiivisien ylisävelien ja kutkuttavien melodiarakenteiden fuusio rikastaa jokaista pelikokemusta.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -830,6 +889,7 @@
   "name": "StatTrak™-musiikkipakkaus | Darude, Moments CS2",
   "code": "darude_01",
   "description": "Uppoudu vapaasti suomalaistuottaja Daruden tuttuihin äänimaisemiin. Tämä dance-musiikin tunnetuimman pioneerin progressiivisien ylisävelien ja kutkuttavien melodiarakenteiden fuusio rikastaa jokaista pelikokemusta.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -844,6 +904,7 @@
   "name": "StatTrak™-musiikkipakkaus | Beartooth, Aggressive",
   "code": "beartooth_02",
   "description": "Beartooth on palannut. Tämä uusi musiikkipakkaus on jopa entistä kovempi ja aggressiivisempi. MVP-hymnistä on tehty erityisen raskas, jotta hävinneistä vastustajistasi tuntuu todella ikävältä.",
+  "def_index": "32",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -858,6 +919,7 @@
   "name": "StatTrak™-musiikkipakkaus | Blitz Kids, The Good Youth",
   "code": "blitzkids_01",
   "description": "Brittiläisen pop/punk-yhtyeen Blitz Kidsin musiikkipakkaus on täydellinen B-rynnäkköihin, joiden aikana voit muistella nuoruutesi yöajeluja kavereiden kanssa. Tämä musiikkipakkaus on hetkiin, jolloin haluat mennä lujaa ja tuntea itsesi nuoreksi.",
+  "def_index": "33",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -872,6 +934,7 @@
   "name": "StatTrak™-musiikkipakkaus | Hundredth, FREE",
   "code": "hundredth_01",
   "description": "Hundredth julistaa hevin ilosanomaa omaperäisellä melodisen hardcoren tulkinnallaan. Vapauta itsesi tällä musiikkipaketilla, joka on kuin tehty vähempiarvoisten päiden napsimiseen.",
+  "def_index": "34",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -886,6 +949,7 @@
   "name": "StatTrak™-musiikkipakkaus | Neck Deep, Life's Not Out To Get You",
   "code": "neckdeep_01",
   "description": "Joskus sitä vain tarvitsee vähän pop punkkia jaksaakseen. Jouduitpa sitten kestämään kämppereitä tai katkesipa hullu tappoputkesi, Neck Deep on täällä osoittaakseen, että \\\"Life's Not Out To Get You\\\", elämä ei ole sinua vastaan – mutta vastajoukkue on.",
+  "def_index": "35",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -900,6 +964,7 @@
   "name": "StatTrak™-musiikkipakkaus | Roam, Backbone",
   "code": "roam_01",
   "description": "Roam soittaa nopeaa ja suoraviivaista pop-punkkia, joka saa niin yleisön kuin pelaajatkin liikkeelle. Hävitä vihollisesi kartalta tämän musiikin soidessa, ennen kuin he edes huomaavat olevansa pelkkiä maalitauluja.",
+  "def_index": "36",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -914,6 +979,7 @@
   "name": "StatTrak™-musiikkipakkaus | Twin Atlantic, GLA",
   "code": "twinatlantic_01",
   "description": "Raskaampi, rajumpi ja äänekkäämpi Twin Atlantic tulee CS2:hon valmiina sulattamaan naamoja skottirockin räimeellä.",
+  "def_index": "37",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -928,6 +994,7 @@
   "name": "StatTrak™-musiikkipakkaus | Skog, III-Arena",
   "code": "skog_03",
   "description": "Skog on palannut kolmannen murskaavan metallipakettinsa kanssa. Tällä kertaa musiikissa on elektro-orgaanista vivahdetta, massiivisia kitarariffejä ja ja valtavia droppeja, luuppeja ja bordunoja.",
+  "def_index": "38",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -942,6 +1009,7 @@
   "name": "Musiikkipakkaus | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "Verkkars nousi Suomen listojen kärkeen ENCE:lle tehdyllä tykytyksiä aiheuttavalla tribuuttikappaleella. Voiko se todella olla niin EZ?",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -956,6 +1024,7 @@
   "name": "StatTrak™-musiikkipakkaus | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "Verkkars nousi Suomen listojen kärkeen ENCE:lle tehdyllä tykytyksiä aiheuttavalla tribuuttikappaleella. Voiko se todella olla niin EZ?",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -970,6 +1039,7 @@
   "name": "Halo: The Master Chief Collection",
   "code": "halo_01",
   "description": "Anna CS2-äänimaailman kokemuksellesi legendaarinen muodonmuutos The Master Chief Collection -musiikkipakkauksella, joka sisältää Halo-universumin ikonista musiikkia. © 2019 343 Industries. Kaikki oikeudet pidätetään. Käytetään 343 Industries -yrityksen luvalla. Halo: The Master Chief Collection ja Halo-logo ovat Microsoft-yritysryhmän tuotemerkkejä.",
+  "def_index": "40",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -984,6 +1054,7 @@
   "name": "Musiikkipakkaus | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Scarlxrd sekoittaa sulavasti raskaita trap-biittejä ja luo uniikin musiikin alagenren. Mielenkiintoinen sekoitus takaa, että live-esitykset saavat yleisön jakamattoman huomion.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -998,6 +1069,7 @@
   "name": "StatTrak™-musiikkipakkaus | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Scarlxrd sekoittaa sulavasti raskaita trap-biittejä ja luo uniikin musiikin alagenren. Mielenkiintoinen sekoitus takaa, että live-esitykset saavat yleisön jakamattoman huomion.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1012,6 +1084,7 @@
   "name": "Half-Life: Alyx – Anti-Citizen",
   "code": "hlalyx_01",
   "description": "Half-Life: Alyx -musiikkipakkaus juhlistaa Valven VR-peliä ja paluuta Half-Life-sarjaan. Olet ihmiskunnan viimeinen toivo, ja Alyxin immersiivisten ympäristöjen tunnelma jatkuu Counter-Strike: Global Offensive -pelissä.",
+  "def_index": "42",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1026,6 +1099,7 @@
   "name": "Musiikkipakkaus | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintoryn musiikin lajityyppejä sekoittava musiikkipakkaus on hieno sekoitus kelttiläistä fantasiaa, kuumia elektronisia biittejä ja Peter Hollensin laulua.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1040,6 +1114,7 @@
   "name": "StatTrak™-musiikkipakkaus | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintoryn musiikin lajityyppejä sekoittava musiikkipakkaus on hieno sekoitus kelttiläistä fantasiaa, kuumia elektronisia biittejä ja Peter Hollensin laulua.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1054,6 +1129,7 @@
   "name": "Musiikkipakkaus | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "Apokalyptinen mariachi-soundtrack suosiota saavuttaneesta Gunman Taco Truck -indiepelistä tulee CS2-peliin kiihkeine meksikolaismausteisine biiseineen, mukaan lukien Pollo Diablo ja Persecución de Helltain.",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1068,6 +1144,7 @@
   "name": "StatTrak™-musiikkipakkaus | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "Apokalyptinen mariachi-soundtrack suosiota saavuttaneesta Gunman Taco Truck -indiepelistä tulee CS2-peliin kiihkeine meksikolaismausteisine biiseineen, mukaan lukien Pollo Diablo ja Persecución de Helltain.",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1082,6 +1159,7 @@
   "name": "Musiikkipakkaus | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "Jo \\\"Total Domination\\\"-, \\\"The 8-Bit Kit\\\"- ja \\\"Crimson Assault\\\" -musiikkipakkaukset julkaisseelta säveltäjältä tulee nyt \\\"Eye Of The Dragon\\\". Säveltäjä Daniel Sadowski sekoittaa ninjoja, aseita, hiphopia ja teknoa luodakseen toiminnantäyteisen musiikkipakkauksen. <i>Ninjat ovat tunnettuja nopeista ja tarkoista iskuistaan, mutta ne kykenevät silti pysymään näkymättömiä vihollisilleen.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1096,6 +1174,7 @@
   "name": "StatTrak™-musiikkipakkaus | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "Jo \\\"Total Domination\\\"-, \\\"The 8-Bit Kit\\\"- ja \\\"Crimson Assault\\\" -musiikkipakkaukset julkaisseelta säveltäjältä tulee nyt \\\"Eye Of The Dragon\\\". Säveltäjä Daniel Sadowski sekoittaa ninjoja, aseita, hiphopia ja teknoa luodakseen toiminnantäyteisen musiikkipakkauksen. <i>Ninjat ovat tunnettuja nopeista ja tarkoista iskuistaan, mutta ne kykenevät silti pysymään näkymättömiä vihollisilleen.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1110,6 +1189,7 @@
   "name": "Musiikkipakkaus | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Väkevän kaaoksen alkemistit, M.U.D.D. FORCE, eli säveltäjät Tree Adams ja Ben Bromfield hitsaavat eeppiset taisteluaiheen ja syntikat yhteen täydellä teholla kulkevan hävityksen kurimukseksi.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1124,6 +1204,7 @@
   "name": "StatTrak™-musiikkipakkaus | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Väkevän kaaoksen alkemistit, M.U.D.D. FORCE, eli säveltäjät Tree Adams ja Ben Bromfield hitsaavat eeppiset taisteluaiheen ja syntikat yhteen täydellä teholla kulkevan hävityksen kurimukseksi.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1138,6 +1219,7 @@
   "name": "Musiikkipakkaus | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "Säveltäjä Tim Huling tuo tiskiin klassisia film-noir-tyyppisiä raitoja, joissa tyyliin yhdistyy nykyaikaista rytmiä ja biittejä.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1152,6 +1234,7 @@
   "name": "StatTrak™-musiikkipakkaus | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "Säveltäjä Tim Huling tuo tiskiin klassisia film-noir-tyyppisiä raitoja, joissa tyyliin yhdistyy nykyaikaista rytmiä ja biittejä.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1166,6 +1249,7 @@
   "name": "Musiikkipakkaus | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Funkahtavan 90-luvun alun videopelimusiikin inspiroimana säveltäjä Sam Marshall on yhdistänyt klassisen pelinostalgian ja rohkeat nykyrytmit.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1180,6 +1264,7 @@
   "name": "StatTrak™-musiikkipakkaus | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Funkahtavan 90-luvun alun videopelimusiikin inspiroimana säveltäjä Sam Marshall on yhdistänyt klassisen pelinostalgian ja rohkeat nykyrytmit.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1194,6 +1279,7 @@
   "name": "Musiikkipakkaus | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "Säveltäjä Matt Levinen rajun rehvakas kokonaisuus tekee kunniaa spaghettiwesterneille. Niissä tunnelmissa on hyvä sanoa: \\\"Antaa palaa!\\\"",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1208,6 +1294,7 @@
   "name": "StatTrak™-musiikkipakkaus | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "Säveltäjä Matt Levinen rajun rehvakas kokonaisuus tekee kunniaa spaghettiwesterneille. Niissä tunnelmissa on hyvä sanoa: \\\"Antaa palaa!\\\"",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1222,6 +1309,7 @@
   "name": "Musiikkipakkaus | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "Legendaarinen tuottaja Amon Tobin lainaa uniikkia estetiikkaansa CS2-pelille. Tällä kertaa putkivahvistimien kautta.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1236,6 +1324,7 @@
   "name": "StatTrak™-musiikkipakkaus | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "Legendaarinen tuottaja Amon Tobin lainaa uniikkia estetiikkaansa CS2-pelille. Tällä kertaa putkivahvistimien kautta.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1250,6 +1339,7 @@
   "name": "Darren Korb, Hades-musiikkipakkaus",
   "code": "hades_01",
   "description": "Missaat varmaan osuman silloin tällöin, mutta tämä veret kiertoon laittava Supergiantin roguelike-luolastoroolipeli Underworld of Hadesin musiikkipaikkaus ei missaa biittiä.",
+  "def_index": "51",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1264,6 +1354,7 @@
   "name": "Musiikkipakkaus | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Todista tällä Neck Deepin uudella musiikkipakkauksella, ettet ole massan mukana menijä (ja, että olet kartalla parempi kuin kukaan muu). Se sisältää biisejä heidän All Distortions Are Intentional -albumiltaan.",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1278,6 +1369,7 @@
   "name": "StatTrak™-musiikkipakkaus | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Todista tällä Neck Deepin uudella musiikkipakkauksella, ettet ole massan mukana menijä (ja, että olet kartalla parempi kuin kukaan muu). Se sisältää biisejä heidän All Distortions Are Intentional -albumiltaan.",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1292,6 +1384,7 @@
   "name": "Musiikkipakkaus | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "CHAIN$AW TUO SCARLXRD:LLA PELIIN EHDOTTOMASTI PARASTAAN RAIDALLA, JOSSA YHDISTYVÄT RAAKA FLOW JA SITÄ MÄTSÄÄVÄ RASKAS MENO.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1306,6 +1399,7 @@
   "name": "StatTrak™-musiikkipakkaus | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "CHAIN$AW TUO SCARLXRD:LLA PELIIN EHDOTTOMASTI PARASTAAN RAIDALLA, JOSSA YHDISTYVÄT RAAKA FLOW JA SITÄ MÄTSÄÄVÄ RASKAS MENO.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1320,6 +1414,7 @@
   "name": "Musiikkipakkaus | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Austin Wintory vastaa ihmiskuntaa pitkään askarruttaneeseen kysymykseen: mitä tapahtuu, kun yhdistät oluttuvan haitaripolkan rohjoiseen heavy metaliin?",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1334,6 +1429,7 @@
   "name": "StatTrak™ -musiikkipakkaus | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Austin Wintory vastaa ihmiskuntaa pitkään askarruttaneeseen kysymykseen: mitä tapahtuu, kun yhdistät oluttuvan haitaripolkan rohjoiseen heavy metaliin?",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1348,6 +1444,7 @@
   "name": "Musiikkipakkaus | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Videopelisäveltäjä ja chiptunen legenda Chipzel tuo säröisen Speak & Spell - lelun inspiroiman hybridien tyylien mash-upin, josta löytyy hupia, funkia ja sävyjä.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1362,6 +1459,7 @@
   "name": "StatTrak™ -musiikkipakkaus | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Videopelisäveltäjä ja chiptunen legenda Chipzel tuo säröisen Speak & Spell - lelun inspiroiman hybridien tyylien mash-upin, josta löytyy hupia, funkia ja sävyjä.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1376,6 +1474,7 @@
   "name": "Musiikkipakkaus | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Oopperaa. 8-bittisiä ääniä. Analogisyntikoita. Miten tästä voisi olla pitämättä? Chiptune-spesialisti Freaky DNA ja sopraano Leanne Koch lyöttäytyivät yhteen ja tuloksena oli raskasta biittiä ja hyvää menoa!",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1390,6 +1489,7 @@
   "name": "StatTrak™ -musiikkipakkaus | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Oopperaa. 8-bittisiä ääniä. Analogisyntikoita. Miten tästä voisi olla pitämättä? Chiptune-spesialisti Freaky DNA ja sopraano Leanne Koch lyöttäytyivät yhteen ja tuloksena oli raskasta biittiä ja hyvää menoa!",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1404,6 +1504,7 @@
   "name": "Musiikkipakkaus | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "Säveltäjä Jesse Harlin on toteuttanut mahtipontisen avaruusopperadraaman, joka on saanut inspiraationsa klassisesta 70- ja 80-luvun (ja vähän myöhemmästäkin) scifistä.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1418,6 +1519,7 @@
   "name": "StatTrak™ -musiikkipakkaus | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "Säveltäjä Jesse Harlin on toteuttanut mahtipontisen avaruusopperadraaman, joka on saanut inspiraationsa klassisesta 70- ja 80-luvun (ja vähän myöhemmästäkin) scifistä.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1432,6 +1534,7 @@
   "name": "Musiikkipakkaus | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Videopelisäveltäjä ja kehittäjä Laura Shigiharan teoksen avulla voit kertoa kaikille kovaa ja korkealta, että olet tähtipelaaja. Pidä hauskaa näiden uniikkien 90-luvun dancen, retropelien syntikan ja Plants vs. Zombies -vivahteiden myötä.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1446,6 +1549,7 @@
   "name": "StatTrak™ -musiikkipakkaus | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Videopelisäveltäjä ja kehittäjä Laura Shigiharan teoksen avulla voit kertoa kaikille kovaa ja korkealta, että olet tähtipelaaja. Pidä hauskaa näiden uniikkien 90-luvun dancen, retropelien syntikan ja Plants vs. Zombies -vivahteiden myötä.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1460,6 +1564,7 @@
   "name": "Musiikkipakkaus | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Sarah Schachner tuo sinulle tämän dystooppisen goottikuoron, jonka tiedostavat, skandinaaviset robotit päättävät, että ihmiskunta tulee tuhota.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1474,6 +1579,7 @@
   "name": "StatTrak™ -musiikkipakkaus | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Sarah Schachner tuo sinulle tämän dystooppisen goottikuoron, jonka tiedostavat, skandinaaviset robotit päättävät, että ihmiskunta tulee tuhota.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1488,6 +1594,7 @@
   "name": "Musiikkipakkaus | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "bbno$ on tehnyt huonoasenteisen pelaajan anthemin – u mad! Ootko vihainen? Haha, treenaa enemmän, nyypiö. Tutkimuksen mukaan tällä musiikkipaketilla pelaamalla pääsee heti hopeatasolta kansainväliseksi valioksi.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1502,6 +1609,7 @@
   "name": "StatTrak™-musiikkipakkaus | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "bbno$ on tehnyt huonoasenteisen pelaajan anthemin – u mad! Ootko vihainen? Haha, treenaa enemmän, nyypiö. Tutkimuksen mukaan tällä musiikkipaketilla pelaamalla pääsee heti hopeatasolta kansainväliseksi valioksi.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1516,6 +1624,7 @@
   "name": "Musiikkipakkaus | The Verkkars & n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Aurinkoisesta Kaliforniasta hyiseen Lappiin. Counter-Strike-legenda n0thing ja The Verkkars yhdistivät voimansa ja loivat Flashbang Dance -hitin! 3... 2... 1... olet sokaistu!",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1530,6 +1639,7 @@
   "name": "StatTrak™-musiikkipakkaus | The Verkkars & n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Aurinkoisesta Kaliforniasta hyiseen Lappiin. Counter-Strike-legenda n0thing ja The Verkkars yhdistivät voimansa ja loivat Flashbang Dance -hitin! 3... 2... 1... olet sokaistu!",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1544,6 +1654,7 @@
   "name": "Musiikkipakkaus | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Olitpa sitten matkalla huipulle tai häviölle anna kasarisyntikoiden ja unenomaisten melodioiden viedä ajassa taaksepäin... vanhoihin hyviin aikoihin.",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1558,6 +1669,7 @@
   "name": "StatTrak™-musiikkipakkaus | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Olitpa sitten matkalla huipulle tai häviölle anna kasarisyntikoiden ja unenomaisten melodioiden viedä ajassa taaksepäin... vanhoihin hyviin aikoihin.",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1572,6 +1684,7 @@
   "name": "Musiikkipakkaus | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "Ruotsalaisen Humanity's Last Breathin -bandin musiikkipaketti Void heittäytyy raskaalle linjalle: hakkaavat rummut, massiiviset riffit ja selkäpiitä karmiva tunnelma.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1586,6 +1699,7 @@
   "name": "StatTrak™-musiikkipakkaus | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "Ruotsalaisen Humanity's Last Breathin -bandin musiikkipaketti Void heittäytyy raskaalle linjalle: hakkaavat rummut, massiiviset riffit ja selkäpiitä karmiva tunnelma.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1600,6 +1714,7 @@
   "name": "Musiikkipakkaus | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Neo-trap-syntikat, tujut 808-rumpukoneen kompit, eeppinen pianoriffi ja iso kasa asetulituksen äänitehosteita. Juelzin gangsta rap -mestariteos Shooters kruunaa musiikkipakkauksen tyylillä. Vain isoimmille jehuille.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1614,6 +1729,7 @@
   "name": "StatTrak™-musiikkipakkaus | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Neo-trap-syntikat, tujut 808-rumpukoneen kompit, eeppinen pianoriffi ja iso kasa asetulituksen äänitehosteita. Juelzin gangsta rap -mestariteos Shooters kruunaa musiikkipakkauksen tyylillä. Vain isoimmille jehuille.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1628,6 +1744,7 @@
   "name": "Musiikkipaketti | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "Knock2:n dashstar*, ikoninen bass house -hitti tarjoaa tykintäydeltä energiaa, joka kiteyttää nuoren sandiegolaisen artistin moton, \\\"ei rajoja\\\".",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1642,6 +1759,7 @@
   "name": "StatTrak™-musiikkipakkaus | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "Knock2:n dashstar*, ikoninen bass house -hitti tarjoaa tykintäydeltä energiaa, joka kiteyttää nuoren sandiegolaisen artistin moton, \\\"ei rajoja\\\".",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1656,6 +1774,7 @@
   "name": "Musiikkipaketti | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Nappaa Glock-pistoolisi ja pistä musiikkipakkaus tulille, niin tunnet olevasi keskellä New Yorkin underground hiphop -skeneä.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1670,6 +1789,7 @@
   "name": "StatTrak™-musiikkipaketti | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Nappaa Glock-pistoolisi ja pistä musiikkipakkaus tulille, niin tunnet olevasi keskellä New Yorkin underground hiphop -skeneä.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1684,6 +1804,7 @@
   "name": "Musiikkipaketti | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Onko armoton jahti sinun juttusi? Sullivan Kingin hard rockia, metallia ja dubstepiä yhdistelevä ääniraita tekee kenestä tahansa pysäyttämättömän tappokoneen.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1698,6 +1819,7 @@
   "name": "StatTrak™-musiikkipaketti | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Onko armoton jahti sinun juttusi? Sullivan Kingin hard rockia, metallia ja dubstepiä yhdistelevä ääniraita tekee kenestä tahansa pysäyttämättömän tappokoneen.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1712,6 +1834,7 @@
   "name": "Musiikkipakkaus | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "Juhlista CS2:n 5-vuotispäivää Kiinassa ainutlaatuisella musiikkipakkauksella: 花脸 Hua Lian (Painted Face). Pakkauksessa yhdistyvät Qinqiang-ooppera (varhaisin kiinalaistyylinen rokki) ja moderni rokki. Vaikka savu ympäröisi tai valokranaatti sokaisisi, älä eksy!",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1726,6 +1849,7 @@
   "name": "StatTrak™ -musiikkipakkaus | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "Juhlista CS2:n 5-vuotispäivää Kiinassa ainutlaatuisella musiikkipakkauksella: 花脸 Hua Lian (Painted Face). Pakkauksessa yhdistyvät Qinqiang-ooppera (varhaisin kiinalaistyylinen rokki) ja moderni rokki. Vaikka savu ympäröisi tai valokranaatti sokaisisi, älä eksy!",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1740,6 +1864,7 @@
   "name": "Musiikkipakkaus | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Denzel tuo tavanomaisen energiansa CS2-peliin yhdistämällä trappia ja jatsia sekä rumpu- ja bassobiittiä. Pakkaus sisältää Denzelin hitit Walkin, Ultimate ja monta muuta. Ota nikkelöidyt kromi-Berettat esiin, käännä nupit kaakkoon ja anna Ultimate-musiikkipakkauksen soida.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1754,6 +1879,7 @@
   "name": "StatTrak™-musiikkipakkaus | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Denzel tuo tavanomaisen energiansa CS2-peliin yhdistämällä trappia ja jatsia sekä rumpu- ja bassobiittiä. Pakkaus sisältää Denzelin hitit Walkin, Ultimate ja monta muuta. Ota nikkelöidyt kromi-Berettat esiin, käännä nupit kaakkoon ja anna Ultimate-musiikkipakkauksen soida.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1768,6 +1894,7 @@
   "name": "Valve – CS:GO",
   "code": "valve_01",
   "description": "CS:GO-oletusmusiikkipakkaus, joka esiteltiin CS:GO-pelin julkaisun yhteydessä 2012.",
+  "def_index": "70",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1782,6 +1909,7 @@
   "name": "Musiikkipakkaus | DRYDEN: Feel The Power",
   "code": "dryden_01",
   "description": "Mitä sitä muuta voisi sanoa? Feel The Power. Tunne DRYDENin energisen musiikkipakkauksen sähköinen voima.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1796,6 +1924,7 @@
   "name": "StatTrak™-musiikkipakkaus | DRYDEN: Feel The Power",
   "code": "dryden_01",
   "description": "Mitä sitä muuta voisi sanoa? Feel The Power. Tunne DRYDENin energisen musiikkipakkauksen sähköinen voima.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1810,6 +1939,7 @@
   "name": "Musiikkipakkaus | ISOxo: inhuman",
   "code": "isoxo_01",
   "description": "Sopii eritoten peleihin, joissa tunnet olevasi...<i>erilainen</i>. Piinaa vihollisia kierros toisensa jälkeen ISOxon \\\"epäinhimillisellä\\\" musiikilla.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1824,6 +1954,7 @@
   "name": "StatTrak™-musiikkipakkaus | ISOxo: inhuman",
   "code": "isoxo_01",
   "description": "Sopii eritoten peleihin, joissa tunnet olevasi...<i>erilainen</i>. Piinaa vihollisia kierros toisensa jälkeen ISOxon \\\"epäinhimillisellä\\\" musiikilla.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1838,6 +1969,7 @@
   "name": "Musiikkipakkaus | KILL SCRIPT: All Night",
   "code": "killscript_01",
   "description": "Käytätkö mieluummin lempeä vai voimaa? Vai lempeää voimaa? Kerro se kaikille KILL SCRIPTin All Night -musiikkipakkauksella.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1852,6 +1984,7 @@
   "name": "StatTrak™-musiikkipakkaus | KILL SCRIPT: All Night",
   "code": "killscript_01",
   "description": "Käytätkö mieluummin lempeä vai voimaa? Vai lempeää voimaa? Kerro se kaikille KILL SCRIPTin All Night -musiikkipakkauksella.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1866,6 +1999,7 @@
   "name": "Musiikkipakkaus | Knock2: Make U SWEAT!",
   "code": "knock2_02",
   "description": "Pelaajille, jotka suhtautuvat jokaiseen peliin kuin ratkaisevaan finaaliin, vaikka palkkiona olisi vain muutama sata pistettä. Knock2:n toinen musiikkipakkaus Make U SWEAT tuo kunnon energiaa ja voitot kotiin.",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1880,6 +2014,7 @@
   "name": "StatTrak™-musiikkipakkaus | Knock2: Make U SWEAT!",
   "code": "knock2_02",
   "description": "Pelaajille, jotka suhtautuvat jokaiseen peliin kuin ratkaisevaan finaaliin, vaikka palkkiona olisi vain muutama sata pistettä. Knock2:n toinen musiikkipakkaus Make U SWEAT tuo kunnon energiaa ja voitot kotiin.",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1894,6 +2029,7 @@
   "name": "Musiikkipakkaus | Rad Cat: Reason",
   "code": "radcat_01",
   "description": "Toisinaan pommin purkaminen riittää kierroksen tähtipelaajan titteliin. Juhli jokaista hetkeä – pientä ja isoa – Rad Catin Reason-musiikkipakkauksella.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1908,6 +2044,7 @@
   "name": "StatTrak™-musiikkipakkaus | Rad Cat: Reason",
   "code": "radcat_01",
   "description": "Toisinaan pommin purkaminen riittää kierroksen tähtipelaajan titteliin. Juhli jokaista hetkeä – pientä ja isoa – Rad Catin Reason-musiikkipakkauksella.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1922,6 +2059,7 @@
   "name": "Musiikkipakkaus | TWERL, Ekko & Sidetrack: Under Bright Lights",
   "code": "twerl_01",
   "description": "Valokeilassa paistattelua ei voita mikään. Under Bright Lightsin rumpu- ja bassorytmit nostavat sinut tiimeinesi uusiin korkeuksiin.",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1936,6 +2074,7 @@
   "name": "StatTrak™-musiikkipakkaus | TWERL, Ekko & Sidetrack: Under Bright Lights",
   "code": "twerl_01",
   "description": "Valokeilassa paistattelua ei voita mikään. Under Bright Lightsin rumpu- ja bassorytmit nostavat sinut tiimeinesi uusiin korkeuksiin.",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1950,6 +2089,7 @@
   "name": "Musiikkipakkaus | Austin Wintory: The Devil Went Clubbing in Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory tekee sopimuksen Saatanan kanssa ja sekoittaa yhteen paholaismaista viulumusiikkia ja täyden EDM-klubin tunnelmaa.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1964,6 +2104,7 @@
   "name": "StatTrak™-musiikkipakkaus | Austin Wintory: The Devil Went Clubbing in Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory tekee sopimuksen Saatanan kanssa ja sekoittaa yhteen paholaismaista viulumusiikkia ja täyden EDM-klubin tunnelmaa.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1978,6 +2119,7 @@
   "name": "Musiikkipakkaus | Ben Bromfield: Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Sinut on petetty kahdesti! Koe elokuva- ja tv-säveltäjä Ben Bromfieldin kovapanoksinen, mietteliään jännittynyt, jazz-vaikutteinen ääniraita, kun selvität tämän kaninkolon syvyyttä...",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1992,6 +2134,7 @@
   "name": "StatTrak™-musiikkipakkaus | Ben Bromfield: Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Sinut on petetty kahdesti! Koe elokuva- ja tv-säveltäjä Ben Bromfieldin kovapanoksinen, mietteliään jännittynyt, jazz-vaikutteinen ääniraita, kun selvität tämän kaninkolon syvyyttä...",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2006,6 +2149,7 @@
   "name": "Musiikkipakkaus | Daniel Sadowski: Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski kutsuu pelaajia astumaan Dead Shotin maailmaan, joka on yhdistelmä toimintaa, hiphopia, orkesterimusiikkia, elektronista, retroa, tunnetta ja äänisuunnittelua. Vältä pään mätäneminen!",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2020,6 +2164,7 @@
   "name": "StatTrak™-musiikkipakkaus | Daniel Sadowski: Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski kutsuu pelaajia astumaan Dead Shotin maailmaan, joka on yhdistelmä toimintaa, hiphopia, orkesterimusiikkia, elektronista, retroa, tunnetta ja äänisuunnittelua. Vältä pään mätäneminen!",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2034,6 +2179,7 @@
   "name": "Musiikkipakkaus | Dren McDonald: Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "Kofeiini on ystäväsi. Se on kaikkien ystävä, paitsi vihollistesi! Coffee! Kofe! Kahveh! on BalkanBalkanBalkan!-katubileiden puhallinmusiikkia Dren McDonaldilta, joka tunnetaan myös Gunman Taco Truck- ja Death's Head Demolition -musiikkipakkauksista. Äänitetty livenä Balkanciscossa!",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2048,6 +2194,7 @@
   "name": "StatTrak™-musiikkipakkaus | Dren McDonald: Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "Kofeiini on ystäväsi. Se on kaikkien ystävä, paitsi vihollistesi! Coffee! Kofe! Kahveh! on BalkanBalkanBalkan!-katubileiden puhallinmusiikkia Dren McDonaldilta, joka tunnetaan myös Gunman Taco Truck- ja Death's Head Demolition -musiikkipakkauksista. Äänitetty livenä Balkanciscossa!",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2062,6 +2209,7 @@
   "name": "Musiikkipakkaus | Matt Levine: Agency",
   "code": "mattlevine_02",
   "description": "Astu vakoilun vaaralliseen maailmaan säveltäjä Matt Levinen Agency-musiikkipakkauksen avulla.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2076,6 +2224,7 @@
   "name": "StatTrak™-musiikkipakkaus | Matt Levine: Agency",
   "code": "mattlevine_02",
   "description": "Astu vakoilun vaaralliseen maailmaan säveltäjä Matt Levinen Agency-musiikkipakkauksen avulla.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2090,6 +2239,7 @@
   "name": "Musiikkipakkaus | Sam Marshall: Clutch",
   "code": "sammarshall_02",
   "description": "Clutch, Bodaciousin vahvistamaton jatko-osa, on kyberfunkia ja kuumeuninen kammotus, jonka Sam Marshall elvyttää alkemian ja vaikeaselkoisen rituaalin avulla.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2104,6 +2254,7 @@
   "name": "StatTrak™-musiikkipakkaus | Sam Marshall: Clutch",
   "code": "sammarshall_02",
   "description": "Clutch, Bodaciousin vahvistamaton jatko-osa, on kyberfunkia ja kuumeuninen kammotus, jonka Sam Marshall elvyttää alkemian ja vaikeaselkoisen rituaalin avulla.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2118,6 +2269,7 @@
   "name": "Musiikkipakkaus | Tim Huling: Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Nosta adrenaliiniasi Tim Hulingin Devil's Paintbrush -elämyksellä, joka on huippuenerginen groove metal -kokemus.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2132,6 +2284,7 @@
   "name": "StatTrak™-musiikkipakkaus | Tim Huling: Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Nosta adrenaliiniasi Tim Hulingin Devil's Paintbrush -elämyksellä, joka on huippuenerginen groove metal -kokemus.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2146,6 +2299,7 @@
   "name": "Musiikkipakkaus | Tree Adams: Seventh Moon",
   "code": "treeadams_01",
   "description": "Tree Adams rullaa Seventh Moonissa tunnelmallisen sekoituksen galaksien välistä funkia ja johtavia taistelupisteitä.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2160,6 +2314,7 @@
   "name": "StatTrak™-musiikkipakkaus | Tree Adams: Seventh Moon",
   "code": "treeadams_01",
   "description": "Tree Adams rullaa Seventh Moonissa tunnelmallisen sekoituksen galaksien välistä funkia ja johtavia taistelupisteitä.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2174,6 +2329,7 @@
   "name": "Musiikkipakkaus | Perfect World – Ay Hey",
   "code": "perfectworld_02",
   "description": "Yhdistämällä perinteisen kiinalaisen kansanmusiikin ja elektronisen musiikin Ay Hey tarjoaa elävää tarinankerrontaa ja energisiä rytmejä, jotka yhdistävät eri-ikäisiä ja -taustaisia pelaajia. Musiikin eloisa rytmi kuvaa pelaajien innostusta ja humoristisia ja leikkisiä taistelukohtauksia.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2188,6 +2344,7 @@
   "name": "StatTrak™-musiikkipakkaus| Perfect World – Ay Hey",
   "code": "perfectworld_02",
   "description": "Yhdistämällä perinteisen kiinalaisen kansanmusiikin ja elektronisen musiikin Ay Hey tarjoaa elävää tarinankerrontaa ja energisiä rytmejä, jotka yhdistävät eri-ikäisiä ja -taustaisia pelaajia. Musiikin eloisa rytmi kuvaa pelaajien innostusta ja humoristisia ja leikkisiä taistelukohtauksia.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2202,6 +2359,7 @@
   "name": "Musiikkipakkaus | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "Ruotsalaisen teknomusiikin legendan Adam Beyerin musiikkipakkaus tarjoaa unenomaisia äänimaailmoja samalla, kun pumppaat viholliset täyteen lyijyä.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2216,6 +2374,7 @@
   "name": "StatTrak™-musiikkipakkaus | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "Ruotsalaisen teknomusiikin legendan Adam Beyerin musiikkipakkaus tarjoaa unenomaisia äänimaailmoja samalla, kun pumppaat viholliset täyteen lyijyä.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2230,6 +2389,7 @@
   "name": "Musiikkipakkaus | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "VIESTI PAPISTOLTA: Papa V Perpetua on saapunut Counter-Strikeen, ja tuo mukanaan mahtavan hevimetallispektaakkelin. Tuo piristystä arkiseen aherrukseen tulittamalla ja rukoilemalla epäpyhän istuimen puolesta.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2244,6 +2404,7 @@
   "name": "StatTrak™-musiikkipakkaus | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "VIESTI PAPISTOLTA: Papa V Perpetua on saapunut Counter-Strikeen, ja tuo mukanaan mahtavan hevimetallispektaakkelin. Tuo piristystä arkiseen aherrukseen tulittamalla ja rukoilemalla epäpyhän istuimen puolesta.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2258,6 +2419,7 @@
   "name": "Musiikkipakkaus | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "HEALTH saapuu Counter-Strikeen. Ota ase kouraan ja nauti RAT WARS -albumin brutaalin raskaasta konemetallista.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2272,6 +2434,7 @@
   "name": "StatTrak™-musiikkipakkaus | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "HEALTH saapuu Counter-Strikeen. Ota ase kouraan ja nauti RAT WARS -albumin brutaalin raskaasta konemetallista.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2286,6 +2449,7 @@
   "name": "Musiikkipakkaus | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "Walesilainen rock-duo James and the Cold Gun on täynnä energiaa, klassista punk-asennetta ja modernia alt-rockia. Tätä musiikkipakkausta ei pitele mikään.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2300,6 +2464,7 @@
   "name": "StatTrak™-musiikkipakkaus | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "Walesilainen rock-duo James and the Cold Gun on täynnä energiaa, klassista punk-asennetta ja modernia alt-rockia. Tätä musiikkipakkausta ei pitele mikään.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2314,6 +2479,7 @@
   "name": "Musiikkipakkaus | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Pelisi kaipaa avaruuspiraattien innoittamaa power metallia. Hyppää Velociraptor-nimisen avaruusaluksen kyytiin ja vie ottelusi uusiin ulottuvuuksiin Jonathan Youngin musiikilla, joka lainaa elementtejä animesta ja videopeleistä.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2328,6 +2494,7 @@
   "name": "StatTrak™-musiikkipakkaus | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Pelisi kaipaa avaruuspiraattien innoittamaa power metallia. Hyppää Velociraptor-nimisen avaruusaluksen kyytiin ja vie ottelusi uusiin ulottuvuuksiin Jonathan Youngin musiikilla, joka lainaa elementtejä animesta ja videopeleistä.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2342,6 +2509,7 @@
   "name": "Musiikkipakkaus | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Onko lattialla tarpeeksi tilaa? Tämä massiivinen musiikkipakkaus Juelzin debyyttialbumilta sisältää neo-rave-syntikkaa, brutaaleja bassosoundeja ja tarttuvia trap-rumpuja. Floorspace on tehty uudelleen Counter-Strike 2 -peliä varten, ja MVP-biisi Gossip saa pelaajat niin hulluiksi, että he kokoavat kokonaisen LED-valoseinän vain rikkoakseen sen.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2356,6 +2524,7 @@
   "name": "StatTrak™-musiikkipakkaus | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Onko lattialla tarpeeksi tilaa? Tämä massiivinen musiikkipakkaus Juelzin debyyttialbumilta sisältää neo-rave-syntikkaa, brutaaleja bassosoundeja ja tarttuvia trap-rumpuja. Floorspace on tehty uudelleen Counter-Strike 2 -peliä varten, ja MVP-biisi Gossip saa pelaajat niin hulluiksi, että he kokoavat kokonaisen LED-valoseinän vain rikkoakseen sen.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2370,6 +2539,7 @@
   "name": "Musiikkipakkaus | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Nauti kolme Grammya voittaneesta hiphop-albumista Counter-Strikessa. Killer Miken ääni motivoi sinua tekemään parhaasi, kun nostat tasoasi ja hiot taitojasi.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2384,6 +2554,7 @@
   "name": "StatTrak™-musiikkipakkaus | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Nauti kolme Grammya voittaneesta hiphop-albumista Counter-Strikessa. Killer Miken ääni motivoi sinua tekemään parhaasi, kun nostat tasoasi ja hiot taitojasi.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2398,6 +2569,7 @@
   "name": "Musiikkipakkaus | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "Mikä on vielä hauskempaa kuin hyvän vastustajan löytäminen? Hyvä ääniraita. PVRIS-musiikkipakkaus inspiroi joukkueesi voittoon kerta toisensa jälkeen.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2412,6 +2584,7 @@
   "name": "StatTrak™-musiikkipakkaus | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "Mikä on vielä hauskempaa kuin hyvän vastustajan löytäminen? Hyvä ääniraita. PVRIS-musiikkipakkaus inspiroi joukkueesi voittoon kerta toisensa jälkeen.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2426,6 +2599,7 @@
   "name": "Musiikkipakkaus | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Anna musiikin tahdittaa elämääsi tällä energiaa pursuavalla musiikkipakkauksella Amerikan teknomusiikin ikonilta, Selective Responselta. Akku täynnä ja valmiustilassa.",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2440,6 +2614,7 @@
   "name": "StatTrak™-musiikkipakkaus | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Anna musiikin tahdittaa elämääsi tällä energiaa pursuavalla musiikkipakkauksella Amerikan teknomusiikin ikonilta, Selective Responselta. Akku täynnä ja valmiustilassa.",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2454,6 +2629,7 @@
   "name": "Musiikkipakkaus | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "Isosta-Britanniasta kotoisin oleva Tigercub sekoittaa raskaan melodista alt-rockia modernilla soundilla. Tuloksena on suorastaan murskaavan kova musiikkipakkaus.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -2468,6 +2644,7 @@
   "name": "StatTrak™-musiikkipakkaus | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "Isosta-Britanniasta kotoisin oleva Tigercub sekoittaa raskaan melodista alt-rockia modernilla soundilla. Tuloksena on suorastaan murskaavan kova musiikkipakkaus.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",

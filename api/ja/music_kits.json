@@ -4,6 +4,7 @@
   "name": "Valve, Counter-Strike 2",
   "code": "valve_cs2_01",
   "description": "Counter-Strike 2 の公式ミュージックキット。",
+  "def_index": "1",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -18,6 +19,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "2012年の CS:GO ローンチ時にリリースされた CS:GO のデフォルトミュージックキット。",
+  "def_index": "2",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -32,6 +34,7 @@
   "name": "ミュージックキット | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "ゲーム音楽制作者の Daniel Sadowski による、トガッた分厚いビートの数々。活力に満ちた爽快なミュージックパック。",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -46,6 +49,7 @@
   "name": "StatTrak™ ミュージックキット | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "ゲーム音楽制作者の Daniel Sadowski による、トガッた分厚いビートの数々。活力に満ちた爽快なミュージックパック。",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -60,6 +64,7 @@
   "name": "ミュージックキット | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "オランダのドラムンベース・トリオ Noisia によるハードでシネマティックなミュージックキット。伝統と革新の類まれな融合。",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -74,6 +79,7 @@
   "name": "StatTrak™ ミュージックキット | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "オランダのドラムンベース・トリオ Noisia によるハードでシネマティックなミュージックキット。伝統と革新の類まれな融合。",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -88,6 +94,7 @@
   "name": "ミュージックキット | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "受賞歴もある作曲家 Robert Allaire の手による音楽で敵を駆逐せよ。",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -102,6 +109,7 @@
   "name": "StatTrak™ ミュージックキット | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "受賞歴もある作曲家 Robert Allaire の手による音楽で敵を駆逐せよ。",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -116,6 +124,7 @@
   "name": "ミュージックキット | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "二大戦争ゲームの作曲者による音楽で血をたぎらせ、敵を地獄の門まで送り届けろ！",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -130,6 +139,7 @@
   "name": "StatTrak™ ミュージックキット | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "二大戦争ゲームの作曲者による音楽で血をたぎらせ、敵を地獄の門まで送り届けろ！",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -144,6 +154,7 @@
   "name": "ミュージックキット | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "著名エレクトロニック・ミュージシャン Feed Me が、ウェスタンの決闘シーンの緊張感をモダンなエレクトロ音楽空間に再現。",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -158,6 +169,7 @@
   "name": "StatTrak™ ミュージックキット | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "著名エレクトロニック・ミュージシャン Feed Me が、ウェスタンの決闘シーンの緊張感をモダンなエレクトロ音楽空間に再現。",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -172,6 +184,7 @@
   "name": "ミュージックキット | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "ゲーム音楽作曲者の Dren によるミュージックキット。スーパーヒーローメタルにインスパイアされた壮大な音楽でヤバすぎるキルを量産しろ！",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -186,6 +199,7 @@
   "name": "StatTrak™ ミュージックキット | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "ゲーム音楽作曲者の Dren によるミュージックキット。スーパーヒーローメタルにインスパイアされた壮大な音楽でヤバすぎるキルを量産しろ！",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -200,6 +214,7 @@
   "name": "ミュージックキット | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "敵をわざわざ追いかけなくてもいい。グラミー賞ノミネート経験もあるゲーム音楽作曲者の Austin Wintory によるイカレたタンゴで誘い込め。",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -214,6 +229,7 @@
   "name": "StatTrak™ ミュージックキット | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "敵をわざわざ追いかけなくてもいい。グラミー賞ノミネート経験もあるゲーム音楽作曲者の Austin Wintory によるイカレたタンゴで誘い込め。",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -228,6 +244,7 @@
   "name": "ミュージックキット | Sasha, LNOE",
   "code": "sasha_01",
   "description": "世界的に評価されているDJ/プロデューサーの Sasha が贈るシネマティックなサントラ。疾走感のあるドラム、生き生きとしたメロディー、高揚感のあるストリングスに身を任せよう。",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -242,6 +259,7 @@
   "name": "StatTrak™ ミュージックキット | Sasha, LNOE",
   "code": "sasha_01",
   "description": "世界的に評価されているDJ/プロデューサーの Sasha が贈るシネマティックなサントラ。疾走感のあるドラム、生き生きとしたメロディー、高揚感のあるストリングスに身を任せよう。",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -256,6 +274,7 @@
   "name": "ミュージックキット | Skog, Metal",
   "code": "skog_01",
   "description": "メタルプロデューサーの Skog が「アグロ」とは何かを教えてくれる。",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -270,6 +289,7 @@
   "name": "StatTrak™ ミュージックキット | Skog, Metal",
   "code": "skog_01",
   "description": "メタルプロデューサーの Skog が「アグロ」とは何かを教えてくれる。",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -284,6 +304,7 @@
   "name": "ミュージックキット | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "「ホリデーを楽しめよ、ク****ども！」\\n    -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -298,6 +319,7 @@
   "name": "StatTrak™ ミュージックキット | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "「ホリデーを楽しめよ、ク****ども！」\\n    -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -312,6 +334,7 @@
   "name": "ミュージックキット | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "エレクトロニクスのプロデューサーでありイノベーターでもある Matt Lange が生み出す、壮大さとグリッチ感を併せ持つハードなリズムに耳を傾けよ。",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -326,6 +349,7 @@
   "name": "StatTrak™ ミュージックキット | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "エレクトロニクスのプロデューサーでありイノベーターでもある Matt Lange が生み出す、壮大さとグリッチ感を併せ持つハードなリズムに耳を傾けよ。",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -340,6 +364,7 @@
   "name": "ミュージックキット | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "グラミー賞受賞作曲家の Mateo Messina の緊迫感に満ちた音楽と共に敵を圧倒しろ。",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -354,6 +379,7 @@
   "name": "StatTrak™ ミュージックキット | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "グラミー賞受賞作曲家の Mateo Messina の緊迫感に満ちた音楽と共に敵を圧倒しろ。",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -368,6 +394,7 @@
   "name": "ミュージックキット | Various Artists, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "多数のエレクトロニクス・アーティストが参加したミュージックパック。名作『Hotline Miami』の血なまぐさいビートでアゲていけ。",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -382,6 +409,7 @@
   "name": "StatTrak™ ミュージックキット | Various Artists, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "多数のエレクトロニクス・アーティストが参加したミュージックパック。名作『Hotline Miami』の血なまぐさいビートでアゲていけ。",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -396,6 +424,7 @@
   "name": "ミュージックキット | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "作曲家 Daniel Sadowski が\\\"攻め\\\"のビートとクリエイティブなSFX、そしてグイグイと迫る未来的なバイブスでさらなる高みへといざなう。アドレナリンの急上昇に注意！",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -410,6 +439,7 @@
   "name": "StatTrak™ ミュージックキット | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "作曲家 Daniel Sadowski が\\\"攻め\\\"のビートとクリエイティブなSFX、そしてグイグイと迫る未来的なバイブスでさらなる高みへといざなう。アドレナリンの急上昇に注意！",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -424,6 +454,7 @@
   "name": "ミュージックキット | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "作曲家 Damjan Mravunac がエネルギッシュなグルーヴと荘厳なコーラスをブレンドさせた、Croteam 開発の傑作『The Talos Principle』のミュージックパック。",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -438,6 +469,7 @@
   "name": "StatTrak™ ミュージックキット | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "作曲家 Damjan Mravunac がエネルギッシュなグルーヴと荘厳なコーラスをブレンドさせた、Croteam 開発の傑作『The Talos Principle』のミュージックパック。",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -452,6 +484,7 @@
   "name": "ミュージックキット | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "ロシアのヘビーエレクトロニカ・アーティスト PROXY が Counter-Strike に独創的かつ重厚なミュージックキットをドロップ。ハイブリッドな楽曲を最高度のスタジオ技術で洗練させた唯一無二のキット。",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -466,6 +499,7 @@
   "name": "StatTrak™ ミュージックキット | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "ロシアのヘビーエレクトロニカ・アーティスト PROXY が Counter-Strike に独創的かつ重厚なミュージックキットをドロップ。ハイブリッドな楽曲を最高度のスタジオ技術で洗練させた唯一無二のキット。",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -480,6 +514,7 @@
   "name": "ミュージックキット | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "DOTA TI4 でパフォーマンスを披露したレコーディングアーティストの Ki:Theory が、エッジの効いたダークなエレクトロ・ロックで火をつける。",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -494,6 +529,7 @@
   "name": "StatTrak™ ミュージックキット | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "DOTA TI4 でパフォーマンスを披露したレコーディングアーティストの Ki:Theory が、エッジの効いたダークなエレクトロ・ロックで火をつける。",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -508,6 +544,7 @@
   "name": "ミュージックキット | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "受賞歴のある作曲家 Troels Folmann によるミュージックキット。凱歌が響きわたり、現代的なパルスが伝わる楽曲の数々。",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -522,6 +559,7 @@
   "name": "StatTrak™ ミュージックキット | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "受賞歴のある作曲家 Troels Folmann によるミュージックキット。凱歌が響きわたり、現代的なパルスが伝わる楽曲の数々。",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -536,6 +574,7 @@
   "name": "ミュージックキット | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Valve の「Half-Life」シリーズの作曲家である Kelly Bailey が、Half-Life ユニバースの闇に触発されて書き下ろした終末世界のサウンド。",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -550,6 +589,7 @@
   "name": "StatTrak™ ミュージックキット | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Valve の「Half-Life」シリーズの作曲家である Kelly Bailey が、Half-Life ユニバースの闇に触発されて書き下ろした終末世界のサウンド。",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -564,6 +604,7 @@
   "name": "ミュージックキット | Skog, II-Headshot",
   "code": "skog_02",
   "description": "メタル・コンポーザー兼プロデューサーの Jocke Skog による、完全新作のハードなメタルキット。これを聴けばこれまでの CS:GO ミュージックキットが\\\"キュートでスウィート\\\"に感じられるはずだ。MVP を勝ち取って強者のアンセムを皆に浴びせろ！",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -578,6 +619,7 @@
   "name": "StatTrak™ ミュージックキット | Skog, II-Headshot",
   "code": "skog_02",
   "description": "メタル・コンポーザー兼プロデューサーの Jocke Skog による、完全新作のハードなメタルキット。これを聴けばこれまでの CS:GO ミュージックキットが\\\"キュートでスウィート\\\"に感じられるはずだ。MVP を勝ち取って強者のアンセムを皆に浴びせろ！",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -592,6 +634,7 @@
   "name": "ミュージックキット | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski による、Counter-Strike 史上初のオーセンティックな 8 ビットミュージックキット。",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -606,6 +649,7 @@
   "name": "StatTrak™ ミュージックキット | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski による、Counter-Strike 史上初のオーセンティックな 8 ビットミュージックキット。",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -620,6 +664,7 @@
   "name": "ミュージックキット | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "オルタナロックの AWOLNATION によるタイムレスなミュージックキット。シングル「I Am」やマルチプラチナヒットとなった「Sail」を含む多彩な楽曲を収録。",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -634,6 +679,7 @@
   "name": "StatTrak™ ミュージックキット | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "オルタナロックの AWOLNATION によるタイムレスなミュージックキット。シングル「I Am」やマルチプラチナヒットとなった「Sail」を含む多彩な楽曲を収録。",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -648,6 +694,7 @@
   "name": "ミュージックキット | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "ダイヤモンドは永遠に。Mord Fustang の新鮮なグルーヴとアンビエントを収めたミュージックキット。",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -662,6 +709,7 @@
   "name": "StatTrak™ ミュージックキット | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "ダイヤモンドは永遠に。Mord Fustang の新鮮なグルーヴとアンビエントを収めたミュージックキット。",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -676,6 +724,7 @@
   "name": "ミュージックキット | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross の気宇壮大なテクノグランジを聴けば、戦闘のさなかでも真のツワモノらしく振る舞えるはず。",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -690,6 +739,7 @@
   "name": "StatTrak™ ミュージックキット | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross の気宇壮大なテクノグランジを聴けば、戦闘のさなかでも真のツワモノらしく振る舞えるはず。",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -704,6 +754,7 @@
   "name": "ミュージックキット | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "ストリングスとシンセに戦鼓の律動を加えた迫力のサントラで戦闘に臨め。Ian Hultquist 作曲のミュージックキット。",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -718,6 +769,7 @@
   "name": "StatTrak™ ミュージックキット | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "ストリングスとシンセに戦鼓の律動を加えた迫力のサントラで戦闘に臨め。Ian Hultquist 作曲のミュージックキット。",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -732,6 +784,7 @@
   "name": "ミュージックキット | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "ヒップホップ、ファンク、ガレージポップの要素を盛り込んだサーフロック。ゴキゲンな太陽の下でヘッドショットを決めよう。",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -746,6 +799,7 @@
   "name": "StatTrak™ ミュージックキット | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "ヒップホップ、ファンク、ガレージポップの要素を盛り込んだサーフロック。ゴキゲンな太陽の下でヘッドショットを決めよう。",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -760,6 +814,7 @@
   "name": "ミュージックキット | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "誰もが暴れ出したくなる Beartooth のハードチューンで原点回帰。ノースコープキルに合うBGMといえばこれしかない。死ぬまでロックし続けろ！",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -774,6 +829,7 @@
   "name": "StatTrak™ ミュージックキット | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "誰もが暴れ出したくなる Beartooth のハードチューンで原点回帰。ノースコープキルに合うBGMといえばこれしかない。死ぬまでロックし続けろ！",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -788,6 +844,7 @@
   "name": "ミュージックキット | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "ゲーム音楽作曲家の Lennie Moore が贈る、香り高く刺激的なジャズファンク。敵チームのボイスチャット並みにキンキンに冷えた一杯をやりたくなるはず。",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -802,6 +859,7 @@
   "name": "StatTrak™ ミュージックキット | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "ゲーム音楽作曲家の Lennie Moore が贈る、香り高く刺激的なジャズファンク。敵チームのボイスチャット並みにキンキンに冷えた一杯をやりたくなるはず。",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -816,6 +874,7 @@
   "name": "ミュージックキット | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "フィンランドのプロデューサー Darude が手掛ける馴染み深いサウンドスケープに身を委ねよう。ダンスミュージック界を代表するパイオニアのサウンドとメロディは心をくすぐり、豊かな倍音の波は知らず知らずのうちに気分を盛り上げてくれる。",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -830,6 +889,7 @@
   "name": "StatTrak™ ミュージックキット | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "フィンランドのプロデューサー Darude が手掛ける馴染み深いサウンドスケープに身を委ねよう。ダンスミュージック界を代表するパイオニアのサウンドとメロディは心をくすぐり、豊かな倍音の波は知らず知らずのうちに気分を盛り上げてくれる。",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -844,6 +904,7 @@
   "name": "StatTrak™ ミュージックキット | Beartooth, Aggressive",
   "code": "beartooth_02",
   "description": "Beartooth によるミュージックキット第2弾。よりハードに、アグレッシブに仕上がった今作のなかでも、MVP 祝歌は特にヘビーなものになっている。敵の傷口に塩を塗りこんでやれ。",
+  "def_index": "32",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -858,6 +919,7 @@
   "name": "StatTrak™ ミュージックキット | Blitz Kids, The Good Youth",
   "code": "blitzkids_01",
   "description": "イギリスのポップ/パンクバンドの Blitz Kids による、高校時代に仲間とつるんだ思い出を反芻しながら B 地点にラッシュするときにピッタリのBGM。若さと疾走感に満ちたミュージックキット。",
+  "def_index": "33",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -872,6 +934,7 @@
   "name": "StatTrak™ ミュージックキット | Hundredth, FREE",
   "code": "hundredth_01",
   "description": "自由を得るか塵に還るか、Hundredth が送り出すヘビーでユニークなメロコア。根性のない連中を狩るときのBGMにもってこいだ。",
+  "def_index": "34",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -886,6 +949,7 @@
   "name": "StatTrak™ ミュージックキット | Neck Deep, Life's Not Out To Get You",
   "code": "neckdeep_01",
   "description": "長大なキルストリークを妨害されたり、しつこい芋野郎に悩まされたり、やりきれないときはポップパンクを聴こう。Neck Deep は「Life's Not Out To Get You/人生は敵じゃない」と教えてくれる。敵チームの嫌がらせは続くが。",
+  "def_index": "35",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -900,6 +964,7 @@
   "name": "StatTrak™ ミュージックキット | Roam, Backbone",
   "code": "roam_01",
   "description": "観客もプレイヤーも思わず体が動き出す、Roam のド直球ポップファンク。このサントラを聴きながら敵チームを急襲し、戸惑う隙すら与えずに殲滅して「Backbone/気骨」を示せ。",
+  "def_index": "36",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -914,6 +979,7 @@
   "name": "StatTrak™ ミュージックキット | Twin Atlantic, GLA",
   "code": "twinatlantic_01",
   "description": "スコティッシュロックの雄 Twin Atlantic が CS:GO のために用意したヘビーでラフでラウドなミュージックキットで敵を圧倒しろ。",
+  "def_index": "37",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -928,6 +994,7 @@
   "name": "StatTrak™ ミュージックキット | Skog, III-Arena",
   "code": "skog_03",
   "description": "Skog のメタルミュージックキット第3弾。今回は派手なギターリフとドロップ、ループ、そしてドローン音が盛り込まれ、エレクトロ・オーガニックなひねりが利いている。",
+  "def_index": "38",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -942,6 +1009,7 @@
   "name": "ミュージックキット | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "フィンランドのチャートを席巻した Verkkars による ENCE のアツい応援ソング。そこまでEZにいくだろうか？",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -956,6 +1024,7 @@
   "name": "StatTrak™ ミュージックキット | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "フィンランドのチャートを席巻した Verkkars による ENCE のアツい応援ソング。そこまでEZにいくだろうか？",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -970,6 +1039,7 @@
   "name": "Halo, The Master Chief Collection",
   "code": "halo_01",
   "description": "Halo ユニバースの劇的な音楽シーンを集めた Master Chief Collection Music Pack によって、Counter-Strike の聴覚体験は伝説となる。©2019 343 Industries. All rights reserved. 343 Industries の認可を得て製作。※「Halo: The Master Chief Collection」および Halo ロゴは Microsoft グループの商標です。",
+  "def_index": "40",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -984,6 +1054,7 @@
   "name": "ミュージックキット | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Scarlxrd は重厚なトラップビートとフロウで独自のサブジャンルを開拓。ライブ音源をブレンドしたこのミュージックキットに惹かれないオーディエンスはいないだろう。",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -998,6 +1069,7 @@
   "name": "StatTrak™ ミュージックキット | Scarlxrd: King, Scar",
   "code": "scarlxrd_01",
   "description": "Scarlxrd は重厚なトラップビートとフロウで独自のサブジャンルを開拓。ライブ音源をブレンドしたこのミュージックキットに惹かれないオーディエンスはいないだろう。",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1012,6 +1084,7 @@
   "name": "Half-Life: Alyx, Anti-Citizen",
   "code": "hlalyx_01",
   "description": "Valve の「Half-Life」シリーズに VR で帰ってきた『Half-Life: Alyx』を記念するミュージックキット。人類存続の希望となって身を投じた荒廃世界の先にあるのは、『Counter-Strike: Global Offensive』の戦場だ。",
+  "def_index": "42",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1026,6 +1099,7 @@
   "name": "ミュージックキット | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintory が Peter Hollens のヴォーカルサポートを得て、ケルトファンタジーとエレクトロニクスをミックス。ジャンルを超えたミュージックキット。",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1040,6 +1114,7 @@
   "name": "StatTrak™ ミュージックキット | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintory が Peter Hollens のヴォーカルサポートを得て、ケルトファンタジーとエレクトロニクスをミックス。ジャンルを超えたミュージックキット。",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1054,6 +1129,7 @@
   "name": "ミュージックキット | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "インディゲームのヒット作『Gunman Taco Truck』のアポカリプス・マリアッチなサントラが CS:GO に登場。Pollo Diablo、Persecución de Helltainなどアツいメキシカンチューンと共に撃ちまくれ！",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1068,6 +1144,7 @@
   "name": "StatTrak™ ミュージックキット | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "インディゲームのヒット作『Gunman Taco Truck』のアポカリプス・マリアッチなサントラが CS:GO に登場。Pollo Diablo、Persecución de Helltainなどアツいメキシカンチューンと共に撃ちまくれ！",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1082,6 +1159,7 @@
   "name": "ミュージックキット | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "\\\"Total Domination\\\"、\\\"The 8-Bit Kit\\\"、\\\"Crimson Assault\\\" の作曲家 Daniel Sadowski の新作となる \\\"Eye Of The Dragon\\\" は、ニンジャと銃とヒップホップとテクノを融合させたアクション満載のミュージックキット。<i>闇より一閃、須臾の間に敵を葬ってこそ忍とは申すなり。</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1096,6 +1174,7 @@
   "name": "StatTrak™ ミュージックキット | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "\\\"Total Domination\\\"、\\\"The 8-Bit Kit\\\"、\\\"Crimson Assault\\\" の作曲家 Daniel Sadowski の新作となる \\\"Eye Of The Dragon\\\" は、ニンジャと銃とヒップホップとテクノを融合させたアクション満載のミュージックキット。<i>闇より一閃、須臾の間に敵を葬ってこそ忍とは申すなり。</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1110,6 +1189,7 @@
   "name": "ミュージックキット | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "M.U.D.D. FORCE なる混沌の力を操る錬金術師、作曲家の Tree Adams と Ben Bromfielf が壮大な闘争のモチーフとうねり逆巻くシンセで描写する破壊の大嵐。",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1124,6 +1204,7 @@
   "name": "StatTrak™ ミュージックキット | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "M.U.D.D. FORCE なる混沌の力を操る錬金術師、作曲家の Tree Adams と Ben Bromfielf が壮大な闘争のモチーフとうねり逆巻くシンセで描写する破壊の大嵐。",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1138,6 +1219,7 @@
   "name": "ミュージックキット | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "作曲家 Tim Huling がクラシックなフィルム・ノワール風トラックにモダンなグルーヴとビートを加えたミュージックキット。",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1152,6 +1234,7 @@
   "name": "StatTrak™ ミュージックキット | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "作曲家 Tim Huling がクラシックなフィルム・ノワール風トラックにモダンなグルーヴとビートを加えたミュージックキット。",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1166,6 +1249,7 @@
   "name": "ミュージックキット | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "90年代のファンキーなゲーム音楽にインスパイアされた Sam Marshall のミュージックキット。古典ゲームへの郷愁を現代風にピリリと味付け。",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1180,6 +1264,7 @@
   "name": "StatTrak™ ミュージックキット | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "90年代のファンキーなゲーム音楽にインスパイアされた Sam Marshall のミュージックキット。古典ゲームへの郷愁を現代風にピリリと味付け。",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1194,6 +1279,7 @@
   "name": "ミュージックキット | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "作曲家 Matt Levine によるマカロニ・ウエスタンへのオマージュ。肩で風を切り、土埃を立てつつ、「やれよ、俺に撃たれたいならな」のキメ台詞を言える日が来た。",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1208,6 +1294,7 @@
   "name": "StatTrak™ ミュージックキット | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "作曲家 Matt Levine によるマカロニ・ウエスタンへのオマージュ。肩で風を切り、土埃を立てつつ、「やれよ、俺に撃たれたいならな」のキメ台詞を言える日が来た。",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1222,6 +1309,7 @@
   "name": "ミュージックキット | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "伝説的プロデューサー Amon Tobin は CS:GO でも独自の美的センスを発揮。真空管アンプによる表現が特徴のミュージックキット。",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1236,6 +1324,7 @@
   "name": "StatTrak™ ミュージックキット | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "伝説的プロデューサー Amon Tobin は CS:GO でも独自の美的センスを発揮。真空管アンプによる表現が特徴のミュージックキット。",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1250,6 +1339,7 @@
   "name": "Darren Korb, Hades ミュージックキット",
   "code": "hades_01",
   "description": "誰しも時として狙いを外すものだが、Supergiant のローグライク・ダンジョンアドベンチャー『Hades』の冥界から持ち込まれたこのミュージックキットはハズさない。",
+  "def_index": "51",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1264,6 +1354,7 @@
   "name": "ミュージックキット | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "アルバム「All Distortions Are Intentional」の楽曲を収めた Neck Deep の新作ミュージックキット。君が凡人なわけがない。マップ上の誰よりも優れていることを証明しろ。",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1278,6 +1369,7 @@
   "name": "StatTrak™ ミュージックキット | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "アルバム「All Distortions Are Intentional」の楽曲を収めた Neck Deep の新作ミュージックキット。君が凡人なわけがない。マップ上の誰よりも優れていることを証明しろ。",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1292,6 +1384,7 @@
   "name": "ミュージックキット | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "生々しいフロウとそれに見合うヘビーなトラック。CHAIN$AW で SCARLXRD はかつてない高みに到達した。",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1306,6 +1399,7 @@
   "name": "StatTrak™ ミュージックキット | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "生々しいフロウとそれに見合うヘビーなトラック。CHAIN$AW で SCARLXRD はかつてない高みに到達した。",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1320,6 +1414,7 @@
   "name": "ミュージックキット | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "ビアガーデンのアコーディオンポルカとグランジーなヘビーメタルを合体させたらどうなるか？ 人類の長年の問いに Austin Wintory が答える。",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1334,6 +1429,7 @@
   "name": "StatTrak™ ミュージックキット | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "ビアガーデンのアコーディオンポルカとグランジーなヘビーメタルを合体させたらどうなるか？ 人類の長年の問いに Austin Wintory が答える。",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1348,6 +1444,7 @@
   "name": "ミュージックキット | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "チップチューンのレジェンドとして名高いゲーム音楽作曲者の Chipzel が、知育玩具の名品「Speak & Spell」にインスパイアされて製作した、楽しくファンキーで味わい深いミュージックキット。",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1362,6 +1459,7 @@
   "name": "StatTrak™ ミュージックキット | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "チップチューンのレジェンドとして名高いゲーム音楽作曲者の Chipzel が、知育玩具の名品「Speak & Spell」にインスパイアされて製作した、楽しくファンキーで味わい深いミュージックキット。",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1376,6 +1474,7 @@
   "name": "ミュージックキット | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "「オペラ x 8ビットサウンド x アナログシンセ」ときたら、愛さずにはいられまい。チップチューンのスペシャリスト Freaky DNA がソプラノ歌手 Leanne Koch と組んで、ヘビーなビートを遊びつくす！",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1390,6 +1489,7 @@
   "name": "StatTrak™ ミュージックキット | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "「オペラ x 8ビットサウンド x アナログシンセ」ときたら、愛さずにはいられまい。チップチューンのスペシャリスト Freaky DNA がソプラノ歌手 Leanne Koch と組んで、ヘビーなビートを遊びつくす！",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1404,6 +1504,7 @@
   "name": "ミュージックキット | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "作曲家 Jesse Harlin が主に70～80年代の古典SFにインスパイアされて制作した、けれん味たっぷりのスペースオペラ。",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1418,6 +1519,7 @@
   "name": "StatTrak™ ミュージックキット | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "作曲家 Jesse Harlin が主に70～80年代の古典SFにインスパイアされて制作した、けれん味たっぷりのスペースオペラ。",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1432,6 +1534,7 @@
   "name": "ミュージックキット | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "作曲家兼ゲーム開発者の Laura Shigihara が、MVP獲得の喜びを皆に伝えてくれる。90年代のダンスミュージックにレトロゲームのシンセサウンドをブレンドし、隠し味に『Plants vs. Zombies』を加えた楽しくユニークな楽曲集。",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1446,6 +1549,7 @@
   "name": "StatTrak™ ミュージックキット | Laura Shigihara: Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "作曲家兼ゲーム開発者の Laura Shigihara が、MVP獲得の喜びを皆に伝えてくれる。90年代のダンスミュージックにレトロゲームのシンセサウンドをブレンドし、隠し味に『Plants vs. Zombies』を加えた楽しくユニークな楽曲集。",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1460,6 +1564,7 @@
   "name": "ミュージックキット | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Sarah Schachner 作のミュージックキット。自己認識能力を獲得し人類抹消を決断したスカンジナビアのロボットたちによる、ディストピア感あふれるゴシックコーラス。",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1474,6 +1579,7 @@
   "name": "StatTrak™ ミュージックキット | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Sarah Schachner 作のミュージックキット。自己認識能力を獲得し人類抹消を決断したスカンジナビアのロボットたちによる、ディストピア感あふれるゴシックコーラス。",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1488,6 +1594,7 @@
   "name": "ミュージックキット | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "bbno$ が生み出したトキシックなゲーマーのためのアンセム。「キレてんの？ なら練習しとけw」このミュージックキットでプレイすると、シルバーからグローバルエリートまで一気に駆け上がれるという研究結果が出ている。",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1502,6 +1609,7 @@
   "name": "StatTrak™ ミュージックキット | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "bbno$ が生み出したトキシックなゲーマーのためのアンセム。「キレてんの？ なら練習しとけw」このミュージックキットでプレイすると、シルバーからグローバルエリートまで一気に駆け上がれるという研究結果が出ている。",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1516,6 +1624,7 @@
   "name": "ミュージックキット | The Verkkars & n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "晴天のカリフォルニアから極寒のラップランドまで、Counter-Strike のレジェンドである n0thing と The Verkkars が協力して生み出したスマッシュヒットが「Flashbang Dance」だ。3、2、1… あ、目が見えない！",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1530,6 +1639,7 @@
   "name": "StatTrak™ ミュージックキット | The Verkkars & n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "晴天のカリフォルニアから極寒のラップランドまで、Counter-Strike のレジェンドである n0thing と The Verkkars が協力して生み出したスマッシュヒットが「Flashbang Dance」だ。3、2、1… あ、目が見えない！",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1544,6 +1654,7 @@
   "name": "ミュージックキット | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "プロを目指して邁進中？ それとも意図せず低迷中？ 80年代シンセと揺蕩うメロディに身を任せれば、どんな人でもあの頃に戻れるはず。ずっと、ずっと昔... 楽しかったあの頃に。",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1558,6 +1669,7 @@
   "name": "StatTrak™ ミュージックキット | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "プロを目指して邁進中？ それとも意図せず低迷中？ 80年代シンセと揺蕩うメロディに身を任せれば、どんな人でもあの頃に戻れるはず。ずっと、ずっと昔... 楽しかったあの頃に。",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1572,6 +1684,7 @@
   "name": "ミュージックキット | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "スウェーデンのバンド Humanity's Last Breath のミュージックキット「Void」。激しいドラムスとスケール感のあるリフに背筋がゾクゾクするはず。",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1586,6 +1699,7 @@
   "name": "StatTrak™ ミュージックキット | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "スウェーデンのバンド Humanity's Last Breath のミュージックキット「Void」。激しいドラムスとスケール感のあるリフに背筋がゾクゾクするはず。",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1600,6 +1714,7 @@
   "name": "ミュージックキット | Juelz, Shooters",
   "code": "juelz_01",
   "description": "ネオトラップシンセ、808のザラついた響き、壮大なピアノリフ、そしてあふれ出す銃声エフェクト。Juelz によるOGトラップのアンセム「Shooters」は、MVPにこそふさわしい、真のエリートのためのミュージックキットだ。",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1614,6 +1729,7 @@
   "name": "StatTrak™ ミュージックキット | Juelz, Shooters",
   "code": "juelz_01",
   "description": "ネオトラップシンセ、808のザラついた響き、壮大なピアノリフ、そしてあふれ出す銃声エフェクト。Juelz によるOGトラップのアンセム「Shooters」は、MVPにこそふさわしい、真のエリートのためのミュージックキットだ。",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1628,6 +1744,7 @@
   "name": "ミュージックキット | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "サンディエゴ出身の Knock2 が贈るベースハウスのアンセム「dashstar*」は、この若き才能のモットーである「ノーリミット」そのままの、とどまるところを知らないエネルギーを感じさせる。",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1642,6 +1759,7 @@
   "name": "StatTrak™ ミュージックキット | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "サンディエゴ出身の Knock2 が贈るベースハウスのアンセム「dashstar*」は、この若き才能のモットーである「ノーリミット」そのままの、とどまるところを知らないエネルギーを感じさせる。",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1656,6 +1774,7 @@
   "name": "ミュージックキット | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Glock を装備してこのミュージックキットをかけ、ニューヨークのアングラヒップホップシーンの中心地へと旅立とう。",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1670,6 +1789,7 @@
   "name": "StatTrak™ ミュージックキット | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Glock を装備してこのミュージックキットをかけ、ニューヨークのアングラヒップホップシーンの中心地へと旅立とう。",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1684,6 +1804,7 @@
   "name": "ミュージックキット | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "ギリギリのチェイスを愛するならば、ハードロックとメタルとダブステップが激突する Sullivan King のサントラで駆け抜けろ。",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1698,6 +1819,7 @@
   "name": "StatTrak™ ミュージックキット | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "ギリギリのチェイスを愛するならば、ハードロックとメタルとダブステップが激突する Sullivan King のサントラで駆け抜けろ。",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1712,6 +1834,7 @@
   "name": "ミュージックキット | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "CS:GO の中国リリース5周年を記念して制作された「花脸 Hua Lian (Painted Face)」は、中国最古のロックンロールとも言える古典演劇「秦腔」と現代のロックを融合した超個性派のミュージックキット。スモークに包まれようと、フラッシュグレネードで視界を奪われようと、迷わず進め！",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1726,6 +1849,7 @@
   "name": "StatTrak™ ミュージックキット | Perfect World, 花脸 Hua Lian (Painted Face)",
   "code": "perfectworld_01",
   "description": "CS:GO の中国リリース5周年を記念して制作された「花脸 Hua Lian (Painted Face)」は、中国最古のロックンロールとも言える古典演劇「秦腔」と現代のロックを融合した超個性派のミュージックキット。スモークに包まれようと、フラッシュグレネードで視界を奪われようと、迷わず進め！",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1740,6 +1864,7 @@
   "name": "ミュージックキット | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "トラップ、ジャズ、そしてドラムンベースの垣根を渡りつつ、Denzel Curry が持ち前のエネルギーを CS:GO に注ぎ込む。ヒット曲「Walkin」「ULTIMATE」をはじめとする楽曲を収めた究極のミュージックキットをかけ、クロームニッケルメッキのベレッタでガンガン攻めろ。",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1754,6 +1879,7 @@
   "name": "StatTrak™ ミュージックキット | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "トラップ、ジャズ、そしてドラムンベースの垣根を渡りつつ、Denzel Curry が持ち前のエネルギーを CS:GO に注ぎ込む。ヒット曲「Walkin」「ULTIMATE」をはじめとする楽曲を収めた究極のミュージックキットをかけ、クロームニッケルメッキのベレッタでガンガン攻めろ。",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1768,6 +1894,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "2012年の CS:GO ローンチ時にリリースされた CS:GO のデフォルトミュージックキット。",
+  "def_index": "70",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1782,6 +1909,7 @@
   "name": "ミュージックキット | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "説明は不要でしょう。このパワーを感じて。DRYDEN のエネルギーあふれるエレクトロミュージックキットでロックイン。",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1796,6 +1924,7 @@
   "name": "StatTrak™ミュージックキット | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "説明は不要でしょう。このパワーを感じて。DRYDEN のエネルギーあふれるエレクトロミュージックキットでロックイン。",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1810,6 +1939,7 @@
   "name": "ミュージックキット | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "<i>違い</i>を感じられるゲームのために製作されたもの。ISOxo の \\\"inhuman\\\" なミュージックキットでラウンドのたびに敵を悩ませろ。",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1824,6 +1954,7 @@
   "name": "StatTrak™ ミュージックキット | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "<i>違い</i>を感じられるゲームのために製作されたもの。ISOxo の \\\"inhuman\\\" なミュージックキットでラウンドのたびに敵を悩ませろ。",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1838,6 +1969,7 @@
   "name": "ミュージックキット | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "愛の者か、戦う者か？はたまたその両方か？ KILL SCRIPT の \\\"All Night\\\" ミュージックキットでロビー全体に知らしめよ。",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1852,6 +1984,7 @@
   "name": "StatTrak™ ミュージックキット | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "愛の者か、戦う者か？はたまたその両方か？ KILL SCRIPT の \\\"All Night\\\" ミュージックキットでロビー全体に知らしめよ。",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1866,6 +1999,7 @@
   "name": "ミュージックキット | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "どんなゲームもメジャー・グランドファイナルと同じように考えるプレイヤー向け。たとえわずか数百の CSR しかかかっていないゲームでも。Knock2 の第2弾のミュージックキット 「Make U SWEAT!」でパワーと勝利をその手に。",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1880,6 +2014,7 @@
   "name": "StatTrak™ ミュージックキット | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "どんなゲームもメジャー・グランドファイナルと同じように考えるプレイヤー向け。たとえわずか数百の CSR しかかかっていないゲームでも。Knock2 の第2弾のミュージックキット 「Make U SWEAT!」でパワーと勝利をその手に。",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1894,6 +2029,7 @@
   "name": "ミュージックキット | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "爆弾を解除するだけでラウンドの MVP になることも。Rad Cat の \\\"Reason\\\" ミュージックキットで、些細な瞬間、決定的な瞬間、あらゆる瞬間を祝福して。",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1908,6 +2044,7 @@
   "name": "StatTrak™ ミュージックキット | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "爆弾を解除するだけでラウンドの MVP になることも。Rad Cat の \\\"Reason\\\" ミュージックキットで、些細な瞬間、決定的な瞬間、あらゆる瞬間を祝福して。",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1922,6 +2059,7 @@
   "name": "ミュージックキット | TWERL, Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "スポットライトを浴びているときほど、生きていると思える最高の瞬間はない。TWERL, Ekko & Sidetrack によるドラムンベースのアンセム \\\"Under Bright Lights\\\" であなたとチームを新たな高みへと導いて。",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1936,6 +2074,7 @@
   "name": "StatTrak™ ミュージックキット | TWERL and Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "スポットライトを浴びているときほど、生きていると思える最高の瞬間はない。TWERL, Ekko & Sidetrack によるドラムンベースのアンセム \\\"Under Bright Lights\\\" であなたとチームを新たな高みへと導いて。",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1950,6 +2089,7 @@
   "name": "ミュージックキット | Austin Wintory, The Devil Went Clubbing In Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory が悪魔と契約。悪魔的なフィドル音楽と EDMクラブのバキバキのバイブスを融合させて。",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1964,6 +2104,7 @@
   "name": "StatTrak™ ミュージックキット | Austin Wintory, The Devil Went Clubbing In Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory が悪魔と契約。悪魔的なフィドル音楽と EDMクラブのバキバキのバイブスを融合させて。",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1978,6 +2119,7 @@
   "name": "ミュージックキット | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "なんて裏切り！映画や TV の作曲家 Ben Bromfield が手掛けた一か八かの不穏な緊張感漂うジャズ風サウンドトラックを体感して。このウサギの穴の深さを暴いて…",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -1992,6 +2134,7 @@
   "name": "StatTrak™ ミュージックキット | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "なんて裏切り！映画や TV の作曲家 Ben Bromfield が手掛けた一か八かの不穏な緊張感漂うジャズ風サウンドトラックを体感して。このウサギの穴の深さを暴いて…",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2006,6 +2149,7 @@
   "name": "ミュージックキット | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski が誘う \\\"Dead Shot\\\" の世界へ。アクション、ヒップホップ、オーケストラ、エレクトロニック、レトロ、エモーションそしてサウンドデザインが融合したハイブレッドなサウンド。頭を怠けさせるな！",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2020,6 +2164,7 @@
   "name": "StatTrak™ ミュージックキット | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski が誘う \\\"Dead Shot\\\" の世界へ。アクション、ヒップホップ、オーケストラ、エレクトロニック、レトロ、エモーションそしてサウンドデザインが融合したハイブレッドなサウンド。頭を怠けさせるな！",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2034,6 +2179,7 @@
   "name": "ミュージックキット | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "カフェインはあなたの味方、いえ、みんなの味方。でも、敵は例外！ \\\"Coffee! Kofe! Kahveh!\\\" は、\\\"Gunman Taco Truck\\\" や \\\"Death’s Head Demolition\\\" を手掛けた Dren Mcdonald による、Balkancisco でライブ録音にされた まさにバルカンバルカンバルカンなストリートパーティのブラスミュージック。",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2048,6 +2194,7 @@
   "name": "StatTrak™ ミュージックキット | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "カフェインはあなたの味方、いえ、みんなの味方。でも、敵は例外！ \\\"Coffee! Kofe! Kahveh!\\\" は、\\\"Gunman Taco Truck\\\" や \\\"Death’s Head Demolition\\\" を手掛けた Dren Mcdonald による、Balkancisco でライブ録音にされた まさにバルカンバルカンバルカンなストリートパーティのブラスミュージック。",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2062,6 +2209,7 @@
   "name": "ミュージックキット | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "作曲家 Matt Levine による \\\"Agency\\\" ミュージックキット。危険なスパイの世界に足を踏み入れて。",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2076,6 +2224,7 @@
   "name": "StatTrak™ ミュージックキット | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "作曲家 Matt Levine による \\\"Agency\\\" ミュージックキット。危険なスパイの世界に足を踏み入れて。",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2090,6 +2239,7 @@
   "name": "ミュージックキット | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "\\\"Bodacious\\\" の非公認続編、\\\"Clutch\\\"。Sam Marshall が錬金術と秘密の儀式を駆使して蘇らせた熱狂的な悪夢のサイバーファンク。",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2104,6 +2254,7 @@
   "name": "StatTrak™ ミュージックキット | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "\\\"Bodacious\\\" の非公認続編、\\\"Clutch\\\"。Sam Marshall が錬金術と秘密の儀式を駆使して蘇らせた熱狂的な悪夢のサイバーファンク。",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2118,6 +2269,7 @@
   "name": "ミュージックキット | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Tim Huling による \\\"Devil's Paintbrush\\\" でアドレナリンを全開に。エネルギッシュなグルーヴメタルを体験して。",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2132,6 +2284,7 @@
   "name": "StatTrak™ ミュージックキット | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Tim Huling による \\\"Devil's Paintbrush\\\" でアドレナリンを全開に。エネルギッシュなグルーヴメタルを体験して。",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2146,6 +2299,7 @@
   "name": "ミュージックキット | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "\\\"Seventh Moon\\\" では、Tree Adams が銀河系ファンクとノリノリのバトルチューンを思うがままにミックス。",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2160,6 +2314,7 @@
   "name": "StatTrak™ ミュージックキット | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "\\\"Seventh Moon\\\" では、Tree Adams が銀河系ファンクとノリノリのバトルチューンを思うがままにミックス。",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2174,6 +2329,7 @@
   "name": "ミュージックキット | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "伝統的な中国民謡とエレクトロニックミュージックを融合させた \\\"Ay Hey\\\" は、リアルなストーリーとエネルギッシュなビートでさまざま年代や背景のプレイヤーをつなぐ。弾むようなリズムが、プレイヤーのゲームへの熱狂とパーフェクトにマッチ。\\\"Ay Hey\\\" がユーモアや遊び心あふれるさまざまな戦闘シーンを鮮やかに描き出す。",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2188,6 +2344,7 @@
   "name": "StatTrak™ ミュージックキット | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "伝統的な中国民謡とエレクトロニックミュージックを融合させた \\\"Ay Hey\\\" は、リアルなストーリーとエネルギッシュなビートでさまざま年代や背景のプレイヤーをつなぐ。弾むようなリズムが、プレイヤーのゲームへの熱狂とパーフェクトにマッチ。\\\"Ay Hey\\\" がユーモアや遊び心あふれるさまざまな戦闘シーンを鮮やかに描き出す。",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2202,6 +2359,7 @@
   "name": "ミュージックキット | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "スウェーデンのテクノレジェンド Adam Beyer が生み出すベルティングトラックに包まれ、夢心地のまま敵を赤く染めろ。",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2216,6 +2374,7 @@
   "name": "StatTrak™ ミュージックキット | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "スウェーデンのテクノレジェンド Adam Beyer が生み出すベルティングトラックに包まれ、夢心地のまま敵を赤く染めろ。",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2230,6 +2389,7 @@
   "name": "ミュージックキット | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "お知らせ――ペルペトゥアヌス五世猊下が Counter-Strike 界に降臨し、栄えあるヘビーメタル・スペクタクルを披露なさいます。日常の些事を忘れ、恐慌庁に祈りと弾薬を捧げましょう。",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2244,6 +2404,7 @@
   "name": "StatTrak™ ミュージックキット | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "お知らせ――ペルペトゥアヌス五世猊下が Counter-Strike 界に降臨し、栄えあるヘビーメタル・スペクタクルを披露なさいます。日常の些事を忘れ、恐慌庁に祈りと弾薬を捧げましょう。",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2258,6 +2419,7 @@
   "name": "ミュージックキット | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Counter-Strike で体験する HEALTH の世界。武器を手にして、冷酷で痛烈な RAT WARS のインダストリアルメタル・サウンドを浴びよう。",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2272,6 +2434,7 @@
   "name": "StatTrak™ ミュージックキット | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Counter-Strike で体験する HEALTH の世界。武器を手にして、冷酷で痛烈な RAT WARS のインダストリアルメタル・サウンドを浴びよう。",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2286,6 +2449,7 @@
   "name": "ミュージックキット | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "ウェールズのロックデュオ James and the Cold Gun が放つピュアで生々しいエネルギー。昔ながらのパンク魂に現代オルタナロックの熱を加えて生み出した、ヤケド注意のミュージックキット。",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2300,6 +2464,7 @@
   "name": "StatTrak™ ミュージックキット | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "ウェールズのロックデュオ James and the Cold Gun が放つピュアで生々しいエネルギー。昔ながらのパンク魂に現代オルタナロックの熱を加えて生み出した、ヤケド注意のミュージックキット。",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2314,6 +2479,7 @@
   "name": "ミュージックキット | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "君のゲームに欠けているのは、宇宙海賊パワーメタルだ。宇宙船ヴェロキラプトルに乗り込んで、アニメやゲームにインスパイアされた Jonathan Young のアルバムサウンドと共に異次元のプレイを繰り出せ。",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2328,6 +2494,7 @@
   "name": "StatTrak™ ミュージックキット | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "君のゲームに欠けているのは、宇宙海賊パワーメタルだ。宇宙船ヴェロキラプトルに乗り込んで、アニメやゲームにインスパイアされた Jonathan Young のアルバムサウンドと共に異次元のプレイを繰り出せ。",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2342,6 +2509,7 @@
   "name": "ミュージックキット | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "フロア、空けとく？ Juelz のデビューアルバムを採用したこの大型ミュージックキットは、ネオレイブのシンセ、太いベースライン、トラップドラムのハードヒットに彩られている。Counter-Strike 2 のために再考された「Floorspace」のMVP 祝歌 “Gossip” を聴いたプレイヤーは、LEDのウォールを設置し、そして打ち壊したくなるだろう。",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2356,6 +2524,7 @@
   "name": "StatTrak™ ミュージックキット | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "フロア、空けとく？ Juelz のデビューアルバムを採用したこの大型ミュージックキットは、ネオレイブのシンセ、太いベースライン、トラップドラムのハードヒットに彩られている。Counter-Strike 2 のために再考された「Floorspace」のMVP 祝歌 “Gossip” を聴いたプレイヤーは、LEDのウォールを設置し、そして打ち壊したくなるだろう。",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2370,6 +2539,7 @@
   "name": "ミュージックキット | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "グラミー賞３部門に輝いたヒップホップアルバムを Counter-Strike の世界で堪能しよう。Killer Mike の声でモチベーションを保ち、スキルを磨いてランキングを駆けあがれ。",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2384,6 +2554,7 @@
   "name": "StatTrak™ ミュージックキット | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "グラミー賞３部門に輝いたヒップホップアルバムを Counter-Strike の世界で堪能しよう。Killer Mike の声でモチベーションを保ち、スキルを磨いてランキングを駆けあがれ。",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2398,6 +2569,7 @@
   "name": "ミュージックキット | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "我々が好敵手以上に愛するもの、それは上質なサウンドトラックだ。PVRISの新作ミュージックキットでチームのテンションを上げて、連勝の勢いを枯らさないようにしよう。",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2412,6 +2584,7 @@
   "name": "StatTrak™ ミュージックキット | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "我々が好敵手以上に愛するもの、それは上質なサウンドトラックだ。PVRISの新作ミュージックキットでチームのテンションを上げて、連勝の勢いを枯らさないようにしよう。",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2426,6 +2599,7 @@
   "name": "ミュージックキット | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "アメリカのテクノアイコン Selective Response によるダイナミックかつエネルギッシュなミュージックキットで欲望を解き放て。チャージが済んだら、出撃だ。",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2440,6 +2614,7 @@
   "name": "StatTrak™ ミュージックキット | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "アメリカのテクノアイコン Selective Response によるダイナミックかつエネルギッシュなミュージックキットで欲望を解き放て。チャージが済んだら、出撃だ。",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2454,6 +2629,7 @@
   "name": "ミュージックキット | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "イギリスのロックバンド Tigercub が図太くパンチのあるメロディを奏でる――オルタナロックの激しさと陰鬱で現代的なエッジを融合させたミュージックキット。",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",
@@ -2468,6 +2644,7 @@
   "name": "StatTrak™ ミュージックキット | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "イギリスのロックバンド Tigercub が図太くパンチのあるメロディを奏でる――オルタナロックの激しさと陰鬱で現代的なエッジを融合させたミュージックキット。",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "ハイグレード",

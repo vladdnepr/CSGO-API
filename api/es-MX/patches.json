@@ -4,6 +4,7 @@
   "name": "Parche | Banana loca",
   "code": "patch_banana",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Agente de referencia</i>.",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -17,6 +18,7 @@
   "name": "Parche | El jefe",
   "code": "patch_boss",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Inquieto vive el agente que porta la corona</i>.",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -30,6 +32,7 @@
   "name": "Parche | Amante de los pollos",
   "code": "patch_chickenlover",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Gracias por perdonarles la vida</i>.",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -43,6 +46,7 @@
   "name": "Parche | Welcome to the Clutch",
   "code": "patch_clutch",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>El agente que tiene este parche mata, como mínimo, a 4 por ronda</i>.",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -56,6 +60,7 @@
   "name": "Parche | Dragón",
   "code": "patch_dragon",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe un dragón en el centro y el emblemático AK-47 a cada lado</i>.",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -69,6 +74,7 @@
   "name": "Parche | Easy Peasy",
   "code": "patch_easypeasy",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche logró pasar el control de calidad con \\\"SQUEEZY\\\" mal escrito como \\\"SQEEZY\\\"</i>.",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -82,6 +88,7 @@
   "name": "Parche | Furia",
   "code": "patch_fury",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Un parche que simboliza la furia, el enojo y la ira</i>.",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -95,6 +102,7 @@
   "name": "Parche | Aullido",
   "code": "patch_howl",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche vale su peso en rojo, naranja y dorado</i>.",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -108,6 +116,7 @@
   "name": "Parche | Koi",
   "code": "patch_koi",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche tiene dos peces koi nadando en círculos sobre agua azul</i>.",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -121,6 +130,7 @@
   "name": "Parche | Longevidad",
   "code": "patch_longevity",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche rojo y blanco le da un toque artístico al logo \\\"CSGO\\\"</i>.",
+  "def_index": "4559",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -134,6 +144,7 @@
   "name": "Parche | Wildfire",
   "code": "patch_wildfire",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de la Operación Wildfire, a la que se dio comienzo el 17 de febrero de 2016</i>.",
+  "def_index": "4560",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -147,6 +158,7 @@
   "name": "Parche | Vigilancia",
   "code": "patch_vigilance",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>El parche del acechador: un compañero que no te quita el ojo de encima</i>.",
+  "def_index": "4561",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -160,6 +172,7 @@
   "name": "Parche | Bloodhound",
   "code": "patch_bloodhound",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de la Operación Bloodhound, a la que se dio comienzo el 26 de mayo de 2015</i>.",
+  "def_index": "4562",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -173,6 +186,7 @@
   "name": "Parche | Bravo",
   "code": "patch_bravo",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de la Operación Bravo, a la que se dio comienzo el 19 de septiembre de 2013</i>.",
+  "def_index": "4563",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -186,6 +200,7 @@
   "name": "Parche | Breakout",
   "code": "patch_breakout",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de la Operación Breakout, a la que se dio comienzo el 1 de julio de 2014</i>.",
+  "def_index": "4564",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -199,6 +214,7 @@
   "name": "Parche | Danger Zone",
   "code": "patch_dangerzone",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de Danger Zone, a la que se dio comienzo el 6 de diciembre de 2018</i>.",
+  "def_index": "4565",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -212,6 +228,7 @@
   "name": "Parche | Hydra",
   "code": "patch_hydra",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de la Operación Hydra, a la que se dio comienzo el 23 de mayo de 2017</i>.",
+  "def_index": "4566",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -225,6 +242,7 @@
   "name": "Parche | Payback",
   "code": "patch_payback",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de la Operación Payback, a la que se dio comienzo el 25 de abril de 2013</i>.",
+  "def_index": "4567",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -238,6 +256,7 @@
   "name": "Parche | Phoenix",
   "code": "patch_phoenix",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de la Operación Phoenix, a la que se dio comienzo el 20 de febrero de 2014</i>.",
+  "def_index": "4568",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -251,6 +270,7 @@
   "name": "Parche | Shattered Web",
   "code": "patch_shatteredweb",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de la Operación Shattered Web, a la que se dio comienzo el 18 de noviembre de 2019</i>.",
+  "def_index": "4569",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -264,6 +284,7 @@
   "name": "Parche | Vanguard",
   "code": "patch_vanguard",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche exhibe iconografía de la Operación Vanguard, a la que se dio comienzo el 11 de noviembre de 2014</i>.",
+  "def_index": "4570",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -277,6 +298,7 @@
   "name": "Parche | Plata (metal)",
   "code": "patch_silver",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Un parche para aquellos que dan su primer paso en el camino hacia Élite Mundial</i>.",
+  "def_index": "4571",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -290,6 +312,7 @@
   "name": "Parche | Nova dorada I (metal)",
   "code": "patch_goldnova1",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>¿Pasaste de plata? Aún queda mucho por hacer</i>.",
+  "def_index": "4572",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -303,6 +326,7 @@
   "name": "Parche | Maestro de Nova dorada (metal)",
   "code": "patch_goldnovamaster",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Y pensabas que el de plata era difícil de conseguir..</i>.",
+  "def_index": "4575",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -316,6 +340,7 @@
   "name": "Parche | Guardián Maestro I (metal)",
   "code": "patch_masterguardian1",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>¿Has dejado atrás el Nova dorada? Bien, estás aprendiendo</i>.",
+  "def_index": "4576",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -329,6 +354,7 @@
   "name": "Parche | Guardián Maestro de Élite (metal)",
   "code": "patch_masterguardianelite",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Diseñado por expertos, el hilo plateado de este parche de Guardián Maestro de Élite destaca sobre el fondo azul marino</i>.",
+  "def_index": "4578",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -342,6 +368,7 @@
   "name": "Parche | Guardián Maestro Distinguido ★ (metal)",
   "code": "patch_dmg",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Los individuos deben ceder, adaptarse y trabajar juntos para alcanzar el grupo de habilidades de Guardián Maestro Distinguido. Sigue escalando</i>.",
+  "def_index": "4579",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -355,6 +382,7 @@
   "name": "Parche | Águila Legendaria Maestra ★ (metal)",
   "code": "patch_legendaryeaglemaster",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Te acercas a la cima, pero aquellos que esperan tu desafío no tendrán piedad</i>.",
+  "def_index": "4581",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -368,6 +396,7 @@
   "name": "Parche | Maestro Supremo de Primera Clase (metal)",
   "code": "patch_supreme",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche Supremo incluye un globo en forma de corazón y detalles en rojo y azul</i>.",
+  "def_index": "4582",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -381,6 +410,7 @@
   "name": "Parche | La Élite Mundial ★ (metal)",
   "code": "patch_globalelite",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Felicidades, lo lograste. Ahora comienza el verdadero desafío</i>.",
+  "def_index": "4583",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -394,6 +424,7 @@
   "name": "Parche | Guardián Maestro Distinguido (metal)",
   "code": "patch_dmg2",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Los individuos deben ceder, adaptarse y trabajar juntos para alcanzar el grupo de habilidades de Guardián Maestro Distinguido. Sigue escalando</i>.",
+  "def_index": "4584",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -407,6 +438,7 @@
   "name": "Parche | Águila Legendaria (metal)",
   "code": "patch_legendaryeagle2",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Este parche de Águila Legendaria incluye un par de alas doradas</i>.",
+  "def_index": "4585",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -420,6 +452,7 @@
   "name": "Parche | Águila Legendaria Maestra (metal)",
   "code": "patch_legendaryeaglemaster2",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Te acercas a la cima, pero aquellos que esperan tu desafío no tendrán piedad</i>.",
+  "def_index": "4586",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -433,6 +466,7 @@
   "name": "Parche | Demonio Plateado (metal)",
   "code": "patch_silver_demon",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>\\\"Silver Hell\\\" no es un lugar, es un estado mental. Y puedes retirarte en cualquier momento</i>.",
+  "def_index": "4587",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -446,6 +480,7 @@
   "name": "Parche | Maestro Supremo (metal)",
   "code": "patch_suprememaster",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Un kit alado rodeado por seis estrellas en este parche de Maestro Supremo de Primera Clase</i>.",
+  "def_index": "4588",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -459,6 +494,7 @@
   "name": "Parche | Alyx",
   "code": "patch_hlalyx_alyx",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4589",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -472,6 +508,7 @@
   "name": "Parche | ¡Sustento!",
   "code": "patch_hlalyx_headcrab_green",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4591",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -485,6 +522,7 @@
   "name": "Parche | Vortigaunt",
   "code": "patch_hlalyx_vort",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4592",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -498,6 +536,7 @@
   "name": "Parche | Glifo de cangrejo",
   "code": "patch_hlalyx_headcrab_teal",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4593",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -511,6 +550,7 @@
   "name": "Parche | Lambda de cobre",
   "code": "patch_hlalyx_lambda_copper",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4594",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -524,6 +564,7 @@
   "name": "Parche | Salud",
   "code": "patch_hlalyx_hearts",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4595",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -537,6 +578,7 @@
   "name": "Parche | Casco de la Alianza",
   "code": "patch_hlalyx_combine_front",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4596",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -550,6 +592,7 @@
   "name": "Parche | Black Mesa",
   "code": "patch_hlalyx_blackmesa",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4597",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -563,6 +606,7 @@
   "name": "Parche | La Alianza",
   "code": "patch_hlalyx_cmb",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4598",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -576,6 +620,7 @@
   "name": "Parche | Lambda",
   "code": "patch_hlalyx_lambda_orange",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4599",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -589,6 +634,7 @@
   "name": "Parche | Ciudad 17",
   "code": "patch_hlalyx_c17",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br>Parche conmemorativo de Half-Life: Alyx",
+  "def_index": "4600",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -602,6 +648,7 @@
   "name": "Parche | La Élite Mundial (metal)",
   "code": "patch_globalelite2",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Felicidades, lo lograste. Ahora comienza el verdadero desafío</i>.",
+  "def_index": "4697",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -615,6 +662,7 @@
   "name": "Parche | Guardián Maestro I (metal)",
   "code": "patch_masterguardian3",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>¿Has dejado atrás el Nova dorada? Bien, estás aprendiendo</i>.",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -628,6 +676,7 @@
   "name": "Parche | Nova dorada I (metal)",
   "code": "patch_goldnova4",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>¿Pasaste de plata? Aún queda mucho por hacer</i>.",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -641,6 +690,7 @@
   "name": "Parche | Perder la esperanza",
   "code": "patch_op11_abandon_hope",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Todos los que osen entrar...</i>",
+  "def_index": "4937",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -654,6 +704,7 @@
   "name": "Parche | Leven anclas",
   "code": "patch_op11_anchor",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Manteniendo la calma en aguas tormentosas...</i>",
+  "def_index": "4938",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -667,6 +718,7 @@
   "name": "Parche | Mantarraya viajera",
   "code": "patch_op11_cruising",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Se desliza bajo las olas...</i>",
+  "def_index": "4939",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -680,6 +732,7 @@
   "name": "Parche | Rana bayoneta",
   "code": "patch_op11_frog_skeleton",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>No te rindas hasta el final...</i>",
+  "def_index": "4940",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -693,6 +746,7 @@
   "name": "Parche | Sushi enojado",
   "code": "patch_op11_mad_sushi",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>¡Arrasa al enemigo!</i>",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -706,6 +760,7 @@
   "name": "Parche | Calamar gigante",
   "code": "patch_op11_pink_squid",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Lleva a sus víctimas hasta las profundidades...</i>",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -719,6 +774,7 @@
   "name": "Parche | El pirata",
   "code": "patch_op11_piranha",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Mordidas pequeñas; trabajo en equipo...</i>",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -732,6 +788,7 @@
   "name": "Parche | Muerte desde abajo",
   "code": "patch_op11_siren",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Mira hacia arriba...</i>",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -745,6 +802,7 @@
   "name": "Parche | Hombres muertos",
   "code": "patch_op11_skull_crossswords",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Emblema universal de peligro...</i>",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -758,6 +816,7 @@
   "name": "Parche | Ola del ocaso",
   "code": "patch_op11_sunset_wave",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Un nuevo día en el océano...</i>",
+  "def_index": "4946",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -771,6 +830,7 @@
   "name": "Parche | Ofensiva acuática",
   "code": "patch_op11_fish_go",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Pescado para llevar</i>",
+  "def_index": "4947",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -784,6 +844,7 @@
   "name": "Parche | Dios antiguo",
   "code": "patch_op11_cthulhu",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Cthulhu aprueba a quienes desactivan...</i>",
+  "def_index": "4948",
   "rarity": {
    "id": "rarity_legendary",
    "name": "de aspecto exótico",
@@ -797,6 +858,7 @@
   "name": "Parche | Hora de comer",
   "code": "patch_op11_meal_time",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.<br><br><i>Con hambre de victoria...</i>",
+  "def_index": "4949",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -810,6 +872,7 @@
   "name": "Parche | Ninjas in Pyjamas | Estocolmo 2021",
   "code": "stockh2021_teampatch_nip",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5079",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -823,6 +886,7 @@
   "name": "Parche | Ninjas in Pyjamas (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_nip_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5080",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -836,6 +900,7 @@
   "name": "Parche | FURIA | Estocolmo 2021",
   "code": "stockh2021_teampatch_furi",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5081",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -849,6 +914,7 @@
   "name": "Parche | FURIA (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_furi_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5082",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -862,6 +928,7 @@
   "name": "Parche | Natus Vincere | Estocolmo 2021",
   "code": "stockh2021_teampatch_navi",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5083",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -875,6 +942,7 @@
   "name": "Parche | Natus Vincere (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_navi_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5084",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -888,6 +956,7 @@
   "name": "Parche | Vitality | Estocolmo 2021",
   "code": "stockh2021_teampatch_vita",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5085",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -901,6 +970,7 @@
   "name": "Parche | Vitality (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_vita_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5086",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -914,6 +984,7 @@
   "name": "Parche | Team Liquid | Estocolmo 2021",
   "code": "stockh2021_teampatch_liq",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5087",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -927,6 +998,7 @@
   "name": "Parche | Team Liquid (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_liq_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5088",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -940,6 +1012,7 @@
   "name": "Parche | Gambit Gaming | Estocolmo 2021",
   "code": "stockh2021_teampatch_gamb",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5089",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -953,6 +1026,7 @@
   "name": "Parche | Gambit Gaming (dorada) | Stockholm 2021",
   "code": "stockh2021_teampatch_gamb_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5090",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -966,6 +1040,7 @@
   "name": "Parche | G2 Esports | Estocolmo 2021",
   "code": "stockh2021_teampatch_g2",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5091",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -979,6 +1054,7 @@
   "name": "Parche | G2 Esports (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_g2_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5092",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -992,6 +1068,7 @@
   "name": "Parche | Evil Geniuses | Estocolmo 2021",
   "code": "stockh2021_teampatch_evl",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5093",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1005,6 +1082,7 @@
   "name": "Parche | Evil Geniuses (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_evl_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5094",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1018,6 +1096,7 @@
   "name": "Parche | Team Spirit | Estocolmo 2021",
   "code": "stockh2021_teampatch_spir",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5095",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1031,6 +1110,7 @@
   "name": "Parche | Team Spirit (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_spir_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5096",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1044,6 +1124,7 @@
   "name": "Parche | Astralis | Estocolmo 2021",
   "code": "stockh2021_teampatch_astr",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5097",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1057,6 +1138,7 @@
   "name": "Parche | Astralis (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_astr_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5098",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1070,6 +1152,7 @@
   "name": "Parche | paiN Gaming | Estocolmo 2021",
   "code": "stockh2021_teampatch_pain",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5099",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1083,6 +1166,7 @@
   "name": "Parche | paiN Gaming (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_pain_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5100",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1096,6 +1180,7 @@
   "name": "Parche | ENCE | Estocolmo 2021",
   "code": "stockh2021_teampatch_ence",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5101",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1109,6 +1194,7 @@
   "name": "Parche | ENCE (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_ence_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5102",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1122,6 +1208,7 @@
   "name": "Parche | BIG | Estocolmo 2021",
   "code": "stockh2021_teampatch_big",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5103",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1135,6 +1222,7 @@
   "name": "Parche | BIG (dorada) | Stockholm 2021",
   "code": "stockh2021_teampatch_big_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5104",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1148,6 +1236,7 @@
   "name": "Parche | Movistar Riders | Estocolmo 2021",
   "code": "stockh2021_teampatch_ride",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5105",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1161,6 +1250,7 @@
   "name": "Parche | Movistar Riders (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_ride_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1174,6 +1264,7 @@
   "name": "Parche | Heroic | Estocolmo 2021",
   "code": "stockh2021_teampatch_hero",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5107",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1187,6 +1278,7 @@
   "name": "Parche | Heroic (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_hero_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5108",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1200,6 +1292,7 @@
   "name": "Parche | MOUZ | Estocolmo 2021",
   "code": "stockh2021_teampatch_mouz",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5109",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1213,6 +1306,7 @@
   "name": "Parche | MOUZ (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_mouz_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5110",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1226,6 +1320,7 @@
   "name": "Parche | Sharks Esports | Estocolmo 2021",
   "code": "stockh2021_teampatch_shrk",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5111",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1239,6 +1334,7 @@
   "name": "Parche | Sharks Esports (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_shrk_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5112",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1252,6 +1348,7 @@
   "name": "Parche | Tyloo | Estocolmo 2021",
   "code": "stockh2021_teampatch_tyl",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5113",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1265,6 +1362,7 @@
   "name": "Parche | Tyloo (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_tyl_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5114",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1278,6 +1376,7 @@
   "name": "Parche | Renegades | Estocolmo 2021",
   "code": "stockh2021_teampatch_ren",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5115",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1291,6 +1390,7 @@
   "name": "Parche | Renegades (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_ren_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1304,6 +1404,7 @@
   "name": "Parche | Entropiq | Estocolmo 2021",
   "code": "stockh2021_teampatch_ent",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5117",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1317,6 +1418,7 @@
   "name": "Parche | Entropiq (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_ent_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1330,6 +1432,7 @@
   "name": "Parche | GODSENT | Estocolmo 2021",
   "code": "stockh2021_teampatch_god",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5119",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1343,6 +1446,7 @@
   "name": "Parche | GODSENT (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_god_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5120",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1356,6 +1460,7 @@
   "name": "Parche | Virtus.pro | Estocolmo 2021",
   "code": "stockh2021_teampatch_vp",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5121",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1369,6 +1474,7 @@
   "name": "Parche | Virtus.pro (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_vp_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5122",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1382,6 +1488,7 @@
   "name": "Parche | Copenhagen Flames | Estocolmo 2021",
   "code": "stockh2021_teampatch_cope",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5123",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1395,6 +1502,7 @@
   "name": "Parche | Copenhagen Flames (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_cope_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5124",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1408,6 +1516,7 @@
   "name": "Parche | FaZe Clan | Estocolmo 2021",
   "code": "stockh2021_teampatch_faze",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5125",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1421,6 +1530,7 @@
   "name": "Parche | FaZe Clan (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_faze_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5126",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",
@@ -1434,6 +1544,7 @@
   "name": "Parche | PGL | Estocolmo 2021",
   "code": "stockh2021_teampatch_pgl",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_rare",
    "name": "de grado alto",
@@ -1447,6 +1558,7 @@
   "name": "Parche | PGL (dorada) | Estocolmo 2021",
   "code": "stockh2021_teampatch_pgl_gold",
   "description": "Este parche puede aplicarse a cualquiera de tus agentes. Se puede quitar, pero no recuperar.",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "singular",

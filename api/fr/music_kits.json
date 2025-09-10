@@ -4,6 +4,7 @@
   "name": "Valve, Counter-Strike 2",
   "code": "valve_cs2_01",
   "description": "Le kit de musiques officiel de Counter-Strike 2.",
+  "def_index": "1",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -18,6 +19,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "La musique par défaut de CS:GO, intégrée au jeu dès sa sortie, en 2012.",
+  "def_index": "2",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -32,6 +34,7 @@
   "name": "Kit de musiques | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Le compositeur de musique de jeu vidéo Daniel Sadowski livre une composition d'actions nerveuses accompagnée de bon gros beats dans ce palpitant et exaltant pack de musiques.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -46,6 +49,7 @@
   "name": "Kit de musiques StatTrak™ | Daniel Sadowski, Crimson Assault",
   "code": "danielsadowski_01",
   "description": "Le compositeur de musique de jeu vidéo Daniel Sadowski livre une composition d'actions nerveuses accompagnée de bon gros beats dans ce palpitant et exaltant pack de musiques.",
+  "def_index": "3",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -60,6 +64,7 @@
   "name": "Kit de musiques | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "Le trio hollandais électronique Noisia apporte une forte sensation cinématographique accompagnée d'un mélange unique de tradition et de progression.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -74,6 +79,7 @@
   "name": "Kit de musiques StatTrak™ | Noisia, Sharpened",
   "code": "noisia_01",
   "description": "Le trio hollandais électronique Noisia apporte une forte sensation cinématographique accompagnée d'un mélange unique de tradition et de progression.",
+  "def_index": "4",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -88,6 +94,7 @@
   "name": "Kit de musiques | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Une musique, créée par le compositeur primé Robert Allaire, pour écraser vos adversaires et les voir mourir devant vous.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -102,6 +109,7 @@
   "name": "Kit de musiques StatTrak™ | Robert Allaire, Insurgency",
   "code": "robertallaire_01",
   "description": "Une musique, créée par le compositeur primé Robert Allaire, pour écraser vos adversaires et les voir mourir devant vous.",
+  "def_index": "5",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -116,6 +124,7 @@
   "name": "Kit de musiques | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "Par le compositeur des deux plus grands jeux de guerre au monde, vient une puissance sonique qui trainera vos adversaires jusqu'aux portes de l'Enfer !!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -130,6 +139,7 @@
   "name": "Kit de musiques StatTrak™ | Sean Murray, A*D*8",
   "code": "seanmurray_01",
   "description": "Par le compositeur des deux plus grands jeux de guerre au monde, vient une puissance sonique qui trainera vos adversaires jusqu'aux portes de l'Enfer !!",
+  "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -144,6 +154,7 @@
   "name": "Kit de musiques | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "Le célèbre musicien électronique Feed Me amène la confrontation du western dans un espace musical électronique moderne.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -158,6 +169,7 @@
   "name": "Kit de musiques StatTrak™ | Feed Me, High Noon",
   "code": "feedme_01",
   "description": "Le célèbre musicien électronique Feed Me amène la confrontation du western dans un espace musical électronique moderne.",
+  "def_index": "7",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -172,6 +184,7 @@
   "name": "Kit de musiques | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Avec ce pack de musiques métal inspiré du cinéma de super-héros, le compositeur de musiques de jeux Dren McDonald ramène la violence dans la mort !",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -186,6 +199,7 @@
   "name": "Kit de musiques StatTrak™ | Dren, Death's Head Demolition",
   "code": "dren_01",
   "description": "Avec ce pack de musiques métal inspiré du cinéma de super-héros, le compositeur de musiques de jeux Dren McDonald ramène la violence dans la mort !",
+  "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -200,6 +214,7 @@
   "name": "Kit de musiques | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "Le compositeur Austin Wintory, nominé aux Grammy Awards, se demandait : « Pourquoi se fatiguer à traquer ses adversaires quand on peut les attirer dans un tango mortel et vraiment fou ? ».",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -214,6 +229,7 @@
   "name": "Kit de musiques StatTrak™ | Austin Wintory, Desert Fire",
   "code": "austinwintory_01",
   "description": "Le compositeur Austin Wintory, nominé aux Grammy Awards, se demandait : « Pourquoi se fatiguer à traquer ses adversaires quand on peut les attirer dans un tango mortel et vraiment fou ? ».",
+  "def_index": "9",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -228,6 +244,7 @@
   "name": "Kit de musiques | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Plongez-vous dans une bande-son cinématographique pleine de cordes, de mélodies battantes et de tambours puissants. Créée par le célèbre DJ et producteur Sasha.",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -242,6 +259,7 @@
   "name": "Kit de musiques StatTrak™ | Sasha, LNOE",
   "code": "sasha_01",
   "description": "Plongez-vous dans une bande-son cinématographique pleine de cordes, de mélodies battantes et de tambours puissants. Créée par le célèbre DJ et producteur Sasha.",
+  "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -256,6 +274,7 @@
   "name": "Kit de musiques | Skog, Metal",
   "code": "skog_01",
   "description": "Une leçon d'agressivité du producteur de Metal, Skog.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -270,6 +289,7 @@
   "name": "Kit de musiques StatTrak™ | Skog, Metal",
   "code": "skog_01",
   "description": "Une leçon d'agressivité du producteur de Metal, Skog.",
+  "def_index": "11",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -284,6 +304,7 @@
   "name": "Kit de musiques | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "« JOYEUSES FÊTES, ****IRÉ ! »\\n  -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -298,6 +319,7 @@
   "name": "Kit de musiques StatTrak™ | Midnight Riders, All I Want for Christmas",
   "code": "midnightriders_01",
   "description": "« JOYEUSES FÊTES, ****IRÉ ! »\\n  -Midnight Riders",
+  "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -312,6 +334,7 @@
   "name": "Kit de musiques | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Gâtez vos sens auditifs avec cette collection d'atmosphères perturbantes et cinématographiques aux rythmes lancinants de l'innovant producteur électronique Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -326,6 +349,7 @@
   "name": "Kit de musiques StatTrak™ | Matt Lange, IsoRhythm",
   "code": "mattlange_01",
   "description": "Gâtez vos sens auditifs avec cette collection d'atmosphères perturbantes et cinématographiques aux rythmes lancinants de l'innovant producteur électronique Matt Lange.",
+  "def_index": "13",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -340,6 +364,7 @@
   "name": "Kit de musiques | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Dominez les hordes ennemies. L'intensité pure du compositeur Mateo Messina , récompensé d'un Grammy.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -354,6 +379,7 @@
   "name": "Kit de musiques StatTrak™ | Mateo Messina, For No Mankind",
   "code": "mateomessina_01",
   "description": "Dominez les hordes ennemies. L'intensité pure du compositeur Mateo Messina , récompensé d'un Grammy.",
+  "def_index": "14",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -368,6 +394,7 @@
   "name": "Kit de musiques | Plusieurs artistes, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Une multitude d'artistes électroniques livre des beats brutaux dans cet exaltant pack de musiques de l'emblématique jeu Hotline Miami.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -382,6 +409,7 @@
   "name": "Kit de musiques StatTrak™ | Plusieurs artistes, Hotline Miami",
   "code": "hotlinemiami_01",
   "description": "Une multitude d'artistes électroniques livre des beats brutaux dans cet exaltant pack de musiques de l'emblématique jeu Hotline Miami.",
+  "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -396,6 +424,7 @@
   "name": "Kit de musiques | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "Le compositeur Daniel Sadowski élève le niveau avec des beats électroniques agressifs, des effets sonores créatifs et une ambiance futuriste exaltante. « Attention : peut causer une augmentation d'adrénaline ! »",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -410,6 +439,7 @@
   "name": "Kit de musiques StatTrak™ | Daniel Sadowski, Total Domination",
   "code": "danielsadowski_02",
   "description": "Le compositeur Daniel Sadowski élève le niveau avec des beats électroniques agressifs, des effets sonores créatifs et une ambiance futuriste exaltante. « Attention : peut causer une augmentation d'adrénaline ! »",
+  "def_index": "16",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -424,6 +454,7 @@
   "name": "Kit de musiques | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "Le compositeur Damjan Mravunac mêle un groove énergétique et cinématographique avec des chœurs épiques dans ce pack de musiques mettant en vedette la musique du titre acclamé par la critique de Croteam « The Talos Principle ».",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -438,6 +469,7 @@
   "name": "Kit de musiques StatTrak™ | Damjan Mravunac, The Talos Principle",
   "code": "damjanmravunac_01",
   "description": "Le compositeur Damjan Mravunac mêle un groove énergétique et cinématographique avec des chœurs épiques dans ce pack de musiques mettant en vedette la musique du titre acclamé par la critique de Croteam « The Talos Principle ».",
+  "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -452,6 +484,7 @@
   "name": "Kit de musiques | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "L'artiste électro russe PROXY arrive avec son unique artillerie sur Counter Strike. Un arsenal de musiques hybrides fusionné avec la meilleure technologique studio rend ce kit unique.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -466,6 +499,7 @@
   "name": "Kit de musiques StatTrak™ | Proxy, Battlepack",
   "code": "proxy_01",
   "description": "L'artiste électro russe PROXY arrive avec son unique artillerie sur Counter Strike. Un arsenal de musiques hybrides fusionné avec la meilleure technologique studio rend ce kit unique.",
+  "def_index": "18",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -480,6 +514,7 @@
   "name": "Kit de musiques | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Ki:Theory, l'interprète de l'évènement TI4 de Dota, lâche des BOMBES avec ce kit de musiques électro-rock.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -494,6 +529,7 @@
   "name": "Kit de musiques StatTrak™ | Ki:Theory, MOLOTOV",
   "code": "kitheory_01",
   "description": "Ki:Theory, l'interprète de l'évènement TI4 de Dota, lâche des BOMBES avec ce kit de musiques électro-rock.",
+  "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -508,6 +544,7 @@
   "name": "Kit de musiques | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Le compositeur primé Troels Folmann présente ce kit de musiques explosif, combiné à de l'Uberpulse contemporain.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -522,6 +559,7 @@
   "name": "Kit de musiques StatTrak™ | Troels Folmann, Uber Blasto Phone",
   "code": "troelsfolmann_01",
   "description": "Le compositeur primé Troels Folmann présente ce kit de musiques explosif, combiné à de l'Uberpulse contemporain.",
+  "def_index": "20",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -536,6 +574,7 @@
   "name": "Kit de musiques | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Kelly Bailey, le compositeur de la série Half-Life développée par Valve, créé de nouvelles musiques à l'allure apocalyptique inspirées de l'univers plus sombre d'Half-Life.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -550,6 +589,7 @@
   "name": "Kit de musiques StatTrak™ | Kelly Bailey, Hazardous Environments",
   "code": "kellybailey_01",
   "description": "Kelly Bailey, le compositeur de la série Half-Life développée par Valve, créé de nouvelles musiques à l'allure apocalyptique inspirées de l'univers plus sombre d'Half-Life.",
+  "def_index": "21",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -564,6 +604,7 @@
   "name": "Kit de musiques | Skog, II-Headshot",
   "code": "skog_02",
   "description": "Le producteur et compositeur de métal Jocke Skog revient de plus belle avec un tout nouveau kit de musiques métal. À côté, tous les kits de musiques CS:GO sont tout mignons. Devenez MJ d'une manche pour que tout le monde entende à quel point vous êtes incroyable !",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -578,6 +619,7 @@
   "name": "Kit de musiques StatTrak™ | Skog, II-Headshot",
   "code": "skog_02",
   "description": "Le producteur et compositeur de métal Jocke Skog revient de plus belle avec un tout nouveau kit de musiques métal. À côté, tous les kits de musiques CS:GO sont tout mignons. Devenez MJ d'une manche pour que tout le monde entende à quel point vous êtes incroyable !",
+  "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -592,6 +634,7 @@
   "name": "Kit de musiques | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski a créé le premier kit de musiques 8 bits pour Counter-Strike, avec des sons authentiques.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -606,6 +649,7 @@
   "name": "Kit de musiques StatTrak™ | Daniel Sadowski, The 8-Bit Kit",
   "code": "danielsadowski_03",
   "description": "Daniel Sadowski a créé le premier kit de musiques 8 bits pour Counter-Strike, avec des sons authentiques.",
+  "def_index": "23",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -620,6 +664,7 @@
   "name": "Kit de musiques | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "Le groupe d'électro-rock AWOLNATION vous donne le kit de musiques du siècle. Ce kit est bondé de musiques électriques et inclut des passages des singles « I am », et de leur hit plusieurs fois platine, « Sail ».",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -634,6 +679,7 @@
   "name": "Kit de musiques StatTrak™ | AWOLNATION, I Am",
   "code": "awolnation_01",
   "description": "Le groupe d'électro-rock AWOLNATION vous donne le kit de musiques du siècle. Ce kit est bondé de musiques électriques et inclut des passages des singles « I am », et de leur hit plusieurs fois platine, « Sail ».",
+  "def_index": "24",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -648,6 +694,7 @@
   "name": "Kit de musiques | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Les diamants. Ils seront là à jamais. Plongez-vous dans l'arpeggiotron de Mord Fustang avec ce kit de musiques plein de grooves et d'atmosphères.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -662,6 +709,7 @@
   "name": "Kit de musiques StatTrak™ | Mord Fustang, Diamonds",
   "code": "mordfustang_01",
   "description": "Les diamants. Ils seront là à jamais. Plongez-vous dans l'arpeggiotron de Mord Fustang avec ce kit de musiques plein de grooves et d'atmosphères.",
+  "def_index": "25",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -676,6 +724,7 @@
   "name": "Kit de musiques | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross combine de la techno-grunge épique pour vous faire sentir comme un dur-à-cuire en pleine bataille.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -690,6 +739,7 @@
   "name": "Kit de musiques StatTrak™ | Michael Bross, Invasion!",
   "code": "michaelbross_01",
   "description": "Michael Bross combine de la techno-grunge épique pour vous faire sentir comme un dur-à-cuire en pleine bataille.",
+  "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -704,6 +754,7 @@
   "name": "Kit de musiques | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Combinant des cordes et des synthétiseurs palpitants avec des tambours de guerre martelés, préparez-vous pour la bataille avec cette bande-sonore du compositeur Ian Hultquist.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -718,6 +769,7 @@
   "name": "Kit de musiques StatTrak™ | Ian Hultquist, Lion's Mouth",
   "code": "ianhultquist_01",
   "description": "Combinant des cordes et des synthétiseurs palpitants avec des tambours de guerre martelés, préparez-vous pour la bataille avec cette bande-sonore du compositeur Ian Hultquist.",
+  "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -732,6 +784,7 @@
   "name": "Kit de musiques | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Du surf rock avec des éléments de hip-hop, de punk, et de garage pop. Gardez les pieds sur terre et tirez dans les têtes.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -746,6 +799,7 @@
   "name": "Kit de musiques StatTrak™ | New Beat Fund, Sponge Fingerz",
   "code": "newbeatfund_01",
   "description": "Du surf rock avec des éléments de hip-hop, de punk, et de garage pop. Gardez les pieds sur terre et tirez dans les têtes.",
+  "def_index": "28",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -760,6 +814,7 @@
   "name": "Kit de musiques | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Beartooth revient aux fondamentaux avec du hardcore stomp agressif. Préparez-vous à voir la foule se défouler. Un kit de musiques parfait pour tuer au SSG08 sans utiliser la lunette. Rock jusqu'à la mort !",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -774,6 +829,7 @@
   "name": "Kit de musiques StatTrak™ | Beartooth, Disgusting",
   "code": "beartooth_01",
   "description": "Beartooth revient aux fondamentaux avec du hardcore stomp agressif. Préparez-vous à voir la foule se défouler. Un kit de musiques parfait pour tuer au SSG08 sans utiliser la lunette. Rock jusqu'à la mort !",
+  "def_index": "29",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -788,6 +844,7 @@
   "name": "Kit de musiques | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Le compositeur de musiques de jeux vidéo Lennie Moore vous sert un mélange de Jazzy Funk aromatique et épicé. Délicieux quand servi froid, comme le corps de vos adversaires après le mauvais sort que vous leur avez fait.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -802,6 +859,7 @@
   "name": "Kit de musiques StatTrak™ | Lennie Moore, Java Havana Funkaloo",
   "code": "lenniemoore_01",
   "description": "Le compositeur de musiques de jeux vidéo Lennie Moore vous sert un mélange de Jazzy Funk aromatique et épicé. Délicieux quand servi froid, comme le corps de vos adversaires après le mauvais sort que vous leur avez fait.",
+  "def_index": "30",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -816,6 +874,7 @@
   "name": "Kit de musiques | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "Plongez-vous dans le paysage sonore du producteur finnois, Darude. Profitez d'une fusion d'harmoniques progressive et sentez les picotements d'une structure musicale s'inspirant de la musique dance.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -830,6 +889,7 @@
   "name": "Kit de musiques StatTrak™ | Darude, Moments CS:GO",
   "code": "darude_01",
   "description": "Plongez-vous dans le paysage sonore du producteur finnois, Darude. Profitez d'une fusion d'harmoniques progressive et sentez les picotements d'une structure musicale s'inspirant de la musique dance.",
+  "def_index": "31",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -844,6 +904,7 @@
   "name": "Kit de musiques StatTrak™ | Beartooth, Aggressive",
   "code": "beartooth_02",
   "description": "Beartooth est de retour pour un deuxième round. Ce nouveau kit frappe plus fort et est encore plus agressif. Nous avons rendu le thème de meilleur joueur extra percutant, pour que vos adversaires soient achevés par une bande son à la hauteur de leur défaite.",
+  "def_index": "32",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -858,6 +919,7 @@
   "name": "Kit de musiques StatTrak™ | Blitz Kids, The Good Youth",
   "code": "blitzkids_01",
   "description": "Le groupe britannique pop/punk Blitz Kids vous a concocté le kit idéal pour faire un ‘Rush B’ tout en vous remémorant les soirées avec vos amis du lycée. Si vous souhaitez revivre vos jeunes années, ce kit est fait pour vous.",
+  "def_index": "33",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -872,6 +934,7 @@
   "name": "Kit de musiques StatTrak™ | Hundredth, FREE",
   "code": "hundredth_01",
   "description": "Hundredth envoie du gros calibre avec cette mélodie hardcore. C’est marche ou crève avec ce morceau de choix.",
+  "def_index": "34",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -886,6 +949,7 @@
   "name": "Kit de musiques StatTrak™ | Neck Deep, Life's Not Out To Get You",
   "code": "neckdeep_01",
   "description": "Parfois, on a juste besoin d'un peu de pop punk pour survivre. Que ce soit à cause des touristes dans vos pattes ou parce que vous venez de foirer un kill streak, Neck Deep est toujours là pour vous empêcher de flancher face à l’adversité.",
+  "def_index": "35",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -900,6 +964,7 @@
   "name": "Kit de musiques StatTrak™ | Roam, Backbone",
   "code": "roam_01",
   "description": "Roam, c’est la marque de fabrique du pop punk de base qui vous décolle la pulpe. Montrez que vous en avez avec cette bande son qui est l’accompagnement parfait pour l’assaut ultime.",
+  "def_index": "36",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -914,6 +979,7 @@
   "name": "Kit de musiques StatTrak™ | Twin Atlantic, GLA",
   "code": "twinatlantic_01",
   "description": "Plus percutant que jamais, Twin Atlantic arrive sur CS:GO, prêt à vous aider à en découdre avec vos adversaires dans un déluge de rock écossais.",
+  "def_index": "37",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -928,6 +994,7 @@
   "name": "Kit de musiques StatTrak™ | Skog, III-Arena",
   "code": "skog_03",
   "description": "Skog est de retour avec un 3ème kit métal. Cette fois-ci les riffs de guitares massifs, les drops, loop elements et drones sont accompagnés d’une touche électro-organic.",
+  "def_index": "38",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -942,6 +1009,7 @@
   "name": "Kit de musiques | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "The Verkkars gravit les palmarès finlandais avec un hommage palpitant à ENCE. Est-ce que c'est vraiment aussi EZ ?",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -956,6 +1024,7 @@
   "name": "Kit de musiques StatTrak™ | The Verkkars, EZ4ENCE",
   "code": "theverkkars_01",
   "description": "The Verkkars gravit les palmarès finlandais avec un hommage palpitant à ENCE. Est-ce que c'est vraiment aussi EZ ?",
+  "def_index": "39",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -970,6 +1039,7 @@
   "name": "Halo, The Master Chief Collection",
   "code": "halo_01",
   "description": "Offrez à votre expérience auditive Counter Strike une métamorphose légendaire avec le pack de musique « The Master Chief Collection », comprenant des moments musicaux emblématiques de l'univers de Halo. © 2019 343 Industries. Tous droits réservés. Utilisé avec la permission de 343 Industries. Halo: The Master Chief Collection et le logo Halo sont des marques déposées du groupe de sociétés Microsoft.",
+  "def_index": "40",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -984,6 +1054,7 @@
   "name": "Kit de musiques | Scarlxrd : King, Scar",
   "code": "scarlxrd_01",
   "description": "Avec ses rythmes puissants et son flow unique, Scarlxrd définit un nouveau sous-genre de la trap. Grâce à ce savant mélange de genres, il hypnotise les foules lors de ses concerts.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -998,6 +1069,7 @@
   "name": "Kit de musiques StatTrak™ | Scarlxrd : King, Scar",
   "code": "scarlxrd_01",
   "description": "Avec ses rythmes puissants et son flow unique, Scarlxrd définit un nouveau sous-genre de la trap. Grâce à ce savant mélange de genres, il hypnotise les foules lors de ses concerts.",
+  "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1012,6 +1084,7 @@
   "name": "Half-Life: Alyx, Anti-Citizen",
   "code": "hlalyx_01",
   "description": "Ce kit de musiques célèbre la sortie de Half-Life: Alyx, le jeu qui signe le retour de Valve, en VR, dans l'univers de Half-Life. Vous êtes la dernière chance de survie de l'humanité, et votre expérience immersive se poursuit dans Counter-Strike.",
+  "def_index": "42",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1026,6 +1099,7 @@
   "name": "Kit de musiques | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintory mélange les sonorités de la musique celtique-fantasy avec celles de la musique électronique auxquelles se joint la voix de Peter Hollens dans ce kit de musiques multigenre.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1040,6 +1114,7 @@
   "name": "Kit de musiques StatTrak™ | Austin Wintory, Bachram",
   "code": "austinwintory_02",
   "description": "Austin Wintory mélange les sonorités de la musique celtique-fantasy avec celles de la musique électronique auxquelles se joint la voix de Peter Hollens dans ce kit de musiques multigenre.",
+  "def_index": "43",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1054,6 +1129,7 @@
   "name": "Kit de musiques | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "La bande-son apocalyptico-mariachi du jeu culte indépendant Gunman Taco Truck est maintenant disponible sur CS:GO. Elle contient de nombreux morceaux aux saveurs mexicaines, comme Pollo Diablo ou Persecución de Helltain !",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1068,6 +1144,7 @@
   "name": "Kit de musiques StatTrak™ | Dren, Gunman Taco Truck",
   "code": "dren_02",
   "description": "La bande-son apocalyptico-mariachi du jeu culte indépendant Gunman Taco Truck est maintenant disponible sur CS:GO. Elle contient de nombreux morceaux aux saveurs mexicaines, comme Pollo Diablo ou Persecución de Helltain !",
+  "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1082,6 +1159,7 @@
   "name": "Kit de musiques | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "Daniel Sadowski, compositeur de « Total Domination », « The 8-Bit Kit » et « Crimson Assault », nous présente sa dernière composition, « Eye of the Dragon ». Ce kit de musiques mélange techno, hip-hop, ninjas et armes pour créer un condensé d'action pure et dure. <i>Les ninjas sont célèbres pour leurs attaques rapides et précises lancées tout en restant invisibles aux yeux de leurs adversaires.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1096,6 +1174,7 @@
   "name": "Kit de musiques StatTrak™ | Daniel Sadowski, Eye of the Dragon",
   "code": "danielsadowski_04",
   "description": "Daniel Sadowski, compositeur de « Total Domination », « The 8-Bit Kit » et « Crimson Assault », nous présente sa dernière composition, « Eye of the Dragon ». Ce kit de musiques mélange techno, hip-hop, ninjas et armes pour créer un condensé d'action pure et dure. <i>Les ninjas sont célèbres pour leurs attaques rapides et précises lancées tout en restant invisibles aux yeux de leurs adversaires.</i>",
+  "def_index": "45",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1110,6 +1189,7 @@
   "name": "Kit de musiques | Tree Adams et Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Les compositeurs Tree Adams et Ben Bromfield, alchimistes du puissant chaos qu'est M.U.D.D. FORCE, combinent musiques de bataille épiques et synthés stridents pour créer un maelström imparable.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1124,6 +1204,7 @@
   "name": "Kit de musiques StatTrak™ | Tree Adams et Ben Bromfield, M.U.D.D. FORCE",
   "code": "treeadams_benbromfield_01",
   "description": "Les compositeurs Tree Adams et Ben Bromfield, alchimistes du puissant chaos qu'est M.U.D.D. FORCE, combinent musiques de bataille épiques et synthés stridents pour créer un maelström imparable.",
+  "def_index": "46",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1138,6 +1219,7 @@
   "name": "Kit de musiques | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "Le compositeur Tim Huling nous livre des morceaux classiques typiques des films noirs mélangés à des grooves et des rythmes contemporains.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1152,6 +1234,7 @@
   "name": "Kit de musiques StatTrak™ | Tim Huling, Neo Noir",
   "code": "timhuling_01",
   "description": "Le compositeur Tim Huling nous livre des morceaux classiques typiques des films noirs mélangés à des grooves et des rythmes contemporains.",
+  "def_index": "47",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1166,6 +1249,7 @@
   "name": "Kit de musiques | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Inspiré par les musiques de jeux vidéo funky du début des années 90, le compositeur Sam Marshall nous fait découvrir la nostalgie des jeux classiques en y ajoutant une touche moderne.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1180,6 +1264,7 @@
   "name": "Kit de musiques StatTrak™ | Sam Marshall, Bodacious",
   "code": "sammarshall_01",
   "description": "Inspiré par les musiques de jeux vidéo funky du début des années 90, le compositeur Sam Marshall nous fait découvrir la nostalgie des jeux classiques en y ajoutant une touche moderne.",
+  "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1194,6 +1279,7 @@
   "name": "Kit de musiques | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "Le compositeur Matt Levine rend avec classe un hommage brut aux westerns-spaghetti. Lancer un « Vas-y, allez. Fais-moi plaisir. » n'aura jamais été aussi jubilatoire.",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1208,6 +1294,7 @@
   "name": "Kit de musiques StatTrak™ | Matt Levine, Drifter",
   "code": "mattlevine_01",
   "description": "Le compositeur Matt Levine rend avec classe un hommage brut aux westerns-spaghetti. Lancer un « Vas-y, allez. Fais-moi plaisir. » n'aura jamais été aussi jubilatoire.",
+  "def_index": "49",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1222,6 +1309,7 @@
   "name": "Kit de musiques | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "Le style unique du célèbre compositeur Amon Tobin rejoint l'univers de CS:GO. Musiques composées avec des amplificateurs à tubes.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1236,6 +1324,7 @@
   "name": "Kit de musiques StatTrak™ | Amon Tobin, All for Dust",
   "code": "amontobin_01",
   "description": "Le style unique du célèbre compositeur Amon Tobin rejoint l'univers de CS:GO. Musiques composées avec des amplificateurs à tubes.",
+  "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1250,6 +1339,7 @@
   "name": "Darren Korb, Hades",
   "code": "hades_01",
   "description": "Il se peut que vous ratiez un de vos tirs de temps à autre, mais ce kit de musiques qui provient des Enfers d'Hades, le rogue-like en mode dungeon crawler développé par Supergiant Games, ne rate jamais une occasion de faire monter l'adrénaline.",
+  "def_index": "51",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1264,6 +1354,7 @@
   "name": "Kit de musiques | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Distinguez-vous (en particulier des personnes présentes sur la carte) avec le nouveau kit de musiques de Neck Deep, qui inclut des titres de l'album du groupe All Distortions Are Intentional.",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1278,6 +1369,7 @@
   "name": "Kit de musiques StatTrak™ | Neck Deep, The Lowlife Pack",
   "code": "neckdeep_02",
   "description": "Distinguez-vous (en particulier des personnes présentes sur la carte) avec le nouveau kit de musiques de Neck Deep, qui inclut des titres de l'album du groupe All Distortions Are Intentional.",
+  "def_index": "52",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1292,6 +1384,7 @@
   "name": "Kit de musiques | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "CHAIN$AW MARQUE L'APOTHÉOSE DE LA CARRIÈRE DE SCARLXRD, AVEC UN FLOW BRUT ET UN SON LOURD.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1306,6 +1399,7 @@
   "name": "Kit de musiques StatTrak™ | Scarlxrd, CHAIN$AW.LXADXUT.",
   "code": "scarlxrd_02",
   "description": "CHAIN$AW MARQUE L'APOTHÉOSE DE LA CARRIÈRE DE SCARLXRD, AVEC UN FLOW BRUT ET UN SON LOURD.",
+  "def_index": "53",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1320,6 +1414,7 @@
   "name": "Kit de musiques | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Austin Wintory répond à la question qui hante l'humanité depuis des décennies : que se passe-t-il si l'on mélange polka, accordéon et guinguette avec du heavy métal à tendance grunge ?",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1334,6 +1429,7 @@
   "name": "Kit de musiques StatTrak™ | Austin Wintory, Mocha Petal",
   "code": "austinwintory_03",
   "description": "Austin Wintory répond à la question qui hante l'humanité depuis des décennies : que se passe-t-il si l'on mélange polka, accordéon et guinguette avec du heavy métal à tendance grunge ?",
+  "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1348,6 +1444,7 @@
   "name": "Kit de musiques | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Chipzel, la légendaire créatrice de jeux vidéos et compositrice de chip music, propose un mashup Speak & Spell erratique et exaltant qui mélange les styles et les plaisirs sur des notes funk.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1362,6 +1459,7 @@
   "name": "Kit de musiques StatTrak™ | Chipzel, ~Yellow Magic~",
   "code": "chipzel_01",
   "description": "Chipzel, la légendaire créatrice de jeux vidéos et compositrice de chip music, propose un mashup Speak & Spell erratique et exaltant qui mélange les styles et les plaisirs sur des notes funk.",
+  "def_index": "55",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1376,6 +1474,7 @@
   "name": "Kit de musiques | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Opéra, sonorités 8-bit, synthés analogique… Que demander de plus ? Freaky DNA, le virtuose de la chip music, et la soprano Leanne Koch s'associent pour nous offrir des rythmes puissants et enivrants.",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1390,6 +1489,7 @@
   "name": "Kit de musiques StatTrak™ | Freaky DNA, Vici",
   "code": "freakydna_01",
   "description": "Opéra, sonorités 8-bit, synthés analogique… Que demander de plus ? Freaky DNA, le virtuose de la chip music, et la soprano Leanne Koch s'associent pour nous offrir des rythmes puissants et enivrants.",
+  "def_index": "56",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1404,6 +1504,7 @@
   "name": "Kit de musiques | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "Jesse Harlin nous livre une composition musicale dramatique et théâtrale digne d'un grand classique du space opera des années 70 à aujourd'hui.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1418,6 +1519,7 @@
   "name": "Kit de musiques StatTrak™ | Jesse Harlin, Astro Bellum",
   "code": "jesseharlin_01",
   "description": "Jesse Harlin nous livre une composition musicale dramatique et théâtrale digne d'un grand classique du space opera des années 70 à aujourd'hui.",
+  "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1432,6 +1534,7 @@
   "name": "Kit de musiques | Laura Shigihara, Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Avec l'aide de la compositrice et développeuse de jeux vidéos Laura Shigihara, vous pourrez fièrement afficher vos talents de MJ. Enchantez vos oreilles avec ce mélange unique de dance des années 90 et de synthé rythmant les jeux vidéos rétros agrémentés d'un soupçon de Plants vs. Zombies.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1446,6 +1549,7 @@
   "name": "Kit de musiques StatTrak™ | Laura Shigihara, Work Hard, Play Hard",
   "code": "laurashigihara_01",
   "description": "Avec l'aide de la compositrice et développeuse de jeux vidéos Laura Shigihara, vous pourrez fièrement afficher vos talents de MJ. Enchantez vos oreilles avec ce mélange unique de dance des années 90 et de synthé rythmant les jeux vidéos rétros agrémentés d'un soupçon de Plants vs. Zombies.",
+  "def_index": "58",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1460,6 +1564,7 @@
   "name": "Kit de musiques | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Dirigé par Sarah Schachner, ce chœur gothique dystopique est composé de robots scandinaves pleinement conscients de leur existence qui ont l'intention d'exterminer l'humanité.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1474,6 +1579,7 @@
   "name": "Kit de musiques StatTrak™ | Sarah Schachner, KOLIBRI",
   "code": "sarahschachner_01",
   "description": "Dirigé par Sarah Schachner, ce chœur gothique dystopique est composé de robots scandinaves pleinement conscients de leur existence qui ont l'intention d'exterminer l'humanité.",
+  "def_index": "59",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1488,6 +1594,7 @@
   "name": "Kit de musiques | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "Avec «  u mad! », bbno$ crée l'hymne toxique parfaite pour les jeux vidéos. T'as les nerfs ? MDR, progresse, loser. Des recherches ont révélé que, si vous écoutez ce kit de musiques, vous passerez directement du niveau argent au niveau d'élite mondiale.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1502,6 +1609,7 @@
   "name": "Kit de musiques StatTrak™ | bbno$, u mad!",
   "code": "bbnos_01",
   "description": "Avec «  u mad! », bbno$ crée l'hymne toxique parfaite pour les jeux vidéos. T'as les nerfs ? MDR, progresse, loser. Des recherches ont révélé que, si vous écoutez ce kit de musiques, vous passerez directement du niveau argent au niveau d'élite mondiale.",
+  "def_index": "60",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1516,6 +1624,7 @@
   "name": "Kit de musiques | The Verkkars et n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Le soleil de Californie et le froid de Laponie s'entrechoquent dans « Flashbang Dance », le tube interprété par The Verkkars et n0thing, la légende de Counter-Strike.",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1530,6 +1639,7 @@
   "name": "Kit de musiques StatTrak™ | The Verkkars et n0thing, Flashbang Dance",
   "code": "theverkkars_02",
   "description": "Le soleil de Californie et le froid de Laponie s'entrechoquent dans « Flashbang Dance », le tube interprété par The Verkkars et n0thing, la légende de Counter-Strike.",
+  "def_index": "61",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1544,6 +1654,7 @@
   "name": "Kit de musiques | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Que vous cherchiez à atteindre les sommets ou à côtoyer les abimes, laissez les synthés et les mélodies oniriques des années 80 vous ramener au bon vieux temps…",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1558,6 +1669,7 @@
   "name": "Kit de musiques StatTrak™ | 3kliksphilip, Heading for the Source",
   "code": "3kliksphilip_01",
   "description": "Que vous cherchiez à atteindre les sommets ou à côtoyer les abimes, laissez les synthés et les mélodies oniriques des années 80 vous ramener au bon vieux temps…",
+  "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1572,6 +1684,7 @@
   "name": "Kit de musiques | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "Le groupe suédois Humanity's Last Breath fait une entrée des plus fracassantes avec son kit de musiques « Void ». Au menu : des tambours tonitruants, des riffs accrocheurs et une ambiance à vous en donner des frissons.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1586,6 +1699,7 @@
   "name": "Kit de musiques StatTrak™ | Humanity's Last Breath, Void",
   "code": "hlb_01",
   "description": "Le groupe suédois Humanity's Last Breath fait une entrée des plus fracassantes avec son kit de musiques « Void ». Au menu : des tambours tonitruants, des riffs accrocheurs et une ambiance à vous en donner des frissons.",
+  "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1600,6 +1714,7 @@
   "name": "Kit de musiques | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Des synthés néotrap, des 808 bruts, un riff de piano épique et une pléthore d'effets sonores de coups de feu : l'hymne trap original Shooters de Juelz constitue un véritable kit de musiques d'élite. Convient uniquement aux MJ.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1614,6 +1729,7 @@
   "name": "Kit de musiques StatTrak™ | Juelz, Shooters",
   "code": "juelz_01",
   "description": "Des synthés néotrap, des 808 bruts, un riff de piano épique et une pléthore d'effets sonores de coups de feu : l'hymne trap original Shooters de Juelz constitue un véritable kit de musiques d'élite. Convient uniquement aux MJ.",
+  "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1628,6 +1744,7 @@
   "name": "Kit de musiques | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "dashstar*, l'hymne bass house iconique de Knock2, insuffle une énergie continue qui capture le mantra du jeune natif de San Diego : « sans limite ».",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1642,6 +1759,7 @@
   "name": "Kit de musiques StatTrak™ | Knock2, dashstar*",
   "code": "knock2_01",
   "description": "dashstar*, l'hymne bass house iconique de Knock2, insuffle une énergie continue qui capture le mantra du jeune natif de San Diego : « sans limite ».",
+  "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1656,6 +1774,7 @@
   "name": "Kit de musiques | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Prenez un Glock 18 et équipez-vous de ce kit de musiques : vous voilà au centre de la scène hip-hop underground de New York.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1670,6 +1789,7 @@
   "name": "Kit de musiques StatTrak™ | Meechy Darko, Gothic Luxury",
   "code": "meechydarko_01",
   "description": "Prenez un Glock 18 et équipez-vous de ce kit de musiques : vous voilà au centre de la scène hip-hop underground de New York.",
+  "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1684,6 +1804,7 @@
   "name": "Kit de musiques | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Est-ce que ce qui vous fait vibrer dans la chasse, c'est la traque ? Avec ce kit de musiques de Sullivan King aux sonorités hard rock, métal et dubstep, rien ne pourra vous arrêter.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1698,6 +1819,7 @@
   "name": "Kit de musiques StatTrak™ | Sullivan King, Lock Me Up",
   "code": "sullivanking_01",
   "description": "Est-ce que ce qui vous fait vibrer dans la chasse, c'est la traque ? Avec ce kit de musiques de Sullivan King aux sonorités hard rock, métal et dubstep, rien ne pourra vous arrêter.",
+  "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1712,6 +1834,7 @@
   "name": "Kit de musiques | Perfect World, 花脸 Hua Lian",
   "code": "perfectworld_01",
   "description": "Célébrez le 5ᵉ anniversaire de la sortie de CS:GO en Chine avec un kit de musique unique en son genre, 花脸 Hua Lian (Painted Face) : découvrez le mariage entre l'opéra de Qinqiang (la première adaptation chinoise du genre rock'n'roll) et le rock'n'roll moderne. Peu importe les balles qui fusent et les grenades qui détonnent, l'important, c'est de garder le rythme !",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1726,6 +1849,7 @@
   "name": "Kit de musiques StatTrak™ | Perfect World, 花脸 Hua Lian",
   "code": "perfectworld_01",
   "description": "Célébrez le 5ᵉ anniversaire de la sortie de CS:GO en Chine avec un kit de musique unique en son genre, 花脸 Hua Lian (Painted Face) : découvrez le mariage entre l'opéra de Qinqiang (la première adaptation chinoise du genre rock'n'roll) et le rock'n'roll moderne. Peu importe les balles qui fusent et les grenades qui détonnent, l'important, c'est de garder le rythme !",
+  "def_index": "68",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1740,6 +1864,7 @@
   "name": "Kit de musiques | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Trap, jazz, drum and bass… Denzel débarque dans CS:GO avec ce kit qui contient notamment les tubes « Walkin » et « ULTIMATE ». Dégainez vos Berettas nickelés et faites du bruit avec le kit de musiques ULTIMATE.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1754,6 +1879,7 @@
   "name": "Kit de musiques StatTrak™ | Denzel Curry, ULTIMATE",
   "code": "denzelcurry_01",
   "description": "Trap, jazz, drum and bass… Denzel débarque dans CS:GO avec ce kit qui contient notamment les tubes « Walkin » et « ULTIMATE ». Dégainez vos Berettas nickelés et faites du bruit avec le kit de musiques ULTIMATE.",
+  "def_index": "69",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1768,6 +1894,7 @@
   "name": "Valve, CS:GO",
   "code": "valve_01",
   "description": "La musique par défaut de CS:GO, intégrée au jeu dès sa sortie, en 2012.",
+  "def_index": "70",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1782,6 +1909,7 @@
   "name": "Kit de musiques | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "Sentez la puissance couler dans vos veines avec le kit de musiques électro explosive de DRYDEN.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1796,6 +1924,7 @@
   "name": "Kit de musiques StatTrak™ | DRYDEN, Feel The Power",
   "code": "dryden_01",
   "description": "Sentez la puissance couler dans vos veines avec le kit de musiques électro explosive de DRYDEN.",
+  "def_index": "71",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1810,6 +1939,7 @@
   "name": "Kit de musiques | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "Conçu spécialement pour ces parties dans lesquelles vous ne vous sentez <i>pas comme les autres</i>. Devenez le pire cauchemar de vos adversaires avec le kit de musiques « inhuman », signé ISOxo.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1824,6 +1954,7 @@
   "name": "Kit de musiques StatTrak™ | ISOxo, inhuman",
   "code": "isoxo_01",
   "description": "Conçu spécialement pour ces parties dans lesquelles vous ne vous sentez <i>pas comme les autres</i>. Devenez le pire cauchemar de vos adversaires avec le kit de musiques « inhuman », signé ISOxo.",
+  "def_index": "72",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1838,6 +1969,7 @@
   "name": "Kit de musiques | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "Plutôt peace, ou plutôt love ? Peut-être les deux à la fois ? Criez-le sur tous les toits du serveur avec le kit de musique « All Night », signé KILL SCRIPT.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1852,6 +1984,7 @@
   "name": "Kit de musiques StatTrak™ | KILL SCRIPT, All Night",
   "code": "killscript_01",
   "description": "Plutôt peace, ou plutôt love ? Peut-être les deux à la fois ? Criez-le sur tous les toits du serveur avec le kit de musique « All Night », signé KILL SCRIPT.",
+  "def_index": "73",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1866,6 +1999,7 @@
   "name": "Kit de musiques | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "Pour celles et ceux qui considèrent chaque match comme une finale de tournoi majeur, même s'il n'y a que quelques centaines de points en jeu. Faites le plein d'énergie et récoltez les victoires avec le deuxième kit de musiques de Knock2, « Make U SWEAT! ».",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1880,6 +2014,7 @@
   "name": "Kit de musiques StatTrak™ | Knock2, Make U SWEAT!",
   "code": "knock2_02",
   "description": "Pour celles et ceux qui considèrent chaque match comme une finale de tournoi majeur, même s'il n'y a que quelques centaines de points en jeu. Faites le plein d'énergie et récoltez les victoires avec le deuxième kit de musiques de Knock2, « Make U SWEAT! ».",
+  "def_index": "74",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1894,6 +2029,7 @@
   "name": "Music Kit | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "Parfois, il suffit de désamorcer la bombe pour être MJ de la manche. Avec le kit de musiques « Reason » de Rad Cat, célébrez chaque victoire, même les plus petites.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1908,6 +2044,7 @@
   "name": "Kit de musiques StatTrak™ | Rad Cat, Reason",
   "code": "radcat_01",
   "description": "Parfois, il suffit de désamorcer la bombe pour être MJ de la manche. Avec le kit de musiques « Reason » de Rad Cat, célébrez chaque victoire, même les plus petites.",
+  "def_index": "75",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1922,6 +2059,7 @@
   "name": "Kit de musiques |TWERL, Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "Profitez d'un moment de gloire sous les projecteurs. Laissez-vous porter, vous et votre équipe, vers de nouveaux sommets grâce à cet air de drum and bass signé TWERL, Ekko & Sidetrack, « Under Bright Lights ».",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1936,6 +2074,7 @@
   "name": "Kit de musiques StatTrak™ |TWERL, Ekko & Sidetrack, Under Bright Lights",
   "code": "twerl_01",
   "description": "Profitez d'un moment de gloire sous les projecteurs. Laissez-vous porter, vous et votre équipe, vers de nouveaux sommets grâce à cet air de drum and bass signé TWERL, Ekko & Sidetrack, « Under Bright Lights ».",
+  "def_index": "76",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1950,6 +2089,7 @@
   "name": "Kit de musiques | Austin Wintory, The Devil Went Clubbing in Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory fait un pacte avec le Diable, et combine violon traditionnel et EDM.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1964,6 +2104,7 @@
   "name": "Kit de musiques StatTrak™ | Austin Wintory, The Devil Went Clubbing in Georgia",
   "code": "austinwintory_04",
   "description": "Austin Wintory fait un pacte avec le Diable, et combine violon traditionnel et EDM.",
+  "def_index": "78",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1978,6 +2119,7 @@
   "name": "Kit de musiques | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Vous vous êtes fait doubler ! Découvrez une bande-son spectaculaire, à l'intensité dramatique et d'inspiration jazz réalisée par le compositeur de musiques de films et de séries télévisées Ben Bromfield qui vous accompagnera dans votre quête de vérité…",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -1992,6 +2134,7 @@
   "name": "Kit de musiques StatTrak™ | Ben Bromfield, Rabbit Hole",
   "code": "benbromfield_01",
   "description": "Vous vous êtes fait doubler ! Découvrez une bande-son spectaculaire, à l'intensité dramatique et d'inspiration jazz réalisée par le compositeur de musiques de films et de séries télévisées Ben Bromfield qui vous accompagnera dans votre quête de vérité…",
+  "def_index": "79",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2006,6 +2149,7 @@
   "name": "Kit de musiques | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski vous invite à entrer dans le monde de « Dead Shot », un mélange hybride d'action, de hip-hop, d'orchestre, d'électronique, de rétro, d'émotions et de création sonore.",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2020,6 +2164,7 @@
   "name": "Kit de musiques StatTrak™ | Daniel Sadowski, Dead Shot",
   "code": "danielsadowski_05",
   "description": "Daniel Sadowski vous invite à entrer dans le monde de « Dead Shot », un mélange hybride d'action, de hip-hop, d'orchestre, d'électronique, de rétro, d'émotions et de création sonore.",
+  "def_index": "80",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2034,6 +2179,7 @@
   "name": "Kit de musiques | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "La caféine est votre amie. C'est l'amie de tout le monde, sauf pour vos adversaires ! « Coffee! Kofe! Kahveh! », c'est de la musique de cuivres balkanique jouée lors des fêtes de rue. Profitez de la prestation en direct de Dren McDonald (compositeur de « Gunman Taco Truck » et « Death’s Head Demolition ») à Balkancisco !",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2048,6 +2194,7 @@
   "name": "Kit de musiques StatTrak™ | Dren McDonald, Coffee! Kofe! Kahveh!",
   "code": "dren_03",
   "description": "La caféine est votre amie. C'est l'amie de tout le monde, sauf pour vos adversaires ! « Coffee! Kofe! Kahveh! », c'est de la musique de cuivres balkanique jouée lors des fêtes de rue. Profitez de la prestation en direct de Dren McDonald (compositeur de « Gunman Taco Truck » et « Death’s Head Demolition ») à Balkancisco !",
+  "def_index": "81",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2062,6 +2209,7 @@
   "name": "Kit de musiques | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "Explorez le dangereux monde de l'espionnage avec le kit de musiques « Agency » du compositeur Matt Levine.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2076,6 +2224,7 @@
   "name": "Kit de musiques StatTrak™ | Matt Levine, Agency",
   "code": "mattlevine_02",
   "description": "Explorez le dangereux monde de l'espionnage avec le kit de musiques « Agency » du compositeur Matt Levine.",
+  "def_index": "82",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2090,6 +2239,7 @@
   "name": "Kit de musiques | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "« Clutch » est la suite non autorisée de « Bodacious » : au menu, une abomination cyberfunk et fébrile ressuscitée par Sam Marshall grâce aux secrets de l'alchimie et des rituels arcaniques.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2104,6 +2254,7 @@
   "name": "Kit de musiques StatTrak™ | Sam Marshall, Clutch",
   "code": "sammarshall_02",
   "description": "« Clutch » est la suite non autorisée de « Bodacious » : au menu, une abomination cyberfunk et fébrile ressuscitée par Sam Marshall grâce aux secrets de l'alchimie et des rituels arcaniques.",
+  "def_index": "83",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2118,6 +2269,7 @@
   "name": "Kit de musiques | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Votre adrénaline va grimper d'un cran avec « Devil's Paintbrush » de Tim Huling, un kit de musiques de groove metal parfait pour faire le plein d'énergie.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2132,6 +2284,7 @@
   "name": "Kit de musiques StatTrak™ | Tim Huling, Devil's Paintbrush",
   "code": "timhuling_02",
   "description": "Votre adrénaline va grimper d'un cran avec « Devil's Paintbrush » de Tim Huling, un kit de musiques de groove metal parfait pour faire le plein d'énergie.",
+  "def_index": "84",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2146,6 +2299,7 @@
   "name": "Kit de musiques | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "Avec « Seventh Moon », Tree Adams concocte un mélange brut de funk intergalactique avec une bande-son intense.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2160,6 +2314,7 @@
   "name": "Kit de musiques StatTrak™ | Tree Adams, Seventh Moon",
   "code": "treeadams_01",
   "description": "Avec « Seventh Moon », Tree Adams concocte un mélange brut de funk intergalactique avec une bande-son intense.",
+  "def_index": "85",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2174,6 +2329,7 @@
   "name": "Kit de musiques | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "Mêlant folklore chinois traditionnel et musique électronique, narration vivante et rythme effréné, « Ay Hey » fait vibrer les joueurs et les joueuses de tous âges et horizons. Avec son tempo aligné sur l'enthousiasme débordant de la communauté pour le jeu, ce morceau est un clin d'œil à ces moments drôles et bon enfant qui égaient parfois les combats.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2188,6 +2344,7 @@
   "name": "Kit de musiques StatTrak™ | Perfect World, Ay Hey",
   "code": "perfectworld_02",
   "description": "Mêlant folklore chinois traditionnel et musique électronique, narration vivante et rythme effréné, « Ay Hey » fait vibrer les joueurs et les joueuses de tous âges et horizons. Avec son tempo aligné sur l'enthousiasme débordant de la communauté pour le jeu, ce morceau est un clin d'œil à ces moments drôles et bon enfant qui égaient parfois les combats.",
+  "def_index": "86",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2202,6 +2359,7 @@
   "name": "Kit de musiques | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "La légende techno suédoise Adam Beyer vous apporte un kit de musique onirique pour vous aider à pendre vos ennemis en rouge.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2216,6 +2374,7 @@
   "name": "Kit de musiques StatTrak™ | Adam Beyer, Red Room",
   "code": "adambeyer_01",
   "description": "La légende techno suédoise Adam Beyer vous apporte un kit de musique onirique pour vous aider à pendre vos ennemis en rouge.",
+  "def_index": "87",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2230,6 +2389,7 @@
   "name": "Kit de musiques | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "MESSAGE DU CLERGÉ — Papa V Perpetua honore Counter-Strike avec un magnifique spectacle de heavy métal. Échappez aux difficultés de la vie quotidienne en pulvérisant jusqu'à l'au-delà.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2244,6 +2404,7 @@
   "name": "Kit de musiques StatTrak™ | Ghost, Skeletá",
   "code": "ghost_01",
   "description": "MESSAGE DU CLERGÉ — Papa V Perpetua honore Counter-Strike avec un magnifique spectacle de heavy métal. Échappez aux difficultés de la vie quotidienne en pulvérisant jusqu'à l'au-delà.",
+  "def_index": "88",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2258,6 +2419,7 @@
   "name": "Kit de musiques | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Découvrez HEALTH dans Counter-Strike. Prenez les armes et profitez du son métal industriel brutal et éprouvant de RAT WARS.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2272,6 +2434,7 @@
   "name": "Kit de musiques StatTrak™ | HEALTH, RAT WARS",
   "code": "health_01",
   "description": "Découvrez HEALTH dans Counter-Strike. Prenez les armes et profitez du son métal industriel brutal et éprouvant de RAT WARS.",
+  "def_index": "89",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2286,6 +2449,7 @@
   "name": "Kit de musiques | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "Le duo de rock gallois James and the Cold Gun dégage une énergie pure et sans filtre, mélangeant une attitude punk classique à une touche d'alt-rock moderne pour créer un kit de musiques torride.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2300,6 +2464,7 @@
   "name": "Kit de musiques StatTrak™ | James and the Cold Gun, Chewing Glass",
   "code": "jamesandthecoldgun_01",
   "description": "Le duo de rock gallois James and the Cold Gun dégage une énergie pure et sans filtre, mélangeant une attitude punk classique à une touche d'alt-rock moderne pour créer un kit de musiques torride.",
+  "def_index": "90",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2314,6 +2479,7 @@
   "name": "Kit de musiques | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Du space métal de pirate intergalactaire, c'est ce qui manque à votre jeu ! Montez à bord du Starship Velociraptor et laissez-vous emporter par les sons de l'album inspiré de l'anime et des jeux vidéo de Jonathan Young pour donner une nouvelle dimension à vos matchs.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2328,6 +2494,7 @@
   "name": "Kit de musiques StatTrak™ | Jonathan Young, Starship Velociraptor",
   "code": "jonathanyoung_01",
   "description": "Du space métal de pirate intergalactaire, c'est ce qui manque à votre jeu ! Montez à bord du Starship Velociraptor et laissez-vous emporter par les sons de l'album inspiré de l'anime et des jeux vidéo de Jonathan Young pour donner une nouvelle dimension à vos matchs.",
+  "def_index": "91",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2342,6 +2509,7 @@
   "name": "Kit de musiques | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Besoin d'espace ? Cet énorme kit de musiques extrait du premier album de Juelz contient des synthés néo-rave, des lignes de basse brutes et des percussions robustes. Floorspace a été repensé pour Counter-Strike 2, et l'hymne du MVP, « Gossip », donne envie aux joueurs et joueuses d'installer, puis de déposer, un mur LED.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2356,6 +2524,7 @@
   "name": "Kit de musiques StatTrak™ | Juelz, Floorspace",
   "code": "juelz_02",
   "description": "Besoin d'espace ? Cet énorme kit de musiques extrait du premier album de Juelz contient des synthés néo-rave, des lignes de basse brutes et des percussions robustes. Floorspace a été repensé pour Counter-Strike 2, et l'hymne du MVP, « Gossip », donne envie aux joueurs et joueuses d'installer, puis de déposer, un mur LED.",
+  "def_index": "92",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2370,6 +2539,7 @@
   "name": "Kit de musiques | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Découvrez l'album hip-hop triplement récompensé aux Grammy Awards dans l'univers de Counter-Strike. La voix de Killer Mike vous motivera à progresser et à améliorer vos compétences.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2384,6 +2554,7 @@
   "name": "Kit de musiques StatTrak™ | Killer Mike, MICHAEL",
   "code": "killermike_01",
   "description": "Découvrez l'album hip-hop triplement récompensé aux Grammy Awards dans l'univers de Counter-Strike. La voix de Killer Mike vous motivera à progresser et à améliorer vos compétences.",
+  "def_index": "93",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2398,6 +2569,7 @@
   "name": "Kit de musiques | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "La seule chose que nous aimons plus qu'un adversaire redoutable ? Une bande son d'enfer. Laissez le nouveau kit de musiques PVRIS donner de l'élan à votre équipe et perpétuez votre série de victoires.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2412,6 +2584,7 @@
   "name": "Kit de musiques StatTrak™ | PVRIS, Evergreen",
   "code": "pvris_01",
   "description": "La seule chose que nous aimons plus qu'un adversaire redoutable ? Une bande son d'enfer. Laissez le nouveau kit de musiques PVRIS donner de l'élan à votre équipe et perpétuez votre série de victoires.",
+  "def_index": "94",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2426,6 +2599,7 @@
   "name": "Kit de musiques | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Donnez libre cours à vos envies avec ce kit de musiques dynamiques et plein d'énergie de l'icône techno américaine Selective Response. Chargé et prêt à passer à l'action.",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2440,6 +2614,7 @@
   "name": "Kit de musiques StatTrak™ | Selective Response, No Love Only Pleasure",
   "code": "selectiveresponse_01",
   "description": "Donnez libre cours à vos envies avec ce kit de musiques dynamiques et plein d'énergie de l'icône techno américaine Selective Response. Chargé et prêt à passer à l'action.",
+  "def_index": "95",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2454,6 +2629,7 @@
   "name": "Kit de musiques | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "Le groupe de rock britannique Tigercub propose un mix mélodique sérieux, alliant une intensité alt-rock brute à une touche sensible moderne pour créer un kit de musiques époustouflant.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",
@@ -2468,6 +2644,7 @@
   "name": "Kit de musiques StatTrak™ | Tigercub, The Perfume of Decay",
   "code": "tigercub_01",
   "description": "Le groupe de rock britannique Tigercub propose un mix mélodique sérieux, alliant une intensité alt-rock brute à une touche sensible moderne pour créer un kit de musiques époustouflant.",
+  "def_index": "96",
   "rarity": {
    "id": "rarity_rare",
    "name": "Qualité supérieure",

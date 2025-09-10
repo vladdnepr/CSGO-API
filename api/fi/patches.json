@@ -4,6 +4,7 @@
   "name": "Kangasmerkki | Hullu banaani",
   "code": "patch_banana",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Vertailukelpoinen agentti.</i>",
+  "def_index": "4550",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -17,6 +18,7 @@
   "name": "Kangasmerkki | Kingi",
   "code": "patch_boss",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Levoton kruunun painama on agentin pää.</i>",
+  "def_index": "4551",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -30,6 +32,7 @@
   "name": "Kangasmerkki | Kananrakastaja",
   "code": "patch_chickenlover",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kiitos, että säästit ne.</i>",
+  "def_index": "4552",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -43,6 +46,7 @@
   "name": "Kangasmerkki | Tervetuloa kylmäpäiden joukkoon",
   "code": "patch_clutch",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>4T on ihan normaali tätä kangasmerkkiä kantavien agenttien keskuudessa.</i>",
+  "def_index": "4553",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -56,6 +60,7 @@
   "name": "Kangasmerkki | Lohikäärme",
   "code": "patch_dragon",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkissä on lohikäärme kahden AK-47:n välissä</i>",
+  "def_index": "4554",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -69,6 +74,7 @@
   "name": "Kangasmerkki | Helppo nakki",
   "code": "patch_easypeasy",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkki pääsi jotenkin laadunvalvonnasta läpi, vaikka sanassa \\\"Sqeezy\\\" on kirjoitusvirhe.</i>",
+  "def_index": "4555",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -82,6 +88,7 @@
   "name": "Kangasmerkki | Raivo",
   "code": "patch_fury",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Raivoa, vihaa ja vimmaa ilmaiseva kangasmerkki.</i>",
+  "def_index": "4556",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -95,6 +102,7 @@
   "name": "Kangasmerkki | Ulvonta",
   "code": "patch_howl",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkki on painonsa arvoinen kullassa... ja punaisessa ja oranssissa.</i>",
+  "def_index": "4557",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -108,6 +116,7 @@
   "name": "Kangasmerkki | Koikarppi",
   "code": "patch_koi",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkissä on kaksi koikarppia sinisen veden pyörteissä.</i>",
+  "def_index": "4558",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -121,6 +130,7 @@
   "name": "Kangasmerkki | Pitkäikäisyys",
   "code": "patch_longevity",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Punavalkoisessa kangasmerkissä on taiteellinen versio CS2-logosta.</i>",
+  "def_index": "4559",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -134,6 +144,7 @@
   "name": "Kangasmerkki | Maastopalo",
   "code": "patch_wildfire",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Operaatio Maastopalo, joka käynnistyi 17.2.2016.</i>",
+  "def_index": "4560",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -147,6 +158,7 @@
   "name": "Kangasmerkki | Aina valppaana",
   "code": "patch_vigilance",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkki vaanivalle, vartiota pitävälle tiimikaverille.</i>",
+  "def_index": "4561",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -160,6 +172,7 @@
   "name": "Kangasmerkki | Verikoira",
   "code": "patch_bloodhound",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Operaatio Verikoira, joka käynnistyi 26.5.2015.</i>",
+  "def_index": "4562",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -173,6 +186,7 @@
   "name": "Kangasmerkki | Bravo",
   "code": "patch_bravo",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Operaatio Bravo, joka käynnistyi 19.9.2013.</i>",
+  "def_index": "4563",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -186,6 +200,7 @@
   "name": "Kangasmerkki | Läpimurto",
   "code": "patch_breakout",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Operaatio Läpimurto, joka käynnistyi 1.7.2014.</i>",
+  "def_index": "4564",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -199,6 +214,7 @@
   "name": "Kangasmerkki | Vaaravyöhyke",
   "code": "patch_dangerzone",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Vaaravyöhyke, joka käynnistyi 6.12.2018.</i>",
+  "def_index": "4565",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -212,6 +228,7 @@
   "name": "Kangasmerkki | Hydra",
   "code": "patch_hydra",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Operaatio Hydra, joka käynnistyi 23.5.2017.</i>",
+  "def_index": "4566",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -225,6 +242,7 @@
   "name": "Kangasmerkki | Vastaisku",
   "code": "patch_payback",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Operaatio Vastaisku, joka käynnistyi 25.4.2013.</i>",
+  "def_index": "4567",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -238,6 +256,7 @@
   "name": "Kangasmerkki | Feeniks",
   "code": "patch_phoenix",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Operaatio Feeniks, joka käynnistyi 20.2.2014.</i>",
+  "def_index": "4568",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -251,6 +270,7 @@
   "name": "Kangasmerkki | Pirstaleinen verkko",
   "code": "patch_shatteredweb",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Operaatio Pirstaleinen verkko, joka käynnistyi 18.11.2019.</i>",
+  "def_index": "4569",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -264,6 +284,7 @@
   "name": "Kangasmerkki | Eturintama",
   "code": "patch_vanguard",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkin teemana on Operaatio Eturintama, joka käynnistyi 11.11.2014.</i>",
+  "def_index": "4570",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -277,6 +298,7 @@
   "name": "Kangasmerkki | Hopea (metalli)",
   "code": "patch_silver",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkki niille, jotka ottavat ensiaskeleitaan kohti kansainvälistä valiotasoa.</i>",
+  "def_index": "4571",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -290,6 +312,7 @@
   "name": "Kangasmerkki | Kultanova I (metalli)",
   "code": "patch_goldnova1",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Tehty hopeasta? Vielä riittää hommaa.</i>",
+  "def_index": "4572",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -303,6 +326,7 @@
   "name": "Kangasmerkki | Kultanovamestari (metalli)",
   "code": "patch_goldnovamaster",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Ja sinäkö luulit, että hopeataso on se taso, jolta on vaikea nousta...</i>",
+  "def_index": "4575",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -316,6 +340,7 @@
   "name": "Kangasmerkki | Mestarisuojelija I (metalli)",
   "code": "patch_masterguardian1",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Pääsitkö Kultanovasta eteenpäin? Hyvä, sinähän alat oppia.</i>",
+  "def_index": "4576",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -329,6 +354,7 @@
   "name": "Kangasmerkki | Mestarisuojelijaeliitti (metalli)",
   "code": "patch_masterguardianelite",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Ammattilaisten sommittelema kangasmerkki, jossa hopeinen ommel erottuu hienosti merkin laivastonsinisestä taustasta.</i>",
+  "def_index": "4578",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -342,6 +368,7 @@
   "name": "Kangasmerkki | Arvonsa osoittanut mestarisuojelija ★ (metalli)",
   "code": "patch_dmg",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Yksilöiden tulee taipua ja mukautua sekä työskennellä yhdessä saavuttaakseen Arvonsa osoittanut mestarisuojelija -taitotason. Jatka kiipeämistä.</i>",
+  "def_index": "4579",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -355,6 +382,7 @@
   "name": "Kangasmerkki | Legendaarinen kotkamestari ★ (metalli)",
   "code": "patch_legendaryeaglemaster",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Olet lähestymässä huippua, mutta muista, että vastaasi tulevat eivät anna armoa.</i>",
+  "def_index": "4581",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -368,6 +396,7 @@
   "name": "Kangasmerkki | Korkein ensimmäisen luokan mestari (metalli)",
   "code": "patch_supreme",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkissä on sydämenmallinen maapallo punaisilla ja sinisillä yksityiskohdilla.</i>",
+  "def_index": "4582",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -381,6 +410,7 @@
   "name": "Kangasmerkki | Kansainvälinen valio ★ (metalli)",
   "code": "patch_globalelite",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Onneksi olkoon, tavoite saavutettu. Tästä ne varsinaiset haasteet vasta alkavat.</i>",
+  "def_index": "4583",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -394,6 +424,7 @@
   "name": "Kangasmerkki | Arvonsa osoittanut mestarisuojelija (metalli)",
   "code": "patch_dmg2",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Yksilöiden tulee taipua ja mukautua sekä työskennellä yhdessä saavuttaakseen Arvonsa osoittanut mestarisuojelija -taitotason. Jatka kiipeämistä.</i>",
+  "def_index": "4584",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -407,6 +438,7 @@
   "name": "Kangasmerkki | Legendaarinen kotka (metalli)",
   "code": "patch_legendaryeagle2",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Tästä Legendaarinen kotka -kangasmerkistä löytyy kultainen siipipari.</i>",
+  "def_index": "4585",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -420,6 +452,7 @@
   "name": "Kangasmerkki | Legendaarinen kotkamestari (metalli)",
   "code": "patch_legendaryeaglemaster2",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Olet lähestymässä huippua, mutta muista, että vastaasi tulevat eivät anna armoa.</i>",
+  "def_index": "4586",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -433,6 +466,7 @@
   "name": "Kangasmerkki | Hopeademoni (metalli)",
   "code": "patch_silver_demon",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>\\\"Hopeinen helvetti\\\" ei ole paikka, vaan mielentila. Sieltä voi häipyä milloin tahansa.</i>",
+  "def_index": "4587",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -446,6 +480,7 @@
   "name": "Kangasmerkki | Korkein mestari (metalli)",
   "code": "patch_suprememaster",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kangasmerkissä on siivekäs pomminpurkaja kuuden tähden reunustamana.</i>",
+  "def_index": "4588",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -459,6 +494,7 @@
   "name": "Kangasmerkki | Alyx",
   "code": "patch_hlalyx_alyx",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4589",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -472,6 +508,7 @@
   "name": "Kangasmerkki | Sapuskaa!",
   "code": "patch_hlalyx_headcrab_green",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4591",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -485,6 +522,7 @@
   "name": "Kangasmerkki | Vortigaunt",
   "code": "patch_hlalyx_vort",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4592",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -498,6 +536,7 @@
   "name": "Kangasmerkki | Päärapusymboli",
   "code": "patch_hlalyx_headcrab_teal",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4593",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -511,6 +550,7 @@
   "name": "Kangasmerkki | Pronssinen lambda",
   "code": "patch_hlalyx_lambda_copper",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4594",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -524,6 +564,7 @@
   "name": "Kangasmerkki | Terveys",
   "code": "patch_hlalyx_hearts",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4595",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -537,6 +578,7 @@
   "name": "Kangasmerkki | Combine-kypärä",
   "code": "patch_hlalyx_combine_front",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4596",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -550,6 +592,7 @@
   "name": "Kangasmerkki | Black Mesa",
   "code": "patch_hlalyx_blackmesa",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4597",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -563,6 +606,7 @@
   "name": "Kangasmerkki | CMB",
   "code": "patch_hlalyx_cmb",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4598",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -576,6 +620,7 @@
   "name": "Kangasmerkki | Lambda",
   "code": "patch_hlalyx_lambda_orange",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4599",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -589,6 +634,7 @@
   "name": "Kangasmerkki | Kaupunki 17",
   "code": "patch_hlalyx_c17",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br>Half-Life: Alyx -juhlakangasmerkki",
+  "def_index": "4600",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -602,6 +648,7 @@
   "name": "Kangasmerkki | Kansainvälinen valio (metalli)",
   "code": "patch_globalelite2",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Onneksi olkoon, tavoite saavutettu. Tästä ne varsinaiset haasteet vasta alkavat.</i>",
+  "def_index": "4697",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -615,6 +662,7 @@
   "name": "Kangasmerkki | Mestarisuojelija (metalli)",
   "code": "patch_masterguardian3",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Pääsitkö Kultanovasta eteenpäin? Hyvä, sinähän alat oppia.</i>",
+  "def_index": "4699",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -628,6 +676,7 @@
   "name": "Kangasmerkki | Kultanova (metalli)",
   "code": "patch_goldnova4",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Tehty hopeasta? Vielä riittää hommaa.</i>",
+  "def_index": "4700",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -641,6 +690,7 @@
   "name": "Kangasmerkki | Heitä toivo",
   "code": "patch_op11_abandon_hope",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Ken tästä käy, saa kaiken toivon heittää...</i>",
+  "def_index": "4937",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -654,6 +704,7 @@
   "name": "Kangasmerkki | Ankkurit ylös",
   "code": "patch_op11_anchor",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Pysy tyynenä myrskyisillä merillä...</i>",
+  "def_index": "4938",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -667,6 +718,7 @@
   "name": "Kangasmerkki | Risteilevä rausku",
   "code": "patch_op11_cruising",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Liukuu aaltojen alla...</i>",
+  "def_index": "4939",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -680,6 +732,7 @@
   "name": "Kangasmerkki | Pistinsammakko",
   "code": "patch_op11_frog_skeleton",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Älä anna periksi ennen kuin kurnutat...</i>",
+  "def_index": "4940",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -693,6 +746,7 @@
   "name": "Kangasmerkki | Vihainen sushi",
   "code": "patch_op11_mad_sushi",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Pyöritä vihollista!</i>",
+  "def_index": "4941",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -706,6 +760,7 @@
   "name": "Kangasmerkki | Jättiläiskalmari",
   "code": "patch_op11_pink_squid",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Vetää saaliinsa syvyyksiin...</i>",
+  "def_index": "4942",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -719,6 +774,7 @@
   "name": "Kangasmerkki | El Pirata",
   "code": "patch_op11_piranha",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Pieniä puraisuja, tiimityötä...</i>",
+  "def_index": "4943",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -732,6 +788,7 @@
   "name": "Kangasmerkki | Kuolema syvyyksistä",
   "code": "patch_op11_siren",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Vaara vaanii yllä...</i>",
+  "def_index": "4944",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -745,6 +802,7 @@
   "name": "Kangasmerkki | Kuolleet miehet",
   "code": "patch_op11_skull_crossswords",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Universaali vaaran symboli...</i>",
+  "def_index": "4945",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -758,6 +816,7 @@
   "name": "Kangasmerkki | Auringonlaskun aalto",
   "code": "patch_op11_sunset_wave",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Uusi päivä merellä...</i>",
+  "def_index": "4946",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -771,6 +830,7 @@
   "name": "Kangasmerkki | Merellinen puolustus",
   "code": "patch_op11_fish_go",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Kala menossa</i>",
+  "def_index": "4947",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -784,6 +844,7 @@
   "name": "Kangasmerkki | Jumalolento",
   "code": "patch_op11_cthulhu",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Cthulhu arvostaa pomminpurkajia...</i>",
+  "def_index": "4948",
   "rarity": {
    "id": "rarity_legendary",
    "name": "Eksoottinen",
@@ -797,6 +858,7 @@
   "name": "Kangasmerkki | Ruoka-aika",
   "code": "patch_op11_meal_time",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.<br><br><i>Voitonnälkäinen...</i>",
+  "def_index": "4949",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -810,6 +872,7 @@
   "name": "Kangasmerkki | Ninjas in Pyjamas | Tukholma 2021",
   "code": "stockh2021_teampatch_nip",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5079",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -823,6 +886,7 @@
   "name": "Kangasmerkki | Ninjas in Pyjamas (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_nip_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5080",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -836,6 +900,7 @@
   "name": "Kangasmerkki | FURIA | Tukholma 2021",
   "code": "stockh2021_teampatch_furi",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5081",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -849,6 +914,7 @@
   "name": "Kangasmerkki | FURIA (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_furi_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5082",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -862,6 +928,7 @@
   "name": "Kangasmerkki | Natus Vincere | Tukholma 2021",
   "code": "stockh2021_teampatch_navi",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5083",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -875,6 +942,7 @@
   "name": "Kangasmerkki | Natus Vincere (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_navi_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5084",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -888,6 +956,7 @@
   "name": "Kangasmerkki | Vitality | Tukholma 2021",
   "code": "stockh2021_teampatch_vita",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5085",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -901,6 +970,7 @@
   "name": "Kangasmerkki | Vitality (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_vita_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5086",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -914,6 +984,7 @@
   "name": "Kangasmerkki | Team Liquid | Tukholma 2021",
   "code": "stockh2021_teampatch_liq",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5087",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -927,6 +998,7 @@
   "name": "Kangasmerkki | Team Liquid (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_liq_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5088",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -940,6 +1012,7 @@
   "name": "Kangasmerkki | Gambit Gaming | Tukholma 2021",
   "code": "stockh2021_teampatch_gamb",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5089",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -953,6 +1026,7 @@
   "name": "Kangasmerkki | Gambit Gaming (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_gamb_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5090",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -966,6 +1040,7 @@
   "name": "Kangasmerkki | G2 Esports | Tukholma 2021",
   "code": "stockh2021_teampatch_g2",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5091",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -979,6 +1054,7 @@
   "name": "Kangasmerkki | G2 Esports (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_g2_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5092",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -992,6 +1068,7 @@
   "name": "Kangasmerkki | Evil Geniuses | Tukholma 2021",
   "code": "stockh2021_teampatch_evl",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5093",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1005,6 +1082,7 @@
   "name": "Kangasmerkki | Evil Geniuses (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_evl_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5094",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1018,6 +1096,7 @@
   "name": "Kangasmerkki | Team Spirit | Tukholma 2021",
   "code": "stockh2021_teampatch_spir",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5095",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1031,6 +1110,7 @@
   "name": "Kangasmerkki | Team Spirit (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_spir_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5096",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1044,6 +1124,7 @@
   "name": "Kangasmerkki | Astralis | Tukholma 2021",
   "code": "stockh2021_teampatch_astr",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5097",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1057,6 +1138,7 @@
   "name": "Kangasmerkki | Astralis (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_astr_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5098",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1070,6 +1152,7 @@
   "name": "Kangasmerkki | paiN Gaming | Tukholma 2021",
   "code": "stockh2021_teampatch_pain",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5099",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1083,6 +1166,7 @@
   "name": "Kangasmerkki | paiN Gaming (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_pain_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5100",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1096,6 +1180,7 @@
   "name": "Kangasmerkki | ENCE | Tukholma 2021",
   "code": "stockh2021_teampatch_ence",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5101",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1109,6 +1194,7 @@
   "name": "Kangasmerkki | ENCE (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_ence_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5102",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1122,6 +1208,7 @@
   "name": "Kangasmerkki | BIG | Tukholma 2021",
   "code": "stockh2021_teampatch_big",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5103",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1135,6 +1222,7 @@
   "name": "Kangasmerkki | BIG (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_big_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5104",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1148,6 +1236,7 @@
   "name": "Kangasmerkki | Movistar Riders | Tukholma 2021",
   "code": "stockh2021_teampatch_ride",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5105",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1161,6 +1250,7 @@
   "name": "Kangasmerkki | Movistar Riders (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_ride_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5106",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1174,6 +1264,7 @@
   "name": "Kangasmerkki | Heroic | Tukholma 2021",
   "code": "stockh2021_teampatch_hero",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5107",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1187,6 +1278,7 @@
   "name": "Kangasmerkki | Heroic (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_hero_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5108",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1200,6 +1292,7 @@
   "name": "Kangasmerkki | MOUZ | Tukholma 2021",
   "code": "stockh2021_teampatch_mouz",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5109",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1213,6 +1306,7 @@
   "name": "Kangasmerkki | MOUZ (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_mouz_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5110",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1226,6 +1320,7 @@
   "name": "Kangasmerkki | Sharks Esports | Tukholma 2021",
   "code": "stockh2021_teampatch_shrk",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5111",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1239,6 +1334,7 @@
   "name": "Kangasmerkki | Sharks Esports (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_shrk_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5112",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1252,6 +1348,7 @@
   "name": "Kangasmerkki | Tyloo | Tukholma 2021",
   "code": "stockh2021_teampatch_tyl",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5113",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1265,6 +1362,7 @@
   "name": "Kangasmerkki | Tyloo (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_tyl_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5114",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1278,6 +1376,7 @@
   "name": "Kangasmerkki | Renegades | Tukholma 2021",
   "code": "stockh2021_teampatch_ren",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5115",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1291,6 +1390,7 @@
   "name": "Kangasmerkki | Renegades (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_ren_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5116",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1304,6 +1404,7 @@
   "name": "Kangasmerkki | Entropiq | Tukholma 2021",
   "code": "stockh2021_teampatch_ent",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5117",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1317,6 +1418,7 @@
   "name": "Kangasmerkki | Entropiq (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_ent_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5118",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1330,6 +1432,7 @@
   "name": "Kangasmerkki | GODSENT | Tukholma 2021",
   "code": "stockh2021_teampatch_god",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5119",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1343,6 +1446,7 @@
   "name": "Kangasmerkki | GODSENT (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_god_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5120",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1356,6 +1460,7 @@
   "name": "Kangasmerkki | Virtus.Pro | Tukholma 2021",
   "code": "stockh2021_teampatch_vp",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5121",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1369,6 +1474,7 @@
   "name": "Kangasmerkki | Virtus.Pro (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_vp_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5122",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1382,6 +1488,7 @@
   "name": "Kangasmerkki | Copenhagen Flames | Tukholma 2021",
   "code": "stockh2021_teampatch_cope",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5123",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1395,6 +1502,7 @@
   "name": "Kangasmerkki | Copenhagen Flames (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_cope_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5124",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1408,6 +1516,7 @@
   "name": "Kangasmerkki | FaZe Clan | Tukholma 2021",
   "code": "stockh2021_teampatch_faze",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5125",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1421,6 +1530,7 @@
   "name": "Kangasmerkki | FaZe Clan (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_faze_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5126",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
@@ -1434,6 +1544,7 @@
   "name": "Kangasmerkki | PGL | Tukholma 2021",
   "code": "stockh2021_teampatch_pgl",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5127",
   "rarity": {
    "id": "rarity_rare",
    "name": "Korkean tason",
@@ -1447,6 +1558,7 @@
   "name": "Kangasmerkki | PGL (kulta) | Tukholma 2021",
   "code": "stockh2021_teampatch_pgl_gold",
   "description": "Voit käyttää kangasmerkin mihin tahansa omistamaasi agenttiin. Käytetty merkki voidaan poistaa, mutta se ei ole enää käytettävissä.",
+  "def_index": "5128",
   "rarity": {
    "id": "rarity_mythical",
    "name": "Huomattava",
