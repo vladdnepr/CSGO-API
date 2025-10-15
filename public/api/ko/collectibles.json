@@ -7793,9 +7793,9 @@
  },
  {
   "id": "collectible-5177",
-  "name": "Golden Map Coin",
+  "name": "골든 맵 주화",
   "code": "#CSGO_Collectible_MapTokenGolden",
-  "description": "Commemorates authorship of the CS2 Map 'Golden'",
+  "description": "CS2 '골든' 맵 제작자에게 수여되는 주화입니다.",
   "def_index": "5177",
   "rarity": {
    "id": "rarity_ancient",
@@ -7809,9 +7809,9 @@
  },
  {
   "id": "collectible-5178",
-  "name": "Rooftop Map Coin",
+  "name": "루프탑 맵 주화",
   "code": "#CSGO_Collectible_MapTokenRooftop",
-  "description": "Commemorates authorship of the CS2 Map 'Rooftop'",
+  "description": "CS2 '루프탑' 맵 제작자에게 수여되는 주화입니다.",
   "def_index": "5178",
   "rarity": {
    "id": "rarity_ancient",
@@ -7825,9 +7825,9 @@
  },
  {
   "id": "collectible-5179",
-  "name": "Palacio Map Coin",
+  "name": "팔라시오 맵 주화",
   "code": "#CSGO_Collectible_MapTokenPalacio",
-  "description": "Commemorates authorship of the CS2 Map 'Palacio'",
+  "description": "CS2 '팔라시오' 맵 제작자에게 수여되는 주화입니다.",
   "def_index": "5179",
   "rarity": {
    "id": "rarity_ancient",
@@ -7841,9 +7841,9 @@
  },
  {
   "id": "collectible-5180",
-  "name": "(Redacted) Map Coin",
+  "name": "제거된 맵 주화",
   "code": "#CSGO_Collectible_MapTokenTransit",
-  "description": "Commemorates authorship of the CS2 Map '(Redacted)'",
+  "description": "CS2 '(제거된 맵)' 제작자에게 수여되는 주화입니다.",
   "def_index": "5180",
   "rarity": {
    "id": "rarity_ancient",

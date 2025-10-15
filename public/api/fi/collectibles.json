@@ -7809,9 +7809,9 @@
  },
  {
   "id": "collectible-5178",
-  "name": "Rooftop Map Coin",
+  "name": "Rooftop-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenRooftop",
-  "description": "Commemorates authorship of the CS2 Map 'Rooftop'",
+  "description": "Muistona CS2:n Rooftop-kartan luomisesta.",
   "def_index": "5178",
   "rarity": {
    "id": "rarity_ancient",
@@ -7825,9 +7825,9 @@
  },
  {
   "id": "collectible-5179",
-  "name": "Palacio Map Coin",
+  "name": "Palacio-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenPalacio",
-  "description": "Commemorates authorship of the CS2 Map 'Palacio'",
+  "description": "Muistona CS2:n Palacio-kartan luomisesta.",
   "def_index": "5179",
   "rarity": {
    "id": "rarity_ancient",
@@ -7841,9 +7841,9 @@
  },
  {
   "id": "collectible-5180",
-  "name": "(Redacted) Map Coin",
+  "name": "(Redacted)-karttakolikko",
   "code": "#CSGO_Collectible_MapTokenTransit",
-  "description": "Commemorates authorship of the CS2 Map '(Redacted)'",
+  "description": "Muistona CS2:n (Redacted)-kartan luomisesta.",
   "def_index": "5180",
   "rarity": {
    "id": "rarity_ancient",
