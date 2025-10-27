@@ -1,0 +1,471 @@
+[
+ {
+  "id": "base_weapon-weapon_deagle",
+  "name": "Пустельний орел",
+  "description": "Такий же дорогий, як і потужний, «Пустельний орел» — це знаковий пістолет, важкий для опанування, але на диво точний на дальніх дистанціях.",
+  "def_index": 1,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_deagle_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_elite",
+  "name": "Подвійні «Беретти»",
+  "description": "Вогонь одночасно з двох пістолетів «Беретта» з великим магазином зменшує точність та збільшує час заряджання. З іншого боку, ви можете стріляти одразу двома.",
+  "def_index": 2,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_elite_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_fiveseven",
+  "name": "Five-seveN",
+  "description": "Високоточний та бронебійний, дорогий Five-seveN заряджається повільно, однак це компенсується щедрим магазином на 20 патронів та несильною віддачею.",
+  "def_index": 3,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_fiveseven_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_glock",
+  "name": "Ґлок-18",
+  "description": "Пістолет «Ґлок-18» підійде для першого раунду. Він може стріляти серіями з трьох пострілів і буде найбільш ефективним проти суперників без бронежилета.",
+  "def_index": 4,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_glock_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_ak47",
+  "name": "АК-47",
+  "description": "Потужний і надійний, автомат Калашникова — один із найпопулярніших у світі. Найсмертельніший під час стрільби короткими прицільними серіями.",
+  "def_index": 7,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_ak47_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_aug",
+  "name": "АУГ",
+  "description": "Потужна і точна гвинтівка з оптичним прицілом АУГ компенсує своє тривале перезаряджання низьким відхиленням куль та високою швидкістю стрільби.",
+  "def_index": 8,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_aug_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_awp",
+  "name": "АВП",
+  "description": "Високі ризики й висока нагорода — сумно відома снайперська гвинтівка АВП легко впізнається за характерним звуком та принципом «один постріл, один труп».",
+  "def_index": 9,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_awp_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_famas",
+  "name": "ФАМАС",
+  "description": "Дешевий варіант для небагатих гравців, ФАМАС гарно заповнює нішу між дорожчими гвинтівками та менш ефективними пістолетами-кулеметами.",
+  "def_index": 10,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_famas_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_g3sg1",
+  "name": "Г3-СГ1",
+  "description": "Г3-СГ1 коштує багато грошей і значно знижує швидкість руху, але компенсує це більшою швидкострільністю, ніж у інших снайперських гвинтівок.",
+  "def_index": 11,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_g3sg1_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_galilar",
+  "name": "Ґаліл",
+  "description": "Найдешевший із-поміж доступних лише терористам автоматів, «Ґаліл» — це зручна зброя на середніх та великих дистанціях.",
+  "def_index": 13,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_galilar_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_m249",
+  "name": "М249",
+  "description": "Міцний кулемет М249 призначений для відкритого простору й ідеально підходить гравцям, які готові обміняти повільний темп вогню на підвищену влучність та місткий магазин.",
+  "def_index": 14,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_m249_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_m4a1",
+  "name": "М4А4",
+  "description": "Точніший, але й слабший конкурент AK-47. М4А4 — це повністю автоматична штурмова гвинтівка, якою користуються спецпризначенці.",
+  "def_index": 16,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_m4a1_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mac10",
+  "name": "МАК-10",
+  "description": "Пістолет-кулемет МАК-10 є, по суті, коробкою, з якої вилітають кулі. Він дуже швидкострільний, однак плата за це — низька точність та сильна віддача.",
+  "def_index": 17,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mac10_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_p90",
+  "name": "П90",
+  "description": "Легко впізнаваний за унікальним дизайном булпапа, П90 — це чудова зброя для стрільби в русі завдяки високій місткості магазина та малій віддачі.",
+  "def_index": 19,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_p90_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mp5sd",
+  "name": "МП5-СД",
+  "description": "Його часто імітували, але так і не змогли повторити. Легендарний МП5, імовірно, найбільш універсальний та популярний пістолет-кулемет у світі. Цей варіант має інтегрований глушник, що робить цю грізну зброю тихою, мов шепіт.",
+  "def_index": 23,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp5sd_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_ump45",
+  "name": "УМП-45",
+  "description": "Гидке каченя в родині пістолетів-кулеметів, УМП45, має єдиний недолік – невеликий магазин. Загалом же це чудова універсальна автоматична зброя для ближнього бою.",
+  "def_index": 24,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_ump45_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_xm1014",
+  "name": "М1014",
+  "description": "М1014 — потужна й повністю автоматична рушниця, що виправдовує свою чималу ціну можливістю швидко наповнити свинцем будь-яке приміщення.",
+  "def_index": 25,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_xm1014_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_bizon",
+  "name": "ПП «Бізон»",
+  "description": "Пістолет-кулемет «Бізон» завдає малих пошкоджень, але його особливістю є унікальний місткий барабанний магазин, що швидко перезаряджається.",
+  "def_index": 26,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_bizon_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mag7",
+  "name": "МАГ-7",
+  "description": "Ексклюзивний для спецпризначенців МАГ-7 завдає приголомшливих ушкоджень із близької відстані. Швидке перезаряджання магазина робить його чудовим тактичним вибором.",
+  "def_index": 27,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mag7_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_negev",
+  "name": "Неґев",
+  "description": "«Неґев» — це звір, що може утримувати ворога в укритті завдяки своєму точковому вогню на пригнічення. Звісно, якщо ви маєте достатньо часу, аби взяти його спершу неточну стрільбу під контроль.",
+  "def_index": 28,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_negev_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_sawedoff",
+  "name": "Обріз",
+  "description": "Класичний обріз завдає вкрай тяжких ушкоджень із близької відстані, однак стрільба з нього неточна й характеризується високим розсіюванням та низькою швидкострільністю. Тож вам краще швидше вбити те, у що ви поцілили.",
+  "def_index": 29,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_sawedoff_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_tec9",
+  "name": "ТЕК-9",
+  "description": "ТЕК-9 ідеально пасує терористам, які активно пересуваються. Він смертоносний у ближньому бою і має місткий магазин.",
+  "def_index": 30,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_tec9_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_taser",
+  "name": "Зевс 27",
+  "description": "Перезаряджуваний «Зевс 27» ідеальний для засідок із близької відстані та сутичок у закритому просторі. Він здатен нейтралізувати ворога одним розрядом.",
+  "def_index": 31,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_taser_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_hkp2000",
+  "name": "П2000",
+  "description": "Точний і передбачуваний, виготовлений у Німеччині пістолет П2000 надається в першому раунді. Найкраще застосовувати проти ворогів без бронезахисту.",
+  "def_index": 32,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_hkp2000_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mp7",
+  "name": "МП7",
+  "description": "Багатофункціональний, однак дорогий, німецький пістолет-кулемет МП7 — це найкращий вибір для активних сутичок на короткій дистанції.",
+  "def_index": 33,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp7_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_mp9",
+  "name": "МП9",
+  "description": "Вироблений у Швейцарії передовий пістолет-кулемет МП9 — це ергономічна полімерна зброя, яку полюбляють приватні охоронні фірми.",
+  "def_index": 34,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp9_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_nova",
+  "name": "Нова",
+  "description": "Бюджетність дробовика «Нова» робить його поширеним вибором небагатої команди для нападу із засідки.",
+  "def_index": 35,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_nova_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_p250",
+  "name": "П250",
+  "description": "Швидкострільний пістолет П250 має низьку віддачу і є відносно недорогим вибором проти захищених бронежилетами опонентів.",
+  "def_index": 36,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_p250_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_scar20",
+  "name": "СКАР-20",
+  "description": "СКАР-20 — напівавтоматична снайперська гвинтівка, що має високу швидкострільність та завдає значних ушкоджень на великих дистанціях. Однак вона дорога й суттєво знижує швидкість руху.",
+  "def_index": 38,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_scar20_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_sg556",
+  "name": "СГ 553",
+  "description": "Доступна лише терористам гвинтівка СГ 553 дорожча і краща за АК-47, а також має приціл для стрільби на далекі дистанції.",
+  "def_index": 39,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_sg556_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_ssg08",
+  "name": "ССГ 08",
+  "description": "ССГ 08 — це снайперська гвинтівка з рухомим затвором, котра не завдає великих ушкоджень, однак має прийнятну ціну. Вона є гарним вибором у перших раундах для влучного вогню з далекої дистанції.",
+  "def_index": 40,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_ssg08_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_knife",
+  "name": "Ніж",
+  "description": "Тихий і завжди доступний бойовий ніж має головну швидку атаку з невеликою кількістю ушкоджень і додаткову повільну з сильними пошкодженнями. Атака зі спини дозволить тихим гравцям миттєво вбити ворога.",
+  "def_index": 42,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_knife_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_flashbang",
+  "name": "Світлошумова граната",
+  "description": "Несмертельна світлошумова граната тимчасово засліплює будь-кого, хто опинився в зоні ураження, що робить її ідеальною для використання в замкненому просторі. Гучний вибух такої гранати також тимчасово маскує звук від ходіння.",
+  "def_index": 43,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_flashbang_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_hegrenade",
+  "name": "Осколкова граната",
+  "description": null,
+  "def_index": 44,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_hegrenade_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_smokegrenade",
+  "name": "Димова граната",
+  "description": null,
+  "def_index": 45,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_smokegrenade_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_molotov",
+  "name": "Коктейль Молотова",
+  "description": "Коктейль Молотова — це потужна і непередбачувана зброя, яка після падіння розливається полум’ям по невеликій території, вражаючи всіх гравців у своєму радіусі.",
+  "def_index": 46,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_molotov_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_decoy",
+  "name": "Імітаційна граната",
+  "description": null,
+  "def_index": 47,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_decoy_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_incgrenade",
+  "name": "Запалювальна граната",
+  "description": null,
+  "def_index": 48,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_incgrenade_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_c4",
+  "name": "Вибухівка",
+  "description": "Стабільний та стійкий до більшості механічних ударів, цей саморобний вибуховий пристрій після запалювання має швидкість детонації понад 8000 метрів за секунду.",
+  "def_index": 49,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnjqWwLvfOoavw8IvTCV2bEle1w6Lk-TSq2k0x25jiBzN_9dXqVaQ91W5AkW6dU5WnQha4l"
+ },
+ {
+  "id": "base_weapon-weapon_healthshot",
+  "name": "Лікувальна ін’єкція",
+  "description": null,
+  "def_index": 57,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_healthshot_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_knife_t",
+  "name": "Ніж",
+  "description": "Тихий і завжди доступний бойовий ніж має головну швидку атаку з невеликою кількістю ушкоджень і додаткову повільну з сильними пошкодженнями. Атака зі спини дозволить тихим гравцям миттєво вбити ворога.",
+  "def_index": 59,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_knife_t_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_m4a1_silencer",
+  "name": "М4А1-С",
+  "description": "З меншим магазином, аніж його аналог без глушника, безшумний карабін М4А1 забезпечує тиху стрільбу з меншою віддачею та вищою точністю.",
+  "def_index": 60,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_m4a1_silencer_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_usp_silencer",
+  "name": "УСП-С",
+  "description": "Улюбленець гравців у Counter-Strike: Source, беззвучний пістолет УСП має від’єднувальний глушник, який дозволяє здійснювати постріли з малою віддачею та без зайвого шуму.",
+  "def_index": 61,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_usp_silencer_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_cz75a",
+  "name": "ЧЗ-75 авто",
+  "description": "Ця автоматична версія ЧЗ-75 — ідеальний недорогий вибір для тих, хто збирається використовувати зброю загиблих ворогів. Однак через малу кількість набоїв вам доведеться стежити за кожним своїм пострілом.",
+  "def_index": 63,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_cz75a_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_revolver",
+  "name": "Револьвер Р8",
+  "description": "Револьвер Р8 стріляє дуже точно та сильно, але сумнозвісний він своїм повільним спусковим гачком. Якщо ворог близько — бийте по гачку якомога швидше.",
+  "def_index": 64,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_revolver_png.png"
+ },
+ {
+  "id": "base_weapon-weapon_bayonet",
+  "name": "Штик-ніж",
+  "description": "Його дизайн суттєво не змінювався з часів Другої світової війни, але штик-ніж усе ще зберігає місце в сучасній військовій стратегії. Він лишався ефективним у нещодавніх війнах у Перській затоці та Афганістані.",
+  "def_index": 500,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKni_DtU4fe6Jv07IfTDDT_JkL4htLI7HCvmwE9z42_Vzov4ci2Wa1IgWMN3R7IMuxCm0oqwYUAZNBA"
+ },
+ {
+  "id": "base_weapon-weapon_knife_css",
+  "name": "Класичний ніж",
+  "description": "Класика серії ігор Counter-Strike. Край цього ножа — пресований стеліт, який чудово тримається завдяки гармонійному поєднанню з титаном на боці та вигині леза. Рукоятка створена зі скам’янілої кістки мамонта і тримається в кишені з вуглецевого волокна.",
+  "def_index": 503,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2te7cjd6HHXmHBxep157VtTi_rzUR-5WiHnt39c3_EZg4pW5UjQOZbsBCxw8qnab32FBG7RA"
+ },
+ {
+  "id": "base_weapon-weapon_knife_flip",
+  "name": "Складаний ніж",
+  "description": null,
+  "def_index": 505,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oZK19bqjKVjbDkbtwtbU4S3jhwElw4DvVzomhd3_CblV1CZd2TO5f4RG4lID5d7S15Y9TpQQ"
+ },
+ {
+  "id": "base_weapon-weapon_knife_gut",
+  "name": "Білувальний ніж",
+  "description": null,
+  "def_index": 506,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pfbAjd6TAXDSSkeh3trdtTCy1zUV2t2vTyoyrIHzDalAgCsN1ROcO40O6wMqnab0rKy1qHw"
+ },
+ {
+  "id": "base_weapon-weapon_knife_karambit",
+  "name": "Керамбіт",
+  "description": "Керамбіт — ніж із вигнутим клинком, що нагадує пазур тигра. Розроблений як частина бойового мистецтва сілат, що розповсюджене в південно-східній Азії. Зазвичай ніж тримають зворотною хваткою, просовуючи вказівний палець у спеціальне кільце на руків’ї.",
+  "def_index": 507,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2labZsLfKaGinEx-0u5LhqGHrjlElz52jRmN2sd3yfb1NzWZVwRbNeu0S5k9WxMuvh-UWA3ObnwJvj"
+ },
+ {
+  "id": "base_weapon-weapon_knife_m9_bayonet",
+  "name": "Штик-ніж М9",
+  "description": "Це американський штик-ніж М9. Спершу призначався для встановлення на гвинтівці, але добре підходить і для ближнього бою.",
+  "def_index": 508,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2jMZtvIemcAGKEj7ojtOIwSnrrkEt25WiEw438cXuUaQB0WcBxFrUItxa6lNezMOKzsVPAy9USYWigJ8Q"
+ },
+ {
+  "id": "base_weapon-weapon_knife_tactical",
+  "name": "Мисливський ніж",
+  "description": "Ніж, створений для сучасних тактичних вимог, лезо якого гарно підходить і для бойових, і для практичних потреб. Унікальний наконечник у стилі меча танто дає можливість здійснювати максимальне проникнення навіть крізь найміцніші поверхні.",
+  "def_index": 509,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s26aad5KfOSAimVlugu47U5HSrmzEp14zncz4ygICiealIiAsF2EOdYtkTpwNXuYbjk-UWA3JpY_ZDP"
+ },
+ {
+  "id": "base_weapon-weapon_knife_falchion",
+  "name": "Ніж-фальшіон",
+  "description": "Цей ніж з оберненою кривизною обуха, сучасне переосмислення меча-фальшіона, має характерне загнуте вістря.",
+  "def_index": 512,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oaahuKPmcACmSlL4u5uVqG37klhh24DnUytaqJXKQbgcmX5RyF-4Puha8xofmZejg-UWA3FLkEz9H"
+ },
+ {
+  "id": "base_weapon-weapon_knife_survival_bowie",
+  "name": "Ніж Бові",
+  "description": "Цей цілісний зазубрений ніж Бові створений для виживання у важких екстремальних умовах.",
+  "def_index": 514,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fbZ7KeaSAliSzvl_ta88TX61xExyt2nTz9eveHjEPQRzXMcjFuYIuhHtkIKyNLnmtACLg4sX02yg2XbF4Kcv"
+ },
+ {
+  "id": "base_weapon-weapon_knife_butterfly",
+  "name": "Балісонг",
+  "description": "Це спеціально розроблений балісонг, також відомий як ніж-метелик. Визначальною характеристикою цієї зброї є легке розкриття вільного в обертанні леза віялоподібним рухом, що дозволяє швидко оголити та приховати лезо. Через це ножі-метелики заборонені законами багатьох країн.",
+  "def_index": 515,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2sfbB5JeKVAn7elO8l6LRoF3_hzBsmtWSDzt-rcy3BP1AnXsR4FOJZskG6xtDkM7627xue1dy94mNpNQ"
+ },
+ {
+  "id": "base_weapon-weapon_knife_push",
+  "name": "Тіньові ножі",
+  "description": "Створені ефективними та брутальними, адже завдавати ударів такими ножами просто як кулаками.",
+  "def_index": 516,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2-fbdlbvXKWWXIlbh15bdrTnvmwkt34z_Qz46hdnjFbAIkCJdzR-Zctxi5kNb5d7S1mgn3amY"
+ },
+ {
+  "id": "base_weapon-weapon_knife_cord",
+  "name": "Тактичний ніж",
+  "description": "Цей ніж для виживання із зафіксованим лезом створений, щоби слугувати як зброєю, так і інструментом, як-от для встановлення пасток, полювання на тварин чи обтинання листя. Руків’я обгорнене довгим універсальним паракордом.",
+  "def_index": 517,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2tZ7ZpbqWRXmWTmbsm5bU5TXu3lkR_5j_Swor8JC_BPFVxWJd1FuID4RW7w9b5d7S1z-U4Rao"
+ },
+ {
+  "id": "base_weapon-weapon_knife_canis",
+  "name": "Ніж для виживання",
+  "description": "Цей універсальний тактичний ніж має зубчатий край для розрізання грубих матеріалів, як-от кістка чи волокно, а також гострий гак для патрання. Композитний матеріал руків’я прикріплений до леза шестигранними гайками.",
+  "def_index": 518,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2taapkM77CDzbIlrsms-NsHHGxzUwj5G6En4yuIy_BbQAjC5VxQLRc5hm8x4HvKaq8sEukLuHu"
+ },
+ {
+  "id": "base_weapon-weapon_knife_ursus",
+  "name": "Ведмежий ніж",
+  "description": "Тантоподібний ніж для виживання має грановане лезо, широкий хвостовик, а також руків’я для завдання ударів. Немає зайвих дрібниць, немає рухомих частин – просто надійне лезо, готове до роботи.",
+  "def_index": 519,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s27erd4M77AXWWWx7h3tOA5SyvilEkj5WuGw42qc3zEOg4iDJEjQu9b4xa6w4DgKaq8sDVgNcPY"
+ },
+ {
+  "id": "base_weapon-weapon_knife_gypsy_jackknife",
+  "name": "Наваха",
+  "description": "Цей складаний ніж з емальованою ручкою приховує маленьке, але смертельно загострене лезо.",
+  "def_index": 520,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pcbR-Oc-ZD2SbyuB_tuQnGXu1kBxw62_dwtird3qXZwQgXJV0E-4PtESxl4ezYr6x4FaMjI4UyzK-0H1iy36efQ"
+ },
+ {
+  "id": "base_weapon-weapon_knife_outdoor",
+  "name": "Польовий ніж",
+  "description": "Цей ергономічний тактичний мисливський ніж із зафіксованим лезом має композитне руків’я, що вставлене в широке й міцне лезо, зручне для розрізання та проштрикування.",
+  "def_index": 521,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2hfbBpL_-BQDPEw-hz57cxTnCxkEh_5jnVzor8dymXbgAiAsFyEOEMsBW8l9O1Ne38p1uJmh0Kkm0"
+ },
+ {
+  "id": "base_weapon-weapon_knife_stiletto",
+  "name": "Ніж-стилет",
+  "description": "Італійський ніж-стилет, який можна витягти практично миттєво завдяки пружинному механізму (просто натисніть кнопку фіксатора), став предметом багатьох дискусій, і він нерідко заборонявся.",
+  "def_index": 522,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fK1hJeSHASnCmO8v4bc_HCjilkkismTWyNutciqealMhDsR5F7MM4UWwlYC1Zr7n-UWA3E6ZCYCt"
+ },
+ {
+  "id": "base_weapon-weapon_knife_widowmaker",
+  "name": "Ніж-кіготь",
+  "description": "Цей керамбіт із руків’ям зі слонової кістки має латунні заклепки та гострі, мов кігті, гребні, які ріжуть при входженні та розривають при виведенні леза.",
+  "def_index": 523,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s25YaBiN_2SBWKCj7ghsrRrTHDnzB8h4mTRw9iudC_DPFVyCsF3R-Zc4xK_ldXgNb7qsgDAy9USS1NPX9M"
+ },
+ {
+  "id": "base_weapon-weapon_knife_skeleton",
+  "name": "Скелетний ніж",
+  "description": "Обмотане скелетоподібне руків’я цього ножа забезпечує кращий хват. Отвір для пальця забезпечує стабільність і безпеку.",
+  "def_index": 525,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29Y6FhJeScACnDkL8j6LU8GS3mwUh24G-Bno2tIymeblMgC5R3F-ECsBK6k4XuN-Lh-UWA3P3GyEv9"
+ },
+ {
+  "id": "base_weapon-weapon_knife_kukri",
+  "name": "Ніж кукрі",
+  "description": "Використовується в традиційних обрядах, як-от весілля чи вбивство.",
+  "def_index": 526,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2lfa9_Kb6VXmPGwuogsbNvSyi3zR4jsTnQztyqdS6QP1IoXpoiEeAC5Be5l9CxKaq8sIvgdE5J"
+ },
+ {
+  "id": "base_weapon-t_gloves",
+  "name": "Стандартні рукавиці терористів",
+  "description": "<i>«Ніколи не бійтеся забруднити руки в крові» — Валерія Дженнер, революціонерка</i>",
+  "def_index": 5028,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/t_gloves_png.png"
+ },
+ {
+  "id": "base_weapon-ct_gloves",
+  "name": "Стандартні рукавиці спецпризначенців",
+  "description": "Тактичні бойові рукавиці загального призначення, розроблені для військових та охоронного персоналу.",
+  "def_index": 5029,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/ct_gloves_png.png"
+ }
+]
