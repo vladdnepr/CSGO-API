@@ -34,16 +34,16 @@ export const LANGUAGES_URL = [
     //     folder: "pt-BR",
     //     url: getLanguageUrl("brazilian"),
     // },
-    // {
-    //     language: "russian",
-    //     folder: "ru",
-    //     url: getLanguageUrl("russian"),
-    // },
-    // {
-    //     language: "spanish",
-    //     folder: "es-ES",
-    //     url: getLanguageUrl("spanish"),
-    // },
+    {
+        language: "russian",
+        folder: "ru",
+        url: getLanguageUrl("russian"),
+    },
+    {
+        language: "spanish",
+        folder: "es-ES",
+        url: getLanguageUrl("spanish"),
+    },
     // {
     //     language: "bulgarian",
     //     folder: "bg",
@@ -69,16 +69,16 @@ export const LANGUAGES_URL = [
     //     folder: "fi",
     //     url: getLanguageUrl("finnish"),
     // },
-    // {
-    //     language: "french",
-    //     folder: "fr",
-    //     url: getLanguageUrl("french"),
-    // },
-    // {
-    //     language: "german",
-    //     folder: "de",
-    //     url: getLanguageUrl("german"),
-    // },
+    {
+        language: "french",
+        folder: "fr",
+        url: getLanguageUrl("french"),
+    },
+    {
+        language: "german",
+        folder: "de",
+        url: getLanguageUrl("german"),
+    },
     // {
     //     language: "greek",
     //     folder: "el",
@@ -89,11 +89,11 @@ export const LANGUAGES_URL = [
     //     folder: "hu",
     //     url: getLanguageUrl("hungarian"),
     // },
-    // {
-    //     language: "italian",
-    //     folder: "it",
-    //     url: getLanguageUrl("italian"),
-    // },
+    {
+        language: "italian",
+        folder: "it",
+        url: getLanguageUrl("italian"),
+    },
     // {
     //     language: "japanese",
     //     folder: "ja",
@@ -124,16 +124,16 @@ export const LANGUAGES_URL = [
     //     folder: "pirate",
     //     url: getLanguageUrl("pirate"),
     //   },
-    // {
-    //     language: "polish",
-    //     folder: "pl",
-    //     url: getLanguageUrl("polish"),
-    // },
-    // {
-    //     language: "portuguese",
-    //     folder: "pt-PT",
-    //     url: getLanguageUrl("portuguese"),
-    // },
+    {
+        language: "polish",
+        folder: "pl",
+        url: getLanguageUrl("polish"),
+    },
+    {
+        language: "portuguese",
+        folder: "pt-PT",
+        url: getLanguageUrl("portuguese"),
+    },
     // {
     //     language: "romanian",
     //     folder: "ro",
@@ -159,16 +159,16 @@ export const LANGUAGES_URL = [
     //     folder: "th",
     //     url: getLanguageUrl("thai"),
     // },
-    // {
-    //     language: "turkish",
-    //     folder: "tr",
-    //     url: getLanguageUrl("turkish"),
-    // },
-    // {
-    //     language: "ukrainian",
-    //     folder: "uk",
-    //     url: getLanguageUrl("ukrainian"),
-    // },
+    {
+        language: "turkish",
+        folder: "tr",
+        url: getLanguageUrl("turkish"),
+    },
+    {
+        language: "ukrainian",
+        folder: "uk",
+        url: getLanguageUrl("ukrainian"),
+    },
     // {
     //     language: "vietnamese",
     //     folder: "vi",
