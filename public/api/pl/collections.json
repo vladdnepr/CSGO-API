@@ -16625,12 +16625,12 @@
  },
  {
   "id": "collection-set-timed-drops-achroma",
-  "name": "The Achroma Collection",
+  "name": "Kolekcja Achromatyczności",
   "crates": [],
   "contains": [
    {
     "id": "skin-fd612b65c748",
-    "name": "MP9 | Dizzy",
+    "name": "MP9 | Skołowany",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -16652,7 +16652,7 @@
    },
    {
     "id": "skin-6e77ad6f522c",
-    "name": "Dwie beretty | Silver Pour",
+    "name": "Dwie beretty | Srebrna dolewka",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -16674,7 +16674,7 @@
    },
    {
     "id": "skin-493c652caf29",
-    "name": "SCAR-20 | Zinc",
+    "name": "SCAR-20 | Ocynk",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -16685,7 +16685,7 @@
    },
    {
     "id": "skin-81cd69f7a061",
-    "name": "M249 | Sleet",
+    "name": "M249 | Gołoledź",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -16696,7 +16696,7 @@
    },
    {
     "id": "skin-1f71b62e4990",
-    "name": "P250 | Sleet",
+    "name": "P250 | Gołoledź",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -16707,7 +16707,7 @@
    },
    {
     "id": "skin-18a19585ed8f",
-    "name": "Nova | Currents",
+    "name": "Nova | Prądy",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -16718,7 +16718,7 @@
    },
    {
     "id": "skin-d269db65b6ea",
-    "name": "MAC-10 | Snow Splash",
+    "name": "MAC-10 | Podmuch śniegu",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "przemysłowej jakości",
@@ -16729,7 +16729,7 @@
    },
    {
     "id": "skin-2787809612be",
-    "name": "MP5-SD | Snow Splash",
+    "name": "MP5-SD | Podmuch śniegu",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "przemysłowej jakości",
@@ -16740,7 +16740,7 @@
    },
    {
     "id": "skin-7f85393d2fb1",
-    "name": "FAMAS | Vendetta",
+    "name": "FAMAS | Wendeta",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "przemysłowej jakości",
@@ -16751,7 +16751,7 @@
    },
    {
     "id": "skin-9449a702cb3c",
-    "name": "M4A4 | Aeolian Dark",
+    "name": "M4A4 | Eolski mrok",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "przemysłowej jakości",
@@ -16762,7 +16762,7 @@
    },
    {
     "id": "skin-f41134aec544",
-    "name": "Rewolwer R8 | Dark Chamber",
+    "name": "Rewolwer R8 | Mroczna komnata",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "przemysłowej jakości",
@@ -16773,7 +16773,7 @@
    },
    {
     "id": "skin-784a6c99447c",
-    "name": "AUG | Creep",
+    "name": "AUG | Pełzacz",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "wojskowej jakości",
@@ -16784,7 +16784,7 @@
    },
    {
     "id": "skin-59aaabe308c8",
-    "name": "P90 | Aeolian Light",
+    "name": "P90 | Eolskie światło",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "wojskowej jakości",
@@ -16795,7 +16795,7 @@
    },
    {
     "id": "skin-442d3266f2ac",
-    "name": "Desert Eagle | The Daily Deagle",
+    "name": "Desert Eagle | Deagle Codzienny",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "wojskowej jakości",
@@ -16806,7 +16806,7 @@
    },
    {
     "id": "skin-a5639c9731c1",
-    "name": "P2000 | Grip Tape",
+    "name": "P2000 | Taśma antypoślizgowa",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "wojskowej jakości",
@@ -16817,7 +16817,7 @@
    },
    {
     "id": "skin-a92d1a70ebc1",
-    "name": "AK-47 | Breakthrough",
+    "name": "AK-47 | Przełom",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "spoza obiegu",
@@ -16828,7 +16828,7 @@
    },
    {
     "id": "skin-9eb900056828",
-    "name": "Glock-18 | Trace Lock",
+    "name": "Glock-18 | Odrys celu",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "spoza obiegu",
@@ -16839,7 +16839,7 @@
    },
    {
     "id": "skin-76f19247a21d",
-    "name": "AWP | The End",
+    "name": "AWP | Koniec",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "klasy „poufne”",
@@ -17177,12 +17177,12 @@
  },
  {
   "id": "collection-set-timed-drops-exuberant",
-  "name": "The Harlequin Collection",
+  "name": "Kolekcja Harlekina",
   "crates": [],
   "contains": [
    {
     "id": "skin-9a7b0a3e260f",
-    "name": "SG 553 | Safari Print",
+    "name": "SG 553 | Nadruk safari",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -17193,7 +17193,7 @@
    },
    {
     "id": "skin-f9f850e1e389",
-    "name": "FAMAS | Byproduct",
+    "name": "FAMAS | Produkt uboczny",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -17204,7 +17204,7 @@
    },
    {
     "id": "skin-8ac8f9231892",
-    "name": "PP-Bizon | Thermal Currents",
+    "name": "PP-Bizon | Prądy termiczne",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -17215,7 +17215,7 @@
    },
    {
     "id": "skin-0b2ec5b2c5ef",
-    "name": "Obrzyn | Crimson Batik",
+    "name": "Obrzyn | Szkarłatny batik",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -17226,7 +17226,7 @@
    },
    {
     "id": "skin-56333a38bf41",
-    "name": "CZ75-Auto | Honey Paisley",
+    "name": "CZ75-Auto | Miodowa bandana",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -17237,7 +17237,7 @@
    },
    {
     "id": "skin-2f4f4e0aaa4e",
-    "name": "Rewolwer R8 | Mauve Aside",
+    "name": "Rewolwer R8 | Lilaróż się z drogi",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -17248,7 +17248,7 @@
    },
    {
     "id": "skin-07db077aad75",
-    "name": "MP9 | Bee-Tron",
+    "name": "MP9 | Pszczołotron",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "konsumenckiej jakości",
@@ -17259,7 +17259,7 @@
    },
    {
     "id": "skin-33edc6632c92",
-    "name": "MP7 | Coral Paisley",
+    "name": "MP7 | Koralowa bandana",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "przemysłowej jakości",
@@ -17270,7 +17270,7 @@
    },
    {
     "id": "skin-105633b3f165",
-    "name": "MP5-SD | Picnic",
+    "name": "MP5-SD | Piknik",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "przemysłowej jakości",
@@ -17281,7 +17281,7 @@
    },
    {
     "id": "skin-25af68e7c19c",
-    "name": "Tec-9 | Banana Leaf",
+    "name": "Tec-9 | Liście bananowca",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "przemysłowej jakości",
@@ -17303,7 +17303,7 @@
    },
    {
     "id": "skin-2efacc35df16",
-    "name": "SSG 08 | Calligrafaux",
+    "name": "SSG 08 | Kaligrafaux",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "przemysłowej jakości",
@@ -17314,7 +17314,7 @@
    },
    {
     "id": "skin-49296f9e5232",
-    "name": "Galil AR | Sky Mandala",
+    "name": "Galil AR | Podniebna mandala",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "wojskowej jakości",
@@ -17325,7 +17325,7 @@
    },
    {
     "id": "skin-37ac474a54e4",
-    "name": "UMP-45 | Warm Blooded",
+    "name": "UMP-45 | Ciepłokrwisty",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "wojskowej jakości",
@@ -17336,7 +17336,7 @@
    },
    {
     "id": "skin-0843472a9098",
-    "name": "Zeus x27 | Earth Mandala",
+    "name": "Zeus x27 | Naziemna mandala",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "wojskowej jakości",
@@ -17347,7 +17347,7 @@
    },
    {
     "id": "skin-6f23920b8406",
-    "name": "Five-SeveN | Fraise Crane",
+    "name": "Five-SeveN | Truskawkowy żuraw",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "wojskowej jakości",
@@ -17358,7 +17358,7 @@
    },
    {
     "id": "skin-d384f428d432",
-    "name": "AWP | Exothermic",
+    "name": "AWP | Egzotermia",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "spoza obiegu",
@@ -17369,7 +17369,7 @@
    },
    {
     "id": "skin-a060f0657eb4",
-    "name": "USP-S | Sleeping Potion",
+    "name": "USP-S | Eliksir usypiający",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "spoza obiegu",
@@ -17380,7 +17380,7 @@
    },
    {
     "id": "skin-bc5a36f177b0",
-    "name": "M4A1-S | Party Animal",
+    "name": "M4A1-S | Dziki imprezowicz",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "klasy „poufne”",
@@ -18286,7 +18286,7 @@
    },
    {
     "id": "skin-9197715f9f3f",
-    "name": "AK-47 | Aphrodite",
+    "name": "AK-47 | Afrodyta",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "klasy „tajne”",
